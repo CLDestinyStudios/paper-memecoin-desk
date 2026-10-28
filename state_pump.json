@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 190.31529588558632,
+ "cash": 178.53529588558632,
  "positions": {
   "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump": {
    "sym": "ENGRAM",
@@ -13,10 +13,38 @@
    "entry_px": 1.115063326903603e-07,
    "entry_fill": 1.1876093981387016e-07,
    "opened": 1793217419.2877114,
-   "last_px": 1.2075899479855972e-07,
-   "peak_px": 1.324432679737507e-07,
-   "last_val": 5.676049328236447,
-   "last_prog": 0.702
+   "last_px": 1.3461249999231368e-07,
+   "peak_px": 1.3461249999231368e-07,
+   "last_val": 6.333943204749515,
+   "last_prog": 0.736
+  },
+  "8BETaz1rkbxJkDXMCCYSFUkKs7QPxCqpnzDMcRFXpump": {
+   "sym": "ANTI",
+   "bc": "5qPpoq7eByDneC2rDRrH3WaKLxRLQ9UdSPHd2W4Up6jj",
+   "tokens": 1014435.5091318511,
+   "cost": 5.9,
+   "cost0": 5.9,
+   "entry_px": 5.304809280916838e-08,
+   "entry_fill": 5.6526800134830026e-08,
+   "opened": 1793217597.1039584,
+   "last_px": 5.304809280916838e-08,
+   "peak_px": 5.304809280916838e-08,
+   "last_val": 5.190718040847864,
+   "last_prog": 0.371
+  },
+  "D7NwUvwe8ryrLq5cn3zqoA2GJw9AyVCCYz1GshVaSXbY": {
+   "sym": "Chameleon",
+   "bc": "Ev91AvMMoorjMg1YWCFiYWjwE8ikGnxa1QzBy6RHk5J2",
+   "tokens": 1508781.0834033967,
+   "cost": 5.88,
+   "cost0": 5.88,
+   "entry_px": 3.553465508997103e-08,
+   "entry_fill": 3.787720535001468e-08,
+   "opened": 1793217599.401757,
+   "last_px": 3.553465508997103e-08,
+   "peak_px": 3.553465508997103e-08,
+   "last_val": 5.169774226633668,
+   "last_prog": 0.153
   }
  },
  "traded": [
@@ -165,7 +193,9 @@
   "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
   "j96CRzF6axWNUtq2sSWq8JJpNiF27MStWctU4R1pump",
   "8SjDneshQiKtSPK3p3K5jwWX3r9mhGBRix33nUpFpump",
-  "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump"
+  "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump",
+  "8BETaz1rkbxJkDXMCCYSFUkKs7QPxCqpnzDMcRFXpump",
+  "D7NwUvwe8ryrLq5cn3zqoA2GJw9AyVCCYz1GshVaSXbY"
  ],
  "equity": [
   [
@@ -2299,82 +2329,86 @@
   [
    "2026-10-28T12:59:12",
    195.99
+  ],
+  [
+   "2026-10-28T12:59:59",
+   195.23
   ]
  ],
- "cycles": 626,
+ "cycles": 627,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.870980813,
- "watching": 262,
+ "sol_usd": 102.89,
+ "watching": 296,
  "near": [
   [
    "nilly",
    "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
-   0.951,
-   6.8,
+   0.96,
+   7.6,
    ""
   ],
   [
    "thesis",
    "6iYULxc5SKCrco5kKKP54HNGDDUEsexWRGupTWYopump",
-   0.809,
-   6.5,
+   0.843,
+   7.3,
    ""
   ],
   [
    "UTOPIA",
    "DZ57fLucgNuwDmcznMFgHKdLRhFhvSwcesBtwGHZpump",
-   0.748,
-   4.5,
+   0.75,
+   5.3,
    "launch_slot=missing"
   ],
   [
-   "Biscuit",
-   "96BsXrtCC7Q3AzqAeWCcR4Dc9QZkpfawr1iDu3LMpump",
-   0.09,
-   4.4,
+   "ANTI",
+   "8BETaz1rkbxJkDXMCCYSFUkKs7QPxCqpnzDMcRFXpump",
+   0.371,
+   2.8,
+   "bought"
+  ],
+  [
+   "XIAOHAN",
+   "2HnfuyETmESzU7DfiGCvKgJTCutMMUpAY6AP43Qnpump",
+   0.212,
+   3.0,
    ""
   ],
   [
-   "Exilecat",
-   "3AbCsTiSJBkoG29oUf1e72JGMn5pxTptNPrMFCmipump",
-   0.084,
-   4.9,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "SORRY ",
-   "HkMDiFM3HwnXANei9eTM7ZQwFhkvg4jfBnTq3zpfpump",
-   0.084,
-   3.6,
-   ""
-  ],
-  [
-   "CHESS",
-   "H6dYtvgDrV114WncpiUmM7TY4btbYNnZN75rtnzLpump",
-   0.083,
-   3.1,
+   "GG",
+   "51FRCLwjmxdXSDncdqnyJZL1LYWcKt354sbShPwUpump",
+   0.209,
+   3.3,
    ""
   ],
   [
    "GODMODE",
    "GodmodehCNtRPaSrRWvTY9oK1nupeEF4UzcvCrDUCReK",
-   0.082,
-   2.9,
+   0.174,
+   3.7,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "CHESS",
-   "5Z7oLBdYRR6AL5eyYW1mRZFHTNXnoijhKt4KxYqG9ZGD",
-   0.08,
-   3.1,
-   "buyers=2; top5_hold_most=100%"
+   "Chameleon",
+   "D7NwUvwe8ryrLq5cn3zqoA2GJw9AyVCCYz1GshVaSXbY",
+   0.153,
+   2.4,
+   "bought"
   ],
   [
-   "negro",
-   "4v9WNUTUHeP6B3XYsG2qHqkSEqLveDu8jC9xeSDdVTuR",
-   0.077,
-   8.5,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   "Riku",
+   "8BzNZ31ypZxWv6F2AKKmA7NxnCfVn5AhkxU2yGM4pump",
+   0.117,
+   2.8,
+   ""
+  ],
+  [
+   "nigga",
+   "4R2yzE69c3K5dzNbAe73oPBvC9yUh7ttYNE4iGXrpump",
+   0.104,
+   3.0,
+   ""
   ]
  ]
 }
