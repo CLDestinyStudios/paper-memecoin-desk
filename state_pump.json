@@ -15,7 +15,7 @@
    "opened": 1793193380.9350216,
    "last_px": 1.0496289845190661e-07,
    "peak_px": 1.0633252634561577e-07,
-   "last_val": 13.337087027439669,
+   "last_val": 13.33668637695401,
    "last_prog": 0.655
   }
  },
@@ -950,82 +950,86 @@
   [
    "2026-10-28T06:38:14",
    364.95
+  ],
+  [
+   "2026-10-28T06:39:11",
+   364.95
   ]
  ],
- "cycles": 273,
+ "cycles": 274,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.44,
- "watching": 244,
+ "sol_usd": 101.43695270899998,
+ "watching": 250,
  "near": [
+  [
+   "\u3042\u3093\u3061\u3083",
+   "3cTU82maUkeiY86QBs2UFzMerpc3kLyyBWZkvcEppump",
+   0.836,
+   2.5,
+   ""
+  ],
+  [
+   "OPENPUMP",
+   "72KTne4FjHhzsu2Gw3i62ncjWdGrvsTykiMniBcxpump",
+   0.796,
+   2.4,
+   ""
+  ],
   [
    "EFP",
    "FdCqrZK5FHGZKhay9amVoFKFUreJUbypgiwXH94tpump",
    0.758,
-   5.8,
+   6.8,
    ""
   ],
   [
-   "Sakura",
-   "4dvpWtTVX3JBtkzynxRrk8GaRSufJAv6f17SBAi2XXJh",
-   0.121,
-   9.5,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "FOMO",
+   "FZKaTPPk7bLSZPWmnT8s63xxYGLuqMAMHXZBzWmApump",
+   0.347,
+   2.8,
+   ""
   ],
   [
-   "good",
-   "A7AtqFvvBD9MfWqwvGAcih5SAtL6N7GpXqrQ73RqMXVC",
-   0.09,
-   2.5,
+   "EMPTY",
+   "DfrbbbestAsxLRpuGY4xPRwAi8VWmocEgqbd5u7zpump",
+   0.132,
+   2.4,
    ""
   ],
   [
    "GOOD",
    "Hffv39xxZhyLznu5x2TmLKK7EZ1UP15ptDCqk3E7pump",
    0.087,
-   2.5,
+   3.4,
    ""
   ],
   [
    "TRNDST",
    "CHUUxtUBBexj6ZctJX7zg3E72kpnWcqGn5Lbzsxppump",
    0.082,
-   5.3,
+   6.3,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ECONOMIST",
+   "9XeCacitaZ9FNvjgJyx5iZhterpmqCDw3MZNkxJKpump",
+   0.08,
+   2.6,
+   "buyers=8; top5_hold_most=96%"
+  ],
+  [
+   "Anna",
+   "GR9EkxrHLRqJG6B1E3jBKusXPT6qGSvDvh4Fg7tQpump",
+   0.08,
+   3.1,
+   ""
   ],
   [
    "ALIZ",
    "7pUJ5CYKrLEq7QhTbhHriQXKdBRJrwpZRumMMp5xpump",
    0.079,
-   5.7,
+   6.7,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "gud",
-   "DU7dkE1WrEyBP5zXMRpDhuk115B7nEguzjua2UnApump",
-   0.072,
-   2.3,
-   ""
-  ],
-  [
-   "ZENO",
-   "BXQxphAib2QS65LDokjrSeVdgo4HkZK3MkaczMiWpump",
-   0.065,
-   7.0,
-   ""
-  ],
-  [
-   "MAX",
-   "8s6LedrCTRxxqAtnaoPuiiepa4sWTJ2BKDhFe2ULCwY1",
-   0.064,
-   8.7,
-   ""
-  ],
-  [
-   "FOMO",
-   "4mjc5HVHHCntgFNZWkY1dSCCqXVsrJPUQm3NgqkHpump",
-   0.063,
-   5.5,
-   ""
   ]
  ]
 }
