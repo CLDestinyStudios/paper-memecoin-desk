@@ -13,10 +13,10 @@
    "entry_px": 3.763581953619287e-08,
    "entry_fill": 4.003849557195647e-08,
    "opened": 1793209325.6090865,
-   "last_px": 3.4173654519160365e-08,
+   "last_px": 3.3812491960760884e-08,
    "peak_px": 4.23941443437437e-08,
-   "last_val": 6.579368235473693,
-   "last_prog": 0.129
+   "last_val": 6.510942993016944,
+   "last_prog": 0.123
   }
  },
  "traded": [
@@ -1753,82 +1753,86 @@
   [
    "2026-10-28T10:50:57",
    267.21
+  ],
+  [
+   "2026-10-28T10:51:57",
+   267.14
   ]
  ],
- "cycles": 498,
+ "cycles": 499,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.66,
- "watching": 274,
+ "sol_usd": 101.68457536349999,
+ "watching": 308,
  "near": [
   [
    "SQUADMARKET",
    "7ARKHxAxxB2S2xRGvgGNTdYs4g5sJL8WPSRasMNmpump",
-   0.863,
-   7.7,
+   0.811,
+   8.7,
    ""
   ],
   [
    "kumar",
    "HhgXBsHCFKWUGhGeaGfej1mjbCSm8zBAj86LHqkCpump",
    0.8,
-   6.1,
-   ""
-  ],
-  [
-   "DOGY",
-   "45sCEXEx5TM9LfYgjANaxau34xg9txeyfuyUWUPkpump",
-   0.438,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "MUKA",
-   "3spphvNY71iYH6rbWnFGwC5huXttVj3JgquXCtvLpump",
-   0.241,
-   3.3,
-   ""
-  ],
-  [
-   "MUKA",
-   "3ECb7vo9XWDwVdzBA8ANZu7MQ4eU2HNP1r6wu1NVpump",
-   0.209,
-   3.9,
+   7.1,
    ""
   ],
   [
    "SPONK",
    "7CVXt2RdUjMdUakQNgWxLdoJQdNTz6VEuHZH8LqJpNsh",
-   0.117,
-   4.7,
+   0.129,
+   5.7,
    ""
   ],
   [
+   "CELLS",
+   "FfD8MUzUJaVRbD2PGnhAD3te5nNeiapLZQSaoCa3pump",
+   0.116,
+   3.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "NOCLUT",
+   "Gq1oKJzDyvB5z2Uk8Ys9d5xZ5RUmZKbwHrcMfwkPpump",
+   0.116,
+   3.1,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
    "MUKA",
-   "4L5p3tqyXGTeQQmXH8WY8nZUtcdupw3Nj5XgQBBLpump",
-   0.111,
-   3.2,
+   "3ECb7vo9XWDwVdzBA8ANZu7MQ4eU2HNP1r6wu1NVpump",
+   0.104,
+   4.9,
    ""
   ],
   [
    "BURGER",
    "9DNTRhCaV2sagNLPLxVSyHvezjc7epkDcM1tCGiipump",
    0.093,
-   4.6,
+   5.6,
    ""
+  ],
+  [
+   "SCOUTZ",
+   "7VkzpFm9EDDMSp3ZWK8FoEiB74uKo9trVHY2GCnwpump",
+   0.091,
+   2.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SPONK",
    "HNjgxMPKvwU8XtJJA9eXJNDHGYQaSx22Nsucm1Fc2K2X",
    0.083,
-   5.2,
+   6.2,
    ""
   ],
   [
-   "CELLS",
-   "FfD8MUzUJaVRbD2PGnhAD3te5nNeiapLZQSaoCa3pump",
-   0.081,
-   2.7,
-   "buyers=2; top5_hold_most=100%"
+   "MUKA",
+   "DVRUugJ7Jxopqc7mAUzkBnw5MKTQ5HJqEM6PoGtdpump",
+   0.073,
+   2.8,
+   ""
   ]
  ]
 }
