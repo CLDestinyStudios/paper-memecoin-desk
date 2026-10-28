@@ -13,10 +13,10 @@
    "entry_px": 3.7849871412100766e-08,
    "entry_fill": 4.0228356509219336e-08,
    "opened": 1793185567.1038795,
-   "last_px": 3.7849871412100766e-08,
+   "last_px": 3.7288708926205484e-08,
    "peak_px": 3.7849871412100766e-08,
-   "last_val": 10.981837375656466,
-   "last_prog": 0.19
+   "last_val": 10.82384075893548,
+   "last_prog": 0.181
   }
  },
  "traded": [
@@ -333,81 +333,85 @@
   [
    "2026-10-28T04:06:07",
    412.29
+  ],
+  [
+   "2026-10-28T04:07:06",
+   412.13
   ]
  ],
- "cycles": 121,
+ "cycles": 122,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.52625671704594,
- "watching": 302,
+ "sol_usd": 102.57664731272443,
+ "watching": 303,
  "near": [
   [
-   "KNG22",
-   "H7KF7yPZbxp3f5nx9nbmdFDADmRfdSzwg8p9DBMrpump",
-   0.19,
-   2.0,
-   "bought"
+   "ROVO",
+   "98ykdwxiqeJRE7v1s6MwAdCGUbVXDsrazQaq1w4Jpump",
+   0.183,
+   5.4,
+   "buyers=8; top5_hold_most=87%"
   ],
   [
    "$N64",
    "H7VjniZYWXDxjyykCeJJ3otyYyczmGQJTVXPnn39pump",
    0.134,
-   5.3,
+   6.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "ALVIN",
-   "C1aNU5mvnNPn5EtHfycyuyWrPaomw2LrZXb4efeEpump",
-   0.111,
-   3.4,
+   "SIGN",
+   "3eouN9w1Arcv5ocntQw6LkYP9VjzthqH1wBET3agscDN",
+   0.124,
+   2.9,
    ""
   ],
   [
    "moginmu",
    "BA8W2VFrVoybGe427yggMdsW9ki1nPbppGRMhExKpump",
-   0.1,
-   7.9,
+   0.048,
+   8.9,
    "buyers=8; top5_hold_most=94%"
   ],
   [
-   "BARBIE",
-   "57UyzeyuXZdJngpuwWZm1oSUeEevZKU8An439cMJpump",
-   0.06,
-   5.9,
-   "buyers=2; top5_hold_most=100%"
+   "DOJO",
+   "CJxak5D1zK2tDQvbqXpP12HymbE8T2Tvhf8waSEKpump",
+   0.046,
+   2.5,
+   ""
   ],
   [
    "\u30de\u30e1",
    "2bjnX3XN3kk5HKvvgcNPLeAvPUUEvorUHdKyFS4dpump",
    0.041,
-   7.2,
+   8.2,
    "creator=15.1%"
+  ],
+  [
+   "slayer ",
+   "4nRGMYcsXVyisHHcnJsaswrn3cAppB6wWcg99R9Qpump",
+   0.039,
+   2.8,
+   ""
+  ],
+  [
+   "BARBIE",
+   "57UyzeyuXZdJngpuwWZm1oSUeEevZKU8An439cMJpump",
+   0.035,
+   6.9,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Pumpers",
+   "AbU3rBUAAX1RzUG2CB8bnVCSwowUnJq3ihfV2pchpump",
+   0.033,
+   2.7,
+   ""
   ],
   [
    "Dieunerst",
    "C3X6ukz4FZZ5KZXYvPv3X97262iUAfeUfe2T1aPppump",
    0.03,
-   2.8,
-   ""
-  ],
-  [
-   "Everybody",
-   "9vuqwDNBQAVFWCeNEbMbj4ip1tFCzVpstF54oDXzpump",
-   0.02,
-   8.1,
-   ""
-  ],
-  [
-   "RocketAPE",
-   "27H3VjQvgoJ4eLEeyvDgbwJyeFy8erqNvKNVBd3Tpump",
-   0.012,
-   5.2,
-   ""
-  ],
-  [
-   "ALVIN",
-   "Bqop9GLmqcCNDhSmp2cJWDfwWxbiwovGe4X3Tu8Cpump",
-   0.011,
-   5.3,
+   3.8,
    ""
   ]
  ]
