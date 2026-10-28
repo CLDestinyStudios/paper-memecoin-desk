@@ -15,7 +15,7 @@
    "opened": 1793187248.1843777,
    "last_px": 3.857623218755134e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 5.778078625149808,
+   "last_val": 5.774379811842522,
    "last_prog": 0.201,
    "tp1_done": true,
    "realized": 4.3678562971473465
@@ -567,81 +567,85 @@
   [
    "2026-10-28T05:02:05",
    389.0
+  ],
+  [
+   "2026-10-28T05:03:13",
+   388.99
   ]
  ],
- "cycles": 177,
+ "cycles": 178,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.58461408899998,
- "watching": 319,
+ "sol_usd": 102.51894496950001,
+ "watching": 293,
  "near": [
   [
-   "garry",
-   "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump",
-   0.86,
-   9.7,
+   "QUBIT",
+   "HSMwvL58HtXHMJHo6cgwwSaYmCJXDApKsjRFEbohAcH5",
+   0.414,
+   3.1,
+   "bundled_launch=10 extra buys in creation block"
+  ],
+  [
+   "FINE",
+   "DwvSRMc1areG4QC67NKgvQ3Askdj7KjuBMsXT8E2pump",
+   0.316,
+   2.7,
+   "rugcheck=creator history of rugs"
+  ],
+  [
+   "ABLE",
+   "53cxGnsThbv1JQxrDft1Ecq4J71dirVAb1YosfsGE3Uk",
+   0.213,
+   2.5,
    ""
   ],
   [
    "CIS",
    "2j39U6JjqVSLjy7KAj4sUgbPAcpSa15u4m8kGayzsiG5",
    0.183,
-   3.3,
-   ""
+   4.4,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SAVA",
+   "9hmksRZAu8TTQZJE6gbngWRVBQ3GAgh1vJyAaj1hpump",
+   0.158,
+   2.6,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "SAVA",
+   "7njRdtB4k9VE5ctgeVQXL8TGWGM8BxaozzJv28Gkpump",
+   0.096,
+   2.2,
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "Jolle",
    "FsMgL73sXeyHb5HjSHmAE38MkPZBWst1Pu7erYZnpump",
    0.09,
-   3.5,
+   4.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "THG",
-   "EjZEfjxQu68e8Vi3Xh1YdeAwrxzturBWckVoStyypump",
-   0.085,
-   9.4,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "STMB",
-   "41s83W1JbVV9bHYZtzsdEdeFqsXbztrQkpVXR8VCpump",
-   0.075,
-   4.3,
-   "buyers=1; top5_hold_most=100%"
+   "SAVA",
+   "AthK7tqef195FwgvZorrPfqGvVCqqkgBbYhQdMkNpump",
+   0.076,
+   2.9,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "Birdie",
    "EHQo5EYFyHStmkTQPBtbbuk4y5LbfU7K4NCrorNmpump",
    0.029,
-   8.6,
+   9.7,
    ""
   ],
   [
-   "Solana",
-   "FfPC2Wcsf6SsDxU2XA2kqnVQo5PbQx5grKaPwPbqpump",
-   0.014,
-   6.5,
-   ""
-  ],
-  [
-   "FINE",
-   "HcS1dJTXeouzAwKDai97U3mcL2mQBXM55NDpkEQpump",
-   0.013,
-   3.9,
-   ""
-  ],
-  [
-   "PUMPOWEEN",
-   "9uiedL48JHK5JvynJCH8pZVxBrdDjmv8gL5xaFxspump",
-   0.008,
-   7.6,
-   "top5_hold_most=89%"
-  ],
-  [
-   "CRIP",
-   "i9J9Cjh62kwUrcwAoSSDekAfCVZGKyTHPucG8nApump",
-   0.007,
-   7.5,
+   "UNIBAN",
+   "A2hnfC3VNAAuv6Hpw2BcB25pszuQxQpuTyVW9H8epump",
+   0.026,
+   2.4,
    ""
   ]
  ]
