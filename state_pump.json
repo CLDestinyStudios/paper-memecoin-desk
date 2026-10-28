@@ -13,10 +13,10 @@
    "entry_px": 4.2052104368585743e-08,
    "entry_fill": 4.489621693727529e-08,
    "opened": 1793225273.1053596,
-   "last_px": 6.593283842533845e-08,
+   "last_px": 7.488851161293311e-08,
    "peak_px": 1.9149854888207702e-07,
-   "last_val": 3.2648929656922876,
-   "last_prog": 0.472,
+   "last_val": 3.7199411054223908,
+   "last_prog": 0.526,
    "tp1_done": true,
    "realized": 2.3362971197425146
   },
@@ -31,7 +31,7 @@
    "opened": 1793225931.4562168,
    "last_px": 9.238606147087608e-08,
    "peak_px": 9.507916385037303e-08,
-   "last_val": 4.314753606783646,
+   "last_val": 4.320326461895714,
    "last_prog": 0.609,
    "tp1_done": true,
    "realized": 1.0997444277538753
@@ -2927,81 +2927,85 @@
   [
    "2026-10-28T15:31:50",
    158.77
+  ],
+  [
+   "2026-10-28T15:32:50",
+   159.23
   ]
  ],
- "cycles": 779,
+ "cycles": 780,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.51,
- "watching": 262,
+ "sol_usd": 102.6424,
+ "watching": 261,
  "near": [
   [
    "AURA",
    "CurpZpXsvhKKcLjJv215hNkBRKAENoYnVSLMju7rpump",
-   0.934,
-   3.0,
+   0.952,
+   4.0,
    ""
   ],
   [
    "M69",
    "4MPRDSjy7sxqbYFSUD7EZ7TCRFEHDW6xZ96kcXPbpump",
-   0.777,
-   3.0,
+   0.769,
+   4.0,
    ""
+  ],
+  [
+   "GIGAINU",
+   "7uPhppv1iUW2pZ9ZkmSQ3s8ZCmL81UtJHxt57Bkepump",
+   0.555,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "SMALLTOWN",
    "D1mTV1yg5mfpwBrej5irwU7gmnUVuJ6e7ioqp2bYpump",
    0.12,
-   2.2,
+   3.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BINTOR",
    "DcBbXTKU5F9C829Bf7qbpuBa5qFgWeknBaao396apump",
    0.086,
-   4.8,
+   5.8,
    ""
   ],
   [
    "EYE",
    "GPXkBhkuGiFCFwaer3ZfnwkvpbPjcHFNrN3vNJKTpump",
    0.063,
-   3.9,
+   4.9,
    ""
   ],
   [
    "$Cat",
    "CbZjUZmhmnrMigfibi2Y47okZLv8LwRkuCWXxFiTpump",
    0.053,
-   3.2,
+   4.2,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "ZHIZHOU",
-   "D3X6ouSo7cQCPBpjij8XZr81tER29tgAAB8e1g5rpump",
-   0.052,
-   9.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "0xkgc",
    "4g7g8qFKuo8BMz4VuoRzakqcsXVrpr8RbpDP9WKWpump",
    0.043,
-   8.6,
+   9.6,
    ""
   ],
   [
-   "PAUPRINT",
-   "9GYPeai8a8awvANk8KE3hZcpSDpog75b4iumgFqwpump",
-   0.033,
-   7.9,
+   "$ADOBO",
+   "88DzUffXuM3UzhZnqc7GyXajuMzJox3umfcYcmcHpump",
+   0.041,
+   3.0,
    ""
   ],
   [
-   "KOL",
-   "AwDc4uGYTwocz3FCp3hVfAWkp9SYr2db1MFrDenapump",
-   0.033,
-   8.1,
+   "wSANTA",
+   "22dusXDuo7Te1iNrmrXTsfG4M6EmHSVKjXpyVs4Tpump",
+   0.037,
+   2.4,
    ""
   ]
  ]
