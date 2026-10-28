@@ -13,10 +13,10 @@
    "entry_px": 7.743201211664543e-08,
    "entry_fill": 8.223123255192272e-08,
    "opened": 1793193380.9350216,
-   "last_px": 1.0460298440247536e-07,
+   "last_px": 1.0591417831675685e-07,
    "peak_px": 1.0910072614558287e-07,
-   "last_val": 13.193395433097031,
-   "last_prog": 0.653
+   "last_val": 13.376489372291259,
+   "last_prog": 0.658
   },
   "72KTne4FjHhzsu2Gw3i62ncjWdGrvsTykiMniBcxpump": {
    "sym": "OPENPUMP",
@@ -27,10 +27,10 @@
    "entry_px": 1.3648257821199726e-07,
    "entry_fill": 1.4487214571679448e-07,
    "opened": 1793195051.7721248,
-   "last_px": 2.075209136159252e-07,
-   "peak_px": 2.075209136159252e-07,
-   "last_val": 7.294776169303229,
-   "last_prog": 0.856,
+   "last_px": 2.4581923977830835e-07,
+   "peak_px": 2.4581923977830835e-07,
+   "last_val": 8.660797968197507,
+   "last_prog": 0.897,
    "tp1_done": true,
    "realized": 1.8397761693032288
   }
@@ -1032,81 +1032,85 @@
   [
    "2026-10-28T06:54:06",
    366.31
+  ],
+  [
+   "2026-10-28T06:55:10",
+   367.86
   ]
  ],
- "cycles": 289,
+ "cycles": 290,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.69327476450002,
- "watching": 287,
+ "sol_usd": 100.823554596,
+ "watching": 270,
  "near": [
-  [
-   "D",
-   "7Q7THzb2YNRojp894GZKdf3HAjM8e2dT2qcovrxFpump",
-   1.0,
-   6.8,
-   "graduated"
-  ],
   [
    "Ducky",
    "2DEAb3wXLYMgKv91exeW53fArRHBaWZGCTNiUEWepump",
-   0.951,
-   5.6,
+   0.979,
+   6.7,
    ""
+  ],
+  [
+   "Giraffedog",
+   "FEjk9wn8qon1gDMDatUqTUDzMwCxMCMpjfeTqNy2pump",
+   0.956,
+   2.9,
+   ""
+  ],
+  [
+   "LARP",
+   "91TgLSKd3ceRHJHrxcdcfMLkr5PAdKuvZpghk2F6pump",
+   0.615,
+   2.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Rise",
    "CamQPkQNhU4fGRVepZo8t5Y6DZi2DKJD1AYEAm5bpump",
-   0.509,
-   4.2,
-   "creator=34.1%; top5_hold_most=98%"
+   0.533,
+   5.3,
+   "creator=36.2%; top5_hold_most=98%"
+  ],
+  [
+   "PEPEween",
+   "GRhJfMxTvy91SCuboXJFFnZePyjcLTPYA6jCSTSupump",
+   0.11,
+   2.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "NANI",
+   "ComGFh3RaC6MFApV2XzV9TB6nrTLFrc9UnwZuq6Gpump",
+   0.096,
+   2.5,
+   ""
   ],
   [
    "TV",
    "3Rd5zP5kF3s5HN9eLUNcWso4ZhTVj1sjh7MeqxJapump",
    0.089,
-   5.3,
-   ""
-  ],
-  [
-   "Jason",
-   "3CVhyTh7yQ8RXKNkgSp3HTbkntt3k1UGT9MT3FW14PHi",
-   0.074,
-   7.7,
+   6.3,
    ""
   ],
   [
    "BMC",
    "HJm6EzNmJsbY7DAmhefnir3fDcwUp6PCVdLiMbekmBEP",
    0.072,
-   2.5,
+   3.6,
    ""
+  ],
+  [
+   "Safe Ella",
+   "HHi9L7A767zmdbdbS9RixXfPzPXxEHddeAFuUxJfpump",
+   0.065,
+   2.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "INVEST",
    "EkFXscz6jQ9BgfmCf9udumHKmPh9mv7SSii6BxQzpump",
    0.062,
-   7.7,
-   ""
-  ],
-  [
-   "LARP",
-   "2f8JoQi57RotoBERj7kx3EAThyjbuvGSqsBRwT1epump",
-   0.057,
-   7.3,
-   ""
-  ],
-  [
-   "DUBBLE",
-   "Dmhow6aXzs4jhXaqUynATJ84HNfqm4AaJFWyUAwUpump",
-   0.056,
-   3.9,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "INVEST",
-   "H2yeWCpoSWQGBjpzvQKq7Twk764FEVtDNVNrrpHfGEBC",
-   0.055,
-   5.5,
+   8.8,
    ""
   ]
  ]
