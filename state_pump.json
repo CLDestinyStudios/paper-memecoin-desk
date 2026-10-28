@@ -2720,81 +2720,85 @@
   [
    "2026-10-28T14:38:48",
    167.68
+  ],
+  [
+   "2026-10-28T14:39:49",
+   167.68
   ]
  ],
- "cycles": 726,
+ "cycles": 727,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.15758838845954,
- "watching": 272,
+ "sol_usd": 102.184426938,
+ "watching": 278,
  "near": [
+  [
+   "Alien",
+   "7s5fcZCQYhr82mi92TJcXgq1zwa5LcQt4eWCnuFxpump",
+   0.584,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
+  ],
   [
    "CATBOT",
    "4s3CxU2Ma55F79r2rS8t4bmGqzF7o3k5mva3ApZdpump",
    0.277,
-   4.2,
+   5.3,
    "top5_hold_most=88%"
-  ],
-  [
-   "IA",
-   "61zX8j8ZRGUBRoAKVguWGbZCNw4qL9ydpwfGHLY7pump",
-   0.131,
-   9.7,
-   ""
   ],
   [
    "Fridge",
    "56JqAwipYWTPwh96q8hHHpqLvkFSXFfMWEvb4w6zpump",
-   0.093,
-   2.6,
+   0.083,
+   3.6,
    ""
   ],
   [
    "TUCKER",
    "FVGzGdKe59HgfgcDermdLYZQqc4yoT8K4BtzNEt2pump",
    0.083,
-   3.4,
+   4.4,
+   ""
+  ],
+  [
+   "SI",
+   "GV2F3fCJdE4SmjaoTG1DFwGDTqSwYw6sNkZuvhYwpump",
+   0.077,
+   2.1,
    ""
   ],
   [
    "Giraffedog",
    "HHUt4mFFHzeAH4JCAoNjBGyaGh3swXokTPTSiKejpump",
    0.061,
-   2.1,
+   3.1,
    ""
   ],
   [
    "ket",
    "BPrwvVTXwDUzNoqGCZe2wbcQknTxixHQ9bXKMXwLCket",
    0.047,
-   2.3,
+   3.3,
    ""
   ],
   [
    "CABLES",
    "6eKxfegqA7BubUG1GvqmfUFmErAoLZSsKWXFFgKPpump",
    0.045,
-   6.8,
+   7.8,
    ""
   ],
   [
    "GTA6",
    "HuAXvPnr2f1y13ioQ4yKv6mF8SmWmaorujqwvNfvpump",
    0.044,
-   4.0,
+   5.0,
    ""
   ],
   [
    "HAOWDY",
    "C9RzWwt7u1XtydTqUxw8i2WDbLe5s3QUhrpkkDu5pump",
    0.043,
-   2.4,
-   ""
-  ],
-  [
-   "Duo",
-   "Fbsv98x9PtbJ54PVkva25R8H5N5DAhxeLYmk76wEpump",
-   0.035,
-   3.7,
+   3.4,
    ""
   ]
  ]
