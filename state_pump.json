@@ -624,82 +624,86 @@
   [
    "2026-10-28T05:20:06",
    379.33
-  ]
- ],
- "cycles": 195,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 101.936723985,
- "watching": 209,
- "near": [
-  [
-   "482",
-   "edqaiNmKkzEpWy8Va5H21oEg7n7b4Q95UkzrdMYpump",
-   0.245,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "puter",
-   "5biZ5n3HtM2ZJM1RehnRn6yL5MgN41VMPdXjRE2fpump",
-   0.111,
-   2.4,
+   "2026-10-28T05:21:06",
+   379.33
+  ]
+ ],
+ "cycles": 196,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 101.940172392,
+ "watching": 196,
+ "near": [
+  [
+   "POOPIE",
+   "Bo8N1xGn4RU5Xavo1QtzSXSxp21JXUsENEuUhbsipump",
+   0.14,
+   2.6,
    ""
   ],
   [
    "KEPLER",
    "EQtBbyhsNLwS78LPogHM3NgRmDCAyoigm2g2nV4Wpump",
-   0.106,
-   6.9,
+   0.105,
+   7.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "okay",
    "D4NHYxUiG2rRuMcTmC6Z5Qk11q4dAfJZziJz8mXApump",
    0.102,
-   6.5,
+   7.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "482Mhz",
    "Fu5rmJcwD9vD9isYCFUaCKrEZwDWJjrnTpD8XFMpWQpf",
    0.074,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "OPENPUMP",
-   "7N3udi82YybBKJoFXZwdKyuXjwGXU67UXM55G6vWpump",
-   0.044,
-   6.3,
-   "top5_hold_most=96%"
   ],
   [
    "Ruined",
    "2iWdc4SQa7KtfwctPWmLmCyCEawc2ib8JDH5CWBepump",
    0.044,
-   5.6,
-   ""
-  ],
-  [
-   "Trencher",
-   "4F9ZQTrDnqMEieHPtuCDV3pG64UBoYaGBo8shQ4dpump",
-   0.041,
-   6.1,
-   ""
-  ],
-  [
-   "NOA",
-   "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
-   0.037,
-   9.9,
+   6.6,
    ""
   ],
   [
    "chance",
    "BJRbuPWj8FpmN6fv9XpctjksfeT8xQxZHU5rKM1Kpump",
    0.029,
-   5.6,
+   6.6,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Trencher",
+   "4F9ZQTrDnqMEieHPtuCDV3pG64UBoYaGBo8shQ4dpump",
+   0.029,
+   7.1,
+   ""
+  ],
+  [
+   "SS",
+   "ASQ4MNmmGLLqrk7N82gvj9AiF4ztX7KZHDupe37Rpump",
+   0.023,
+   3.1,
+   ""
+  ],
+  [
+   "BROKE",
+   "3W55iFwaVUfwDKCRWq8vttZN2kZQKqpAKyJdkthjpump",
+   0.018,
+   6.8,
+   ""
+  ],
+  [
+   "SLOW",
+   "AAcow18yVWgPAcSjcPLeT7sSx1ceDDiDng8DDa9bpump",
+   0.016,
+   7.2,
+   ""
   ]
  ]
 }
