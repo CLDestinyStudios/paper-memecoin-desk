@@ -13,10 +13,10 @@
    "entry_px": 1.0815870601844207e-07,
    "entry_fill": 1.1485312297683698e-07,
    "opened": 1793202880.8643756,
-   "last_px": 1.5791250510396734e-07,
+   "last_px": 1.4105500967847336e-07,
    "peak_px": 1.5791250510396734e-07,
-   "last_val": 13.166684214748063,
-   "last_prog": 0.784
+   "last_val": 11.767506367155136,
+   "last_prog": 0.751
   },
   "9uUxcKp3TLmpdpm1zYsk7p1W7S4QbBZEqZwtA72bpump": {
    "sym": "RIG",
@@ -27,10 +27,10 @@
    "entry_px": 8.029038241910753e-08,
    "entry_fill": 8.528226961050288e-08,
    "opened": 1793203003.16268,
-   "last_px": 9.817183062982812e-08,
-   "peak_px": 1.007243292881697e-07,
-   "last_val": 11.038301464979629,
-   "last_prog": 0.631
+   "last_px": 1.0275127035920039e-07,
+   "peak_px": 1.0275127035920039e-07,
+   "last_val": 11.56535243305167,
+   "last_prog": 0.647
   },
   "ENcRD7oiDFyYA1aSiDZzcnjptfQG3tozDKnrTVChpump": {
    "sym": "KAIKAMURI",
@@ -41,10 +41,10 @@
    "entry_px": 4.302799067620225e-08,
    "entry_fill": 4.573689804159223e-08,
    "opened": 1793203122.6005497,
-   "last_px": 4.225311547593493e-08,
+   "last_px": 3.9946157039336064e-08,
    "peak_px": 4.554123586621829e-08,
-   "last_val": 8.748455155143928,
-   "last_prog": 0.252
+   "last_val": 8.276023397157477,
+   "last_prog": 0.221
   },
   "5X8TJYPThuHQBTJKiXfvhXorSDnpyPsy5iEcrkgbpump": {
    "sym": "DROY",
@@ -55,10 +55,10 @@
    "entry_px": 5.0949381145385735e-08,
    "entry_fill": 5.4145489852159574e-08,
    "opened": 1793203242.7276258,
-   "last_px": 5.0949381145385735e-08,
-   "peak_px": 5.0949381145385735e-08,
-   "last_val": 8.911620122259333,
-   "last_prog": 0.351
+   "last_px": 5.68529579789012e-08,
+   "peak_px": 5.68529579789012e-08,
+   "last_val": 9.957670739400896,
+   "last_prog": 0.404
   }
  },
  "traded": [
@@ -1458,82 +1458,86 @@
   [
    "2026-10-28T09:00:42",
    334.5
+  ],
+  [
+   "2026-10-28T09:01:51",
+   334.2
   ]
  ],
- "cycles": 388,
+ "cycles": 389,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.911902878,
- "watching": 303,
+ "sol_usd": 101.00223357500002,
+ "watching": 307,
  "near": [
   [
    "monkeys",
    "ATHfPQDHzyQj1dEAVJAPsXs3tMJBBET5Cuy8AYKjpump",
-   0.92,
-   5.2,
+   0.971,
+   6.4,
    ""
   ],
   [
-   "TRUMPKIN",
-   "CdjBw8qCmyxhbvAhoZvfrbohpiYBtSwbDLLJ54hmpump",
-   0.679,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
+   "MAKO",
+   "AA6dYird1eNM4jkrdEwAmS855dd7GLSyvrWCa2Dwpump",
+   0.692,
+   2.2,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "PETER",
+   "B39WeNtkxWrhfUrnJpK7gDi9yXVuMnyH3KvazwP15FDK",
+   0.243,
+   8.9,
+   ""
   ],
   [
    "DICEY",
    "2iqPKex2BqwaikRNsHVYshp2udtPMNa33CzZbqaPpump",
-   0.398,
-   3.9,
+   0.209,
+   5.1,
    "buyers=9; creator=16.6%; top5_hold_most=98%"
-  ],
-  [
-   "DROY",
-   "5X8TJYPThuHQBTJKiXfvhXorSDnpyPsy5iEcrkgbpump",
-   0.351,
-   3.3,
-   "bought"
   ],
   [
    "AGAVE 4.4",
    "8Y9AhWV1NB6akisUHTzTkxiWZxTaBoVkVkv6osCQpump",
    0.191,
-   4.8,
+   5.9,
    "buyers=1; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "BINGO",
-   "45AwSouabwAyUyydVEuwWNJXrtKaJDw7KXWLYCcZpump",
-   0.104,
-   2.7,
+   "$NIKA",
+   "JB2q3VcRTzq3YFHA1wwMXYaU5EmRNwu2VyLCUWKwpump",
+   0.137,
+   4.9,
+   "top5_hold_most=95%"
+  ],
+  [
+   "ED138",
+   "HcPcfVeP3tesfmUrQRLcc535ZEzj811ApfmfFjU1pump",
+   0.098,
+   5.6,
    ""
   ],
   [
-   "PETER",
-   "B39WeNtkxWrhfUrnJpK7gDi9yXVuMnyH3KvazwP15FDK",
-   0.086,
-   7.8,
+   "Heaven",
+   "AGzqUxeR6YEaXCepXojVb4K3HfpYEWfVXysoQsXcpump",
+   0.093,
+   2.8,
+   ""
+  ],
+  [
+   "DAN",
+   "7mTumxQ9Z9KjGBv2fqt4xBkAbfLg73fDYfxjd4pmpump",
+   0.093,
+   2.3,
    ""
   ],
   [
    "ED138",
    "8pG56RMMdoyaJeZbtUe5rmX4toJwe4xG4whV1Jkcpump",
    0.077,
-   5.4,
+   6.6,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "LOG",
-   "6rXjm3Mi33RzJDixAQ5NQtp5vtuVw8HF5Cq57AEUs77r",
-   0.072,
-   4.7,
-   ""
-  ],
-  [
-   "BINGO",
-   "MqzaCYnZbBy6ZHLvNHN3MjhjShY7TtpN2qXsTrfpump",
-   0.07,
-   7.7,
-   ""
   ]
  ]
 }
