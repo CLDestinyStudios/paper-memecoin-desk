@@ -13,10 +13,10 @@
    "entry_px": 9.457002907002169e-08,
    "entry_fill": 1.004001160972566e-07,
    "opened": 1793189707.9811027,
-   "last_px": 9.457002907002169e-08,
-   "peak_px": 9.457002907002169e-08,
-   "last_val": 10.305010147993482,
-   "last_prog": 0.617
+   "last_px": 1.1149193826606713e-07,
+   "peak_px": 1.1149193826606713e-07,
+   "last_val": 12.173959425295672,
+   "last_prog": 0.675
   }
  },
  "traded": [
@@ -618,81 +618,85 @@
   [
    "2026-10-28T05:15:07",
    386.13
+  ],
+  [
+   "2026-10-28T05:16:08",
+   388.0
   ]
  ],
- "cycles": 190,
+ "cycles": 191,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.80173911000001,
- "watching": 261,
+ "sol_usd": 101.952052287,
+ "watching": 239,
  "near": [
-  [
-   "gyatt",
-   "mtUoQ6Kj8gCMShLU2zFd9WsT7xq2cVdpGT7S56jpump",
-   0.617,
-   2.6,
-   "bought"
-  ],
   [
    "NOA",
    "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
-   0.18,
-   4.9,
+   0.186,
+   5.9,
    ""
+  ],
+  [
+   "KEPLER",
+   "EQtBbyhsNLwS78LPogHM3NgRmDCAyoigm2g2nV4Wpump",
+   0.131,
+   2.9,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "okay",
+   "D4NHYxUiG2rRuMcTmC6Z5Qk11q4dAfJZziJz8mXApump",
+   0.128,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "QUBIT",
    "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
    0.073,
-   7.1,
+   8.1,
    ""
   ],
   [
    "MPC",
    "J5Zb7ZDNZxtQJME6LJWez6HVkoDx95FH1xkKJKhipump",
    0.062,
-   5.9,
+   6.9,
    ""
   ],
   [
-   "AC",
-   "2MGsNchxCZxuNp8NQEekeiGKp7M4kSb9KLcpNzVwpump",
-   0.051,
-   2.9,
-   ""
-  ],
-  [
-   "Col",
-   "DektX6FiCRzkpAqgXzcq79M9fjzxiLEupfRLA28bpump",
-   0.051,
-   9.4,
-   "buyers=1; top5_hold_most=100%"
+   "OPENPUMP",
+   "7N3udi82YybBKJoFXZwdKyuXjwGXU67UXM55G6vWpump",
+   0.059,
+   2.3,
+   "top5_hold_most=89%"
   ],
   [
    "ITAU",
    "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
-   0.044,
-   8.1,
+   0.048,
+   9.2,
    ""
   ],
   [
    "MATCH",
    "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
    0.04,
-   8.3,
+   9.3,
    ""
   ],
   [
-   "SC",
-   "6tmYZRy9tv7K1KQB5KyokPA6rbWUA6zpYpaUgT9Wpump",
-   0.031,
-   2.5,
+   "Trencher",
+   "4F9ZQTrDnqMEieHPtuCDV3pG64UBoYaGBo8shQ4dpump",
+   0.036,
+   2.1,
    ""
   ],
   [
    "MOO",
    "Go5jAzbTFFLK5ExpJWHNEEMx5xn7E3TWhFmVpDcxpump",
    0.029,
-   3.6,
+   4.6,
    ""
   ]
  ]
