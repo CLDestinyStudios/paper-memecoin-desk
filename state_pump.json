@@ -13,10 +13,10 @@
    "entry_px": 6.771420737308342e-08,
    "entry_fill": 7.201619833384969e-08,
    "opened": 1793210573.8014724,
-   "last_px": 1.0861527714089482e-07,
-   "peak_px": 1.0861527714089482e-07,
-   "last_val": 5.471046121161843,
-   "last_prog": 0.667,
+   "last_px": 1.1798342454279906e-07,
+   "peak_px": 1.1798342454279906e-07,
+   "last_val": 5.937423905532623,
+   "last_prog": 0.694,
    "tp1_done": true,
    "realized": 1.6060461211618424
   },
@@ -29,10 +29,10 @@
    "entry_px": 3.988418257020011e-08,
    "entry_fill": 4.2442203867934126e-08,
    "opened": 1793210831.5029194,
-   "last_px": 3.988418257020011e-08,
-   "peak_px": 3.988418257020011e-08,
-   "last_val": 6.697597844367507,
-   "last_prog": 0.22
+   "last_px": 4.23503384224377e-08,
+   "peak_px": 4.23503384224377e-08,
+   "last_val": 7.10291047526763,
+   "last_prog": 0.254
   },
   "4hW3Xm4uufdoEYyQruRyK2anbPu3hSiaT8PHYpeHpump": {
    "sym": "FGM",
@@ -43,10 +43,10 @@
    "entry_px": 3.658324141867701e-08,
    "entry_fill": 3.893376887843835e-08,
    "opened": 1793210832.0391502,
-   "last_px": 3.658324141867701e-08,
+   "last_px": 3.46573457908942e-08,
    "peak_px": 3.658324141867701e-08,
-   "last_val": 6.66967236274462,
-   "last_prog": 0.17
+   "last_val": 6.305978520138266,
+   "last_prog": 0.138
   }
  },
  "traded": [
@@ -1857,82 +1857,86 @@
   [
    "2026-10-28T11:07:12",
    251.1
+  ],
+  [
+   "2026-10-28T11:08:10",
+   251.6
   ]
  ],
- "cycles": 514,
+ "cycles": 515,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.68999999999998,
- "watching": 278,
+ "sol_usd": 101.52509562949999,
+ "watching": 261,
  "near": [
-  [
-   "TESLA",
-   "25rFRz6zuDBLDJUQaPrrURAnCed7EkbeCHkA9MGapump",
-   1.0,
-   7.9,
-   "graduated"
-  ],
   [
    "PENISINU",
    "D34F5GktuotztP11hQPncAd67qEDivmguoiaTdyJCXgT",
-   0.834,
-   3.8,
+   0.797,
+   4.7,
    ""
   ],
   [
-   "BB",
-   "BiBiTpTKq8wMauHy5tmzowHWd7PFc9weRxpu9QKFKBNB",
-   0.383,
-   3.2,
-   "bundled_launch=9 extra buys in creation block"
+   "MIKA",
+   "CS4UeQQCSCBBLTAwTFuBVzetNbgZhpyWfRai5STZpump",
+   0.288,
+   2.8,
+   "top5_hold_most=82%; launch_slot=missing"
   ],
   [
    "VIRL",
    "FHmYrN1jQAmSXWCJjBYfVT8nic9xsSbafBxu32vUpump",
-   0.249,
-   4.8,
+   0.235,
+   5.7,
    "top5_hold_most=88%"
-  ],
-  [
-   "BABYCOW",
-   "D7Npvpvjsqhx3WoPMRJtwKXGJsWN4f637fANSbbapump",
-   0.22,
-   3.0,
-   "bought"
   ],
   [
    "FAT",
    "4wL2mjLhrSQhJsVPrvDZiqcSXyFvDJYou3sVQkYpump",
-   0.206,
-   5.0,
-   ""
-  ],
-  [
-   "FGM",
-   "4hW3Xm4uufdoEYyQruRyK2anbPu3hSiaT8PHYpeHpump",
-   0.17,
-   3.8,
-   "bought"
-  ],
-  [
-   "PI",
-   "7c2GhpfkVR6kn2mHnXoLq5Si3qLB5nSfsDh4w31Heqet",
-   0.138,
-   3.7,
+   0.212,
+   5.9,
    ""
   ],
   [
    "PENISINU",
    "4dQWkipjQp1CMVLVLe9hsr3ewRHBGQVmVv5s9Xr1Pvpv",
    0.13,
-   3.7,
+   4.7,
    ""
   ],
   [
    "CP",
    "EcFqYwiYP1kjRQdL16BPGeS52v6NFADhjhn7m1kwpump",
    0.12,
-   6.4,
+   7.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PI",
+   "7c2GhpfkVR6kn2mHnXoLq5Si3qLB5nSfsDh4w31Heqet",
+   0.12,
+   4.7,
+   ""
+  ],
+  [
+   "PENISINU",
+   "3qBseoym1kFHqkrPiKidpdp6BHSPvqNcdYU4HXhH1n2D",
+   0.105,
+   5.1,
+   ""
+  ],
+  [
+   "ELM ST. ",
+   "7niYhLVXtRfSeP43tFMWJgYBTNpd1CCY9FS2eFWRpump",
+   0.105,
+   2.8,
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "PITCHFANG",
+   "Wf2g8n42JWa4Ci9vtEeDBP4rgdjYj56ucnscNz7pump",
+   0.093,
+   3.4,
+   "buyers=6; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
