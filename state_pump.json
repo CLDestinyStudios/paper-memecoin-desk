@@ -13,10 +13,10 @@
    "entry_px": 4.152907998055313e-08,
    "entry_fill": 4.427845374160478e-08,
    "opened": 1793220591.0956793,
-   "last_px": 1.216624035681985e-07,
+   "last_px": 1.326736110619754e-07,
    "peak_px": 1.4514747551713307e-07,
-   "last_val": 7.1881410696344,
-   "last_prog": 0.704,
+   "last_val": 7.845574383207976,
+   "last_prog": 0.732,
    "tp1_done": true,
    "realized": 1.3290159491976001
   },
@@ -31,7 +31,7 @@
    "opened": 1793220647.5095737,
    "last_px": 3.0698373506150676e-08,
    "peak_px": 3.094744118830867e-08,
-   "last_val": 4.885417470530345,
+   "last_val": 4.887061535996139,
    "last_prog": 0.062
   },
   "ztJKeL2qbeGfgR9UK4PnFZ3Vskc1KJddvBDwyn5pump": {
@@ -43,10 +43,10 @@
    "entry_px": 9.545922819333203e-08,
    "entry_fill": 1.0173763395918068e-07,
    "opened": 1793220774.405963,
-   "last_px": 1.0051101286350138e-07,
+   "last_px": 1.0165158774266811e-07,
    "peak_px": 1.5639060410651747e-07,
-   "last_val": 2.526477821864991,
-   "last_prog": 0.639,
+   "last_val": 2.5565824375840926,
+   "last_prog": 0.643,
    "tp1_done": true,
    "realized": 0.9018131092825157
   },
@@ -61,7 +61,7 @@
    "opened": 1793220774.7312899,
    "last_px": 5.0805414827600976e-08,
    "peak_px": 6.42503008264941e-08,
-   "last_val": 4.467143197559692,
+   "last_val": 4.468646503245679,
    "last_prog": 0.349
   },
   "HqyEiV3986vB6gukKfTyrxqJZFJoQwcRzoELMYMzpump": {
@@ -75,7 +75,7 @@
    "opened": 1793220827.4217856,
    "last_px": 5.429437360199655e-08,
    "peak_px": 6.519766744015519e-08,
-   "last_val": 5.285303540753642,
+   "last_val": 5.28708217790799,
    "last_prog": 0.382
   }
  },
@@ -2660,82 +2660,86 @@
   [
    "2026-10-28T14:06:48",
    183.32
+  ],
+  [
+   "2026-10-28T14:07:48",
+   184.01
   ]
  ],
- "cycles": 694,
+ "cycles": 695,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.49873003449999,
- "watching": 289,
+ "sol_usd": 102.53322342700001,
+ "watching": 305,
  "near": [
-  [
-   "FREEDOM",
-   "HpXMaKw36pH3xby7vNotwNe3KJd7j69rHxmzS1Yxpump",
-   1.0,
-   3.3,
-   "graduated"
-  ],
   [
    "OFFGRID",
    "HfoYyLuA1kudnMhcMvu5FMjYhCovKyYDAEGEnLkNpump",
-   0.926,
-   3.3,
-   ""
-  ],
-  [
-   "OFFGRID",
-   "LNzbbCnSneP6N8YEiwdTRtss7GBWrqmWPkbPvGtpump",
-   0.511,
-   4.2,
+   0.927,
+   4.3,
    ""
   ],
   [
    "GG",
    "BoLNbXMoYbkut7M2nS1fBSFmzEcsjm7rfSmXviP8pump",
-   0.487,
-   2.2,
+   0.482,
+   3.2,
    ""
   ],
   [
    "USTF",
    "9Yd4b8oy6fpSXVLbZGAXVmjsZWZGhtRu7Pe4MrvTpump",
    0.264,
-   4.1,
+   5.1,
    "top5_hold_most=87%"
-  ],
-  [
-   "BULLHOUSE",
-   "GsW8xjrfR8SiCVVXEjwSZo9AfjJaHwtLzoej7vkipump",
-   0.195,
-   2.7,
-   ""
   ],
   [
    "TREECOIN",
    "5RznXgyiHZmuAdpVFWoyoBfKThtvDqbfqGvaCjL6pump",
    0.146,
-   6.4,
+   7.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "ROCKCOIN",
    "BbsBYpawyCAVdWgC6zwfPud3KoA3cpWFWt2mCL51pump",
    0.122,
-   3.6,
+   4.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "EVEREST",
    "8ko8sisWDKKEjTYSx5oLRontQsbMTJZz7SrPZ7Cupump",
    0.122,
-   2.4,
+   3.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "AUREGO",
    "F8ZTYhgMFWcF1Y5ETKufm6G7pBwTXsDwkkm5hJMQpump",
    0.121,
-   7.0,
+   8.0,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "INCOINU",
+   "3XA63wGQUa6GuC81TCzhJgCiXjorxfVNWCNZp1Txpump",
+   0.113,
+   3.6,
+   "top5_hold_most=96%"
+  ],
+  [
+   "CS2",
+   "FqKgGD52UJpthbvb92kCtTprZahzLMugLS64EYBpvxB9",
+   0.103,
+   2.1,
+   ""
+  ],
+  [
+   "TIMELESS",
+   "HogFsaVoa3VHeBd6LGEVyKJXko6t6hMgfZFYeVvcpump",
+   0.101,
+   7.1,
+   ""
   ]
  ]
 }
