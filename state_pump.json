@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 264.76313846020616,
+ "cash": 279.37763038446843,
  "positions": {
   "9uUxcKp3TLmpdpm1zYsk7p1W7S4QbBZEqZwtA72bpump": {
    "sym": "RIG",
@@ -13,26 +13,12 @@
    "entry_px": 8.029038241910753e-08,
    "entry_fill": 8.528226961050288e-08,
    "opened": 1793203003.16268,
-   "last_px": 1.4178294864932788e-07,
+   "last_px": 1.102167642775115e-07,
    "peak_px": 1.58342495418017e-07,
-   "last_val": 7.9602044018474984,
-   "last_prog": 0.752,
+   "last_val": 6.1779615390784635,
+   "last_prog": 0.672,
    "tp1_done": true,
    "realized": 1.948605352352602
-  },
-  "ENcRD7oiDFyYA1aSiDZzcnjptfQG3tozDKnrTVChpump": {
-   "sym": "KAIKAMURI",
-   "bc": "Ag6MRovjqtsZNxQxG7bewuDzWaMVpUH6UmTGQh8KXaAP",
-   "tokens": 2182247.093012123,
-   "cost": 10.07,
-   "cost0": 10.07,
-   "entry_px": 4.302799067620225e-08,
-   "entry_fill": 4.573689804159223e-08,
-   "opened": 1793203122.6005497,
-   "last_px": 4.211484632552457e-08,
-   "peak_px": 4.554123586621829e-08,
-   "last_val": 8.716076617693624,
-   "last_prog": 0.251
   },
   "JB2q3VcRTzq3YFHA1wwMXYaU5EmRNwu2VyLCUWKwpump": {
    "sym": "$NIKA",
@@ -45,7 +31,7 @@
    "opened": 1793203442.5026917,
    "last_px": 2.9047716876879118e-08,
    "peak_px": 3.50004519614028e-08,
-   "last_val": 7.420793157329043,
+   "last_val": 7.4211669296294325,
    "last_prog": 0.026
   },
   "3M84CAyuyK29K5au1Q1rGJpa1w6HRZSYrnLqyUXBpump": {
@@ -57,24 +43,10 @@
    "entry_px": 5.62414098569495e-08,
    "entry_fill": 5.977176338361406e-08,
    "opened": 1793203670.7063031,
-   "last_px": 6.489227812599828e-08,
+   "last_px": 6.833648898536122e-08,
    "peak_px": 8.122426939912994e-08,
-   "last_val": 9.753942493496117,
-   "last_prog": 0.465
-  },
-  "75GLyZbW1fNSnDDYEWJeVHEV4HNG1N8ckUgPWDsdpump": {
-   "sym": "LOTTO",
-   "bc": "Hb2QZJ7MEdJGPwBd99AaBJgGN9G9ktbVwv3ujv2XTd8E",
-   "tokens": 1660418.8267236326,
-   "cost": 9.51,
-   "cost0": 9.51,
-   "entry_px": 5.340658218992103e-08,
-   "entry_fill": 5.676297376574184e-08,
-   "opened": 1793203793.6101015,
-   "last_px": 5.1219544939225084e-08,
-   "peak_px": 5.340658218992103e-08,
-   "last_val": 8.065060765581018,
-   "last_prog": 0.353
+   "last_val": 10.274228651533901,
+   "last_prog": 0.488
   },
   "4b3pevazEkq96vo2Kemzse6m5tkR4LmaMJucVBVNpump": {
    "sym": "PULSE",
@@ -87,7 +59,7 @@
    "opened": 1793203793.8873074,
    "last_px": 5.110238856240937e-08,
    "peak_px": 5.110238856240937e-08,
-   "last_val": 8.374772724412264,
+   "last_val": 8.375194546985684,
    "last_prog": 0.352
   }
  },
@@ -1538,81 +1510,85 @@
   [
    "2026-10-28T09:11:39",
    315.05
+  ],
+  [
+   "2026-10-28T09:12:49",
+   311.63
   ]
  ],
- "cycles": 399,
+ "cycles": 400,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.87,
- "watching": 310,
+ "sol_usd": 100.87508064449999,
+ "watching": 292,
  "near": [
   [
    "STI",
    "8qWC44couaF3HCxLQYHzt4yR8rtNLSa6pE4Uvcf9pump",
-   0.888,
-   5.4,
+   0.935,
+   6.5,
    ""
   ],
   [
-   "$JIO",
-   "Gt3zytbgcvsVv9ci7ydZ5nABEWtsqX5kcXP4zfropump",
-   0.341,
-   9.5,
-   "top5_hold_most=91%"
-  ],
-  [
-   "Noclip",
-   "EG3g6r6mprdUfdwkR3uWyMMxcZbC2KHqjBDBdx1dpump",
-   0.207,
-   2.8,
-   ""
+   "Elysium ",
+   "4TsPBNTu9aQjzs5Zb96V4Bf1DD2oKXjcAVaGr3DQpump",
+   0.206,
+   3.0,
+   "top5_hold_most=87%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "Ape",
    "JKLiDA6cgm9noJ49QDwfq8ey893paPCa9AtcShhb9wT",
    0.181,
-   8.5,
+   9.6,
    ""
   ],
   [
-   "NETANYAHU",
-   "E4gukmBxHTbBoMmQGyPg7xTcbMVSNUJBQD8jrNMwwQKJ",
-   0.082,
-   9.7,
-   ""
+   "$CHEEKS",
+   "8BpNVy9xZrZbydSrci5RdHN7hQ7toc8FNVcjzHqMpump",
+   0.137,
+   2.6,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "PILL",
    "BAvoz1Berxu9HoB9QBwSeh12WEhW8kYBjVpWqTeipump",
-   0.078,
-   2.1,
+   0.127,
+   3.2,
    ""
   ],
   [
    "LB",
    "78h7rxAczhZ2xCXZQ8skU97pEfkDcJMDanAgoauUJ87M",
    0.064,
-   3.7,
+   4.8,
    ""
   ],
   [
    "Vrax",
    "FtpWxkD426kGSWYKPnfU52FnvSGNECTZtxKaFERvfFxV",
    0.046,
-   3.8,
+   4.9,
    ""
   ],
   [
    "MARS",
    "3Rvark9qZPtkyBsfNTjL7mTvV71P3m2FCTWhusF1pump",
    0.043,
-   6.3,
+   7.4,
    ""
   ],
   [
-   "blups",
-   "E7b6XyDvcZMsi6sAmBq41wzAxborKTg5bp1xA4jfpump",
-   0.032,
-   5.2,
+   "Noclip",
+   "EG3g6r6mprdUfdwkR3uWyMMxcZbC2KHqjBDBdx1dpump",
+   0.039,
+   4.0,
+   ""
+  ],
+  [
+   "E/ACC",
+   "7fuB6ZNMj2Rb9C5yCiBt8c95sjZcZGLkucmzb3EQHsQG",
+   0.035,
+   2.2,
    ""
   ]
  ]
