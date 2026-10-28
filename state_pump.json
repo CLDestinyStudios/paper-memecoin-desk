@@ -27,83 +27,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:44:04",
+   "2026-10-28T02:45:05",
    500.0
   ]
  ],
- "cycles": 39,
+ "cycles": 40,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.62776565900889,
- "watching": 383,
+ "sol_usd": 102.77474622,
+ "watching": 375,
  "near": [
   [
    "Sunpepe",
    "38Y1dhjDuyeYDAqREq3HdhtZR77VomBVBqTMpQiTgXc5",
-   0.826,
-   3.8,
+   0.863,
+   4.9,
+   ""
+  ],
+  [
+   "TREPE",
+   "DeXTgK2tLuCy1oeXpSahxTryzhgxbvAv6V5DZfHdpump",
+   0.791,
+   2.7,
+   ""
+  ],
+  [
+   "POW",
+   "4ddbSm2nCuqyLdsXKJtdkyVkJE1BprsFqQhdXke3pump",
+   0.5,
+   2.1,
+   ""
+  ],
+  [
+   "SEPE",
+   "6Fo93G7mdppbp3kdN49BDuVg2eX8qeosaTdoyP5HtLfv",
+   0.285,
+   2.7,
    ""
   ],
   [
    "1M",
    "A3eqomp2m7YKa5PSy9rLnZjtbqdsNWJ1U7cN6AdSpump",
-   0.223,
-   5.5,
+   0.174,
+   6.5,
    "top5_hold_most=87%"
+  ],
+  [
+   "Sunpe",
+   "EnMhd6Lx2hAJe8dREpUArtNKmRaEcoifo2gTW2f1eu75",
+   0.099,
+   2.3,
+   ""
   ],
   [
    "Jepe",
    "5DPetaiLiMmjwhAWKyvPbxnYSWLBpC8CvY2E4gX8odvT",
    0.093,
-   6.9,
+   7.9,
+   ""
+  ],
+  [
+   "Sunpe",
+   "4dW9en95wAwuGjX4LVhZx9886mHPToqQiVG17Nykpump",
+   0.08,
+   2.4,
+   ""
+  ],
+  [
+   "Sepe",
+   "AWKHdvGSdUtwPjUXntbBmz2DQLvrt7qTyqCNNKiJpump",
+   0.066,
+   3.8,
    ""
   ],
   [
    "Sunpepe",
    "Db2p65X6P8gpuYFicMFUharBV2FHJaiH2Q24ZGREpump",
    0.066,
-   4.0,
-   ""
-  ],
-  [
-   "Sepe",
-   "AWKHdvGSdUtwPjUXntbBmz2DQLvrt7qTyqCNNKiJpump",
-   0.06,
-   2.8,
-   ""
-  ],
-  [
-   "Spidcat",
-   "7u6emKPgdEJmP8iAC33i7h9tThikfDNYyPShJovQpump",
-   0.053,
-   6.2,
-   ""
-  ],
-  [
-   "Executioner",
-   "9B2wGtMhZ8ixwgcHCA1n4K6j38nMLCMndZeTeHFwpump",
-   0.042,
-   4.5,
-   ""
-  ],
-  [
-   "SEPE",
-   "DdW1e2qTL4w3mMkPKfppnZYELp6LHzfZD2kp9yH8pump",
-   0.038,
-   2.5,
-   ""
-  ],
-  [
-   "Jepe",
-   "EnniBXpDCXw8v47dbUw2Sp4veuhLxPbmWH4yLubJpump",
-   0.03,
-   4.1,
-   ""
-  ],
-  [
-   "Sepe",
-   "4dTZQk4fXWw8x2aRtgLaSHHCxjkcC4fcCchpTQNZpump",
-   0.029,
-   2.3,
+   5.0,
    ""
   ]
  ]
