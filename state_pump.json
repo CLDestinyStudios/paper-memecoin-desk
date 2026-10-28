@@ -2,21 +2,35 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 347.1254358689524,
+ "cash": 333.87480763464424,
  "positions": {
-  "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump": {
-   "sym": "CEVANTO",
-   "bc": "DeoRVSufx4Ti6EpdYt5wggmnwDEtXcpE2BDvmMATxdQe",
-   "tokens": 1632193.559805336,
-   "cost": 10.74,
-   "cost0": 10.74,
-   "entry_px": 6.156821493097416e-08,
-   "entry_fill": 6.54047801740643e-08,
-   "opened": 1793198476.0788846,
-   "last_px": 7.159904393827722e-08,
-   "peak_px": 7.798504750499765e-08,
-   "last_val": 11.096372043579768,
-   "last_prog": 0.507
+  "692vVtj2vgnbRKZY6uwtEPPMzrmDX7dUPV12WRQCpump": {
+   "sym": "WOJAKAI",
+   "bc": "GiJjK2171PXd7TwYmakGPxMR4BxftWsiFzkMTgW2yzpP",
+   "tokens": 828964.5359181404,
+   "cost": 10.65,
+   "cost0": 10.65,
+   "entry_px": 1.1992370563039945e-07,
+   "entry_fill": 1.273161535090053e-07,
+   "opened": 1793200606.2855902,
+   "last_px": 1.1992370563039945e-07,
+   "peak_px": 1.1992370563039945e-07,
+   "last_val": 9.444330733123389,
+   "last_prog": 0.7
+  },
+  "H3Yjj7j75pWN5F2wxLTEeRFfikPeV8rH6fgmn1AMpump": {
+   "sym": "Detstvo",
+   "bc": "HHZWZaUhKKDupg2KxJ2BpHo75zvfU1uqb4STsYYTZrik",
+   "tokens": 2195135.7420401,
+   "cost": 10.62,
+   "cost0": 10.62,
+   "entry_px": 4.511239871495638e-08,
+   "entry_fill": 4.7943859095099235e-08,
+   "opened": 1793200606.5411098,
+   "last_px": 4.511239871495638e-08,
+   "peak_px": 4.511239871495638e-08,
+   "last_val": 9.39817165945529,
+   "last_prog": 0.288
   }
  },
  "traded": [
@@ -83,7 +97,9 @@
   "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump",
   "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump",
   "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump",
-  "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump"
+  "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump",
+  "692vVtj2vgnbRKZY6uwtEPPMzrmDX7dUPV12WRQCpump",
+  "H3Yjj7j75pWN5F2wxLTEeRFfikPeV8rH6fgmn1AMpump"
  ],
  "equity": [
   [
@@ -1229,81 +1245,85 @@
   [
    "2026-10-28T07:48:09",
    358.22
+  ],
+  [
+   "2026-10-28T08:16:46",
+   352.72
   ]
  ],
- "cycles": 343,
+ "cycles": 344,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.86,
- "watching": 224,
+ "sol_usd": 100.90905690200002,
+ "watching": 188,
  "near": [
   [
-   "S&P500",
-   "ByipqnNWtEZWwbM9c9huu7tqwKtoedpP4L78SP53pump",
-   0.627,
-   2.3,
+   "SP",
+   "7Xv8MsH7iX8Se4QtwVdRtqtAAh7X8v4X8tg8xDvKpump",
+   0.977,
+   4.1,
    ""
   ],
   [
-   "GHOST",
-   "4oLadj5v4Hxa6r9RCwaAtsaRV8fUTUYhT89VGEAzpump",
-   0.462,
+   "EFP",
+   "C6s1Ph66UmLPKhLH2FPGmzonwS74N7BnHUoaQvAGpump",
+   0.776,
    2.8,
    ""
   ],
   [
-   "RELO",
-   "CduevM2EraiUpxZzfQkX2KesiM8zTMyihE2kX2SQpump",
-   0.445,
-   5.7,
-   "buyers=2; creator=33.7%; top5_hold_most=100%"
+   "WOJAKAI",
+   "692vVtj2vgnbRKZY6uwtEPPMzrmDX7dUPV12WRQCpump",
+   0.7,
+   6.9,
+   "bought"
   ],
   [
-   "GENZ",
-   "5X5h8w3UqrGUvd4nuUNSPCPF4YW8uSBvMXXm35Ywpump",
-   0.367,
-   2.5,
-   "serial_creator=10 launches/24h"
+   "Detstvo",
+   "H3Yjj7j75pWN5F2wxLTEeRFfikPeV8rH6fgmn1AMpump",
+   0.288,
+   4.2,
+   "bought"
   ],
   [
-   "TITS",
-   "AzcUftqqs2gQqSGT9usb8J2UT6AwoXcbGhFUqWzppump",
-   0.167,
-   2.2,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Sol Pay ",
-   "EpxnMf5dTA2gNzWtBJzQLFZ9f7qc1HRDThv3rwNipump",
-   0.083,
-   2.4,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "RACCOIN",
-   "Cfm1w1iuwNSzGhAG2h3QmnXdjscKV2F8uMqfXaxXpump",
-   0.073,
-   10.0,
+   "Zenith",
+   "FGo917zxEkP6b1m8Gpy7FZ6FWESNMcLzaBotGH42pump",
+   0.201,
+   3.4,
    ""
   ],
   [
-   "TIT",
-   "EjjvGnYUNHXnFfQfHWEHuGi884K4KDFj83cSNmHdpump",
-   0.072,
-   4.7,
-   ""
+   "Koul",
+   "83PbqXQYS5hcooR78xCaL1b8rVDbEXPzdwck4YBqpump",
+   0.127,
+   3.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "MARTY",
-   "4NgNjWGXtMGJcGGVBztRo8qBrPU1k89Dybnh5v4Bpump",
-   0.064,
-   5.2,
+   "AODF",
+   "AYvuzup4afTHt26PLT97xvZ2943g84eYkzaVWueSpump",
+   0.122,
+   5.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "enderax",
-   "FHJgxtVhdMqdnogdNGSh3NkQ736dQVj9Ybi1k7cvpump",
-   0.044,
-   3.7,
+   "ZUNOR",
+   "CpeEv62nLLk7vsu8HTq9CVTDz8BKER5pRvM1uiEEpump",
+   0.115,
+   5.8,
+   ""
+  ],
+  [
+   "Pumpurr",
+   "H9WfXHfWiPNNEW44Qqjc2Uxy3rY1wjFT4PotC2Htpump",
+   0.069,
+   7.1,
+   ""
+  ],
+  [
+   "DDOG",
+   "35tuc25Rq8Um7imz1EiydihAxFFucnVBJepUTbaApump",
+   0.062,
+   2.9,
    ""
   ]
  ]
