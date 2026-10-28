@@ -15,7 +15,7 @@
    "opened": 1793228150.9612513,
    "last_px": 2.915503702572387e-08,
    "peak_px": 3.3235121125106424e-08,
-   "last_val": 3.5029679034647994,
+   "last_val": 3.5033803973966546,
    "last_prog": 0.028
   },
   "96RqMT8D3L9Au64S8wLsSUSLmfjX66vWWhdxrwfUpump": {
@@ -27,10 +27,10 @@
    "entry_px": 6.323119753058897e-08,
    "entry_fill": 6.75385706111005e-08,
    "opened": 1793228450.6684892,
-   "last_px": 5.4980678151886776e-08,
+   "last_px": 5.396599915918463e-08,
    "peak_px": 6.323119753058897e-08,
-   "last_val": 3.377973951940295,
-   "last_prog": 0.388
+   "last_val": 3.3151061235924058,
+   "last_prog": 0.379
   }
  },
  "traded": [
@@ -3053,81 +3053,85 @@
   [
    "2026-10-28T16:01:49",
    147.32
+  ],
+  [
+   "2026-10-28T16:02:51",
+   147.26
   ]
  ],
- "cycles": 809,
+ "cycles": 810,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.219652693,
- "watching": 284,
+ "sol_usd": 102.231689625,
+ "watching": 294,
  "near": [
   [
    "4fun",
    "B8UzugDXfQBPuXAekhFyxRQtjLB1HUgYoDyub8o1four",
-   0.803,
-   8.7,
+   0.797,
+   9.7,
    ""
-  ],
-  [
-   "AirdropCat",
-   "B1t6835597DByy9LKkExoucmsPGEzQmH2SWiFLZ2pump",
-   0.622,
-   2.2,
-   "creator=43.9%; top10=49.1%; top5_hold_most=98%"
   ],
   [
    "Mortgage",
    "2XnfD2JgEnZoWAC4tJ6nGUUWBBKeuTPMvfeNzA4gpump",
-   0.485,
-   3.5,
+   0.475,
+   4.5,
    ""
   ],
   [
-   "BangBus",
-   "Bz4Txiqtodz1qdPMsZ4nKQXiF7ayzXsgFnJcwQAspump",
-   0.259,
-   9.1,
-   "top5_hold_most=87%"
+   "kitkat",
+   "54y2Ak1xRk5JFFh4p77XiH33wpc26rw3pzGSTRuopump",
+   0.246,
+   2.8,
+   "serial_creator=6 launches/24h"
+  ],
+  [
+   "AirdropCat",
+   "B1t6835597DByy9LKkExoucmsPGEzQmH2SWiFLZ2pump",
+   0.1,
+   3.2,
+   "creator=43.9%; top10=49.1%; top5_hold_most=98%"
+  ],
+  [
+   "Mortgage",
+   "HzbUFo2zp8ybxW3qDgWXyoovDSoH4xZpRGVfGBMrpump",
+   0.093,
+   2.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "$LTC ",
    "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
    0.075,
-   5.2,
+   6.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Mortgage",
    "3dF6Pm6M47y2nRJ7fa2SrxfycXXkHBqFhov8iAcypump",
    0.073,
-   2.3,
+   3.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Mortgage",
-   "2Lxp11tDdb9Lsys2wvGRhyDHFLcN7HQS6DPmuHvvpump",
-   0.063,
-   3.2,
-   ""
-  ],
-  [
-   "WOW",
-   "4xUNHLBc2Dm4bhTikodtP9YRzhxKYSTYQwtk5yLmpump",
-   0.061,
+   "Slabs",
+   "F8yaVAFdyixVbgdcuUBvUPrkmnakyby2khe6CCDDpump",
+   0.036,
    2.6,
    ""
   ],
   [
-   "LUCIA",
-   "JE7dACRVRciuxQkSaBwzUSktXGswsJB6gLSYBWSfpump",
-   0.039,
-   6.1,
+   "Pepper",
+   "BvFn9kMsrfHyvmq1XZV4T3tAMN5GisWb6U7znBVZCab7",
+   0.022,
+   6.0,
    ""
   ],
   [
-   "memeify",
-   "4nBLT3P11QQEa5WGfAWM75ARor7jqx9ENVjzoJQ4pump",
-   0.032,
-   6.0,
+   "MCAT",
+   "FRutUmBqEq7g7CZsx7zgL8tqas6Rppt42GfrTH6kpump",
+   0.022,
+   4.6,
    ""
   ]
  ]
