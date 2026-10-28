@@ -13,10 +13,10 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 2.140602773602506e-07,
+   "last_px": 2.305042166185785e-07,
    "peak_px": 2.478730833627846e-07,
-   "last_val": 9.951888145077795,
-   "last_prog": 0.864,
+   "last_val": 10.71710616213284,
+   "last_prog": 0.882,
    "tp1_done": true,
    "realized": 2.4419044830450383
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.08883806926874e-08,
    "entry_fill": 5.421593203884645e-08,
    "opened": 1793217740.324521,
-   "last_px": 6.704461380885246e-08,
+   "last_px": 6.23423135533596e-08,
    "peak_px": 9.263362058213561e-08,
-   "last_val": 3.473409877297895,
-   "last_prog": 0.479,
+   "last_val": 3.225499758023812,
+   "last_prog": 0.447,
    "tp1_done": true,
    "realized": 1.7320922000349377
   },
@@ -45,10 +45,10 @@
    "entry_px": 3.991488284416175e-08,
    "entry_fill": 4.25452962688705e-08,
    "opened": 1793219206.2237034,
-   "last_px": 6.187798810483097e-08,
+   "last_px": 6.43555551223127e-08,
    "peak_px": 6.87570727540235e-08,
-   "last_val": 3.9253263638232028,
-   "last_prog": 0.443,
+   "last_val": 4.083436390068867,
+   "last_prog": 0.461,
    "tp1_done": true,
    "realized": 1.3622626831566609
   },
@@ -61,10 +61,10 @@
    "entry_px": 4.494384230837563e-08,
    "entry_fill": 4.790622164954402e-08,
    "opened": 1793219446.310831,
-   "last_px": 6.441808065295507e-08,
+   "last_px": 6.128657273750343e-08,
    "peak_px": 6.815948314987057e-08,
-   "last_val": 3.5768766293889445,
-   "last_prog": 0.462,
+   "last_val": 3.39973308969948,
+   "last_prog": 0.439,
    "tp1_done": true,
    "realized": 0.9298986667200833
   },
@@ -77,10 +77,10 @@
    "entry_px": 8.567503310536413e-08,
    "entry_fill": 9.128630437751096e-08,
    "opened": 1793219864.5615897,
-   "last_px": 1.434877878778908e-07,
+   "last_px": 1.295560563402065e-07,
    "peak_px": 1.434877878778908e-07,
-   "last_val": 4.188788159353105,
-   "last_prog": 0.756,
+   "last_val": 3.776305791657483,
+   "last_prog": 0.724,
    "tp1_done": true,
    "realized": 1.3387881593531046
   }
@@ -2550,81 +2550,85 @@
   [
    "2026-10-28T13:39:46",
    189.49
+  ],
+  [
+   "2026-10-28T13:40:46",
+   189.57
   ]
  ],
- "cycles": 667,
+ "cycles": 668,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.02561100130647,
- "watching": 370,
+ "sol_usd": 102.00000000000001,
+ "watching": 385,
  "near": [
   [
    "ACT:G",
    "z4mEuCQUypJa78ssKPfj4PDqTRgxYwvLJEygyxjpump",
-   0.97,
-   4.2,
+   0.962,
+   5.2,
    ""
   ],
   [
    "GROKBOT",
    "GsFWzNJDqWVRc6NEAd9E6YZCPYGLk1HWYxv19n1pump",
    0.611,
-   4.0,
+   5.0,
    "buyers=1; creator=48.4%; top10=48.4%; top5_hold_most=100%"
   ],
   [
-   "BUNK",
-   "HGczF84BuTgUJ8f9tufhxukG8SS5be1zT1GL2L1Mpump",
-   0.456,
-   2.4,
-   "serial_creator=13 launches/24h"
+   "LEVELCAT",
+   "DNx9yRyDep7zbjsDGVTECrcpEwdaX2PHWeuVyjNjfZZe",
+   0.257,
+   5.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "22M",
    "J9gRsXppBFVDfFwGZgKi4ezczbhU7NrcSAxezdvrZo5q",
    0.244,
-   4.6,
+   5.6,
    "buyers=1; creator=19.4%; top5_hold_most=100%"
   ],
   [
-   "HANS",
-   "6QkpBnBMcP1EyLeeJr4tsn7Zg1kFRC3Yzyxc5BZCpump",
-   0.222,
-   9.1,
-   "top5_hold_most=84%"
-  ],
-  [
-   "LEVELCAT",
-   "DNx9yRyDep7zbjsDGVTECrcpEwdaX2PHWeuVyjNjfZZe",
-   0.214,
-   4.8,
+   "STREAM",
+   "3w7SRf7mN3Kc2LXDnLUptykLVsbCuZMpxq2U6zEypump",
+   0.216,
+   2.4,
    ""
   ],
   [
    "JYNXZI",
    "7tZSJL5f7raYQQ3grSC8hVovQ1AGQTvKCv8kxoGmaUeB",
    0.208,
-   7.3,
+   8.3,
    "buyers=8"
-  ],
-  [
-   "10/28",
-   "HUCaw4Z5TxD9UWfjsVDuHeR8s5erdddk5ywFfmCQpump",
-   0.096,
-   2.4,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "ROWDY",
    "65aDmhL4tcmqByrY5CHf8A4U8vAMtmN4A36LbfyPpump",
    0.089,
-   4.2,
+   5.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "BUNK",
    "6ww1gwryFWNeChffxqChueojzpnMU98K6kSj2RD8pump",
-   0.078,
-   3.0,
+   0.074,
+   4.0,
+   ""
+  ],
+  [
+   "WW3",
+   "BV8B1ECr6LUFtTouQQYaaxuhg25UMBdAzTUxhbhupump",
+   0.071,
+   3.6,
+   ""
+  ],
+  [
+   "BUNK",
+   "8hXL1Khmog6LrxjWzwhSzrgQhXPBDn7tBoKAnwonpump",
+   0.071,
+   2.3,
    ""
   ]
  ]
