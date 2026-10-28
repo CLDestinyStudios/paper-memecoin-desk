@@ -1682,83 +1682,83 @@
    272.36
   ],
   [
-   "2026-10-28T10:12:55",
+   "2026-10-28T10:13:55",
    272.36
   ]
  ],
- "cycles": 460,
+ "cycles": 461,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.00323069456412,
- "watching": 358,
+ "sol_usd": 100.98567388699999,
+ "watching": 371,
  "near": [
-  [
-   "PRECEDENT",
-   "gptVFPhs1rPL98MMYp8Va9tYueYdR5ZdvUTM7HKpump",
-   1.0,
-   5.8,
-   "graduated"
-  ],
   [
    "sponk",
    "5Pn71n2xeHDmp7wMhACpyqs3SpSqRLucuHihA42cpump",
-   0.598,
-   3.0,
+   0.413,
+   4.0,
    ""
   ],
   [
    "PKLN",
    "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
-   0.417,
-   3.3,
+   0.382,
+   4.3,
    "launch_slot=missing"
   ],
   [
    "Haunted",
    "4bxVxarv6mtmUQ8eMSg2kC6GY2hzo5yJk3QKzttupump",
-   0.27,
-   2.6,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   0.294,
+   3.6,
+   "launch_slot=missing"
   ],
   [
    "SAIL",
    "Ey37oyaVYTm5fPdHZ1FxbkM96nfzuH73yeVaUx2Vpump",
    0.189,
-   4.2,
+   5.2,
    "buyers=6; top5_hold_most=98%; launch_slot=missing"
-  ],
-  [
-   "BLOOM",
-   "HYjijiexmo9Jb2HUSQvyeiZsNgSXJQYiagLZafAtpump",
-   0.148,
-   7.1,
-   ""
   ],
   [
    "LAUNCHINU",
    "D3pQsyjLQmMiUho1UA5TVPFVUDzirHxSB34DEoG7pump",
    0.134,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "BLOOM",
+   "HYjijiexmo9Jb2HUSQvyeiZsNgSXJQYiagLZafAtpump",
+   0.121,
+   8.1,
    ""
   ],
   [
    "Pumpfund",
    "bz8zKspb1Vb9uH5ydNxjr17rA1sK6LUDjTuRQwwpump",
-   0.109,
-   2.4,
+   0.107,
+   3.4,
+   ""
+  ],
+  [
+   "SQUADMARKET",
+   "CKpVh225tpP3F9ag2g1rTt9rUwjGR5ierw3Jm8MZpump",
+   0.087,
+   3.9,
+   ""
+  ],
+  [
+   "tets",
+   "4oWJ4e6893qrozpc9mbtAXaTitzc5A6LEGMv7T3vpump",
+   0.073,
+   2.5,
    ""
   ],
   [
    "Useful",
    "BaoNSjdRhALmD6eXEMPx2AjTqZXEqGTKt5yFpBVVpump",
    0.067,
-   3.7,
-   ""
-  ],
-  [
-   "DAN",
-   "rfMCSAY8q9DJUrvP4JwzYV5wiZUyDn1Ujekj7Ujpump",
-   0.066,
-   3.9,
+   4.7,
    ""
   ]
  ]
