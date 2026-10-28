@@ -1686,84 +1686,84 @@
    272.36
   ],
   [
-   "2026-10-28T10:17:55",
+   "2026-10-28T10:18:55",
    272.36
   ]
  ],
- "cycles": 465,
+ "cycles": 466,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.94564822198461,
- "watching": 322,
+ "sol_usd": 100.96169451800002,
+ "watching": 320,
  "near": [
   [
    "Sol",
    "H2WoYa5yEncEhryAvC6NMumWaQ1MTYSZ7acAHSuMpump",
-   0.734,
-   3.4,
+   0.78,
+   4.4,
    ""
   ],
   [
-   "PKLN",
-   "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
-   0.507,
-   8.3,
-   "launch_slot=missing"
+   "N3838",
+   "GDanxd8eXnrXgi78hKW2m1efqCirh6Qj5jtQHVWgpump",
+   0.563,
+   2.3,
+   ""
   ],
   [
-   "sponk",
-   "5Pn71n2xeHDmp7wMhACpyqs3SpSqRLucuHihA42cpump",
-   0.199,
-   8.0,
-   ""
+   "DAN",
+   "B2sVaAg4Bi8NjU97wvWVwEifTfmEf137zes4qpXspump",
+   0.35,
+   3.0,
+   "top5_hold_most=90%; launch_slot=missing"
   ],
   [
    "SAIL",
    "Ey37oyaVYTm5fPdHZ1FxbkM96nfzuH73yeVaUx2Vpump",
    0.185,
-   9.2,
+   10.2,
    "buyers=6; top5_hold_most=98%; launch_slot=missing"
   ],
   [
-   "UP",
-   "8Kgc3GSGDkfwmbFx8asajeNHsN5gQGFi7cvyeowfpump",
-   0.176,
-   6.0,
-   "top5_hold_most=94%; launch_slot=missing"
-  ],
-  [
-   "UP",
-   "GPCqj8vZsWcbXyjjMqSZVHkVSBDJnhTXUq9M9GfUpump",
-   0.163,
-   5.8,
+   "AINT",
+   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
+   0.121,
+   2.9,
    ""
-  ],
-  [
-   "3CHUCKS",
-   "6NSHJK4jMu6nLh5AuNHsxTECwCa4vEHi8GZ3wkUppump",
-   0.107,
-   4.6,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "BBR",
    "DYNivefzD5te2ztKD6nuRUoq8ARFSej5w9gRbBB5pump",
-   0.09,
-   3.8,
+   0.088,
+   4.8,
    ""
   ],
   [
-   "LAUNCHINU",
-   "D3pQsyjLQmMiUho1UA5TVPFVUDzirHxSB34DEoG7pump",
-   0.089,
-   9.5,
+   "SQUADMARKET",
+   "CKpVh225tpP3F9ag2g1rTt9rUwjGR5ierw3Jm8MZpump",
+   0.076,
+   8.9,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "UP",
+   "GPCqj8vZsWcbXyjjMqSZVHkVSBDJnhTXUq9M9GfUpump",
+   0.065,
+   6.8,
    ""
   ],
   [
-   "\ud83d\udc0d",
-   "BpDR9CZtZKYMu1a9L8yBfdXVJx9NcbZjkaVYSRq8pump",
-   0.084,
-   5.5,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
+   "Haunted",
+   "4bxVxarv6mtmUQ8eMSg2kC6GY2hzo5yJk3QKzttupump",
+   0.059,
+   8.6,
+   "buyers=9; top5_hold_most=84%; launch_slot=missing"
+  ],
+  [
+   "LITEDOGE",
+   "DsEb2vW95GzGoCxiGdyVhe8dKbUomSGwuAoScJ3Hpump",
+   0.053,
+   6.7,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
