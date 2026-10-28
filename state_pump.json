@@ -1686,83 +1686,83 @@
    272.36
   ],
   [
-   "2026-10-28T10:21:56",
+   "2026-10-28T10:23:10",
    272.36
   ]
  ],
- "cycles": 469,
+ "cycles": 470,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.900449833,
- "watching": 306,
+ "sol_usd": 100.94873575107415,
+ "watching": 302,
  "near": [
-  [
-   "Sol",
-   "H2WoYa5yEncEhryAvC6NMumWaQ1MTYSZ7acAHSuMpump",
-   0.678,
-   7.4,
-   "serial_creator=6 launches/24h"
-  ],
   [
    "N3838",
    "GDanxd8eXnrXgi78hKW2m1efqCirh6Qj5jtQHVWgpump",
-   0.523,
-   5.3,
+   0.598,
+   6.6,
    ""
   ],
   [
    "FARM",
    "FGGH7AXvghCegiCqpgFMWVz7DNnQ4UrMVWag4CCjpump",
    0.367,
-   4.6,
+   5.9,
    "creator=20.6%; top5_hold_most=97%; launch_slot=missing"
   ],
   [
    "PINGU",
    "BWzMayEAPTaXKUgxCQcoV4dzdEZ2hpWXvGANX3kbpump",
-   0.278,
-   2.5,
+   0.253,
+   3.7,
+   ""
+  ],
+  [
+   "AEP",
+   "CcfmAXekH8xN5hfMArbh6W1fagfgZj3FF5DRab8Vpump",
+   0.195,
+   2.6,
+   "top5_hold_most=82%; launch_slot=missing"
+  ],
+  [
+   "LETTUCE",
+   "27HQRcioKwck9nNrvCc5brgQC78sYsFvYWgrQhe7pump",
+   0.191,
+   3.4,
+   "buyers=1; creator=15.2%; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "AINT",
+   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
+   0.123,
+   7.2,
+   ""
+  ],
+  [
+   "BBR",
+   "DYNivefzD5te2ztKD6nuRUoq8ARFSej5w9gRbBB5pump",
+   0.113,
+   9.1,
+   ""
+  ],
+  [
+   "DATACENTER",
+   "5Fj6JLTVhBj1QscnmgSzFuKj3MLJJEsJj6opKxeSpump",
+   0.113,
+   3.1,
    ""
   ],
   [
    "BABYCOW",
    "3XqJf3ZWkHKRw1E9ErMWMswpxw12ZkMWEso8hkm4pump",
    0.112,
-   4.0,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+   5.2,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "yanito932",
    "6bSmNUAqE3x5XFk5H5b9MvbcEvVdtHNm8bvZhzo4pump",
    0.095,
-   2.9,
-   ""
-  ],
-  [
-   "BBR",
-   "DYNivefzD5te2ztKD6nuRUoq8ARFSej5w9gRbBB5pump",
-   0.086,
-   7.9,
-   ""
-  ],
-  [
-   "AINT",
-   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
-   0.086,
-   5.9,
-   ""
-  ],
-  [
-   "SOLANA",
-   "267c5QpX1pWUEwXb9FFp9b6H2zffJStY1dxzGo7Rpump",
-   0.072,
-   3.4,
-   ""
-  ],
-  [
-   "MOTION",
-   "CLxKtMbNWyUdZKrHcMPRsYCJyboXXgaoJitLRGdp75mw",
-   0.064,
-   2.3,
+   4.2,
    ""
   ]
  ]
