@@ -15,7 +15,7 @@
    "opened": 1793181366.3948848,
    "last_px": 5.177343764170713e-08,
    "peak_px": 6.556155621981468e-08,
-   "last_val": 13.162262107176463,
+   "last_val": 13.15712558447251,
    "last_prog": 0.359
   }
  },
@@ -126,83 +126,83 @@
    470.23
   ],
   [
-   "2026-10-28T03:06:06",
+   "2026-10-28T03:07:06",
    470.23
   ]
  ],
- "cycles": 61,
+ "cycles": 62,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.966897621,
- "watching": 364,
+ "sol_usd": 102.926715181,
+ "watching": 377,
  "near": [
   [
    "reply",
    "6tgcAAdGeyYm6vuxjznVVXnndWakoi47PtsKzyX7pump",
-   0.498,
-   3.4,
+   0.558,
+   4.4,
    ""
   ],
   [
-   "CrawlCat",
-   "Rm8xx8HesYGvDb7pvSSLKUvadcY9Ti3wvoAMu1fpump",
-   0.4,
-   2.8,
-   "bundled_launch=3 extra buys in creation block"
+   "TCF",
+   "FFcSXv6E4pLw5y9K3bmjdSMS6Xr1xoYVNNL8fkaApump",
+   0.167,
+   2.1,
+   "top5_hold_most=96%"
   ],
   [
    "\u725b\u6765",
    "Esz8znyeSa8tcfNxyeAPH2VyjbQKvG4SJCmgfAoZpump",
    0.159,
-   3.6,
+   4.6,
    "top5_hold_most=94%"
+  ],
+  [
+   "PVE",
+   "6S8RBRR2tP2VaiJZciSX1mDQYFXuAY4YcXpxFNwUpump",
+   0.097,
+   2.8,
+   ""
   ],
   [
    "CP",
    "8VqYzzdNZGbnXYjWCQYSViaM8KVTXoT8NGaXaKuopump",
    0.09,
-   3.0,
+   4.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BLIND",
    "8qKLFZDNTAq1uDV3qH6aqugvf1RcKD6FPf65f1mmpump",
    0.076,
-   5.4,
+   6.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Politicat",
    "9NhRhKCAfWYJBQZNn6XYu42N4qqSHGYPeJmEh1dApump",
    0.074,
-   3.0,
-   ""
-  ],
-  [
-   "Mara",
-   "FXKpr8Msewn98cPyP7Cyn1VZGEyLDeQ4oJfTz9Nkpump",
-   0.056,
-   2.5,
+   4.0,
    ""
   ],
   [
    "SQUIDWARD",
    "EFFD9PrvXQCo8gCXQ23pqAXgyB8xNmHG92jdnHC2pump",
    0.043,
-   5.4,
+   6.4,
    ""
   ],
   [
-   "Sky",
-   "45jbhyuvkLuBebRMjiefsZZgn8e6DQF5bsCDEUyCpump",
-   0.029,
-   5.4,
+   "Mara",
+   "FXKpr8Msewn98cPyP7Cyn1VZGEyLDeQ4oJfTz9Nkpump",
+   0.035,
+   3.5,
    ""
   ],
   [
-   "BORED",
-   "2pUvksK5t2iSkhEMeDbTLK1TbTz1y6LpZTZa8k4Qpump",
-   0.028,
-   4.8,
+   "HALVE",
+   "2CYPkU85gLRjiU1NXUBygQ7dUXW9cjgSDvjHStJbpump",
+   0.034,
+   2.8,
    ""
   ]
  ]
