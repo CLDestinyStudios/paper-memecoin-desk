@@ -27,83 +27,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:45:05",
+   "2026-10-28T02:46:08",
    500.0
   ]
  ],
- "cycles": 40,
+ "cycles": 41,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.77474622,
- "watching": 375,
+ "sol_usd": 102.67316119200001,
+ "watching": 364,
  "near": [
-  [
-   "Sunpepe",
-   "38Y1dhjDuyeYDAqREq3HdhtZR77VomBVBqTMpQiTgXc5",
-   0.863,
-   4.9,
-   ""
-  ],
   [
    "TREPE",
    "DeXTgK2tLuCy1oeXpSahxTryzhgxbvAv6V5DZfHdpump",
-   0.791,
-   2.7,
+   0.846,
+   3.7,
    ""
   ],
   [
+   "Sunpepe",
+   "38Y1dhjDuyeYDAqREq3HdhtZR77VomBVBqTMpQiTgXc5",
+   0.685,
+   5.9,
+   "serial_creator=10 launches/24h"
+  ],
+  [
    "POW",
-   "4ddbSm2nCuqyLdsXKJtdkyVkJE1BprsFqQhdXke3pump",
-   0.5,
-   2.1,
+   "2t7ZQLKRMXKJcJUGNsAzEJss2vJnTk6wL2seGNDiVq6g",
+   0.643,
+   2.2,
+   ""
+  ],
+  [
+   "Cursonic",
+   "BXaxqwduWL4g49RJv7QGb5Hhre4GeLrjEca5i5G2pump",
+   0.306,
+   2.4,
    ""
   ],
   [
    "SEPE",
    "6Fo93G7mdppbp3kdN49BDuVg2eX8qeosaTdoyP5HtLfv",
-   0.285,
-   2.7,
+   0.248,
+   3.8,
    ""
   ],
   [
    "1M",
    "A3eqomp2m7YKa5PSy9rLnZjtbqdsNWJ1U7cN6AdSpump",
-   0.174,
-   6.5,
-   "top5_hold_most=87%"
+   0.182,
+   7.5,
+   "top5_hold_most=85%"
   ],
   [
-   "Sunpe",
-   "EnMhd6Lx2hAJe8dREpUArtNKmRaEcoifo2gTW2f1eu75",
-   0.099,
-   2.3,
-   ""
+   "JOB",
+   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
+   0.176,
+   2.8,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "Jepe",
    "5DPetaiLiMmjwhAWKyvPbxnYSWLBpC8CvY2E4gX8odvT",
    0.093,
-   7.9,
+   8.9,
    ""
   ],
   [
    "Sunpe",
    "4dW9en95wAwuGjX4LVhZx9886mHPToqQiVG17Nykpump",
    0.08,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "Sepe",
-   "AWKHdvGSdUtwPjUXntbBmz2DQLvrt7qTyqCNNKiJpump",
-   0.066,
-   3.8,
-   ""
-  ],
-  [
-   "Sunpepe",
-   "Db2p65X6P8gpuYFicMFUharBV2FHJaiH2Q24ZGREpump",
-   0.066,
-   5.0,
+   "POW",
+   "4ddbSm2nCuqyLdsXKJtdkyVkJE1BprsFqQhdXke3pump",
+   0.072,
+   3.2,
    ""
   ]
  ]
