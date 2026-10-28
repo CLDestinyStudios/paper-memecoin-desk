@@ -13,10 +13,10 @@
    "entry_px": 5.0941630826738066e-08,
    "entry_fill": 5.411811988851844e-08,
    "opened": 1793185687.143418,
-   "last_px": 5.0941630826738066e-08,
-   "peak_px": 5.0941630826738066e-08,
-   "last_val": 10.885306926953708,
-   "last_prog": 0.351
+   "last_px": 6.900620125063823e-08,
+   "peak_px": 6.900620125063823e-08,
+   "last_val": 14.744517300293433,
+   "last_prog": 0.492
   }
  },
  "traded": [
@@ -342,81 +342,85 @@
   [
    "2026-10-28T04:08:07",
    408.42
+  ],
+  [
+   "2026-10-28T04:09:05",
+   412.28
   ]
  ],
- "cycles": 123,
+ "cycles": 124,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.62152386075088,
- "watching": 289,
+ "sol_usd": 102.53584316044318,
+ "watching": 277,
  "near": [
-  [
-   "ROVO",
-   "98ykdwxiqeJRE7v1s6MwAdCGUbVXDsrazQaq1w4Jpump",
-   0.351,
-   6.4,
-   "bought"
-  ],
   [
    "$N64",
    "H7VjniZYWXDxjyykCeJJ3otyYyczmGQJTVXPnn39pump",
-   0.134,
-   7.3,
+   0.138,
+   8.2,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BARBIE",
+   "57UyzeyuXZdJngpuwWZm1oSUeEevZKU8An439cMJpump",
+   0.076,
+   8.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "slayer ",
    "4nRGMYcsXVyisHHcnJsaswrn3cAppB6wWcg99R9Qpump",
    0.051,
-   3.8,
+   4.8,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "moginmu",
-   "BA8W2VFrVoybGe427yggMdsW9ki1nPbppGRMhExKpump",
-   0.048,
-   9.9,
-   "buyers=8; top5_hold_most=94%"
   ],
   [
    "DOJO",
    "CJxak5D1zK2tDQvbqXpP12HymbE8T2Tvhf8waSEKpump",
    0.045,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "$UNIDOS",
+   "Apoy3gFu3Cv3bXJZufS7brBPAFzkoCt1EfnHqaxxpump",
+   0.043,
+   2.8,
    ""
   ],
   [
    "Pumper",
    "4ZaDhRq9jfVQwvjL7s1AUBnckLxY1HTChCcKqHKppump",
    0.042,
-   5.7,
+   6.7,
    "creator=18.5%"
-  ],
-  [
-   "\u30de\u30e1",
-   "2bjnX3XN3kk5HKvvgcNPLeAvPUUEvorUHdKyFS4dpump",
-   0.041,
-   9.2,
-   "creator=15.1%"
-  ],
-  [
-   "BARBIE",
-   "57UyzeyuXZdJngpuwWZm1oSUeEevZKU8An439cMJpump",
-   0.035,
-   7.9,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Pumpers",
    "AbU3rBUAAX1RzUG2CB8bnVCSwowUnJq3ihfV2pchpump",
    0.033,
-   3.7,
+   4.7,
    ""
   ],
   [
    "Dieunerst",
    "C3X6ukz4FZZ5KZXYvPv3X97262iUAfeUfe2T1aPppump",
    0.03,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "CHART ",
+   "3NXLkJ2kjGW3Csfueu64MkRozrqdhrTpeiPreuwEpump",
+   0.022,
+   2.6,
+   ""
+  ],
+  [
+   "RocketAPE",
+   "27H3VjQvgoJ4eLEeyvDgbwJyeFy8erqNvKNVBd3Tpump",
+   0.012,
+   8.1,
    ""
   ]
  ]
