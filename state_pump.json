@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 429.5513858264961,
+ "cash": 426.04538458272765,
  "positions": {
   "2YJokSbssQXTKt1pY1jx25wgCHaSqa1pjFvjHaywpump": {
    "sym": "massacre",
@@ -13,24 +13,24 @@
    "entry_px": 4.506163002202779e-08,
    "entry_fill": 4.787632634508601e-08,
    "opened": 1793182146.94087,
-   "last_px": 4.493547097565845e-08,
+   "last_px": 4.493308793078104e-08,
    "peak_px": 4.506163002202779e-08,
-   "last_val": 12.438182982438072,
+   "last_val": 12.442699187221416,
    "last_prog": 0.286
   },
-  "C21mctvobZQntNgWHasTgeSg2m6k2AtaNp6wgjZqpump": {
-   "sym": "frontman",
-   "bc": "3xLGtXYb5wXqfqEPR2u2zHG85q2U1hchdUU7xDbRiqfy",
-   "tokens": 3353039.1712273406,
-   "cost": 13.89,
-   "cost0": 13.89,
-   "entry_px": 3.791572411269225e-08,
-   "entry_fill": 4.029679482332199e-08,
-   "opened": 1793182327.250246,
-   "last_px": 3.82996960021837e-08,
-   "peak_px": 4.767530644231013e-08,
-   "last_val": 12.41850422244906,
-   "last_prog": 0.197
+  "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump": {
+   "sym": "Rackz",
+   "bc": "Bni9nG8XTawmsyk23zjgXaVNe3BWUcnrvRGWays6ftSW",
+   "tokens": 2765252.832815094,
+   "cost": 13.56,
+   "cost0": 13.56,
+   "entry_px": 4.4876232855813084e-08,
+   "entry_fill": 4.768016068132094e-08,
+   "opened": 1793182806.7325222,
+   "last_px": 4.4876232855813084e-08,
+   "peak_px": 4.4876232855813084e-08,
+   "last_val": 12.008125569223411,
+   "last_prog": 0.285
   }
  },
  "traded": [
@@ -45,7 +45,8 @@
   "2YJokSbssQXTKt1pY1jx25wgCHaSqa1pjFvjHaywpump",
   "C21mctvobZQntNgWHasTgeSg2m6k2AtaNp6wgjZqpump",
   "BB2zoUXWthQfvt9M6TyvqhQCFW1v2xUTgkLXF53Wpump",
-  "4MPxHvSwoKPTbdbfNdbTH2jdSBnXW8qLUaDX4Runpump"
+  "4MPxHvSwoKPTbdbfNdbTH2jdSBnXW8qLUaDX4Runpump",
+  "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump"
  ],
  "equity": [
   [
@@ -195,81 +196,85 @@
   [
    "2026-10-28T03:19:06",
    454.41
+  ],
+  [
+   "2026-10-28T03:20:06",
+   450.5
   ]
  ],
- "cycles": 74,
+ "cycles": 75,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.80314109514015,
- "watching": 275,
+ "sol_usd": 102.84593559400001,
+ "watching": 288,
  "near": [
-  [
-   "TOLEDO",
-   "7DaA5x9Fwcg7mybgYovE5sddgYPczaTVNduqGZ8VR7oK",
-   0.481,
-   2.6,
-   "serial_creator=25 launches/24h"
-  ],
   [
    "Rackz",
    "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump",
-   0.284,
-   3.6,
-   ""
-  ],
-  [
-   "DOGWIFPUMP",
-   "7e6h41RHTt4NHEjvj2ro2gYKan7P7uANGqqF5PdUpump",
-   0.266,
-   9.6,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "TOLEDO",
-   "pS9RFL4ZHGbBTXt9tg9HLdfZvDf2DAgjtwCaKSopump",
-   0.173,
-   2.7,
-   ""
-  ],
-  [
-   "popdog",
-   "96F37n9i7kvoqdXpUDCjT7FmNaKa8Yqx3d6y3g9Rpump",
-   0.112,
-   2.9,
-   ""
+   0.285,
+   4.6,
+   "bought"
   ],
   [
    "PVE",
    "DFZhonD6s8i6Nwp5ypD6U5B7xL71MK6jMDiJxMp2cPMj",
-   0.102,
-   3.4,
-   "buyers=4; top5_hold_most=100%"
+   0.124,
+   4.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "TOLEDO",
    "4exjGHRiBqNqJHw6qreErsx8ewDz7vkzxsLL2fbLpump",
-   0.099,
-   2.1,
+   0.085,
+   3.1,
+   ""
+  ],
+  [
+   "TOLEDO",
+   "EJws3FUrfgT9KGtAEsMFA6QdpJgHfQcFw7sRpvbMpump",
+   0.032,
+   2.8,
    ""
   ],
   [
    "Spain",
    "FbcQADxggDobmNXaZbjPKj4jzBjwyf6awSbFUvk3oTgR",
    0.032,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "Pain",
-   "AHWAKqq9NLPD7UU1pAD79syKHacMxSgjgH2z4aw1pump",
-   0.03,
-   5.1,
+   "THE",
+   "8ZQM7vjSFNzDMGNyFcaPx5qUT7trMePcCrDfghaVpump",
+   0.028,
+   4.9,
    ""
   ],
   [
-   "Spain",
-   "Sdwp6wEAe3KJsNxDqQLAus9asP2xGo9DQyFckSNpump",
-   0.029,
-   5.1,
+   "Hand",
+   "4eu9iGZswthjhWV4VppGat9T56Yyo3eN92XA84DVpump",
+   0.022,
+   5.6,
+   ""
+  ],
+  [
+   "FOMGUS",
+   "Hwq9SAT7T7tNh2CjfihnXWEVNjPkPCXYeLGgrBjKpump",
+   0.022,
+   2.2,
+   ""
+  ],
+  [
+   "PUMPPILL",
+   "EWFJMvkyygvPtdCzrSQTk24jmyb11DkAordduCTSpump",
+   0.012,
+   4.2,
+   ""
+  ],
+  [
+   "UP",
+   "8cWk8Sevx8sqFQjDoosxkiUhB24x8B9EHPjZfpz8pump",
+   0.011,
+   2.2,
    ""
   ]
  ]
