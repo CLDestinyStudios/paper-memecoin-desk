@@ -13,10 +13,10 @@
    "entry_px": 8.791508991733059e-08,
    "entry_fill": 9.39175472585711e-08,
    "opened": 1793229231.6565785,
-   "last_px": 8.791508991733059e-08,
+   "last_px": 7.649167921469515e-08,
    "peak_px": 8.791508991733059e-08,
-   "last_val": 3.7972934513620364,
-   "last_prog": 0.59
+   "last_val": 3.2973819483317603,
+   "last_prog": 0.535
   },
   "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump": {
    "sym": "CQMAGO",
@@ -27,10 +27,10 @@
    "entry_px": 5.605046256230343e-08,
    "entry_fill": 5.989212144658238e-08,
    "opened": 1793229232.1967444,
-   "last_px": 5.605046256230343e-08,
+   "last_px": 5.456272202279321e-08,
    "peak_px": 5.605046256230343e-08,
-   "last_val": 3.777910327254037,
-   "last_prog": 0.397
+   "last_val": 3.676301030538401,
+   "last_prog": 0.384
   }
  },
  "traded": [
@@ -3096,81 +3096,85 @@
   [
    "2026-10-28T16:13:52",
    143.55
+  ],
+  [
+   "2026-10-28T16:14:50",
+   142.95
   ]
  ],
- "cycles": 821,
+ "cycles": 822,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.40427064856026,
- "watching": 368,
+ "sol_usd": 102.4037168655,
+ "watching": 382,
  "near": [
   [
    "FCD",
    "Cj57SFXYtJkBEvpa4qSz2vojmPpcxvoNrfQHUQNMpump",
-   0.96,
-   4.3,
-   ""
+   1.0,
+   5.3,
+   "graduated"
   ],
   [
    "HODL",
    "8XJtkuHmxf1azwEFVb1g4AqeJM92WvpHZ7brw8dppump",
-   0.786,
-   3.3,
+   0.787,
+   4.3,
    ""
   ],
   [
    "pad",
    "82EZ2NLXqensSKwT3n8UNVbR6HnRZq4E8RHxWgKepump",
-   0.6,
-   6.1,
+   0.572,
+   7.0,
    ""
   ],
   [
-   "MEMORYPAD",
-   "8xASHvTLdyFVAttJiuw9REzX6Z8AG9y2zDVqhrmnpump",
-   0.59,
-   2.6,
-   "bought"
-  ],
-  [
-   "CQMAGO",
-   "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump",
-   0.397,
-   9.2,
-   "bought"
-  ],
-  [
-   "FCD",
-   "4xfJMY81khmWp7dLorw1D8e4BUgxKTsrDKhXqnZrpump",
-   0.335,
-   2.8,
-   "bundled_launch=6 extra buys in creation block"
+   "Zero",
+   "57244cZJsyAroBj4aeUto94xrRJEJrSCPnm58VTmpump",
+   0.118,
+   2.9,
+   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "tradition",
    "6rCXRZbTepKqBaAtygEDCpwiEvajPrDpakeXbVZYpump",
    0.108,
-   5.5,
+   6.4,
    ""
   ],
   [
-   "PAD",
-   "6eCvDeuhtKjWvtX1KdYCYfakhttQjsXyfRfNPmZrczdV",
-   0.077,
-   5.1,
+   "littlethrift",
+   "Bd1hSNDCHWbN9ZYzkFKmky4XRukEpxqaUYPBQjbgpump",
+   0.101,
+   2.9,
    ""
   ],
   [
-   "CRINGE",
-   "27cXPzJ3gCcLkbrESKn6Cr8hYy2Zzcr9uG1uLxA7pump",
-   0.064,
-   5.4,
-   ""
-  ],
-  [
-   "frocadoge",
-   "2LreEfizxBn3RLeTKPmdEsMXCpMSq4d4mtJ3uK5dpump",
+   "Dicky",
+   "38QQtSV1AqLmxiZRmKqKAxqLDg4B2b6WayEH8zQPpump",
    0.063,
+   2.1,
+   ""
+  ],
+  [
+   "RETROPC",
+   "CWFNdy9SRXWUAN67BgYgGQSwMACNEirjpRh6Rcun2ncM",
+   0.062,
+   8.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MS",
+   "4rsk6WDUSkXxpZyqKux7H3AcK14wtKJEPha52mxipump",
+   0.043,
    2.6,
+   ""
+  ],
+  [
+   "TAPSLAND",
+   "EDokbyQuQMe4S2v1houYkHQpzfmJJPqhkwBNcUJwpump",
+   0.038,
+   5.3,
    ""
   ]
  ]
