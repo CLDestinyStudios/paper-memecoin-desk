@@ -13,10 +13,10 @@
    "entry_px": 9.35015338692993e-08,
    "entry_fill": 9.946523453136939e-08,
    "opened": 1793212971.713459,
-   "last_px": 1.476694814819319e-07,
+   "last_px": 1.4231188189878627e-07,
    "peak_px": 1.6774199800603126e-07,
-   "last_val": 4.9660597041192585,
-   "last_prog": 0.764,
+   "last_val": 4.77695159129715,
+   "last_prog": 0.753,
    "tp1_done": true,
    "realized": 2.083711214065231
   },
@@ -29,10 +29,10 @@
    "entry_px": 6.714273512952015e-08,
    "entry_fill": 7.144257035732585e-08,
    "opened": 1793213093.929925,
-   "last_px": 6.689655059919127e-08,
+   "last_px": 6.589818250131585e-08,
    "peak_px": 6.714273512952015e-08,
-   "last_val": 6.253342521296228,
-   "last_prog": 0.478
+   "last_val": 6.1501171138512385,
+   "last_prog": 0.472
   },
   "iAg3cwv6w3TcXuQkpPQdyBBB47kSMovjk7fy72tpump": {
    "sym": "AqAFB",
@@ -45,7 +45,7 @@
    "opened": 1793213096.205719,
    "last_px": 4.0355762614061383e-08,
    "peak_px": 4.567748335731325e-08,
-   "last_val": 6.085018001766472,
+   "last_val": 6.075925559698128,
    "last_prog": 0.227
   },
   "CuTPzdZLfme42zN8NdenDctDWroYmfx37XFWt2ZeGtnT": {
@@ -59,7 +59,7 @@
    "opened": 1793213214.4246778,
    "last_px": 3.673246126585368e-08,
    "peak_px": 4.0808055656057886e-08,
-   "last_val": 5.723210903367657,
+   "last_val": 5.714659085843259,
    "last_prog": 0.173
   },
   "8rGGuG6JMLfJvfEhNArL6dHBVkoKAuvS3wEsx8P2pump": {
@@ -73,7 +73,7 @@
    "opened": 1793213271.6894155,
    "last_px": 5.321830599789152e-08,
    "peak_px": 5.321830599789152e-08,
-   "last_val": 6.299190223054469,
+   "last_val": 6.289777757526187,
    "last_prog": 0.372
   },
   "GYNnpmazcuwfLkwuTZC2z4auZLXyrM5xvbMAgRspump": {
@@ -85,10 +85,10 @@
    "entry_px": 4.120838654555858e-08,
    "entry_fill": 4.38652290354192e-08,
    "opened": 1793213271.933156,
-   "last_px": 4.120838654555858e-08,
-   "peak_px": 4.120838654555858e-08,
-   "last_val": 6.2696245510924165,
-   "last_prog": 0.239
+   "last_px": 4.7838417292556305e-08,
+   "peak_px": 4.7838417292556305e-08,
+   "last_val": 7.274656012532611,
+   "last_prog": 0.319
   }
  },
  "traded": [
@@ -2080,81 +2080,85 @@
   [
    "2026-10-28T11:47:52",
    236.15
+  ],
+  [
+   "2026-10-28T11:48:50",
+   236.84
   ]
  ],
- "cycles": 555,
+ "cycles": 556,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.11258011049999,
- "watching": 260,
+ "sol_usd": 101.96000000000001,
+ "watching": 272,
  "near": [
   [
-   "CFIT",
-   "8rGGuG6JMLfJvfEhNArL6dHBVkoKAuvS3wEsx8P2pump",
-   0.372,
-   3.0,
-   "bought"
-  ],
-  [
-   "BOTI",
-   "DKnUmnBwUd9rYxrb9LJDMHXcTgWTzoKzMEL7E7Nupump",
-   0.268,
-   3.4,
-   "top5_hold_most=88%"
-  ],
-  [
-   "PUMPKIN",
-   "GYNnpmazcuwfLkwuTZC2z4auZLXyrM5xvbMAgRspump",
-   0.239,
-   2.5,
-   "bought"
+   "ACTX",
+   "FnX5rPGo92NqcaahmqzXX9wjGywCjByJyoQ1pM9GACTX",
+   0.913,
+   2.4,
+   ""
   ],
   [
    "Nova5",
    "DSdkvWRDdQzCDYvQCbmwJKdrmPa2XsGoP79mwUqNpump",
-   0.226,
-   3.6,
+   0.279,
+   4.5,
+   ""
+  ],
+  [
+   "BOTI",
+   "DKnUmnBwUd9rYxrb9LJDMHXcTgWTzoKzMEL7E7Nupump",
+   0.233,
+   4.4,
+   "top5_hold_most=88%"
+  ],
+  [
+   "Trillions",
+   "3BFV476oTDBDoebd7Sm24dZBD4w5kr83pQhchBWrpump",
+   0.164,
+   3.0,
+   "top5_hold_most=94%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "\uac15\ub3c4\ub9ac",
+   "4SJ84akVtviqSPZEhqWi9M8xZDQ6r4m2RUHdyXWDpump",
+   0.138,
+   2.7,
    ""
   ],
   [
    "MARS",
    "Et2XBCnZCjLjYsUfeAvH2TjXB6wcGBUY7VMWktmTH1gq",
    0.088,
-   4.8,
+   5.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "\uac15\ub3c4\ub9ac",
    "8usTnnGMHNDuf9yum3PYu78CHVoj7mdnuCLMMid9pump",
    0.08,
-   3.6,
+   4.5,
    ""
   ],
   [
-   "\uac15\ub3c4\ub9ac",
-   "6CUwTpbaxhV7R4b8SU92J54LPPBwXyAsAi931fMypump",
-   0.067,
-   3.6,
-   ""
-  ],
-  [
-   "Gangdori",
-   "HFYBpr7TbSzWSpXwpW7P444fN5Hxg4pTKAYsjKvbpump",
-   0.064,
-   2.3,
+   "Pepina",
+   "6Tf7rEhtWdLA4w1R9hX4sSKLj1R96q2eUmB5xxAypump",
+   0.049,
+   2.7,
    ""
   ],
   [
    "$SC",
    "PuT6sYE5kkQCVBfKan6JtfVnPxuc6ukTCcyzwk4pump",
    0.047,
-   7.1,
+   8.0,
    ""
   ],
   [
-   "REBOUND",
-   "27Hfe2yhSPNaT1y57smsz2kaJjDP2THR5nWu1EA7pump",
-   0.043,
-   8.3,
+   "Banedog",
+   "GfvnJ52fKVZJNPv7oehyKPCQ1nTWzrQTb7j6d6YRpump",
+   0.044,
+   2.6,
    ""
   ]
  ]
