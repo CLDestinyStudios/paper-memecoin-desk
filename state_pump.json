@@ -2739,83 +2739,83 @@
    165.47
   ],
   [
-   "2026-10-28T14:48:50",
+   "2026-10-28T14:49:51",
    165.47
   ]
  ],
- "cycles": 736,
+ "cycles": 737,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.56332231750001,
- "watching": 299,
+ "sol_usd": 102.573221683,
+ "watching": 293,
  "near": [
   [
-   "OTUS",
-   "CuzuhvHQZEgUfQBD6FdRychgrLv225rjQPotxhXGpump",
-   0.745,
-   3.9,
-   "bundled_launch=4 extra buys in creation block"
+   "specs",
+   "FyL3eJEpNRvwdP6PhvG8KcDRP9XHCA8S4Ps2f17kpump",
+   0.831,
+   2.8,
+   ""
   ],
   [
    "MIA",
    "Fiyxu2HEzy13Atyt6kUj7vnMSjgsswg3zdfNF8jTpump",
    0.476,
-   5.6,
-   "buyers=7; top5_hold_most=100%"
-  ],
-  [
-   "MEME69",
-   "zUcjUuv5KUBpEqSeqn8pBZbrLx7aPdKD5C39MRXpump",
-   0.278,
-   4.8,
-   ""
-  ],
-  [
-   "CLARITY",
-   "2kPFfw6Mb3TwKBQVi9B4CVuWVoEwfDbpTq5zuNx6pump",
-   0.162,
-   2.6,
-   "buyers=8; top5_hold_most=92%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "slut",
-   "GHJWYR8CgRs1xi6MuQMFRmVGNZ3RjSnwRiAhTC6Rpump",
-   0.137,
-   5.7,
-   "buyers=2; top5_hold_most=100%"
+   6.6,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "FRANKOR",
    "AR5WsiFzfuUhNV3ZX6qifzTPdxvzh99gq2Shz8p4pump",
    0.119,
-   7.5,
+   8.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "slut",
+   "GHJWYR8CgRs1xi6MuQMFRmVGNZ3RjSnwRiAhTC6Rpump",
+   0.089,
+   6.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Trencher",
+   "9m6s7E8erF3zxxcSPu6PPbmHVyVCuTgVizgZiy4npump",
+   0.087,
+   3.0,
+   ""
   ],
   [
    "Aligators",
    "Hc1ZxEymWuApNCVHQnZNvV4x2mTu1rTkTjemWWD1pump",
    0.079,
-   6.5,
-   ""
+   7.5,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "BADGE",
    "Es8KhNmC9HCM2cqEXxc3XmAT4fhTE8VeYUAL1pwdpump",
    0.047,
-   6.1,
+   7.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "AAAAAA4AAAAA",
    "AZzpf8oAoTskHytr3pxCUCTpAJ3JXU78mThRpMMzHBS8",
    0.043,
-   7.9,
+   8.9,
    ""
   ],
   [
    "NFCAT",
    "CpbGTL1cNRxN3kVqLzevPngaTng1PBAq3u8Yu7Fy2rLy",
    0.043,
-   5.0,
+   6.0,
+   ""
+  ],
+  [
+   "MEME69",
+   "zUcjUuv5KUBpEqSeqn8pBZbrLx7aPdKD5C39MRXpump",
+   0.035,
+   5.8,
    ""
   ]
  ]
