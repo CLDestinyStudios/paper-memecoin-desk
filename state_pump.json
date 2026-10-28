@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 419.92639342785753,
- "positions": {},
+ "cash": 407.3263934278575,
+ "positions": {
+  "Ea6FCT3jqvGFzAnp8uWeVVaQPAtRswQA5xq84rjfpump": {
+   "sym": "Buster",
+   "bc": "EtzL1LSYsSiVYRn1GME8t621dy1K3sXg9VDzUhWfRJaM",
+   "tokens": 1338422.6065516663,
+   "cost": 12.6,
+   "cost0": 12.6,
+   "entry_px": 8.617304087885189e-08,
+   "entry_fill": 9.148123331645541e-08,
+   "opened": 1793184907.245469,
+   "last_px": 8.617304087885189e-08,
+   "peak_px": 8.617304087885189e-08,
+   "last_val": 11.175664301030722,
+   "last_prog": 0.582
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -25,7 +40,8 @@
   "5Fazx7tCg5UFrVCQ9WopLrDQtZEEtVLiauk4J6z4pump",
   "4fD754RQDygRv8cugFHZkpYU9W1zNJPZ93Rcnd1tpump",
   "AVsW2S44uEaiFstrH3tiNTk9G77S6mvQTUGjggyYpump",
-  "3Zx8rCeBudwMhAjGBz9GiQ8TYYFDsADDCAiE4eWqpump"
+  "3Zx8rCeBudwMhAjGBz9GiQ8TYYFDsADDCAiE4eWqpump",
+  "Ea6FCT3jqvGFzAnp8uWeVVaQPAtRswQA5xq84rjfpump"
  ],
  "equity": [
   [
@@ -275,81 +291,85 @@
   [
    "2026-10-28T03:54:06",
    419.93
+  ],
+  [
+   "2026-10-28T03:55:07",
+   418.5
   ]
  ],
- "cycles": 109,
+ "cycles": 110,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.89999999999999,
- "watching": 260,
+ "sol_usd": 102.90708366823132,
+ "watching": 253,
  "near": [
+  [
+   "Buster",
+   "Ea6FCT3jqvGFzAnp8uWeVVaQPAtRswQA5xq84rjfpump",
+   0.582,
+   2.9,
+   "bought"
+  ],
   [
    "Trip",
    "2oCZ2wwA9oNSAYWoSqn6P1vZ9E6JVrCjnH1ecKzipump",
    0.487,
-   7.6,
-   "buyers=6; creator=38.5%; top5_hold_most=100%"
+   8.7,
+   "buyers=5; creator=38.5%; top5_hold_most=100%"
   ],
   [
-   "COCKTILITY",
-   "EZY3NJxEnuQkuiAQQXGVAMB13jzy9ybYbDtMm9fNBVoS",
-   0.444,
-   2.4,
-   "serial_creator=6 launches/24h"
+   "BLACKBOX",
+   "7u8Ebm2oU4dxH2pkbm3GuH1kiSeAhQNzMpT9KhGkpump",
+   0.136,
+   2.5,
+   ""
+  ],
+  [
+   "Cub",
+   "9Ve5TwUMUMyMW8N2HY8ciPW9TwJ8Z5rHdfvxKombpump",
+   0.097,
+   2.7,
+   ""
+  ],
+  [
+   "Toledo",
+   "3yngPb1ZrzPoxfzB167jiUvDj5KdVmZsnUCcqDMgpump",
+   0.083,
+   2.8,
+   ""
+  ],
+  [
+   "OpenBot",
+   "2RdP64o3XfaynmdBPUbaG2PK3NkeWPEid6RNWzFHpump",
+   0.076,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "  ",
    "6HttLBGvBmcjLwyEyXK8ZeYmykg94Ubf7Fbx9WVHNFZ",
    0.068,
-   4.4,
+   5.5,
    ""
   ],
   [
-   "SURVIVAL",
-   "LvDn9VYxabBdywvo3AgHp22B9C5VUi3LagGZF8adCQN",
-   0.022,
-   6.3,
+   "Bread",
+   "GQ9ZvprV9cKMp8Ak4Rn265D2Nom5fc2igqQJVZ6hpump",
+   0.062,
+   2.4,
    ""
   ],
   [
-   "LittleFro",
-   "2ewm2ct4t8U8w54eMU2sFXgGgYqJZYiyviqhJ4EWpump",
-   0.017,
+   "t-rex",
+   "5FKUPMisKDAvcvED37U6DjrS9Qc9o7PV3QFQCgFjpump",
+   0.036,
    2.2,
    ""
   ],
   [
-   "RHRF",
-   "612ViLhbPdJP4vdTjBb8Lb9rAjbdv3vdd91dDNdCpump",
-   0.016,
-   5.8,
-   ""
-  ],
-  [
-   "SURVIVAL",
-   "9vdjfpvjQRNTsuA2hoBREprqVuYhhMNQsFHgXo8upump",
-   0.014,
-   7.6,
-   ""
-  ],
-  [
-   "TsTT",
-   "EHR3PX8MJT7PfG2ZApbg448U6kzz7k8eM9b6n8xnpump",
-   0.013,
-   4.2,
-   ""
-  ],
-  [
-   "Hld",
-   "BTR2BaAteeD9c7di8c29FUbQE3AmVWHUYsPsygwypump",
-   0.012,
-   3.0,
-   ""
-  ],
-  [
-   "LARP",
-   "52oZmc8CLEGkch8e4jeDhgsFwnqAi57BQAR4LoqGpump",
-   0.011,
-   7.0,
+   "tegnike",
+   "5t9737k2XNQMeBrNgpqBxbrx2u86odNFAhHDAQmjL8qo",
+   0.025,
+   2.4,
    ""
   ]
  ]
