@@ -13,81 +13,85 @@
   [
    "2026-10-28T02:16:04",
    500.0
+  ],
+  [
+   "2026-10-28T02:17:04",
+   500.0
   ]
  ],
- "cycles": 11,
+ "cycles": 12,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.593257282,
- "watching": 542,
+ "sol_usd": 102.558959195,
+ "watching": 494,
  "near": [
   [
    "Nikolai",
    "9fpMjtrTD7aYZ5GVjtMS2bi2LsucoSmEqsCMyB8dpump",
-   0.97,
-   6.2,
-   ""
+   1.0,
+   7.2,
+   "graduated"
   ],
   [
-   "Nikolai",
-   "HiKBimEnVTSxrVjCtor5S3JdFm2pSYuYFQtUVZ2L1X3p",
-   0.451,
-   9.3,
-   ""
-  ],
-  [
-   "bot",
-   "33UsVcDCUhQrBd68PLvex4eSNUqSFCozn8Fa1Tgkpump",
-   0.349,
-   9.6,
-   ""
-  ],
-  [
-   "Nikolai",
-   "7N6R1AzLLL2CX52bgtiLaerTWbbLtNcxcbHCv1e1pump",
-   0.328,
-   9.9,
+   "SCIF",
+   "2aYdJBLwtTqSwvcuHvxwBxePK2dpGHcAJS13AcHzpump",
+   0.773,
+   2.7,
    ""
   ],
   [
    "Nikolai",
    "76H97wtMHzkMKYk41AyWFJTD8AUfhkfyXrCcCmazV6Sq",
-   0.301,
-   3.1,
-   ""
-  ],
-  [
-   "Nothing",
-   "KFjRdYQPHAqG3yUv3iS46zNmLm9LKYh6ePWNebSpump",
-   0.093,
-   5.6,
-   ""
-  ],
-  [
-   "NiuNiu",
-   "FAssvXnwp47ea96yRnxg7qsWA5iDwxpjf2oD3VhQpump",
-   0.089,
-   2.9,
+   0.107,
+   4.1,
    ""
   ],
   [
    "boo",
    "89Q4AMvYeVnVGRGaavHCmZvZEtReAu3vwbqSJqr4pump",
    0.046,
-   5.8,
+   6.8,
    ""
   ],
   [
    "MASSEUSE",
    "28MY7QFuLxxpdbz1SAFzpNnNHHBCT1Gu6cur1ECe6gqu",
    0.044,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "SATURWEEN",
+   "4Nj6rpQftmcLgnXiWiVCCX4Pge8rdsqpZEPj4Zcvpump",
+   0.039,
+   2.6,
    ""
   ],
   [
    "TrenchBot",
    "FPG9bZMZnCh6RyYzxT5KWwqJXqvjXQKrYd7P7UX1pump",
-   0.03,
-   7.8,
+   0.027,
+   8.8,
+   ""
+  ],
+  [
+   "Nikolai",
+   "CyX7hMtYMAk6qK8Vu3aQjJxFCsmMvYtcEYmxcQZbpump",
+   0.022,
+   2.2,
+   ""
+  ],
+  [
+   "SUDO",
+   "3xS6Mac16SXBEZ7tSJr2xaZ14DFxReyeaVhLhsk4pump",
+   0.018,
+   4.7,
+   ""
+  ],
+  [
+   "LOL",
+   "Gb3zcjiGpB4LinpoAKBWo3zeZ6U9oaREmFKdEWM9pump",
+   0.016,
+   4.4,
    ""
   ]
  ]
