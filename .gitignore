@@ -1,0 +1,7 @@
+alert_cursor.json
+__pycache__/
+*.pyc
+*.tmp
+.env
+*.pem
+*.key
