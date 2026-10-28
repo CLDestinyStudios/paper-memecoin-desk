@@ -15,7 +15,7 @@
    "opened": 1793186707.2885458,
    "last_px": 6.853300698760508e-08,
    "peak_px": 6.853300698760508e-08,
-   "last_val": 13.249354099128896,
+   "last_val": 13.254511496598386,
    "last_prog": 0.489
   },
   "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump": {
@@ -27,10 +27,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.3547313442662747e-08,
+   "last_px": 3.1133202273616275e-08,
    "peak_px": 3.4336544518393414e-08,
-   "last_val": 10.089902562281214,
-   "last_prog": 0.118
+   "last_val": 9.36485863391254,
+   "last_prog": 0.071
   }
  },
  "traded": [
@@ -476,81 +476,85 @@
   [
    "2026-10-28T04:37:05",
    390.39
+  ],
+  [
+   "2026-10-28T04:38:05",
+   389.67
   ]
  ],
- "cycles": 152,
+ "cycles": 153,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.76,
- "watching": 229,
+ "sol_usd": 102.79999999999998,
+ "watching": 222,
  "near": [
   [
    "BEAST",
    "ELCVM9Tj2xEEX6HaLcvidZPjjE6cwRkq6gfKY3FBpump",
-   0.966,
-   2.4,
-   ""
+   1.0,
+   3.4,
+   "graduated"
   ],
   [
    "ECOGLW",
    "6LZBoy9xprmvUpgd3b4mxjpKyBFhMcjTakX6CTX5pump",
    0.211,
-   4.0,
+   5.0,
    "buyers=6; top5_hold_most=91%"
   ],
   [
    "STONKER",
    "Czi37EyucqbHwDLg9TS1k5BurmBYXR4tqzUoipkepump",
    0.148,
-   5.7,
+   6.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "awoo",
    "5QCXvYgkqS3qyAwnfbbi8Fuk1gugET78mjFUgqwZpump",
    0.064,
-   3.7,
+   4.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "BREAD",
-   "6eaSFNLdbmnGh95CtnrZcRNJpmyfKEGBAWFF8bzDpump",
-   0.055,
-   9.4,
-   "buyers=3; top5_hold_most=100%"
+   "HOLDOG",
+   "GKh4EapowSbxhwmcfsf7A27S4k2pQaBEjNESxP84pump",
+   0.048,
+   2.5,
+   ""
   ],
   [
    "Waifu",
    "ChFvgnUhY6CShK44kybwRAZdxM4F71zRcDUpWZdJpump",
    0.042,
-   8.4,
+   9.4,
+   ""
+  ],
+  [
+   "HP",
+   "HjZK3dud9rg4QTurAFouV9xugAU6KSGqKqMB5Yhzpump",
+   0.034,
+   2.8,
    ""
   ],
   [
    "$WIBEAST",
    "34JC8ecLK5Nou6PrmbKj9CsGxZwhfohNRU29ydBNpump",
    0.023,
-   3.4,
+   4.4,
    ""
   ],
   [
    "d/acc",
    "Kj1Sq4vdk5GQXtWFEumhFrWSEh9AqHhekHWHBBREYgz",
    0.017,
-   3.7,
-   ""
-  ],
-  [
-   "bigsnoutguy",
-   "8M6sAsbaEMgXX8W9LsacGsJp9uSFE9kAQJaW5r9Mpump",
-   0.017,
-   9.6,
+   4.7,
    ""
   ],
   [
    "B\u043eng\u043e",
    "4gir38kGe9E9aAJRG1F28npedVaPpBYbDsfw4KhEpump",
    0.013,
-   3.5,
+   4.5,
    ""
   ]
  ]
