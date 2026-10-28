@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 152.7814629859784,
+ "cash": 156.9265600217852,
  "positions": {
   "GodmodehCNtRPaSrRWvTY9oK1nupeEF4UzcvCrDUCReK": {
    "sym": "GODMODE",
@@ -13,9 +13,9 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 1.8475694857586058e-07,
-   "peak_px": 1.8475694857586058e-07,
-   "last_val": 8.580187848153699,
+   "last_px": 1.8521193409335299e-07,
+   "peak_px": 1.8521193409335299e-07,
+   "last_val": 8.617597082021536,
    "last_prog": 0.827,
    "tp1_done": true,
    "realized": 2.4419044830450383
@@ -29,10 +29,10 @@
    "entry_px": 5.08883806926874e-08,
    "entry_fill": 5.421593203884645e-08,
    "opened": 1793217740.324521,
-   "last_px": 6.03626000796535e-08,
+   "last_px": 8.466515546863653e-08,
    "peak_px": 9.263362058213561e-08,
-   "last_val": 3.1211335539083676,
-   "last_prog": 0.432,
+   "last_val": 4.405917285536166,
+   "last_prog": 0.575,
    "tp1_done": true,
    "realized": 1.7320922000349377
   },
@@ -45,10 +45,10 @@
    "entry_px": 8.538008265374446e-08,
    "entry_fill": 9.094883860242402e-08,
    "opened": 1793218785.1978385,
-   "last_px": 1.0861782857163266e-07,
+   "last_px": 9.794366432882927e-08,
    "peak_px": 1.252000110759727e-07,
-   "last_val": 6.600845123609912,
-   "last_prog": 0.667
+   "last_val": 5.958681157003715,
+   "last_prog": 0.63
   },
   "AfCjn6x1hhKKwoXHkekaDBM5zrKoKc7zkEJi2i8npump": {
    "sym": "Mike",
@@ -59,10 +59,10 @@
    "entry_px": 3.991488284416175e-08,
    "entry_fill": 4.25452962688705e-08,
    "opened": 1793219206.2237034,
-   "last_px": 5.433477904282463e-08,
-   "peak_px": 5.433477904282463e-08,
-   "last_val": 6.924047160077394,
-   "last_prog": 0.382
+   "last_px": 5.904630049451652e-08,
+   "peak_px": 5.904630049451652e-08,
+   "last_val": 7.542466897272709,
+   "last_prog": 0.422
   },
   "2GwmpJzN3PdjJpSiGPbxpqsDLFLqVRQkshNH6oi4pump": {
    "sym": "EXITRUNNER",
@@ -73,24 +73,10 @@
    "entry_px": 4.494384230837563e-08,
    "entry_fill": 4.790622164954402e-08,
    "opened": 1793219446.310831,
-   "last_px": 5.0575791544682563e-08,
-   "peak_px": 5.0575791544682563e-08,
-   "last_val": 5.639946098341399,
-   "last_prog": 0.347
-  },
-  "8NuGjbo1ZcUL3iVCy1hQHJeEABSK6V2D1xpRpHbVpump": {
-   "sym": "PAPERFUND",
-   "bc": "HVidRsLPxty6H5t8sG3rZX6UuLDjKobL8cfUzHxj1n8q",
-   "tokens": 474489.5508118057,
-   "cost": 5.68,
-   "cost0": 5.68,
-   "entry_px": 1.1017059044688872e-07,
-   "entry_fill": 1.1737382798554902e-07,
-   "opened": 1793219504.8073363,
-   "last_px": 1.1017059044688872e-07,
-   "peak_px": 1.1017059044688872e-07,
-   "last_val": 4.998757516828643,
-   "last_prog": 0.671
+   "last_px": 5.176209350044576e-08,
+   "peak_px": 5.176209350044576e-08,
+   "last_val": 5.784184193433591,
+   "last_prog": 0.359
   }
  },
  "traded": [
@@ -2523,81 +2509,85 @@
   [
    "2026-10-28T13:31:44",
    188.65
-  ]
- ],
- "cycles": 659,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 101.98831440825832,
- "watching": 333,
- "near": [
-  [
-   "HOPIUM",
-   "7pJQHWHSDhT8LuSPgN7t4adrLxmELn2siGrciTZPpump",
-   0.819,
-   2.1,
-   ""
   ],
   [
-   "PAPERFUND",
-   "8NuGjbo1ZcUL3iVCy1hQHJeEABSK6V2D1xpRpHbVpump",
-   0.671,
-   2.5,
-   "bought"
+   "2026-10-28T13:32:43",
+   189.24
+  ]
+ ],
+ "cycles": 660,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.18,
+ "watching": 350,
+ "near": [
+  [
+   "Mike",
+   "9uo7nyZUM5mHifB8FNwgeYUt27GuhwDzBeuqCUCApump",
+   0.851,
+   2.9,
+   ""
   ],
   [
    "MOGA",
    "CQZB8F8yxBKeQ48m7Xuho2QstFRLXAgwnBAjZxvdpump",
-   0.215,
-   4.4,
+   0.222,
+   5.4,
    "top5_hold_most=94%"
   ],
   [
-   "TICKERBAY",
-   "FTH1EieDr5zmPjzm1Xd4a7Yt2BpvkSVRLdfMYMVApump",
-   0.173,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
+   "HANS",
+   "6QkpBnBMcP1EyLeeJr4tsn7Zg1kFRC3Yzyxc5BZCpump",
+   0.222,
+   2.1,
+   "top5_hold_most=84%"
   ],
   [
-   "GENTLEMEN",
-   "D1QGm63r7TD6TrGQUpDjRPsBdFkgq5F3BsdmvT1Hpump",
-   0.119,
-   5.6,
+   "Stonkior",
+   "8bCz94BDLnFbECd2t7e2g9wXyVubPySjaHvdCJMBpump",
+   0.125,
+   2.1,
    ""
   ],
   [
-   "Toad",
-   "EXF5bHUZYoviSrLGPKbKPVGwZUxnbZLaDUh5gVhcpump",
-   0.119,
-   3.2,
+   "ser",
+   "Hp9Xp3koHNn4suM4cipNA9ggDzLZLdVVcDZAaWXhpump",
+   0.114,
+   2.2,
    ""
   ],
   [
-   "Toad",
-   "8CYx5tvjWjBxGZudVTXS3zk7kojb4srTEuXqnDGipump",
-   0.109,
-   3.4,
+   "HOPIUM",
+   "7pJQHWHSDhT8LuSPgN7t4adrLxmELn2siGrciTZPpump",
+   0.112,
+   3.1,
    ""
   ],
   [
    "if",
    "91bwv4p5EpVmTx9MzGgcfTApDDWo8HiuRA9Gn665xWaH",
    0.098,
-   5.9,
+   6.8,
    ""
   ],
   [
-   "HOPE",
-   "GbcfTMm3tfqX3mFpaSiBNeVpKyrEGDmjTtsfkpC4pump",
-   0.077,
-   2.3,
+   "GENTLEMEN",
+   "D1QGm63r7TD6TrGQUpDjRPsBdFkgq5F3BsdmvT1Hpump",
+   0.079,
+   6.6,
    ""
   ],
   [
-   "Toad",
-   "E6uv9Cg2y8mqTE4W8jXNr69YsLnc3EoL5EFtR2Yc8gc",
-   0.047,
-   4.8,
+   "HOPIUM",
+   "58igwFewrqRgFPpNsKKisixXb89N5EcW17PADibpump",
+   0.079,
+   2.9,
+   ""
+  ],
+  [
+   "WhatIf",
+   "GDZC6GeXt1CtbkrXV6ijFFSawFni1Rffi6ePHC49pump",
+   0.073,
+   2.6,
    ""
   ]
  ]
