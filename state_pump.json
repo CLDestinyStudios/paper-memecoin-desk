@@ -2099,83 +2099,83 @@
    218.07
   ],
   [
-   "2026-10-28T12:14:43",
+   "2026-10-28T12:15:48",
    218.07
   ]
  ],
- "cycles": 582,
+ "cycles": 583,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.083254508,
- "watching": 244,
+ "sol_usd": 102.064773318,
+ "watching": 265,
  "near": [
   [
-   "fridge",
-   "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
-   0.799,
-   6.6,
+   "SI",
+   "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump",
+   0.82,
+   2.4,
    ""
   ],
   [
    "fridge",
    "AYRzi9vm1frjsZKXCbCkK7jjR6G6m4WpTMvQHDLEqgtP",
-   0.793,
-   5.1,
-   ""
-  ],
-  [
-   "BACKSTOP",
-   "6GKNY3ioDsQoNx1o44rFoPBxjTj4aztizhbAB4zspump",
-   0.439,
-   2.6,
-   ""
-  ],
-  [
-   "Keith",
-   "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
-   0.078,
-   10.0,
+   0.729,
+   6.1,
    ""
   ],
   [
    "GAMBLERS",
-   "6sBEJCkUbZ1JPYmNfSEdbL8DStStk8e9jx3Y2ECPteT4",
-   0.06,
-   7.8,
-   "buyers=7; top5_hold_most=100%"
+   "22phR4zAGjmcyRRW1dJpbGztLRwHZxu5nKfhij7Zpump",
+   0.271,
+   2.7,
+   "top5_hold_most=88%"
   ],
   [
-   "PADS",
-   "EdZBEjuSunxDyoLvrpMs4mPxjhR4hTTuT5xJXxcGpump",
-   0.052,
+   "fridge",
+   "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
+   0.13,
+   7.7,
+   ""
+  ],
+  [
+   "TE",
+   "CDL4LcDUBENg11o8L8GzMiQ7cYhnXaEGs9WUfTVPpump",
+   0.106,
+   2.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "nothing",
+   "FWnsxE9rfT5mxFy3bALsucHyXMNGdoKzfhn3k1Tmw2cz",
+   0.101,
+   2.6,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "GOAT",
+   "6hUab23koSF9rJWHG6MJwNjkxmqub4qYiGZa3pstpump",
+   0.07,
+   2.3,
+   ""
+  ],
+  [
+   "fridge",
+   "A8d5cXGoEanS8EejFGy3SYTEtfA3LDTsFWRjaUnDpump",
+   0.069,
+   2.9,
+   ""
+  ],
+  [
+   "RI",
+   "3LSkyAmoLBbCdu3y1EpG3b25SNMy2EE75uWLaVtFpump",
+   0.064,
    2.4,
    ""
   ],
   [
-   "RAWSTEAK",
-   "4LKtuHQUumJS39nRdMQjxxssqd9aEhyW6qE2Knovpump",
-   0.043,
-   9.6,
-   ""
-  ],
-  [
-   "VULNPOCALYPS",
-   "Fvt7ShR56tMus8YABvugJA4csxghCnA8omkrHTFWpump",
-   0.033,
-   4.7,
-   ""
-  ],
-  [
-   "MIKA",
-   "DFHZxFuaciVXmCpQJjpsw1JMk2wmvKovdLM3y6SDpump",
-   0.032,
-   3.6,
-   ""
-  ],
-  [
-   "Neural inu",
-   "Ep6hsBo5i2P21wL9ff9rE2b22ac1VCgjxWRDibpWpump",
-   0.028,
-   5.8,
+   "MIRUMI",
+   "2AyAm6Woh6Vj4kvZCW6KbUNqYdN8vQEDDYE1Wuy7pump",
+   0.064,
+   2.8,
    ""
   ]
  ]
