@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 121.62416532762477,
+ "cash": 127.157247888363,
  "positions": {
   "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump": {
    "sym": "Percy",
@@ -13,38 +13,10 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.51924901815802e-08,
+   "last_px": 5.4141034121807195e-08,
    "peak_px": 5.51924901815802e-08,
-   "last_val": 3.7370252792999343,
-   "last_prog": 0.39
-  },
-  "9FZn2mBmidTgLWRec13dkbFrkTGDwaSoh1vidAeepump": {
-   "sym": "RADAR",
-   "bc": "H3U3pvHuXmAY73VdLswL29oxjWGcbWDjc4orsUQEoHbd",
-   "tokens": 927428.4698015213,
-   "cost": 4.0,
-   "cost0": 4.0,
-   "entry_px": 3.937428591800889e-08,
-   "entry_fill": 4.211760662647593e-08,
-   "opened": 1793230673.3343644,
-   "last_px": 3.628426337720975e-08,
-   "peak_px": 3.937428591800889e-08,
-   "last_val": 3.2091341761350085,
-   "last_prog": 0.165
-  },
-  "2H6AsVFUdZiTshk5BnJuo7gqJ5qCCq8d3NPhyMXJpump": {
-   "sym": "LEAGUE",
-   "bc": "Ezp1DANY9dzSn8fgBuNoWPNvUnR2F2QSxCnfKwCgxeoD",
-   "tokens": 913564.8699621963,
-   "cost": 3.98,
-   "cost0": 3.98,
-   "entry_px": 3.981060108610979e-08,
-   "entry_fill": 4.258610092817083e-08,
-   "opened": 1793230734.9290159,
-   "last_px": 3.981060108610979e-08,
-   "peak_px": 3.981060108610979e-08,
-   "last_val": 3.4724066584857267,
-   "last_prog": 0.219
+   "last_val": 3.6647059028220754,
+   "last_prog": 0.381
   }
  },
  "traded": [
@@ -3198,81 +3170,85 @@
   [
    "2026-10-28T16:38:54",
    132.04
+  ],
+  [
+   "2026-10-28T16:39:53",
+   130.82
   ]
  ],
- "cycles": 846,
+ "cycles": 847,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.300039663,
- "watching": 240,
+ "sol_usd": 102.294878113,
+ "watching": 243,
  "near": [
   [
    "GLOVE",
    "5V7uCv2XEUwVqFFMTDYXUmUyCQFLW7xAUov5r1N7pump",
-   0.976,
-   2.8,
-   ""
+   1.0,
+   3.8,
+   "graduated"
   ],
   [
    "ALFREDITO",
    "FDA9eSmQy5qDyzNHkUTA9fhN1tFJ55PkFJpzzZtXpump",
-   0.457,
-   5.7,
+   0.456,
+   6.7,
+   ""
+  ],
+  [
+   "NEURA",
+   "A8GxVQ98jW1BrmrYmSCxqdmDHtxriTzreVbSLabapump",
+   0.377,
+   3.0,
+   "bundled_launch=10 extra buys in creation block"
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "2CNFPZdahkk9XGpiaCxuEXmvwu4w9wCcgm2aE6nxpump",
+   0.345,
+   6.7,
    ""
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "4yBF1zwab4waGkMacwEBRd6KeGaPDxmLGywwT9HNpump",
    0.31,
-   4.7,
-   ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "2CNFPZdahkk9XGpiaCxuEXmvwu4w9wCcgm2aE6nxpump",
-   0.304,
    5.7,
    ""
-  ],
-  [
-   "LEAGUE",
-   "2H6AsVFUdZiTshk5BnJuo7gqJ5qCCq8d3NPhyMXJpump",
-   0.219,
-   2.4,
-   "bought"
   ],
   [
    "YEWWW",
    "CjgeDRssbw5d2BSxgdYcSkSC8JWLUZtdxEmGUNoipump",
    0.103,
-   3.3,
+   4.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "GLOVE",
+   "FCmTi4mVTL4oVoobB8ZTx5ZvD6BnrmukYGyvebGvpump",
+   0.097,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ATG",
+   "7aHaEt2sYXtFSADT1FUJ3QR9GkKSHvWik933iB6epump",
+   0.088,
+   2.2,
+   "buyers=7; top5_hold_most=99%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "THOR",
    "zKd6iFUSzgPNWJLdnHoeDpMStrjW6zibbQoxUNgpump",
    0.081,
-   7.4,
-   ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "5wm7JK91T9Tiim7AbL3rZKrwdNdYQEsu447B9nL3pump",
-   0.055,
-   6.6,
+   8.3,
    ""
   ],
   [
    "SAME",
    "EKaAwDWfc57RBCY4wdKkzXwzJHCEtME8xTwa1JtYpump",
-   0.045,
-   3.6,
-   ""
-  ],
-  [
-   "SAME",
-   "4UUKpu5qPv8TfeE1ZUviWoZphmnVQ5cjVyA65V7cpump",
-   0.044,
-   4.0,
+   0.073,
+   4.6,
    ""
   ]
  ]
