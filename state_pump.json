@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 127.157247888363,
+ "cash": 123.227247888363,
  "positions": {
   "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump": {
    "sym": "Percy",
@@ -13,10 +13,24 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.771552906436086e-08,
-   "peak_px": 5.771552906436086e-08,
-   "last_val": 3.9088200817595182,
-   "last_prog": 0.411
+   "last_px": 5.802924470880511e-08,
+   "peak_px": 5.802924470880511e-08,
+   "last_val": 3.930050346337162,
+   "last_prog": 0.414
+  },
+  "EiS1Jx8susVLrCMpyYgk8UAkhFA8x6GTD1UzGXfRpump": {
+   "sym": "UPSEYY ",
+   "bc": "CWFPtGDQCzraQisgaKfk17UNvNN1xzt7fUDq725idaCr",
+   "tokens": 582873.7943294906,
+   "cost": 3.93,
+   "cost0": 3.93,
+   "entry_px": 6.164150684224471e-08,
+   "entry_fill": 6.593518276567415e-08,
+   "opened": 1793231149.6930952,
+   "last_px": 6.164150684224471e-08,
+   "peak_px": 6.164150684224471e-08,
+   "last_val": 3.42909112240502,
+   "last_prog": 0.442
   }
  },
  "traded": [
@@ -232,7 +246,8 @@
   "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump",
   "DfGGdMDW8kGvU3bzjdLC5QsES829G4jUWqn2u4Sqpump",
   "9FZn2mBmidTgLWRec13dkbFrkTGDwaSoh1vidAeepump",
-  "2H6AsVFUdZiTshk5BnJuo7gqJ5qCCq8d3NPhyMXJpump"
+  "2H6AsVFUdZiTshk5BnJuo7gqJ5qCCq8d3NPhyMXJpump",
+  "EiS1Jx8susVLrCMpyYgk8UAkhFA8x6GTD1UzGXfRpump"
  ],
  "equity": [
   [
@@ -3194,81 +3209,85 @@
   [
    "2026-10-28T16:44:50",
    131.07
+  ],
+  [
+   "2026-10-28T16:45:49",
+   130.59
   ]
  ],
- "cycles": 852,
+ "cycles": 853,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.26621690809174,
- "watching": 225,
+ "sol_usd": 102.258826818,
+ "watching": 234,
  "near": [
   [
    "UPSEYY ",
    "EiS1Jx8susVLrCMpyYgk8UAkhFA8x6GTD1UzGXfRpump",
-   0.192,
-   2.9,
-   "top5_hold_most=88%"
+   0.442,
+   3.9,
+   "bought"
   ],
   [
-   "SAME",
-   "EKaAwDWfc57RBCY4wdKkzXwzJHCEtME8xTwa1JtYpump",
-   0.063,
-   9.5,
-   ""
-  ],
-  [
-   "SAME",
-   "4UUKpu5qPv8TfeE1ZUviWoZphmnVQ5cjVyA65V7cpump",
-   0.044,
-   9.9,
+   "Messi",
+   "3ks2xiyoQhrdyjMSaRBvtbhJiNysXNsWamPJw5z4pump",
+   0.118,
+   2.4,
    ""
   ],
   [
    "Nov15",
    "A8CuHxcQm1fqUayVfs6BYK3zhC8Po8AMseFwaiY1pump",
-   0.036,
-   3.2,
-   ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
-   0.033,
-   5.4,
+   0.042,
+   4.2,
    ""
   ],
   [
    "BIDDYBLAS",
    "9zagobUUGfZ6WYgFmcgciM6j4WLK57fC91VFSpj1pump",
    0.033,
-   3.8,
+   4.7,
    ""
   ],
   [
    "FlyingDog",
    "9igwSMPdWYYvEKVcbx7ppnW4CEzrq4nd8hF7fC16pump",
    0.028,
-   2.8,
-   ""
-  ],
-  [
-   "BFC",
-   "9G617Gy7Am4pvtMhE5H44AvmDcvjaxdmcm33QBJYpump",
-   0.024,
-   9.9,
-   ""
-  ],
-  [
-   "Grokius",
-   "527PTAXd2ZdxKgmdYFPrqqWtiemCg4Mn98undx8Rpump",
-   0.023,
-   9.4,
+   3.8,
    ""
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "HnWkg6XNpSTpU6GMzzUuawEodC5xPYH2pxXm6ytpump",
    0.022,
-   5.3,
+   6.3,
+   ""
+  ],
+  [
+   "SOLPUMP",
+   "4c3mppPo1XnwjmVoCx5NHAScdXoa5w3dK9tvVUgGpump",
+   0.019,
+   7.5,
+   ""
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
+   0.017,
+   6.3,
+   ""
+  ],
+  [
+   "FOMO",
+   "D1c68CTHEaD3HiM3aQUJHcuFyTouyM1aKnuqwFocpump",
+   0.016,
+   4.7,
+   ""
+  ],
+  [
+   "MOLUSCO",
+   "ChyZAUeRCXpAtn9DuRFVb8eAnFtpwa5Tb58WK693pump",
+   0.015,
+   2.2,
    ""
   ]
  ]
