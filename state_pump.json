@@ -13,10 +13,10 @@
    "entry_px": 6.637211903738847e-08,
    "entry_fill": 7.048990773335374e-08,
    "opened": 1793186406.558955,
-   "last_px": 8.93716953412445e-08,
+   "last_px": 5.646901390549831e-08,
    "peak_px": 1.0540053308090329e-07,
-   "last_val": 7.07183888811448,
-   "last_prog": 0.596,
+   "last_val": 4.4501334267324655,
+   "last_prog": 0.401,
    "tp1_done": true,
    "realized": 1.9655232307824226
   },
@@ -31,7 +31,7 @@
    "opened": 1793186707.2885458,
    "last_px": 5.593801947466203e-08,
    "peak_px": 5.7523642701452856e-08,
-   "last_val": 10.805051641586571,
+   "last_val": 10.803795033717996,
    "last_prog": 0.396
   }
  },
@@ -445,81 +445,85 @@
   [
    "2026-10-28T04:29:06",
    392.75
+  ],
+  [
+   "2026-10-28T04:30:05",
+   390.13
   ]
  ],
- "cycles": 144,
+ "cycles": 145,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.73201812100001,
- "watching": 245,
+ "sol_usd": 102.720070574,
+ "watching": 239,
  "near": [
   [
    "Robotaxi",
    "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump",
-   0.522,
-   2.9,
-   "buyers=1; creator=41.4%; top5_hold_most=100%"
-  ],
-  [
-   "DONK",
-   "EFwEeFbGCQVgGUfQMAziNhpYHCyR4LesNhJ3NPafpump",
-   0.356,
-   4.6,
-   "bundled_launch=4 extra buys in creation block"
+   0.558,
+   3.9,
+   "creator=41.4%; top5_hold_most=98%"
   ],
   [
    "TWITCHY",
    "2wxMfLFGckiFHNAk54gVduMwCgCYgYQjNRHCsjtspump",
-   0.129,
-   3.2,
-   "buyers=3; top5_hold_most=100%"
+   0.13,
+   4.2,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "bigsnoutguy",
+   "8M6sAsbaEMgXX8W9LsacGsJp9uSFE9kAQJaW5r9Mpump",
+   0.102,
+   2.6,
+   ""
   ],
   [
    "Jannah",
    "GrunHFEnhUYQLozPsRfecn8Kx7f46KTE5JvfgyHspump",
    0.082,
-   4.6,
+   5.6,
    ""
   ],
   [
    "EGGPLANT",
    "4AXBEWveBhZza4ZTu9hMopCcKMuQ8uwgs5FmJpLCpump",
    0.069,
-   2.3,
+   3.3,
    ""
   ],
   [
    "Uakari",
    "8JUAb6TxoajbCY5nWJRFZUXQ1UzBSqURQVxNNkxxhtVW",
    0.064,
-   3.1,
+   4.0,
    ""
   ],
   [
    "Slopbeast",
    "8CmFe5nhNj95zWia18CWw6EsmNW3oCGRwMszzvkWpump",
    0.06,
-   2.5,
+   3.4,
    ""
   ],
   [
    "$womp",
    "99UPQ5HP6NMUJhnf5McVSF9Jw4as3231HLYwPe8Lpump",
-   0.055,
-   3.0,
-   "buyers=9"
+   0.054,
+   3.9,
+   "buyers=8"
   ],
   [
-   "Pumps",
-   "J9dYtGiyhHAx5rTM6BmSArhKrE3BQTJmcsQHj3Ukpump",
-   0.025,
-   5.5,
+   "BREAD",
+   "6eaSFNLdbmnGh95CtnrZcRNJpmyfKEGBAWFF8bzDpump",
+   0.044,
+   2.4,
    ""
   ],
   [
-   "LOC",
-   "8FpsvojAAh5poBz2iacCaZA9YpFMWwaw1vV8ot7Qpump",
-   0.024,
-   9.9,
+   "commito",
+   "82p2UNrhdzg7NqifBoKUXK6LPDjLzXYj8sRsFnAJpump",
+   0.04,
+   2.6,
    ""
   ]
  ]
