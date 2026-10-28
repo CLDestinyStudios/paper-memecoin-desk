@@ -13,10 +13,10 @@
    "entry_px": 5.445767190168149e-08,
    "entry_fill": 5.7850976178327804e-08,
    "opened": 1793186707.2885458,
-   "last_px": 5.533865080976645e-08,
+   "last_px": 5.483790180643898e-08,
    "peak_px": 5.781648084689475e-08,
-   "last_val": 10.694687298530154,
-   "last_prog": 0.391
+   "last_val": 10.592969379886313,
+   "last_prog": 0.387
   },
   "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump": {
    "sym": "Robotaxi",
@@ -27,10 +27,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.4336544518393414e-08,
+   "last_px": 3.184473375595395e-08,
    "peak_px": 3.4336544518393414e-08,
-   "last_val": 10.330900160198707,
-   "last_prog": 0.132
+   "last_val": 9.574433607382588,
+   "last_prog": 0.085
   }
  },
  "traded": [
@@ -464,81 +464,85 @@
   [
    "2026-10-28T04:34:08",
    388.08
+  ],
+  [
+   "2026-10-28T04:35:09",
+   387.22
   ]
  ],
- "cycles": 149,
+ "cycles": 150,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.78785107248713,
- "watching": 223,
+ "sol_usd": 102.74318791354354,
+ "watching": 225,
  "near": [
   [
    "STONKER",
    "Czi37EyucqbHwDLg9TS1k5BurmBYXR4tqzUoipkepump",
    0.148,
-   2.7,
+   3.7,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Robotaxi",
-   "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump",
-   0.132,
-   7.9,
-   "bought"
   ],
   [
    "TWITCHY",
    "2wxMfLFGckiFHNAk54gVduMwCgCYgYQjNRHCsjtspump",
    0.125,
-   8.2,
+   9.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BREAD",
    "6eaSFNLdbmnGh95CtnrZcRNJpmyfKEGBAWFF8bzDpump",
-   0.043,
-   6.5,
-   ""
+   0.051,
+   7.5,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Waifu",
    "ChFvgnUhY6CShK44kybwRAZdxM4F71zRcDUpWZdJpump",
    0.042,
-   5.4,
-   ""
-  ],
-  [
-   "BBRAIN",
-   "EiURtcyAK3FNfDcKStuHNHjpFHaQ3oexrkA4L38Apump",
-   0.038,
-   6.1,
-   ""
-  ],
-  [
-   "Jannah",
-   "GrunHFEnhUYQLozPsRfecn8Kx7f46KTE5JvfgyHspump",
-   0.032,
-   9.7,
+   6.5,
    ""
   ],
   [
    "FAP",
    "FYfjVaevSaKJNwvbUxb6nj4BKNrC6XoYuvmmDnyxpump",
    0.023,
-   8.6,
-   ""
-  ],
-  [
-   "NOCLIP",
-   "HunBjF6aW8BbsTfESU4Z6EdczYipZVhs98unDprZpump",
-   0.023,
-   5.8,
+   9.6,
    ""
   ],
   [
    "Mango",
    "6cyts5MMMk1scfYSdp19Y4tfXfrkgCLW7etsSMdpump",
    0.022,
-   3.3,
+   4.3,
+   ""
+  ],
+  [
+   "UnderPaid",
+   "EY5KqrxBXv8vrm4pNeWsSi7b9DiQKYUrPAGFxJy5pump",
+   0.017,
+   9.5,
+   ""
+  ],
+  [
+   "bigsnoutguy",
+   "8M6sAsbaEMgXX8W9LsacGsJp9uSFE9kAQJaW5r9Mpump",
+   0.017,
+   7.7,
+   ""
+  ],
+  [
+   "$KIMCHI",
+   "J6GrLHsRBfmzm8exwU5vwdN6gCoEHSPq97Hs3Jrdpump",
+   0.016,
+   8.3,
+   ""
+  ],
+  [
+   "LARPCAT",
+   "5fp6jVWQjc4MJH5CqhcqopuGUT68Diw4h5mEQru6LUcT",
+   0.013,
+   10.0,
    ""
   ]
  ]
