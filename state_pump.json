@@ -1694,84 +1694,84 @@
    272.36
   ],
   [
-   "2026-10-28T10:39:53",
+   "2026-10-28T10:40:55",
    272.36
   ]
  ],
- "cycles": 487,
+ "cycles": 488,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.084899886,
- "watching": 238,
+ "sol_usd": 101.071520478,
+ "watching": 244,
  "near": [
   [
    "CRABLER",
    "7SF6umqmWb5di8gDXurQgwErDnpVuCqsQEyojZiBpump",
-   0.957,
-   3.4,
+   1.0,
+   4.5,
+   "graduated"
+  ],
+  [
+   "NETANYAHU",
+   "BNPrtfT6kpojA7xo6g7C3EffKyu29cULQj3P22Nnpump",
+   0.954,
+   3.1,
    ""
   ],
   [
    "BIBICOIN",
    "BwHQ4QcooRU1D8Dp7JtQjWsZWeqEQjGpy93jFeS7pump",
-   0.883,
-   2.4,
+   0.943,
+   3.4,
    ""
   ],
   [
-   "PARTICLE",
-   "Gxix8cazTs2AHY7jkAmkyHhAtLtqhhBVZHFW7wT8yaDK",
-   0.212,
-   3.1,
-   "top5_hold_most=85%; bundled_launch=4 extra buys in creation block"
+   "BIBICOIN",
+   "2eqwNJS49GjhNVmDZp92FnThe3cMoyGDdKqjMqnFpump",
+   0.374,
+   2.9,
+   ""
   ],
   [
-   "NETANYAHU",
-   "8AgmCVjjsoowy78GC85DXfQCrJRtHQG2HVaMx211pump",
-   0.153,
-   2.4,
+   "IOF",
+   "Gb8o5t6BzSaUuDF6dRaQyFjZVwepF3r85QAdr9bBpump",
+   0.328,
+   3.1,
+   "top5_hold_most=89%"
+  ],
+  [
+   "BIBICOIN",
+   "2q2XgABvd6V13kYP41E7C5mCiKpCEKWYZh5p1pwpGdJZ",
+   0.132,
+   3.5,
    ""
   ],
   [
    "HERMANN2",
    "4TFjKTgX18px9DtpnJUHBwSpMDEyvYX7WfHhiPz7pump",
    0.114,
-   2.6,
+   3.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "BIBICOIN",
-   "2q2XgABvd6V13kYP41E7C5mCiKpCEKWYZh5p1pwpGdJZ",
-   0.11,
-   2.5,
-   ""
+   "NAKO",
+   "EaNpeUKx9bpejmqcpqHWABP2M6opJ1DbWz4iczp1pump",
+   0.102,
+   2.6,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
-   "BIBICOIN",
-   "87hfCjd3NLo7TnqZVYVK88aR2eGqhSYmnnqrzWGcpump",
-   0.107,
-   2.2,
-   ""
+   "AirDropCat",
+   "87zBbeXifrK2CXyiTexTwQtvxD53RHt17Js78y9ypump",
+   0.099,
+   3.0,
+   "buyers=8; top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "putin",
    "F4NvE4G4ourzA9VdoV1uUaU15A5KzyVhEHfWUZmTpump",
-   0.089,
-   8.5,
+   0.09,
+   9.6,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Mclown",
-   "DBkqppX5eVLKNPGfpaAMgQ3stj9AzXmZRJR1QHVcpump",
-   0.076,
-   2.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "BIBICOIN",
-   "Gu93esCtqLMwNXQAyB4bA8FG5kEVGDb58LS25CDer8Dx",
-   0.073,
-   2.7,
-   ""
   ]
  ]
 }
