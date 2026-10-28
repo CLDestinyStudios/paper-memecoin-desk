@@ -13,10 +13,10 @@
    "entry_px": 4.2052104368585743e-08,
    "entry_fill": 4.489621693727529e-08,
    "opened": 1793225273.1053596,
-   "last_px": 7.025088087129014e-08,
+   "last_px": 7.02800649108087e-08,
    "peak_px": 1.9149854888207702e-07,
-   "last_val": 3.4804107091308105,
-   "last_prog": 0.499,
+   "last_val": 3.4810767550399424,
+   "last_prog": 0.5,
    "tp1_done": true,
    "realized": 2.3362971197425146
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.572620505142961e-08,
    "entry_fill": 4.8816666853927536e-08,
    "opened": 1793226832.7714303,
-   "last_px": 4.230557899078167e-08,
+   "last_px": 4.16521168865677e-08,
    "peak_px": 4.572620505142961e-08,
-   "last_val": 3.856736448208386,
-   "last_prog": 0.253
+   "last_val": 3.7955327147174702,
+   "last_prog": 0.244
   }
  },
  "traded": [
@@ -2950,81 +2950,85 @@
   [
    "2026-10-28T15:37:49",
    158.08
+  ],
+  [
+   "2026-10-28T15:38:49",
+   158.02
   ]
  ],
- "cycles": 785,
+ "cycles": 786,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.463557709,
- "watching": 247,
+ "sol_usd": 102.43999999999998,
+ "watching": 261,
  "near": [
   [
    "AURA",
    "CurpZpXsvhKKcLjJv215hNkBRKAENoYnVSLMju7rpump",
-   0.985,
-   9.0,
-   ""
+   1.0,
+   10.0,
+   "graduated"
   ],
   [
    "25%",
    "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump",
-   0.912,
-   4.5,
+   0.878,
+   5.5,
    ""
   ],
   [
    "M69",
    "4MPRDSjy7sxqbYFSUD7EZ7TCRFEHDW6xZ96kcXPbpump",
-   0.855,
-   9.0,
-   ""
-  ],
-  [
-   "PAPU",
-   "62K2YJQho85HJGpEY2osj1HFqHnGbuUeTwTZ3vpXpump",
-   0.125,
-   5.0,
+   0.849,
+   10.0,
    ""
   ],
   [
    "Catdog",
    "4VXCW8FyqHns2LGaVFs8BcCoA9jwVrNX8CR9tx2npump",
    0.064,
-   3.3,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "$Cat",
-   "CbZjUZmhmnrMigfibi2Y47okZLv8LwRkuCWXxFiTpump",
-   0.053,
-   9.1,
+   4.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "PhazrInu",
    "CD4vTXCPGfLmhJJzxyoRKaD3vcEq1EuiudF3t19Apump",
    0.051,
-   3.6,
+   4.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "KYM",
-   "6hbbvoBwdtnsRhaXZ2tm2i2MMbnztJjRAib4fg5Dpump",
-   0.047,
-   3.0,
+   "Lambo",
+   "Bx81zrAKVJWTkKETFgg5gAxQ2H5fFCkmVwLmmNaBpump",
+   0.043,
+   2.8,
    ""
   ],
   [
    "$ADOBO",
    "88DzUffXuM3UzhZnqc7GyXajuMzJox3umfcYcmcHpump",
    0.041,
-   8.0,
+   9.0,
    ""
   ],
   [
    "wSANTA",
    "22dusXDuo7Te1iNrmrXTsfG4M6EmHSVKjXpyVs4Tpump",
    0.032,
-   7.4,
+   8.4,
+   ""
+  ],
+  [
+   "HARVARD",
+   "5iz2pt8KoMJTTRH9e7kWChcNogoC1eKHYMdCGZidpump",
+   0.032,
+   5.6,
+   ""
+  ],
+  [
+   "BADGER",
+   "9zW5GFn15oTZ1Jm9bMg7kgEGrr3z5XGnbATX3GLJpump",
+   0.022,
+   8.7,
    ""
   ]
  ]
