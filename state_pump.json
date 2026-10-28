@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 194.1570524997361,
+ "cash": 188.2170524997361,
  "positions": {
   "8SjDneshQiKtSPK3p3K5jwWX3r9mhGBRix33nUpFpump": {
    "sym": "SAVE",
@@ -13,12 +13,26 @@
    "entry_px": 4.381733142318724e-08,
    "entry_fill": 4.669581434711577e-08,
    "opened": 1793217119.9745905,
-   "last_px": 9.800122113833808e-08,
+   "last_px": 6.678277012651911e-08,
    "peak_px": 9.800122113833808e-08,
-   "last_val": 5.818987298333046,
-   "last_prog": 0.63,
+   "last_val": 3.9538399078956106,
+   "last_prog": 0.478,
    "tp1_done": true,
    "realized": 1.4750291796311856
+  },
+  "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump": {
+   "sym": "ENGRAM",
+   "bc": "9DLuK3E8kcibKpBBNRdVG7VerPf3fuGt322FDTmF4Fdy",
+   "tokens": 486802.197219944,
+   "cost": 5.94,
+   "cost0": 5.94,
+   "entry_px": 1.115063326903603e-07,
+   "entry_fill": 1.1876093981387016e-07,
+   "opened": 1793217419.2877114,
+   "last_px": 1.115063326903603e-07,
+   "peak_px": 1.115063326903603e-07,
+   "last_val": 5.230980111611081,
+   "last_prog": 0.675
   }
  },
  "traded": [
@@ -166,7 +180,8 @@
   "AYi8wqqg4audZasLjUvKndkP6GzUJ34LGY7fyA3npump",
   "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
   "j96CRzF6axWNUtq2sSWq8JJpNiF27MStWctU4R1pump",
-  "8SjDneshQiKtSPK3p3K5jwWX3r9mhGBRix33nUpFpump"
+  "8SjDneshQiKtSPK3p3K5jwWX3r9mhGBRix33nUpFpump",
+  "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump"
  ],
  "equity": [
   [
@@ -2288,81 +2303,85 @@
   [
    "2026-10-28T12:55:42",
    199.98
+  ],
+  [
+   "2026-10-28T12:56:59",
+   197.4
   ]
  ],
- "cycles": 623,
+ "cycles": 624,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.63840000000002,
- "watching": 296,
+ "sol_usd": 102.74490371000002,
+ "watching": 272,
  "near": [
   [
    "negro",
-   "4fqaN9PChpETGBMoa6FSupMWJhgT7JzxCZkAZeZKpump",
-   1.0,
-   4.5,
-   "graduated"
-  ],
-  [
-   "negro",
    "AH6j7gnAWdjiDnFgotwnGDbE3fLX94LDEieCP5QMpump",
-   0.966,
-   3.7,
+   0.968,
+   5.0,
    ""
   ],
   [
    "nilly",
    "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
-   0.901,
-   3.3,
+   0.927,
+   4.6,
+   ""
+  ],
+  [
+   "thesis",
+   "6iYULxc5SKCrco5kKKP54HNGDDUEsexWRGupTWYopump",
+   0.706,
+   4.3,
    ""
   ],
   [
    "ENGRAM",
    "EcpJJTa5YSc5jZxPVKHxuTy9LE5an7CSh1Lqgsdpump",
-   0.686,
-   6.5,
-   "top10=47.1%"
+   0.675,
+   7.8,
+   "bought"
   ],
   [
-   "thesis",
-   "6iYULxc5SKCrco5kKKP54HNGDDUEsexWRGupTWYopump",
-   0.685,
-   3.0,
-   ""
+   "GRAD",
+   "6xDA4jApbNGi5hjpytmtW68AZLhN641DQxHcMYMjpump",
+   0.323,
+   3.1,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "Chillhouse",
-   "F6VdUxZzzbAw7dswMRk5SGqMFj2QaPAq1b2xx8yNpump",
-   0.271,
-   5.4,
-   ""
+   "ARTEMIS",
+   "7TH9LiybxPv1CsFktMaZskZEhCvsUfPZkL3fNhVFpump",
+   0.259,
+   3.3,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "DINO",
-   "CEz1NcFSVeS1zthujQN8JJEKRcEAGZcnkCqadBvqpump",
-   0.123,
-   4.5,
-   "buyers=2; top5_hold_most=100%"
+   "BNB-TOKEN",
+   "57F2zFsqFEnRFWJB8zXAcXr33wENcQdV14VanKX1pump",
+   0.162,
+   3.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Negro",
    "Fr7Pnak3evHfKF7g7zg6hnyaUpKZ72YPFYPzjJufpump",
-   0.095,
+   0.132,
+   3.8,
+   ""
+  ],
+  [
+   "SAWYER",
+   "FdTHSn9ptGfkFBQXzPcWv1gnnMAyHdiaqag68gSCpump",
+   0.072,
    2.5,
    ""
   ],
   [
    "ANSEM",
-   "AfTA6uzW44brJhj3p94jEY55zwRemSDMpijXTCnVpump",
-   0.085,
-   3.1,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "negro",
-   "Eg1JifYwLTzGrPMiRx9BkPHk3awmuqJS9tyWo7WaEFvf",
-   0.079,
-   4.3,
+   "3rE8e4m9iy2rSu53fmrAvwWkVFobRF9ppjE4NHPDpump",
+   0.071,
+   2.6,
    ""
   ]
  ]
