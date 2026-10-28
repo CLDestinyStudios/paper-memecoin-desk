@@ -13,10 +13,10 @@
    "entry_px": 6.156821493097416e-08,
    "entry_fill": 6.54047801740643e-08,
    "opened": 1793198476.0788846,
-   "last_px": 7.591825172738282e-08,
+   "last_px": 7.562483703574202e-08,
    "peak_px": 7.798504750499765e-08,
-   "last_val": 11.755741909754772,
-   "last_prog": 0.532
+   "last_val": 11.707220480807011,
+   "last_prog": 0.53
   }
  },
  "traded": [
@@ -1213,81 +1213,85 @@
   [
    "2026-10-28T07:44:09",
    358.88
+  ],
+  [
+   "2026-10-28T07:45:09",
+   358.83
   ]
  ],
- "cycles": 339,
+ "cycles": 340,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.755374411,
- "watching": 214,
+ "sol_usd": 100.73000000000002,
+ "watching": 218,
  "near": [
   [
-   "RACCOIN",
-   "8N9BouNJp1TVFWQEGDUqHhhec5ZRC7AmWsorXLLqpump",
-   0.8,
-   5.0,
+   "Memelord",
+   "87kv3vRAEb4Vphd3dQZ5JrE1P9CdE5r9c63ZsGozpump",
+   0.85,
+   3.0,
    ""
   ],
   [
-   "PEPEween",
-   "5C5K1ZetdvGoF5QRcyRbVMiVLhkJzS8RkH8UL2pwpump",
-   0.589,
-   4.3,
-   "serial_creator=6 launches/24h"
+   "TIT",
+   "8MYWrFukXWr1Do1UYk36afF7xYfeQxWewm99ig7zpump",
+   0.668,
+   2.1,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "RELO",
+   "CduevM2EraiUpxZzfQkX2KesiM8zTMyihE2kX2SQpump",
+   0.445,
+   2.7,
+   "buyers=2; creator=33.7%; top5_hold_most=100%"
   ],
   [
    "FIVEMIND",
    "br1sTLyi2YygfkgWwQihmA3Rz5YRRiSaF1tobpcpump",
-   0.371,
-   3.2,
+   0.44,
+   4.2,
    ""
   ],
   [
    "POOP",
    "FgHtiGYNo2N3guB1VduFhMYbSsww5Zv7PTcgzKqApump",
    0.098,
-   3.2,
-   ""
-  ],
-  [
-   "POOP",
-   "ChpseqgrxJtJwREwCRRE3AhbUtweaxtvqAijkwVZpump",
-   0.074,
-   3.7,
+   4.2,
    ""
   ],
   [
    "RACCOIN",
    "Cfm1w1iuwNSzGhAG2h3QmnXdjscKV2F8uMqfXaxXpump",
    0.073,
-   6.0,
+   7.0,
    ""
+  ],
+  [
+   "MARTY",
+   "4NgNjWGXtMGJcGGVBztRo8qBrPU1k89Dybnh5v4Bpump",
+   0.064,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "DearAlon",
    "DGW974UQ9jFodoQki1DxCqZJykZN9Rkq5reRPRZcpump",
-   0.07,
-   2.6,
-   ""
-  ],
-  [
-   "BLUECHIMP",
-   "Aq5E2y6UYP7bMxnNzfkVH7XnFxKsLrU7Fo3PsR3Kpump",
-   0.06,
-   3.4,
+   0.048,
+   3.6,
    ""
   ],
   [
    "WCTM",
    "CXfAqe85wJkTDgEcsYR5pRbpGgd4YS1r1fj8ZqR9pump",
    0.043,
-   2.9,
+   3.9,
    ""
   ],
   [
    "DUSTY",
    "CaHLgxqWaXh5qNxYcn6eyabVZCGzHntLj7Y8Rrn3pump",
    0.039,
-   3.3,
+   4.3,
    ""
   ]
  ]
