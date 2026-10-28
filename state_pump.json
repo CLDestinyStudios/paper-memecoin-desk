@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 9.76743034456271e-08,
+   "last_px": 5.687143758123898e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 14.685850393480692,
-   "last_prog": 0.629,
+   "last_val": 8.541128642408868,
+   "last_prog": 0.404,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -547,82 +547,86 @@
   [
    "2026-10-28T04:57:06",
    397.9
+  ],
+  [
+   "2026-10-28T04:58:06",
+   391.76
   ]
  ],
- "cycles": 172,
+ "cycles": 173,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.5295477148158,
- "watching": 323,
+ "sol_usd": 102.60306978231091,
+ "watching": 320,
  "near": [
   [
    "garry",
    "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump",
-   0.86,
-   4.7,
+   0.875,
+   5.7,
    ""
   ],
   [
    "MIA",
    "7rexiKrNQtgUGdD6hzw8iuGJKoxMXxVrGvoPVZ3jpump",
    0.234,
-   5.6,
+   6.6,
    "top5_hold_most=84%"
   ],
   [
-   "BUY",
-   "E5Yg8KiTPJQVF1iUR83e4DKV5XSUkjLoB6p1LUHGpump",
-   0.221,
-   9.5,
+   "luck",
+   "4Z2ApFVmx8L2xiRVWjjKGCFNbuQKGQWi9EbvwADyYj8e",
+   0.115,
+   2.5,
    ""
-  ],
-  [
-   "Fashion",
-   "ALaWHqMef2hvbJ1fknAdmVnbaG1oAsjbfczVEkg9pump",
-   0.108,
-   9.2,
-   "buyers=8; top5_hold_most=93%; launch_slot=missing"
-  ],
-  [
-   "PUMPOWEEN",
-   "9uiedL48JHK5JvynJCH8pZVxBrdDjmv8gL5xaFxspump",
-   0.098,
-   2.6,
-   "top5_hold_most=89%"
   ],
   [
    "THG",
    "EjZEfjxQu68e8Vi3Xh1YdeAwrxzturBWckVoStyypump",
    0.085,
-   4.4,
+   5.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "KNG22",
    "2AovdncBM1gS5EvVuTD81Fe9B1XNkgt1oq5pDogXpump",
    0.074,
-   2.0,
+   3.0,
    ""
-  ],
-  [
-   "QUBIT",
-   "6anyioYyyuzEdvgUiXmxZ1HNDRGAgh4qcFpFRujWpump",
-   0.051,
-   8.4,
-   "buyers=2; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "ONEARUA",
    "94Bc4PuQHqP5nEmYDGV2qQT5x69R5V6ZXrmJe3Cqpump",
-   0.041,
-   8.5,
+   0.051,
+   9.5,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "UNISON",
+   "Dw11ccqcQc2eLV76aJeDszkQ1LJbzTSJoi987U1rpump",
+   0.047,
+   3.0,
    ""
   ],
   [
    "$IMBO",
    "DYANmNqWaLbziF1cu4WHW88f4RjnvR6xrfyGvdhzpump",
-   0.03,
-   7.3,
+   0.034,
+   8.3,
    ""
+  ],
+  [
+   "Birdie",
+   "EHQo5EYFyHStmkTQPBtbbuk4y5LbfU7K4NCrorNmpump",
+   0.029,
+   4.6,
+   ""
+  ],
+  [
+   "PUMPOWEEN",
+   "9uiedL48JHK5JvynJCH8pZVxBrdDjmv8gL5xaFxspump",
+   0.025,
+   3.6,
+   "top5_hold_most=89%"
   ]
  ]
 }
