@@ -626,83 +626,83 @@
    379.33
   ],
   [
-   "2026-10-28T05:24:06",
+   "2026-10-28T05:25:06",
    379.33
   ]
  ],
- "cycles": 199,
+ "cycles": 200,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.90228348700002,
- "watching": 208,
+ "sol_usd": 101.9247565345,
+ "watching": 221,
  "near": [
   [
-   "MCITY",
-   "8J8QrjeXCuRPEQbB6SUdXsXGGDZPizCqhJRSPMKCpump",
-   1.0,
-   2.8,
-   "graduated"
+   "PQC",
+   "H9VQ2GmoJTU8TAh4JKteQqhUAtUNJ7fqQrMK5agzDzk5",
+   0.359,
+   2.0,
+   ""
   ],
   [
    "BOARDO",
    "B5y2RR2PRiCSioeFzUsGzMPXud3qjQq5gye72DBhpump",
    0.267,
-   2.5,
+   3.5,
    "top5_hold_most=83%"
   ],
   [
-   "FINDXINGXING",
-   "GPaqpkihoymsH7KTuWqZAsddYGkx2TyXABTPp6Jgpump",
-   0.137,
-   4.0,
-   "buyers=4; top5_hold_most=100%"
+   "MSGA",
+   "813LAf4z6CU2FvLW7CQDhUN2VPMFKwk6cGraPqsQpump",
+   0.139,
+   2.0,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "Discord",
    "HckD2yrbX634tBPYkWhj2fpijZGRqNrDeTKMpdBvr146",
    0.108,
-   2.1,
+   3.1,
    ""
   ],
   [
    "KIMPUMFUN",
    "3YsjasZqyQ5RGtXDcyf4aZ7jp1kRSZMttxhWLWFjpump",
    0.103,
-   3.9,
+   4.9,
    "top5_hold_most=98%"
+  ],
+  [
+   "VALENCE",
+   "V9gD2xoapXiRD5qmA3miu1w9e8A6uCxpSSRCB8b41Fn",
+   0.073,
+   2.4,
+   ""
   ],
   [
    "ROLO",
    "HFni8JvqsSAg9XER4MjNGbYezxqUQ1vL7Lq8qBsupump",
-   0.082,
-   2.3,
+   0.072,
+   3.3,
    ""
   ],
   [
-   "Xingxing",
-   "3eJ6A7rRc4WtS9o6USYb2wWuAgLecTLo9AruThLBpump",
-   0.081,
-   3.7,
-   ""
-  ],
-  [
-   "Luna",
-   "EkdfusnVF3C7wcMKMBTPgm2sGxuR95BhQfQ8LBmEpump",
-   0.071,
-   4.6,
-   ""
-  ],
-  [
-   "Ruined",
-   "2iWdc4SQa7KtfwctPWmLmCyCEawc2ib8JDH5CWBepump",
+   "TAIMO",
+   "CA9vyyMprRfFqvk1pJ5Uk43j7FkpqbfQsgoTbr3gpump",
    0.044,
-   9.6,
+   2.2,
    ""
   ],
   [
    "something",
    "BR6sQDQ2XZd4F98uQnMucTF33k1twVkN9cmxCAqUpump",
    0.022,
-   3.8,
+   4.8,
+   ""
+  ],
+  [
+   "VETTED",
+   "3D61uQX126ABfw6L64kEJoy7cuZL2bJCttMucj5ypump",
+   0.016,
+   5.8,
    ""
   ]
  ]
