@@ -15,7 +15,7 @@
    "opened": 1793215066.3097591,
    "last_px": 3.7369519696023925e-08,
    "peak_px": 4.1992243107239425e-08,
-   "last_val": 5.302491934052278,
+   "last_val": 5.3001163358460985,
    "last_prog": 0.183
   },
   "AuBvZnWbRfUj7vzc5pGWUPb8tqUNnRVKtydZeaH2pump": {
@@ -27,10 +27,10 @@
    "entry_px": 4.414380278676125e-08,
    "entry_fill": 4.7012542319021405e-08,
    "opened": 1793215364.969769,
-   "last_px": 4.217775738535348e-08,
+   "last_px": 4.055673690013129e-08,
    "peak_px": 4.414380278676125e-08,
-   "last_val": 5.44845265881187,
-   "last_prog": 0.251
+   "last_val": 5.234901819118907,
+   "last_prog": 0.23
   }
  },
  "traded": [
@@ -2161,82 +2161,86 @@
   [
    "2026-10-28T12:23:42",
    214.09
+  ],
+  [
+   "2026-10-28T12:24:52",
+   213.88
   ]
  ],
- "cycles": 591,
+ "cycles": 592,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.098451065,
- "watching": 385,
+ "sol_usd": 102.0527093835,
+ "watching": 388,
  "near": [
   [
    "FI",
    "6v4qZ7KSw2v4acaaqLsDYAVBELH8MXYGhjD6mTGJkdTE",
-   0.45,
-   2.6,
-   ""
-  ],
-  [
-   "Refrigerator",
-   "EU1WDX95dM4D4uCBjwMt6sybqezrahQHTETfzeTXpump",
-   0.447,
-   3.5,
-   ""
+   0.444,
+   3.8,
+   "serial_creator=85 launches/24h"
   ],
   [
    "Refrigerator",
    "GjUGNNm2iM7X29LjhDwT4SvANjMe4tE6BPbChwwMpump",
    0.394,
-   5.7,
+   6.9,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Refrigerator",
+   "EU1WDX95dM4D4uCBjwMt6sybqezrahQHTETfzeTXpump",
+   0.386,
+   4.7,
    ""
   ],
   [
    "groceries",
    "2VzRZNEmb2tNvrQ4qTTbBNwCF9dSJM1fuG8VaUTgpPyw",
-   0.162,
-   7.3,
+   0.227,
+   8.5,
    ""
   ],
   [
    "Refrigerator",
    "FdvcBopvMuxuf5zZsNNFdJPkRkiQUe9B5jZmXmvGSwVK",
-   0.16,
-   8.6,
+   0.224,
+   9.8,
    ""
+  ],
+  [
+   "LONETRD",
+   "CJWw7ySuDdnuGuJX7wytS5rECSaRoWkK4EyzKsQpump",
+   0.16,
+   9.2,
+   "buyers=7"
   ],
   [
    "GOAT",
    "GJzX4VZBzCz854xXAiDDG5skGaSFAhQcKfMGLcaEpump",
    0.153,
-   5.6,
+   6.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "LONETRD",
-   "CJWw7ySuDdnuGuJX7wytS5rECSaRoWkK4EyzKsQpump",
-   0.134,
-   8.1,
-   "buyers=6; top5_hold_most=88%"
-  ],
-  [
-   "FI",
-   "HTCBHCHNQF4sS7Dp7QnPbC6TasuygwvX77DaWzC8Deuo",
-   0.133,
-   2.1,
-   ""
+   "REFRIGDERATO",
+   "7AJZan8cEcvJzgvsz4Hakz2iZUiCGHVmYnzayFwMpump",
+   0.135,
+   3.0,
+   "buyers=8; top5_hold_most=92%"
   ],
   [
    "Outsider",
    "9LnKCUYU1iS1jq45mZYF2nu3WAfJuj1syiMjoV5qpump",
    0.083,
-   3.0,
+   4.2,
    ""
   ],
   [
-   "Refrigerator",
-   "AzjnN5F8gPesRX5ZrKpYxDT1jMcN7iwCNRbd1sRT8NMN",
-   0.076,
-   7.9,
-   ""
+   "KM",
+   "DtbPLqPu1m8sFmcyFHiF9NwpArXDmws7Tf8jsgbqmRwe",
+   0.08,
+   2.6,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
