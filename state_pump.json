@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 7.634768670572285e-08,
+   "last_px": 5.363183900552333e-08,
    "peak_px": 7.634768670572285e-08,
-   "last_val": 11.472904242408902,
-   "last_prog": 0.534,
+   "last_val": 8.064315880922067,
+   "last_prog": 0.376,
    "tp1_done": true,
    "realized": 4.3678562971473465
   },
@@ -29,10 +29,10 @@
    "entry_px": 3.8497555633323106e-08,
    "entry_fill": 4.091700938643038e-08,
    "opened": 1793188094.7175844,
-   "last_px": 3.8497555633323106e-08,
-   "peak_px": 3.8497555633323106e-08,
-   "last_val": 10.565500614639559,
-   "last_prog": 0.2
+   "last_px": 4.047266915679668e-08,
+   "peak_px": 4.047266915679668e-08,
+   "last_val": 11.132898749343537,
+   "last_prog": 0.228
   }
  },
  "traded": [
@@ -525,81 +525,85 @@
   [
    "2026-10-28T04:48:14",
    396.55
+  ],
+  [
+   "2026-10-28T04:49:05",
+   393.71
   ]
  ],
- "cycles": 163,
+ "cycles": 164,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.54033125199997,
- "watching": 246,
+ "sol_usd": 102.758003537,
+ "watching": 255,
  "near": [
-  [
-   "Lazo",
-   "Gh4Y5C2cCKUt6svkjNVPxuf2t6wFGvahudEnb4bGKFRM",
-   0.445,
-   2.6,
-   "serial_creator=34 launches/24h"
-  ],
-  [
-   "ECOPAD",
-   "8mGYBTcVFmM8C4X1i7uwti6DdkEVaYi89k9KWUZVpump",
-   0.2,
-   2.2,
-   "bought"
-  ],
   [
    "RSGP",
    "HxduH3im5ULYR2FUy55xXQZoq2jMEePBUBJtPQ5Xpump",
    0.133,
-   7.5,
+   8.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Lazo",
-   "FNEtwr3CcQUAcbYSDkrcH8MNtVRGLvVGcpVh4kufpump",
-   0.091,
-   2.3,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "CT",
-   "4gp9TdV5eC77nYovTN8Yje43ijjXpNxu1PJnok3spump",
-   0.085,
-   2.6,
-   ""
-  ],
-  [
-   "Glitch",
-   "DqXTj868HkBfF45rTENyyobvM7nr7BHvCqFqrtfXpump",
-   0.082,
-   2.3,
-   "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "Garry",
-   "EEMfDz5Jfd7d3mHN9HVzfmkxTiGWJKM43sNRn9E9pump",
-   0.08,
-   4.7,
+   "cinta",
+   "HgJBfE2w9i9EFBr2QBEj2kouMNZRrPPfYe4ry1L7kt6H",
+   0.074,
+   3.0,
    ""
   ],
   [
    "OPH",
    "Cwua1C3a6GXNxv4849L19CfkoMQ2atsEadznDsoQpump",
-   0.069,
-   2.5,
+   0.067,
+   3.4,
    "buyers=6; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "Glitch",
+   "DqXTj868HkBfF45rTENyyobvM7nr7BHvCqFqrtfXpump",
+   0.057,
+   3.1,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "PumpkinBot",
    "FfPEzQgcTLQyQ4pGD5ZJND6VjtrX1CWxyaxr7nNrpump",
    0.044,
-   2.6,
+   3.4,
+   ""
+  ],
+  [
+   "BUSSIN",
+   "DfP3wT2diz6U8tQgbSBatq8s1v83ShQbDKEnquK5pump",
+   0.039,
+   2.1,
+   ""
+  ],
+  [
+   "Lazo",
+   "DguQB2ukeLNtzqste9qTghKVRC3gQyR3c2X1TFkdpump",
+   0.038,
+   2.9,
+   ""
+  ],
+  [
+   "JEANDOGE",
+   "3gc3sJ2nkVczmAsJcGvc3wXBf83SUdKPJowUmFYbpump",
+   0.022,
+   8.4,
+   ""
+  ],
+  [
+   "SPAIN",
+   "SPAinU1X2JZBWFAjWf1ihT5fLaa4FL1y2YK6pox6LZy",
+   0.022,
+   7.7,
    ""
   ],
   [
    "Linus",
    "5MeaMcKVNqwYjygwNsdmNMk9L83LqeSLNgXx85w8pump",
-   0.041,
-   3.5,
+   0.02,
+   4.4,
    ""
   ]
  ]
