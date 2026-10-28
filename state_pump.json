@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 408.24523857143885,
+ "cash": 395.67523857143885,
  "positions": {
   "98ykdwxiqeJRE7v1s6MwAdCGUbVXDsrazQaq1w4Jpump": {
    "sym": "ROVO",
@@ -13,12 +13,26 @@
    "entry_px": 5.0941630826738066e-08,
    "entry_fill": 5.411811988851844e-08,
    "opened": 1793185687.143418,
-   "last_px": 1.0029593319558833e-07,
+   "last_px": 9.9713795005226e-08,
    "peak_px": 1.0029593319558833e-07,
-   "last_val": 10.70703665645778,
-   "last_prog": 0.639,
+   "last_val": 10.649723258913324,
+   "last_prog": 0.637,
    "tp1_done": true,
    "realized": 4.56203665645778
+  },
+  "DHX53JMeggN6hip4V949xW2pjD7v7wvDEpcjjAhmpump": {
+   "sym": "The Church o",
+   "bc": "4XeQ7iy1VCTq1Eg4w6TkkBWKHYmhzpZnnQn9YZ6K3YWn",
+   "tokens": 2145690.296854477,
+   "cost": 12.57,
+   "cost0": 12.57,
+   "entry_px": 5.379987827194544e-08,
+   "entry_fill": 5.7148409928646886e-08,
+   "opened": 1793185926.508097,
+   "last_px": 5.379987827194544e-08,
+   "peak_px": 5.379987827194544e-08,
+   "last_val": 11.135850332167253,
+   "last_prog": 0.378
   }
  },
  "traded": [
@@ -46,7 +60,8 @@
   "Ea6FCT3jqvGFzAnp8uWeVVaQPAtRswQA5xq84rjfpump",
   "DV8TYgwECzDLGAecwTpvzxVVJoicvU7JAtoDyZiQpump",
   "H7KF7yPZbxp3f5nx9nbmdFDADmRfdSzwg8p9DBMrpump",
-  "98ykdwxiqeJRE7v1s6MwAdCGUbVXDsrazQaq1w4Jpump"
+  "98ykdwxiqeJRE7v1s6MwAdCGUbVXDsrazQaq1w4Jpump",
+  "DHX53JMeggN6hip4V949xW2pjD7v7wvDEpcjjAhmpump"
  ],
  "equity": [
   [
@@ -356,81 +371,85 @@
   [
    "2026-10-28T04:11:06",
    418.95
+  ],
+  [
+   "2026-10-28T04:12:06",
+   417.46
   ]
  ],
- "cycles": 126,
+ "cycles": 127,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.4607,
- "watching": 289,
+ "sol_usd": 102.5094938460894,
+ "watching": 299,
  "near": [
+  [
+   "The Church o",
+   "DHX53JMeggN6hip4V949xW2pjD7v7wvDEpcjjAhmpump",
+   0.378,
+   2.7,
+   "bought"
+  ],
   [
    "THEHI",
    "5MC7TbAcXjzX39i8sbXvAGiBfyjPPtJXuoE8dZxypump",
    0.197,
-   2.8,
-   "buyers=4; top5_hold_most=100%"
+   3.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "slayer ",
    "4nRGMYcsXVyisHHcnJsaswrn3cAppB6wWcg99R9Qpump",
    0.137,
-   6.8,
+   7.8,
    "buyers=8; top5_hold_most=93%"
   ],
   [
    "\u30de\u30eb",
    "6MsmEVuZipa8PnJMLPy6srFavm17YzZL2iBXW9AVpump",
    0.062,
-   6.0,
-   ""
-  ],
-  [
-   "DOJO",
-   "CJxak5D1zK2tDQvbqXpP12HymbE8T2Tvhf8waSEKpump",
-   0.045,
-   6.5,
-   ""
+   7.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "$UNIDOS",
    "Apoy3gFu3Cv3bXJZufS7brBPAFzkoCt1EfnHqaxxpump",
    0.043,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "DOJO",
+   "CJxak5D1zK2tDQvbqXpP12HymbE8T2Tvhf8waSEKpump",
+   0.042,
+   7.5,
    ""
   ],
   [
    "Pumper",
    "4ZaDhRq9jfVQwvjL7s1AUBnckLxY1HTChCcKqHKppump",
    0.042,
-   8.7,
+   9.7,
    "creator=18.5%"
   ],
   [
    "Elon",
    "7jFmbGUs1Kt9T2KXVKjD9tw763GUwuRwaUhcce98pump",
    0.034,
-   8.3,
+   9.3,
    ""
   ],
   [
    "Dieunerst",
    "C3X6ukz4FZZ5KZXYvPv3X97262iUAfeUfe2T1aPppump",
    0.03,
-   7.8,
+   8.8,
    ""
   ],
   [
-   "CBT1",
-   "3As88GyXduJF4TiZjxbv1wYPziCmMu554unNXBkzcJXs",
-   0.022,
-   3.0,
-   ""
-  ],
-  [
-   "CHART ",
-   "3NXLkJ2kjGW3Csfueu64MkRozrqdhrTpeiPreuwEpump",
-   0.022,
-   4.6,
+   "Bongo",
+   "4ggh14yKSmGagonDAbo7WVM4ok5FW2gCQ7bH2Vgqpump",
+   0.026,
+   2.6,
    ""
   ]
  ]
