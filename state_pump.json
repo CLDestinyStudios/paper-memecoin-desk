@@ -15,83 +15,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:23:04",
+   "2026-10-28T02:24:04",
    500.0
   ]
  ],
- "cycles": 18,
+ "cycles": 19,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.55105955249999,
- "watching": 174,
+ "sol_usd": 102.59363195029749,
+ "watching": 148,
  "near": [
-  [
-   "KIT",
-   "GdMt44fyHAYcvAz2jCv7V6XLWkSy7CWM7QJ6XSPzpump",
-   0.832,
-   6.3,
-   ""
-  ],
   [
    "Agent",
    "4d1TMB4W5DXxc4TATKcKnxp3q3v6uoB5x95VmCvhpump",
-   0.738,
-   3.9,
+   0.851,
+   4.9,
    ""
   ],
   [
    "KIT",
    "HhDLhdM1CozLjr2yfsjDK7H58EewyCprWRkwbCxCgk7w",
-   0.683,
-   5.9,
+   0.779,
+   6.9,
+   ""
+  ],
+  [
+   "KIT",
+   "GdMt44fyHAYcvAz2jCv7V6XLWkSy7CWM7QJ6XSPzpump",
+   0.757,
+   7.3,
    ""
   ],
   [
    "ALPN",
    "9GXeVqcRAT7WmWoK2jijX1UA5UHQbE1JtM7Z7YjXpump",
-   0.452,
-   7.5,
+   0.383,
+   8.5,
+   ""
+  ],
+  [
+   "3",
+   "Ajc5rYW4dzixZfnydt6rfDCc8WaHrvayRvc3WwaRpump",
+   0.238,
+   2.3,
    ""
   ],
   [
    "SATURWEEN",
    "4Nj6rpQftmcLgnXiWiVCCX4Pge8rdsqpZEPj4Zcvpump",
    0.099,
-   8.6,
+   9.6,
    ""
   ],
   [
    "pepe",
    "9sdRvKRGmYrku3UWRkhQdGQCKkiSHYvdnLzf6vWqpump",
-   0.096,
-   2.6,
-   ""
-  ],
-  [
-   "Hosu",
-   "GsRFuBDY8rvavZaNAXP6PVHyBtdaYVVitKzq83n74pqN",
-   0.079,
-   3.7,
-   ""
-  ],
-  [
-   "Kibble",
-   "3a92ygvsCbY8fZzyytZrrN1xYMrZA3g3TrdCoV17pump",
-   0.07,
-   4.2,
-   ""
-  ],
-  [
-   "SCIF",
-   "2aYdJBLwtTqSwvcuHvxwBxePK2dpGHcAJS13AcHzpump",
-   0.042,
-   8.7,
+   0.092,
+   3.6,
    ""
   ],
   [
    "CrawlCat",
    "6TpzaXZTnhtQUFkB8evq67J1Yk1DbnrGjp32xJQSpump",
-   0.042,
-   2.1,
+   0.085,
+   3.1,
+   ""
+  ],
+  [
+   "Hosu",
+   "GsRFuBDY8rvavZaNAXP6PVHyBtdaYVVitKzq83n74pqN",
+   0.085,
+   4.7,
+   ""
+  ],
+  [
+   "Kibble",
+   "3a92ygvsCbY8fZzyytZrrN1xYMrZA3g3TrdCoV17pump",
+   0.082,
+   5.2,
    ""
   ]
  ]
