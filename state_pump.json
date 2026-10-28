@@ -15,7 +15,7 @@
    "opened": 1793193380.9350216,
    "last_px": 1.0605196144500086e-07,
    "peak_px": 1.0910072614558287e-07,
-   "last_val": 13.43291407312041,
+   "last_val": 13.418576196971658,
    "last_prog": 0.658
   },
   "72KTne4FjHhzsu2Gw3i62ncjWdGrvsTykiMniBcxpump": {
@@ -27,10 +27,10 @@
    "entry_px": 1.3648257821199726e-07,
    "entry_fill": 1.4487214571679448e-07,
    "opened": 1793195051.7721248,
-   "last_px": 1.4351533270997061e-07,
+   "last_px": 1.3666299140678737e-07,
    "peak_px": 1.4372694772858658e-07,
-   "last_val": 10.145163502098878,
-   "last_prog": 0.756
+   "last_val": 9.648412161454063,
+   "last_prog": 0.741
   },
   "DfrbbbestAsxLRpuGY4xPRwAi8VWmocEgqbd5u7zpump": {
    "sym": "EMPTY",
@@ -43,7 +43,7 @@
    "opened": 1793195113.252241,
    "last_px": 2.80921945713722e-08,
    "peak_px": 3.074828851264391e-08,
-   "last_val": 8.765290567292288,
+   "last_val": 8.755934767807712,
    "last_prog": 0.003
   }
  },
@@ -1016,31 +1016,28 @@
   [
    "2026-10-28T06:47:10",
    362.15
+  ],
+  [
+   "2026-10-28T06:48:05",
+   361.63
   ]
  ],
- "cycles": 282,
+ "cycles": 283,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.11696924099999,
- "watching": 354,
+ "sol_usd": 101.009040122,
+ "watching": 350,
  "near": [
+  [
+   "LARP",
+   "6UvTTwtyLpJs1wPSBZem2skUMZg5NptWP8Er5m3k1j8p",
+   0.976,
+   2.7,
+   ""
+  ],
   [
    "Elung",
    "HPSEHpXA5GgYNACZBBuL99CP4vk5tFDijiHaAPsxpump",
-   0.435,
-   4.2,
-   ""
-  ],
-  [
-   "PEPEween",
-   "HaJnchPW9LHLLb5tRxMuGuTPSwdEEpL94DLoEz2vpump",
-   0.153,
-   10.0,
-   ""
-  ],
-  [
-   "AVENGERS",
-   "CnwTmeVoVAZW5imVcxguxqNc4163KkWep2UbJro2pump",
-   0.129,
+   0.214,
    5.1,
    ""
   ],
@@ -1048,49 +1045,56 @@
    "Bru",
    "8zotUc4exKcrVEejmaf8HfZCTwK85mkUXKoTa6rspump",
    0.127,
-   3.2,
+   4.1,
+   ""
+  ],
+  [
+   "AVENGERS",
+   "CnwTmeVoVAZW5imVcxguxqNc4163KkWep2UbJro2pump",
+   0.126,
+   6.0,
    ""
   ],
   [
    "PEPEween",
    "9m4KTzSRod5LJQgVRntwpgAt74ggsH1tCMd4MLsdpump",
    0.117,
-   4.4,
+   5.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "RAICE",
    "5EjZ3r5cY3G29RkeBW1VdteWhymr6uYFgaCHgV8Ppump",
    0.114,
-   6.0,
+   6.9,
    ""
   ],
   [
-   "PEPEween",
-   "ubqfWGxDb1JbYVWs6tARio88ki9cvKqe3wWgnNYpump",
-   0.112,
-   2.8,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "LARP",
+   "FELzrt7WmDhGLbXg8jnRn5n7kMGhnzLqrPRAhLu8FFKm",
+   0.108,
+   3.0,
+   ""
   ],
   [
    "SLOPCASH",
    "4hxodXUA3Ps1cohBRQvkfKS8jQgvXvdkN4V7359Lpump",
    0.103,
-   4.7,
+   5.6,
    ""
   ],
   [
    "AVENGERS",
    "BM9UYUhwFeQZ2XavgvtsXDw8Q7VyCNtCZ8SNhbQMVxgv",
    0.076,
-   4.9,
+   5.8,
    ""
   ],
   [
    "BILL",
    "4wGCUnVJdi7H3PYmvXzqSUjU9kmV2b5ZNKR4VC5cpump",
    0.064,
-   7.3,
+   8.2,
    "buyers=1; top5_hold_most=100%"
   ]
  ]

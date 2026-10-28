@@ -1,10 +1,3 @@
-CYCLE_SECS 4.9
-loop wall 6s
-=== Wed Oct 28 02:02:48 PDT 2026 [actions] ===
-SCOUT 2026-10-28T02:02:50 | pool 155 unique mints {'ds_profiles': 24, 'gt_new': 37, 'ds_boosts_top': 24, 'ds_boosts': 22, 'ds_search': 42, 'gt_trending': 18, 'ds_cto': 11, 'ds_ads': 14} | due 13 | RugCheck fresh 1 cached 0 | http 19 calls, 429s 0 {} | scout 0.5s
-CYCLE STRICT 54 2026-10-28T02:02:50 | leads 12 (deferred 0) | RISK killed 12 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 0 | equity $509.10 | 1s
-CYCLE LOOSE 17 2026-10-28T02:02:50 | leads 12 (deferred 0) | RISK killed 12 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 3 | equity $494.39 | 1s
-CYCLE_SECS 1.2
 loop wall 2s
 === Wed Oct 28 02:03:49 PDT 2026 [actions] ===
 SCOUT 2026-10-28T02:03:50 | pool 152 unique mints {'ds_profiles': 23, 'gt_new': 37, 'ds_boosts': 22, 'gt_trending': 18, 'ds_boosts_top': 24, 'ds_search': 42, 'ds_cto': 11, 'ds_ads': 14} | due 18 | RugCheck fresh 2 cached 0 | http 20 calls, 429s 0 {} | scout 0.6s
@@ -1998,3 +1991,10 @@ CYCLE LOOSE 302 2026-10-28T06:47:05 | leads 15 (deferred 0) | RISK killed 13 | A
 CYCLE PUMP 282 2026-10-28T06:47:10 | via pumpfun_api new 28 | watching 354 | 2-10min 208 | 5%-75% curve 10 | deep 2 | rejects {'progress_low': 186, 'mayhem_mode': 12, 'buy_sell_ratio': 8, 'buyers': 2} | entries 0 exits 0 (W0/L0) | open 3 | equity $362.15 | http 9 calls, 429s 0 {}, errors 0 | 6s
 CYCLE_SECS 5.5
 loop wall 6s
+=== Wed Oct 28 06:48:04 PDT 2026 [actions] ===
+SCOUT 2026-10-28T06:48:07 | pool 159 unique mints {'ds_profiles': 23, 'ds_boosts': 23, 'ds_boosts_top': 25, 'gt_trending': 18, 'ds_search': 41, 'ds_cto': 11, 'ds_ads': 14, 'gt_new': 39} | due 44 | RugCheck fresh 2 cached 2 | http 21 calls, 429s 0 {} | scout 1.3s
+CYCLE STRICT 340 2026-10-28T06:48:07 | leads 42 (deferred 0) | RISK killed 41 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/1 | exits 0 (W0/L0) | open 0 | equity $509.10 | 3s
+CYCLE LOOSE 303 2026-10-28T06:48:07 | leads 42 (deferred 0) | RISK killed 40 | ANALYST killed 0 | JUDGE buy/watch/pass 1/0/1 | exits 0 (W0/L0) | open 3 | equity $457.70 | 3s
+CYCLE PUMP 283 2026-10-28T06:48:05 | via pumpfun_api new 18 | watching 350 | 2-10min 203 | 5%-75% curve 9 | deep 1 | rejects {'progress_low': 184, 'mayhem_mode': 9, 'progress_high': 1, 'buy_sell_ratio': 8, 'buyers': 1} | entries 0 exits 0 (W0/L0) | open 3 | equity $361.63 | http 7 calls, 429s 0 {}, errors 0 | 1s
+CYCLE_SECS 2.6
+loop wall 3s
