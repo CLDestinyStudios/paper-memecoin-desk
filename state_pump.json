@@ -13,10 +13,10 @@
    "entry_px": 3.6536199293450314e-08,
    "entry_fill": 3.884234854152533e-08,
    "opened": 1793201088.1024384,
-   "last_px": 4.0680060222195016e-08,
+   "last_px": 3.6211102760849084e-08,
    "peak_px": 4.437671033174064e-08,
-   "last_val": 10.261124279390883,
-   "last_prog": 0.231
+   "last_val": 9.137185776923493,
+   "last_prog": 0.164
   }
  },
  "traded": [
@@ -1314,81 +1314,85 @@
   [
    "2026-10-28T08:37:43",
    339.36
+  ],
+  [
+   "2026-10-28T08:38:43",
+   338.24
   ]
  ],
- "cycles": 365,
+ "cycles": 366,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.7894294875,
- "watching": 242,
+ "sol_usd": 100.87,
+ "watching": 238,
  "near": [
   [
    "villainlon",
    "Asjmk93s5j9XtTayrNt52yYahtz8dYXHB9wbEjNDpump",
-   0.838,
-   2.4,
+   0.878,
+   3.4,
    ""
+  ],
+  [
+   "GOAI",
+   "ERwF8GeoA8BUFe5fiwtsSYNe1KruejbCevAoERsDpump",
+   0.236,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "UNTIVO",
    "4wQ1WTTBW2bUwhMt6PoGWGdDFJau3WBSdGHGZBWypump",
-   0.266,
-   5.7,
-   ""
-  ],
-  [
-   "Petrophila",
-   "D9YuChpofnXCQZdipaJMkUESRYgsnbAEmgH7DCHzpump",
-   0.22,
-   2.8,
-   "bundled_launch=8 extra buys in creation block"
-  ],
-  [
-   "ELON",
-   "ZtbRZqPDXqeNKr19nN3JmC2BBZXD14KwxqEGy7rjbjU",
-   0.211,
-   3.7,
+   0.207,
+   6.7,
    ""
   ],
   [
    "Armillatus",
    "FC1euRobyBD58wfw5dXqE4urs5JNHBGK4FV3spiYpump",
    0.138,
-   4.6,
+   5.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "SLEEP",
-   "8xbsxX2GS8hNiRyUbMjseWACfRKRtk9atycMDekopump",
-   0.135,
-   9.6,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "hyperinu",
-   "3ZNWC9D4EpBTgnRFyBkGrpmTZYSptBSi2SbikyUTpump",
-   0.134,
-   6.9,
-   "top5_hold_most=92%"
-  ],
-  [
-   "Myavlik",
-   "2L7gApRUeDxMeyZf6eamFkuVQrWWsQvFGJKVqZ25pump",
-   0.074,
-   2.9,
+   "ELON",
+   "ZtbRZqPDXqeNKr19nN3JmC2BBZXD14KwxqEGy7rjbjU",
+   0.137,
+   4.7,
    ""
   ],
   [
-   "Bread",
-   "BCd8GRDXQiVgfrMAEUQDzBPEE2vuK4ixVWiceru1Q9m6",
-   0.064,
-   2.8,
+   "EVILMUSK",
+   "BgbF4MXbLesqydjTkFwdXAPQKGE3rwYxqPpAEKyZpump",
+   0.124,
+   2.3,
    ""
+  ],
+  [
+   "SEALED",
+   "D7dpfd8yBLg8ztR3NjbwnUvvJ6w2wXCb5pRTUbaXpump",
+   0.058,
+   2.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "PAYBRO",
    "92hVBZcafwzXZoAEcgJR3yUqY3ErWECtSTJBsVkEpump",
    0.043,
-   8.7,
+   9.7,
+   ""
+  ],
+  [
+   "KINGCAT",
+   "7c6BAiWv9B1H9XSYzzcHQGMuk8kS6q8u355py7ATpump",
+   0.031,
+   6.3,
+   "buyers=6; top5_hold_most=96%"
+  ],
+  [
+   "1B",
+   "7ez6H5YggBPwxq4EVx7FrNDTKqi5ER1SuxjWSwNZpump",
+   0.03,
+   4.4,
    ""
   ]
  ]
