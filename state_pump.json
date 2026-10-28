@@ -13,10 +13,10 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 1.6666819088603794e-07,
-   "peak_px": 1.6666819088603794e-07,
-   "last_val": 7.822058198468051,
-   "last_prog": 0.799,
+   "last_px": 1.8462174107395946e-07,
+   "peak_px": 1.8462174107395946e-07,
+   "last_val": 8.67251209968139,
+   "last_prog": 0.826,
    "tp1_done": true,
    "realized": 2.4419044830450383
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.08883806926874e-08,
    "entry_fill": 5.421593203884645e-08,
    "opened": 1793217740.324521,
-   "last_px": 5.5845698851523174e-08,
+   "last_px": 5.5714414661276615e-08,
    "peak_px": 5.5845698851523174e-08,
-   "last_val": 5.879479067861232,
-   "last_prog": 0.396
+   "last_val": 5.8674459332178674,
+   "last_prog": 0.395
   },
   "BuC54YateJ9zfqGHdv6RyWkgj4fcHsAAcCED6V21pump": {
    "sym": "TOLY",
@@ -43,10 +43,10 @@
    "entry_px": 7.570965208196361e-08,
    "entry_fill": 8.065253471009046e-08,
    "opened": 1793217772.0962317,
-   "last_px": 7.967192800819945e-08,
+   "last_px": 6.752414274984901e-08,
    "peak_px": 1.1345955478285417e-07,
-   "last_val": 5.516862697701717,
-   "last_prog": 0.551
+   "last_val": 4.669763682454054,
+   "last_prog": 0.482
   }
  },
  "traded": [
@@ -2375,81 +2375,85 @@
   [
    "2026-10-28T13:08:43",
    201.99
+  ],
+  [
+   "2026-10-28T13:09:46",
+   201.99
   ]
  ],
- "cycles": 636,
+ "cycles": 637,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 103.128222561,
- "watching": 326,
+ "sol_usd": 103.16162542550002,
+ "watching": 346,
  "near": [
   [
    "VIRUS",
    "5zEk4o4zijC4UGjrshi7TanRcPkwLuszKDvFJZ7zpump",
-   0.751,
-   5.4,
+   0.75,
+   6.4,
    ""
   ],
   [
-   "monke",
-   "2rNHEgCYoBC8e7jJ4gwuHDuxUgRDezKzfy1cp3UVpump",
-   0.365,
-   2.3,
-   ""
-  ],
-  [
-   "negro",
-   "6QAvjbKqTw1SWtF2souzJvWwvaoLsuKouRCRfzUApump",
-   0.248,
-   10.0,
-   "top5_hold_most=87%"
+   "GUYS",
+   "RerugW2BkPCxPx28JoTyURd8rxFa6yfts7z3TZppump",
+   0.667,
+   2.7,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "CASHTAG",
    "GctoaNV5fuXppfvF7anbhNdNTEDefNctHSC54WVQpump",
    0.212,
-   7.5,
+   8.5,
    ""
   ],
   [
    "CUPSEY",
    "6fbGyDT4aeVjgx5NSiCpM8a4HuReDXFD35Nzy5uLDp7E",
    0.108,
-   2.8,
+   3.9,
    ""
   ],
   [
    "APEPROP",
    "AsV1qmqW6L1Dus3xDsqCU7qpBLpLGWRtBfMaKVQDpump",
    0.105,
-   2.3,
+   3.3,
+   ""
+  ],
+  [
+   "monke",
+   "2rNHEgCYoBC8e7jJ4gwuHDuxUgRDezKzfy1cp3UVpump",
+   0.085,
+   3.4,
+   ""
+  ],
+  [
+   "monke",
+   "DSB5pCXkGqe3pMensqSLKWPUEEAjG6onBbGWkn3Jpump",
+   0.081,
+   3.0,
    ""
   ],
   [
    "WASB",
    "7NiSG8M1oUvAbpMgQvRMqRN7i823n71Z9uyzaJy5hSKK",
    0.072,
-   3.9,
+   5.0,
    ""
   ],
   [
-   "TolyChan",
-   "3SGBZeqYUvBzED4BAdngbqTbxY1vBhsmRc41kFEhpump",
-   0.068,
-   9.0,
-   ""
-  ],
-  [
-   "NANOAI",
-   "EuYahBuEAxoQeCG9tWBKZmoNuQkiZnA8cnLoHPVnpump",
-   0.066,
-   8.2,
+   "ape",
+   "7jRzpfSjiEY1P46ko4FrCNJAavNtXZHD2MWwx6T4pump",
+   0.064,
+   2.5,
    ""
   ],
   [
    "CLOVER",
    "D2ooDK51j8jhDr1WRC4YcBdWDeoER2SNU233Q5Bqpump",
    0.059,
-   3.1,
+   4.1,
    ""
   ]
  ]
