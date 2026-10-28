@@ -13,10 +13,10 @@
    "entry_px": 6.637211903738847e-08,
    "entry_fill": 7.048990773335374e-08,
    "opened": 1793186406.558955,
-   "last_px": 5.646901390549831e-08,
+   "last_px": 6.141040053495839e-08,
    "peak_px": 1.0540053308090329e-07,
-   "last_val": 4.4501334267324655,
-   "last_prog": 0.401,
+   "last_val": 4.843695015138654,
+   "last_prog": 0.44,
    "tp1_done": true,
    "realized": 1.9655232307824226
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.445767190168149e-08,
    "entry_fill": 5.7850976178327804e-08,
    "opened": 1793186707.2885458,
-   "last_px": 5.593801947466203e-08,
+   "last_px": 5.7250190676916664e-08,
    "peak_px": 5.7523642701452856e-08,
-   "last_val": 10.803795033717996,
-   "last_prog": 0.396
+   "last_val": 11.057817768250658,
+   "last_prog": 0.407
   }
  },
  "traded": [
@@ -449,81 +449,85 @@
   [
    "2026-10-28T04:30:05",
    390.13
+  ],
+  [
+   "2026-10-28T04:31:05",
+   390.78
   ]
  ],
- "cycles": 145,
+ "cycles": 146,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.720070574,
- "watching": 239,
+ "sol_usd": 102.7175370245,
+ "watching": 216,
  "near": [
   [
    "Robotaxi",
    "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump",
-   0.558,
-   3.9,
-   "creator=41.4%; top5_hold_most=98%"
+   0.427,
+   4.9,
+   "creator=31.1%; top5_hold_most=97%"
+  ],
+  [
+   "resolve",
+   "E4CNM4aQ8VCVJLJsFEN1yyQL3R9KgaxTq5Q48982pump",
+   0.402,
+   2.9,
+   ""
   ],
   [
    "TWITCHY",
    "2wxMfLFGckiFHNAk54gVduMwCgCYgYQjNRHCsjtspump",
-   0.13,
-   4.2,
-   "buyers=5; top5_hold_most=100%"
+   0.126,
+   5.2,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Garry",
+   "2dK2Rx7tNrHg3Y7u9jeL9JXu5xkyWCP1PDzTyZPCpump",
+   0.121,
+   3.0,
+   ""
   ],
   [
    "bigsnoutguy",
    "8M6sAsbaEMgXX8W9LsacGsJp9uSFE9kAQJaW5r9Mpump",
    0.102,
-   2.6,
+   3.6,
    ""
   ],
   [
    "Jannah",
    "GrunHFEnhUYQLozPsRfecn8Kx7f46KTE5JvfgyHspump",
    0.082,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "spacecat",
+   "3Q6Eyn8miMFo34xcJpv4V7DE6YBKXBAmvznE1P4GEVeQ",
+   0.08,
+   2.8,
    ""
   ],
   [
    "EGGPLANT",
    "4AXBEWveBhZza4ZTu9hMopCcKMuQ8uwgs5FmJpLCpump",
    0.069,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Uakari",
    "8JUAb6TxoajbCY5nWJRFZUXQ1UzBSqURQVxNNkxxhtVW",
    0.064,
-   4.0,
+   5.0,
    ""
   ],
   [
    "Slopbeast",
    "8CmFe5nhNj95zWia18CWw6EsmNW3oCGRwMszzvkWpump",
    0.06,
-   3.4,
-   ""
-  ],
-  [
-   "$womp",
-   "99UPQ5HP6NMUJhnf5McVSF9Jw4as3231HLYwPe8Lpump",
-   0.054,
-   3.9,
-   "buyers=8"
-  ],
-  [
-   "BREAD",
-   "6eaSFNLdbmnGh95CtnrZcRNJpmyfKEGBAWFF8bzDpump",
-   0.044,
-   2.4,
-   ""
-  ],
-  [
-   "commito",
-   "82p2UNrhdzg7NqifBoKUXK6LPDjLzXYj8sRsFnAJpump",
-   0.04,
-   2.6,
+   4.4,
    ""
   ]
  ]
