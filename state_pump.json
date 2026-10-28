@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.040638034127885e-08,
+   "last_px": 7.753061588890356e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 4.52500560529758,
-   "last_prog": 0.056,
+   "last_val": 11.60007422988882,
+   "last_prog": 0.54,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -607,82 +607,86 @@
   [
    "2026-10-28T05:12:07",
    387.74
-  ]
- ],
- "cycles": 187,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.14715328549998,
- "watching": 276,
- "near": [
-  [
-   "BOARDO",
-   "8K1zd4a7N5fnz3ZdtV6WFmdyE3FohkF1FYyfstqopump",
-   1.0,
-   2.6,
-   "graduated"
   ],
   [
-   "ABLE",
-   "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump",
-   0.973,
-   9.5,
+   "2026-10-28T05:13:06",
+   394.82
+  ]
+ ],
+ "cycles": 188,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.09,
+ "watching": 272,
+ "near": [
+  [
+   "Sneako",
+   "4hAe3FSyAkMoTZytPs7Evsi9LNTKcrYaFvR2LbqBpump",
+   0.496,
+   2.5,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "NOA",
+   "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
+   0.139,
+   2.9,
    ""
   ],
   [
    "QUBIT",
    "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
-   0.112,
-   4.1,
+   0.103,
+   5.1,
    ""
   ],
   [
    "TOGETRICH",
    "8WTt8cPPLoPuRzvPjqbhLmrPJEy8AhBMaB7Y6K9ppump",
    0.09,
-   3.7,
+   4.6,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Xbtc",
-   "65qVboHL96U7gAbd8Y3PqJw7XvVcGZ6hRb6bpZoWpump",
-   0.074,
-   2.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "MPC",
    "J5Zb7ZDNZxtQJME6LJWez6HVkoDx95FH1xkKJKhipump",
    0.062,
-   2.9,
+   3.9,
    ""
   ],
   [
    "WKC",
    "GxYtPmuqMpAL3z9VZFeRncL6E2knn8pphZjpi1Cipump",
    0.056,
-   3.7,
+   4.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "Col",
    "DektX6FiCRzkpAqgXzcq79M9fjzxiLEupfRLA28bpump",
    0.051,
-   6.4,
+   7.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "MATCH",
    "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
    0.04,
-   5.3,
+   6.3,
    ""
   ],
   [
    "ITAU",
    "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
    0.039,
-   5.1,
+   6.1,
    ""
+  ],
+  [
+   "LARRY",
+   "Ajkcp2pNhgiCPgWJ51Gr1na1XcPqeW9wbU2hEW1Tpump",
+   0.026,
+   7.4,
+   "top5_hold_most=91%"
   ]
  ]
 }
