@@ -2,49 +2,39 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 356.5265630923395,
+ "cash": 383.3492356664151,
  "positions": {
   "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump": {
    "sym": "Robotaxi",
    "bc": "Fg9P8kGMbiU5FTZSB5Ccjv5UG6ghGzzvM2qhdCWo3UoQ",
-   "tokens": 3113011.235737495,
-   "cost": 11.68,
+   "tokens": 1556505.6178687476,
+   "cost": 5.84,
    "cost0": 11.68,
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 4.7143523870995806e-08,
-   "peak_px": 4.7143523870995806e-08,
-   "last_val": 14.187651188166214,
-   "last_prog": 0.311
-  },
-  "ACcKyKeSbDN2KTd6uSvN8GDApji8PLGYfM3zGoj2pump": {
-   "sym": "DEADPING",
-   "bc": "GFh177AUj6RN8GyN745HTUhSNrbFqRwn2wEA83Gpta7D",
-   "tokens": 2683672.7966896817,
-   "cost": 11.69,
-   "cost0": 11.69,
-   "entry_px": 3.986491065813869e-08,
-   "entry_fill": 4.23691340689663e-08,
-   "opened": 1793187548.3349864,
-   "last_px": 3.438046662026388e-08,
-   "peak_px": 4.275824008807705e-08,
-   "last_val": 8.909476221171804,
-   "last_prog": 0.133
+   "last_px": 6.780626817967313e-08,
+   "peak_px": 6.780626817967313e-08,
+   "last_val": 10.207856297147346,
+   "last_prog": 0.484,
+   "tp1_done": true,
+   "realized": 4.3678562971473465
   },
   "6LZBoy9xprmvUpgd3b4mxjpKyBFhMcjTakX6CTX5pump": {
    "sym": "ECOGLW",
    "bc": "5QizW1x1wKLYNwgkUsS1icX74ubNu8EGfQnwfjxvMs96",
-   "tokens": 2317105.7592675015,
-   "cost": 11.69,
+   "tokens": 1158552.8796337508,
+   "cost": 5.845,
    "cost0": 11.69,
    "entry_px": 4.6188830591677835e-08,
    "entry_fill": 4.907945768240355e-08,
    "opened": 1793187607.3707023,
-   "last_px": 6.261304733861148e-08,
-   "peak_px": 6.261304733861148e-08,
-   "last_val": 14.032433235523133,
-   "last_prog": 0.449
+   "last_px": 7.12940197349233e-08,
+   "peak_px": 7.12940197349233e-08,
+   "last_val": 7.981943027037035,
+   "last_prog": 0.506,
+   "tp1_done": true,
+   "realized": 2.1369430270370353
   }
  },
  "traded": [
@@ -524,81 +514,85 @@
   [
    "2026-10-28T04:45:06",
    393.66
+  ],
+  [
+   "2026-10-28T04:46:06",
+   401.54
   ]
  ],
- "cycles": 160,
+ "cycles": 161,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.73110996655649,
- "watching": 223,
+ "sol_usd": 102.76999999999998,
+ "watching": 232,
  "near": [
-  [
-   "Bowen",
-   "E8Xg9u4DfgnonuGQmfhjMSyot4dMP9SHjYLbECtug6ia",
-   0.31,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "ALMOST",
    "4tPZsXthKBxGKD8ebLWrYT7N5z3o1rJADWqoyQ2Fpump",
    0.145,
-   8.6,
+   9.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "RSGP",
    "HxduH3im5ULYR2FUy55xXQZoq2jMEePBUBJtPQ5Xpump",
-   0.129,
-   4.4,
-   "buyers=2; top5_hold_most=100%"
+   0.133,
+   5.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Beans",
-   "5useEjBkmqudoUzT5rj9H9fi2rUa6Y5DCkFT38ePKVDm",
-   0.072,
+   "Garry",
+   "EEMfDz5Jfd7d3mHN9HVzfmkxTiGWJKM43sNRn9E9pump",
+   0.08,
    2.6,
    ""
-  ],
-  [
-   "HP",
-   "HjZK3dud9rg4QTurAFouV9xugAU6KSGqKqMB5Yhzpump",
-   0.057,
-   9.8,
-   "buyers=7; top5_hold_most=100%"
   ],
   [
    "CI",
    "8VZkVGqsn325pHa8GikteR9V96pgQLTdWDGReEs3KvYp",
    0.043,
-   8.9,
-   ""
-  ],
-  [
-   "PBTC",
-   "F6gJZ6d7bRNEbEYbARUTxDN4smjPKtwG1KszWJfEpump",
-   0.03,
-   3.9,
-   ""
-  ],
-  [
-   "MULTIS",
-   "A1XPjc6Moee6E6hFr8ZUzzPq548ckF485Ww4jPuxpump",
-   0.027,
-   3.2,
+   9.9,
    ""
   ],
   [
    "Frongus",
    "2QkmXQqAH4p6q92S2xsDjv4roF1jQ4Hs5JB6pU7upump",
    0.026,
-   6.0,
+   7.0,
    ""
   ],
   [
    "SNDFT",
    "GYi8uPR7xo4r9wY92Z9iwyoVqk3BTBNmE7Lh68kSpump",
    0.024,
-   7.7,
+   8.7,
+   ""
+  ],
+  [
+   "JEANDOGE",
+   "3gc3sJ2nkVczmAsJcGvc3wXBf83SUdKPJowUmFYbpump",
+   0.022,
+   5.5,
+   ""
+  ],
+  [
+   "SPAIN",
+   "SPAinU1X2JZBWFAjWf1ihT5fLaa4FL1y2YK6pox6LZy",
+   0.022,
+   4.7,
+   ""
+  ],
+  [
+   "Stonkpear",
+   "9gry79ASqMgVwMV3tNwc9LoucTWsB9npPhXQYwEDpump",
+   0.021,
+   2.5,
+   ""
+  ],
+  [
+   "KUROMU",
+   "5kvHhPgu1YAErDEU7oe2C1VrY9RRcJLcpHb7aFSSpump",
+   0.012,
+   2.4,
    ""
   ]
  ]
