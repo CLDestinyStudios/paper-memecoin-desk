@@ -15,7 +15,7 @@
    "opened": 1793224430.7353768,
    "last_px": 6.17189854881766e-08,
    "peak_px": 6.63400960571386e-08,
-   "last_val": 5.1606002941044995,
+   "last_val": 5.154136588343789,
    "last_prog": 0.442
   }
  },
@@ -2786,82 +2786,86 @@
   [
    "2026-10-28T14:59:49",
    163.78
+  ],
+  [
+   "2026-10-28T15:00:50",
+   163.77
   ]
  ],
- "cycles": 747,
+ "cycles": 748,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.7,
- "watching": 345,
+ "sol_usd": 102.57136717750001,
+ "watching": 342,
  "near": [
   [
    "Muskism",
    "2K6ng8ioGMyaX2VbUB4wRHXzeqaAf2EHpSPAEButpump",
-   0.792,
-   2.7,
+   0.971,
+   3.7,
    ""
+  ],
+  [
+   "COGECOIN",
+   "8VjbYV9WcE5vYeqJR7bJn3CAEX8o5jsPSJQcDDiDpump",
+   0.853,
+   2.5,
+   ""
+  ],
+  [
+   "NODES",
+   "fpwDK1yyijq5Za9tg1GUgv5tJY61H8T7WCgWJfQpump",
+   0.714,
+   2.7,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "Neko-Inu",
+   "DTqr6W8yhVoogAQxS2ABhRhLg4mMer9y27wZj3eNpump",
+   0.623,
+   2.6,
+   "bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "DPLOYR",
+   "8B9tnKzY25Fu1rmBiUV9EBjAZS5uj4YieqkbA1hJ16jB",
+   0.575,
+   2.8,
+   ""
+  ],
+  [
+   "Faceoff",
+   "CqeqUxwvFeRFHEgUGX6omLDyuVKixw5RZnsWWMRpB2Q5",
+   0.249,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "1SOL1DREAM",
+   "HPGaGNFqyvCLdzczL2hWjRLESiMdrQqyBKDrNsd8pump",
+   0.189,
+   2.6,
+   "buyers=9; top5_hold_most=90%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "SHIBU",
    "DS89b9FQBVuAT4uftV3CmEaXydW9FvF9NwYE8H7opump",
-   0.093,
-   3.0,
+   0.176,
+   4.0,
    ""
   ],
   [
-   "NAHDUCK",
-   "6E62sWR4S9BAqrAN6xRP539xLNxNAwWBVb7VmjjCpump",
-   0.077,
-   4.2,
-   "buyers=8; top5_hold_most=95%"
-  ],
-  [
-   "GRIMOTHY",
-   "33QCR8RddDRb8z2Y9SgTBMdEqbnFyiwu36dUBLehpump",
-   0.076,
-   4.9,
+   "COGECOIN",
+   "A3hLaRWKYmfk1yg6R6S44sMeQQSTzz4VXcz9M3kMuqbB",
+   0.08,
+   2.2,
    ""
   ],
   [
-   "PINO",
-   "BCSUa8DcHf8mhKe43LajDprRb3BHxt9EQFw9cbKXpump",
-   0.076,
-   6.2,
-   ""
-  ],
-  [
-   "GRIMOTHY",
-   "6UV1kTHTuppEYnwwEuVyoQzkewkL7uM2HF9aMLnopump",
-   0.071,
-   5.0,
-   ""
-  ],
-  [
-   "SHAT",
-   "6TjMjRcSP7a7aASB8a5wf6eAYbSWsrGC2xbYQGGYHJB",
-   0.069,
+   "shat",
+   "GwqDQeGr9C1YZUV9SYJpxX5aHXWK53rM5WXM6hQMpump",
+   0.08,
    2.7,
    ""
-  ],
-  [
-   "Casper",
-   "9niHaRUFvLrLYTGBaEDWcafZFvSJFY6gwW4YZwxCpump",
-   0.069,
-   2.3,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "COGE",
-   "FbvCVRbdpS4pi3HohraTXUw9CKjSxZ1dgQJNrhmGpump",
-   0.066,
-   2.6,
-   ""
-  ],
-  [
-   "CLAPCAT",
-   "4wD9jKbZQCsM4XYgDWBXYgdMVqZLqTPrPWZSJGLsQ5DN",
-   0.064,
-   7.2,
-   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
