@@ -13,10 +13,10 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.673309326845032e-08,
+   "last_px": 5.660261683980271e-08,
    "peak_px": 5.673309326845032e-08,
-   "last_val": 3.8427141476691924,
-   "last_prog": 0.403
+   "last_val": 3.8345126383924613,
+   "last_prog": 0.402
   }
  },
  "traded": [
@@ -3182,81 +3182,85 @@
   [
    "2026-10-28T16:41:53",
    131.0
+  ],
+  [
+   "2026-10-28T16:42:49",
+   130.99
   ]
  ],
- "cycles": 849,
+ "cycles": 850,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.30000000000001,
- "watching": 226,
+ "sol_usd": 102.32,
+ "watching": 228,
  "near": [
   [
    "ALFREDITO",
    "FDA9eSmQy5qDyzNHkUTA9fhN1tFJ55PkFJpzzZtXpump",
-   0.499,
-   8.7,
+   0.521,
+   9.7,
    ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
-   0.461,
-   2.4,
-   ""
-  ],
-  [
-   "Grokius",
-   "WLtKi1x7CkdEXAHm712kutVVCPW7y7qhT6M8PVppump",
-   0.373,
-   2.5,
-   "serial_creator=13 launches/24h"
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "4yBF1zwab4waGkMacwEBRd6KeGaPDxmLGywwT9HNpump",
    0.31,
-   7.7,
+   8.7,
    ""
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "2CNFPZdahkk9XGpiaCxuEXmvwu4w9wCcgm2aE6nxpump",
-   0.255,
-   8.7,
+   0.254,
+   9.6,
+   ""
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
+   0.132,
+   3.3,
+   ""
+  ],
+  [
+   "GLOVE",
+   "mB2dd1bGnt11uo3k5ho5FCaCX1kz5ZG66DX5BShpump",
+   0.064,
+   5.7,
    ""
   ],
   [
    "SAME",
    "EKaAwDWfc57RBCY4wdKkzXwzJHCEtME8xTwa1JtYpump",
    0.063,
-   6.6,
+   7.5,
    ""
   ],
   [
    "pumpcat",
    "8mgpZqQvb15vBV72FoosWpsBJv2WDKUHER9Gdb1xpump",
    0.048,
-   4.1,
+   5.0,
    ""
   ],
   [
    "SAME",
    "4UUKpu5qPv8TfeE1ZUviWoZphmnVQ5cjVyA65V7cpump",
    0.044,
-   6.9,
+   7.9,
    ""
   ],
   [
-   "$SPCXX",
-   "BfrZeXvaQV6HrpVbahhgtukefjwpB2kUTm3j7x4Cpump",
-   0.041,
-   10.0,
+   "BFC",
+   "9G617Gy7Am4pvtMhE5H44AvmDcvjaxdmcm33QBJYpump",
+   0.024,
+   7.8,
    ""
   ],
   [
-   "\u3164\u3164\u3164\u3164",
-   "5wm7JK91T9Tiim7AbL3rZKrwdNdYQEsu447B9nL3pump",
-   0.035,
-   9.5,
+   "Grokius",
+   "527PTAXd2ZdxKgmdYFPrqqWtiemCg4Mn98undx8Rpump",
+   0.023,
+   7.4,
    ""
   ]
  ]
