@@ -3059,83 +3059,83 @@
    144.64
   ],
   [
-   "2026-10-28T16:10:50",
+   "2026-10-28T16:11:49",
    144.64
   ]
  ],
- "cycles": 818,
+ "cycles": 819,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.395633532,
- "watching": 338,
+ "sol_usd": 102.39603277482016,
+ "watching": 348,
  "near": [
   [
-   "pad",
-   "82EZ2NLXqensSKwT3n8UNVbR6HnRZq4E8RHxWgKepump",
-   0.865,
-   3.0,
+   "FCD",
+   "Cj57SFXYtJkBEvpa4qSz2vojmPpcxvoNrfQHUQNMpump",
+   0.942,
+   2.2,
    ""
   ],
   [
-   "MTS",
-   "C7LHEjm3vriXkS6zjXUcq3Cvb6EtsdHkgk1TnTc3fcWk",
-   0.116,
-   7.7,
+   "pad",
+   "82EZ2NLXqensSKwT3n8UNVbR6HnRZq4E8RHxWgKepump",
+   0.803,
+   4.0,
+   ""
+  ],
+  [
+   "FRIES",
+   "F21pgFns2LrFjfLQf2En8y4YY8xGTDThtbgWmPcqpump",
+   0.34,
+   2.6,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "GenRot",
+   "C8jncoPJ9MH8iZNFG2iGutGcr4so1NuNWQNr6syspump",
+   0.329,
+   2.2,
+   "bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "pad",
+   "s3Jgj7RtUsuySRkn1NaDLFoZ9CxdaMeVYnkb5k9pump",
+   0.113,
+   2.2,
    ""
   ],
   [
    "Baltazar",
    "5Qf6WDkDGvFkPAz46jRXSJDYvfT9VnnNSTJgdUuXpump",
-   0.113,
-   3.5,
+   0.111,
+   4.5,
    ""
   ],
   [
    "tradition",
    "6rCXRZbTepKqBaAtygEDCpwiEvajPrDpakeXbVZYpump",
    0.098,
-   2.4,
+   3.4,
    ""
   ],
   [
    "INCOWGNITO",
    "CfKvqLiMqoVVf1grgux5ok8BnJCwMge1Ets5fwyVpump",
    0.096,
-   8.8,
+   9.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "CQMAGO",
    "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump",
    0.095,
-   6.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "PAD",
-   "6eCvDeuhtKjWvtX1KdYCYfakhttQjsXyfRfNPmZrczdV",
-   0.09,
-   2.1,
-   ""
-  ],
-  [
-   "RADAR",
-   "58kRT4YQc5WM8pG7hUXQh3BPFztb6gwxQeet8cyQpump",
-   0.081,
-   4.8,
-   "top5_hold_most=92%"
-  ],
-  [
-   "RETROPC",
-   "CWFNdy9SRXWUAN67BgYgGQSwMACNEirjpRh6Rcun2ncM",
-   0.062,
-   4.4,
+   7.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "pad",
    "EaEDnvk8PfN9j3Ezp6UieoDQb2EmWif7cTzkeoZLpump",
-   0.053,
-   2.5,
+   0.084,
+   3.4,
    ""
   ]
  ]
