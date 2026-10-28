@@ -13,9 +13,9 @@
    "entry_px": 4.2052104368585743e-08,
    "entry_fill": 4.489621693727529e-08,
    "opened": 1793225273.1053596,
-   "last_px": 8.746222927390915e-08,
+   "last_px": 8.746548530411811e-08,
    "peak_px": 1.9149854888207702e-07,
-   "last_val": 4.347998974729705,
+   "last_val": 4.344652032014557,
    "last_prog": 0.588,
    "tp1_done": true,
    "realized": 2.3362971197425146
@@ -29,9 +29,9 @@
    "entry_px": 3.161670159922884e-08,
    "entry_fill": 3.3761382434027646e-08,
    "opened": 1793227610.712521,
-   "last_px": 2.8348104010849357e-08,
+   "last_px": 2.8339211604389594e-08,
    "peak_px": 3.161670159922884e-08,
-   "last_val": 3.739788018148961,
+   "last_val": 3.7355810904421243,
    "last_prog": 0.009
   },
   "2ia8Hh2XsZAk9JjJ7LB1PjJK8QfKUWq2kftxiMcTpump": {
@@ -43,10 +43,10 @@
    "entry_px": 8.422400779149214e-08,
    "entry_fill": 8.989506780414824e-08,
    "opened": 1793227731.0304449,
-   "last_px": 8.422400779149214e-08,
-   "peak_px": 8.422400779149214e-08,
-   "last_val": 4.146414306032976,
-   "last_prog": 0.573
+   "last_px": 1.0037258790359883e-07,
+   "peak_px": 1.0037258790359883e-07,
+   "last_val": 4.946873089002323,
+   "last_prog": 0.639
   }
  },
  "traded": [
@@ -3010,81 +3010,85 @@
   [
    "2026-10-28T15:48:51",
    157.09
+  ],
+  [
+   "2026-10-28T15:49:50",
+   157.88
   ]
  ],
- "cycles": 796,
+ "cycles": 797,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.52795582300001,
- "watching": 239,
+ "sol_usd": 102.44517613350003,
+ "watching": 233,
  "near": [
-  [
-   "Prada",
-   "2ia8Hh2XsZAk9JjJ7LB1PjJK8QfKUWq2kftxiMcTpump",
-   0.573,
-   2.7,
-   "bought"
-  ],
-  [
-   "RAH",
-   "9NbyYH6VjrPRCzvdZEVk61sqvC2Vo4iuYa5gmV2pump",
-   0.246,
-   9.7,
-   "buyers=6; creator=15.1%; top5_hold_most=99%"
-  ],
   [
    "Tucker",
    "48z5MtQwFBMkSG1Gg1KmW2AtHyq214eRWPpsJULWpump",
    0.238,
-   3.1,
+   4.1,
    "top5_hold_most=84%"
   ],
   [
-   "MYCEL",
-   "HRZa2mvrHkuiAHuMVZ1Wdu8aEWLuJLuRiuGd3gagq7MM",
-   0.151,
-   8.9,
-   "buyers=8; top5_hold_most=98%"
+   "WOLOLO",
+   "8WTM9nMABXs7J7pZoyijEiNv9Rj5bK4egMVK3w8Spump",
+   0.132,
+   2.3,
+   ""
   ],
   [
    "DMONKEY",
    "217M5UDLsqd14r7qvDVQpQipmaCucY7byZpWsarhpump",
    0.126,
-   3.3,
+   4.2,
    ""
   ],
   [
-   "slingoor",
-   "HA2QYr32TQhFqbPBgXEXj17ThfTHu1Hw6jZcM415pump",
-   0.069,
-   9.1,
-   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "TI",
+   "oTydzwTVRJNnUafwZc9W7a2ZTscwWoqZmYJRzWbpump",
+   0.08,
+   2.9,
+   ""
   ],
   [
    "BMODE",
    "DLDWzpvNz55xsBMeVM4aL1uV3X7hnAFVDXyWSkoCpump",
    0.066,
-   2.5,
+   3.5,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "MOOMOO",
-   "J2D836iHPu88MYpzhcdVQLZjJAwM2V73kouHagKx5AMe",
-   0.064,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "UPS",
-   "GqNKpdyP5MUYTwnjYtxYQ7LveUhQBiyP2X4jY5q9pump",
-   0.047,
-   2.1,
+   "krisinu",
+   "DTXxiRrjqVKTbsTCapHUFo4VvDcqUqvWn2rPUM7Zpump",
+   0.044,
+   4.2,
    ""
   ],
   [
    "Stonkat",
    "F8ivgiyFC8k6abBoVF4EjDDcZ8FJshHMyHcZmRJYpump",
    0.034,
-   5.4,
+   6.4,
+   ""
+  ],
+  [
+   "OP",
+   "DVTsXMUzHiCKagRe5D8isk4Hdm5Rg9sYRavTF9Lkpump",
+   0.032,
+   3.6,
+   ""
+  ],
+  [
+   "MOO",
+   "4QdccGvan5o11QFjjUCG5u97rhUj9toEFieNv7Japump",
+   0.02,
+   6.8,
+   ""
+  ],
+  [
+   "PBRN",
+   "Edqhp5cqaL3ctkZpfn37msnm1zaMyT9jvYyQASJ5pump",
+   0.018,
+   3.2,
    ""
   ]
  ]
