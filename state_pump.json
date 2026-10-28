@@ -13,10 +13,10 @@
    "entry_px": 1.115063326903603e-07,
    "entry_fill": 1.1876093981387016e-07,
    "opened": 1793217419.2877114,
-   "last_px": 1.324432679737507e-07,
+   "last_px": 1.2075899479855972e-07,
    "peak_px": 1.324432679737507e-07,
-   "last_val": 6.230489909332911,
-   "last_prog": 0.731
+   "last_val": 5.676049328236447,
+   "last_prog": 0.702
   }
  },
  "traded": [
@@ -2295,82 +2295,86 @@
   [
    "2026-10-28T12:57:57",
    196.55
+  ],
+  [
+   "2026-10-28T12:59:12",
+   195.99
   ]
  ],
- "cycles": 625,
+ "cycles": 626,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.87999999999998,
- "watching": 269,
+ "sol_usd": 102.870980813,
+ "watching": 262,
  "near": [
-  [
-   "negro",
-   "AH6j7gnAWdjiDnFgotwnGDbE3fLX94LDEieCP5QMpump",
-   1.0,
-   6.0,
-   "graduated"
-  ],
   [
    "nilly",
    "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
-   0.925,
-   5.5,
+   0.951,
+   6.8,
    ""
   ],
   [
    "thesis",
    "6iYULxc5SKCrco5kKKP54HNGDDUEsexWRGupTWYopump",
-   0.699,
-   5.3,
+   0.809,
+   6.5,
    ""
   ],
   [
    "UTOPIA",
    "DZ57fLucgNuwDmcznMFgHKdLRhFhvSwcesBtwGHZpump",
-   0.549,
-   3.2,
+   0.748,
+   4.5,
    "launch_slot=missing"
   ],
   [
    "Biscuit",
-   "BZwkoqYhoy4pEBByDtDW7QgPbufnLvmKfsG1P1EApump",
-   0.119,
-   2.9,
+   "96BsXrtCC7Q3AzqAeWCcR4Dc9QZkpfawr1iDu3LMpump",
+   0.09,
+   4.4,
    ""
+  ],
+  [
+   "Exilecat",
+   "3AbCsTiSJBkoG29oUf1e72JGMn5pxTptNPrMFCmipump",
+   0.084,
+   4.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SORRY ",
    "HkMDiFM3HwnXANei9eTM7ZQwFhkvg4jfBnTq3zpfpump",
    0.084,
-   2.4,
+   3.6,
    ""
   ],
   [
-   "Biscuit",
-   "96BsXrtCC7Q3AzqAeWCcR4Dc9QZkpfawr1iDu3LMpump",
-   0.084,
+   "CHESS",
+   "H6dYtvgDrV114WncpiUmM7TY4btbYNnZN75rtnzLpump",
+   0.083,
    3.1,
    ""
+  ],
+  [
+   "GODMODE",
+   "GodmodehCNtRPaSrRWvTY9oK1nupeEF4UzcvCrDUCReK",
+   0.082,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "CHESS",
+   "5Z7oLBdYRR6AL5eyYW1mRZFHTNXnoijhKt4KxYqG9ZGD",
+   0.08,
+   3.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "negro",
    "4v9WNUTUHeP6B3XYsG2qHqkSEqLveDu8jC9xeSDdVTuR",
    0.077,
-   7.2,
-   ""
-  ],
-  [
-   "NEGRINU",
-   "E4fGuaaqJYRwGMXPokDSKjY8S41EXSF1DzkEyTLrpump",
-   0.072,
-   3.1,
-   ""
-  ],
-  [
-   "negro",
-   "AUrUwQ6J2jG7RYagAPA5sdW4izyazxenGBoLtVEBpump",
-   0.072,
-   2.5,
-   ""
+   8.5,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
