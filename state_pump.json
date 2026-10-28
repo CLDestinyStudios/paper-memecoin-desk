@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 142.38124203502292,
+ "cash": 140.43833634979092,
  "positions": {
   "9vVb7tHGkfvXT3ZT4qb2Qhv1TbtEQRv3odpT9my6pump": {
    "sym": "Runner",
@@ -15,22 +15,22 @@
    "opened": 1793228150.9612513,
    "last_px": 2.9162353617179526e-08,
    "peak_px": 3.3235121125106424e-08,
-   "last_val": 3.5110315610080858,
+   "last_val": 3.5061434317616866,
    "last_prog": 0.028
   },
-  "FoKzYywTK4GdXqAMrUdXjGoprvmaZ18sdeQwb8E7pump": {
-   "sym": "memes",
-   "bc": "3K3qNyuG2nPqGJTJStJjaGy6BxybK465g8iBagyjkZGk",
-   "tokens": 697731.3390471267,
-   "cost": 4.51,
-   "cost0": 4.51,
-   "entry_px": 5.908624053483505e-08,
-   "entry_fill": 6.3105299692768e-08,
-   "opened": 1793228391.0668135,
-   "last_px": 5.908624053483505e-08,
-   "peak_px": 5.908624053483505e-08,
-   "last_val": 3.948187539356863,
-   "last_prog": 0.422
+  "96RqMT8D3L9Au64S8wLsSUSLmfjX66vWWhdxrwfUpump": {
+   "sym": "Harold",
+   "bc": "DmGw2SGRyJtQ8iho2ARCYg2SBJCMWDXZizFn6eQpzKur",
+   "tokens": 644155.5049146652,
+   "cost": 4.45,
+   "cost0": 4.45,
+   "entry_px": 6.323119753058897e-08,
+   "entry_fill": 6.75385706111005e-08,
+   "opened": 1793228450.6684892,
+   "last_px": 6.323119753058897e-08,
+   "peak_px": 6.323119753058897e-08,
+   "last_val": 3.8948468722020517,
+   "last_prog": 0.453
   }
  },
  "traded": [
@@ -234,7 +234,8 @@
   "EmA4E8RxW1wXx7EQ81Lh8WxNaH2JQxkH8gkikhbm3gEW",
   "9vVb7tHGkfvXT3ZT4qb2Qhv1TbtEQRv3odpT9my6pump",
   "52DyG8kyxtThzs62kcFWC6ZFchsqUFCpB8wGyvYdpump",
-  "FoKzYywTK4GdXqAMrUdXjGoprvmaZ18sdeQwb8E7pump"
+  "FoKzYywTK4GdXqAMrUdXjGoprvmaZ18sdeQwb8E7pump",
+  "96RqMT8D3L9Au64S8wLsSUSLmfjX66vWWhdxrwfUpump"
  ],
  "equity": [
   [
@@ -3044,81 +3045,85 @@
   [
    "2026-10-28T15:59:51",
    149.84
+  ],
+  [
+   "2026-10-28T16:00:50",
+   147.84
   ]
  ],
- "cycles": 807,
+ "cycles": 808,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.42889280200001,
- "watching": 252,
+ "sol_usd": 102.286289223,
+ "watching": 264,
  "near": [
   [
    "4fun",
    "B8UzugDXfQBPuXAekhFyxRQtjLB1HUgYoDyub8o1four",
-   0.759,
-   6.7,
+   0.763,
+   7.7,
    ""
   ],
   [
-   "memes",
-   "FoKzYywTK4GdXqAMrUdXjGoprvmaZ18sdeQwb8E7pump",
-   0.422,
-   2.2,
+   "Harold",
+   "96RqMT8D3L9Au64S8wLsSUSLmfjX66vWWhdxrwfUpump",
+   0.453,
+   2.3,
    "bought"
+  ],
+  [
+   "Mortgage",
+   "2XnfD2JgEnZoWAC4tJ6nGUUWBBKeuTPMvfeNzA4gpump",
+   0.412,
+   2.5,
+   ""
+  ],
+  [
+   "Memebot",
+   "DsUHyQiRs4qnReG9C9g3rzxpgxSsvH3uZJKHjmJtpump",
+   0.302,
+   2.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "BangBus",
    "Bz4Txiqtodz1qdPMsZ4nKQXiF7ayzXsgFnJcwQAspump",
-   0.26,
-   7.2,
+   0.259,
+   8.1,
    "top5_hold_most=87%"
   ],
   [
-   "Nutless",
-   "9p1E2jXtkFb3TkTp9u9XhRdFdZcTvFMS6wZxi3Ghpump",
-   0.244,
-   3.0,
-   "bundled_launch=3 extra buys in creation block"
+   "MAMA",
+   "5Dg5g1xqb3BZT5D2asthuUKqw3HBmj1ESP8dKUHLpump",
+   0.127,
+   2.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "$LTC ",
    "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
    0.075,
-   3.2,
+   4.2,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Mortgage",
+   "2Lxp11tDdb9Lsys2wvGRhyDHFLcN7HQS6DPmuHvvpump",
+   0.074,
+   2.2,
+   ""
   ],
   [
    "LUCIA",
    "CMXL85dtP4T7LKemLZTpkQr3zvGzzqDx2WNT6M9Gpump",
    0.071,
-   4.0,
+   5.0,
    ""
   ],
   [
    "Mango",
    "4jk8e64eBrHvt5ruLVmY24jDVAbtB2J2amHVmoxzpump",
    0.071,
-   2.9,
-   ""
-  ],
-  [
-   "KITT",
-   "Hu6f94Ydfc8V5cqqo8LfwMhvNBGTcwGuhHKrPpoVpump",
-   0.048,
-   2.6,
-   ""
-  ],
-  [
-   "MOO",
-   "Gk7T2pTAHHYm8RzPkJcHSmfMVHJek5btzhLxqh5Fpump",
-   0.043,
-   6.1,
-   "top5_hold_most=98%"
-  ],
-  [
-   "LUCIA",
-   "JE7dACRVRciuxQkSaBwzUSktXGswsJB6gLSYBWSfpump",
-   0.032,
-   4.1,
+   3.9,
    ""
   ]
  ]
