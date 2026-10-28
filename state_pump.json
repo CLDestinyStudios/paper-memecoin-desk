@@ -13,10 +13,10 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.3544309789492446e-08,
-   "peak_px": 5.3544309789492446e-08,
-   "last_val": 3.629317069899396,
-   "last_prog": 0.375
+   "last_px": 5.409842897040568e-08,
+   "peak_px": 5.409842897040568e-08,
+   "last_val": 3.6586389859618986,
+   "last_prog": 0.38
   }
  },
  "traded": [
@@ -3130,81 +3130,85 @@
   [
    "2026-10-28T16:29:50",
    135.77
+  ],
+  [
+   "2026-10-28T16:30:50",
+   135.8
   ]
  ],
- "cycles": 837,
+ "cycles": 838,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.45147537300001,
- "watching": 301,
+ "sol_usd": 102.20704387100001,
+ "watching": 287,
  "near": [
   [
-   "BEAR",
-   "5DQSe9F9Uh9fncZ2nVWREDg4KQmJe1duSc82yGukpump",
-   0.492,
-   2.1,
-   "serial_creator=6 launches/24h"
+   "AyeAye",
+   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
+   0.285,
+   6.9,
+   "top5_hold_most=86%"
   ],
   [
    "XTX",
    "FV1JyDbs4LYBh2cYjDWHWFy5nnG4YoJYLh88xPkApump",
    0.264,
-   5.0,
-   "top5_hold_most=86%"
-  ],
-  [
-   "AyeAye",
-   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
-   0.201,
-   5.9,
+   6.0,
    "top5_hold_most=86%"
   ],
   [
    "AIR",
    "GSwSyofrxw9aLnsZsAFbcF5x3DTxWjVMDVYxvr9DMQBh",
    0.133,
-   6.0,
+   7.0,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "HODL",
+   "HKscrzRP8jmNHJV892RuMjaG1bffHTZCkSYjAKHZpump",
+   0.121,
+   4.8,
+   ""
+  ],
+  [
+   "NASDAQISTAN",
+   "2czLQBpJRF3Vf5KavZJWV3D2zXP594Q9KUrf5HF8pump",
+   0.118,
+   5.2,
+   ""
   ],
   [
    "YEWWW",
    "4EJdyHJSeVgwAPNFhX9ZW1FU9BHMRbc88hUrfJYjpump",
    0.103,
-   3.8,
-   "buyers=2; top5_hold_most=100%"
+   4.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "LOCAL",
    "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump",
-   0.099,
-   5.0,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "NASDAQISTAN",
-   "2czLQBpJRF3Vf5KavZJWV3D2zXP594Q9KUrf5HF8pump",
-   0.09,
-   4.2,
-   ""
-  ],
-  [
-   "DOGY",
-   "EDczPoMveFuGcAam9RnWbAvotSP5br84ZBPnyobApump",
-   0.074,
-   4.2,
-   ""
+   0.097,
+   6.0,
+   "buyers=6; top5_hold_most=95%"
   ],
   [
    "pumpcat",
    "DKziuN7cCwLw23tWi3BRH6bKHvYhGEcq8Z748qCKpump",
-   0.058,
-   5.2,
+   0.072,
+   6.2,
    ""
   ],
   [
-   "HODL",
-   "HKscrzRP8jmNHJV892RuMjaG1bffHTZCkSYjAKHZpump",
-   0.056,
-   3.8,
+   "XOGE",
+   "6oaMAdxUPJXTy57ZRm3P4YcXN8XFBymv4QEfRxVpump",
+   0.063,
+   2.0,
+   ""
+  ],
+  [
+   "TOKRI",
+   "4iQyWCL3Um8zWHkHaUfgk2aXdDGc6LgSzZ611pW7G4tX",
+   0.063,
+   2.8,
    ""
   ]
  ]
