@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 228.2306924390356,
+ "cash": 220.7906924390356,
  "positions": {
   "D7Npvpvjsqhx3WoPMRJtwKXGJsWN4f637fANSbbapump": {
    "sym": "BABYCOW",
@@ -13,10 +13,10 @@
    "entry_px": 3.988418257020011e-08,
    "entry_fill": 4.2442203867934126e-08,
    "opened": 1793210831.5029194,
-   "last_px": 4.454707801059973e-08,
+   "last_px": 4.145747212694942e-08,
    "peak_px": 4.790534396734333e-08,
-   "last_val": 7.443716757861139,
-   "last_prog": 0.281
+   "last_val": 6.968778427251551,
+   "last_prog": 0.242
   },
   "2sZHkSfBYAMSDvKQ93Mrj66B9nauTaZ6bpidspX4pump": {
    "sym": "MARS",
@@ -27,10 +27,10 @@
    "entry_px": 1.3633829585291305e-07,
    "entry_fill": 1.449496711047223e-07,
    "opened": 1793212425.8324356,
-   "last_px": 1.3633829585291305e-07,
+   "last_px": 1.2141482222197684e-07,
    "peak_px": 1.3633829585291305e-07,
-   "last_val": 6.6478003288936565,
-   "last_prog": 0.74
+   "last_val": 5.95282188944665,
+   "last_prog": 0.704
   },
   "9yCSkQzC2qHSSqUYukmCu1TW94agwc2gccq2JUsVpump": {
    "sym": "PUMPOWEEN",
@@ -41,10 +41,24 @@
    "entry_px": 4.55429345674683e-08,
    "entry_fill": 4.845934063574393e-08,
    "opened": 1793212426.0973485,
-   "last_px": 4.55429345674683e-08,
-   "peak_px": 4.55429345674683e-08,
-   "last_val": 6.610522455731511,
-   "last_prog": 0.293
+   "last_px": 4.582459404096428e-08,
+   "peak_px": 4.582459404096428e-08,
+   "last_val": 6.694260282136443,
+   "last_prog": 0.296
+  },
+  "EC46Vy1Gy3VLqfKxcMPgqo5dbkWjbJPbgKU3vBxVpump": {
+   "sym": "BEAR",
+   "bc": "8V3nhRuKuGdU2mg1QTu1edKay6njNHUrbvxpErkPBAVk",
+   "tokens": 592445.1088370132,
+   "cost": 7.44,
+   "cost0": 7.44,
+   "entry_px": 1.1604815818948888e-07,
+   "entry_fill": 1.2340123569256594e-07,
+   "opened": 1793212490.0988069,
+   "last_px": 1.1604815818948888e-07,
+   "peak_px": 1.1604815818948888e-07,
+   "last_val": 6.574511474672171,
+   "last_prog": 0.689
   }
  },
  "traded": [
@@ -162,7 +176,8 @@
   "jWh8q1PYwf23atCPVKuYDrVGRYPXnEdL15XWpzgpump",
   "CboJfnwWTJV87ceYb3oW7PvC8Eo6yiZ9v3M1fM16pump",
   "2sZHkSfBYAMSDvKQ93Mrj66B9nauTaZ6bpidspX4pump",
-  "9yCSkQzC2qHSSqUYukmCu1TW94agwc2gccq2JUsVpump"
+  "9yCSkQzC2qHSSqUYukmCu1TW94agwc2gccq2JUsVpump",
+  "EC46Vy1Gy3VLqfKxcMPgqo5dbkWjbJPbgKU3vBxVpump"
  ],
  "equity": [
   [
@@ -1968,82 +1983,86 @@
   [
    "2026-10-28T11:33:46",
    248.93
+  ],
+  [
+   "2026-10-28T11:34:50",
+   246.98
   ]
  ],
- "cycles": 541,
+ "cycles": 542,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.119305542,
- "watching": 227,
+ "sol_usd": 101.76661020600001,
+ "watching": 236,
  "near": [
   [
    "omni",
    "AN4mNPb3rP61d3b2u1LCKKhBdEgdW9BiNDp7ZHKupump",
-   0.915,
-   4.0,
+   0.835,
+   5.0,
    ""
-  ],
-  [
-   "MARS",
-   "2sZHkSfBYAMSDvKQ93Mrj66B9nauTaZ6bpidspX4pump",
-   0.74,
-   4.9,
-   "bought"
   ],
   [
    "BEAR",
    "EC46Vy1Gy3VLqfKxcMPgqo5dbkWjbJPbgKU3vBxVpump",
-   0.545,
-   3.3,
-   ""
+   0.689,
+   4.4,
+   "bought"
   ],
   [
    "MAO",
    "27Hd7aoGsPAa6M6EqtrKhYkrzH5PKV1ktFrkwieBpump",
-   0.469,
-   3.8,
+   0.345,
+   4.8,
    ""
   ],
   [
-   "PUMPOWEEN",
-   "9yCSkQzC2qHSSqUYukmCu1TW94agwc2gccq2JUsVpump",
-   0.293,
-   8.4,
-   "bought"
-  ],
-  [
-   "DOGS",
-   "FmsW2yEUWsxLdnj3A6fXoChSd2NcspUeXVRzwkuLpump",
-   0.15,
-   2.6,
-   "top5_hold_most=95%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Gamble",
-   "F9KFHS2vuFpm6wu5dBBYRDrcRAkKPB3MZP2oEfQzpump",
-   0.109,
-   4.3,
+   "LOFIGIRL",
+   "F5jbighsMHLe7BnZpy76r3nsbgJnH5HvnLLqd1Hepump",
+   0.147,
+   2.4,
    ""
   ],
   [
-   "MARS",
-   "FTFsQf7wRrtPrS5Tmfmz33ViB5Bd4RhBwsnWkRM5pump",
-   0.102,
-   3.0,
-   ""
+   "NNN",
+   "Mp4qZQrCuoacb1sngaPRLYo9s6zWADKXT7quH8Epump",
+   0.141,
+   3.6,
+   "top5_hold_most=85%"
+  ],
+  [
+   "LHASA ",
+   "FjBskwvRZ6YeVEGTnA3N6WPjrW4zWAg36w2YogSmpump",
+   0.12,
+   3.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "MIYA",
    "5gFmgL12AGaNqA1dfx4TNGrVLWkAZwZrngQCpNVMpump",
    0.093,
-   3.5,
+   4.6,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "Dacenter",
    "H2nAGbJw8EkV9X88z9UwRqmxDmw3Udy66NuzssB7pump",
    0.083,
-   3.2,
+   4.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "LOFIIRL",
+   "3Cuj26inU7Xo3SC5mk5VDkXveg3cgEfA5er5V3U8pump",
+   0.08,
+   2.6,
+   ""
+  ],
+  [
+   "ROBERT",
+   "CB8sksQufpZma3ewnhqSiVvrh1kT6wLVR7cjgRfYpump",
+   0.074,
+   2.8,
+   ""
   ]
  ]
 }
