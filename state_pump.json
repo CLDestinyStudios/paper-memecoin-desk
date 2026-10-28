@@ -269,83 +269,83 @@
    419.93
   ],
   [
-   "2026-10-28T03:49:06",
+   "2026-10-28T03:50:06",
    419.93
   ]
  ],
- "cycles": 104,
+ "cycles": 105,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.9269982905,
- "watching": 372,
+ "sol_usd": 103.04651969200002,
+ "watching": 347,
  "near": [
+  [
+   "SURVIVAL",
+   "8EbQWN5dbP76z5nX2ypVuQeKN7ozNWEx5AACuDDspump",
+   0.574,
+   2.3,
+   "bundled_launch=5 extra buys in creation block"
+  ],
   [
    "Trip",
    "2oCZ2wwA9oNSAYWoSqn6P1vZ9E6JVrCjnH1ecKzipump",
-   0.428,
-   2.6,
-   "buyers=3; creator=33.9%; top5_hold_most=100%"
+   0.448,
+   3.6,
+   "buyers=3; creator=35.5%; top5_hold_most=100%"
   ],
   [
    "SURVIVAL",
-   "9vdjfpvjQRNTsuA2hoBREprqVuYhhMNQsFHgXo8upump",
-   0.064,
-   2.6,
+   "BjmZZGyHn3x7kFVgYT8LJXpeMYDZpos8pk7asK27AHdj",
+   0.11,
+   2.7,
    ""
-  ],
-  [
-   "BRAA",
-   "4CSe6a5eEJnCEDAVstWyzER9ygGgVaLSgerh5QiJpump",
-   0.052,
-   9.3,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Shibana",
    "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
    0.043,
-   6.4,
+   7.4,
+   ""
+  ],
+  [
+   "SURVIVAL",
+   "9vdjfpvjQRNTsuA2hoBREprqVuYhhMNQsFHgXo8upump",
+   0.04,
+   3.6,
    ""
   ],
   [
    "SURVIVAL",
    "FHqRtFhwX1KKPLfhfxSX6XhcPhrvJvrSCrGDpQFgpump",
-   0.033,
-   2.2,
+   0.031,
+   3.2,
    ""
   ],
   [
    "pumper",
    "6FgyzbDSxkbbRqAcrmcPVrr4F5utnndnFJSdVHRQpump",
    0.028,
-   5.4,
+   6.4,
+   ""
+  ],
+  [
+   "SURVIVAL",
+   "LvDn9VYxabBdywvo3AgHp22B9C5VUi3LagGZF8adCQN",
+   0.022,
+   2.3,
    ""
   ],
   [
    "Ween",
    "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
    0.021,
-   6.8,
+   7.8,
    ""
   ],
   [
    "LARP",
    "52oZmc8CLEGkch8e4jeDhgsFwnqAi57BQAR4LoqGpump",
    0.02,
-   2.0,
-   ""
-  ],
-  [
-   "XINA",
-   "AYuyEcz3Y4EzYVCHiNMaseHn14cQKDwHgEeVzTEGpump",
-   0.011,
-   7.1,
-   ""
-  ],
-  [
-   "GALEI",
-   "EjZYwEtt9B8toVYRhEDBSjq1BL6KA32yw4HRo4pDpump",
-   0.01,
-   5.7,
+   3.0,
    ""
   ]
  ]
