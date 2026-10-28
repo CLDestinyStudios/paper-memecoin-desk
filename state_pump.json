@@ -269,33 +269,47 @@
    419.93
   ],
   [
-   "2026-10-28T03:45:06",
+   "2026-10-28T03:46:06",
    419.93
   ]
  ],
- "cycles": 100,
+ "cycles": 101,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.90283016699999,
- "watching": 393,
+ "sol_usd": 102.92,
+ "watching": 389,
  "near": [
   [
    "EGC",
    "29z4PRKNRQkhQCghqCEJCcsyV5hjj1Xqdg6s1Doypump",
-   0.149,
-   6.6,
-   "buyers=2; top5_hold_most=100%"
+   0.152,
+   7.6,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Gangdori",
+   "EopMLksz678xQvMtx8ZsenJuH4cD1h3kWUypNs6ZbPxt",
+   0.113,
+   3.0,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "BRAA",
    "4CSe6a5eEJnCEDAVstWyzER9ygGgVaLSgerh5QiJpump",
    0.052,
-   5.3,
+   6.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Shibana",
    "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
    0.043,
+   3.4,
+   ""
+  ],
+  [
+   "pumper",
+   "6FgyzbDSxkbbRqAcrmcPVrr4F5utnndnFJSdVHRQpump",
+   0.028,
    2.4,
    ""
   ],
@@ -303,49 +317,35 @@
    "WATERFOWL",
    "Ff3XBe81onCNmMeKbR7t4bhn33sHFy3bNBuTJmquuwrx",
    0.024,
-   4.0,
-   ""
-  ],
-  [
-   "SLOPCORE",
-   "Ca1VUGKzHMrgfAhwUMpp41kH23C3FeLhiYCj7doMxq5L",
-   0.024,
-   4.9,
+   5.0,
    ""
   ],
   [
    "Ween",
    "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
    0.021,
-   2.8,
+   3.8,
    ""
   ],
   [
-   "XINA",
-   "AYuyEcz3Y4EzYVCHiNMaseHn14cQKDwHgEeVzTEGpump",
-   0.021,
-   3.1,
+   "SLOPCORE",
+   "Ca1VUGKzHMrgfAhwUMpp41kH23C3FeLhiYCj7doMxq5L",
+   0.017,
+   5.9,
    ""
   ],
   [
    "$CBS",
    "FhAEzWuzK6DUvsZPwuRfVZGW9D4WcNxaLe7pz8sLpump",
-   0.012,
-   6.1,
+   0.011,
+   7.1,
    ""
   ],
   [
-   "swordinu",
-   "4fbDoVAmXtJUCtwPmM5njtAfiSmV2QPZFp2zqwBApump",
-   0.007,
-   9.1,
-   ""
-  ],
-  [
-   "HUMAN",
-   "9iWZE5tsG8FLN1oRajFACu9CSJ2gnvWgu6DQje6bpump",
-   0.002,
-   2.8,
+   "XINA",
+   "AYuyEcz3Y4EzYVCHiNMaseHn14cQKDwHgEeVzTEGpump",
+   0.011,
+   4.1,
    ""
   ]
  ]
