@@ -13,10 +13,10 @@
    "entry_px": 4.152907998055313e-08,
    "entry_fill": 4.427845374160478e-08,
    "opened": 1793220591.0956793,
-   "last_px": 1.4514747551713307e-07,
+   "last_px": 1.0077092188575996e-07,
    "peak_px": 1.4514747551713307e-07,
-   "last_val": 8.579919887929307,
-   "last_prog": 0.759,
+   "last_val": 5.937226018932035,
+   "last_prog": 0.64,
    "tp1_done": true,
    "realized": 1.3290159491976001
   },
@@ -31,7 +31,7 @@
    "opened": 1793220647.5095737,
    "last_px": 3.0334606579777674e-08,
    "peak_px": 3.094744118830867e-08,
-   "last_val": 4.824308586780434,
+   "last_val": 4.820120949550554,
    "last_prog": 0.054
   },
   "ztJKeL2qbeGfgR9UK4PnFZ3Vskc1KJddvBDwyn5pump": {
@@ -43,10 +43,10 @@
    "entry_px": 9.545922819333203e-08,
    "entry_fill": 1.0173763395918068e-07,
    "opened": 1793220774.405963,
-   "last_px": 1.294275902114467e-07,
+   "last_px": 1.222443484629732e-07,
    "peak_px": 1.5639060410651747e-07,
-   "last_val": 3.26607077046823,
-   "last_prog": 0.724,
+   "last_val": 3.079332199335555,
+   "last_prog": 0.706,
    "tp1_done": true,
    "realized": 0.9018131092825157
   },
@@ -59,9 +59,9 @@
    "entry_px": 5.479875363571317e-08,
    "entry_fill": 5.842233201345132e-08,
    "opened": 1793220774.7312899,
-   "last_px": 5.293833907111827e-08,
+   "last_px": 5.29875741362946e-08,
    "peak_px": 5.514436819900457e-08,
-   "last_val": 4.654158979480919,
+   "last_val": 4.654488888220965,
    "last_prog": 0.37
   },
   "HqyEiV3986vB6gukKfTyrxqJZFJoQwcRzoELMYMzpump": {
@@ -73,10 +73,10 @@
    "entry_px": 4.992664583972385e-08,
    "entry_fill": 5.322818056637788e-08,
    "opened": 1793220827.4217856,
-   "last_px": 5.402762232261325e-08,
+   "last_px": 5.4145771809975815e-08,
    "peak_px": 6.519766744015519e-08,
-   "last_val": 5.256206342917101,
-   "last_prog": 0.38
+   "last_val": 5.2632325879677815,
+   "last_prog": 0.381
   },
   "99TbdHJjjoNteNuD4hZGiTmr2GDrJWyoWot9ZF2aRe6S": {
    "sym": "TOP",
@@ -87,10 +87,10 @@
    "entry_px": 3.639094230266183e-08,
    "entry_fill": 3.8806475436337554e-08,
    "opened": 1793221078.70055,
-   "last_px": 3.958021649395591e-08,
-   "peak_px": 3.958021649395591e-08,
-   "last_val": 5.2745603448062095,
-   "last_prog": 0.216
+   "last_px": 4.027766353382304e-08,
+   "peak_px": 4.027766353382304e-08,
+   "last_val": 5.3636735782477825,
+   "last_prog": 0.226
   }
  },
  "traded": [
@@ -2646,82 +2646,86 @@
   [
    "2026-10-28T13:59:57",
    187.11
+  ],
+  [
+   "2026-10-28T14:00:50",
+   184.37
   ]
  ],
- "cycles": 687,
+ "cycles": 688,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.44229592500001,
- "watching": 283,
+ "sol_usd": 102.353373095,
+ "watching": 311,
  "near": [
+  [
+   "ClavCat",
+   "FPBtLGhAQcZ6Kk2c54NX4MukBfMLUzztykdCo5L3pump",
+   1.0,
+   2.5,
+   "graduated"
+  ],
   [
    "FINAL",
    "5uPK6bNrmWVGQSnFVTifkLsEczJ6BgH5qK1SXgVqpump",
-   0.333,
-   4.3,
+   0.249,
+   5.2,
    ""
   ],
   [
    "KYA",
    "5YhiuEXHJxpMsFGjfh3Sc7sDHCiLdMTwrGGq5vkNpump",
-   0.186,
-   6.8,
+   0.2,
+   7.6,
    ""
   ],
   [
    "HMarket",
    "DrjM57iHhiQX4wzRr7dGK5RR4TW8evc615WVQ9cVpump",
    0.164,
-   6.3,
+   7.1,
    "buyers=6; top5_hold_most=97%"
   ],
   [
    "nutecoin",
    "E7kjGLDAPHM11RDL1pVNXmMZSjFRPywCYpsLoKr5pump",
    0.154,
-   3.5,
+   4.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Helmet",
    "J5op5dXqKJFuxiRsDCjFtphnMfhxaP2KhnBFwMkkpump",
-   0.152,
-   3.9,
+   0.15,
+   4.8,
    ""
   ],
   [
    "KYA",
    "6Y758Zj5u2fQDSpowQZEQ5rZatgyq6AHXkTjz1jNpump",
-   0.134,
-   5.9,
+   0.139,
+   6.8,
    ""
   ],
   [
    "KYA",
-   "6QL4X2HkUEnzrHgjmJEdM7ZwgWx5VfUKEhPdqSybpump",
-   0.128,
-   6.6,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "BULL",
-   "8btWYQ3HxowAUmixAXB5y6jLvRRmwMkTGdZQRkjbpump",
-   0.123,
-   4.5,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Trencher",
-   "GsKfwX7uzk8hQdf7HaxgQ8kyxppmfAMv327vzKBFpump",
+   "FqbusWKnpwt3m57XirZipW3sHKqbSuwweCmWX4dSzHqZ",
    0.117,
-   3.5,
+   7.1,
    ""
   ],
   [
-   "JAI",
-   "6xtQfTs4wdXsRD8J6Twt9AjXi2mTwo8DaJDMrtoypump",
-   0.111,
-   5.4,
-   "top5_hold_most=87%"
+   "trench",
+   "FyS9r71He36WPb9mwDKrc3QHGRVo7jCWqPkqSZwupump",
+   0.098,
+   3.1,
+   ""
+  ],
+  [
+   "PUMPAGENT",
+   "jV27VCHD3mKKYA2HMMUxjiWAZuviMDeepHhFJq3pump",
+   0.093,
+   7.9,
+   "buyers=7; top5_hold_most=100%"
   ]
  ]
 }
