@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 383.3492356664151,
+ "cash": 386.4501978945291,
  "positions": {
   "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump": {
    "sym": "Robotaxi",
@@ -13,28 +13,12 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 6.780626817967313e-08,
-   "peak_px": 6.780626817967313e-08,
-   "last_val": 10.207856297147346,
-   "last_prog": 0.484,
+   "last_px": 7.178781890199928e-08,
+   "peak_px": 7.178781890199928e-08,
+   "last_val": 10.809328326046488,
+   "last_prog": 0.509,
    "tp1_done": true,
    "realized": 4.3678562971473465
-  },
-  "6LZBoy9xprmvUpgd3b4mxjpKyBFhMcjTakX6CTX5pump": {
-   "sym": "ECOGLW",
-   "bc": "5QizW1x1wKLYNwgkUsS1icX74ubNu8EGfQnwfjxvMs96",
-   "tokens": 1158552.8796337508,
-   "cost": 5.845,
-   "cost0": 11.69,
-   "entry_px": 4.6188830591677835e-08,
-   "entry_fill": 4.907945768240355e-08,
-   "opened": 1793187607.3707023,
-   "last_px": 7.12940197349233e-08,
-   "peak_px": 7.12940197349233e-08,
-   "last_val": 7.981943027037035,
-   "last_prog": 0.506,
-   "tp1_done": true,
-   "realized": 2.1369430270370353
   }
  },
  "traded": [
@@ -518,81 +502,85 @@
   [
    "2026-10-28T04:46:06",
    401.54
+  ],
+  [
+   "2026-10-28T04:47:05",
+   397.26
   ]
  ],
- "cycles": 161,
+ "cycles": 162,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.76999999999998,
- "watching": 232,
+ "sol_usd": 102.76774583793785,
+ "watching": 239,
  "near": [
-  [
-   "ALMOST",
-   "4tPZsXthKBxGKD8ebLWrYT7N5z3o1rJADWqoyQ2Fpump",
-   0.145,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
   [
    "RSGP",
    "HxduH3im5ULYR2FUy55xXQZoq2jMEePBUBJtPQ5Xpump",
    0.133,
-   5.4,
+   6.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Garry",
    "EEMfDz5Jfd7d3mHN9HVzfmkxTiGWJKM43sNRn9E9pump",
    0.08,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "CI",
-   "8VZkVGqsn325pHa8GikteR9V96pgQLTdWDGReEs3KvYp",
-   0.043,
-   9.9,
+   "KNG22",
+   "NieWbX1dpJPwJqAi2t7sKc8BpcuDQC5Mpsegy7gucAL",
+   0.07,
+   2.4,
+   ""
+  ],
+  [
+   "Linus",
+   "5MeaMcKVNqwYjygwNsdmNMk9L83LqeSLNgXx85w8pump",
+   0.041,
+   2.4,
    ""
   ],
   [
    "Frongus",
    "2QkmXQqAH4p6q92S2xsDjv4roF1jQ4Hs5JB6pU7upump",
    0.026,
-   7.0,
+   8.0,
    ""
   ],
   [
    "SNDFT",
    "GYi8uPR7xo4r9wY92Z9iwyoVqk3BTBNmE7Lh68kSpump",
    0.024,
-   8.7,
+   9.7,
+   ""
+  ],
+  [
+   "Stonkpear",
+   "9gry79ASqMgVwMV3tNwc9LoucTWsB9npPhXQYwEDpump",
+   0.023,
+   3.5,
    ""
   ],
   [
    "JEANDOGE",
    "3gc3sJ2nkVczmAsJcGvc3wXBf83SUdKPJowUmFYbpump",
    0.022,
-   5.5,
+   6.4,
    ""
   ],
   [
    "SPAIN",
    "SPAinU1X2JZBWFAjWf1ihT5fLaa4FL1y2YK6pox6LZy",
    0.022,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "Stonkpear",
-   "9gry79ASqMgVwMV3tNwc9LoucTWsB9npPhXQYwEDpump",
-   0.021,
-   2.5,
-   ""
-  ],
-  [
-   "KUROMU",
-   "5kvHhPgu1YAErDEU7oe2C1VrY9RRcJLcpHb7aFSSpump",
+   "TFAG",
+   "3YtHeDDyf6uUcHHkTKpaNcTQ382XD3nQsD16DB4Upump",
    0.012,
-   2.4,
+   2.6,
    ""
   ]
  ]
