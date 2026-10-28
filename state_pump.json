@@ -15,7 +15,7 @@
    "opened": 1793197867.656557,
    "last_px": 3.678263994508535e-08,
    "peak_px": 3.678263994508535e-08,
-   "last_val": 9.58072849945602,
+   "last_val": 9.583609398022164,
    "last_prog": 0.173
   }
  },
@@ -1168,82 +1168,86 @@
   [
    "2026-10-28T07:32:06",
    360.16
+  ],
+  [
+   "2026-10-28T07:33:06",
+   360.17
   ]
  ],
- "cycles": 327,
+ "cycles": 328,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.509776988,
+ "sol_usd": 100.54000000000002,
  "watching": 257,
  "near": [
   [
    "ANTS",
    "vZE1yKrS9cxeW9e3Tr42myNJCooZZ8rm3bau9eHpump",
-   0.875,
-   7.4,
+   0.871,
+   8.4,
    ""
   ],
   [
-   "ELON",
-   "FNHrqci2MhnRzi5kqGbdEYDmU3E7mZhe7SMUByMJpump",
-   0.178,
-   4.6,
-   ""
+   "LKCSH",
+   "GJytzNxCcbsKV7FfV3kanKq7WFvbq7Deu8EETMMXpump",
+   0.664,
+   2.7,
+   "top10=47.9%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "MEC",
+   "98wGcAgoP75GQSGApJjKMQ5hRGCjopNZmuTdRFc8pump",
+   0.219,
+   2.4,
+   "top5_hold_most=84%"
   ],
   [
    "Memelord",
    "2dt6jqTdFU4ZumK3K8xCEesyrsyGMNRQ6ipu3WqC3fHE",
    0.172,
-   4.5,
+   5.5,
    ""
   ],
   [
    "Memelord",
-   "3NekbiPY1nBV2emZhZZidX6gN7aZ2wJazgQLfXwcRW1V",
-   0.153,
-   5.0,
+   "HKRTa5Pq7dT69XYaayntNGbVhbMq8gojVPyg2HZhpXXv",
+   0.137,
+   2.4,
    ""
   ],
   [
-   "Memefather",
-   "pPGuRtEVogah7ProviW6pR5419p3X5hahPbUU1Tpump",
-   0.152,
-   5.2,
-   ""
-  ],
-  [
-   "UNIVERSE",
-   "2iDj8QyY8xD8x2iiJrRTna5E7sSk9hPqMHC9ino3nk36",
-   0.135,
-   5.2,
-   ""
+   "MEMELORD",
+   "GHocgeZnrzp7feUDT4AbX5xc6xpNbFXxJ9KGLeyrhnVb",
+   0.129,
+   4.2,
+   "buyers=9; top5_hold_most=100%"
   ],
   [
    "Memelord",
    "CjyBedkJWag1NZ3aYp3be9sAnGWfU5nRXddyuKdtpump",
    0.123,
-   5.1,
-   ""
-  ],
-  [
-   "MEMESTOCK",
-   "AC24iY5FHsSqbKWeV6Ziu6qeYz3dtczFzHTc1BXZW9ZN",
-   0.114,
-   6.9,
+   6.1,
    ""
   ],
   [
    "MEMEFATHER",
    "EkMpCnGwY2ARR9dsR43Cnj2UQctehuBRVLEtoSQ6pump",
    0.11,
-   3.5,
+   4.5,
    ""
   ],
   [
-   "MEMELORD",
-   "GHocgeZnrzp7feUDT4AbX5xc6xpNbFXxJ9KGLeyrhnVb",
-   0.091,
-   3.2,
-   "buyers=8; top5_hold_most=100%"
+   "Memelord",
+   "3SgabXGogjsXE2thsV5MRFQATxkY8hwcT2iky4WWpump",
+   0.084,
+   3.1,
+   ""
+  ],
+  [
+   "PERP",
+   "8Wx7ohK7Dh4TRWnLNGS8fzBekcNij3QAo4dfkvi9XG63",
+   0.084,
+   2.7,
+   ""
   ]
  ]
 }
