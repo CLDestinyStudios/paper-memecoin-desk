@@ -2,24 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 144.17674885364477,
+ "cash": 148.9606235242138,
  "positions": {
-  "HHp8TGN1TgFWEczjZiHzv6S3ZCWGpUZQoznBFAbDpump": {
-   "sym": "Doomscroll",
-   "bc": "GFG48pciM2g3GrvHSFHrkfzWhJg7zWXAG8AooWWGE6x4",
-   "tokens": 517939.8923728752,
-   "cost": 2.38,
-   "cost0": 4.76,
-   "entry_px": 4.2052104368585743e-08,
-   "entry_fill": 4.489621693727529e-08,
-   "opened": 1793225273.1053596,
-   "last_px": 9.695638589206441e-08,
-   "peak_px": 1.9149854888207702e-07,
-   "last_val": 4.82037248782384,
-   "last_prog": 0.626,
-   "tp1_done": true,
-   "realized": 2.3362971197425146
-  },
   "48z5MtQwFBMkSG1Gg1KmW2AtHyq214eRWPpsJULWpump": {
    "sym": "Tucker",
    "bc": "DDLKzLxLSwh9x4SMjTJnjxMoDVCTQ36ic6Zr9J6n44gT",
@@ -31,7 +15,7 @@
    "opened": 1793227849.7195787,
    "last_px": 2.8031456199273684e-08,
    "peak_px": 3.016934283299752e-08,
-   "last_val": 3.810947761319291,
+   "last_val": 3.810846849577522,
    "last_prog": 0.002
   }
  },
@@ -3015,81 +2999,85 @@
   [
    "2026-10-28T15:52:51",
    152.81
+  ],
+  [
+   "2026-10-28T15:53:49",
+   152.77
   ]
  ],
- "cycles": 800,
+ "cycles": 801,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.4227120955,
- "watching": 212,
+ "sol_usd": 102.41999999999999,
+ "watching": 215,
  "near": [
   [
    "Runner",
    "9vVb7tHGkfvXT3ZT4qb2Qhv1TbtEQRv3odpT9my6pump",
-   0.825,
-   3.8,
+   0.849,
+   4.7,
    ""
-  ],
-  [
-   "INU",
-   "ghJtJeVNAackqfsYgJRrks178vfXFuF3SyyX2Tvpump",
-   0.329,
-   4.5,
-   "rugcheck=creator history of rugs"
   ],
   [
    "WOLOLO",
    "8WTM9nMABXs7J7pZoyijEiNv9Rj5bK4egMVK3w8Spump",
    0.13,
-   5.3,
+   6.2,
    ""
   ],
   [
    "DMONKEY",
    "217M5UDLsqd14r7qvDVQpQipmaCucY7byZpWsarhpump",
    0.123,
-   7.3,
-   ""
-  ],
-  [
-   "Runner",
-   "CfQCV9FhT3qUcSNMP88CxgDXsZeKTrFvnTYifzZ5pump",
-   0.095,
-   4.7,
-   ""
-  ],
-  [
-   "CRINGE",
-   "F8YKRiJQqCFHhmcRE83SqNRxV4EZepQkt1aTZiqxpump",
-   0.094,
-   3.2,
-   ""
-  ],
-  [
-   "BS",
-   "8pZe73iSi8TWeUnMGVdVhhU3X8itRPDUpKWQeBb2pump",
-   0.075,
-   7.7,
+   8.2,
    ""
   ],
   [
    "Solcoin",
    "5HuuKe3qaTVFf4CdwWiaUxfp9mzyJuqi7FzjG4Ykpump",
    0.074,
-   3.3,
+   4.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Stonkat",
-   "F8ivgiyFC8k6abBoVF4EjDDcZ8FJshHMyHcZmRJYpump",
-   0.032,
-   9.4,
+   "BS",
+   "8pZe73iSi8TWeUnMGVdVhhU3X8itRPDUpKWQeBb2pump",
+   0.035,
+   8.7,
    ""
   ],
   [
    "OP",
    "DVTsXMUzHiCKagRe5D8isk4Hdm5Rg9sYRavTF9Lkpump",
    0.032,
-   6.6,
+   7.6,
+   ""
+  ],
+  [
+   "memes",
+   "C5LvjyYhSHy1P4BEQaovdT1GY6kc9BdkLDQLDKDWpump",
+   0.03,
+   2.5,
+   ""
+  ],
+  [
+   "in\u00fatil ",
+   "BGjvavQhNQawQXuvjmbrgR3ZRekebCvQbjYN74N1pump",
+   0.03,
+   3.1,
+   ""
+  ],
+  [
+   "BMODE",
+   "DLDWzpvNz55xsBMeVM4aL1uV3X7hnAFVDXyWSkoCpump",
+   0.026,
+   7.5,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "krisinu",
+   "DTXxiRrjqVKTbsTCapHUFo4VvDcqUqvWn2rPUM7Zpump",
+   0.025,
+   8.2,
    ""
   ]
  ]
