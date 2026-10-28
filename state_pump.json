@@ -15,7 +15,7 @@
    "opened": 1793202160.6608937,
    "last_px": 4.020403013964769e-08,
    "peak_px": 4.020403013964769e-08,
-   "last_val": 10.137606842887495,
+   "last_val": 10.1358981990643,
    "last_prog": 0.225
   }
  },
@@ -1348,81 +1348,85 @@
   [
    "2026-10-28T08:45:39",
    334.22
+  ],
+  [
+   "2026-10-28T08:46:40",
+   334.22
   ]
  ],
- "cycles": 373,
+ "cycles": 374,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.97653300900001,
- "watching": 240,
+ "sol_usd": 100.9595139105,
+ "watching": 251,
  "near": [
   [
    "GRUMPEX",
    "GRqLZkWRaxSyqaj3MyH6AM71RhubP56JNnHPWQqUpump",
-   0.976,
-   5.4,
-   ""
+   1.0,
+   6.4,
+   "graduated"
+  ],
+  [
+   "Stu",
+   "2s2kKHFYX1PwRxysgm2bSB1f7F3m4EcGFeNNHrcBpump",
+   0.636,
+   2.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "PAWSTHINK",
    "7szVFwefC1r8o2SEwsSiAi5gngGkAANUbJAtrWazpump",
    0.41,
-   2.3,
+   3.3,
    "top5_hold_most=90%"
   ],
   [
    "Elon",
    "8VHDbcgfKS1PKnEJM2YwVtDeBxxHxZ161EDUfagZvo2v",
-   0.14,
-   6.1,
+   0.176,
+   7.2,
+   ""
+  ],
+  [
+   "Space ",
+   "YabZGSDqeTKKUwWqjMxqiKjfsCs7GrQ5rSm1DJVpump",
+   0.141,
+   2.6,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PumpLiquid",
+   "3KwcTeprKySuMKCtUGfzc8tEqEJrXf6zeXFRgCUhpump",
+   0.126,
+   6.5,
    ""
   ],
   [
    "BCAT",
    "DrrxhyY7pBap1XqNKkWjueLEEEcrCu5LWnxV98oD9ey7",
    0.12,
-   6.6,
+   7.6,
    ""
   ],
   [
    "SLOTHANA",
    "CcoKqFP3f8mFYse49i7p7QmdH1FTLzvM6JBZMTVGpump",
    0.115,
-   8.9,
+   10.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "INTANGIBLES",
+   "5ifQuYV63gzkQ1GocCjk7aaT39P5JFytMiSpsDWdgDW1",
+   0.092,
+   2.2,
+   ""
   ],
   [
    "BCAT",
    "CK6etpdWz2o61edEsV4hKiyi7tadfW7a9Uty4m1fPKwQ",
    0.091,
-   5.8,
-   ""
-  ],
-  [
-   "QC",
-   "Aq7RQ8KUvxXLNqaxQt6BkNRn6rBt3XdJjdTt7gzUpump",
-   0.084,
-   5.8,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "KatanaCat",
-   "7HyG3J1T86DbxGupB67sDguhZupnYSDCD5o68Eokpump",
-   0.061,
-   2.9,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "George",
-   "4mXaD5ZM1EhJEud2iQbprgK7QjppFuDnGq4h3UFUpump",
-   0.059,
-   7.7,
-   ""
-  ],
-  [
-   "PumpLiquid",
-   "3KwcTeprKySuMKCtUGfzc8tEqEJrXf6zeXFRgCUhpump",
-   0.053,
-   5.5,
+   6.8,
    ""
   ]
  ]
