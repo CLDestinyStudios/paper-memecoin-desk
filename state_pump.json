@@ -15,7 +15,7 @@
    "opened": 1793220774.405963,
    "last_px": 1.691727166458499e-07,
    "peak_px": 1.9668370607354425e-07,
-   "last_val": 4.275131848925906,
+   "last_val": 4.274713620413978,
    "last_prog": 0.803,
    "tp1_done": true,
    "realized": 0.9018131092825157
@@ -2725,82 +2725,86 @@
   [
    "2026-10-28T14:35:49",
    167.7
+  ],
+  [
+   "2026-10-28T14:36:48",
+   167.7
   ]
  ],
- "cycles": 723,
+ "cycles": 724,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.22,
- "watching": 249,
+ "sol_usd": 102.21000000000001,
+ "watching": 255,
  "near": [
   [
    "Giraffedog",
    "8HVL6kX9AAahfFLVcUMP2F5X4ygstM6AZcmMRZZWpump",
-   0.96,
-   3.2,
-   ""
+   1.0,
+   4.2,
+   "graduated"
+  ],
+  [
+   "CATBOT",
+   "4s3CxU2Ma55F79r2rS8t4bmGqzF7o3k5mva3ApZdpump",
+   0.277,
+   2.2,
+   "top5_hold_most=88%"
   ],
   [
    "Tucker",
    "4vpSnoTKvfkJgheXLnjGXqHiJVgjTAVvR248r4cdpump",
-   0.424,
-   7.8,
+   0.253,
+   8.7,
    ""
-  ],
-  [
-   "Singularity",
-   "BsJSzbNAbLyA4EpeJdB7LRHvX4wR6Xk2PH1J3cf9pump",
-   0.202,
-   7.5,
-   ""
-  ],
-  [
-   "NEW",
-   "CRS4KuawMzTUYcdi2CppH6YC2x4CWsnCBq1qYJVqpump",
-   0.167,
-   4.5,
-   "top5_hold_most=90%"
   ],
   [
    "IA",
    "61zX8j8ZRGUBRoAKVguWGbZCNw4qL9ydpwfGHLY7pump",
    0.131,
-   6.7,
-   ""
-  ],
-  [
-   "TiboPoteto",
-   "DiEXfdzV9oCvVSawYPnibkaNwQeKGANjo1j4Rz3Bpump",
-   0.084,
-   8.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Taxless",
-   "DUg7DGKBoh8tWqk47TmGYcbg6g8ZiHZLgF7JYnfspump",
-   0.068,
-   9.6,
-   ""
-  ],
-  [
-   "CABLES",
-   "6eKxfegqA7BubUG1GvqmfUFmErAoLZSsKWXFFgKPpump",
-   0.045,
-   3.8,
+   7.7,
    ""
   ],
   [
    "TiboPoteto",
    "4HUPxhr39mtxNXKeCYNKXCSDaJ5wNPXTjvNtAmP7XoMX",
-   0.044,
-   8.8,
+   0.093,
+   9.8,
+   ""
+  ],
+  [
+   "NEW",
+   "CRS4KuawMzTUYcdi2CppH6YC2x4CWsnCBq1qYJVqpump",
+   0.065,
+   5.5,
+   "top5_hold_most=86%"
+  ],
+  [
+   "CABLES",
+   "6eKxfegqA7BubUG1GvqmfUFmErAoLZSsKWXFFgKPpump",
+   0.045,
+   4.8,
+   ""
+  ],
+  [
+   "BTX",
+   "27Hprr6Adob7dRHQ8pbZJ4bq1fcyuAyYrNQoJoCZpump",
+   0.029,
+   4.0,
    ""
   ],
   [
    "Singularity",
-   "ErtuJq6Bi7r16hhxktsSX3bH3cQVEizgZCjxJAE8pump",
-   0.043,
-   7.9,
-   "buyers=2; top5_hold_most=100%"
+   "BsJSzbNAbLyA4EpeJdB7LRHvX4wR6Xk2PH1J3cf9pump",
+   0.026,
+   8.5,
+   ""
+  ],
+  [
+   "Tucker",
+   "AwiSt7HmoVVfbgtwUbpTeCTDGbb7ELdigMrh8xVApump",
+   0.022,
+   5.3,
+   ""
   ]
  ]
 }
