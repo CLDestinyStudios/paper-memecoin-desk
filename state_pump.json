@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 213.80201423021518,
- "positions": {
-  "4BeUbgUetPJxB9DhXTWnLw9p6Bda1fzRzDfqPQHUpump": {
-   "sym": "BRBR",
-   "bc": "8YmEJUjBDX7XoUMDEWfWCbXgX735yhh6pQVNFNbC2L7i",
-   "tokens": 974905.006871109,
-   "cost": 7.13,
-   "cost0": 7.13,
-   "entry_px": 6.714273512952015e-08,
-   "entry_fill": 7.144257035732585e-08,
-   "opened": 1793213093.929925,
-   "last_px": 5.769351945942556e-08,
-   "peak_px": 7.708717062275202e-08,
-   "last_val": 5.380753805053395,
-   "last_prog": 0.411
-  }
- },
+ "cash": 218.07020785391762,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -2108,31 +2093,35 @@
   [
    "2026-10-28T12:11:46",
    219.18
-  ]
- ],
- "cycles": 579,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.00206049819931,
- "watching": 218,
- "near": [
-  [
-   "GAMBLERS",
-   "Ar9Fb4rSKJbpN46mYswwGyRtSRz5KEzXKA3V2qE4pump",
-   1.0,
-   4.5,
-   "graduated"
   ],
   [
-   "SEAT61",
-   "GPxZw1wxeEC6Qkc5efi2xq5k75BkGct7PMpoGCNZpump",
-   0.786,
-   9.4,
+   "2026-10-28T12:12:43",
+   218.07
+  ]
+ ],
+ "cycles": 580,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 101.93412040526738,
+ "watching": 226,
+ "near": [
+  [
+   "fridge",
+   "JWp3dHX7TRxTjWkrUnKHBoTcSde1U9ziAUFjBPzpump",
+   0.948,
+   2.4,
    ""
   ],
   [
    "fridge",
    "AYRzi9vm1frjsZKXCbCkK7jjR6G6m4WpTMvQHDLEqgtP",
-   0.779,
+   0.844,
+   3.1,
+   ""
+  ],
+  [
+   "CHARTER",
+   "83cBgVrdZP54jcHkVKjYBrs6yYkMAaFwWMJpFPmppump",
+   0.761,
    2.1,
    ""
   ],
@@ -2140,49 +2129,49 @@
    "JOBWIZ",
    "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
    0.241,
-   8.9,
+   9.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "SNAROCAT",
    "9km7VrKB7w9BQz3tvkgDotFrqZJkyKJerucyGxFipump",
    0.139,
-   2.4,
+   3.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "fridge",
+   "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
+   0.133,
+   4.6,
+   ""
   ],
   [
    "BOAT",
    "4KZLA1bceJpzteH37RakLjC88JwfPdaNxPdRwEmTpump",
    0.087,
-   2.4,
+   3.4,
    ""
   ],
   [
    "Keith",
    "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
    0.078,
-   7.0,
-   ""
-  ],
-  [
-   "fridge",
-   "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
-   0.062,
-   3.7,
+   8.0,
    ""
   ],
   [
    "GAMBLERS",
    "6sBEJCkUbZ1JPYmNfSEdbL8DStStk8e9jx3Y2ECPteT4",
    0.058,
-   4.8,
+   5.8,
    "buyers=7; top5_hold_most=100%"
   ],
   [
    "RAWSTEAK",
    "4LKtuHQUumJS39nRdMQjxxssqd9aEhyW6qE2Knovpump",
    0.043,
-   6.7,
+   7.6,
    ""
   ]
  ]
