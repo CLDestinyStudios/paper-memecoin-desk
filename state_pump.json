@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 266.46828195154654,
- "positions": {
-  "8Fy16aTmxH3trwB1pRRR4jH4n15ebbZwwRUPbdy4pump": {
-   "sym": "GRADUATE",
-   "bc": "FJbvHpJMQ2a6opffx37zyQJLh8wiXnvnPpQW2cmgzXoC",
-   "tokens": 1996640.8836371612,
-   "cost": 8.24,
-   "cost0": 8.24,
-   "entry_px": 3.837649048446584e-08,
-   "entry_fill": 4.0824089994580046e-08,
-   "opened": 1793206966.3475623,
-   "last_px": 3.356121229583236e-08,
-   "peak_px": 3.9459837630590885e-08,
-   "last_val": 6.356379168549823,
-   "last_prog": 0.118
-  }
- },
+ "cash": 272.3579937191989,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -1691,81 +1676,85 @@
   [
    "2026-10-28T10:04:46",
    272.82
+  ],
+  [
+   "2026-10-28T10:05:49",
+   272.36
   ]
  ],
- "cycles": 452,
+ "cycles": 453,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.0618391515,
- "watching": 310,
+ "sol_usd": 101.059540572,
+ "watching": 332,
  "near": [
-  [
-   "TRUMPKIN",
-   "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump",
-   0.883,
-   9.5,
-   ""
-  ],
-  [
-   "Grokius",
-   "5iHkYdyThUUYGViN4j34ucjQ8vZitPt2uLHMP4sNpump",
-   0.356,
-   2.8,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "PUMPURR",
    "Fe6rkeXsvdpYLSQ2fBiXVPFPcax8UT5r7rJF9FLJpump",
-   0.341,
-   4.2,
-   "top5_hold_most=86%"
+   0.247,
+   5.3,
+   "top5_hold_most=83%"
+  ],
+  [
+   "SPECIES",
+   "Fa5h6CKQwQEhzvveVuy1G3Yayf9xXDth73RsaCSGpump",
+   0.176,
+   4.5,
+   "buyers=9; top5_hold_most=88%"
   ],
   [
    "neuronary",
    "J5qDWnk4j9TxpoWJb4zNfyyjFQXBTQ7iPafjquQpump",
    0.165,
-   6.1,
-   ""
+   7.2,
+   "buyers=9; top5_hold_most=82%"
   ],
   [
-   "SPECIES",
-   "Fa5h6CKQwQEhzvveVuy1G3Yayf9xXDth73RsaCSGpump",
-   0.155,
-   3.4,
-   "buyers=7; top5_hold_most=100%"
-  ],
-  [
-   "Termite",
-   "7yfUXLUmP4SvzGRrfnxSRKGNwN7AS65hkZE2gKDApump",
-   0.085,
-   2.5,
+   "mos",
+   "3Qk264RdnEBA59sMZAY3cN8HYyJVVjdwbuyt8dFBpump",
+   0.122,
+   2.7,
    "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
-   "CAM",
-   "5VcBRKSyBwbHrE4cYHKgQLSSgPc5M5L9LyhRxEpzpump",
-   0.083,
-   9.9,
-   "buyers=1; top5_hold_most=100%"
+   "ALPN",
+   "3YLRcvS9c4bXcDH3ku7uEqFYfB3isL15DopWpypUpump",
+   0.082,
+   3.0,
+   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
-   "Mochimaru",
-   "FMB1A8CjLctRouF5i1f6sNZzPsSpv141H31ZFWcrpump",
-   0.074,
+   "mos",
+   "BpFQn8nXP3Uq7yMpC2i3wzpz61qAsKjXdeifGivRpump",
+   0.076,
+   3.0,
+   ""
+  ],
+  [
+   "TOKEN",
+   "E8wKfTQrM7w5wQu1GSNQHTTTJ9GHrVCkjarDGpq9pump",
+   0.073,
+   2.9,
+   ""
+  ],
+  [
+   "Bean",
+   "6TAPwEvZYqCtBZvThpVpswUbDruFy1YSq6qggoRxpump",
+   0.064,
+   2.6,
+   ""
+  ],
+  [
+   "NOCLIP",
+   "76q7tfPK4VQwQaf2mh894UmteoKDe8CaGM5NnBcCpump",
+   0.049,
    3.1,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   ""
   ],
   [
    "SINGLE",
    "51Kf5htzuCpgiyo6EVHoiyS7jDq6kdxj3gSaaRdrpump",
    0.047,
-   7.2,
-   ""
-  ],
-  [
-   "ZCAT",
-   "9ZauETBK9kwDG5vbJSLrWWG8GbMs9f2WRRKSz4Rppump",
-   0.041,
-   6.5,
+   8.2,
    ""
   ]
  ]
