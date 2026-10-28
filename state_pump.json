@@ -15,7 +15,7 @@
    "opened": 1793202160.6608937,
    "last_px": 3.7729119106056236e-08,
    "peak_px": 3.7729119106056236e-08,
-   "last_val": 9.511473445851076,
+   "last_val": 9.51178448866785,
    "last_prog": 0.188
   }
  },
@@ -1340,81 +1340,85 @@
   [
    "2026-10-28T08:43:40",
    333.59
+  ],
+  [
+   "2026-10-28T08:44:39",
+   333.59
   ]
  ],
- "cycles": 371,
+ "cycles": 372,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.9781124725,
+ "sol_usd": 100.98141464400001,
  "watching": 236,
  "near": [
   [
    "villainlon",
    "Asjmk93s5j9XtTayrNt52yYahtz8dYXHB9wbEjNDpump",
-   0.982,
-   8.3,
-   ""
+   1.0,
+   9.3,
+   "graduated"
   ],
   [
    "GRUMPEX",
    "GRqLZkWRaxSyqaj3MyH6AM71RhubP56JNnHPWQqUpump",
-   0.932,
-   3.4,
+   0.92,
+   4.4,
    ""
+  ],
+  [
+   "LevelGrok",
+   "6p3hhwq93j6qMWqrJQDUqLxKNSf8uW6839uJU7cipump",
+   0.176,
+   2.3,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "Elon",
    "8VHDbcgfKS1PKnEJM2YwVtDeBxxHxZ161EDUfagZvo2v",
-   0.141,
-   4.2,
+   0.14,
+   5.1,
    ""
   ],
   [
    "SLOTHANA",
    "CcoKqFP3f8mFYse49i7p7QmdH1FTLzvM6JBZMTVGpump",
    0.115,
-   7.0,
+   7.9,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "PumpLiquid",
-   "3KwcTeprKySuMKCtUGfzc8tEqEJrXf6zeXFRgCUhpump",
-   0.105,
-   3.5,
-   ""
   ],
   [
    "BCAT",
    "CK6etpdWz2o61edEsV4hKiyi7tadfW7a9Uty4m1fPKwQ",
    0.091,
-   3.8,
+   4.8,
    ""
   ],
   [
    "QC",
    "Aq7RQ8KUvxXLNqaxQt6BkNRn6rBt3XdJjdTt7gzUpump",
    0.084,
-   3.8,
+   4.8,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "George",
-   "4mXaD5ZM1EhJEud2iQbprgK7QjppFuDnGq4h3UFUpump",
-   0.079,
-   5.7,
-   ""
   ],
   [
    "BCAT",
    "DrrxhyY7pBap1XqNKkWjueLEEEcrCu5LWnxV98oD9ey7",
    0.078,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "BCAT",
-   "4mat64aZ6zNGf2sxRgHXQm1foiMjfn8WTUv2MBHEpump",
-   0.045,
-   4.7,
+   "NETWORKS",
+   "C5sS77itegfKD4kuuSqrZgznv1HU7koEQsG9hpRGpump",
+   0.063,
+   2.0,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "George",
+   "4mXaD5ZM1EhJEud2iQbprgK7QjppFuDnGq4h3UFUpump",
+   0.059,
+   6.7,
    ""
   ]
  ]
