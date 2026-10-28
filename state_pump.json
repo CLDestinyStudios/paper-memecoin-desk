@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 136.1926583783691,
+ "cash": 132.0026583783691,
  "positions": {
   "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump": {
    "sym": "TAB",
@@ -13,10 +13,24 @@
    "entry_px": 5.243097028548849e-08,
    "entry_fill": 5.604217204148322e-08,
    "opened": 1793229471.2270815,
-   "last_px": 5.243097028548849e-08,
+   "last_px": 5.017918074099197e-08,
    "peak_px": 5.243097028548849e-08,
-   "last_val": 3.6792367289467984,
-   "last_prog": 0.365
+   "last_val": 3.5177363218344646,
+   "last_prog": 0.343
+  },
+  "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump": {
+   "sym": "SEPHORA",
+   "bc": "4S66UEQm68MhJsnRTn6QM2NmKgKBiWtUqGuTiRAp8hXc",
+   "tokens": 610316.7826580429,
+   "cost": 4.19,
+   "cost0": 4.19,
+   "entry_px": 6.278101670032933e-08,
+   "entry_fill": 6.710279744573217e-08,
+   "opened": 1793229530.7547693,
+   "last_px": 6.278101670032933e-08,
+   "peak_px": 6.278101670032933e-08,
+   "last_val": 3.6619743066461767,
+   "last_prog": 0.45
   }
  },
  "traded": [
@@ -225,7 +239,8 @@
   "5ogyUVB9i9mPaLs2DoC8133eUpYPsCUKBHJ31KZUpump",
   "8xASHvTLdyFVAttJiuw9REzX6Z8AG9y2zDVqhrmnpump",
   "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump",
-  "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump"
+  "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump",
+  "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump"
  ],
  "equity": [
   [
@@ -3099,81 +3114,85 @@
   [
    "2026-10-28T16:17:51",
    139.87
-  ]
- ],
- "cycles": 825,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.34956454600001,
- "watching": 387,
- "near": [
-  [
-   "HODL",
-   "8XJtkuHmxf1azwEFVb1g4AqeJM92WvpHZ7brw8dppump",
-   0.726,
-   7.3,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "Launchpup",
-   "wEjxcQhKMCnAGWTEYvEbe2CaYmLU42MhSprPJEipump",
-   0.389,
-   3.6,
+   "2026-10-28T16:18:50",
+   139.18
+  ]
+ ],
+ "cycles": 826,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.31,
+ "watching": 395,
+ "near": [
+  [
+   "FROGE",
+   "BmkceQcdXbJay2RPNCEDYRYucRAUfk7J4VNGNh1Jpump",
+   0.844,
+   2.7,
    ""
   ],
   [
-   "TAB",
-   "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump",
-   0.365,
-   2.6,
+   "SEPHORA",
+   "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump",
+   0.45,
+   2.1,
    "bought"
   ],
   [
    "RETAIN",
    "5fLrqsHSGU9jYf557TuDJQJPDUHofeQJvnYHWEP7pump",
-   0.24,
-   3.9,
+   0.243,
+   4.9,
    ""
   ],
   [
-   "EM",
-   "EFyD5kkmEspZpfyXWrgguSgkberStRyGwTZWna8fpump",
-   0.205,
-   2.2,
-   "buyers=1; creator=16.2%; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "Launchpup",
+   "wEjxcQhKMCnAGWTEYvEbe2CaYmLU42MhSprPJEipump",
+   0.198,
+   4.5,
+   ""
+  ],
+  [
+   "FIFTY",
+   "FydZdvGm8AqoLmvETcJH3XNFv84ykRhHQoniGJ1Dpump",
+   0.104,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "HNY",
    "Btno8Pg5aE2uZSeYtSqeXxeRMLqQ4zWPU3SDDG5Wpump",
    0.089,
-   2.4,
+   3.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Chews",
    "DeV5aY74Aa8u6V4Cihk31XTXKr3E32NBoykJn7wnpump",
    0.083,
-   2.2,
-   ""
-  ],
-  [
-   "cat",
-   "4xo7mFD7ofk8CiBYaGzUeQ3mfH3pXvxj7PZ4QU8Tpump",
-   0.077,
-   4.0,
+   3.2,
    ""
   ],
   [
    "BUDDY",
    "J5vtFEyoa5ayBKWpwN2TGvUE7XNutf24HR7gDPzipump",
    0.073,
-   4.6,
+   5.6,
+   ""
+  ],
+  [
+   "movember",
+   "7fmWLGGLiAjsF2xEB2YYiKGm2vYhcQcyJ3BoozTfpump",
+   0.068,
+   2.4,
    ""
   ],
   [
    "Chews",
    "6mp9BvpUzj7zydhHuxCdhACMbW61PEtMMp7QvdAVpump",
    0.067,
-   2.7,
+   3.7,
    ""
   ]
  ]
