@@ -20,12 +20,14 @@
    "mark_entry": 0.002194,
    "cost": 23.41,
    "peak": 0.002226,
-   "last": 0.002197,
+   "last": 0.00216,
    "opened": 1793182987.399192,
    "p_buy": 0.56
   }
  },
- "watch": {},
+ "watch": {
+  "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793186588.311129
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -637,8 +639,12 @@
   [
    "2026-10-28T04:22:07",
    464.83
+  ],
+  [
+   "2026-10-28T04:23:08",
+   464.45
   ]
  ],
- "cycles": 157,
+ "cycles": 158,
  "started": "2026-10-28T01:46:56"
 }
