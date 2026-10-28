@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 162.65140981390923,
- "positions": {
-  "APmXjP1SJmCZBGo2HEW1vHyEmvuPPMkcksjJEYuWpump": {
-   "sym": "WILLY",
-   "bc": "D5UePxQSBtMFKzP6vrj8Hk9AQozF7LR6C3pG3x5KKWDw",
-   "tokens": 1048480.5608100127,
-   "cost": 5.03,
-   "cost0": 5.03,
-   "entry_px": 4.39580389942421e-08,
-   "entry_fill": 4.690537602123815e-08,
-   "opened": 1793223772.8145754,
-   "last_px": 4.3729934553628577e-08,
-   "peak_px": 4.39580389942421e-08,
-   "last_val": 4.389894583179897,
-   "last_prog": 0.271
-  }
- },
+ "cash": 165.4652072944514,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -2748,81 +2733,85 @@
   [
    "2026-10-28T14:43:52",
    167.04
+  ],
+  [
+   "2026-10-28T14:44:51",
+   165.47
   ]
  ],
- "cycles": 731,
+ "cycles": 732,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.29817885117494,
- "watching": 317,
+ "sol_usd": 102.31,
+ "watching": 315,
  "near": [
-  [
-   "CATBOT",
-   "4s3CxU2Ma55F79r2rS8t4bmGqzF7o3k5mva3ApZdpump",
-   0.277,
-   9.3,
-   "top5_hold_most=88%"
-  ],
   [
    "SI",
    "GV2F3fCJdE4SmjaoTG1DFwGDTqSwYw6sNkZuvhYwpump",
    0.241,
-   6.2,
+   7.2,
    ""
   ],
   [
-   "A",
-   "7MsEsuzHb8xqnTeL8hpmGEVVvqYQyL3TGRjnSmN2pump",
-   0.185,
-   2.9,
-   "top5_hold_most=84%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "TUCKER",
-   "FddCYT8fXM9F2wtwpfGgb5cQNCqVhVmLzCdjLbRVpump",
-   0.143,
-   3.1,
-   "buyers=2; top5_hold_most=100%"
+   "Frankie",
+   "J3ZqotkKKT1N4qBjmTuJjXwdiQDt5uDUNdstWk8gpump",
+   0.168,
+   2.1,
+   "buyers=6; top5_hold_most=96%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "FRANKOR",
    "AR5WsiFzfuUhNV3ZX6qifzTPdxvzh99gq2Shz8p4pump",
    0.119,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BADGE",
+   "Es8KhNmC9HCM2cqEXxc3XmAT4fhTE8VeYUAL1pwdpump",
+   0.115,
+   2.1,
+   "buyers=9; top5_hold_most=89%"
   ],
   [
    "TUCKER",
    "FVGzGdKe59HgfgcDermdLYZQqc4yoT8K4BtzNEt2pump",
    0.083,
-   8.5,
+   9.5,
    ""
   ],
   [
    "AAAAAA4AAAAA",
    "AZzpf8oAoTskHytr3pxCUCTpAJ3JXU78mThRpMMzHBS8",
    0.082,
-   2.9,
+   3.9,
    ""
   ],
   [
    "PC",
    "9zitpHyVwR3KJa7vMawC5ymbqKUNgdMB19rnjXkpump",
+   0.08,
+   3.1,
+   ""
+  ],
+  [
+   "Kiryusha",
+   "9TibjcWY9ChQ8cPQq658ub3xtARCbiWz33jQK7Xupump",
    0.072,
    2.1,
-   ""
+   "buyers=1; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "SI",
    "Gu9j2tJAYNCrcGFfcwWe8bpwQMm7EmUBZUwkT93xpump",
    0.068,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "ket",
-   "BPrwvVTXwDUzNoqGCZe2wbcQknTxixHQ9bXKMXwLCket",
-   0.064,
-   7.3,
+   "A",
+   "DgBUKfzYJo3J6Y8CFamWGQigPNcBuQP1ZTfrWd1Ypump",
+   0.063,
+   3.8,
    ""
   ]
  ]
