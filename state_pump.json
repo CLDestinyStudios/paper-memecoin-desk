@@ -13,10 +13,10 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 1.162734225654067e-07,
-   "peak_px": 1.162734225654067e-07,
-   "last_val": 5.456904483045038,
-   "last_prog": 0.689,
+   "last_px": 1.2054132097727206e-07,
+   "peak_px": 1.2054132097727206e-07,
+   "last_val": 5.649743184668905,
+   "last_prog": 0.701,
    "tp1_done": true,
    "realized": 2.4419044830450383
   },
@@ -31,7 +31,7 @@
    "opened": 1793217740.324521,
    "last_px": 5.313441732342529e-08,
    "peak_px": 5.313441732342529e-08,
-   "last_val": 5.606693588424064,
+   "last_val": 5.597516011783902,
    "last_prog": 0.372
   },
   "BuC54YateJ9zfqGHdv6RyWkgj4fcHsAAcCED6V21pump": {
@@ -43,10 +43,10 @@
    "entry_px": 7.570965208196361e-08,
    "entry_fill": 8.065253471009046e-08,
    "opened": 1793217772.0962317,
-   "last_px": 1.1345955478285417e-07,
+   "last_px": 1.0815034206451646e-07,
    "peak_px": 1.1345955478285417e-07,
-   "last_val": 7.897702406043673,
-   "last_prog": 0.681
+   "last_val": 7.513640467447224,
+   "last_prog": 0.665
   }
  },
  "traded": [
@@ -2358,82 +2358,86 @@
   [
    "2026-10-28T13:05:03",
    203.65
+  ],
+  [
+   "2026-10-28T13:05:52",
+   203.45
   ]
  ],
- "cycles": 632,
+ "cycles": 633,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 103.40422817950001,
+ "sol_usd": 103.23496616899999,
  "watching": 306,
  "near": [
   [
-   "UncMonk",
-   "HXHzMmtXiBd4hEgnBf2caa9YjL5Z6ztYHqqHhMmFpump",
-   0.401,
-   2.9,
-   "creator=15.2%; top5_hold_most=89%; bundled_launch=9 extra buys in creation block"
+   "VIRUS",
+   "5zEk4o4zijC4UGjrshi7TanRcPkwLuszKDvFJZ7zpump",
+   0.689,
+   2.5,
+   ""
   ],
   [
    "negro",
    "6QAvjbKqTw1SWtF2souzJvWwvaoLsuKouRCRfzUApump",
    0.248,
-   6.3,
+   7.1,
    "top5_hold_most=87%"
-  ],
-  [
-   "CASHTAG",
-   "GctoaNV5fuXppfvF7anbhNdNTEDefNctHSC54WVQpump",
-   0.24,
-   3.8,
-   ""
   ],
   [
    "TOLY",
    "2XcXcqB1EUTkUmce6eoj4S3SigWESird8JW8zt75p387",
    0.223,
-   5.8,
+   6.6,
    "buyers=1; creator=17.7%; top5_hold_most=100%"
+  ],
+  [
+   "CASHTAG",
+   "GctoaNV5fuXppfvF7anbhNdNTEDefNctHSC54WVQpump",
+   0.222,
+   4.6,
+   ""
   ],
   [
    "NANOAI",
    "EuYahBuEAxoQeCG9tWBKZmoNuQkiZnA8cnLoHPVnpump",
-   0.153,
-   4.5,
+   0.18,
+   5.3,
    ""
-  ],
-  [
-   "SORRY ",
-   "HkMDiFM3HwnXANei9eTM7ZQwFhkvg4jfBnTq3zpfpump",
-   0.131,
-   9.5,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "AI",
-   "8jMFjUsJFoytpLcFbwrJ9ywArZ9RL4esu6FuWhXqpump",
-   0.11,
-   2.7,
-   "top5_hold_most=92%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "TOLY",
    "C1eSHmBBsJ931q3qpBJNDNMn8Rm2sL3gusmBxQLHpump",
-   0.084,
-   5.5,
+   0.175,
+   6.4,
    ""
   ],
   [
-   "tolysan",
-   "6p9wnsNPswDcm4nzzKTxg3D7qUc9fRJh6YuC4Jyapump",
-   0.082,
-   2.8,
-   ""
+   "Zfly",
+   "92xU7zxqyXqv51Q1yKhok3cFhfruVL1KGPzEPvtSpump",
+   0.083,
+   2.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "toly-San",
    "EUX6v4WT515ZsSAfN71wxef55LfPFHRiH8Cx4i9ypump",
-   0.076,
-   3.0,
+   0.078,
+   3.8,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "TOLY",
+   "D5BgSWs9zW5XNxtnxp8snCWe465UbnF2AhHst6hQpump",
+   0.07,
+   6.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "TolyChan",
+   "3SGBZeqYUvBzED4BAdngbqTbxY1vBhsmRc41kFEhpump",
+   0.068,
+   6.2,
+   ""
   ]
  ]
 }
