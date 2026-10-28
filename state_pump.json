@@ -1686,84 +1686,84 @@
    272.36
   ],
   [
-   "2026-10-28T10:24:11",
+   "2026-10-28T10:24:54",
    272.36
   ]
  ],
- "cycles": 471,
+ "cycles": 472,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.93351908150001,
- "watching": 290,
+ "sol_usd": 100.977945099,
+ "watching": 281,
  "near": [
   [
-   "KURUKUMA",
-   "DqWXFhkEpHjhBML5SCkrFvfAvfyKCJK23FHTqnpUpump",
-   1.0,
-   2.8,
-   "graduated"
-  ],
-  [
-   "N3838",
-   "GDanxd8eXnrXgi78hKW2m1efqCirh6Qj5jtQHVWgpump",
-   0.589,
-   7.6,
-   "serial_creator=10 launches/24h"
+   "schizo",
+   "27HRZ6zkWTrNgcQZxb725JTTjGhKCcVb6GtKompgpump",
+   0.532,
+   2.9,
+   "launch_slot=missing"
   ],
   [
    "FARM",
    "FGGH7AXvghCegiCqpgFMWVz7DNnQ4UrMVWag4CCjpump",
-   0.367,
-   6.9,
+   0.366,
+   7.6,
    "creator=20.6%; top5_hold_most=96%; launch_slot=missing"
   ],
   [
    "PINGU",
    "3MLX8UbjkTagzV7YuXEcvXShxx4WbQNWacnhGXv6pump",
    0.345,
-   3.5,
-   "top5_hold_most=88%; launch_slot=missing"
+   4.2,
+   "top5_hold_most=88%"
   ],
   [
    "PINGU",
    "BWzMayEAPTaXKUgxCQcoV4dzdEZ2hpWXvGANX3kbpump",
-   0.253,
-   4.8,
+   0.255,
+   5.5,
    ""
   ],
   [
    "Doomscrollin",
    "12HyQayR6Z12AAnTC3q5od2Mkmi5X3ZLwxnh8Utnpump",
    0.207,
-   3.3,
-   "buyers=8; launch_slot=missing"
+   4.0,
+   "buyers=8"
   ],
   [
    "LETTUCE",
    "27HQRcioKwck9nNrvCc5brgQC78sYsFvYWgrQhe7pump",
    0.191,
-   4.4,
+   5.2,
    "buyers=1; creator=15.2%; top5_hold_most=100%; launch_slot=missing"
   ],
   [
-   "BABYCOW",
-   "3XqJf3ZWkHKRw1E9ErMWMswpxw12ZkMWEso8hkm4pump",
-   0.161,
-   6.2,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   "AIRBNB",
+   "5oWXC6FoqBWE7MDgN6UMLtC8vpyU2g8cbQvV3n2opump",
+   0.12,
+   2.7,
+   ""
+  ],
+  [
+   "yanito932",
+   "6bSmNUAqE3x5XFk5H5b9MvbcEvVdtHNm8bvZhzo4pump",
+   0.099,
+   5.9,
+   "buyers=6; top5_hold_most=96%; launch_slot=missing"
+  ],
+  [
+   "MBAPEPE",
+   "7KEG3hXUG6YymvDEu5rT8MUU1fCJV3qi1tkzZvWzpump",
+   0.098,
+   4.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "DATACENTER",
    "5Fj6JLTVhBj1QscnmgSzFuKj3MLJJEsJj6opKxeSpump",
-   0.113,
-   4.1,
+   0.093,
+   4.9,
    ""
-  ],
-  [
-   "KURUKUMA",
-   "E27UgheWxnXxXBrHNZvrwJR8f4cpF3BfWCWXJnQHpump",
-   0.101,
-   3.1,
-   "buyers=3; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
