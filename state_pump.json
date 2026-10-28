@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 224.64861418956576,
+ "cash": 222.57837600109158,
  "positions": {
   "8erwThQZLVqt7KeHpPXpXVXzYvSBDLwRs3GsGrs2pump": {
    "sym": "COLDLY",
@@ -13,10 +13,10 @@
    "entry_px": 6.771420737308342e-08,
    "entry_fill": 7.201619833384969e-08,
    "opened": 1793210573.8014724,
-   "last_px": 1.4982629294164892e-07,
+   "last_px": 1.4671874593150392e-07,
    "peak_px": 1.4982629294164892e-07,
-   "last_val": 7.544799572634969,
-   "last_prog": 0.768,
+   "last_val": 7.379337012074459,
+   "last_prog": 0.762,
    "tp1_done": true,
    "realized": 1.6060461211618424
   },
@@ -29,10 +29,10 @@
    "entry_px": 3.988418257020011e-08,
    "entry_fill": 4.2442203867934126e-08,
    "opened": 1793210831.5029194,
-   "last_px": 4.434842324200299e-08,
+   "last_px": 4.114503046968862e-08,
    "peak_px": 4.434842324200299e-08,
-   "last_val": 7.432366713677326,
-   "last_prog": 0.279
+   "last_val": 6.884896930967998,
+   "last_prog": 0.238
   },
   "4hW3Xm4uufdoEYyQruRyK2anbPu3hSiaT8PHYpeHpump": {
    "sym": "FGM",
@@ -43,24 +43,24 @@
    "entry_px": 3.658324141867701e-08,
    "entry_fill": 3.893376887843835e-08,
    "opened": 1793210832.0391502,
-   "last_px": 3.46573457908942e-08,
+   "last_px": 3.340790407135641e-08,
    "peak_px": 3.658324141867701e-08,
-   "last_val": 6.299450766797301,
-   "last_prog": 0.138
+   "last_val": 6.064155214187515,
+   "last_prog": 0.115
   },
-  "4qmyFuLt6jCTfdbfjrgKymgopcxr9ohLf2XstZZwpump": {
-   "sym": "j\u2019ai p\u00e9t",
-   "bc": "BtQ7HJ7itjRo9Y341jcKZNMDVEuepJReL24jfCzdCaMz",
-   "tokens": 567741.4894305611,
-   "cost": 7.61,
-   "cost0": 7.61,
-   "entry_px": 1.2431114953584542e-07,
-   "entry_fill": 1.3216316114900622e-07,
-   "opened": 1793210994.2582586,
-   "last_px": 1.2431114953584542e-07,
-   "peak_px": 1.2431114953584542e-07,
-   "last_val": 6.727396511455983,
-   "last_prog": 0.711
+  "jWh8q1PYwf23atCPVKuYDrVGRYPXnEdL15XWpzgpump": {
+   "sym": "SPYGLASS",
+   "bc": "9ZnWJ4WaiRv3HvECvwtsQ444xoH8okCFBJayLaBjFQVa",
+   "tokens": 1133696.279100151,
+   "cost": 7.51,
+   "cost0": 7.51,
+   "entry_px": 6.146822834322294e-08,
+   "entry_fill": 6.53869229607952e-08,
+   "opened": 1793211061.6251109,
+   "last_px": 6.146822834322294e-08,
+   "peak_px": 6.146822834322294e-08,
+   "last_val": 6.631679801796034,
+   "last_prog": 0.44
   }
  },
  "traded": [
@@ -174,7 +174,8 @@
   "B5NsWNanBVrWphkHGWm2k2AFQpjpcZN4os68nTTipump",
   "D7Npvpvjsqhx3WoPMRJtwKXGJsWN4f637fANSbbapump",
   "4hW3Xm4uufdoEYyQruRyK2anbPu3hSiaT8PHYpeHpump",
-  "4qmyFuLt6jCTfdbfjrgKymgopcxr9ohLf2XstZZwpump"
+  "4qmyFuLt6jCTfdbfjrgKymgopcxr9ohLf2XstZZwpump",
+  "jWh8q1PYwf23atCPVKuYDrVGRYPXnEdL15XWpzgpump"
  ],
  "equity": [
   [
@@ -1884,81 +1885,85 @@
   [
    "2026-10-28T11:09:54",
    252.65
+  ],
+  [
+   "2026-10-28T11:11:01",
+   249.54
   ]
  ],
- "cycles": 517,
+ "cycles": 518,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.42,
- "watching": 268,
+ "sol_usd": 101.30999999999999,
+ "watching": 278,
  "near": [
   [
-   "j\u2019ai p\u00e9t",
-   "4qmyFuLt6jCTfdbfjrgKymgopcxr9ohLf2XstZZwpump",
-   0.711,
-   2.3,
-   "bought"
+   "Michistell",
+   "9ce4yfgUd9jXS25wDjrRGepSd2BExpg2Vv8yPjYqpump",
+   0.934,
+   2.5,
+   ""
   ],
   [
    "RIAM",
    "yHroDTA2oznLyDyzaw8UeF8xL5MVR5zYJWmdcAypump",
    0.506,
-   2.6,
+   3.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "VIRL",
-   "FHmYrN1jQAmSXWCJjBYfVT8nic9xsSbafBxu32vUpump",
-   0.253,
-   7.5,
-   "top5_hold_most=86%"
+   "SPYGLASS",
+   "jWh8q1PYwf23atCPVKuYDrVGRYPXnEdL15XWpzgpump",
+   0.44,
+   2.4,
+   "bought"
+  ],
+  [
+   "RECEIPT",
+   "FNukWK7boVu9QztGipupppVSuRwrMBefJ5Aj8fGMpump",
+   0.41,
+   3.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "FAT",
    "4wL2mjLhrSQhJsVPrvDZiqcSXyFvDJYou3sVQkYpump",
-   0.212,
-   7.7,
-   ""
-  ],
-  [
-   "DOH",
-   "HL3aH6cj1rjmYYUZGicuF7GqdgBVUrKhskdjxzz5pump",
-   0.11,
-   3.5,
+   0.206,
+   8.8,
    ""
   ],
   [
    "ELM ST. ",
    "7niYhLVXtRfSeP43tFMWJgYBTNpd1CCY9FS2eFWRpump",
-   0.093,
-   4.6,
-   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+   0.095,
+   5.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PITCHFANG",
    "Wf2g8n42JWa4Ci9vtEeDBP4rgdjYj56ucnscNz7pump",
    0.092,
-   5.2,
+   6.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Carbon",
    "9FgASQEzU1QX65LYfraBiERFamymXvcW8yEjdCUkpump",
-   0.088,
-   4.0,
+   0.091,
+   5.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "egg",
+   "4vxqJgErzMzHZxYGnubYZXcLtxmCmrDJdEjBXr7gpump",
+   0.085,
+   3.2,
    ""
   ],
   [
    "Microeledone",
    "Bh1PYbZ1AF2GDyRUJnieWHvMcRucM7SNsSM7EQp3pump",
    0.074,
-   2.9,
-   ""
-  ],
-  [
-   "PENISINU",
-   "8h4wXHaKXXR7Kt9mTYgxNTyynzFuuoj4gGxVfE36pump",
-   0.064,
-   2.7,
+   4.0,
    ""
   ]
  ]
