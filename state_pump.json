@@ -1684,82 +1684,86 @@
   [
    "2026-10-28T10:15:10",
    272.36
+  ],
+  [
+   "2026-10-28T10:16:09",
+   272.36
   ]
  ],
- "cycles": 462,
+ "cycles": 463,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.93842313549997,
- "watching": 361,
+ "sol_usd": 100.935269948,
+ "watching": 345,
  "near": [
   [
    "sponk",
    "5Pn71n2xeHDmp7wMhACpyqs3SpSqRLucuHihA42cpump",
-   0.553,
-   5.3,
-   ""
-  ],
-  [
-   "UP",
-   "GPCqj8vZsWcbXyjjMqSZVHkVSBDJnhTXUq9M9GfUpump",
-   0.479,
-   3.1,
+   0.502,
+   6.3,
    ""
   ],
   [
    "PKLN",
    "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
-   0.367,
-   5.5,
-   "launch_slot=missing"
-  ],
-  [
-   "Haunted",
-   "4bxVxarv6mtmUQ8eMSg2kC6GY2hzo5yJk3QKzttupump",
-   0.26,
-   4.8,
+   0.346,
+   6.5,
    "launch_slot=missing"
   ],
   [
    "SAIL",
    "Ey37oyaVYTm5fPdHZ1FxbkM96nfzuH73yeVaUx2Vpump",
    0.185,
-   6.5,
+   7.5,
    "buyers=6; top5_hold_most=98%; launch_slot=missing"
   ],
   [
    "UP",
    "8Kgc3GSGDkfwmbFx8asajeNHsN5gQGFi7cvyeowfpump",
-   0.15,
-   3.3,
+   0.167,
+   4.3,
    "top5_hold_most=94%; launch_slot=missing"
+  ],
+  [
+   "UP",
+   "GPCqj8vZsWcbXyjjMqSZVHkVSBDJnhTXUq9M9GfUpump",
+   0.137,
+   4.1,
+   ""
+  ],
+  [
+   "3CHUCKS",
+   "6NSHJK4jMu6nLh5AuNHsxTECwCa4vEHi8GZ3wkUppump",
+   0.128,
+   2.8,
+   "buyers=8; top5_hold_most=95%; launch_slot=missing"
   ],
   [
    "BLOOM",
    "HYjijiexmo9Jb2HUSQvyeiZsNgSXJQYiagLZafAtpump",
    0.121,
-   9.4,
+   10.3,
    ""
   ],
   [
-   "Pumpfund",
-   "bz8zKspb1Vb9uH5ydNxjr17rA1sK6LUDjTuRQwwpump",
-   0.107,
-   4.6,
-   ""
+   "$VECTRA",
+   "F4QrbPgYkJLipebCpeij5yMgpCZRNB8LzYhZd5Frpump",
+   0.118,
+   10.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "LAUNCHINU",
    "D3pQsyjLQmMiUho1UA5TVPFVUDzirHxSB34DEoG7pump",
    0.107,
-   6.7,
+   7.7,
    ""
   ],
   [
-   "\ud83d\udc0d",
-   "BpDR9CZtZKYMu1a9L8yBfdXVJx9NcbZjkaVYSRq8pump",
-   0.086,
-   2.8,
-   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+   "Haunted",
+   "4bxVxarv6mtmUQ8eMSg2kC6GY2hzo5yJk3QKzttupump",
+   0.089,
+   5.8,
+   "buyers=9; top5_hold_most=84%; launch_slot=missing"
   ]
  ]
 }
