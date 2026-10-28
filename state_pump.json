@@ -15,7 +15,7 @@
    "opened": 1793219206.2237034,
    "last_px": 4.982323690013197e-08,
    "peak_px": 8.168282161166742e-08,
-   "last_val": 3.1564305886586794,
+   "last_val": 3.1576005203259507,
    "last_prog": 0.339,
    "tp1_done": true,
    "realized": 1.3622626831566609
@@ -29,10 +29,10 @@
    "entry_px": 4.152907998055313e-08,
    "entry_fill": 4.427845374160478e-08,
    "opened": 1793220591.0956793,
-   "last_px": 6.992753956516183e-08,
+   "last_px": 6.131268440156684e-08,
    "peak_px": 6.992753956516183e-08,
-   "last_val": 4.0990159491976,
-   "last_prog": 0.497,
+   "last_val": 3.589273354667939,
+   "last_prog": 0.439,
    "tp1_done": true,
    "realized": 1.3290159491976001
   },
@@ -45,10 +45,10 @@
    "entry_px": 3.094744118830867e-08,
    "entry_fill": 3.300197506157221e-08,
    "opened": 1793220647.5095737,
-   "last_px": 3.030746271781359e-08,
+   "last_px": 3.040294046401254e-08,
    "peak_px": 3.094744118830867e-08,
-   "last_val": 4.808648963889965,
-   "last_prog": 0.053
+   "last_val": 4.825734332908302,
+   "last_prog": 0.056
   },
   "ztJKeL2qbeGfgR9UK4PnFZ3Vskc1KJddvBDwyn5pump": {
    "sym": "WhatsUp",
@@ -59,10 +59,10 @@
    "entry_px": 9.545922819333203e-08,
    "entry_fill": 1.0173763395918068e-07,
    "opened": 1793220774.405963,
-   "last_px": 1.446213864845768e-07,
+   "last_px": 1.2345893515014392e-07,
    "peak_px": 1.446213864845768e-07,
-   "last_val": 3.646813109282516,
-   "last_prog": 0.758,
+   "last_val": 3.106982720791592,
+   "last_prog": 0.709,
    "tp1_done": true,
    "realized": 0.9018131092825157
   },
@@ -75,10 +75,10 @@
    "entry_px": 5.479875363571317e-08,
    "entry_fill": 5.842233201345132e-08,
    "opened": 1793220774.7312899,
-   "last_px": 5.514436819900457e-08,
+   "last_px": 5.174279434675876e-08,
    "peak_px": 5.514436819900457e-08,
-   "last_val": 4.838750232432607,
-   "last_prog": 0.39
+   "last_val": 4.5389743003234075,
+   "last_prog": 0.358
   },
   "HqyEiV3986vB6gukKfTyrxqJZFJoQwcRzoELMYMzpump": {
    "sym": "STRATUM",
@@ -89,10 +89,10 @@
    "entry_px": 4.992664583972385e-08,
    "entry_fill": 5.322818056637788e-08,
    "opened": 1793220827.4217856,
-   "last_px": 4.992664583972385e-08,
-   "peak_px": 4.992664583972385e-08,
-   "last_val": 4.842214546626731,
-   "last_prog": 0.34
+   "last_px": 6.233489428580769e-08,
+   "peak_px": 6.233489428580769e-08,
+   "last_val": 6.0596901365210005,
+   "last_prog": 0.447
   }
  },
  "traded": [
@@ -2623,82 +2623,86 @@
   [
    "2026-10-28T13:53:47",
    183.05
+  ],
+  [
+   "2026-10-28T13:54:46",
+   182.94
   ]
  ],
- "cycles": 681,
+ "cycles": 682,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.20211876299999,
- "watching": 401,
+ "sol_usd": 102.24,
+ "watching": 389,
  "near": [
-  [
-   "ELLE",
-   "3zi5x52ddt6KweNKs5B6nZpEWAq3gDPGFndMLLRCpump",
-   0.723,
-   9.9,
-   ""
-  ],
-  [
-   "ELLE",
-   "A1Tc3A9kwfrpFBZFATT2MZnYpktMqp2NkVwPetVPpump",
-   0.42,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "STRATUM",
-   "HqyEiV3986vB6gukKfTyrxqJZFJoQwcRzoELMYMzpump",
-   0.34,
-   3.9,
-   "bought"
-  ],
-  [
-   "Theo",
-   "7XJcUvac4vchaqYumHDGPYBRHhsMsQ5w7gsr3F2NgHJ8",
-   0.31,
-   8.2,
-   "serial_creator=12 launches/24h"
-  ],
-  [
-   "PEPTICON",
-   "4fomzWTj8CbNdvs6uwdo6BFekFtrkWC17YXz5XEApump",
-   0.28,
-   2.1,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "FRIDGE",
    "bm2f87Z6hi91MWvv6sG8af1MngunwRD7ZKvMzoBpump",
    0.245,
-   8.6,
+   9.6,
    "buyers=8"
-  ],
-  [
-   "IMU",
-   "4Pruy2T7ysLVXu5FfpEwoCC6nBhCxDo8rHqWzaZZpump",
-   0.159,
-   7.0,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PURR",
    "FLZegcHUqWwMAbSdJi5F3WVeNe1pJDHfQzEKnk6Fpump",
    0.103,
-   5.3,
+   6.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "TrapHouse",
-   "H6Vs61Sug47So9sZNMzYDAtr6Ue4F2PhKrUerDfMpump",
-   0.099,
-   2.6,
-   "buyers=6; top5_hold_most=98%; bundled_launch=5 extra buys in creation block"
+   "MAYBE",
+   "4xb42miXwQ3Nuvts95KB4tnJ55LAVxDggf69NySapump",
+   0.084,
+   2.3,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "KMS",
-   "H1H94gatfonz1Wf3dSZwFsfYJt9aygmA6MtR2pfypump",
-   0.096,
-   2.3,
+   "AI",
+   "BckCA8tuwLqDSn3CWTjcUhwj5jk5iadAvSjgwwYipump",
+   0.076,
+   3.6,
    ""
+  ],
+  [
+   "FORG",
+   "BqL2u9EeKQ1ZiGB7Bvc9yo7EMCZEhhUTh3udfH6Mbvop",
+   0.074,
+   9.4,
+   ""
+  ],
+  [
+   "CondomMan",
+   "6ki5YFpqEt9Tv3yBzLMoL8VZ1eSVNqzt3aNjas5Fpump",
+   0.071,
+   2.7,
+   ""
+  ],
+  [
+   "Stockpile",
+   "BVqDbcJ3tK6WdCWLoirFHxt6CGPpe4bYfz5E7fTMpump",
+   0.071,
+   6.7,
+   ""
+  ],
+  [
+   "Stockpile",
+   "DKK2F7TnFajyRKKx7YUfK5n5Tp6ubjjDPdPPah4spump",
+   0.064,
+   2.5,
+   ""
+  ],
+  [
+   "VEYO",
+   "3VAXbFqgkjfHYJwtjLD1jH8cCgK8YzWuMMEcqMgupump",
+   0.062,
+   2.6,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "VILLA",
+   "AfqisRDcitCstxMo4GGUKgBHt9uY43B98b9pri8apump",
+   0.061,
+   5.6,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
