@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 372.67462569246925,
+ "cash": 395.87990602561877,
  "positions": {
   "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump": {
    "sym": "OTC",
@@ -9,7 +9,7 @@
    "mark_entry": 0.009879,
    "cost": 24.9,
    "peak": 0.009994,
-   "last": 0.009739,
+   "last": 0.009734,
    "opened": 1793177235.0487025,
    "p_buy": 0.56
   },
@@ -23,17 +23,6 @@
    "last": 0.0319,
    "opened": 1793177990.945919,
    "p_buy": 0.56
-  },
-  "9uGqEsc5Sh9GBjvLr7jUf7PyY9tDZhiV7kCdyM7Wpump": {
-   "sym": "N64",
-   "qty": 283307.69900461414,
-   "entry": 8.270160000000001e-05,
-   "mark_entry": 8.108e-05,
-   "cost": 23.43,
-   "peak": 9.331e-05,
-   "last": 8.436e-05,
-   "opened": 1793181427.4606538,
-   "p_buy": 0.57
   },
   "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump": {
    "sym": "fone",
@@ -635,8 +624,12 @@
   [
    "2026-10-28T04:16:06",
    465.32
+  ],
+  [
+   "2026-10-28T04:17:11",
+   465.09
   ]
  ],
- "cycles": 151,
+ "cycles": 152,
  "started": "2026-10-28T01:46:56"
 }
