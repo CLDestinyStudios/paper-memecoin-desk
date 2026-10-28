@@ -1,20 +1,11 @@
 {
  "bank_start": 500.0,
- "cash": 421.10817705409124,
- "positions": {
-  "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
-   "sym": "CBUCKS",
-   "qty": 18521.304514985874,
-   "entry": 0.00119646,
-   "mark_entry": 0.001173,
-   "cost": 22.16,
-   "peak": 0.001196,
-   "last": 0.001124,
-   "opened": 1793211164.2861605,
-   "p_buy": 0.64
-  }
+ "cash": 441.27380298391756,
+ "positions": {},
+ "watch": {
+  "2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump": 1793212601.7066433,
+  "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz": 1793212602.1065197
  },
- "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -1488,8 +1479,12 @@
   [
    "2026-10-28T11:35:42",
    441.51
+  ],
+  [
+   "2026-10-28T11:36:42",
+   441.27
   ]
  ],
- "cycles": 563,
+ "cycles": 564,
  "started": "2026-10-28T01:46:56"
 }
