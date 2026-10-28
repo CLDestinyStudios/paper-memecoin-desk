@@ -13,10 +13,10 @@
    "entry_px": 5.874539408978363e-08,
    "entry_fill": 6.240353922372167e-08,
    "opened": 1793190367.4686122,
-   "last_px": 5.874539408978363e-08,
-   "peak_px": 5.874539408978363e-08,
-   "last_val": 10.080384672972965,
-   "last_prog": 0.42
+   "last_px": 7.118318721152824e-08,
+   "peak_px": 7.118318721152824e-08,
+   "last_val": 12.227628848995677,
+   "last_prog": 0.505
   }
  },
  "traded": [
@@ -648,81 +648,85 @@
   [
    "2026-10-28T05:26:07",
    378.03
+  ],
+  [
+   "2026-10-28T05:27:06",
+   380.18
   ]
  ],
- "cycles": 201,
+ "cycles": 202,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.88677440699999,
- "watching": 232,
+ "sol_usd": 101.93,
+ "watching": 241,
  "near": [
-  [
-   "OPENPUMP",
-   "AEGui9gheWyUSdPidr7YBQmZ78FZM2ZYyDLBXAkNpump",
-   0.42,
-   2.2,
-   "bought"
-  ],
   [
    "BOARDO",
    "B5y2RR2PRiCSioeFzUsGzMPXud3qjQq5gye72DBhpump",
    0.267,
-   4.5,
+   5.5,
    "top5_hold_most=83%"
-  ],
-  [
-   "VALENCE",
-   "V9gD2xoapXiRD5qmA3miu1w9e8A6uCxpSSRCB8b41Fn",
-   0.204,
-   3.4,
-   "top5_hold_most=82%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "PQC",
    "H9VQ2GmoJTU8TAh4JKteQqhUAtUNJ7fqQrMK5agzDzk5",
-   0.133,
-   3.1,
+   0.105,
+   4.0,
    ""
+  ],
+  [
+   "DOGY",
+   "Fg24V9ENC6zH8hdoebeJ11EKYatkR1jDVeaUygxHpump",
+   0.102,
+   2.9,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "KIMPUMFUN",
    "3YsjasZqyQ5RGtXDcyf4aZ7jp1kRSZMttxhWLWFjpump",
    0.101,
-   5.9,
+   6.9,
    "top5_hold_most=99%"
-  ],
-  [
-   "SAYINGPUMP",
-   "6PmbaLzkV6svE53BJ3Tb8PSMeh7thzCimEY9aFzWpump",
-   0.088,
-   2.5,
-   "buyers=7; top5_hold_most=98%"
   ],
   [
    "3",
    "2hNAVqHF5mciePSv4PSecxhWkpcaNmXuvPzLUjM8pump",
    0.08,
-   2.1,
+   3.1,
    ""
   ],
   [
-   "ROLO",
-   "HFni8JvqsSAg9XER4MjNGbYezxqUQ1vL7Lq8qBsupump",
-   0.072,
-   4.3,
-   ""
+   "SAYINGPUMP",
+   "6PmbaLzkV6svE53BJ3Tb8PSMeh7thzCimEY9aFzWpump",
+   0.07,
+   3.5,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "TAIMO",
    "CA9vyyMprRfFqvk1pJ5Uk43j7FkpqbfQsgoTbr3gpump",
    0.044,
-   3.2,
+   4.2,
    ""
   ],
   [
    "PQC",
    "E7HE7j321nCdF1Y3Fqodpzy3x93it4Ss3jhQ9XoMCikz",
    0.033,
-   2.7,
+   3.7,
+   ""
+  ],
+  [
+   "$PUMP'N",
+   "61A1BrVBjLkFBqphwt11wRd9HDRCKZeMPzgH5Yjppump",
+   0.027,
+   3.0,
+   ""
+  ],
+  [
+   "something",
+   "BR6sQDQ2XZd4F98uQnMucTF33k1twVkN9cmxCAqUpump",
+   0.022,
+   6.8,
    ""
   ]
  ]
