@@ -3057,81 +3057,85 @@
   [
    "2026-10-28T16:09:50",
    144.64
+  ],
+  [
+   "2026-10-28T16:10:50",
+   144.64
   ]
  ],
- "cycles": 817,
+ "cycles": 818,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.37927796899999,
- "watching": 347,
+ "sol_usd": 102.395633532,
+ "watching": 338,
  "near": [
   [
    "pad",
    "82EZ2NLXqensSKwT3n8UNVbR6HnRZq4E8RHxWgKepump",
-   0.75,
-   2.0,
+   0.865,
+   3.0,
    ""
   ],
   [
    "MTS",
    "C7LHEjm3vriXkS6zjXUcq3Cvb6EtsdHkgk1TnTc3fcWk",
-   0.193,
-   6.7,
+   0.116,
+   7.7,
    ""
   ],
   [
    "Baltazar",
    "5Qf6WDkDGvFkPAz46jRXSJDYvfT9VnnNSTJgdUuXpump",
    0.113,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "RADAR",
-   "58kRT4YQc5WM8pG7hUXQh3BPFztb6gwxQeet8cyQpump",
-   0.105,
-   3.8,
-   "top5_hold_most=81%"
+   "tradition",
+   "6rCXRZbTepKqBaAtygEDCpwiEvajPrDpakeXbVZYpump",
+   0.098,
+   2.4,
+   ""
   ],
   [
    "INCOWGNITO",
    "CfKvqLiMqoVVf1grgux5ok8BnJCwMge1Ets5fwyVpump",
    0.096,
-   7.8,
+   8.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "CQMAGO",
    "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump",
    0.095,
-   5.2,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "ECHO",
-   "ACu7QGzwSVpSJCWxufyDf6HbfDfc6bnTBcDAYd9Spump",
-   0.084,
-   5.0,
+   "PAD",
+   "6eCvDeuhtKjWvtX1KdYCYfakhttQjsXyfRfNPmZrczdV",
+   0.09,
+   2.1,
    ""
+  ],
+  [
+   "RADAR",
+   "58kRT4YQc5WM8pG7hUXQh3BPFztb6gwxQeet8cyQpump",
+   0.081,
+   4.8,
+   "top5_hold_most=92%"
   ],
   [
    "RETROPC",
    "CWFNdy9SRXWUAN67BgYgGQSwMACNEirjpRh6Rcun2ncM",
    0.062,
-   3.4,
+   4.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "CI",
-   "DnCoKdcDT3pFw3SzTAg2UbQ41Hz6W1EtzrKeRoxopump",
-   0.042,
-   8.7,
-   ""
-  ],
-  [
-   "Versuspad",
-   "FP9Bb5V4a2Gx9YbSGTsDLdU2rnnCCBgcLm4Ajzpcpump",
-   0.026,
-   4.8,
+   "pad",
+   "EaEDnvk8PfN9j3Ezp6UieoDQb2EmWif7cTzkeoZLpump",
+   0.053,
+   2.5,
    ""
   ]
  ]
