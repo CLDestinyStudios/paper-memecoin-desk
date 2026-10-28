@@ -1686,84 +1686,84 @@
    272.36
   ],
   [
-   "2026-10-28T10:23:10",
+   "2026-10-28T10:24:11",
    272.36
   ]
  ],
- "cycles": 470,
+ "cycles": 471,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.94873575107415,
- "watching": 302,
+ "sol_usd": 100.93351908150001,
+ "watching": 290,
  "near": [
+  [
+   "KURUKUMA",
+   "DqWXFhkEpHjhBML5SCkrFvfAvfyKCJK23FHTqnpUpump",
+   1.0,
+   2.8,
+   "graduated"
+  ],
   [
    "N3838",
    "GDanxd8eXnrXgi78hKW2m1efqCirh6Qj5jtQHVWgpump",
-   0.598,
-   6.6,
-   ""
+   0.589,
+   7.6,
+   "serial_creator=10 launches/24h"
   ],
   [
    "FARM",
    "FGGH7AXvghCegiCqpgFMWVz7DNnQ4UrMVWag4CCjpump",
    0.367,
-   5.9,
-   "creator=20.6%; top5_hold_most=97%; launch_slot=missing"
+   6.9,
+   "creator=20.6%; top5_hold_most=96%; launch_slot=missing"
+  ],
+  [
+   "PINGU",
+   "3MLX8UbjkTagzV7YuXEcvXShxx4WbQNWacnhGXv6pump",
+   0.345,
+   3.5,
+   "top5_hold_most=88%; launch_slot=missing"
   ],
   [
    "PINGU",
    "BWzMayEAPTaXKUgxCQcoV4dzdEZ2hpWXvGANX3kbpump",
    0.253,
-   3.7,
+   4.8,
    ""
   ],
   [
-   "AEP",
-   "CcfmAXekH8xN5hfMArbh6W1fagfgZj3FF5DRab8Vpump",
-   0.195,
-   2.6,
-   "top5_hold_most=82%; launch_slot=missing"
+   "Doomscrollin",
+   "12HyQayR6Z12AAnTC3q5od2Mkmi5X3ZLwxnh8Utnpump",
+   0.207,
+   3.3,
+   "buyers=8; launch_slot=missing"
   ],
   [
    "LETTUCE",
    "27HQRcioKwck9nNrvCc5brgQC78sYsFvYWgrQhe7pump",
    0.191,
-   3.4,
+   4.4,
    "buyers=1; creator=15.2%; top5_hold_most=100%; launch_slot=missing"
   ],
   [
-   "AINT",
-   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
-   0.123,
-   7.2,
-   ""
-  ],
-  [
-   "BBR",
-   "DYNivefzD5te2ztKD6nuRUoq8ARFSej5w9gRbBB5pump",
-   0.113,
-   9.1,
-   ""
+   "BABYCOW",
+   "3XqJf3ZWkHKRw1E9ErMWMswpxw12ZkMWEso8hkm4pump",
+   0.161,
+   6.2,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "DATACENTER",
    "5Fj6JLTVhBj1QscnmgSzFuKj3MLJJEsJj6opKxeSpump",
    0.113,
+   4.1,
+   ""
+  ],
+  [
+   "KURUKUMA",
+   "E27UgheWxnXxXBrHNZvrwJR8f4cpF3BfWCWXJnQHpump",
+   0.101,
    3.1,
-   ""
-  ],
-  [
-   "BABYCOW",
-   "3XqJf3ZWkHKRw1E9ErMWMswpxw12ZkMWEso8hkm4pump",
-   0.112,
-   5.2,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "yanito932",
-   "6bSmNUAqE3x5XFk5H5b9MvbcEvVdtHNm8bvZhzo4pump",
-   0.095,
-   4.2,
-   ""
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
