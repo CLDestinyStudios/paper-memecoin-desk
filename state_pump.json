@@ -13,10 +13,10 @@
    "entry_px": 6.714273512952015e-08,
    "entry_fill": 7.144257035732585e-08,
    "opened": 1793213093.929925,
-   "last_px": 6.024867682530996e-08,
+   "last_px": 5.982484689585343e-08,
    "peak_px": 7.708717062275202e-08,
-   "last_val": 5.6273291175412385,
-   "last_prog": 0.431
+   "last_val": 5.591016956900989,
+   "last_prog": 0.428
   }
  },
  "traded": [
@@ -2096,81 +2096,85 @@
   [
    "2026-10-28T12:08:43",
    219.43
+  ],
+  [
+   "2026-10-28T12:09:59",
+   219.39
   ]
  ],
- "cycles": 576,
+ "cycles": 577,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.11407967900001,
- "watching": 195,
+ "sol_usd": 102.18,
+ "watching": 202,
  "near": [
   [
-   "Refrigerator",
-   "D3XYLErK4f8xszFDwuCZy4PzYxz64iHkEZ24bYiHpump",
-   0.882,
-   2.3,
+   "GAMBLERS",
+   "Ar9Fb4rSKJbpN46mYswwGyRtSRz5KEzXKA3V2qE4pump",
+   0.928,
+   2.8,
    ""
   ],
   [
    "pear",
    "4iqu3Z5D4LVYRYzFefEDUEXiAgxZYFevD9KZUhQ5pump",
-   0.699,
-   7.4,
+   0.7,
+   8.6,
    "creator=15.3%"
   ],
   [
-   "Keith",
-   "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
-   0.509,
-   4.0,
-   ""
+   "Refrigerator",
+   "D3XYLErK4f8xszFDwuCZy4PzYxz64iHkEZ24bYiHpump",
+   0.639,
+   3.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "JOBWIZ",
-   "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
-   0.255,
-   5.8,
-   "buyers=5; top5_hold_most=100%"
+   "PINO",
+   "7WfrNCLoL5Fomsz239UTMujx4qPVUENfrfEbu3MDpump",
+   0.547,
+   2.6,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "ORION",
    "8BSCQubsUbJVpRjb3RcRf79mueHaa56RU6Zx6TJvpump",
    0.253,
-   5.9,
+   7.1,
    ""
+  ],
+  [
+   "JOBWIZ",
+   "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
+   0.241,
+   7.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Keith",
+   "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
+   0.218,
+   5.2,
+   ""
+  ],
+  [
+   "Refrigerator",
+   "EWhLzQgd1RWgkUBV9oXVM8gSCkbHtGjmHZD1D1Tepump",
+   0.134,
+   2.4,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Peterson2028",
    "4rsNzgZCtisiodF3QAnEAUbdSUExVGg5CpwZN9Shpump",
-   0.103,
-   2.3,
+   0.096,
+   3.6,
    ""
   ],
   [
    "Dill",
    "F7MS3CMCFLNqQgnpXzh81H413vtft1sFbseoAPWZpump",
    0.095,
-   2.3,
-   ""
-  ],
-  [
-   "GAMBLERS",
-   "HFMP4Ln9e34VMCuMAzdid3GnQRCdDPXQqhMuP31Gpump",
-   0.073,
-   2.7,
-   ""
-  ],
-  [
-   "CIG",
-   "DrixzvkfEzEdoYwp9kz1DZwC78B9UourVBLGy3uJpump",
-   0.046,
-   7.7,
-   ""
-  ],
-  [
-   "SEAT61",
-   "GPxZw1wxeEC6Qkc5efi2xq5k75BkGct7PMpoGCNZpump",
-   0.043,
-   6.3,
+   3.6,
    ""
   ]
  ]
