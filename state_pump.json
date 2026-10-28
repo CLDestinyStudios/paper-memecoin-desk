@@ -269,83 +269,83 @@
    419.93
   ],
   [
-   "2026-10-28T03:47:06",
+   "2026-10-28T03:48:06",
    419.93
   ]
  ],
- "cycles": 102,
+ "cycles": 103,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.928409829,
- "watching": 388,
+ "sol_usd": 102.94399206955809,
+ "watching": 378,
  "near": [
+  [
+   "SURVIVAL",
+   "6McP2ZVwSy4tjxvmMSESoxTPrRqGhGJ2qeAQYs29pump",
+   0.617,
+   2.3,
+   "bundled_launch=9 extra buys in creation block"
+  ],
   [
    "EGC",
    "29z4PRKNRQkhQCghqCEJCcsyV5hjj1Xqdg6s1Doypump",
    0.154,
-   8.6,
+   9.6,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Gangdori",
    "EopMLksz678xQvMtx8ZsenJuH4cD1h3kWUypNs6ZbPxt",
-   0.114,
-   4.0,
+   0.105,
+   5.0,
    "buyers=6; top5_hold_most=99%"
   ],
   [
    "SAMBA",
    "GxqpMUdXnnSCeaVeZJmLKQ23Dvf1uWKE2bn4CP4MQHbE",
    0.08,
-   2.6,
+   3.6,
    ""
-  ],
-  [
-   "HP",
-   "6CbPy9Sd7fRYfrka2euAgC7oriqQntaD8LimjK64pump",
-   0.078,
-   2.5,
-   "top5_hold_most=86%"
   ],
   [
    "ChaCha",
    "35YBBvaFbJUkFqj2pPEXpsBWSimStnwa5iYH3rKRpump",
    0.064,
-   2.5,
+   3.5,
    ""
   ],
   [
    "BRAA",
    "4CSe6a5eEJnCEDAVstWyzER9ygGgVaLSgerh5QiJpump",
    0.052,
-   7.3,
+   8.3,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HP",
+   "6CbPy9Sd7fRYfrka2euAgC7oriqQntaD8LimjK64pump",
+   0.049,
+   3.5,
+   "top5_hold_most=86%"
   ],
   [
    "Shibana",
    "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
    0.043,
-   4.4,
+   5.4,
+   ""
+  ],
+  [
+   "NEVADA",
+   "xJGK4GfKyPSPWMypZWduEtzR9wQay9nXy9tKdUupump",
+   0.034,
+   3.2,
    ""
   ],
   [
    "pumper",
    "6FgyzbDSxkbbRqAcrmcPVrr4F5utnndnFJSdVHRQpump",
    0.028,
-   3.4,
-   ""
-  ],
-  [
-   "NEVADA",
-   "xJGK4GfKyPSPWMypZWduEtzR9wQay9nXy9tKdUupump",
-   0.025,
-   2.2,
-   ""
-  ],
-  [
-   "Ween",
-   "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
-   0.021,
-   4.8,
+   4.4,
    ""
   ]
  ]
