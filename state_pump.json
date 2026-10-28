@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 158.61888695873725,
+ "cash": 153.70888695873725,
  "positions": {
   "8kexGxYgLYwYj21dw9FGKafmh3pcs23hbhKHdiKkpump": {
    "sym": "Babysitter",
@@ -15,8 +15,22 @@
    "opened": 1793224430.7353768,
    "last_px": 6.171895038580584e-08,
    "peak_px": 6.63400960571386e-08,
-   "last_val": 5.152016091232138,
+   "last_val": 5.140407739553349,
    "last_prog": 0.442
+  },
+  "8B9tnKzY25Fu1rmBiUV9EBjAZS5uj4YieqkbA1hJ16jB": {
+   "sym": "DPLOYR",
+   "bc": "EBUfr3xaH8wpzfRwx9JfuNQvjok8zmRuQGnXSveChYov",
+   "tokens": 604656.6349887084,
+   "cost": 4.91,
+   "cost0": 4.91,
+   "entry_px": 7.439589949627425e-08,
+   "entry_fill": 7.937881849229444e-08,
+   "opened": 1793224970.567549,
+   "last_px": 7.439589949627425e-08,
+   "peak_px": 7.439589949627425e-08,
+   "last_val": 4.307331986003704,
+   "last_prog": 0.524
   }
  },
  "traded": [
@@ -204,7 +218,8 @@
   "CDShUF9GE4rEDDg6cjUJhbc9CG4XsSJUnEXMvKa7pump",
   "APmXjP1SJmCZBGo2HEW1vHyEmvuPPMkcksjJEYuWpump",
   "8kexGxYgLYwYj21dw9FGKafmh3pcs23hbhKHdiKkpump",
-  "BoetLuTnnnJQypBGbV8MMJa3MfLSkmG9Kb5CE8LGpump"
+  "BoetLuTnnnJQypBGbV8MMJa3MfLSkmG9Kb5CE8LGpump",
+  "8B9tnKzY25Fu1rmBiUV9EBjAZS5uj4YieqkbA1hJ16jB"
  ],
  "equity": [
   [
@@ -2794,82 +2809,86 @@
   [
    "2026-10-28T15:01:56",
    163.77
+  ],
+  [
+   "2026-10-28T15:02:50",
+   163.16
   ]
  ],
- "cycles": 749,
+ "cycles": 750,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.529226477,
- "watching": 336,
+ "sol_usd": 102.2982110265,
+ "watching": 333,
  "near": [
-  [
-   "Muskism",
-   "2K6ng8ioGMyaX2VbUB4wRHXzeqaAf2EHpSPAEButpump",
-   1.0,
-   4.8,
-   "graduated"
-  ],
-  [
-   "COGECOIN",
-   "8VjbYV9WcE5vYeqJR7bJn3CAEX8o5jsPSJQcDDiDpump",
-   0.626,
-   3.6,
-   "serial_creator=12 launches/24h"
-  ],
   [
    "DPLOYR",
    "8B9tnKzY25Fu1rmBiUV9EBjAZS5uj4YieqkbA1hJ16jB",
-   0.563,
-   3.9,
-   ""
+   0.524,
+   4.8,
+   "bought"
   ],
   [
    "COGE",
    "5nbtmYQqKag9GZoto9dvq23C1y9iFQMduaepUE2Ypump",
-   0.527,
-   2.3,
+   0.497,
+   3.2,
    ""
   ],
   [
-   "COGECOIN",
-   "8RN41S2YQuAZUvb23g83WMdmRKBYkRC1DY1NEDAnpump",
-   0.375,
-   3.1,
-   "bundled_launch=3 extra buys in creation block"
+   "LIST",
+   "6Bwjwb3fQQsqpzf164Nwj8ZKwVpnqxABQRH4Zu6Xpump",
+   0.297,
+   2.3,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "COGE",
    "F81XeAzSGk1LLTu1hY2SyNW33DxRzvLxFdypCDF1qrhX",
    0.113,
-   2.5,
+   3.4,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "Casper",
    "9niHaRUFvLrLYTGBaEDWcafZFvSJFY6gwW4YZwxCpump",
    0.085,
-   4.4,
+   5.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "COGECOIN",
    "A3hLaRWKYmfk1yg6R6S44sMeQQSTzz4VXcz9M3kMuqbB",
    0.08,
-   3.3,
+   4.2,
    ""
   ],
   [
    "shat",
    "GwqDQeGr9C1YZUV9SYJpxX5aHXWK53rM5WXM6hQMpump",
    0.08,
-   3.8,
+   4.7,
    ""
   ],
   [
-   "ARKL",
-   "FJtztSCUcX3NRU9yBcJYBah9JGirSHvBFjTcrUcYpump",
-   0.072,
-   2.7,
-   "buyers=1; top5_hold_most=100%; launch_slot=missing"
+   "SUNPEPE",
+   "3MyN8f46RysJQVUjoBnf3nyFA3V1wsZZUVxK3EzrXi5s",
+   0.066,
+   3.2,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "pronouns",
+   "DN9C7wwDJxnQmyhQkw2TQiyAwBAQrV835P3Fd5STpump",
+   0.055,
+   5.3,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "MEME69",
+   "4RNBaLFL7ARHmbkBUAAL4ECYJKD9agww7N9Af5T8N1ym",
+   0.054,
+   10.0,
+   ""
   ]
  ]
 }
