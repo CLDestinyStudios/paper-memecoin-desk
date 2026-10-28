@@ -13,10 +13,10 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.2789776954448656e-08,
-   "peak_px": 5.2789776954448656e-08,
-   "last_val": 3.5718725769097763,
-   "last_prog": 0.368
+   "last_px": 5.34246719065588e-08,
+   "peak_px": 5.34246719065588e-08,
+   "last_val": 3.6168036292311756,
+   "last_prog": 0.374
   }
  },
  "traded": [
@@ -3122,82 +3122,86 @@
   [
    "2026-10-28T16:27:50",
    135.71
+  ],
+  [
+   "2026-10-28T16:28:50",
+   135.76
   ]
  ],
- "cycles": 835,
+ "cycles": 836,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.29102745000002,
- "watching": 334,
+ "sol_usd": 102.32999999999998,
+ "watching": 307,
  "near": [
   [
    "Doomscroll",
    "4pWj7nrKxc9DbgtJGjDfB8bUGmtWSGvjxRaEThJgpump",
-   0.988,
-   5.9,
-   ""
-  ],
-  [
-   "Major",
-   "8Xyu5zmYJH7jFEvaKB6hRYjam9B18qLjU8TnbqMPpump",
-   0.962,
+   1.0,
    6.9,
-   ""
+   "graduated"
   ],
   [
    "Retail",
    "AxXsTxjCV7NCAJDiWGMhHWV8YsQnme7Q9fsf4f6Zpump",
-   0.762,
-   2.1,
-   ""
-  ],
-  [
-   "Percy",
-   "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump",
-   0.368,
-   9.5,
-   "bought"
+   0.719,
+   3.1,
+   "rugcheck=creator history of rugs"
   ],
   [
    "XTX",
    "FV1JyDbs4LYBh2cYjDWHWFy5nnG4YoJYLh88xPkApump",
-   0.265,
-   3.0,
-   "top5_hold_most=85%"
+   0.264,
+   4.0,
+   "top5_hold_most=86%"
+  ],
+  [
+   "brafather",
+   "B3m3twGPZtZ3U1cp8GajqQokUAxmSNZyboSuwn4ypump",
+   0.235,
+   2.9,
+   "serial_creator=7 launches/24h"
+  ],
+  [
+   "AyeAye",
+   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
+   0.163,
+   4.9,
+   "top5_hold_most=88%"
   ],
   [
    "AIR",
    "GSwSyofrxw9aLnsZsAFbcF5x3DTxWjVMDVYxvr9DMQBh",
    0.133,
-   4.0,
+   5.0,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "AyeAye",
-   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
-   0.126,
-   3.9,
-   "buyers=7; top5_hold_most=99%"
   ],
   [
    "4",
    "AmZDT6nASM36EkBTJ1DNXeBUKmJ6rdK3sGjpZGtSpump",
    0.121,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "puter",
-   "ASwsv67TYsDkkBEQDVbjJstJeuBZPCHaGAwzx81gVWNn",
-   0.112,
-   4.5,
-   ""
+   "YEWWW",
+   "4EJdyHJSeVgwAPNFhX9ZW1FU9BHMRbc88hUrfJYjpump",
+   0.103,
+   2.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "LOCAL",
    "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump",
    0.099,
-   3.0,
+   4.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "NASDAQISTAN",
+   "2czLQBpJRF3Vf5KavZJWV3D2zXP594Q9KUrf5HF8pump",
+   0.09,
+   3.2,
+   ""
   ]
  ]
 }
