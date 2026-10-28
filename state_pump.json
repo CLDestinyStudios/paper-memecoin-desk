@@ -13,9 +13,9 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.409842897040568e-08,
+   "last_px": 5.4040238318555283e-08,
    "peak_px": 5.409842897040568e-08,
-   "last_val": 3.6586389859618986,
+   "last_val": 3.6585222677630482,
    "last_prog": 0.38
   }
  },
@@ -3134,81 +3134,85 @@
   [
    "2026-10-28T16:30:50",
    135.8
+  ],
+  [
+   "2026-10-28T16:31:50",
+   135.8
   ]
  ],
- "cycles": 838,
+ "cycles": 839,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.20704387100001,
- "watching": 287,
+ "sol_usd": 102.31532420549999,
+ "watching": 283,
  "near": [
   [
-   "AyeAye",
-   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
-   0.285,
-   6.9,
-   "top5_hold_most=86%"
+   "\u3164\u3164\u3164\u3164",
+   "EmwuDiRagt1TydqnPS35kNmvaTWTk2D9X2Tm4Znupump",
+   0.861,
+   2.7,
+   ""
   ],
   [
    "XTX",
    "FV1JyDbs4LYBh2cYjDWHWFy5nnG4YoJYLh88xPkApump",
    0.264,
-   6.0,
+   7.0,
+   "top5_hold_most=86%"
+  ],
+  [
+   "AyeAye",
+   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
+   0.206,
+   7.9,
    "top5_hold_most=86%"
   ],
   [
    "AIR",
    "GSwSyofrxw9aLnsZsAFbcF5x3DTxWjVMDVYxvr9DMQBh",
    0.133,
-   7.0,
+   8.0,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "HODL",
    "HKscrzRP8jmNHJV892RuMjaG1bffHTZCkSYjAKHZpump",
    0.121,
-   4.8,
-   ""
-  ],
-  [
-   "NASDAQISTAN",
-   "2czLQBpJRF3Vf5KavZJWV3D2zXP594Q9KUrf5HF8pump",
-   0.118,
-   5.2,
+   5.8,
    ""
   ],
   [
    "YEWWW",
    "4EJdyHJSeVgwAPNFhX9ZW1FU9BHMRbc88hUrfJYjpump",
    0.103,
-   4.8,
+   5.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "LOCAL",
    "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump",
-   0.097,
-   6.0,
-   "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "pumpcat",
-   "DKziuN7cCwLw23tWi3BRH6bKHvYhGEcq8Z748qCKpump",
-   0.072,
-   6.2,
-   ""
+   0.098,
+   7.0,
+   "buyers=7; top5_hold_most=89%"
   ],
   [
    "XOGE",
    "6oaMAdxUPJXTy57ZRm3P4YcXN8XFBymv4QEfRxVpump",
-   0.063,
-   2.0,
+   0.043,
+   3.0,
    ""
   ],
   [
-   "TOKRI",
-   "4iQyWCL3Um8zWHkHaUfgk2aXdDGc6LgSzZ611pW7G4tX",
-   0.063,
-   2.8,
+   "HOUSE",
+   "CfwDRtVi1YEVgRfhMxrnywpB7ctnCGkUp2WHpKFZpump",
+   0.043,
+   9.4,
+   ""
+  ],
+  [
+   "TGHOST",
+   "3a66kr94UeqwmsfaJ5XLTrfMJfoXeRdojmngTPLXYnwz",
+   0.034,
+   7.1,
    ""
   ]
  ]
