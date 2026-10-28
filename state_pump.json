@@ -19,83 +19,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:27:04",
+   "2026-10-28T02:28:07",
    500.0
   ]
  ],
- "cycles": 22,
+ "cycles": 23,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.5730761225,
- "watching": 136,
+ "sol_usd": 102.5779617145,
+ "watching": 134,
  "near": [
   [
    "Agent",
    "4d1TMB4W5DXxc4TATKcKnxp3q3v6uoB5x95VmCvhpump",
-   0.835,
-   7.9,
-   ""
-  ],
-  [
-   "KIT",
-   "HhDLhdM1CozLjr2yfsjDK7H58EewyCprWRkwbCxCgk7w",
-   0.679,
-   9.9,
+   0.753,
+   9.0,
    ""
   ],
   [
    "CrawlCat",
    "6TpzaXZTnhtQUFkB8evq67J1Yk1DbnrGjp32xJQSpump",
-   0.613,
-   6.1,
-   ""
+   0.598,
+   7.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "zfly",
-   "3nqRrtVaE6VR7W7pxfdehyVK2zUnzSWaoUazaGt3pump",
-   0.129,
-   2.2,
+   "Gator",
+   "CWZ2NL1ANrWAQFh6qdGDLcek1VGzgxfbrLqBXB9wpump",
+   0.222,
+   2.8,
    ""
   ],
   [
    "pepe",
    "9sdRvKRGmYrku3UWRkhQdGQCKkiSHYvdnLzf6vWqpump",
    0.092,
-   6.6,
+   7.6,
    ""
   ],
   [
-   "IP",
-   "9mgHz4Tu1CGnVBb9sar11CdKqDMcBbjzvkcTbvt5pump",
-   0.041,
-   9.7,
-   ""
-  ],
-  [
-   "Ghosti",
-   "6w3NSEvaxkjxcaRuNtXbULJkckKk8zHHUUX4HxYcpump",
-   0.037,
-   9.3,
+   "Hal",
+   "9r99sx9KFZNoBL3i74YJAURRWC3EnEni1KGDr31dpump",
+   0.075,
+   2.6,
    ""
   ],
   [
    "$WICKY",
    "EJ6TxoN3728HuMSYMZk8UoPRtL3oHo4ZaPHV92WEpump",
-   0.03,
-   3.5,
+   0.031,
+   4.6,
    ""
   ],
   [
    "Memecoin",
    "4dBD6sxxySecCeNrjvLZ6YeaHRAf9cZ52Dp9LbmGpump",
    0.028,
-   3.9,
+   5.0,
    ""
   ],
   [
    "LYBER",
    "EV58DSUp96tXroEKpaNeTriFV7C5QRUMsviEtCv8pump",
    0.022,
-   2.3,
+   3.4,
+   ""
+  ],
+  [
+   "BIN",
+   "FFhV7kZGPCQpCAJGXpR5Hwid4X9stUTb7kFWbfShpump",
+   0.02,
+   6.3,
+   ""
+  ],
+  [
+   "zfly",
+   "3nqRrtVaE6VR7W7pxfdehyVK2zUnzSWaoUazaGt3pump",
+   0.019,
+   3.2,
    ""
   ]
  ]
