@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 222.00707556334086,
+ "cash": 214.80707556334087,
  "positions": {
   "9HvC4St4A5EGQhAkyRHLcdBdnn9gEojNAwK1W3Efpump": {
    "sym": "OTON",
@@ -13,10 +13,10 @@
    "entry_px": 9.35015338692993e-08,
    "entry_fill": 9.946523453136939e-08,
    "opened": 1793212971.713459,
-   "last_px": 1.6774199800603126e-07,
+   "last_px": 1.6255952773296257e-07,
    "peak_px": 1.6774199800603126e-07,
-   "last_val": 5.648711214065231,
-   "last_prog": 0.801,
+   "last_val": 5.460282229048474,
+   "last_prog": 0.792,
    "tp1_done": true,
    "realized": 2.083711214065231
   },
@@ -29,10 +29,10 @@
    "entry_px": 6.714273512952015e-08,
    "entry_fill": 7.144257035732585e-08,
    "opened": 1793213093.929925,
-   "last_px": 5.995124179823167e-08,
+   "last_px": 6.178436530973298e-08,
    "peak_px": 6.714273512952015e-08,
-   "last_val": 5.600187695186869,
-   "last_prog": 0.429
+   "last_val": 5.759787380320053,
+   "last_prog": 0.443
   },
   "iAg3cwv6w3TcXuQkpPQdyBBB47kSMovjk7fy72tpump": {
    "sym": "AqAFB",
@@ -43,10 +43,24 @@
    "entry_px": 4.1466693554119995e-08,
    "entry_fill": 4.4140527306995e-08,
    "opened": 1793213096.205719,
-   "last_px": 4.1466693554119995e-08,
-   "peak_px": 4.1466693554119995e-08,
-   "last_val": 6.254849795296757,
-   "last_prog": 0.242
+   "last_px": 4.567748335731325e-08,
+   "peak_px": 4.567748335731325e-08,
+   "last_val": 6.87895630769595,
+   "last_prog": 0.294
+  },
+  "CuTPzdZLfme42zN8NdenDctDWroYmfx37XFWt2ZeGtnT": {
+   "sym": "BEEF",
+   "bc": "3Gcf6Zc737Gn1auXRZnp62yz7Nx5MzhDdstsUVmGkXnD",
+   "tokens": 1626721.7879192734,
+   "cost": 7.2,
+   "cost0": 7.2,
+   "entry_px": 4.0808055656057886e-08,
+   "entry_fill": 4.3436123993473154e-08,
+   "opened": 1793213214.4246778,
+   "last_px": 4.0808055656057886e-08,
+   "peak_px": 4.0808055656057886e-08,
+   "last_val": 6.34994942290857,
+   "last_prog": 0.233
   }
  },
  "traded": [
@@ -173,7 +187,8 @@
   "Gj3DzC7rnUG5gGj1u6icSac3zV5u5P2FfKEyLKCrpump",
   "9HvC4St4A5EGQhAkyRHLcdBdnn9gEojNAwK1W3Efpump",
   "4BeUbgUetPJxB9DhXTWnLw9p6Bda1fzRzDfqPQHUpump",
-  "iAg3cwv6w3TcXuQkpPQdyBBB47kSMovjk7fy72tpump"
+  "iAg3cwv6w3TcXuQkpPQdyBBB47kSMovjk7fy72tpump",
+  "CuTPzdZLfme42zN8NdenDctDWroYmfx37XFWt2ZeGtnT"
  ],
  "equity": [
   [
@@ -2027,81 +2042,85 @@
   [
    "2026-10-28T11:46:07",
    239.51
+  ],
+  [
+   "2026-10-28T11:46:54",
+   239.26
   ]
  ],
- "cycles": 553,
+ "cycles": 554,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.13,
- "watching": 268,
+ "sol_usd": 101.898583922,
+ "watching": 269,
  "near": [
-  [
-   "\uac15\ub3c4\ub9ac",
-   "G89Jn7yawTuQ8AZkahfvboSN1EWDuPfGnmsApixdpump",
-   0.744,
-   2.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "FASE",
-   "5PFr8LWg5FPzUXPs7g7fifTnZDhGEaXGHznb91vypump",
-   0.233,
-   10.2,
-   "launch_slot=missing"
-  ],
   [
    "BEEF",
    "CuTPzdZLfme42zN8NdenDctDWroYmfx37XFWt2ZeGtnT",
-   0.23,
-   7.7,
+   0.233,
+   8.5,
+   "bought"
+  ],
+  [
+   "Nova5",
+   "DSdkvWRDdQzCDYvQCbmwJKdrmPa2XsGoP79mwUqNpump",
+   0.229,
+   2.6,
    ""
   ],
   [
    "Omni cat",
    "BLXCTn5Yekh2uZiHp94kaVMoRfVQujPLHzeo7QLmpump",
-   0.14,
-   3.2,
-   "top5_hold_most=93%"
+   0.187,
+   3.9,
+   "serial_creator=11 launches/24h"
+  ],
+  [
+   "BOTI",
+   "DKnUmnBwUd9rYxrb9LJDMHXcTgWTzoKzMEL7E7Nupump",
+   0.162,
+   2.4,
+   "top5_hold_most=88%"
   ],
   [
    "MARS",
    "Et2XBCnZCjLjYsUfeAvH2TjXB6wcGBUY7VMWktmTH1gq",
    0.09,
-   3.0,
+   3.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "HOPE",
    "F4Rbj3fpvPdWx36mS8GwkE5m1yyP9e1FQwGDRAZxpump",
    0.084,
-   9.3,
+   10.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "REFUNDPAD",
-   "S14Bd63oKHQmPDFKmR9zDDDLyrr1kP9JuZB5F2Xpump",
-   0.056,
-   3.3,
-   "buyers=5; top5_hold_most=100%"
+   "\uac15\ub3c4\ub9ac",
+   "8usTnnGMHNDuf9yum3PYu78CHVoj7mdnuCLMMid9pump",
+   0.08,
+   2.6,
+   ""
+  ],
+  [
+   "\uac15\ub3c4\ub9ac",
+   "6CUwTpbaxhV7R4b8SU92J54LPPBwXyAsAi931fMypump",
+   0.067,
+   2.6,
+   ""
+  ],
+  [
+   "$SC",
+   "PuT6sYE5kkQCVBfKan6JtfVnPxuc6ukTCcyzwk4pump",
+   0.047,
+   6.1,
+   ""
   ],
   [
    "REBOUND",
    "27Hfe2yhSPNaT1y57smsz2kaJjDP2THR5nWu1EA7pump",
    0.043,
-   6.5,
-   ""
-  ],
-  [
-   "ASI",
-   "9bDwNZ3rJRH3Bc464T4ZKXXYkP5gBAWognuNY4fnpump",
-   0.042,
-   2.7,
-   ""
-  ],
-  [
-   "SIGOLI",
-   "DxFsJ68vvWknCv72sNCaVFk3ECLkxB3iqnGXMpnopump",
-   0.041,
-   5.4,
+   7.3,
    ""
   ]
  ]
