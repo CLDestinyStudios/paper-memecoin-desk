@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 357.86543586895243,
- "positions": {},
+ "cash": 347.1254358689524,
+ "positions": {
+  "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump": {
+   "sym": "CEVANTO",
+   "bc": "DeoRVSufx4Ti6EpdYt5wggmnwDEtXcpE2BDvmMATxdQe",
+   "tokens": 1632193.559805336,
+   "cost": 10.74,
+   "cost0": 10.74,
+   "entry_px": 6.156821493097416e-08,
+   "entry_fill": 6.54047801740643e-08,
+   "opened": 1793198476.0788846,
+   "last_px": 6.156821493097416e-08,
+   "peak_px": 6.156821493097416e-08,
+   "last_val": 9.512395559134005,
+   "last_prog": 0.441
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -67,7 +82,8 @@
   "BJa1h6yp3wKTc36y4iAdaSSGwRXEHTsvqECxVkhQpump",
   "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump",
   "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump",
-  "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump"
+  "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump",
+  "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump"
  ],
  "equity": [
   [
@@ -1181,81 +1197,85 @@
   [
    "2026-10-28T07:40:15",
    357.87
+  ],
+  [
+   "2026-10-28T07:41:16",
+   356.64
   ]
  ],
- "cycles": 335,
+ "cycles": 336,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.58,
- "watching": 209,
+ "sol_usd": 100.60582600800001,
+ "watching": 214,
  "near": [
   [
-   "Shoortcat",
-   "3RQwWDTWa6Fw9hBUCZ4mQEtNp9EHkQzSJm7kxJK2pump",
-   0.274,
-   2.8,
-   "rugcheck=creator history of rugs"
+   "CEVANTO",
+   "ALk2c9F1GkjjojQCjhb38LWVVBvJW9iKosSe71t9pump",
+   0.441,
+   2.5,
+   "bought"
+  ],
+  [
+   "VORNUQ",
+   "FN5NsUC16fz43FUp5Ty3b8M8uLPby2eYKzeKAWBTpump",
+   0.241,
+   2.7,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "PAPERGUY",
    "AN1toSEYtqhhnBMRwETc9yaBnPyx6XWpZoEiDa4xpump",
    0.198,
-   6.5,
+   7.5,
    "buyers=7; top5_hold_most=94%"
   ],
   [
-   "MEC",
-   "98wGcAgoP75GQSGApJjKMQ5hRGCjopNZmuTdRFc8pump",
-   0.15,
-   9.6,
-   "buyers=8; top5_hold_most=99%"
+   "POOCOIN",
+   "HtBKmimu39miTLDVwXc7t55qzNw6SiDcRcicNYUYuLZx",
+   0.161,
+   3.2,
+   ""
   ],
   [
-   "Ape&ZCat",
-   "HFKXRSc2Q5GURsWhsoSbHqzNbNc5uwqNb1S76Qtnpump",
-   0.11,
-   4.7,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "LOONGDOG",
-   "FBzodxhLGN8W3RVdyo6BwiGjuaC8MNvKJzaG1xkYpump",
-   0.056,
-   9.5,
-   "buyers=1; top5_hold_most=100%"
+   "POOCOIN",
+   "5h3UmHB4H32X2wVZexovMhre1quUwk8QWBdFYL93iMfy",
+   0.145,
+   2.3,
+   ""
   ],
   [
    "RACCOIN",
-   "bdLfADXXnJZeUpezQxqVeXFGyMbADfrB3eUX3fKPwbj",
-   0.046,
-   2.6,
+   "Cfm1w1iuwNSzGhAG2h3QmnXdjscKV2F8uMqfXaxXpump",
+   0.073,
+   3.1,
    ""
   ],
   [
    "EYEDOC",
    "4WLPTAqSZ38m1ECxQKuuE5PUkzEjcGbcWetBuraWsdNs",
    0.035,
-   2.6,
+   3.6,
    ""
   ],
   [
    "GRINCH",
    "C5zPZ2dQ5fJAqrvcyyBfRxYFnemgWGQTMNzHk993pump",
    0.034,
-   6.0,
+   7.0,
+   ""
+  ],
+  [
+   "MARCEL",
+   "BGpSuXKeF8xmbiw4nELZu3G4D4EujfoUi1fqykkreLkq",
+   0.034,
+   2.9,
    ""
   ],
   [
    "RACCOIN",
    "79HsTqvSCyjngxJQkEAZyjREh6xXrfXSR1CZWKr9XtCm",
    0.025,
-   4.7,
-   ""
-  ],
-  [
-   "Squeeze",
-   "FBoB5AN1rgaci3Vn2KMdHa4srdFQyeEgTDBLvRHMNTHK",
-   0.022,
-   3.6,
+   5.7,
    ""
   ]
  ]
