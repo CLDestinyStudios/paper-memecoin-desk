@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 356.944071248398,
- "positions": {
-  "5gj8SGq9o4DJSPmJ1PXsXEd1ePU2s1WcwFQSWk87pump": {
-   "sym": "OpenPump",
-   "bc": "FHjsk4ZAXoieKfhNJ5jeNSgE7pzyVFsUgn5dWF4MW2Bw",
-   "tokens": 1966385.4942531968,
-   "cost": 11.05,
-   "cost0": 11.05,
-   "entry_px": 5.238750807163636e-08,
-   "entry_fill": 5.5660137427856145e-08,
-   "opened": 1793195951.301979,
-   "last_px": 5.393511595257441e-08,
-   "peak_px": 5.393511595257441e-08,
-   "last_val": 10.066946208481491,
-   "last_prog": 0.379
-  }
- },
+ "cash": 364.3626981720001,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -1049,81 +1034,85 @@
   [
    "2026-10-28T07:02:13",
    367.01
+  ],
+  [
+   "2026-10-28T07:03:14",
+   364.36
   ]
  ],
- "cycles": 297,
+ "cycles": 298,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.884355567,
- "watching": 232,
+ "sol_usd": 101.03075160099999,
+ "watching": 220,
  "near": [
   [
    "Robotaxi",
    "8HfToph7SsjfZVuMhatshUMWz7oFJ8q4rTw8KFNLpump",
    0.535,
-   6.3,
+   7.3,
    "buyers=2; creator=36.8%; top5_hold_most=100%"
+  ],
+  [
+   "FBM",
+   "ddj4TAPkE9eyG5DSvjWVCkHagW1ix82KsfUnE8ipump",
+   0.48,
+   2.5,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Voices ",
    "7ykGV6fnooFdExBDfeesm5rFHHRewRC2ixwfx5L7pump",
-   0.183,
-   4.8,
-   "buyers=9; top5_hold_most=89%"
+   0.181,
+   5.8,
+   "buyers=8; top5_hold_most=90%"
   ],
   [
-   "PEPEween",
-   "GRhJfMxTvy91SCuboXJFFnZePyjcLTPYA6jCSTSupump",
-   0.11,
-   9.8,
+   "$TAPE",
+   "7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump",
+   0.16,
+   2.4,
+   ""
+  ],
+  [
+   "SICO",
+   "4AcCV64Zi7kbYhqaGDmBk59igEFjDQisatXFerXWpump",
+   0.096,
+   2.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "COPY",
    "8D8eyHAMzDU3gpLiB2SdcYQffXo9ZfQUtyJS7AYjpump",
-   0.096,
-   2.6,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "MbappeMAO",
-   "8j1zkTV4KrQFxyagKN8raVgomLa1RRUxPeyNP31Zpump",
-   0.078,
-   2.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Safe Ella",
-   "HHi9L7A767zmdbdbS9RixXfPzPXxEHddeAFuUxJfpump",
-   0.065,
-   9.9,
-   "buyers=2; top5_hold_most=100%"
+   0.092,
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CRUMB",
    "EnZviLqit5f6WEcHoFWApCHHhNVK99njf2VWTn2GcQt9",
    0.053,
-   2.5,
+   3.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "MEME",
    "5HTUvAiFJEgdyLLhD3kbpJaRaenATe9koYJYzgBxMnxa",
    0.043,
-   6.0,
+   7.0,
    ""
   ],
   [
-   "NANI",
-   "ComGFh3RaC6MFApV2XzV9TB6nrTLFrc9UnwZuq6Gpump",
-   0.032,
-   9.6,
-   "buyers=4; top5_hold_most=100%"
+   "MbappeMAO",
+   "8j1zkTV4KrQFxyagKN8raVgomLa1RRUxPeyNP31Zpump",
+   0.038,
+   3.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BLINDPONS",
-   "9bpSsBepsKGWqT2cPiwf1RmgWTxYyNkbyiAybuxJpump",
-   0.021,
-   5.0,
+   "EFP",
+   "7wcetSgy1v1bU1zS8CaSbPAAcEHU6EuVYeDdV9FPpump",
+   0.029,
+   2.8,
    ""
   ]
  ]
