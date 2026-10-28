@@ -2737,81 +2737,85 @@
   [
    "2026-10-28T14:44:51",
    165.47
+  ],
+  [
+   "2026-10-28T14:45:53",
+   165.47
   ]
  ],
- "cycles": 732,
+ "cycles": 733,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.31,
- "watching": 315,
+ "sol_usd": 102.373365174,
+ "watching": 323,
  "near": [
+  [
+   "MIA",
+   "Fiyxu2HEzy13Atyt6kUj7vnMSjgsswg3zdfNF8jTpump",
+   0.216,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
   [
    "SI",
    "GV2F3fCJdE4SmjaoTG1DFwGDTqSwYw6sNkZuvhYwpump",
-   0.241,
-   7.2,
-   ""
-  ],
-  [
-   "Frankie",
-   "J3ZqotkKKT1N4qBjmTuJjXwdiQDt5uDUNdstWk8gpump",
-   0.168,
-   2.1,
-   "buyers=6; top5_hold_most=96%; bundled_launch=4 extra buys in creation block"
+   0.159,
+   8.2,
+   "top5_hold_most=89%"
   ],
   [
    "FRANKOR",
    "AR5WsiFzfuUhNV3ZX6qifzTPdxvzh99gq2Shz8p4pump",
    0.119,
-   3.5,
+   4.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "BADGE",
-   "Es8KhNmC9HCM2cqEXxc3XmAT4fhTE8VeYUAL1pwdpump",
-   0.115,
-   2.1,
-   "buyers=9; top5_hold_most=89%"
-  ],
-  [
-   "TUCKER",
-   "FVGzGdKe59HgfgcDermdLYZQqc4yoT8K4BtzNEt2pump",
-   0.083,
-   9.5,
+   "Aligators",
+   "Hc1ZxEymWuApNCVHQnZNvV4x2mTu1rTkTjemWWD1pump",
+   0.103,
+   3.6,
    ""
   ],
   [
-   "AAAAAA4AAAAA",
-   "AZzpf8oAoTskHytr3pxCUCTpAJ3JXU78mThRpMMzHBS8",
-   0.082,
-   3.9,
-   ""
+   "slut",
+   "GHJWYR8CgRs1xi6MuQMFRmVGNZ3RjSnwRiAhTC6Rpump",
+   0.091,
+   2.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PC",
    "9zitpHyVwR3KJa7vMawC5ymbqKUNgdMB19rnjXkpump",
+   0.084,
+   4.1,
+   ""
+  ],
+  [
+   "BADGE",
+   "Es8KhNmC9HCM2cqEXxc3XmAT4fhTE8VeYUAL1pwdpump",
    0.08,
    3.1,
-   ""
-  ],
-  [
-   "Kiryusha",
-   "9TibjcWY9ChQ8cPQq658ub3xtARCbiWz33jQK7Xupump",
-   0.072,
-   2.1,
-   "buyers=1; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "SI",
-   "Gu9j2tJAYNCrcGFfcwWe8bpwQMm7EmUBZUwkT93xpump",
-   0.068,
-   7.4,
-   ""
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "A",
    "DgBUKfzYJo3J6Y8CFamWGQigPNcBuQP1ZTfrWd1Ypump",
    0.063,
-   3.8,
+   4.8,
+   ""
+  ],
+  [
+   "AAAAAA4AAAAA",
+   "AZzpf8oAoTskHytr3pxCUCTpAJ3JXU78mThRpMMzHBS8",
+   0.047,
+   5.0,
+   ""
+  ],
+  [
+   "COP",
+   "FgwbcK2JfSe6ieayW3sYQV2PfP8GHsEffbziddoGpump",
+   0.038,
+   6.4,
    ""
   ]
  ]
