@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 362.7397330907415,
+ "cash": 371.11307740841403,
  "positions": {
   "AEGui9gheWyUSdPidr7YBQmZ78FZM2ZYyDLBXAkNpump": {
    "sym": "OPENPUMP",
@@ -13,26 +13,12 @@
    "entry_px": 5.874539408978363e-08,
    "entry_fill": 6.240353922372167e-08,
    "opened": 1793190367.4686122,
-   "last_px": 1.23012879604795e-07,
+   "last_px": 5.3831562752808745e-08,
    "peak_px": 1.750526466497902e-07,
-   "last_val": 10.519446025824637,
-   "last_prog": 0.708,
+   "last_val": 4.577605764027932,
+   "last_prog": 0.378,
    "tp1_done": true,
    "realized": 2.1764581682455733
-  },
-  "7TuF2oL447mTgb7LttFghkimV1kJDj8SZZys5xRnpump": {
-   "sym": "BZERPHA ",
-   "bc": "8jqxAo3v7dA6ybok384jLyYPEMo5VisKJCaGshjhZyU4",
-   "tokens": 2965551.4988587187,
-   "cost": 11.54,
-   "cost0": 11.54,
-   "entry_px": 3.609462354137939e-08,
-   "entry_fill": 3.836805467854296e-08,
-   "opened": 1793192409.9350543,
-   "last_px": 3.3032916525695754e-08,
-   "peak_px": 3.609462354137939e-08,
-   "last_val": 9.343370053348524,
-   "last_prog": 0.108
   }
  },
  "traded": [
@@ -809,81 +795,85 @@
   [
    "2026-10-28T06:01:09",
    382.6
+  ],
+  [
+   "2026-10-28T06:02:08",
+   375.69
   ]
  ],
- "cycles": 236,
+ "cycles": 237,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.46054409,
+ "sol_usd": 101.460415252,
  "watching": 209,
  "near": [
   [
    "GHOST",
    "7AB5BuUVpHpC8xY6Yvk5oA7qrT6jRTkjpPAvX2CDpump",
-   0.498,
-   2.6,
+   0.5,
+   3.5,
    ""
+  ],
+  [
+   "Nipple",
+   "3vUVApCh3iWWXKfVb1aGy7sgekX7yGVQzWGYkaaapump",
+   0.363,
+   2.8,
+   ""
+  ],
+  [
+   "Courtney",
+   "3uBvpAQqiCbwF2kyUFjKh4xhU22Hop5Q8fwaJzsZpump",
+   0.161,
+   3.1,
+   ""
+  ],
+  [
+   "VOD",
+   "6Spc7TQbjhE2emnU1YUuGn6rGUqkGCdVXQwvuukupump",
+   0.117,
+   2.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "DEADPOOL",
    "GQmknKuEPyx6kpYzRtHu5yeCBV4G2pS1WJ8xNS54pump",
-   0.115,
-   7.5,
+   0.082,
+   8.5,
    "creator=17.6%; top5_hold_most=95%"
   ],
   [
    "PBULL",
    "6T6L98A7TupC2k9uBj2L2H4f3PnrgVbrn83x2cC7pump",
    0.072,
-   2.6,
+   3.6,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Consequences",
-   "2ZwRQXnb7bFLZJrHj5o3ZzkGKyQwpmMp44i9t64xpump",
-   0.071,
-   7.4,
-   ""
-  ],
-  [
-   "Courtney",
-   "3uBvpAQqiCbwF2kyUFjKh4xhU22Hop5Q8fwaJzsZpump",
-   0.069,
-   2.1,
-   ""
   ],
   [
    "pokepad",
    "8T5d9yUSiY3CZ9vj5K51L7s9NbxSrLPcsFP3YdTrpump",
    0.061,
-   3.9,
+   4.8,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "GHOSTDEV",
+   "ESAmdvd9F55gPo3wpMzz3Tjo2wayfAeMWTUMrEhPpump",
+   0.056,
+   3.0,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "gud ket",
    "31jh6SzgyRRuN7yAzPiMNbnPQy95FDdXyYG1oTtipump",
    0.055,
-   5.4,
+   6.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "GT",
    "FuS6H9tNadjrjCmf6712LNqt7v6ZD4JS97JP4WJ5pump",
    0.043,
-   8.7,
-   ""
-  ],
-  [
-   "Manta Inu",
-   "BhmAmgjY81iigNVq1U7CkTyUshGjFyq2ZrhGUs7ypump",
-   0.04,
-   7.8,
-   "buyers=7; top5_hold_most=100%"
-  ],
-  [
-   "PumpLeague",
-   "2FXf54stu4HSENbBDNmBSjjL7Z1U3Pc4DrX4S9h8pump",
-   0.04,
-   7.6,
+   9.7,
    ""
   ]
  ]
