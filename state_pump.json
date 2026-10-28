@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 7.391075074319342e-08,
+   "last_px": 3.079933755962771e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 11.076333905231552,
-   "last_prog": 0.521,
+   "last_val": 4.589488097801569,
+   "last_prog": 0.064,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -595,81 +595,85 @@
   [
    "2026-10-28T05:09:07",
    394.29
+  ],
+  [
+   "2026-10-28T05:10:05",
+   387.81
   ]
  ],
- "cycles": 184,
+ "cycles": 185,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.27108507224683,
- "watching": 243,
+ "sol_usd": 102.26722649618831,
+ "watching": 259,
  "near": [
   [
    "ABLE",
    "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump",
-   0.951,
-   6.5,
+   0.96,
+   7.5,
    ""
   ],
   [
-   "MPC",
-   "2u1B3Kg6gfd1b9ergwsNfC21ccGMY8ferqm4edbmpump",
-   0.549,
+   "QUBIT",
+   "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
+   0.074,
    2.1,
-   "bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "Gangdori",
-   "3ExuPwL982zcJCRgH4Qq47N8Ka1vqgXsiTFwt5Su1Rjg",
-   0.126,
-   2.4,
-   ""
-  ],
-  [
-   "MATCH",
-   "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
-   0.11,
-   2.3,
    ""
   ],
   [
    "Col",
    "DektX6FiCRzkpAqgXzcq79M9fjzxiLEupfRLA28bpump",
    0.051,
-   3.4,
+   4.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "MATCH",
+   "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
+   0.04,
+   3.3,
+   ""
   ],
   [
    "ITAU",
    "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
    0.039,
-   2.1,
+   3.1,
    ""
   ],
   [
    "PEANUT",
    "8ocH3sErTeNbAjrGptfk5gWGH7fF5sCUAprX9bAWpump",
    0.029,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "META",
+   "5hbYJoHnRpTx58oDVBzWXgeT9dY9vmMh4wKrCVD8pump",
+   0.026,
+   2.2,
    ""
   ],
   [
    "LARRY",
    "Ajkcp2pNhgiCPgWJ51Gr1na1XcPqeW9wbU2hEW1Tpump",
    0.026,
-   3.4,
+   4.3,
    "top5_hold_most=91%"
   ],
   [
    "Girtblob",
    "39RHo61GEGm2wD5N6tfVCvLRVPQnCwn97L8ZYmmnpump",
    0.021,
-   4.9,
+   5.8,
    ""
   ],
   [
    "ECHOE",
    "4EpLqUb4aQXmNSvfTLgNLWaCHDCBRGtVApjo8nHDpump",
    0.017,
-   6.2,
+   7.2,
    ""
   ]
  ]
