@@ -13,10 +13,10 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 2.0027223447750946e-07,
+   "last_px": 2.2113945124539826e-07,
    "peak_px": 2.478730833627846e-07,
-   "last_val": 9.310302675739123,
-   "last_prog": 0.847,
+   "last_val": 10.285479230573463,
+   "last_prog": 0.872,
    "tp1_done": true,
    "realized": 2.4419044830450383
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.08883806926874e-08,
    "entry_fill": 5.421593203884645e-08,
    "opened": 1793217740.324521,
-   "last_px": 6.14979682610914e-08,
+   "last_px": 5.7137933184530535e-08,
    "peak_px": 9.263362058213561e-08,
-   "last_val": 3.1827388775211904,
-   "last_prog": 0.441,
+   "last_val": 2.953673981814613,
+   "last_prog": 0.407,
    "tp1_done": true,
    "realized": 1.7320922000349377
   },
@@ -45,10 +45,10 @@
    "entry_px": 3.991488284416175e-08,
    "entry_fill": 4.25452962688705e-08,
    "opened": 1793219206.2237034,
-   "last_px": 7.589814560265353e-08,
+   "last_px": 7.524831866747798e-08,
    "peak_px": 7.589814560265353e-08,
-   "last_val": 4.827005033266195,
-   "last_prog": 0.532,
+   "last_val": 4.785453383480565,
+   "last_prog": 0.528,
    "tp1_done": true,
    "realized": 1.3622626831566609
   },
@@ -61,10 +61,10 @@
    "entry_px": 4.494384230837563e-08,
    "entry_fill": 4.790622164954402e-08,
    "opened": 1793219446.310831,
-   "last_px": 6.105872718857359e-08,
+   "last_px": 5.6416521944243985e-08,
    "peak_px": 6.815948314987057e-08,
-   "last_val": 3.388611226545214,
-   "last_prog": 0.437,
+   "last_val": 3.127325005597092,
+   "last_prog": 0.4,
    "tp1_done": true,
    "realized": 0.9298986667200833
   },
@@ -77,10 +77,10 @@
    "entry_px": 8.567503310536413e-08,
    "entry_fill": 9.128630437751096e-08,
    "opened": 1793219864.5615897,
-   "last_px": 1.1980967024255197e-07,
+   "last_px": 8.441910176413948e-08,
    "peak_px": 1.434877878778908e-07,
-   "last_val": 3.490217041142544,
-   "last_prog": 0.699,
+   "last_val": 2.444503970938307,
+   "last_prog": 0.574,
    "tp1_done": true,
    "realized": 1.3387881593531046
   }
@@ -2562,81 +2562,85 @@
   [
    "2026-10-28T13:42:50",
    188.57
+  ],
+  [
+   "2026-10-28T13:43:46",
+   187.97
   ]
  ],
- "cycles": 670,
+ "cycles": 671,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.05125173950002,
- "watching": 381,
+ "sol_usd": 102.05534740250002,
+ "watching": 384,
  "near": [
   [
    "ACT:G",
    "z4mEuCQUypJa78ssKPfj4PDqTRgxYwvLJEygyxjpump",
-   0.971,
-   7.3,
+   0.962,
+   8.2,
    ""
   ],
   [
    "GROKBOT",
    "GsFWzNJDqWVRc6NEAd9E6YZCPYGLk1HWYxv19n1pump",
    0.611,
-   7.1,
+   8.0,
    "buyers=1; creator=48.4%; top10=48.4%; top5_hold_most=100%"
   ],
   [
-   "POPPED",
-   "Hdp4wEkHvRE1REa1LhBXsU8w7nfMZQp9x8aAJfTPkpDk",
-   0.492,
-   3.1,
-   "serial_creator=115 launches/24h"
-  ],
-  [
-   "Hexcat",
-   "3n5fA757ahWvgD9X5e9posGMuyj31WwDab9XjCrwpump",
-   0.282,
-   2.4,
-   "serial_creator=10 launches/24h"
+   "ELLE",
+   "4uTgLRjhkAPLMbsLzBy5PazqYSrEn7XSpw2QMRzZpump",
+   0.355,
+   2.2,
+   ""
   ],
   [
    "22M",
    "J9gRsXppBFVDfFwGZgKi4ezczbhU7NrcSAxezdvrZo5q",
    0.244,
-   7.7,
+   8.6,
    "buyers=1; creator=19.4%; top5_hold_most=100%"
   ],
   [
-   "STREAM",
-   "3w7SRf7mN3Kc2LXDnLUptykLVsbCuZMpxq2U6zEypump",
-   0.153,
-   4.5,
+   "HEDGE",
+   "HoeXmLUX6PoHLy7bteWXpTf4SMM9yMvAn3Aztetpump",
+   0.225,
+   2.5,
+   "serial_creator=23 launches/24h"
+  ],
+  [
+   "SI",
+   "G3CwLyCjAxFpw6xTGW1BLDwXfTfkAHUWU34rqvkxpump",
+   0.132,
+   3.4,
    ""
   ],
   [
    "AI",
    "FCdftCfbpBEy9Tuqbr2ei7TspNvXFMBNcMnL6L5Lpump",
    0.129,
-   3.5,
+   4.5,
    ""
   ],
   [
-   "SI",
-   "G3CwLyCjAxFpw6xTGW1BLDwXfTfkAHUWU34rqvkxpump",
-   0.086,
-   2.5,
+   "STREAM",
+   "3w7SRf7mN3Kc2LXDnLUptykLVsbCuZMpxq2U6zEypump",
+   0.119,
+   5.4,
    ""
   ],
   [
-   "ACTIII",
-   "CFUPfemmKXf3TgdyK9db3uodmWtT8HQ7SS4o595spump",
-   0.082,
-   3.6,
-   ""
+   "HYROLL",
+   "E7ywANo4DRGh8Xyw6BhNLkvaANo1b4ZsnHEfbCWnpump",
+   0.101,
+   3.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BUNK",
-   "6ww1gwryFWNeChffxqChueojzpnMU98K6kSj2RD8pump",
-   0.073,
-   6.0,
+   "pop",
+   "GwGwYA849YFj5o4hQ4mPVCibFNiiHqUoXyhMXhuVpump",
+   0.072,
+   3.1,
    ""
   ]
  ]
