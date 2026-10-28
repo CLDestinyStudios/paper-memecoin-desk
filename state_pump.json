@@ -13,10 +13,10 @@
    "entry_px": 3.837649048446584e-08,
    "entry_fill": 4.0824089994580046e-08,
    "opened": 1793206966.3475623,
-   "last_px": 3.837649048446584e-08,
-   "peak_px": 3.837649048446584e-08,
-   "last_val": 7.276662819674629,
-   "last_prog": 0.198
+   "last_px": 3.9459837630590885e-08,
+   "peak_px": 3.9459837630590885e-08,
+   "last_val": 7.480508167185831,
+   "last_prog": 0.214
   }
  },
  "traded": [
@@ -1683,82 +1683,86 @@
   [
    "2026-10-28T10:02:46",
    273.74
+  ],
+  [
+   "2026-10-28T10:03:48",
+   273.95
   ]
  ],
- "cycles": 450,
+ "cycles": 451,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.0905919025,
- "watching": 282,
+ "sol_usd": 101.05319958375094,
+ "watching": 286,
  "near": [
   [
    "SI",
    "4fnfTRVPUz8rAJaF6g3QLhpzkDVZddpAPDVMD51ypump",
-   0.956,
-   5.4,
-   ""
+   1.0,
+   6.4,
+   "graduated"
   ],
   [
    "TRUMPKIN",
    "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump",
-   0.885,
-   7.5,
+   0.882,
+   8.5,
    ""
   ],
   [
    "PUMPURR",
    "Fe6rkeXsvdpYLSQ2fBiXVPFPcax8UT5r7rJF9FLJpump",
    0.341,
-   2.2,
+   3.3,
    "top5_hold_most=86%"
   ],
   [
-   "GRADUATE",
-   "8Fy16aTmxH3trwB1pRRR4jH4n15ebbZwwRUPbdy4pump",
-   0.198,
-   2.1,
-   "bought"
+   "GEKKO",
+   "6QfZ45qS5BaNvY9uF68RnVMZSARx7hdH2vxS3Hxhpump",
+   0.262,
+   3.0,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Newt",
+   "AdiBLdZWA4iz29o85Gm1e4jHJQXN3hirynrHEDY5pump",
+   0.18,
+   3.1,
+   "buyers=9; top5_hold_most=98%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "neuronary",
    "J5qDWnk4j9TxpoWJb4zNfyyjFQXBTQ7iPafjquQpump",
-   0.166,
-   4.1,
+   0.152,
+   5.1,
+   ""
+  ],
+  [
+   "SPECIES",
+   "Fa5h6CKQwQEhzvveVuy1G3Yayf9xXDth73RsaCSGpump",
+   0.115,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Serbia",
+   "BKmqPfTn1h152BC2L4UXqTJqjTQaqmSCE6Y7wQe2pump",
+   0.114,
+   2.8,
    ""
   ],
   [
    "CAM",
    "5VcBRKSyBwbHrE4cYHKgQLSSgPc5M5L9LyhRxEpzpump",
    0.083,
-   7.9,
+   8.9,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "ZCAT",
    "9ZauETBK9kwDG5vbJSLrWWG8GbMs9f2WRRKSz4Rppump",
    0.066,
-   4.5,
+   5.6,
    ""
-  ],
-  [
-   "SINGLE",
-   "51Kf5htzuCpgiyo6EVHoiyS7jDq6kdxj3gSaaRdrpump",
-   0.047,
-   5.2,
-   ""
-  ],
-  [
-   "SQUIGGLE",
-   "8n2N2JdZhnuyZxYqyCWYDeMjYVcxTiH54mGkt9mtpump",
-   0.04,
-   2.9,
-   ""
-  ],
-  [
-   "Termite",
-   "6tVzn6spRv2pkHre5uE8VzwndLgFBzsVyswiDGsspump",
-   0.022,
-   8.4,
-   "top5_hold_most=91%"
   ]
  ]
 }
