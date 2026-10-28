@@ -65,3 +65,8 @@ CYCLE 35 2026-10-28T01:43:56 | leads 0 | RISK killed 0 | ANALYST killed 0 | JUDG
 CYCLE 36 2026-10-28T01:44:56 | leads 0 | RISK killed 0 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 0 | equity $509.10 | 0s
 === Wed Oct 28 01:45:56 PDT 2026 [actions] ===
 CYCLE 37 2026-10-28T01:45:57 | leads 1 | RISK killed 1 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 0 | equity $509.10 | 1s
+=== Wed Oct 28 01:46:56 PDT 2026 [actions] ===
+SCOUT 2026-10-28T01:47:15 | pool 153 unique mints {'ds_profiles': 22, 'ds_boosts': 22, 'ds_boosts_top': 24, 'gt_trending': 20, 'ds_search': 42, 'ds_cto': 11, 'ds_ads': 14, 'gt_new': 37} | due 153 | RugCheck fresh 40 cached 0 | http 62 calls, 429s 0 {} | scout 0.5s
+CYCLE STRICT 38 2026-10-28T01:47:15 | leads 146 (deferred 4) | RISK killed 136 | ANALYST killed 3 | JUDGE buy/watch/pass 0/1/6 | exits 0 (W0/L0) | open 0 | equity $509.10 | 19s
+CYCLE LOOSE 1 2026-10-28T01:47:15 | leads 143 (deferred 7) | RISK killed 116 | ANALYST killed 0 | JUDGE buy/watch/pass 3/5/19 | exits 0 (W0/L0) | open 3 | equity $497.06 | 19s
+CYCLE_SECS 18.7
