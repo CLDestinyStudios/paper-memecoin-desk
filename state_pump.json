@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 289.8662907160229,
+ "cash": 280.51629071602287,
  "positions": {
   "9uUxcKp3TLmpdpm1zYsk7p1W7S4QbBZEqZwtA72bpump": {
    "sym": "RIG",
@@ -13,10 +13,10 @@
    "entry_px": 8.029038241910753e-08,
    "entry_fill": 8.528226961050288e-08,
    "opened": 1793203003.16268,
-   "last_px": 1.3274508453687013e-07,
+   "last_px": 1.5003497653926832e-07,
    "peak_px": 1.58342495418017e-07,
-   "last_val": 7.444078677048034,
-   "last_prog": 0.732,
+   "last_val": 8.420033894080523,
+   "last_prog": 0.769,
    "tp1_done": true,
    "realized": 1.948605352352602
   },
@@ -29,10 +29,10 @@
    "entry_px": 6.569273042939003e-08,
    "entry_fill": 6.981000244725945e-08,
    "opened": 1793204089.2044473,
-   "last_px": 6.66978978899423e-08,
+   "last_px": 6.603912629933675e-08,
    "peak_px": 1.0512898959020905e-07,
-   "last_val": 4.174506709489619,
-   "last_prog": 0.477,
+   "last_val": 4.133018362591636,
+   "last_prog": 0.473,
    "tp1_done": true,
    "realized": 1.8229865628569373
   },
@@ -45,10 +45,24 @@
    "entry_px": 5.5791003920489706e-08,
    "entry_fill": 5.929803155503311e-08,
    "opened": 1793204568.4045486,
-   "last_px": 5.5791003920489706e-08,
-   "peak_px": 5.5791003920489706e-08,
-   "last_val": 8.24538924346034,
-   "last_prog": 0.395
+   "last_px": 6.19067533028362e-08,
+   "peak_px": 6.19067533028362e-08,
+   "last_val": 9.154247104610786,
+   "last_prog": 0.444
+  },
+  "8PjWSs5wMUTMmoSyqtqJ5gg69jwdKLKYiKd48ptNkX2Q": {
+   "sym": "NP",
+   "bc": "6wRA1EQpxjkHhGNE1yuAQNFEoodXgNFtYEALRy2tjvcT",
+   "tokens": 2198551.8778390503,
+   "cost": 9.35,
+   "cost0": 9.35,
+   "entry_px": 3.9681027829637625e-08,
+   "entry_fill": 4.219174973980446e-08,
+   "opened": 1793204627.5814085,
+   "last_px": 3.9681027829637625e-08,
+   "peak_px": 3.9681027829637625e-08,
+   "last_val": 8.265640268493401,
+   "last_prog": 0.217
   }
  },
  "traded": [
@@ -138,7 +152,8 @@
   "75GLyZbW1fNSnDDYEWJeVHEV4HNG1N8ckUgPWDsdpump",
   "4b3pevazEkq96vo2Kemzse6m5tkR4LmaMJucVBVNpump",
   "2afsrTXPJmiUWLMmGY9QiNQJrKDBSWY8BFsMaprR87TQ",
-  "Dih1Tifr7c92dHK8ypj6uBToHXBuksWvRJZPgatApump"
+  "Dih1Tifr7c92dHK8ypj6uBToHXBuksWvRJZPgatApump",
+  "8PjWSs5wMUTMmoSyqtqJ5gg69jwdKLKYiKd48ptNkX2Q"
  ],
  "equity": [
   [
@@ -1544,81 +1559,85 @@
   [
    "2026-10-28T09:22:48",
    309.73
+  ],
+  [
+   "2026-10-28T09:23:47",
+   310.49
   ]
  ],
- "cycles": 410,
+ "cycles": 411,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.79155152899999,
- "watching": 225,
+ "sol_usd": 100.79694199895806,
+ "watching": 250,
  "near": [
   [
    "APE",
    "BD4JQVg5S3uYr7CnCMrkg3Hw31Z92chRgCdCq9LFpump",
-   0.947,
-   7.2,
+   0.961,
+   8.1,
    ""
   ],
   [
-   "MIRUMI",
-   "CTaxYx69sqa63gN69zqSYZV996wyN5zeSnyctJvvpump",
-   0.707,
-   5.3,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "DECONPAD",
-   "Dih1Tifr7c92dHK8ypj6uBToHXBuksWvRJZPgatApump",
-   0.395,
-   3.9,
-   "bought"
-  ],
-  [
-   "HYPEPE",
-   "GAjGmNsdh8XYSfbuHXaY82moy7LXdUdMPoao3sRBpump",
-   0.277,
-   6.8,
-   ""
+   "Intangible",
+   "493iJ4GJ5THBwMTjFmu7wGzzAkHhyXsZ3SDLqyWMpump",
+   0.304,
+   2.9,
+   "top5_hold_most=80%"
   ],
   [
    "$ONECOIN",
    "7nCZdLd75FE2dJFV2r24Yq6JUQ31ywnD3TrE5nQxpump",
    0.273,
-   8.1,
+   9.1,
    "buyers=5; creator=20.5%; top5_hold_most=100%"
   ],
   [
-   "STENKS ",
-   "HtqMc4yvyDSvDJLKonYb2UZEwukZxfcC5PEQw1A2pump",
-   0.155,
-   7.0,
-   "buyers=4; top5_hold_most=100%"
+   "NP",
+   "8PjWSs5wMUTMmoSyqtqJ5gg69jwdKLKYiKd48ptNkX2Q",
+   0.217,
+   2.4,
+   "bought"
   ],
   [
    "K",
    "88u72pZYMQ3pAxbUiN9ZTtMs7cbnT7QPi8Vvg5CR4pwY",
-   0.142,
-   3.1,
-   ""
-  ],
-  [
-   "Mirumi",
-   "hiYUmtMswGTs9HYRvbvREU4cdVmibT8uCGN9gaspump",
-   0.124,
-   4.6,
+   0.161,
+   4.1,
    ""
   ],
   [
    "\u59c6\u5df4\u4f69",
    "ArTK6cSZnLpoiTfHGa7qu64WbEiu23BM9GhfdjTUpump",
    0.07,
-   3.1,
+   4.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "K",
    "7urYqEctofWcuvLzUJmkooxyoheUUzYG1EaZM3UjqFRE",
    0.047,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "HYPEPE",
+   "GAjGmNsdh8XYSfbuHXaY82moy7LXdUdMPoao3sRBpump",
+   0.027,
+   7.7,
+   ""
+  ],
+  [
+   "REA",
+   "G4VkMrkeSoUyESriGQr6giVj5991kKFmVwz9QgkHpump",
+   0.022,
+   2.5,
+   ""
+  ],
+  [
+   "e/acc",
+   "Fj1avfuEXEHCRdZKviALE1NF1acYnJinT7WJzS95pump",
+   0.022,
+   4.1,
    ""
   ]
  ]
