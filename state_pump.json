@@ -2,22 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 132.0026583783691,
+ "cash": 130.80047005461034,
  "positions": {
-  "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump": {
-   "sym": "TAB",
-   "bc": "8Ts64yP9SiUUkZAFV3HKEtrDt91upSzfvGMHBh6i3hwa",
-   "tokens": 733974.7802048492,
-   "cost": 4.21,
-   "cost0": 4.21,
-   "entry_px": 5.243097028548849e-08,
-   "entry_fill": 5.604217204148322e-08,
-   "opened": 1793229471.2270815,
-   "last_px": 5.017918074099197e-08,
-   "peak_px": 5.243097028548849e-08,
-   "last_val": 3.5177363218344646,
-   "last_prog": 0.343
-  },
   "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump": {
    "sym": "SEPHORA",
    "bc": "4S66UEQm68MhJsnRTn6QM2NmKgKBiWtUqGuTiRAp8hXc",
@@ -27,10 +13,24 @@
    "entry_px": 6.278101670032933e-08,
    "entry_fill": 6.710279744573217e-08,
    "opened": 1793229530.7547693,
-   "last_px": 6.278101670032933e-08,
+   "last_px": 6.126997351885691e-08,
    "peak_px": 6.278101670032933e-08,
-   "last_val": 3.6619743066461767,
-   "last_prog": 0.45
+   "last_val": 3.5717422953689417,
+   "last_prog": 0.439
+  },
+  "EaQh2Pi4o7D5mQf5ahAFu5YxrkgXpmAcHQ9xGEnvpump": {
+   "sym": "BlueChip",
+   "bc": "ABTGBCmioCjhnGhbsz238FAc8eL5gmFwPyUbpp5HpXv",
+   "tokens": 719111.1131807327,
+   "cost": 4.16,
+   "cost0": 4.16,
+   "entry_px": 5.290631710115763e-08,
+   "entry_fill": 5.655729986226963e-08,
+   "opened": 1793229591.015824,
+   "last_px": 5.290631710115763e-08,
+   "peak_px": 5.290631710115763e-08,
+   "last_val": 3.6345608735329287,
+   "last_prog": 0.369
   }
  },
  "traded": [
@@ -240,7 +240,8 @@
   "8xASHvTLdyFVAttJiuw9REzX6Z8AG9y2zDVqhrmnpump",
   "3gyMwpqyJnDRyDP1Pxg1B1CH7JMxewMgQ6zMWsARpump",
   "AufBUD376NtfGZ2x3XXA8Gnh74WSaqVqftEjDTBpump",
-  "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump"
+  "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump",
+  "EaQh2Pi4o7D5mQf5ahAFu5YxrkgXpmAcHQ9xGEnvpump"
  ],
  "equity": [
   [
@@ -3118,81 +3119,85 @@
   [
    "2026-10-28T16:18:50",
    139.18
+  ],
+  [
+   "2026-10-28T16:19:51",
+   138.01
   ]
  ],
- "cycles": 826,
+ "cycles": 827,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.31,
- "watching": 395,
+ "sol_usd": 102.2842259325,
+ "watching": 397,
  "near": [
   [
-   "FROGE",
-   "BmkceQcdXbJay2RPNCEDYRYucRAUfk7J4VNGNh1Jpump",
-   0.844,
-   2.7,
-   ""
-  ],
-  [
-   "SEPHORA",
-   "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump",
-   0.45,
-   2.1,
+   "BlueChip",
+   "EaQh2Pi4o7D5mQf5ahAFu5YxrkgXpmAcHQ9xGEnvpump",
+   0.369,
+   2.8,
    "bought"
-  ],
-  [
-   "RETAIN",
-   "5fLrqsHSGU9jYf557TuDJQJPDUHofeQJvnYHWEP7pump",
-   0.243,
-   4.9,
-   ""
   ],
   [
    "Launchpup",
    "wEjxcQhKMCnAGWTEYvEbe2CaYmLU42MhSprPJEipump",
-   0.198,
-   4.5,
+   0.194,
+   5.6,
    ""
   ],
   [
    "FIFTY",
    "FydZdvGm8AqoLmvETcJH3XNFv84ykRhHQoniGJ1Dpump",
    0.104,
-   2.9,
-   "buyers=3; top5_hold_most=100%"
+   3.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "HNY",
-   "Btno8Pg5aE2uZSeYtSqeXxeRMLqQ4zWPU3SDDG5Wpump",
-   0.089,
-   3.4,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Chews",
-   "DeV5aY74Aa8u6V4Cihk31XTXKr3E32NBoykJn7wnpump",
-   0.083,
-   3.2,
-   ""
+   "BlueChip",
+   "J8FSnDHXUKGjxfKQ6Rc4rEkS8sKuRikvjePEHcWopump",
+   0.078,
+   2.3,
+   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "BUDDY",
    "J5vtFEyoa5ayBKWpwN2TGvUE7XNutf24HR7gDPzipump",
    0.073,
+   6.6,
+   ""
+  ],
+  [
+   "TIMEBINDER",
+   "EB3Kpf5ekGrjL7FgtreYQ52zaLSpAd9YsbB6ZF1Qpump",
+   0.053,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "TDC",
+   "8d5J2KakN3U4z9ERaaVkT3ptyaJMeuHAxgn6fYxnpump",
+   0.047,
+   5.8,
+   "buyers=6; top5_hold_most=98%"
+  ],
+  [
+   "MANGO$$$",
+   "9qHWekbUSKADwGbQ8FzfJyK2NkgeH7ttpM9K5Y8Mpump",
+   0.044,
    5.6,
    ""
   ],
   [
-   "movember",
-   "7fmWLGGLiAjsF2xEB2YYiKGm2vYhcQcyJ3BoozTfpump",
-   0.068,
-   2.4,
+   "MS",
+   "4rsk6WDUSkXxpZyqKux7H3AcK14wtKJEPha52mxipump",
+   0.043,
+   7.6,
    ""
   ],
   [
-   "Chews",
-   "6mp9BvpUzj7zydhHuxCdhACMbW61PEtMMp7QvdAVpump",
-   0.067,
-   3.7,
+   "Alligators",
+   "74Aqof7pWagTy2e7kGNGWa8rFRBgRbS1iwm8qJgEpump",
+   0.042,
+   4.8,
    ""
   ]
  ]
