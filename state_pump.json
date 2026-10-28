@@ -2099,84 +2099,84 @@
    218.07
   ],
   [
-   "2026-10-28T12:15:48",
+   "2026-10-28T12:16:45",
    218.07
   ]
  ],
- "cycles": 583,
+ "cycles": 584,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.064773318,
- "watching": 265,
+ "sol_usd": 102.14087523950002,
+ "watching": 295,
  "near": [
-  [
-   "SI",
-   "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump",
-   0.82,
-   2.4,
-   ""
-  ],
   [
    "fridge",
    "AYRzi9vm1frjsZKXCbCkK7jjR6G6m4WpTMvQHDLEqgtP",
-   0.729,
-   6.1,
+   0.996,
+   7.1,
+   ""
+  ],
+  [
+   "SI",
+   "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump",
+   0.845,
+   3.4,
+   ""
+  ],
+  [
+   "21e8core",
+   "7q7UPPFypZ39D2DbjC9Jx95Diu7znUS9C2shurrDpump",
+   0.402,
+   2.1,
+   "creator=15.3%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "RI",
+   "6SJp3rLac8LbHh2j4cWAzt92tJWCvx8P71qyrj2Vpump",
+   0.324,
+   2.9,
    ""
   ],
   [
    "GAMBLERS",
    "22phR4zAGjmcyRRW1dJpbGztLRwHZxu5nKfhij7Zpump",
    0.271,
-   2.7,
+   3.6,
+   "top5_hold_most=88%"
+  ],
+  [
+   "MAUSBOT",
+   "2A3vrtXNqEcQnkSbyS7uvWXJ81Xjr5Su2GmhGZ3Epump",
+   0.19,
+   2.4,
+   "buyers=5; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "EXIT",
+   "86gYRhhobuwMuQ4xbqgAnbKzoKbrvNx7qTMk1EGGpump",
+   0.133,
+   2.6,
    "top5_hold_most=88%"
   ],
   [
    "fridge",
    "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
-   0.13,
-   7.7,
+   0.126,
+   8.6,
    ""
-  ],
-  [
-   "TE",
-   "CDL4LcDUBENg11o8L8GzMiQ7cYhnXaEGs9WUfTVPpump",
-   0.106,
-   2.4,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "nothing",
    "FWnsxE9rfT5mxFy3bALsucHyXMNGdoKzfhn3k1Tmw2cz",
    0.101,
-   2.6,
+   3.5,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "GOAT",
-   "6hUab23koSF9rJWHG6MJwNjkxmqub4qYiGZa3pstpump",
-   0.07,
-   2.3,
-   ""
-  ],
-  [
-   "fridge",
-   "A8d5cXGoEanS8EejFGy3SYTEtfA3LDTsFWRjaUnDpump",
-   0.069,
-   2.9,
-   ""
-  ],
-  [
-   "RI",
-   "3LSkyAmoLBbCdu3y1EpG3b25SNMy2EE75uWLaVtFpump",
-   0.064,
-   2.4,
-   ""
-  ],
-  [
-   "MIRUMI",
-   "2AyAm6Woh6Vj4kvZCW6KbUNqYdN8vQEDDYE1Wuy7pump",
-   0.064,
-   2.8,
-   ""
+   "TE",
+   "CDL4LcDUBENg11o8L8GzMiQ7cYhnXaEGs9WUfTVPpump",
+   0.09,
+   3.3,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
