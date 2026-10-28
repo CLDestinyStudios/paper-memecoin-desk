@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 213.1446893338194,
- "positions": {},
+ "cash": 206.7546893338194,
+ "positions": {
+  "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump": {
+   "sym": "LGBTM",
+   "bc": "J4y4NFaJDx8XhJiTrxA9x4mURnJEmqz34ETuroMfiYD6",
+   "tokens": 1155774.5223477173,
+   "cost": 6.39,
+   "cost0": 6.39,
+   "entry_px": 5.087756479339896e-08,
+   "entry_fill": 5.418228189768637e-08,
+   "opened": 1793215724.306984,
+   "last_px": 5.087756479339896e-08,
+   "peak_px": 5.087756479339896e-08,
+   "last_val": 5.628970814915049,
+   "last_prog": 0.35
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -138,7 +153,8 @@
   "8J6ZVUqaTiqeJNfurfpr9gUYmYEy4YFM3UuV1Qwepump",
   "HXZLMdWXnrh1EKw4s8VEgbECpegCWpz8ZLZiiTywpump",
   "5c8sbYDamFYDjaBMYcgFPcYNZBrBs1RyjDf5NCV4pump",
-  "AuBvZnWbRfUj7vzc5pGWUPb8tqUNnRVKtydZeaH2pump"
+  "AuBvZnWbRfUj7vzc5pGWUPb8tqUNnRVKtydZeaH2pump",
+  "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump"
  ],
  "equity": [
   [
@@ -2148,81 +2164,85 @@
   [
    "2026-10-28T12:27:43",
    213.14
+  ],
+  [
+   "2026-10-28T12:28:44",
+   212.38
   ]
  ],
- "cycles": 595,
+ "cycles": 596,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.0639575905,
- "watching": 342,
+ "sol_usd": 102.03999999999999,
+ "watching": 338,
  "near": [
-  [
-   "FreeMikol",
-   "C2GhenHoDfuW9HtrHaye56EoouPBKvqfZ5yJrSoopump",
-   0.253,
-   3.4,
-   "buyers=8"
-  ],
   [
    "LGBTM",
    "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump",
-   0.171,
+   0.35,
+   6.3,
+   "bought"
+  ],
+  [
+   "NAKAMAPAD",
+   "88wPqX4Zd6azeZArajEvoGkvU5JNFybHxjG7dygBpump",
+   0.182,
    5.3,
-   "buyers=8; top5_hold_most=94%"
-  ],
-  [
-   "GOAT",
-   "GJzX4VZBzCz854xXAiDDG5skGaSFAhQcKfMGLcaEpump",
-   0.153,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "REFRIGDERATO",
-   "7AJZan8cEcvJzgvsz4Hakz2iZUiCGHVmYnzayFwMpump",
-   0.145,
-   5.9,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "onchain",
+   "6T6GixVuT3w6HhNF8t9GCWU7fkNiPfT5McRuhWQQpump",
+   0.134,
+   2.1,
+   ""
   ],
   [
    "Refrigerator",
    "EU1WDX95dM4D4uCBjwMt6sybqezrahQHTETfzeTXpump",
    0.126,
-   7.6,
+   8.6,
    ""
+  ],
+  [
+   "PANICP",
+   "BGdDvAYvJsADwhtCsqWEpQD4nb86ZitUCnrquSwppump",
+   0.108,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "REFRIGDERATO",
+   "7AJZan8cEcvJzgvsz4Hakz2iZUiCGHVmYnzayFwMpump",
+   0.105,
+   6.9,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "fridge",
    "GK9t3Ascj6TKza9KdXTwmKpy4M7Discc311TkEEJpump",
    0.075,
-   7.6,
+   8.6,
    ""
   ],
   [
-   "NAKAMAPAD",
-   "88wPqX4Zd6azeZArajEvoGkvU5JNFybHxjG7dygBpump",
-   0.071,
-   4.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "FRIDGE",
-   "4sxJsqeMv5DgtWLQyhqzoTjfJ3gPGCqwP6VUkoASpump",
-   0.064,
-   2.7,
-   ""
+   "FreeMikol",
+   "C2GhenHoDfuW9HtrHaye56EoouPBKvqfZ5yJrSoopump",
+   0.055,
+   4.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "FI",
    "8qGH9DFvfxrhRXdmvCkmFTM3PwhUgKFn2ewkC6VCRpt",
    0.054,
-   7.4,
+   8.4,
    ""
   ],
   [
    "Refrigerator",
    "E2Lu7BsVFnaa8Y2yRzGjz6U9pW4EtEK1GKpZACjMpump",
    0.052,
-   4.1,
+   5.2,
    "buyers=1; top5_hold_most=100%"
   ]
  ]
