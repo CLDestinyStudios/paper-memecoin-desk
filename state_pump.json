@@ -13,10 +13,10 @@
    "entry_px": 1.1946755784412127e-07,
    "entry_fill": 1.268190051732801e-07,
    "opened": 1793196969.3762598,
-   "last_px": 1.2184977258005024e-07,
+   "last_px": 1.226196138126805e-07,
    "peak_px": 1.6044780194545198e-07,
-   "last_val": 9.947733639963788,
-   "last_prog": 0.705
+   "last_val": 9.996204192914108,
+   "last_prog": 0.707
   }
  },
  "traded": [
@@ -1121,82 +1121,86 @@
   [
    "2026-10-28T07:21:06",
    367.55
+  ],
+  [
+   "2026-10-28T07:22:08",
+   367.6
   ]
  ],
- "cycles": 316,
+ "cycles": 317,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.56580867234257,
+ "sol_usd": 100.418706537,
  "watching": 320,
  "near": [
   [
    "Loongcat",
    "HuUgLZGMAVqtUA5MVcBDDjQswzCKViH7i8CNxeKzpump",
-   0.936,
-   3.8,
+   0.956,
+   4.8,
    ""
   ],
   [
    "Aloooong",
    "6EA2bLcCtrDAxjoQdwTCWcmdSr4uFFfk9nabH4DwV4CM",
-   0.664,
-   4.6,
+   0.663,
+   5.6,
    ""
   ],
   [
-   "PFP",
-   "24bwh7djJ2Jkw889GvbBj8p6waFhGQ65QVkJhfcppump",
-   0.253,
-   2.4,
-   "top5_hold_most=88%"
+   "SBOOBS",
+   "5w6AyqnP1WAv8nQi14FbmKeFk7yURnPwWW636HQ6pump",
+   0.293,
+   2.6,
+   "top5_hold_most=81%"
+  ],
+  [
+   "COPY",
+   "AS43k5uT45oHU13iXFbNBLvdnT7MQcqkz8vW38YSpump",
+   0.257,
+   5.2,
+   ""
+  ],
+  [
+   "CHIPMUNK",
+   "8Ke2niv3Aun8TTS4FgjFgBVXvRqNAoR8TwSsteaR1ej9",
+   0.246,
+   3.0,
+   "buyers=3; creator=19.4%; top5_hold_most=100%"
+  ],
+  [
+   "CHIPMUNK",
+   "3qE8s3JA7W55w6WeyPo2fcuRFZfTZm8rdEiNj9NyD8t5",
+   0.244,
+   2.8,
+   "buyers=1; creator=19.4%; top5_hold_most=100%"
   ],
   [
    "LOONGCAT",
    "7WGW2rmqab2DhNVbUCbQRbjETuvCd5sp6DFKrUH7RHtM",
-   0.181,
-   4.6,
+   0.229,
+   5.7,
    ""
   ],
   [
    "STICK",
    "2kptRsGx9P9ufjH6R4u7wyrCANh1VMJ4WXiPT2xKgFLW",
-   0.174,
-   3.7,
+   0.182,
+   4.8,
    ""
   ],
   [
-   "COPY",
-   "AS43k5uT45oHU13iXFbNBLvdnT7MQcqkz8vW38YSpump",
-   0.169,
-   4.1,
+   "long",
+   "B7a5aHhj8H4uD5p4oRjcdFAjnjsSSbBupYhn6tanpump",
+   0.159,
+   4.8,
    ""
   ],
   [
    "CALLCAT",
    "4iRkLQ4tscbqpmBDnGMaSFbYEPzRYGHPS5B2jqWGpump",
    0.14,
-   3.1,
+   4.1,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "PAWS",
-   "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump",
-   0.131,
-   3.8,
-   "buyers=7; top5_hold_most=94%"
-  ],
-  [
-   "long",
-   "B7a5aHhj8H4uD5p4oRjcdFAjnjsSSbBupYhn6tanpump",
-   0.129,
-   3.8,
-   ""
-  ],
-  [
-   "long",
-   "ywBDE8oVMu7Cn527Tx8buZfgmbjiRewP69REWPWpump",
-   0.12,
-   2.1,
-   ""
   ]
  ]
 }
