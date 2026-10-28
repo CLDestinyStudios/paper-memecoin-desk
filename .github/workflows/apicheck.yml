@@ -1,0 +1,10 @@
+name: api-check
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in "https://api.dexscreener.com/token-profiles/latest/v1" "https://api.dexscreener.com/token-boosts/latest/v1" "https://api.dexscreener.com/latest/dex/search?q=pumpswap" "https://api.rugcheck.xyz/v1/tokens/So11111111111111111111111111111111111111112/report" "https://api.rugcheck.xyz/v1/tokens/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263/report"; do
+            code=$(curl -s -A "paper-desk/1.0" -o /tmp/b -w "%{http_code} %{time_total}s" "$u"); echo "$code $(wc -c </tmp/b)B $u"; head -c 150 /tmp/b; echo
+          done
