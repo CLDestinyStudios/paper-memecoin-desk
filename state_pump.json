@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 7.593595302282042e-08,
+   "last_px": 3.857623218755134e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 11.416357004285803,
-   "last_prog": 0.532,
+   "last_val": 5.778078625149808,
+   "last_prog": 0.201,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -563,81 +563,85 @@
   [
    "2026-10-28T05:01:08",
    394.63
+  ],
+  [
+   "2026-10-28T05:02:05",
+   389.0
   ]
  ],
- "cycles": 176,
+ "cycles": 177,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.59000000000002,
- "watching": 324,
+ "sol_usd": 102.58461408899998,
+ "watching": 319,
  "near": [
   [
    "garry",
    "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump",
-   0.816,
-   8.8,
+   0.86,
+   9.7,
    ""
-  ],
-  [
-   "KNG22",
-   "DCjsJHkHKz2uu6SQpuKDoyjHsLr39JSw49CwAB39pump",
-   0.385,
-   2.5,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "MIA",
-   "7rexiKrNQtgUGdD6hzw8iuGJKoxMXxVrGvoPVZ3jpump",
-   0.234,
-   9.6,
-   "top5_hold_most=84%"
   ],
   [
    "CIS",
    "2j39U6JjqVSLjy7KAj4sUgbPAcpSa15u4m8kGayzsiG5",
-   0.098,
-   2.4,
+   0.183,
+   3.3,
    ""
   ],
   [
    "Jolle",
    "FsMgL73sXeyHb5HjSHmAE38MkPZBWst1Pu7erYZnpump",
-   0.093,
-   2.5,
-   "buyers=5; top5_hold_most=100%"
+   0.09,
+   3.5,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "THG",
    "EjZEfjxQu68e8Vi3Xh1YdeAwrxzturBWckVoStyypump",
    0.085,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "KNG22",
-   "GkpzxCmshn65L7egSoFWFgc7qF2bRvZqpwYEPxmjpump",
-   0.076,
-   2.2,
-   "buyers=2; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "STMB",
    "41s83W1JbVV9bHYZtzsdEdeFqsXbztrQkpVXR8VCpump",
    0.075,
-   3.4,
+   4.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Cat",
-   "D75ZScshXptC1CjcZJMFY7qqTinXdXzVR3FMswSdpump",
-   0.064,
-   2.4,
-   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "Birdie",
+   "EHQo5EYFyHStmkTQPBtbbuk4y5LbfU7K4NCrorNmpump",
+   0.029,
+   8.6,
+   ""
   ],
   [
-   "SWN",
-   "7DtNiwZzbPCxP6JvwEyExL2yKreyKMSDg7d7hdtVpump",
-   0.032,
-   2.5,
+   "Solana",
+   "FfPC2Wcsf6SsDxU2XA2kqnVQo5PbQx5grKaPwPbqpump",
+   0.014,
+   6.5,
+   ""
+  ],
+  [
+   "FINE",
+   "HcS1dJTXeouzAwKDai97U3mcL2mQBXM55NDpkEQpump",
+   0.013,
+   3.9,
+   ""
+  ],
+  [
+   "PUMPOWEEN",
+   "9uiedL48JHK5JvynJCH8pZVxBrdDjmv8gL5xaFxspump",
+   0.008,
+   7.6,
+   "top5_hold_most=89%"
+  ],
+  [
+   "CRIP",
+   "i9J9Cjh62kwUrcwAoSSDekAfCVZGKyTHPucG8nApump",
+   0.007,
+   7.5,
    ""
   ]
  ]
