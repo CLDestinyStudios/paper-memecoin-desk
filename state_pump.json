@@ -2,25 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 163.42581743695035,
- "positions": {
-  "ztJKeL2qbeGfgR9UK4PnFZ3Vskc1KJddvBDwyn5pump": {
-   "sym": "WhatsUp",
-   "bc": "BUCr8L5jtjotAzgKNr71SxjB9S73AVWQDxw6dZnps6RX",
-   "tokens": 264057.845565834,
-   "cost": 2.745,
-   "cost0": 5.49,
-   "entry_px": 9.545922819333203e-08,
-   "entry_fill": 1.0173763395918068e-07,
-   "opened": 1793220774.405963,
-   "last_px": 1.674639713884427e-07,
-   "peak_px": 1.9668370607354425e-07,
-   "last_val": 4.231364354494956,
-   "last_prog": 0.8,
-   "tp1_done": true,
-   "realized": 0.9018131092825157
-  }
- },
+ "cash": 167.68140981390923,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -2733,81 +2716,85 @@
   [
    "2026-10-28T14:37:48",
    167.66
+  ],
+  [
+   "2026-10-28T14:38:48",
+   167.68
   ]
  ],
- "cycles": 725,
+ "cycles": 726,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.21799516000002,
- "watching": 267,
+ "sol_usd": 102.15758838845954,
+ "watching": 272,
  "near": [
   [
    "CATBOT",
    "4s3CxU2Ma55F79r2rS8t4bmGqzF7o3k5mva3ApZdpump",
    0.277,
-   3.2,
+   4.2,
    "top5_hold_most=88%"
-  ],
-  [
-   "AFUND",
-   "AdSPNZE56hX1ErtLRFtt4iy7VXwWUVUcSbj4cy1D47fD",
-   0.234,
-   2.0,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Tucker",
-   "4vpSnoTKvfkJgheXLnjGXqHiJVgjTAVvR248r4cdpump",
-   0.211,
-   9.7,
-   ""
   ],
   [
    "IA",
    "61zX8j8ZRGUBRoAKVguWGbZCNw4qL9ydpwfGHLY7pump",
    0.131,
-   8.7,
+   9.7,
+   ""
+  ],
+  [
+   "Fridge",
+   "56JqAwipYWTPwh96q8hHHpqLvkFSXFfMWEvb4w6zpump",
+   0.093,
+   2.6,
    ""
   ],
   [
    "TUCKER",
    "FVGzGdKe59HgfgcDermdLYZQqc4yoT8K4BtzNEt2pump",
    0.083,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "Giraffedog",
+   "HHUt4mFFHzeAH4JCAoNjBGyaGh3swXokTPTSiKejpump",
+   0.061,
+   2.1,
+   ""
+  ],
+  [
+   "ket",
+   "BPrwvVTXwDUzNoqGCZe2wbcQknTxixHQ9bXKMXwLCket",
+   0.047,
+   2.3,
    ""
   ],
   [
    "CABLES",
    "6eKxfegqA7BubUG1GvqmfUFmErAoLZSsKWXFFgKPpump",
    0.045,
-   5.8,
+   6.8,
    ""
   ],
   [
    "GTA6",
    "HuAXvPnr2f1y13ioQ4yKv6mF8SmWmaorujqwvNfvpump",
    0.044,
-   3.0,
+   4.0,
    ""
   ],
   [
-   "KIT",
-   "GRZY7rua9kJCgg897KGcayFtLYsUKDtfhtFpMJBspump",
-   0.04,
-   2.3,
+   "HAOWDY",
+   "C9RzWwt7u1XtydTqUxw8i2WDbLe5s3QUhrpkkDu5pump",
+   0.043,
+   2.4,
    ""
   ],
   [
    "Duo",
    "Fbsv98x9PtbJ54PVkva25R8H5N5DAhxeLYmk76wEpump",
    0.035,
-   2.7,
-   ""
-  ],
-  [
-   "BTX",
-   "27Hprr6Adob7dRHQ8pbZJ4bq1fcyuAyYrNQoJoCZpump",
-   0.029,
-   5.0,
+   3.7,
    ""
   ]
  ]
