@@ -13,10 +13,10 @@
    "entry_px": 7.743201211664543e-08,
    "entry_fill": 8.223123255192272e-08,
    "opened": 1793193380.9350216,
-   "last_px": 1.0591417831675685e-07,
+   "last_px": 1.0427456038873442e-07,
    "peak_px": 1.0910072614558287e-07,
-   "last_val": 13.39459189311407,
-   "last_prog": 0.658
+   "last_val": 13.190888125358345,
+   "last_prog": 0.652
   },
   "5gj8SGq9o4DJSPmJ1PXsXEd1ePU2s1WcwFQSWk87pump": {
    "sym": "OpenPump",
@@ -27,10 +27,10 @@
    "entry_px": 5.238750807163636e-08,
    "entry_fill": 5.5660137427856145e-08,
    "opened": 1793195951.301979,
-   "last_px": 5.238750807163636e-08,
+   "last_px": 5.1111398324714734e-08,
    "peak_px": 5.238750807163636e-08,
-   "last_val": 9.784330548889196,
-   "last_prog": 0.365
+   "last_val": 9.548088837879677,
+   "last_prog": 0.352
   }
  },
  "traded": [
@@ -1051,81 +1051,85 @@
   [
    "2026-10-28T06:59:11",
    366.96
+  ],
+  [
+   "2026-10-28T07:00:10",
+   366.52
   ]
  ],
- "cycles": 294,
+ "cycles": 295,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.96,
- "watching": 240,
+ "sol_usd": 100.99205585850001,
+ "watching": 247,
  "near": [
   [
    "Giraffedog",
    "FEjk9wn8qon1gDMDatUqTUDzMwCxMCMpjfeTqNy2pump",
-   0.969,
-   6.9,
-   ""
-  ],
-  [
-   "Rise",
-   "CamQPkQNhU4fGRVepZo8t5Y6DZi2DKJD1AYEAm5bpump",
-   0.628,
-   9.3,
-   "creator=43.3%; top10=49.4%; top5_hold_most=98%"
+   1.0,
+   7.9,
+   "graduated"
   ],
   [
    "Robotaxi",
    "8HfToph7SsjfZVuMhatshUMWz7oFJ8q4rTw8KFNLpump",
    0.535,
-   3.2,
+   4.2,
    "buyers=2; creator=36.8%; top5_hold_most=100%"
   ],
   [
-   "OpenPump",
-   "5gj8SGq9o4DJSPmJ1PXsXEd1ePU2s1WcwFQSWk87pump",
-   0.365,
-   2.8,
-   "bought"
+   "INVEST",
+   "GyDtSMMa8ifSxJDzcfqJQWM33hFw14ZELY6ZFHLCSpuc",
+   0.241,
+   6.6,
+   "top5_hold_most=95%"
   ],
   [
    "PEPEween",
    "GRhJfMxTvy91SCuboXJFFnZePyjcLTPYA6jCSTSupump",
    0.11,
-   6.8,
+   7.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Safe Ella",
    "HHi9L7A767zmdbdbS9RixXfPzPXxEHddeAFuUxJfpump",
    0.066,
-   6.9,
+   7.9,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Moon",
+   "CJDX4CUafN9ut56YPjc1fud1KPo5rWNCvcj4S9uMpump",
+   0.063,
+   2.8,
+   "top5_hold_most=85%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Voices ",
+   "7ykGV6fnooFdExBDfeesm5rFHHRewRC2ixwfx5L7pump",
+   0.062,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "GODSTRUST",
    "DjQ4avvtKAkyUQy5nTNs68mjFPoxdKbGweYCTE9Xpump",
    0.058,
-   4.4,
+   5.4,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "INVEST",
-   "GyDtSMMa8ifSxJDzcfqJQWM33hFw14ZELY6ZFHLCSpuc",
-   0.054,
-   5.6,
-   ""
   ],
   [
    "INVEST",
    "82773fyMEy7z7E4dZEeJhSP2ec5JGjGapHTaMcDZ2Lmu",
    0.05,
-   4.9,
+   5.9,
    ""
   ],
   [
    "MEME",
    "5HTUvAiFJEgdyLLhD3kbpJaRaenATe9koYJYzgBxMnxa",
    0.043,
-   2.9,
+   3.9,
    ""
   ]
  ]
