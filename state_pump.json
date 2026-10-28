@@ -13,10 +13,10 @@
    "entry_px": 3.904153879003225e-08,
    "entry_fill": 4.149252783614226e-08,
    "opened": 1793185026.5781991,
-   "last_px": 3.904153879003225e-08,
+   "last_px": 3.4221741298182114e-08,
    "peak_px": 3.904153879003225e-08,
-   "last_val": 11.07762712119281,
-   "last_prog": 0.208
+   "last_val": 9.706182616704451,
+   "last_prog": 0.13
   }
  },
  "traded": [
@@ -320,81 +320,85 @@
   [
    "2026-10-28T04:01:06",
    415.09
+  ],
+  [
+   "2026-10-28T04:02:06",
+   413.72
   ]
  ],
- "cycles": 116,
+ "cycles": 117,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.7195200195,
- "watching": 261,
+ "sol_usd": 102.724361401,
+ "watching": 271,
  "near": [
-  [
-   "\u30de\u30e1",
-   "2bjnX3XN3kk5HKvvgcNPLeAvPUUEvorUHdKyFS4dpump",
-   0.548,
-   2.2,
-   "creator=15.1%"
-  ],
-  [
-   "Rise",
-   "DPVuiuBmmyHragAVFY2ts1iXxgP9uYQHwz4RFRPmpump",
-   0.468,
-   2.2,
-   "creator=29.5%; top5_hold_most=97%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Spain",
-   "28cZ2ceqap3VGajJ4dgpGfNLYytUEipDMLsPYVkypump",
-   0.32,
-   3.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HumanPad",
-   "HUMAnspnZSrsq9TZBSm3aohHjShYHxsoJSsP9fUPaRNF",
-   0.141,
-   2.2,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
   [
    "password",
    "3N12T5SFtwvQmQzuFp1YRbMzLMbs1FEsXNxfCCczpump",
    0.104,
-   2.4,
+   3.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Bread",
-   "41GhtUMmirVq3GBjpPqtee65sBpb7AJhi5KoSvTUpump",
-   0.099,
-   6.6,
-   ""
-  ],
-  [
-   "Crow",
-   "CEcvsvpwYFEYbHVEG47ujkzwQdoo9QkeRv9HfV4FiZVa",
-   0.064,
-   3.0,
-   ""
+   "\u30de\u30e1",
+   "2bjnX3XN3kk5HKvvgcNPLeAvPUUEvorUHdKyFS4dpump",
+   0.043,
+   3.2,
+   "creator=15.1%"
   ],
   [
    "t-rex",
    "5FKUPMisKDAvcvED37U6DjrS9Qc9o7PV3QFQCgFjpump",
    0.035,
-   8.1,
+   9.1,
+   ""
+  ],
+  [
+   "Bread",
+   "41GhtUMmirVq3GBjpPqtee65sBpb7AJhi5KoSvTUpump",
+   0.028,
+   7.6,
    ""
   ],
   [
    "tegnike",
    "5t9737k2XNQMeBrNgpqBxbrx2u86odNFAhHDAQmjL8qo",
-   0.031,
-   8.4,
+   0.027,
+   9.4,
    ""
   ],
   [
-   "Nomad",
-   "AN5VGRdPvDVJhk4vBn5aTFovKKxVCoeHJ5xCS6HbzhYf",
-   0.03,
-   4.5,
+   "IMAGO",
+   "CMYPJsrF1rmdqWDmYsXKzWPNeLeFR9CXjZY7W8TWpump",
+   0.023,
+   5.9,
+   ""
+  ],
+  [
+   "moginmu",
+   "BA8W2VFrVoybGe427yggMdsW9ki1nPbppGRMhExKpump",
+   0.022,
+   3.9,
+   ""
+  ],
+  [
+   "Toledo",
+   "3yngPb1ZrzPoxfzB167jiUvDj5KdVmZsnUCcqDMgpump",
+   0.02,
+   9.8,
+   ""
+  ],
+  [
+   "Everybody",
+   "9vuqwDNBQAVFWCeNEbMbj4ip1tFCzVpstF54oDXzpump",
+   0.02,
+   4.1,
+   ""
+  ],
+  [
+   "\u30de\u30e1",
+   "4fsgYLtf1g2bzh338KYnRif1B6kVPYTSrAu7bFW8pump",
+   0.019,
+   2.5,
    ""
   ]
  ]
