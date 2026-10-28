@@ -21,81 +21,85 @@
   [
    "2026-10-28T02:34:04",
    500.0
+  ],
+  [
+   "2026-10-28T02:35:08",
+   500.0
   ]
  ],
- "cycles": 29,
+ "cycles": 30,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.460776786,
- "watching": 412,
+ "sol_usd": 102.38804535899999,
+ "watching": 434,
  "near": [
   [
    "Goofy",
    "9XANtGjiGENF5vfwzVSfustx1opd6he8td5jR4bPYB2v",
-   0.66,
-   2.2,
+   0.646,
+   3.2,
    ""
   ],
   [
-   "LEOPARD",
-   "4Heo2t9BtPHnfBoPLTnwv5fAcLnyA5gmWoKs6marpump",
-   0.302,
-   2.4,
+   "Hope",
+   "84zy2gdKJZ3QkCpLwqrtPzZPXmikiFsLdDZQri548PTq",
+   0.237,
+   2.6,
    ""
   ],
   [
    "fone",
    "EJ2xDjbsXbHyBxTB3rmyG8wfbQJWB7ASNNBq4sA7pump",
-   0.151,
-   3.0,
+   0.182,
+   4.1,
    ""
   ],
   [
-   "Scarface",
-   "B7me2NEoco67zs1mXeTDEPYKUD3thLATkSEaQESH751W",
-   0.131,
-   3.4,
+   "Flash",
+   "6KDwY4tAzpo4e1M6KWyhFXaa4NNzB5urqWXZen4Mpump",
+   0.176,
+   2.2,
+   "buyers=17; top5_hold_most=75%"
+  ],
+  [
+   "LEOPARD",
+   "4Heo2t9BtPHnfBoPLTnwv5fAcLnyA5gmWoKs6marpump",
+   0.118,
+   3.5,
+   ""
+  ],
+  [
+   "OSKAR",
+   "hi2tzjuGq376mb2SMq2zJ9QMGBoGrt5R8UKBkHypump",
+   0.107,
+   7.4,
    ""
   ],
   [
    "Sol",
    "HnJaHUEmAn45wTDsG7A9rcEkwh8gJgajVhFSPA53pump",
    0.082,
-   3.3,
+   4.4,
    ""
   ],
   [
-   "OSKAR",
-   "hi2tzjuGq376mb2SMq2zJ9QMGBoGrt5R8UKBkHypump",
-   0.072,
-   6.3,
+   "2000s",
+   "FhPKEiq7tzM5HejvjcCFJsNEcu1tKiuu5jLtcaVJpump",
+   0.079,
+   5.8,
    ""
   ],
   [
    "Ecko",
    "3dPJnnJm972wmmn7rJiAJdo2XyubQwT3ZJqx1QPDpump",
    0.063,
-   3.2,
-   ""
-  ],
-  [
-   "2000s",
-   "FhPKEiq7tzM5HejvjcCFJsNEcu1tKiuu5jLtcaVJpump",
-   0.063,
-   4.8,
-   ""
-  ],
-  [
-   "Gator",
-   "CWZ2NL1ANrWAQFh6qdGDLcek1VGzgxfbrLqBXB9wpump",
-   0.058,
-   8.7,
+   4.3,
    ""
   ],
   [
    "Sol",
    "DNtALmQHptbW7kfSHpjk7H1GzfGSHtcL6k33hk1Mpump",
-   0.058,
-   5.8,
+   0.057,
+   6.9,
    ""
   ]
  ]
