@@ -13,10 +13,10 @@
    "entry_px": 3.3235121125106424e-08,
    "entry_fill": 3.550193214446694e-08,
    "opened": 1793228150.9612513,
-   "last_px": 2.9176860617769483e-08,
+   "last_px": 2.917235538299904e-08,
    "peak_px": 3.3235121125106424e-08,
-   "last_val": 3.5128405333324997,
-   "last_prog": 0.029
+   "last_val": 3.512458665068249,
+   "last_prog": 0.028
   }
  },
  "traded": [
@@ -3021,81 +3021,85 @@
   [
    "2026-10-28T15:57:50",
    150.4
+  ],
+  [
+   "2026-10-28T15:58:50",
+   150.4
   ]
  ],
- "cycles": 805,
+ "cycles": 806,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.42999999999999,
- "watching": 237,
+ "sol_usd": 102.4349032965,
+ "watching": 239,
  "near": [
   [
    "4fun",
    "B8UzugDXfQBPuXAekhFyxRQtjLB1HUgYoDyub8o1four",
-   0.689,
-   4.7,
+   0.73,
+   5.7,
    ""
-  ],
-  [
-   "MOO",
-   "Gk7T2pTAHHYm8RzPkJcHSmfMVHJek5btzhLxqh5Fpump",
-   0.45,
-   4.1,
-   "top5_hold_most=98%"
   ],
   [
    "BangBus",
    "Bz4Txiqtodz1qdPMsZ4nKQXiF7ayzXsgFnJcwQAspump",
-   0.259,
-   5.1,
+   0.26,
+   6.1,
    "top5_hold_most=87%"
   ],
   [
    "AT",
    "FTXAysxMAyYFgGRRd3onsrXPyzpRqQS815Pz71Hgpump",
-   0.204,
-   4.6,
-   "top5_hold_most=85%"
+   0.16,
+   5.6,
+   "top5_hold_most=86%"
   ],
   [
-   "Lacy",
-   "B1GG5oJTmaXpTiVZLFms6T3v9TPM7BTrdUPfixkepump",
-   0.144,
-   2.5,
-   "buyers=1; top5_hold_most=100%"
+   "$LTC ",
+   "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
+   0.105,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "14",
-   "25hMYW4ufNzAgpMQWk8dVqHPXGTZFLBidwnKztMPTvsq",
-   0.09,
-   3.5,
+   "LUCIA",
+   "CMXL85dtP4T7LKemLZTpkQr3zvGzzqDx2WNT6M9Gpump",
+   0.071,
+   3.0,
    ""
   ],
   [
    "RAP",
    "2wM86nVkG4gk3HBznCuYXDWDQYgBZFRoMfveCudcpump",
    0.058,
-   6.0,
+   7.0,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MOO",
+   "Gk7T2pTAHHYm8RzPkJcHSmfMVHJek5btzhLxqh5Fpump",
+   0.045,
+   5.1,
+   "top5_hold_most=98%"
   ],
   [
    "LUCIA",
    "JE7dACRVRciuxQkSaBwzUSktXGswsJB6gLSYBWSfpump",
    0.032,
-   2.1,
+   3.1,
    ""
   ],
   [
    "memeify",
    "4nBLT3P11QQEa5WGfAWM75ARor7jqx9ENVjzoJQ4pump",
    0.032,
-   2.0,
+   3.0,
    ""
   ],
   [
-   "SPEEDRUN",
-   "92rMatPw58CfhVzQgcbRWX5aW3JEgjGALKYQmTKipump",
-   0.031,
-   5.1,
+   "MOO",
+   "HEVKeqRXrxdfWyADTcicQz6hojzo2WbXNugyKYM1pump",
+   0.021,
+   6.9,
    ""
   ]
  ]
