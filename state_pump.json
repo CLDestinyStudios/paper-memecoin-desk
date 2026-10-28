@@ -1682,83 +1682,83 @@
    272.36
   ],
   [
-   "2026-10-28T10:07:47",
+   "2026-10-28T10:08:55",
    272.36
   ]
  ],
- "cycles": 455,
+ "cycles": 456,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.991370727,
- "watching": 339,
+ "sol_usd": 100.9855932075,
+ "watching": 337,
  "near": [
   [
    "mos",
    "AQGJCS3jL1Lf6Em3wt31zFQAfW1AeFoEUXT7zfXzpump",
-   0.877,
-   3.7,
+   0.843,
+   4.8,
    ""
   ],
   [
    "MEGA",
    "mega4qqdQcsrCmj43fzHmxfZNmThNYeN3cz2kfR7fqs",
-   0.829,
-   3.0,
+   0.761,
+   4.1,
    ""
+  ],
+  [
+   "fog",
+   "27HKwJ373oT6ZM4Jk2LmSby286TkHXgssPrQmkpGpump",
+   0.684,
+   2.5,
+   "rugcheck=creator history of rugs"
   ],
   [
    "OMNI",
    "4ZAnAGZHZSv6LqD7z8rdaQ9SDF4Wx99YeCX4BBNipump",
-   0.472,
-   3.6,
+   0.583,
+   4.7,
    ""
+  ],
+  [
+   "PUMPETUALS",
+   "EvrBJ7tWsN59wZWu8hDzvhFG1pZZF8a2156WtN2apump",
+   0.288,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "PUMPURR",
    "Fe6rkeXsvdpYLSQ2fBiXVPFPcax8UT5r7rJF9FLJpump",
    0.247,
-   7.3,
+   8.4,
    "top5_hold_most=83%"
-  ],
-  [
-   "Penguin",
-   "9PgqFmAiW484ZcfWpR4qjWoGawoRTr9ofX5JbzMWpump",
-   0.21,
-   3.1,
-   ""
   ],
   [
    "SPECIES",
    "Fa5h6CKQwQEhzvveVuy1G3Yayf9xXDth73RsaCSGpump",
-   0.18,
-   6.5,
-   "buyers=9; top5_hold_most=85%"
+   0.193,
+   7.6,
+   "buyers=9; top5_hold_most=83%"
+  ],
+  [
+   "BLOOM",
+   "HYjijiexmo9Jb2HUSQvyeiZsNgSXJQYiagLZafAtpump",
+   0.166,
+   3.1,
+   ""
   ],
   [
    "neuronary",
    "J5qDWnk4j9TxpoWJb4zNfyyjFQXBTQ7iPafjquQpump",
    0.165,
-   9.1,
+   10.3,
    "buyers=9; top5_hold_most=82%"
   ],
   [
-   "Tom",
-   "Eva81EUL4uKKAMaoZnmVHp3tKGuGSLroeg5K8fYGpump",
-   0.116,
-   2.2,
-   ""
-  ],
-  [
-   "JUNO",
-   "GEGHxNbhwpjJBjgbBQEMj7Mftrkr7nkdmM6mvh4jmQWV",
-   0.099,
-   3.5,
-   ""
-  ],
-  [
-   "BLOOMSCROLLI",
-   "13NhEjBUV33Pbb8KdUGvhWxuEUP4rp7nEtEr2WvXDDLf",
-   0.074,
-   2.8,
+   "BLOOM",
+   "9EPkPccXHH1K1v9vf2pPuQYuynHpjn53Tj7cLQEnboYD",
+   0.131,
+   2.7,
    ""
   ]
  ]
