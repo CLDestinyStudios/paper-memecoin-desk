@@ -1,8 +1,23 @@
 {
  "bank_start": 500.0,
- "cash": 443.26817705409127,
- "positions": {},
- "watch": {},
+ "cash": 421.10817705409124,
+ "positions": {
+  "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
+   "sym": "CBUCKS",
+   "qty": 18521.304514985874,
+   "entry": 0.00119646,
+   "mark_entry": 0.001173,
+   "cost": 22.16,
+   "peak": 0.001173,
+   "last": 0.001173,
+   "opened": 1793211164.2861605,
+   "p_buy": 0.64
+  }
+ },
+ "watch": {
+  "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": 1793211165.0946088,
+  "Hhnf3dZTBvhedKjFCNh8Ci23YLEQg1MKTzMTHUwruMmz": 1793211165.4985242
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -21,7 +36,8 @@
   "BLeMEetdzeq9xsNti2tCiau4JnD7mzyQzQFHdy5pump",
   "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump",
   "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
-  "AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump"
+  "AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump",
+  "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump"
  ],
  "equity": [
   [
@@ -1415,8 +1431,12 @@
   [
    "2026-10-28T11:11:42",
    443.27
+  ],
+  [
+   "2026-10-28T11:12:45",
+   442.4
   ]
  ],
- "cycles": 539,
+ "cycles": 540,
  "started": "2026-10-28T01:46:56"
 }
