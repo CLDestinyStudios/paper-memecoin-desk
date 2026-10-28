@@ -1680,81 +1680,85 @@
   [
    "2026-10-28T10:05:49",
    272.36
+  ],
+  [
+   "2026-10-28T10:06:52",
+   272.36
   ]
  ],
- "cycles": 453,
+ "cycles": 454,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.059540572,
- "watching": 332,
+ "sol_usd": 101.00638708349999,
+ "watching": 335,
  "near": [
+  [
+   "DAN",
+   "Lh98zX8jG5PSmk8CTG92FvQAXitBvxPFkrSqaiVpump",
+   1.0,
+   2.8,
+   "graduated"
+  ],
+  [
+   "mos",
+   "AQGJCS3jL1Lf6Em3wt31zFQAfW1AeFoEUXT7zfXzpump",
+   0.829,
+   2.8,
+   ""
+  ],
+  [
+   "OMNI",
+   "4ZAnAGZHZSv6LqD7z8rdaQ9SDF4Wx99YeCX4BBNipump",
+   0.541,
+   2.6,
+   ""
+  ],
   [
    "PUMPURR",
    "Fe6rkeXsvdpYLSQ2fBiXVPFPcax8UT5r7rJF9FLJpump",
    0.247,
-   5.3,
+   6.3,
    "top5_hold_most=83%"
   ],
   [
    "SPECIES",
    "Fa5h6CKQwQEhzvveVuy1G3Yayf9xXDth73RsaCSGpump",
-   0.176,
-   4.5,
-   "buyers=9; top5_hold_most=88%"
+   0.181,
+   5.5,
+   "top5_hold_most=85%"
+  ],
+  [
+   "SSTR",
+   "6trgQK44ndRVhtRP27jweWoXktRFxeAqbGZ49UAkpump",
+   0.171,
+   2.3,
+   "top5_hold_most=88%"
   ],
   [
    "neuronary",
    "J5qDWnk4j9TxpoWJb4zNfyyjFQXBTQ7iPafjquQpump",
    0.165,
-   7.2,
+   8.2,
    "buyers=9; top5_hold_most=82%"
   ],
   [
-   "mos",
-   "3Qk264RdnEBA59sMZAY3cN8HYyJVVjdwbuyt8dFBpump",
-   0.122,
-   2.7,
-   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "ALPN",
-   "3YLRcvS9c4bXcDH3ku7uEqFYfB3isL15DopWpypUpump",
-   0.082,
-   3.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "JUNO",
+   "GEGHxNbhwpjJBjgbBQEMj7Mftrkr7nkdmM6mvh4jmQWV",
+   0.099,
+   2.6,
+   ""
   ],
   [
    "mos",
    "BpFQn8nXP3Uq7yMpC2i3wzpz61qAsKjXdeifGivRpump",
    0.076,
-   3.0,
+   4.0,
    ""
   ],
   [
    "TOKEN",
    "E8wKfTQrM7w5wQu1GSNQHTTTJ9GHrVCkjarDGpq9pump",
    0.073,
-   2.9,
-   ""
-  ],
-  [
-   "Bean",
-   "6TAPwEvZYqCtBZvThpVpswUbDruFy1YSq6qggoRxpump",
-   0.064,
-   2.6,
-   ""
-  ],
-  [
-   "NOCLIP",
-   "76q7tfPK4VQwQaf2mh894UmteoKDe8CaGM5NnBcCpump",
-   0.049,
-   3.1,
-   ""
-  ],
-  [
-   "SINGLE",
-   "51Kf5htzuCpgiyo6EVHoiyS7jDq6kdxj3gSaaRdrpump",
-   0.047,
-   8.2,
+   3.9,
    ""
   ]
  ]
