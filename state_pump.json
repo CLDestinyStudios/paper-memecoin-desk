@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 194.66073226912346,
+ "cash": 196.1354023146872,
  "positions": {
   "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": {
    "sym": "MYSTERY",
@@ -13,26 +13,12 @@
    "entry_px": 8.262468027960095e-08,
    "entry_fill": 8.796523579014163e-08,
    "opened": 1793215864.5460954,
-   "last_px": 9.985318008546147e-08,
+   "last_px": 9.651875940692695e-08,
    "peak_px": 1.294964719279087e-07,
-   "last_val": 3.3780662687102985,
-   "last_prog": 0.637,
+   "last_val": 3.268045697788262,
+   "last_prog": 0.625,
    "tp1_done": true,
    "realized": 1.2097756701705937
-  },
-  "2bzuBrX4SqaT1mrLbV3jw6GJzcVEGmjNHjkoYZR7pump": {
-   "sym": "ROUTR",
-   "bc": "Boxq8Wd21wSmAyzVxbDkcmsggJd4cx2DaTSTe2KbCRix",
-   "tokens": 426076.9870388031,
-   "cost": 6.13,
-   "cost0": 6.13,
-   "entry_px": 1.3216785746324031e-07,
-   "entry_fill": 1.407165633324074e-07,
-   "opened": 1793216577.4994838,
-   "last_px": 1.3216785746324031e-07,
-   "peak_px": 1.3216785746324031e-07,
-   "last_val": 5.402370900499781,
-   "last_prog": 0.731
   }
  },
  "traded": [
@@ -2246,81 +2232,85 @@
   [
    "2026-10-28T12:42:57",
    203.44
-  ]
- ],
- "cycles": 610,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.241491538,
- "watching": 199,
- "near": [
-  [
-   "ELYSIUMC",
-   "72s1iBWddR4VGqYWiY47KSmtpBHhrmhocfKrxb19pump",
-   0.931,
-   5.2,
-   ""
   ],
   [
-   "ROUTR",
-   "2bzuBrX4SqaT1mrLbV3jw6GJzcVEGmjNHjkoYZR7pump",
-   0.731,
-   2.4,
-   "bought"
+   "2026-10-28T12:43:58",
+   199.4
+  ]
+ ],
+ "cycles": 611,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.3810964665,
+ "watching": 196,
+ "near": [
+  [
+   "PT",
+   "j96CRzF6axWNUtq2sSWq8JJpNiF27MStWctU4R1pump",
+   0.413,
+   2.9,
+   "launch_slot=missing"
   ],
   [
    "Percy",
    "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
-   0.377,
-   6.1,
-   "creator=24.5%; top5_hold_most=94%"
+   0.381,
+   7.1,
+   "creator=24.5%; top5_hold_most=93%"
   ],
   [
    "MOVEMBER",
    "19bdBB94bgeVzp2PXrxhut5hDRvPSLoKVsFWEL3pump",
-   0.349,
-   3.1,
+   0.271,
+   4.1,
    ""
   ],
   [
-   "Susie",
-   "Dwc4Dw3vVdEGKbKBWyvu1NuXfkmQCdzZomCRbUmwpump",
-   0.265,
-   4.3,
-   "bundled_launch=3 extra buys in creation block"
+   "SIFI",
+   "79Ky1TS2dBfuXLJK9fkTAmbar8ZGYSvuWjrWszXQpump",
+   0.203,
+   2.7,
+   "launch_slot=missing"
   ],
   [
    "STOLAS",
    "6q7N9NS9suAbyJam3fqctppAdG6tBL5ywLJVKdU4pump",
    0.171,
-   7.5,
+   8.6,
    "buyers=8"
   ],
   [
    "Susie",
    "D3uzy6Ecjv47pNTxoRLx27Hy9Sg8WRZSRfANmdD3pump",
-   0.168,
-   5.4,
+   0.143,
+   6.4,
+   ""
+  ],
+  [
+   "SBR",
+   "EVcXA2oCvQ6yXWk6AfiUHVSg1PMbZW4f5sTsdepKpump",
+   0.097,
+   3.0,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "SIFI",
+   "HNg8afvW6AWeT1ifJv1y99BvAua6YGcZVxoxY6ripump",
+   0.075,
+   2.9,
    ""
   ],
   [
    "SHEDCOIN",
    "F2hZhxFkTkbTPAWCm7jpXTLD9bkF7ECiYYWMxiWVpump",
    0.069,
-   8.2,
+   9.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Hatch",
    "5s8mLieJsqmxktHNCriEpDmvWSW3GAL3Bmb8oBxYyV2d",
    0.068,
-   5.9,
-   ""
-  ],
-  [
-   "Fitz",
-   "HAyfa4ahnzniBzjVMKYu53PNcmp9dn51vwUQeVFZpump",
-   0.068,
-   4.4,
+   6.9,
    ""
   ]
  ]
