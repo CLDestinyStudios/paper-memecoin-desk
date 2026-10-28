@@ -15,7 +15,7 @@
    "opened": 1793230070.5884793,
    "last_px": 5.771552906436086e-08,
    "peak_px": 5.771552906436086e-08,
-   "last_val": 3.9104720516811775,
+   "last_val": 3.9088200817595182,
    "last_prog": 0.411
   }
  },
@@ -3190,81 +3190,85 @@
   [
    "2026-10-28T16:43:49",
    131.07
+  ],
+  [
+   "2026-10-28T16:44:50",
+   131.07
   ]
  ],
- "cycles": 851,
+ "cycles": 852,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.3094372945,
- "watching": 216,
+ "sol_usd": 102.26621690809174,
+ "watching": 225,
  "near": [
   [
-   "DINGLEDON",
-   "BU2B2uDPERxuZEjP2mWPWqVgvPsNw4dVHoZ6yVYcpump",
-   0.491,
-   2.6,
-   "serial_creator=9 launches/24h"
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "4yBF1zwab4waGkMacwEBRd6KeGaPDxmLGywwT9HNpump",
-   0.31,
-   9.7,
-   ""
-  ],
-  [
-   "FLOAT",
-   "HBmgUtXjPFJfN8bc95nUn9CiWfesUVQbQ6gopoyDpump",
-   0.103,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
+   "UPSEYY ",
+   "EiS1Jx8susVLrCMpyYgk8UAkhFA8x6GTD1UzGXfRpump",
+   0.192,
+   2.9,
+   "top5_hold_most=88%"
   ],
   [
    "SAME",
    "EKaAwDWfc57RBCY4wdKkzXwzJHCEtME8xTwa1JtYpump",
    0.063,
-   8.5,
-   ""
-  ],
-  [
-   "pumpcat",
-   "8mgpZqQvb15vBV72FoosWpsBJv2WDKUHER9Gdb1xpump",
-   0.048,
-   6.0,
-   ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
-   0.045,
-   4.3,
+   9.5,
    ""
   ],
   [
    "SAME",
    "4UUKpu5qPv8TfeE1ZUviWoZphmnVQ5cjVyA65V7cpump",
    0.044,
-   8.9,
+   9.9,
+   ""
+  ],
+  [
+   "Nov15",
+   "A8CuHxcQm1fqUayVfs6BYK3zhC8Po8AMseFwaiY1pump",
+   0.036,
+   3.2,
+   ""
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
+   0.033,
+   5.4,
    ""
   ],
   [
    "BIDDYBLAS",
    "9zagobUUGfZ6WYgFmcgciM6j4WLK57fC91VFSpj1pump",
    0.033,
-   2.7,
+   3.8,
+   ""
+  ],
+  [
+   "FlyingDog",
+   "9igwSMPdWYYvEKVcbx7ppnW4CEzrq4nd8hF7fC16pump",
+   0.028,
+   2.8,
    ""
   ],
   [
    "BFC",
    "9G617Gy7Am4pvtMhE5H44AvmDcvjaxdmcm33QBJYpump",
    0.024,
-   8.8,
+   9.9,
    ""
   ],
   [
    "Grokius",
    "527PTAXd2ZdxKgmdYFPrqqWtiemCg4Mn98undx8Rpump",
    0.023,
-   8.4,
+   9.4,
+   ""
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "HnWkg6XNpSTpU6GMzzUuawEodC5xPYH2pxXm6ytpump",
+   0.022,
+   5.3,
    ""
   ]
  ]
