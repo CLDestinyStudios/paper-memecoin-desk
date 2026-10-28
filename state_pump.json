@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 130.95123401501334,
+ "cash": 126.91123401501333,
  "positions": {
   "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump": {
    "sym": "Percy",
@@ -13,10 +13,24 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.44461325257207e-08,
-   "peak_px": 5.44461325257207e-08,
-   "last_val": 3.686947151722415,
-   "last_prog": 0.383
+   "last_px": 5.509412876925059e-08,
+   "peak_px": 5.509412876925059e-08,
+   "last_val": 3.7342361649856235,
+   "last_prog": 0.389
+  },
+  "DfGGdMDW8kGvU3bzjdLC5QsES829G4jUWqn2u4Sqpump": {
+   "sym": "Quary",
+   "bc": "5mN9jUsjnLac7s2cxczqDQNCZrqeAL6ECrTtW6jbsG7N",
+   "tokens": 751124.7304245757,
+   "cost": 4.04,
+   "cost0": 4.04,
+   "entry_px": 4.9111328729794304e-08,
+   "entry_fill": 5.252098210607756e-08,
+   "opened": 1793230491.334409,
+   "last_px": 4.9111328729794304e-08,
+   "peak_px": 4.9111328729794304e-08,
+   "last_val": 3.526758387292561,
+   "last_prog": 0.332
   }
  },
  "traded": [
@@ -229,7 +243,8 @@
   "4xwNE1mSoPGZAhJZaZXh4x3C6Brxh12rpxBhDCtipump",
   "EaQh2Pi4o7D5mQf5ahAFu5YxrkgXpmAcHQ9xGEnvpump",
   "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump",
-  "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump"
+  "9adRYsDKxsvyn18A5gvPock7PHQ2M2iZDo9vBetgpump",
+  "DfGGdMDW8kGvU3bzjdLC5QsES829G4jUWqn2u4Sqpump"
  ],
  "equity": [
   [
@@ -3147,81 +3162,85 @@
   [
    "2026-10-28T16:33:50",
    134.64
+  ],
+  [
+   "2026-10-28T16:34:51",
+   134.17
   ]
  ],
- "cycles": 841,
+ "cycles": 842,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.33126846100001,
- "watching": 274,
+ "sol_usd": 102.40860858249998,
+ "watching": 262,
  "near": [
   [
    "\u3164\u3164\u3164\u3164",
    "EmwuDiRagt1TydqnPS35kNmvaTWTk2D9X2Tm4Znupump",
-   0.937,
-   4.7,
+   0.92,
+   5.8,
    ""
   ],
   [
-   "COMPUTE",
-   "3vxBmgk5ANRQqUmS5iTWGq6zLMY8uJDRABvzwJ7Qpute",
-   0.669,
-   2.1,
-   "bundled_launch=6 extra buys in creation block"
+   "Niggi",
+   "8ZY2KDAAHQ34CtYaesWQcVypvfKsuhLReGCDqMF8pump",
+   0.86,
+   2.4,
+   ""
   ],
   [
-   "SONO",
-   "9yqMUDWQ2icJ6hXm2gR9pJBiB9SqSLdh88E1rBN9pump",
-   0.595,
+   "Quary",
+   "DfGGdMDW8kGvU3bzjdLC5QsES829G4jUWqn2u4Sqpump",
+   0.332,
+   2.5,
+   "bought"
+  ],
+  [
+   "AGENTWORLD",
+   "BzH7XCBdxMfxzHSKzSFhnPAFRdqH1WsfHZ36PE6xpump",
+   0.164,
    2.6,
-   "bundled_launch=3 extra buys in creation block"
+   "buyers=8; top5_hold_most=98%"
   ],
   [
-   "XTX",
-   "FV1JyDbs4LYBh2cYjDWHWFy5nnG4YoJYLh88xPkApump",
-   0.264,
-   9.0,
-   "top5_hold_most=86%"
+   "SIM",
+   "4yASFijDYowtYgDxRwqJ2AG1ezzyKPGPAN1K8qbGpump",
+   0.083,
+   8.5,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "AyeAye",
-   "CC128CWhWDkQwU1RMYsc5svnALGvosrVTM7Piihzpump",
-   0.19,
-   9.9,
-   "top5_hold_most=86%"
-  ],
-  [
-   "AIR",
-   "GSwSyofrxw9aLnsZsAFbcF5x3DTxWjVMDVYxvr9DMQBh",
-   0.133,
-   10.0,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "WAND",
-   "BdTi3btvxfTituytbST4FwAdSy3C9njCYZmwCdqvpump",
-   0.095,
-   3.8,
-   ""
+   "CREDITCAT",
+   "38D9vTWgkWW7pDEY8uH92bE9jTRqExdPL3DkBbrvpump",
+   0.082,
+   2.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "THOR",
    "zKd6iFUSzgPNWJLdnHoeDpMStrjW6zibbQoxUNgpump",
-   0.089,
-   2.3,
+   0.081,
+   3.3,
    ""
   ],
   [
    "EMMA",
    "4ugREXT71wyQKTt6EQaz8CgGtREGn93VvUtAaeGwpump",
    0.073,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "\u3164\u3164\u3164\u3164",
-   "F6oUZ2xm5NLMWtCyGm52Gvy3iAR8ZgQ8EFc6fSFApump",
-   0.073,
-   3.5,
+   "SONO",
+   "HNWbtvBS4SaZePoWzdDF72aQzRUfpeTSsPp2rJCHpump",
+   0.049,
+   4.6,
+   ""
+  ],
+  [
+   "MEABEA",
+   "2s8Jeyhb5Uz3ZpU5tGVXpHT8SM6nDJKWCkRYHoeKpump",
+   0.047,
+   2.1,
    ""
   ]
  ]
