@@ -13,10 +13,10 @@
    "entry_px": 7.743201211664543e-08,
    "entry_fill": 8.223123255192272e-08,
    "opened": 1793193380.9350216,
-   "last_px": 1.0496289845190661e-07,
+   "last_px": 9.967882640810045e-08,
    "peak_px": 1.0633252634561577e-07,
-   "last_val": 13.341102925647117,
-   "last_prog": 0.655
+   "last_val": 12.675126361894284,
+   "last_prog": 0.636
   }
  },
  "traded": [
@@ -962,82 +962,86 @@
   [
    "2026-10-28T06:41:13",
    364.95
+  ],
+  [
+   "2026-10-28T06:42:23",
+   364.29
   ]
  ],
- "cycles": 276,
+ "cycles": 277,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.4705443545,
- "watching": 263,
+ "sol_usd": 101.53000000000002,
+ "watching": 284,
  "near": [
-  [
-   "OPENPUMP",
-   "72KTne4FjHhzsu2Gw3i62ncjWdGrvsTykiMniBcxpump",
-   0.799,
-   4.5,
-   ""
-  ],
   [
    "EFP",
    "FdCqrZK5FHGZKhay9amVoFKFUreJUbypgiwXH94tpump",
    0.758,
-   8.8,
+   10.0,
+   ""
+  ],
+  [
+   "OPENPUMP",
+   "72KTne4FjHhzsu2Gw3i62ncjWdGrvsTykiMniBcxpump",
+   0.758,
+   5.6,
    ""
   ],
   [
    "FOMO",
    "FZKaTPPk7bLSZPWmnT8s63xxYGLuqMAMHXZBzWmApump",
-   0.662,
-   4.8,
+   0.722,
+   6.0,
    ""
+  ],
+  [
+   "Nipple",
+   "DH3bb17EYA9hVreQ5cRS17TG8g9pJZBfekxMTnxRpump",
+   0.249,
+   3.2,
+   "top5_hold_most=81%"
   ],
   [
    "EMPTY",
    "DfrbbbestAsxLRpuGY4xPRwAi8VWmocEgqbd5u7zpump",
-   0.159,
-   4.5,
+   0.154,
+   5.6,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "PEPEween",
    "HaJnchPW9LHLLb5tRxMuGuTPSwdEEpL94DLoEz2vpump",
    0.153,
-   4.0,
+   5.2,
    ""
   ],
   [
    "ECONOMIST",
    "9XeCacitaZ9FNvjgJyx5iZhterpmqCDw3MZNkxJKpump",
    0.135,
-   4.6,
+   5.8,
    "buyers=8; top5_hold_most=96%"
   ],
   [
    "TRNDST",
    "CHUUxtUBBexj6ZctJX7zg3E72kpnWcqGn5Lbzsxppump",
-   0.082,
-   8.3,
+   0.128,
+   9.5,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "ALIZ",
-   "7pUJ5CYKrLEq7QhTbhHriQXKdBRJrwpZRumMMp5xpump",
-   0.079,
-   8.7,
-   "buyers=1; top5_hold_most=100%"
+   "BADDONUT",
+   "5k5si2KAQXD9LyRAC2PZ1xLwKT4ZrinFzcWEsK2Ppump",
+   0.119,
+   2.8,
+   "buyers=8; top5_hold_most=90%"
   ],
   [
-   "FOMO",
-   "4mjc5HVHHCntgFNZWkY1dSCCqXVsrJPUQm3NgqkHpump",
-   0.063,
-   8.5,
-   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HALLOWEEN",
-   "2V5VLUzDwmz4pS4Z2FtPMVZ2AnabDPcYJpUYkh8mpump",
-   0.06,
-   6.1,
-   "buyers=2; top5_hold_most=100%"
+   "PAPU",
+   "FPVNReSn8Kf5vYZJb2aPSXvtU8iDQYxjkS1eqRH1HhE3",
+   0.108,
+   2.4,
+   "buyers=8; top5_hold_most=91%; bundled_launch=5 extra buys in creation block"
   ]
  ]
 }
