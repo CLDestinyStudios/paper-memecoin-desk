@@ -13,10 +13,10 @@
    "entry_px": 3.648242391414527e-08,
    "entry_fill": 3.8781374610056444e-08,
    "opened": 1793197386.7462451,
-   "last_px": 3.774344089780981e-08,
-   "peak_px": 3.774344089780981e-08,
-   "last_val": 10.10368555520034,
-   "last_prog": 0.188
+   "last_px": 3.8992936235240965e-08,
+   "peak_px": 3.8992936235240965e-08,
+   "last_val": 10.422692604834495,
+   "last_prog": 0.207
   },
   "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump": {
    "sym": "$UNU",
@@ -29,7 +29,7 @@
    "opened": 1793197447.8430178,
    "last_px": 3.8427373268693204e-08,
    "peak_px": 3.8427373268693204e-08,
-   "last_val": 9.694289930637563,
+   "last_val": 9.678862699270567,
    "last_prog": 0.199
   }
  },
@@ -1153,81 +1153,85 @@
   [
    "2026-10-28T07:25:08",
    363.49
+  ],
+  [
+   "2026-10-28T07:26:05",
+   363.79
   ]
  ],
- "cycles": 320,
+ "cycles": 321,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.53428755200001,
- "watching": 308,
+ "sol_usd": 100.37430000000002,
+ "watching": 314,
  "near": [
   [
    "COFFER",
    "CFR2seZGRcnPLzd78Zq4N4QLjb5jL9orBQ8conLfB41w",
-   0.577,
-   2.3,
+   0.579,
+   3.2,
    "creator=30.0%; top10=45.6%; top5_hold_most=91%"
+  ],
+  [
+   "CHIPMUNK",
+   "F7qMukpSciCRimthkDV9mdYSp2kkoBDcdTsnusaVyVZY",
+   0.158,
+   5.5,
+   ""
   ],
   [
    "CHIPMUNK",
    "BKGxb6c66wfjn1kz7E6D6hp8b7vJmt6x9HyRN9VUX77o",
    0.149,
-   4.9,
+   5.8,
    ""
   ],
   [
    "CALLCAT",
    "4iRkLQ4tscbqpmBDnGMaSFbYEPzRYGHPS5B2jqWGpump",
    0.14,
-   7.1,
+   8.1,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "CHIPMUNK",
-   "F7qMukpSciCRimthkDV9mdYSp2kkoBDcdTsnusaVyVZY",
-   0.121,
-   4.5,
-   ""
   ],
   [
    "long",
    "ywBDE8oVMu7Cn527Tx8buZfgmbjiRewP69REWPWpump",
    0.12,
-   6.1,
+   7.1,
    ""
   ],
   [
    "CHIPMUNK",
    "DBH18cofnZjdiA43x8oLAZU4GZ1yXAnLSSwtGzWZL6Tu",
    0.096,
-   5.8,
+   6.8,
    ""
   ],
   [
    "CHIPMUNK",
    "3RecxztupYD4YLaA6JUjCKajGcBjFLHKBXE619vdYXYX",
    0.091,
-   3.4,
+   4.4,
    ""
   ],
   [
    "CHIPMUNK",
-   "4iYjA8UuP35aQxaVzMEByJ564aJaot911URw237hpump",
-   0.084,
-   7.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "Aqb6b9p6KTuYzfaAAdRLgtVQR98EzqnuxhS3YzHgSbN3",
+   0.082,
+   2.9,
+   ""
   ],
   [
    "long",
    "AWo8cZLpWHG6UsMTGXEENTPExnLEiKYk8cbjf1yMLf55",
    0.082,
-   6.6,
+   7.5,
    ""
   ],
   [
    "CHIPMUNK",
    "GLzbL4X9nrKRm1h49SLYMRoyHeQsZoa2SnSNFij4pump",
    0.077,
-   7.2,
+   8.1,
    ""
   ]
  ]
