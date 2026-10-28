@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.9122980284059824e-08,
+   "last_px": 4.094977081829465e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 5.854803955986901,
-   "last_prog": 0.209,
+   "last_val": 6.125563777070161,
+   "last_prog": 0.235,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -575,81 +575,85 @@
   [
    "2026-10-28T05:04:07",
    389.07
+  ],
+  [
+   "2026-10-28T05:05:06",
+   389.34
   ]
  ],
- "cycles": 179,
+ "cycles": 180,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.48266343067809,
- "watching": 287,
+ "sol_usd": 102.40292267617463,
+ "watching": 289,
  "near": [
   [
-   "CABAL",
-   "9hxYSG7LiJ4YftjS9CrZ7H66tkGUPenugTWzZ5Atpump",
-   0.225,
-   2.9,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
    "ABLE",
-   "53cxGnsThbv1JQxrDft1Ecq4J71dirVAb1YosfsGE3Uk",
-   0.148,
-   3.4,
+   "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump",
+   0.849,
+   2.5,
    ""
-  ],
-  [
-   "GTC",
-   "2eeEjVo4uKN1EGo8q1wi41z9UokPE61ShZ9DebBHpump",
-   0.138,
-   2.9,
-   ""
-  ],
-  [
-   "Bowen",
-   "yTtCx8wYLrD75BL6hcBw9wLCZoJF1UnUAiDVcdVpump",
-   0.132,
-   2.1,
-   "buyers=9; top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "Jolle",
    "FsMgL73sXeyHb5HjSHmAE38MkPZBWst1Pu7erYZnpump",
    0.09,
-   5.5,
+   6.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "SAVA",
-   "7njRdtB4k9VE5ctgeVQXL8TGWGM8BxaozzJv28Gkpump",
-   0.084,
-   3.1,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Fartcoin",
-   "5P6eHrmBTSPQ3G5fuFtshzTTmhC7CEYfPquXuFBqpump",
-   0.063,
-   2.6,
-   ""
-  ],
-  [
-   "ABLE",
-   "FH4KAtPHQTByrob6hNdHn2ij9bKr9kxbiPp3kQJSpump",
-   0.061,
-   3.0,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "CIS",
    "2j39U6JjqVSLjy7KAj4sUgbPAcpSa15u4m8kGayzsiG5",
    0.041,
-   5.3,
+   6.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "KRUELAI",
    "uSkYF8EoDvAyyFpK5nEKn77dGXeYvnbhg76dEiipump",
    0.017,
-   3.1,
+   4.1,
+   ""
+  ],
+  [
+   "ECHOE",
+   "4EpLqUb4aQXmNSvfTLgNLWaCHDCBRGtVApjo8nHDpump",
+   0.017,
+   2.2,
+   ""
+  ],
+  [
+   "EXITLIQ",
+   "6ffuscCg2VvSYZvRbRjPuQVmc7Um51RgrQ8JXBgbpump",
+   0.012,
+   3.3,
+   ""
+  ],
+  [
+   "Solana",
+   "FfPC2Wcsf6SsDxU2XA2kqnVQo5PbQx5grKaPwPbqpump",
+   0.011,
+   9.5,
+   ""
+  ],
+  [
+   "ABLE",
+   "53cxGnsThbv1JQxrDft1Ecq4J71dirVAb1YosfsGE3Uk",
+   0.008,
+   4.3,
+   ""
+  ],
+  [
+   "SAVA",
+   "9hmksRZAu8TTQZJE6gbngWRVBQ3GAgh1vJyAaj1hpump",
+   0.007,
+   4.5,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "FINE",
+   "HcS1dJTXeouzAwKDai97U3mcL2mQBXM55NDpkEQpump",
+   0.007,
+   6.9,
    ""
   ]
  ]
