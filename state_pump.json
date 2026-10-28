@@ -13,10 +13,10 @@
    "entry_px": 3.4912967778299065e-08,
    "entry_fill": 3.712155290627298e-08,
    "opened": 1793201985.211952,
-   "last_px": 3.4912967778299065e-08,
+   "last_px": 2.9795190225170488e-08,
    "peak_px": 3.4912967778299065e-08,
-   "last_val": 8.929451108070838,
-   "last_prog": 0.142
+   "last_val": 7.613878981051589,
+   "last_prog": 0.042
   }
  },
  "traded": [
@@ -1323,82 +1323,86 @@
   [
    "2026-10-28T08:39:45",
    335.59
+  ],
+  [
+   "2026-10-28T08:40:40",
+   334.27
   ]
  ],
- "cycles": 367,
+ "cycles": 368,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.973118063,
- "watching": 232,
+ "sol_usd": 100.961622645,
+ "watching": 223,
  "near": [
   [
    "villainlon",
    "Asjmk93s5j9XtTayrNt52yYahtz8dYXHB9wbEjNDpump",
-   0.886,
-   4.4,
+   0.855,
+   5.3,
    ""
   ],
   [
-   "GOAI",
-   "ERwF8GeoA8BUFe5fiwtsSYNe1KruejbCevAoERsDpump",
-   0.451,
-   3.6,
-   "buyers=7; top5_hold_most=100%"
-  ],
-  [
-   "George",
-   "5o8o7HZhC9pJNwA5WaAUtaEij2NMrYtBEjfCZQdQsxBa",
-   0.274,
-   2.1,
-   "serial_creator=14 launches/24h"
-  ],
-  [
-   "ELON",
-   "ZtbRZqPDXqeNKr19nN3JmC2BBZXD14KwxqEGy7rjbjU",
-   0.204,
-   5.8,
-   ""
-  ],
-  [
-   "UNTIVO",
-   "4wQ1WTTBW2bUwhMt6PoGWGdDFJau3WBSdGHGZBWypump",
-   0.142,
-   7.7,
-   "bought"
+   "BCAT",
+   "4maHniMKyHyJhdeK2kqxdTtuGo3FfGFvgTZUu9NMpump",
+   0.493,
+   2.0,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Armillatus",
    "FC1euRobyBD58wfw5dXqE4urs5JNHBGK4FV3spiYpump",
-   0.136,
-   6.6,
+   0.123,
+   7.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "EVILMUSK",
-   "BgbF4MXbLesqydjTkFwdXAPQKGE3rwYxqPpAEKyZpump",
-   0.122,
-   3.3,
-   ""
-  ],
-  [
-   "Bread",
-   "Cys1RjzN9NRtx3xVgg5tfy5RCDFPwP2zXaJ1DXAEpump",
-   0.121,
-   2.3,
+   "ELON",
+   "ZtbRZqPDXqeNKr19nN3JmC2BBZXD14KwxqEGy7rjbjU",
+   0.115,
+   6.7,
    ""
   ],
   [
    "SLOTHANA",
    "CcoKqFP3f8mFYse49i7p7QmdH1FTLzvM6JBZMTVGpump",
    0.115,
-   3.0,
+   4.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "George",
+   "4mXaD5ZM1EhJEud2iQbprgK7QjppFuDnGq4h3UFUpump",
+   0.104,
+   2.7,
+   ""
+  ],
+  [
+   "George",
+   "DVVEHh633vBohk7JE9FqNN5o8dNEkPf1tRAJqQeRpump",
+   0.071,
+   2.0,
+   ""
   ],
   [
    "SEALED",
    "D7dpfd8yBLg8ztR3NjbwnUvvJ6w2wXCb5pRTUbaXpump",
    0.058,
-   3.3,
+   4.2,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "TEST",
+   "S9aw9Kys6xERuwN5jV4aqqwaqCJ3NaT8MruL6wEdETy",
+   0.053,
+   6.0,
+   ""
+  ],
+  [
+   "Bread",
+   "Cys1RjzN9NRtx3xVgg5tfy5RCDFPwP2zXaJ1DXAEpump",
+   0.043,
+   3.2,
+   ""
   ]
  ]
 }
