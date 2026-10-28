@@ -1686,83 +1686,83 @@
    272.36
   ],
   [
-   "2026-10-28T10:20:56",
+   "2026-10-28T10:21:56",
    272.36
   ]
  ],
- "cycles": 468,
+ "cycles": 469,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.893903832,
- "watching": 310,
+ "sol_usd": 100.900449833,
+ "watching": 306,
  "near": [
   [
    "Sol",
    "H2WoYa5yEncEhryAvC6NMumWaQ1MTYSZ7acAHSuMpump",
-   0.884,
-   6.4,
-   ""
+   0.678,
+   7.4,
+   "serial_creator=6 launches/24h"
   ],
   [
    "N3838",
    "GDanxd8eXnrXgi78hKW2m1efqCirh6Qj5jtQHVWgpump",
-   0.543,
-   4.3,
+   0.523,
+   5.3,
    ""
   ],
   [
    "FARM",
    "FGGH7AXvghCegiCqpgFMWVz7DNnQ4UrMVWag4CCjpump",
    0.367,
-   3.6,
+   4.6,
    "creator=20.6%; top5_hold_most=97%; launch_slot=missing"
+  ],
+  [
+   "PINGU",
+   "BWzMayEAPTaXKUgxCQcoV4dzdEZ2hpWXvGANX3kbpump",
+   0.278,
+   2.5,
+   ""
   ],
   [
    "BABYCOW",
    "3XqJf3ZWkHKRw1E9ErMWMswpxw12ZkMWEso8hkm4pump",
-   0.12,
-   3.0,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   0.112,
+   4.0,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
-   "AINT",
-   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
-   0.112,
-   4.9,
+   "yanito932",
+   "6bSmNUAqE3x5XFk5H5b9MvbcEvVdtHNm8bvZhzo4pump",
+   0.095,
+   2.9,
    ""
   ],
   [
    "BBR",
    "DYNivefzD5te2ztKD6nuRUoq8ARFSej5w9gRbBB5pump",
    0.086,
-   6.9,
+   7.9,
+   ""
+  ],
+  [
+   "AINT",
+   "7oLS1kS7uhbbXWeiubmDQjyJFvTnE5u55bmdcCVFpump",
+   0.086,
+   5.9,
    ""
   ],
   [
    "SOLANA",
    "267c5QpX1pWUEwXb9FFp9b6H2zffJStY1dxzGo7Rpump",
    0.072,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "yo",
-   "ASVZZZekZqgFf2dbkA1aoNkbCdxzWpFyGjTQA2YHptaR",
-   0.055,
-   3.6,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "LITEDOGE",
-   "DsEb2vW95GzGoCxiGdyVhe8dKbUomSGwuAoScJ3Hpump",
-   0.053,
-   8.7,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "BBR",
-   "Lpux8KGVfpZWVnjKM6uqAY4sshXXPU9426Z3rFmpump",
-   0.043,
-   6.0,
+   "MOTION",
+   "CLxKtMbNWyUdZKrHcMPRsYCJyboXXgaoJitLRGdp75mw",
+   0.064,
+   2.3,
    ""
   ]
  ]
