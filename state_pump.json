@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.7568528798683346e-08,
+   "last_px": 7.593595302282042e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 5.626461923568292,
-   "last_prog": 0.186,
+   "last_val": 11.416357004285803,
+   "last_prog": 0.532,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -559,82 +559,86 @@
   [
    "2026-10-28T05:00:07",
    388.84
+  ],
+  [
+   "2026-10-28T05:01:08",
+   394.63
   ]
  ],
- "cycles": 175,
+ "cycles": 176,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.594340834,
- "watching": 317,
+ "sol_usd": 102.59000000000002,
+ "watching": 324,
  "near": [
   [
    "garry",
    "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump",
-   0.84,
-   7.8,
+   0.816,
+   8.8,
    ""
+  ],
+  [
+   "KNG22",
+   "DCjsJHkHKz2uu6SQpuKDoyjHsLr39JSw49CwAB39pump",
+   0.385,
+   2.5,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "MIA",
    "7rexiKrNQtgUGdD6hzw8iuGJKoxMXxVrGvoPVZ3jpump",
    0.234,
-   8.6,
+   9.6,
    "top5_hold_most=84%"
   ],
   [
-   "Cat",
-   "7ZAVHQhy7khABgRfG9Z7YzxbnMpYvFWX45tg9Lj5pump",
-   0.095,
-   2.3,
-   "buyers=4; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "CIS",
+   "2j39U6JjqVSLjy7KAj4sUgbPAcpSa15u4m8kGayzsiG5",
+   0.098,
+   2.4,
+   ""
   ],
   [
-   "luck",
-   "4Z2ApFVmx8L2xiRVWjjKGCFNbuQKGQWi9EbvwADyYj8e",
-   0.091,
-   4.5,
-   ""
+   "Jolle",
+   "FsMgL73sXeyHb5HjSHmAE38MkPZBWst1Pu7erYZnpump",
+   0.093,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "THG",
    "EjZEfjxQu68e8Vi3Xh1YdeAwrxzturBWckVoStyypump",
    0.085,
-   7.4,
+   8.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "KNG22",
+   "GkpzxCmshn65L7egSoFWFgc7qF2bRvZqpwYEPxmjpump",
+   0.076,
+   2.2,
+   "buyers=2; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "STMB",
    "41s83W1JbVV9bHYZtzsdEdeFqsXbztrQkpVXR8VCpump",
    0.075,
-   2.4,
+   3.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "KNG22",
-   "2AovdncBM1gS5EvVuTD81Fe9B1XNkgt1oq5pDogXpump",
-   0.074,
-   5.0,
-   ""
+   "Cat",
+   "D75ZScshXptC1CjcZJMFY7qqTinXdXzVR3FMswSdpump",
+   0.064,
+   2.4,
+   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
-   "Cat",
-   "3nattCgSSMg7F2nRGQqHs5HvCdRYJP1XsmHU6sBepump",
-   0.072,
+   "SWN",
+   "7DtNiwZzbPCxP6JvwEyExL2yKreyKMSDg7d7hdtVpump",
+   0.032,
    2.5,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Cat",
-   "AC3wjt3d8VZ3oEktRoBSMApbSFXoZJcno4MSbri1pump",
-   0.067,
-   3.1,
    ""
-  ],
-  [
-   "PUMPOWEEN",
-   "9uiedL48JHK5JvynJCH8pZVxBrdDjmv8gL5xaFxspump",
-   0.03,
-   5.6,
-   "top5_hold_most=89%"
   ]
  ]
 }
