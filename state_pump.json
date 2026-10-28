@@ -13,10 +13,10 @@
    "entry_px": 5.874539408978363e-08,
    "entry_fill": 6.240353922372167e-08,
    "opened": 1793190367.4686122,
-   "last_px": 9.732948460205874e-08,
-   "peak_px": 9.732948460205874e-08,
-   "last_val": 8.347149289524152,
-   "last_prog": 0.628,
+   "last_px": 1.0184967065042451e-07,
+   "peak_px": 1.0184967065042451e-07,
+   "last_val": 8.738313005332794,
+   "last_prog": 0.644,
    "tp1_done": true,
    "realized": 2.1764581682455733
   }
@@ -671,81 +671,85 @@
   [
    "2026-10-28T05:31:06",
    392.18
+  ],
+  [
+   "2026-10-28T05:32:06",
+   392.57
   ]
  ],
- "cycles": 206,
+ "cycles": 207,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.863209576,
- "watching": 254,
+ "sol_usd": 101.88014575999999,
+ "watching": 255,
  "near": [
-  [
-   "McNugget",
-   "CvAs1F2dpkcV8qZkQUDkynhHPfz8qNqfSaMJnNwhpump",
-   0.731,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "BOARDO",
-   "B5y2RR2PRiCSioeFzUsGzMPXud3qjQq5gye72DBhpump",
-   0.267,
-   9.5,
-   "top5_hold_most=83%"
-  ],
   [
    "OH",
    "67rjUngf32SxWmsP6h5zmxPV8xApK6U6fTNfTNZ7pump",
-   0.104,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
+   0.145,
+   3.9,
+   "buyers=7; top5_hold_most=93%"
   ],
   [
    "TIT",
    "EFzdbCYTCiDnsTVZ9NAo6zuE6vzCY1rWnW1y2EeCpump",
    0.087,
-   5.7,
+   6.7,
    ""
   ],
   [
    "SAYINGPUMP",
    "6PmbaLzkV6svE53BJ3Tb8PSMeh7thzCimEY9aFzWpump",
    0.063,
-   7.5,
+   8.5,
    "buyers=7; top5_hold_most=98%"
   ],
   [
-   "FELIX",
-   "eS4AWi4REegiVXSndKKXt7VVQiQZ3V6kSrhxRTXpump",
-   0.047,
-   3.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "SBB",
-   "Aw98CL2PPCboyUJfpZievZn2aMprTLEip9iXU65Upump",
-   0.043,
-   2.4,
-   ""
-  ],
-  [
-   "BlueOcto",
-   "FsM3puRMniQdb6nR2RDYdv7ZCLmt6B9yshesa7x8pump",
-   0.029,
-   3.8,
+   "VALENCECAT",
+   "BFQ9YcnWzWQJdVGSvQjJq6nrmmKmkgCFrvFFQjmxhwmE",
+   0.044,
+   2.8,
    ""
   ],
   [
    "$PUMP'N",
    "61A1BrVBjLkFBqphwt11wRd9HDRCKZeMPzgH5Yjppump",
    0.027,
-   7.0,
+   8.0,
    ""
   ],
   [
    "PQC",
    "E7HE7j321nCdF1Y3Fqodpzy3x93it4Ss3jhQ9XoMCikz",
    0.022,
-   7.7,
+   8.7,
+   ""
+  ],
+  [
+   "NBDY",
+   "8xrYiqnxz74w5kX6cevzS2ayCkRd5JgdQBu7xh2Mpump",
+   0.021,
+   3.8,
+   ""
+  ],
+  [
+   "REA",
+   "AyjFdeyCNjy9eZQSrkXgGXqDxJ5B7uJHXAuf2bXapump",
+   0.017,
+   8.3,
+   ""
+  ],
+  [
+   "Chloe",
+   "FssyZuDjbcvMPt3xbNkUN3hyZXNgfGrnYnGwQouCuNfi",
+   0.016,
+   7.6,
+   ""
+  ],
+  [
+   "ZAIBATSU",
+   "6A9z1Gv9vfHq7NRQCS2GfWyrmPCPqNCLcqmNT98Wpump",
+   0.009,
+   8.8,
    ""
   ]
  ]
