@@ -13,10 +13,10 @@
    "entry_px": 4.2052104368585743e-08,
    "entry_fill": 4.489621693727529e-08,
    "opened": 1793225273.1053596,
-   "last_px": 8.286644208937833e-08,
+   "last_px": 7.805427223486385e-08,
    "peak_px": 1.9149854888207702e-07,
-   "last_val": 4.112715072146236,
-   "last_prog": 0.567,
+   "last_val": 3.87145029020537,
+   "last_prog": 0.543,
    "tp1_done": true,
    "realized": 2.3362971197425146
   }
@@ -2960,81 +2960,85 @@
   [
    "2026-10-28T15:43:50",
    158.47
+  ],
+  [
+   "2026-10-28T15:44:49",
+   158.23
   ]
  ],
- "cycles": 791,
+ "cycles": 792,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.4229839565,
- "watching": 247,
+ "sol_usd": 102.43473878,
+ "watching": 238,
  "near": [
   [
    "RAH",
    "9NbyYH6VjrPRCzvdZEVk61sqvC2Vo4iuYa5gmV2pump",
    0.266,
-   4.7,
+   5.7,
    "buyers=6; creator=15.1%; top5_hold_most=99%"
   ],
   [
    "MYCEL",
    "HRZa2mvrHkuiAHuMVZ1Wdu8aEWLuJLuRiuGd3gagq7MM",
-   0.168,
-   3.8,
-   "buyers=9; top5_hold_most=97%"
+   0.166,
+   4.8,
+   "buyers=8; top5_hold_most=98%"
   ],
   [
    "CHUDCAT",
    "9JYURfcKFmJEyFtLLoRSdsmJU5eFPc332zYXQGnHpump",
    0.08,
-   2.8,
+   3.8,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "slingoor",
-   "HA2QYr32TQhFqbPBgXEXj17ThfTHu1Hw6jZcM415pump",
-   0.079,
-   4.0,
-   ""
   ],
   [
    "NCOCOD",
    "E5DfFKKSixcyuj6P2ctJfpvBt2tiStq2vRj1N1GXpump",
    0.072,
-   6.6,
+   7.6,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Garry",
-   "2sYzspEySD41HGphxgdc3Fohck83vrHBqUBu3jKcpump",
-   0.072,
-   3.0,
-   ""
-  ],
-  [
-   "Catdog",
-   "4VXCW8FyqHns2LGaVFs8BcCoA9jwVrNX8CR9tx2npump",
-   0.07,
-   9.3,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "RETARD",
-   "48qkuqGk1sJRAGD3uky9sq1vB37AntHWhjDSBMK8pump",
-   0.05,
-   5.5,
-   "top5_hold_most=81%"
-  ],
-  [
-   "HAYES",
-   "AP3qmjk3pbApYaFPifgC4uTpZoWqqrNY8MbsNpZNpump",
-   0.047,
-   2.2,
-   ""
   ],
   [
    "Lambo",
    "Bx81zrAKVJWTkKETFgg5gAxQ2H5fFCkmVwLmmNaBpump",
    0.043,
-   7.8,
+   8.8,
+   ""
+  ],
+  [
+   "$Elump",
+   "7ww5eVTachUACg3z87gaZgYvhTrjNz15yLdaGYZRpump",
+   0.041,
+   6.5,
+   ""
+  ],
+  [
+   "ELON",
+   "aJsmNyXksbHpify2x1F84ibkDJuRw8hxFJ1Mfkapump",
+   0.032,
+   4.7,
+   ""
+  ],
+  [
+   "Hina$Efaz",
+   "3RZLgzzF9oJjvxJV4cGwcy3Y8HVAhicyoh7QE8espump",
+   0.032,
+   6.8,
+   ""
+  ],
+  [
+   "MTS",
+   "6g6iWkbBg4aqLrnUaJ4LmF6AFfh4fSs6XEhCzhsEo2qD",
+   0.022,
+   7.6,
+   ""
+  ],
+  [
+   "25k",
+   "7AKYNqmW4wBtE28CarPinBixnQJgPDZM2uU3sbPvpump",
+   0.022,
+   2.7,
    ""
   ]
  ]
