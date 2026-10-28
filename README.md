@@ -48,20 +48,25 @@ Paper only: no wallet, no key, no signing, no paid PumpPortal trade feed. Data, 
 - holders: public-RPC `getProgramAccounts` on the mint (wallets holding it, curve excluded). This stands in for "unique buyers";
   pump.fun's own trade list API is not usable without a key.
 - bundled launch: `getSignaturesForAddress` on the curve (extra buys in the creation block). Cached per coin.
-- creator: `/coins?creator=<wallet>` (launches in the last 24 h) and the RugCheck summary ("Creator history of rugged tokens"), at most 3 fresh RugCheck calls per cycle.
-Heavy checks run on at most 8 coins per cycle that already pass the curve and buy/sell filters. Runs within a 35 s budget.
+- creator: `/coins?creator=<wallet>` (launches in the last 24 h) and the RugCheck summary ("Creator history of rugged tokens"), at most 6 fresh RugCheck calls per cycle.
+Heavy checks run on at most 15 coins per cycle that already pass the curve and buy/sell filters. Runs within a 35 s budget.
+
+**PUMP rules loosened Oct 28 2:4x AM PT** (caelan wanted it to trade). Old -> new: buyers 25 -> 10, buys:sells 2:1 -> 1.3:1,
+curve band 15-60% -> 5-75%, creator <=10% -> <=15%, top-10 <=30% -> <=45%, top-5 majority 50% -> 80% of tokens outside the curve,
+bundled buys in the creation block 0 -> up to 2, creator launches/24 h <=3 -> <=5, deep checks 8 -> 15 coins/cycle, RugCheck 3 -> 6 calls/cycle.
+Max open 4 -> 6. Busy coins (>4000 curve txs) count the launch block as unknown instead of rejecting. Unchanged: mayhem skip, rug-history/rugged skip, 3% size, all exits (-15% curve stop, half at +50%, out at 90% curve, 45 min time stop, 5 min stall) — open positions are re-priced and exit-checked first thing every cycle.
 
 | rule | PUMP |
 |---|---|
 | when | each coin checked every cycle while 2-10 min old |
-| unique buyers | >= 25 (wallets holding, curve excluded) |
-| flow | DexScreener 5 m buys >= 2x sells |
-| curve | 15-60% of the way to graduation (~35-90 SOL market cap) |
-| creator | holds <= 10%; not RugCheck-flagged for past rugs; <= 3 launches in 24 h |
-| holders | top 10 (curve excluded) <= 30% of supply; skip if the top 5 hold > 50% of the tokens outside the curve |
-| launch | skip if any other buy landed in the creation block (creator/bundle wallets among first buyers) |
+| unique buyers | >= 10 (wallets holding, curve excluded) |
+| flow | DexScreener 5 m buys >= 1.3x sells |
+| curve | 5-75% of the way to graduation |
+| creator | holds <= 15%; not RugCheck-flagged for past rugs / rugged; <= 5 launches in 24 h |
+| holders | top 10 (curve excluded) <= 45% of supply; skip if the top 5 hold > 80% of the tokens outside the curve |
+| launch | skip if more than 2 other buys landed in the creation block |
 | skip | `is_mayhem_mode` coins, non-SOL pairs, graduated coins, non-1B supply |
-| size | 3% of equity, max 4 open, no re-entry |
+| size | 3% of equity, max 6 open, no re-entry |
 | fills | curve formula + 1.25% fee + 4% slippage penalty + 0.0005 SOL, each side |
 | stop | -15% on the curve price |
 | take profit | half at +50% on the curve price; the rest at 90% of the way to graduation (or on PumpSwap if it graduates first) |

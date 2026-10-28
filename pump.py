@@ -29,19 +29,21 @@ INIT_REAL_TOK = 793_100_000.0     # tokens sold on the curve at 100% (graduation
 SUPPLY = 1_000_000_000.0
 
 R = dict(age_min=120, age_max=600,          # check each coin at 2-10 min old
-         min_buyers=25,                     # unique buyers (proxy: wallets holding the coin, curve excluded)
-         buy_sell_ratio=2.0,                # DexScreener 5m buys >= 2x sells
-         prog_min=0.15, prog_max=0.60,      # 15-60% of the way to graduation
-         creator_max=0.10, top10_max=0.30,  # share of the 1B supply, curve excluded
-         top5_most=0.50,                    # skip if the top 5 wallets hold >50% of the tokens outside the curve
-         max_launches_24h=3,                # skip creators with >3 launches in 24h
-         size_pct=0.03, max_open=4,
+         # LOOSENED 2026-10-28 ~2:4x AM PT (was: 25 buyers, 2.0x, 15-60%, creator 10%, top10 30%, top5 50%, 0 bundled, 3 launches, 8 deep)
+         min_buyers=10,                     # unique buyers (proxy: wallets holding the coin, curve excluded)
+         buy_sell_ratio=1.3,                # DexScreener 5m buys >= 1.3x sells
+         prog_min=0.05, prog_max=0.75,      # 5-75% of the way to graduation
+         creator_max=0.15, top10_max=0.45,  # share of the 1B supply, curve excluded
+         top5_most=0.80,                    # skip if the top 5 wallets hold >80% of the tokens outside the curve
+         max_bundled=2,                     # skip if more than 2 other buys landed in the creation block
+         max_launches_24h=5,                # skip creators with >5 launches in 24h
+         size_pct=0.03, max_open=6,
          fee=0.0125, slip=0.04, net_sol=0.0005,
          stop=-0.15, tp1=0.50, tp1_frac=0.5, tp_prog=0.90,   # stops / TP on the curve spot price vs entry spot price
          max_hold_min=45, stall_min=5)
 DEADLINE = 35          # seconds; runs alongside STRICT/LOOSE so the 1-minute loop keeps its cadence
-MAX_DEEP = 8           # coins per cycle that get the holder / launch / creator checks
-RC_BUDGET = 3          # fresh RugCheck calls per cycle (shared IP with the other desks)
+MAX_DEEP = 15          # coins per cycle that get the holder / launch / creator checks
+RC_BUDGET = 6          # fresh RugCheck calls per cycle (shared IP with the other desks)
 
 S = requests.Session(); S.headers["User-Agent"] = "Mozilla/5.0 (paper-desk/pump)"
 NET = dict(calls=0, http429=0, errors=0, by={}); _lock = threading.Lock()
@@ -209,7 +211,10 @@ def launch_slot(bc, cache=None, pages=4):
             if cache is not None: cache["ls"][bc] = out
             return out
         before = res[-1]["signature"]
-    return None
+    # more than pages*1000 txs: too busy to page back to the creation block cheaply -> unknown, not a reject
+    out = dict(slot0_extra=None, txs=ok_n, last=last, too_busy=True)
+    if cache is not None: cache["ls"][bc] = out
+    return out
 def creator_launches(creator, cache):
     c = cache["cr"].get(creator)
     if c: return c["n"]
@@ -226,7 +231,8 @@ def rugcheck_creator_flag(mint, cache, budget):
     try:
         r = S.get(RC.format(mint), timeout=12); _count("rugcheck", r.status_code if r.status_code == 429 else None)
         if r.status_code != 200: return None
-        risks = r.json().get("risks") or []
+        j = r.json(); risks = j.get("risks") or []
+        if j.get("rugged"): risks.append({"name": "rugged"})
     except Exception: _count("rugcheck", "err"); return None
     flag = any("creator history" in (x.get("name") or "").lower() or "rugged" in (x.get("name") or "").lower() for x in risks)
     cache["rc"][mint] = {"t": now(), "flag": flag}; return flag
@@ -261,7 +267,7 @@ def manage(st, cvs, pairs, stats, sol_usd):
         move = px / pos["entry_px"] - 1; held = (now() - pos["opened"]) / 60
         b5 = ((pair or {}).get("txns") or {}).get("m5", {}).get("buys") if pair else None
         if b5 is None and held >= R["stall_min"]:
-            ls = launch_slot(pos["bc"]); b5 = 1 if ls and now() - ls["last"] < R["stall_min"] * 60 else 0
+            ls = launch_slot(pos["bc"], pages=1); b5 = 1 if ls and now() - ls["last"] < R["stall_min"] * 60 else 0
         ex = dict(progress=round(prog, 3))
         if move <= R["stop"]: reason = f"stop {move:+.1%} on the curve"
         elif prog >= R["tp_prog"]: reason = f"take profit at {prog:.0%} to graduation" if not (c and c["complete"]) else "graduated (sold on PumpSwap)"
@@ -325,7 +331,8 @@ def cycle(deadline=DEADLINE):
         if b is None: rej["no_dex_data"] += 1; continue
         if b < 1 or b < R["buy_sell_ratio"] * (s or 0): rej["buy_sell_ratio"] += 1; continue
         deep.append((m, c, pg, b, s or 0))
-    deep.sort(key=lambda x: -x[2]); deep = deep[:MAX_DEEP]; stats["deep_checked"] = len(deep)
+    # coins deep-checked in the last 90 s go to the back so the 15 slots rotate through the candidates
+    deep.sort(key=lambda x: (now() - (cache["seen"].get(x[0]) or [0])[0] < 90, -x[2])); deep = deep[:MAX_DEEP]; stats["deep_checked"] = len(deep)
     budget = {"left": RC_BUDGET}
     def deep_one(item):
         m, c, pg, b, s = item; w = W[m]
@@ -349,7 +356,8 @@ def cycle(deadline=DEADLINE):
         if f["top5_circ"] > R["top5_most"]: fails.append(f"top5_hold_most={f['top5_circ']:.0%}")
         final = False
         if ls is None: fails.append("launch_slot=missing")
-        elif ls["slot0_extra"] > 0: fails.append(f"bundled_launch={ls['slot0_extra']} extra buys in creation block"); final = True
+        elif ls["slot0_extra"] is None: f["launch_slot"] = "unknown (>4000 txs)"
+        elif ls["slot0_extra"] > R["max_bundled"]: fails.append(f"bundled_launch={ls['slot0_extra']} extra buys in creation block"); final = True
         if not fails:
             n = creator_launches(creator, cache); f["creator_launches_24h"] = n
             if n is None: fails.append("creator_launches=missing")
@@ -386,7 +394,7 @@ def cycle(deadline=DEADLINE):
     stats = dict(stats); log("cycle", stats=stats, rejects=dict(rej), via=via, src=src, net=net, equity=eq, cash=round(st["cash"], 2),
                              open=len(st["positions"]), secs=secs, sol_usd=round(sol_usd or 0, 2))
     return (f"CYCLE PUMP {st['cycles']} {iso()} | via {via} new {sum(v for v in src.values() if isinstance(v, int))} | watching {len(W)} "
-            f"| 2-10min {stats['in_window']} | 15-60% curve {stats['progress_ok']} | deep {stats['deep_checked']} | rejects {dict(rej)} "
+            f"| 2-10min {stats['in_window']} | {R['prog_min']:.0%}-{R['prog_max']:.0%} curve {stats['progress_ok']} | deep {stats['deep_checked']} | rejects {dict(rej)} "
             f"| entries {stats['entries']} exits {stats['exits']} (W{stats['win']}/L{stats['loss']}) | open {len(st['positions'])} | equity ${eq:.2f} "
             f"| http {NET['calls']} calls, 429s {NET['http429']} {({k: v[1] for k, v in NET['by'].items() if v[1]})}, errors {NET['errors']} | {secs:.0f}s")
 
