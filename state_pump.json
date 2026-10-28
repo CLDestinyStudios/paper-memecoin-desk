@@ -15,7 +15,7 @@
    "opened": 1793182927.2788136,
    "last_px": 5.107673487164436e-08,
    "peak_px": 5.107673487164436e-08,
-   "last_val": 15.22486561830984,
+   "last_val": 15.21949623750727,
    "last_prog": 0.352
   },
   "r3UDu8An74P59pM5WEGxkuXRNqXYGadEV8cySvHpump": {
@@ -27,10 +27,10 @@
    "entry_px": 4.585122387059912e-08,
    "entry_fill": 4.871441112651572e-08,
    "opened": 1793182987.148847,
-   "last_px": 4.244797585268747e-08,
+   "last_px": 4.701696763425071e-08,
    "peak_px": 4.708327514053018e-08,
-   "last_val": 11.079974486453322,
-   "last_prog": 0.255
+   "last_val": 12.271818204415329,
+   "last_prog": 0.31
   }
  },
  "traded": [
@@ -235,81 +235,85 @@
   [
    "2026-10-28T03:28:06",
    441.68
+  ],
+  [
+   "2026-10-28T03:29:06",
+   442.87
   ]
  ],
- "cycles": 83,
+ "cycles": 84,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 103.04804395633087,
- "watching": 409,
+ "sol_usd": 103.0117018169102,
+ "watching": 411,
  "near": [
   [
    "PACT",
    "A5yup18moZuqq2VP2nM6DwunKPW6YBqKX6aZ2VpMpump",
-   0.101,
-   3.8,
+   0.106,
+   4.8,
    ""
   ],
   [
    "MOONLIT",
    "5Fazx7tCg5UFrVCQ9WopLrDQtZEEtVLiauk4J6z4pump",
    0.085,
-   4.1,
+   5.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "TRAIN",
    "6WVhmBkv6Tuaok1Gs8Bkn71wVYDAU28WmoRvdDN9pump",
    0.082,
-   3.4,
+   4.4,
    ""
   ],
   [
-   "TOLEDO",
-   "87KaSyT9TWLBXZfaiUrQ78G6TksD2W6HU859Fyerpump",
+   "wealth",
+   "3Ke8qv14f3HXghpFRVE7HXoWWZP2HtRTbTsj8L3Bpump",
    0.072,
-   7.0,
+   2.6,
    ""
   ],
   [
-   "LULU",
-   "EHrymPyv7nYBTaTu1oYWoYs3KcSzKmg2eCWMGTh5pump",
-   0.069,
-   4.3,
-   ""
+   "Spain ",
+   "9TKxJQDnMmnDog8w1DDBraKMP1yCKhYT1XarbJBYpump",
+   0.072,
+   2.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "GULP",
    "E9UAgagxJmBUvQwTNUKfmfk2fSEWgcvYXqg1c3C1pump",
-   0.036,
-   3.0,
+   0.035,
+   4.0,
+   ""
+  ],
+  [
+   "TRAIN",
+   "BNyvYevHydXUPJPDBoXUhNu7mFXBN71Wf483U886pump",
+   0.031,
+   6.6,
    ""
   ],
   [
    "GAMEBOYYSS",
    "EtJVbuSk3oN3QpUpoV2i7eBHAuzTLnLyQgdigALDpump",
    0.028,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "doge",
-   "2Qto6xCuwKwQpWhXYnto2sEea3hur3uKE2y4cDcHpump",
-   0.014,
-   2.3,
+   "TOLEDO",
+   "6btrw3Nnapk5iQ6jGHgKV4fyEhp4otozM4r9wwsTpump",
+   0.025,
+   2.9,
    ""
   ],
   [
    "NUTS",
    "8hxm42S2j8VLgrXra6aCy1ZBjMvo3N2u22abTj5Kpump",
    0.013,
-   4.5,
-   ""
-  ],
-  [
-   "Hakai",
-   "BNz4RPqCPsd8kzzXBEH8sJthtssGA2g1vZfPRqu6pump",
-   0.009,
-   6.3,
+   5.5,
    ""
   ]
  ]
