@@ -13,10 +13,10 @@
    "entry_px": 7.743201211664543e-08,
    "entry_fill": 8.223123255192272e-08,
    "opened": 1793193380.9350216,
-   "last_px": 1.0633252634561577e-07,
+   "last_px": 1.0496289845190661e-07,
    "peak_px": 1.0633252634561577e-07,
-   "last_val": 13.51810795316621,
-   "last_prog": 0.659
+   "last_val": 13.337087027439669,
+   "last_prog": 0.655
   }
  },
  "traded": [
@@ -946,81 +946,85 @@
   [
    "2026-10-28T06:37:15",
    365.13
+  ],
+  [
+   "2026-10-28T06:38:14",
+   364.95
   ]
  ],
- "cycles": 272,
+ "cycles": 273,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.489091525,
- "watching": 233,
+ "sol_usd": 101.44,
+ "watching": 244,
  "near": [
-  [
-   "Biberty",
-   "Govp7Zznf5HvDhfcUPrY6Sj3pkEF5bdC9wh1ALS9pump",
-   0.876,
-   3.1,
-   ""
-  ],
   [
    "EFP",
    "FdCqrZK5FHGZKhay9amVoFKFUreJUbypgiwXH94tpump",
    0.758,
-   4.9,
+   5.8,
    ""
   ],
   [
-   "Rocky",
-   "DEamuMTqAr4hzk92eXNBykTALcM8xwve9xayTjoMpump",
-   0.314,
-   2.3,
-   "top5_hold_most=87%"
+   "Sakura",
+   "4dvpWtTVX3JBtkzynxRrk8GaRSufJAv6f17SBAi2XXJh",
+   0.121,
+   9.5,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
-   "FILL",
-   "DRwhzjzD5NAt5mGJxLGkiFn75uA1kgErtURzpcpWpump",
-   0.313,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
+   "good",
+   "A7AtqFvvBD9MfWqwvGAcih5SAtL6N7GpXqrQ73RqMXVC",
+   0.09,
+   2.5,
+   ""
+  ],
+  [
+   "GOOD",
+   "Hffv39xxZhyLznu5x2TmLKK7EZ1UP15ptDCqk3E7pump",
+   0.087,
+   2.5,
+   ""
   ],
   [
    "TRNDST",
    "CHUUxtUBBexj6ZctJX7zg3E72kpnWcqGn5Lbzsxppump",
    0.082,
-   4.4,
+   5.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "ALIZ",
    "7pUJ5CYKrLEq7QhTbhHriQXKdBRJrwpZRumMMp5xpump",
    0.079,
-   4.8,
+   5.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "bul",
-   "3YxqHaARW1eqwcEkL7jkD3mF4ZBAQ3aTTNGJwtGipump",
-   0.076,
-   2.4,
+   "gud",
+   "DU7dkE1WrEyBP5zXMRpDhuk115B7nEguzjua2UnApump",
+   0.072,
+   2.3,
    ""
   ],
   [
    "ZENO",
    "BXQxphAib2QS65LDokjrSeVdgo4HkZK3MkaczMiWpump",
    0.065,
-   6.0,
+   7.0,
    ""
   ],
   [
    "MAX",
    "8s6LedrCTRxxqAtnaoPuiiepa4sWTJ2BKDhFe2ULCwY1",
    0.064,
-   7.7,
+   8.7,
    ""
   ],
   [
    "FOMO",
    "4mjc5HVHHCntgFNZWkY1dSCCqXVsrJPUQm3NgqkHpump",
    0.063,
-   4.5,
+   5.5,
    ""
   ]
  ]
