@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 379.33064199050466,
- "positions": {},
+ "cash": 367.95064199050466,
+ "positions": {
+  "AEGui9gheWyUSdPidr7YBQmZ78FZM2ZYyDLBXAkNpump": {
+   "sym": "OPENPUMP",
+   "bc": "BSAouMYA8C6xKaYXKX2ebMLuJMHh5QRntuk1Y2Lc9uMo",
+   "tokens": 1789844.1941693116,
+   "cost": 11.38,
+   "cost0": 11.38,
+   "entry_px": 5.874539408978363e-08,
+   "entry_fill": 6.240353922372167e-08,
+   "opened": 1793190367.4686122,
+   "last_px": 5.874539408978363e-08,
+   "peak_px": 5.874539408978363e-08,
+   "last_val": 10.080384672972965,
+   "last_prog": 0.42
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -42,7 +57,8 @@
   "6LZBoy9xprmvUpgd3b4mxjpKyBFhMcjTakX6CTX5pump",
   "8mGYBTcVFmM8C4X1i7uwti6DdkEVaYi89k9KWUZVpump",
   "mtUoQ6Kj8gCMShLU2zFd9WsT7xq2cVdpGT7S56jpump",
-  "6uSmtS5B6phDbx8fCBxjtb89SLwaAmEobLXxbnDcpump"
+  "6uSmtS5B6phDbx8fCBxjtb89SLwaAmEobLXxbnDcpump",
+  "AEGui9gheWyUSdPidr7YBQmZ78FZM2ZYyDLBXAkNpump"
  ],
  "equity": [
   [
@@ -628,81 +644,85 @@
   [
    "2026-10-28T05:25:06",
    379.33
+  ],
+  [
+   "2026-10-28T05:26:07",
+   378.03
   ]
  ],
- "cycles": 200,
+ "cycles": 201,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.9247565345,
- "watching": 221,
+ "sol_usd": 101.88677440699999,
+ "watching": 232,
  "near": [
   [
-   "PQC",
-   "H9VQ2GmoJTU8TAh4JKteQqhUAtUNJ7fqQrMK5agzDzk5",
-   0.359,
-   2.0,
-   ""
+   "OPENPUMP",
+   "AEGui9gheWyUSdPidr7YBQmZ78FZM2ZYyDLBXAkNpump",
+   0.42,
+   2.2,
+   "bought"
   ],
   [
    "BOARDO",
    "B5y2RR2PRiCSioeFzUsGzMPXud3qjQq5gye72DBhpump",
    0.267,
-   3.5,
+   4.5,
    "top5_hold_most=83%"
   ],
   [
-   "MSGA",
-   "813LAf4z6CU2FvLW7CQDhUN2VPMFKwk6cGraPqsQpump",
-   0.139,
-   2.0,
-   "bundled_launch=5 extra buys in creation block"
+   "VALENCE",
+   "V9gD2xoapXiRD5qmA3miu1w9e8A6uCxpSSRCB8b41Fn",
+   0.204,
+   3.4,
+   "top5_hold_most=82%; bundled_launch=4 extra buys in creation block"
   ],
   [
-   "Discord",
-   "HckD2yrbX634tBPYkWhj2fpijZGRqNrDeTKMpdBvr146",
-   0.108,
+   "PQC",
+   "H9VQ2GmoJTU8TAh4JKteQqhUAtUNJ7fqQrMK5agzDzk5",
+   0.133,
    3.1,
    ""
   ],
   [
    "KIMPUMFUN",
    "3YsjasZqyQ5RGtXDcyf4aZ7jp1kRSZMttxhWLWFjpump",
-   0.103,
-   4.9,
-   "top5_hold_most=98%"
+   0.101,
+   5.9,
+   "top5_hold_most=99%"
   ],
   [
-   "VALENCE",
-   "V9gD2xoapXiRD5qmA3miu1w9e8A6uCxpSSRCB8b41Fn",
-   0.073,
-   2.4,
+   "SAYINGPUMP",
+   "6PmbaLzkV6svE53BJ3Tb8PSMeh7thzCimEY9aFzWpump",
+   0.088,
+   2.5,
+   "buyers=7; top5_hold_most=98%"
+  ],
+  [
+   "3",
+   "2hNAVqHF5mciePSv4PSecxhWkpcaNmXuvPzLUjM8pump",
+   0.08,
+   2.1,
    ""
   ],
   [
    "ROLO",
    "HFni8JvqsSAg9XER4MjNGbYezxqUQ1vL7Lq8qBsupump",
    0.072,
-   3.3,
+   4.3,
    ""
   ],
   [
    "TAIMO",
    "CA9vyyMprRfFqvk1pJ5Uk43j7FkpqbfQsgoTbr3gpump",
    0.044,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "something",
-   "BR6sQDQ2XZd4F98uQnMucTF33k1twVkN9cmxCAqUpump",
-   0.022,
-   4.8,
-   ""
-  ],
-  [
-   "VETTED",
-   "3D61uQX126ABfw6L64kEJoy7cuZL2bJCttMucj5ypump",
-   0.016,
-   5.8,
+   "PQC",
+   "E7HE7j321nCdF1Y3Fqodpzy3x93it4Ss3jhQ9XoMCikz",
+   0.033,
+   2.7,
    ""
   ]
  ]

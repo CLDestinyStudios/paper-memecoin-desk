@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 414.61579441653856,
+ "cash": 435.532306557089,
  "positions": {
   "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2": {
    "sym": "TROLL",
@@ -12,21 +12,11 @@
    "last": 0.0319,
    "opened": 1793177990.945919,
    "p_buy": 0.56
-  },
-  "EgN1z5Jkky8c7uo7wQdpVoP5PyHHckdihpvWyR5npump": {
-   "sym": "Woman Ape",
-   "qty": 317704.37236164836,
-   "entry": 7.25832e-05,
-   "mark_entry": 7.116e-05,
-   "cost": 23.06,
-   "peak": 7.116e-05,
-   "last": 7.116e-05,
-   "opened": 1793190307.7295105,
-   "p_buy": 0.61
   }
  },
  "watch": {
-  "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump": 1793190307.729774
+  "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump": 1793190366.2872345,
+  "2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump": 1793190367.805419
  },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -809,8 +799,12 @@
   [
    "2026-10-28T05:25:08",
    460.3
+  ],
+  [
+   "2026-10-28T05:26:07",
+   459.06
   ]
  ],
- "cycles": 220,
+ "cycles": 221,
  "started": "2026-10-28T01:46:56"
 }
