@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """PAPER-ONLY Solana memecoin desk. No wallets, no keys, no signing, no real money.
 Read-only public APIs: DexScreener, GeckoTerminal, RugCheck. Strict thresholds copied from @x_insider4 (experiment).
-Two paper desks share one scout pass per cycle: STRICT (the post's rules) and LOOSE (looser rules, own $500 bank)."""
-import json, os, sys, time, datetime as dt
+Two paper desks share one scout pass per cycle: STRICT (the post's rules) and LOOSE (looser rules, own $500 bank).
+A third paper desk, PUMP (pump.py: pump.fun bonding-curve momentum, own $500 bank), runs in a parallel thread each cycle."""
+import json, os, sys, time, threading, datetime as dt
 import requests
+import pump
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DS = "https://api.dexscreener.com"
@@ -328,8 +330,17 @@ def evaluate(name, p, st, a, pair, rc, stats, cache, lost, rc_checked=True):
     st["watch"].pop(a, None); stats["pass_"] += 1; stats["clean_pass"] += 1
     rej("JUDGE", why, judge=j, risk_clean=True)
 
+def _pump_cycle(out):
+    try: out.append(pump.cycle())
+    except Exception as ex: out.append(f"CYCLE PUMP ERROR {iso()} | {type(ex).__name__}: {ex}")
+
 def cycle(only=None):
     t0 = now(); NET.update(calls=0, http429=0, errors=0, by={})
+    if only == "pump":                       # PUMP desk alone (own data path, own bank)
+        out = []; _pump_cycle(out); print(out[0]); terminal(); print(f"CYCLE_SECS {round(now() - t0, 1)}"); return
+    pump_out = []; pump_thread = None
+    if only is None:                         # PUMP runs alongside STRICT/LOOSE (separate session, files and bank)
+        pump_thread = threading.Thread(target=_pump_cycle, args=(pump_out,)); pump_thread.start()
     names = [only] if only else list(PROFILES)
     cache = load_cache(); desks = {}
     for n in names:
@@ -382,6 +393,8 @@ def cycle(only=None):
         print(f"CYCLE {p['label']} {st['cycles']} {iso()} | leads {stats['leads']} (deferred {stats['deferred']}) | RISK killed {stats['risk_killed']} "
               f"| ANALYST killed {stats['analyst_killed']} | JUDGE buy/watch/pass {stats['buy']}/{stats['watch']}/{stats['pass_']} "
               f"| exits {stats['exits']} (W{stats['win']}/L{stats['loss']}) | open {len(st['positions'])} | equity ${eq:.2f} | {secs:.0f}s")
+    if pump_thread:
+        pump_thread.join(); print(pump_out[0] if pump_out else f"CYCLE PUMP ERROR {iso()} | no result"); secs = round(now() - t0, 1)
     terminal()
     print(f"CYCLE_SECS {secs}")
 
@@ -466,7 +479,7 @@ def score_rows(live=True):
     c_eq = mine_equity(m, mine_prices(m) if live else {})
     return [("Caelan", m["bank_start"], c_eq, m["trades"], m["wins"], m["losses"], len(m["positions"])),
             ("Bot", st["bank_start"], b_eq, sum(e["kind"] == "entry" for e in L), sum(e["pnl"] > 0 for e in ex), sum(e["pnl"] <= 0 for e in ex), len(st["positions"]))] \
-           + [bot_row("Loose", PROFILES["loose"])]
+           + [bot_row("Loose", PROFILES["loose"]), pump.row()]
 def bot_row(name, p):
     st = load(p); L = read_log(p); ex = [e for e in L if e["kind"] == "exit"]
     eq = st["equity"][-1][1] if st["equity"] else st["bank_start"]
@@ -475,7 +488,8 @@ def scoreboard(live=True):
     print("CAELAN vs BOT (paper)\nwho      start     equity    change   trades  W/L   open")
     for n, s0, e, t, w, l, o in score_rows(live):
         print(f"{n:<8} ${s0:<8.2f} ${e:<8.2f} {e / s0 - 1:+7.2%}  {t:>5}   {w}/{l}   {o}")
-    print("(Bot = STRICT desk, Loose = LOOSE desk. Caelan trades = closed sells; Bot trades = entries. Equity marked at live price minus 2% exit haircut.)")
+    print("(Bot = STRICT desk, Loose = LOOSE desk, Pump = PUMP desk. Caelan trades = closed sells; Bot trades = entries. Equity marked at live price minus 2% exit haircut; "
+          "Pump marked at its curve sell quote after fees+slippage; Pump W/L counts fully closed trades.)")
 
 # ---------------- SEAT 7: LOGGER readers ----------------
 def read_log(p=None):
@@ -515,6 +529,7 @@ def recap_desk(p):
 
 def recap():
     for n in PROFILES: recap_desk(PROFILES[n]); print()
+    pump.recap(); print()
     scoreboard()
 def calibrate(p=None):
     p = p or P; print(f"[{p['label']} desk]")
@@ -559,23 +574,28 @@ def desk_block(p):
     return (f"<h1>{p['label']} desk</h1><p>bank start ${st['bank_start']:.2f} | equity ${vals[-1]:.2f} | cash ${st['cash']:.2f} | open {len(st['positions'])}</p>"
             f"<svg width=600 height=150 style=\"border:1px solid #131\"><polyline fill=none stroke=\"#3f3\" points=\"{pts}\"/></svg>"
             f"<h2>Open</h2><table>{pos or '<tr><td>none</td></tr>'}</table><h2>Recent activity</h2><table>{rows}</table>")
+def _pump_block():
+    try: return pump.block()
+    except Exception as ex: return f"<p>pump block error: {ex}</p>"
 def terminal(st=None):
     html = f"""<!doctype html><meta charset=utf-8><meta http-equiv=refresh content=60><title>PAPER DESK</title>
 <style>body{{background:#000;color:#3f3;font:13px monospace;padding:16px}}td{{padding:2px 8px;border-bottom:1px solid #131}}h1{{font-size:16px}}</style>
-<h1>PAPER-ONLY MEMECOIN DESKS - no real money</h1><p>Updated {iso()}</p>{''.join(desk_block(PROFILES[n]) for n in PROFILES)}{caelan_block()}"""
+<h1>PAPER-ONLY MEMECOIN DESKS - no real money</h1><p>Updated {iso()}</p>{''.join(desk_block(PROFILES[n]) for n in PROFILES)}{_pump_block()}{caelan_block()}"""
     open(os.path.join(HERE, "terminal.html"), "w").write(html)
 
 if __name__ == "__main__":
     args = sys.argv[1:]; cmd = args[0] if args else ""
     desk = args[args.index("--desk") + 1] if "--desk" in args else None
-    if desk and desk not in PROFILES: sys.exit(f"unknown desk {desk}; choose {list(PROFILES)}")
+    if desk and desk not in list(PROFILES) + ["pump"]: sys.exit(f"unknown desk {desk}; choose {list(PROFILES) + ['pump']}")
     if cmd == "mine": mine(args[1:])
     elif cmd == "scoreboard": scoreboard()
     elif cmd == "cycle": cycle(desk)
     elif cmd == "recap":
-        if desk: recap_desk(PROFILES[desk])
+        if desk == "pump": pump.recap()
+        elif desk: recap_desk(PROFILES[desk])
         else: recap()
     elif cmd == "calibrate":
-        for n in ([desk] if desk else list(PROFILES)): calibrate(PROFILES[n]); print()
-    else: print("usage: desk.py cycle|recap|calibrate [--desk strict|loose] | scoreboard | mine ...")
+        if desk == "pump": print("PUMP has no judge probabilities to calibrate (rules-only desk).")
+        for n in ([] if desk == "pump" else [desk] if desk else list(PROFILES)): calibrate(PROFILES[n]); print()
+    else: print("usage: desk.py cycle|recap|calibrate [--desk strict|loose|pump] | scoreboard | mine ...")
     if cmd in ("mine", "scoreboard"): terminal()

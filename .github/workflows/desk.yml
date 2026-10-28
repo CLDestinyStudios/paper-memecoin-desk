@@ -19,8 +19,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - run: pip install requests
-      - name: Paper desk loop (~5h40m, one cycle every 1 min, STRICT + LOOSE desks)
+      - run: pip install requests websockets
+      - name: Paper desk loop (~5h40m, one cycle every 1 min, STRICT + LOOSE + PUMP desks)
         run: |
           set +e
           git config user.name "github-actions[bot]"
@@ -33,7 +33,7 @@ jobs:
             timeout 75 python desk.py cycle >> loop.log 2>&1 || echo "cycle exit $? (timeout=124)" >> loop.log
             echo "loop wall $(( $(date +%s) - START ))s" >> loop.log
             tail -n 2000 loop.log > loop.log.trim && mv loop.log.trim loop.log
-            tail -n 6 loop.log
+            tail -n 7 loop.log
             git add -A
             if ! git diff --cached --quiet; then
               git commit -q -m "desk cycle $(date '+%Y-%m-%d %H:%M %Z')"
