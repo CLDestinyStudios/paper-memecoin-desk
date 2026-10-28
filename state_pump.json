@@ -13,10 +13,10 @@
    "entry_px": 6.569273042939003e-08,
    "entry_fill": 6.981000244725945e-08,
    "opened": 1793204089.2044473,
-   "last_px": 9.210442660065017e-08,
+   "last_px": 9.127178268336787e-08,
    "peak_px": 1.1979544814204335e-07,
-   "last_val": 5.779733426478486,
-   "last_prog": 0.608,
+   "last_val": 5.721782024951446,
+   "last_prog": 0.604,
    "tp1_done": true,
    "realized": 1.8229865628569373
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.292388258600089e-08,
    "entry_fill": 5.6265209983517733e-08,
    "opened": 1793205703.5514483,
-   "last_px": 5.125465925366938e-08,
+   "last_px": 5.208037658782668e-08,
    "peak_px": 5.292388258600089e-08,
-   "last_val": 7.5241265954501815,
-   "last_prog": 0.354
+   "last_val": 7.638988848740459,
+   "last_prog": 0.362
   },
   "F5ZtwVDm87amvQGddpzTT4CnK7QjsE7tuSEaG89yhtny": {
    "sym": "ZECHO",
@@ -45,7 +45,7 @@
    "opened": 1793206062.9068341,
    "last_px": 4.428672711150386e-08,
    "peak_px": 4.428672711150386e-08,
-   "last_val": 7.724657923982729,
+   "last_val": 7.717542505498137,
    "last_prog": 0.278
   }
  },
@@ -1649,82 +1649,86 @@
   [
    "2026-10-28T09:47:42",
    290.23
+  ],
+  [
+   "2026-10-28T09:48:43",
+   290.28
   ]
  ],
- "cycles": 435,
+ "cycles": 436,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.73671687899999,
- "watching": 355,
+ "sol_usd": 100.6439252105,
+ "watching": 354,
  "near": [
-  [
-   "TOADPURSE",
-   "55vx3AgceTTWpboe1Nu6k6TVrzhnnvZj1d3y5wcSpump",
-   1.0,
-   5.2,
-   "graduated"
-  ],
   [
    "OMNI",
    "HNfwa74aDBYx4Dz3X9fp2Sb5efY4io8jG2Tjqa1D4zcr",
-   0.95,
-   5.4,
+   1.0,
+   6.4,
+   "graduated"
+  ],
+  [
+   "EFP",
+   "FLiVbV3ayTomfBufJRfUkKCVsgrMqMT8Pr19zUwypump",
+   0.807,
+   3.1,
    ""
   ],
   [
-   "FANFUND",
-   "B2yC17SHc7KGBjNwBqzWHaDr7RtVZHcSJrXK9jLspump",
-   0.36,
-   2.4,
-   "buyers=8; top5_hold_most=80%; bundled_launch=7 extra buys in creation block"
+   "HKR",
+   "5DLMQuAJdQp4sWvPoNqNqLx8uEjWcFBaTLxLDRCBpump",
+   0.572,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "ZECHO",
-   "F5ZtwVDm87amvQGddpzTT4CnK7QjsE7tuSEaG89yhtny",
-   0.278,
-   4.4,
-   "bought"
-  ],
-  [
-   "OMNI",
-   "EVJQkwqeWKRKu2AtdStyPu872oefhobbGsaQyMgepump",
-   0.209,
+   "GSWAP",
+   "E5LPbBMdGe47UMJMtMRCapAqWCV9UPxF1LZKnJtCpump",
+   0.569,
    2.2,
-   "top5_hold_most=96%"
+   ""
   ],
   [
-   "FLUSH",
-   "85uKHPjBsULMDjCLaaaMrcb32sGLS5n4R3eHP64Jpump",
-   0.188,
-   2.3,
-   "top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
+   "Meecot",
+   "AwZfdDqpis7CcuAig1N4wN1HxauRSmZvKbVpdpXLBrxK",
+   0.476,
+   2.6,
+   ""
+  ],
+  [
+   "HISCORE",
+   "7PFFz5djsbtcNRZbkTXtsuyb3froLGitSAeVxxP7pump",
+   0.261,
+   2.1,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "RIPE",
+   "MzgA4jkNTv1AP9Gsju6gLd1x5dFVkEkVL5tJJm4pump",
+   0.228,
+   2.2,
+   ""
   ],
   [
    "OMNI",
    "24c4dEBLT9y5YNAvVrmikYwAfNqehd9xN2FHn6dApump",
    0.123,
-   3.8,
+   4.8,
    ""
   ],
   [
    "CC",
    "HMLomPJj5i8SU1hikok2i6ibzKtufL78n1sEdyydpump",
    0.11,
-   4.3,
+   5.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "OMNI",
-   "MHs6zPh28aFRiWisMCxuY8uqmE39Zyre8xsAiDqcCUb",
-   0.088,
-   7.6,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "JOJO",
-   "5mKoThr2kS65huC2Br2jtonQQy1AXyEr8k9pytQVs6J5",
-   0.064,
-   2.7,
-   ""
+   "HYPERCAT",
+   "91LkSXbiiGcs6PeigebDu5xYZyNQk8NCscyifBqrpump",
+   0.104,
+   2.5,
+   "buyers=9; top5_hold_most=98%"
   ]
  ]
 }
