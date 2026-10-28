@@ -13,10 +13,10 @@
    "entry_px": 3.5145142835429655e-08,
    "entry_fill": 3.736869955677185e-08,
    "opened": 1793202160.6608937,
-   "last_px": 3.5145142835429655e-08,
-   "peak_px": 3.5145142835429655e-08,
-   "last_val": 8.85853029070731,
-   "last_prog": 0.146
+   "last_px": 3.7729119106056236e-08,
+   "peak_px": 3.7729119106056236e-08,
+   "last_val": 9.511473445851076,
+   "last_prog": 0.188
   }
  },
  "traded": [
@@ -1336,80 +1336,84 @@
   [
    "2026-10-28T08:42:40",
    332.94
+  ],
+  [
+   "2026-10-28T08:43:40",
+   333.59
   ]
  ],
- "cycles": 370,
+ "cycles": 371,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.99000000000001,
- "watching": 242,
+ "sol_usd": 100.9781124725,
+ "watching": 236,
  "near": [
   [
    "villainlon",
    "Asjmk93s5j9XtTayrNt52yYahtz8dYXHB9wbEjNDpump",
-   0.981,
-   7.3,
+   0.982,
+   8.3,
    ""
   ],
   [
    "GRUMPEX",
    "GRqLZkWRaxSyqaj3MyH6AM71RhubP56JNnHPWQqUpump",
-   0.927,
-   2.4,
-   ""
-  ],
-  [
-   "PumpLiquid",
-   "3KwcTeprKySuMKCtUGfzc8tEqEJrXf6zeXFRgCUhpump",
-   0.431,
-   2.5,
-   ""
-  ],
-  [
-   "LOST",
-   "AXYpFcYoT6dsLhJdkSTamB8yJg5T2oef9FBGCpHhpump",
-   0.146,
+   0.932,
    3.4,
-   "bought"
+   ""
   ],
   [
    "Elon",
    "8VHDbcgfKS1PKnEJM2YwVtDeBxxHxZ161EDUfagZvo2v",
-   0.146,
-   3.2,
+   0.141,
+   4.2,
    ""
-  ],
-  [
-   "Armillatus",
-   "FC1euRobyBD58wfw5dXqE4urs5JNHBGK4FV3spiYpump",
-   0.123,
-   9.5,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SLOTHANA",
    "CcoKqFP3f8mFYse49i7p7QmdH1FTLzvM6JBZMTVGpump",
    0.115,
-   6.0,
+   7.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "PumpLiquid",
+   "3KwcTeprKySuMKCtUGfzc8tEqEJrXf6zeXFRgCUhpump",
+   0.105,
+   3.5,
+   ""
   ],
   [
    "BCAT",
    "CK6etpdWz2o61edEsV4hKiyi7tadfW7a9Uty4m1fPKwQ",
    0.091,
-   2.8,
+   3.8,
    ""
   ],
   [
    "QC",
    "Aq7RQ8KUvxXLNqaxQt6BkNRn6rBt3XdJjdTt7gzUpump",
    0.084,
-   2.8,
+   3.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "George",
    "4mXaD5ZM1EhJEud2iQbprgK7QjppFuDnGq4h3UFUpump",
    0.079,
+   5.7,
+   ""
+  ],
+  [
+   "BCAT",
+   "DrrxhyY7pBap1XqNKkWjueLEEEcrCu5LWnxV98oD9ey7",
+   0.078,
+   4.6,
+   ""
+  ],
+  [
+   "BCAT",
+   "4mat64aZ6zNGf2sxRgHXQm1foiMjfn8WTUv2MBHEpump",
+   0.045,
    4.7,
    ""
   ]
