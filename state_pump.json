@@ -3208,82 +3208,86 @@
   [
    "2026-10-28T16:53:54",
    129.32
+  ],
+  [
+   "2026-10-28T16:54:51",
+   129.32
   ]
  ],
- "cycles": 861,
+ "cycles": 862,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.21,
- "watching": 282,
+ "sol_usd": 102.222717494,
+ "watching": 294,
  "near": [
   [
-   "PIPER",
-   "7EMAkbQVeG2qnk5zzCvqSr3kmbCPefWbHS2hH9HUpump",
-   1.0,
-   2.6,
-   "graduated"
+   "VELUM",
+   "7SsZ6TpJczTMwA2qvmRYzefQm8uxedvYfDwZrP4Mpump",
+   0.205,
+   3.0,
+   "serial_creator=11 launches/24h"
   ],
   [
-   "Pussper",
-   "3kxcfBpGMJpiKG5Cb4JUkwNcsCgzUPi2iN1hSh68pump",
-   0.432,
-   9.1,
-   ""
-  ],
-  [
-   "ClavCat",
-   "6FhBEmFdJJcf6RFJK9yAA1QxAakMsxwZbyzuJzrJpump",
-   0.159,
-   8.8,
+   "FINECOMB",
+   "2QUNWc98A28pHzrxEw5oWk31BK3E6SPfK34jtr8cpump",
+   0.14,
+   3.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "SHIBO",
    "7jpjkbYFgQ9iHSk3xLk15L5bHQhURsHuWCQjZ1wGpump",
    0.132,
-   8.9,
+   9.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PIPER",
    "GyKY9cvJPdpkVEfeToUgjs7xj2Yty3ENbUDcTWfUpump",
    0.116,
-   3.8,
+   4.7,
    ""
-  ],
-  [
-   "FINECOMB",
-   "2QUNWc98A28pHzrxEw5oWk31BK3E6SPfK34jtr8cpump",
-   0.103,
-   2.3,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "FLOAT",
    "FpDtGNv9hvm9kyBMRSaaxrXAkED49QJtiz3PP5Smpump",
-   0.074,
-   7.1,
-   "buyers=7; top5_hold_most=89%"
+   0.086,
+   8.1,
+   "buyers=8; top5_hold_most=84%"
   ],
   [
    "Entry",
    "4yGpaxufioePFiJ3eXBpuK894JmQrQfzeJhA5ofnpump",
    0.073,
-   8.4,
-   ""
-  ],
-  [
-   "BEAR",
-   "B8VECF6ycRQs4ommyraxzZqk2RhWY3Ad3L1fJNBUpump",
-   0.071,
-   3.3,
+   9.4,
    ""
   ],
   [
    "MSCHF",
    "4LcMpsSLpGnpuyCx3kS4aggVevagdmp6BQHi8YMNpump",
    0.066,
-   4.7,
-   "buyers=9; top5_hold_most=98%"
+   5.7,
+   "top5_hold_most=97%"
+  ],
+  [
+   "PULYGUN",
+   "De1ynAHmEMT9WRoGc16iSchNWUofGrRaaeynXFiZpump",
+   0.062,
+   4.1,
+   ""
+  ],
+  [
+   "CHECKOUT",
+   "EdW8xmqPxyfE3jtdxEiPhgZi28azMq4rjZtmCLLmXcfT",
+   0.062,
+   8.5,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ROADSTER",
+   "8sQMjMW5t9C1Asqr1qmjELDoCFbxTsa4aJmoE2Qpump",
+   0.059,
+   5.3,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
