@@ -17,81 +17,85 @@
   [
    "2026-10-28T02:25:04",
    500.0
+  ],
+  [
+   "2026-10-28T02:26:04",
+   500.0
   ]
  ],
- "cycles": 20,
+ "cycles": 21,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.5770586745,
- "watching": 144,
+ "sol_usd": 102.6354533665,
+ "watching": 134,
  "near": [
   [
    "Agent",
    "4d1TMB4W5DXxc4TATKcKnxp3q3v6uoB5x95VmCvhpump",
-   0.893,
-   5.9,
+   0.896,
+   6.9,
    ""
   ],
   [
    "KIT",
    "HhDLhdM1CozLjr2yfsjDK7H58EewyCprWRkwbCxCgk7w",
-   0.848,
-   7.9,
+   0.797,
+   8.9,
    ""
   ],
   [
    "KIT",
    "GdMt44fyHAYcvAz2jCv7V6XLWkSy7CWM7QJ6XSPzpump",
-   0.545,
-   8.3,
-   ""
-  ],
-  [
-   "ALPN",
-   "9GXeVqcRAT7WmWoK2jijX1UA5UHQbE1JtM7Z7YjXpump",
-   0.42,
-   9.5,
+   0.491,
+   9.3,
    ""
   ],
   [
    "CrawlCat",
    "6TpzaXZTnhtQUFkB8evq67J1Yk1DbnrGjp32xJQSpump",
-   0.13,
-   4.1,
+   0.153,
+   5.1,
    ""
   ],
   [
    "pepe",
    "9sdRvKRGmYrku3UWRkhQdGQCKkiSHYvdnLzf6vWqpump",
    0.092,
-   4.6,
+   5.6,
+   ""
+  ],
+  [
+   "Memecoin",
+   "4dBD6sxxySecCeNrjvLZ6YeaHRAf9cZ52Dp9LbmGpump",
+   0.056,
+   2.9,
    ""
   ],
   [
    "IP",
    "9mgHz4Tu1CGnVBb9sar11CdKqDMcBbjzvkcTbvt5pump",
    0.041,
-   7.7,
+   8.7,
    ""
   ],
   [
    "Ghosti",
    "6w3NSEvaxkjxcaRuNtXbULJkckKk8zHHUUX4HxYcpump",
    0.037,
-   7.3,
+   8.3,
    ""
   ],
   [
    "3",
    "Ajc5rYW4dzixZfnydt6rfDCc8WaHrvayRvc3WwaRpump",
-   0.036,
-   3.3,
+   0.031,
+   4.3,
    ""
   ],
   [
-   "CrawlCat",
-   "2bk4r67mgC1xF4RmLwe79P2BF7JKH9qsmUQ3k4sqpump",
-   0.034,
-   2.4,
+   "$WICKY",
+   "EJ6TxoN3728HuMSYMZk8UoPRtL3oHo4ZaPHV92WEpump",
+   0.026,
+   2.5,
    ""
   ]
  ]
