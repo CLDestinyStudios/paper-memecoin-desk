@@ -15,7 +15,7 @@
    "opened": 1793213093.929925,
    "last_px": 5.769351945942556e-08,
    "peak_px": 7.708717062275202e-08,
-   "last_val": 5.3802660069931845,
+   "last_val": 5.380753805053395,
    "last_prog": 0.411
   }
  },
@@ -2104,82 +2104,86 @@
   [
    "2026-10-28T12:10:48",
    219.18
+  ],
+  [
+   "2026-10-28T12:11:46",
+   219.18
   ]
  ],
- "cycles": 578,
+ "cycles": 579,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.992813391,
- "watching": 200,
+ "sol_usd": 102.00206049819931,
+ "watching": 218,
  "near": [
   [
    "GAMBLERS",
    "Ar9Fb4rSKJbpN46mYswwGyRtSRz5KEzXKA3V2qE4pump",
-   0.965,
-   3.6,
-   ""
+   1.0,
+   4.5,
+   "graduated"
   ],
   [
    "SEAT61",
    "GPxZw1wxeEC6Qkc5efi2xq5k75BkGct7PMpoGCNZpump",
-   0.771,
-   8.4,
+   0.786,
+   9.4,
    ""
   ],
   [
-   "pear",
-   "4iqu3Z5D4LVYRYzFefEDUEXiAgxZYFevD9KZUhQ5pump",
-   0.746,
-   9.4,
-   "creator=15.3%"
+   "fridge",
+   "AYRzi9vm1frjsZKXCbCkK7jjR6G6m4WpTMvQHDLEqgtP",
+   0.779,
+   2.1,
+   ""
   ],
   [
    "JOBWIZ",
    "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
    0.241,
-   7.9,
+   8.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "PUMP",
-   "6xT7yUBeSfv3zW2kTBjdKsX5xZTiys4oLU7WQBJrpump",
-   0.195,
-   2.8,
-   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "SNAROCAT",
+   "9km7VrKB7w9BQz3tvkgDotFrqZJkyKJerucyGxFipump",
+   0.139,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "BOAT",
+   "4KZLA1bceJpzteH37RakLjC88JwfPdaNxPdRwEmTpump",
+   0.087,
+   2.4,
+   ""
   ],
   [
    "Keith",
    "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
-   0.108,
-   6.0,
+   0.078,
+   7.0,
    ""
   ],
   [
    "fridge",
    "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
    0.062,
-   2.7,
+   3.7,
    ""
   ],
   [
    "GAMBLERS",
    "6sBEJCkUbZ1JPYmNfSEdbL8DStStk8e9jx3Y2ECPteT4",
    0.058,
-   3.9,
+   4.8,
    "buyers=7; top5_hold_most=100%"
   ],
   [
    "RAWSTEAK",
    "4LKtuHQUumJS39nRdMQjxxssqd9aEhyW6qE2Knovpump",
-   0.045,
-   5.7,
+   0.043,
+   6.7,
    ""
-  ],
-  [
-   "BIBIbbb",
-   "DMxGsyQiQpvuLudaJbBFABFqM1Jn9xwchxqwpUFxpump",
-   0.024,
-   9.5,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
