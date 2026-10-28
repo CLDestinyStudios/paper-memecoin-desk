@@ -15,7 +15,7 @@
    "opened": 1793182146.94087,
    "last_px": 4.493308793078104e-08,
    "peak_px": 4.506163002202779e-08,
-   "last_val": 12.442699187221416,
+   "last_val": 12.448735434066453,
    "last_prog": 0.286
   },
   "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump": {
@@ -27,10 +27,10 @@
    "entry_px": 4.4876232855813084e-08,
    "entry_fill": 4.768016068132094e-08,
    "opened": 1793182806.7325222,
-   "last_px": 4.4876232855813084e-08,
-   "peak_px": 4.4876232855813084e-08,
-   "last_val": 12.008125569223411,
-   "last_prog": 0.285
+   "last_px": 4.578224419709301e-08,
+   "peak_px": 4.578224419709301e-08,
+   "last_val": 12.257138363507117,
+   "last_prog": 0.296
   }
  },
  "traded": [
@@ -200,81 +200,85 @@
   [
    "2026-10-28T03:20:06",
    450.5
+  ],
+  [
+   "2026-10-28T03:21:06",
+   450.75
   ]
  ],
- "cycles": 75,
+ "cycles": 76,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.84593559400001,
- "watching": 288,
+ "sol_usd": 102.89582858304628,
+ "watching": 286,
  "near": [
-  [
-   "Rackz",
-   "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump",
-   0.285,
-   4.6,
-   "bought"
-  ],
   [
    "PVE",
    "DFZhonD6s8i6Nwp5ypD6U5B7xL71MK6jMDiJxMp2cPMj",
    0.124,
-   4.4,
+   5.4,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "\u4f69\u4f69",
+   "CqWqSKH6U5TdD72JFxCoKqQqheCtztFz8wMSLMC4pump",
+   0.104,
+   6.5,
+   ""
+  ],
+  [
+   "FUTA",
+   "14AtAZmiwijeQdKJwVRrSi9PDixXmEnVvAzLQfUYpump",
+   0.096,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "TOLEDO",
    "4exjGHRiBqNqJHw6qreErsx8ewDz7vkzxsLL2fbLpump",
    0.085,
-   3.1,
+   4.1,
+   ""
+  ],
+  [
+   "TOLEDO",
+   "2AdccSQ9cpmuMmjH8i4wczASsr6Qy7n3oR9mnrKcpump",
+   0.041,
+   2.1,
    ""
   ],
   [
    "TOLEDO",
    "EJws3FUrfgT9KGtAEsMFA6QdpJgHfQcFw7sRpvbMpump",
    0.032,
-   2.8,
+   3.8,
    ""
   ],
   [
    "Spain",
    "FbcQADxggDobmNXaZbjPKj4jzBjwyf6awSbFUvk3oTgR",
    0.032,
-   3.3,
-   ""
-  ],
-  [
-   "THE",
-   "8ZQM7vjSFNzDMGNyFcaPx5qUT7trMePcCrDfghaVpump",
-   0.028,
-   4.9,
+   4.3,
    ""
   ],
   [
    "Hand",
    "4eu9iGZswthjhWV4VppGat9T56Yyo3eN92XA84DVpump",
    0.022,
-   5.6,
+   6.6,
    ""
   ],
   [
    "FOMGUS",
    "Hwq9SAT7T7tNh2CjfihnXWEVNjPkPCXYeLGgrBjKpump",
    0.022,
-   2.2,
+   3.2,
    ""
   ],
   [
    "PUMPPILL",
    "EWFJMvkyygvPtdCzrSQTk24jmyb11DkAordduCTSpump",
    0.012,
-   4.2,
-   ""
-  ],
-  [
-   "UP",
-   "8cWk8Sevx8sqFQjDoosxkiUhB24x8B9EHPjZfpz8pump",
-   0.011,
-   2.2,
+   5.2,
    ""
   ]
  ]
