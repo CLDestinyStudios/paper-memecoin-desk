@@ -15,7 +15,7 @@
    "opened": 1793215724.306984,
    "last_px": 4.786845804852364e-08,
    "peak_px": 5.087756479339896e-08,
-   "last_val": 5.3026031823062505,
+   "last_val": 5.308619687970284,
    "last_prog": 0.319
   },
   "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": {
@@ -27,10 +27,10 @@
    "entry_px": 8.262468027960095e-08,
    "entry_fill": 8.796523579014163e-08,
    "opened": 1793215864.5460954,
-   "last_px": 1.294964719279087e-07,
+   "last_px": 1.144982768897954e-07,
    "peak_px": 1.294964719279087e-07,
-   "last_val": 4.394775670170594,
-   "last_prog": 0.724,
+   "last_val": 3.8844253009099217,
+   "last_prog": 0.684,
    "tp1_done": true,
    "realized": 1.2097756701705937
   },
@@ -43,10 +43,10 @@
    "entry_px": 5.2456452188968566e-08,
    "entry_fill": 5.586505821424943e-08,
    "opened": 1793215865.7977614,
-   "last_px": 5.420364708260458e-08,
-   "peak_px": 5.420364708260458e-08,
-   "last_val": 5.786645371972806,
-   "last_prog": 0.381
+   "last_px": 5.79924305848095e-08,
+   "peak_px": 5.79924305848095e-08,
+   "last_val": 6.2014178051958675,
+   "last_prog": 0.414
   },
   "D9hYSQMkZ5C7FLvD5uEd321nJyNPPXXigVMcpjonpump": {
    "sym": "Percy",
@@ -57,10 +57,10 @@
    "entry_px": 3.545351115703342e-08,
    "entry_fill": 3.776699614796347e-08,
    "opened": 1793215969.645124,
-   "last_px": 3.545351115703342e-08,
+   "last_px": 3.20723507058771e-08,
    "peak_px": 3.545351115703342e-08,
-   "last_val": 5.652277572825017,
-   "last_prog": 0.151
+   "last_val": 5.114588083721174,
+   "last_prog": 0.09
   }
  },
  "traded": [
@@ -2231,82 +2231,86 @@
   [
    "2026-10-28T12:32:49",
    213.15
+  ],
+  [
+   "2026-10-28T12:33:43",
+   212.52
   ]
  ],
- "cycles": 600,
+ "cycles": 601,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.21999999999998,
- "watching": 249,
+ "sol_usd": 102.33598212950001,
+ "watching": 247,
  "near": [
-  [
-   "BUZZER",
-   "336ujEGESiJmuHXZwrHswE8mmXtJwCSnGM6eY4odpump",
-   0.289,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "SAMSUNG",
    "EySFNNsi98DX8UhwFdijMWoa2K1GTt9XFEdCNQJKpump",
-   0.173,
-   4.6,
+   0.187,
+   5.5,
    ""
-  ],
-  [
-   "Percy",
-   "D9hYSQMkZ5C7FLvD5uEd321nJyNPPXXigVMcpjonpump",
-   0.151,
-   2.9,
-   "bought"
   ],
   [
    "PANICP",
    "BGdDvAYvJsADwhtCsqWEpQD4nb86ZitUCnrquSwppump",
    0.135,
-   6.9,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "NAKAMAPAD",
-   "88wPqX4Zd6azeZArajEvoGkvU5JNFybHxjG7dygBpump",
-   0.13,
-   9.3,
+   7.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "REFRIGERATOR",
    "CDBy5av4K5Xq6E9etyb9KnvdZy5ZYTbLLm4E8N1Vpump",
-   0.124,
-   3.4,
+   0.125,
+   4.3,
    ""
   ],
   [
    "BDM",
    "CECFcWmujgoEReX6NaQGp6i6XyYmXWANC6hMbkzhpump",
    0.124,
-   3.5,
+   4.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "FROG",
    "3fFVQwUEDaApCkysdXM7xCeWVtY2MHmtAsaTRkrppump",
    0.123,
-   3.5,
+   4.4,
    ""
   ],
   [
    "onchain",
    "6T6GixVuT3w6HhNF8t9GCWU7fkNiPfT5McRuhWQQpump",
    0.119,
-   6.2,
+   7.1,
    ""
   ],
   [
    "HOPCODE",
    "2TVkoemeJDDZc1BtN2MFkYx44XhiTDtghaXMjeyppump",
    0.119,
-   6.1,
+   7.0,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SAMSUNG",
+   "vm4GraChthKGE6nyphKCBeUm9vDotwgTXEBNSDePeaR",
+   0.083,
+   5.1,
+   ""
+  ],
+  [
+   "LGL",
+   "FGdhbmDJtVCLxvenQ7ahYtwAJ67uvVg9FpkRCwv6pump",
+   0.077,
+   4.7,
+   ""
+  ],
+  [
+   "CADO",
+   "tRwBWBenp61wgDxxjaeCrBwNJ7DivWJryAC2vf7pump",
+   0.066,
+   6.7,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
