@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 414.5997529229491,
- "positions": {
-  "B8PTCNYFJDrWmjdH8jrBZb9pteBe1AwkrhTKCqtA5ckU": {
-   "sym": "Ecosystem",
-   "qty": 322074.0268404863,
-   "entry": 6.77484e-05,
-   "mark_entry": 6.642e-05,
-   "cost": 21.82,
-   "peak": 6.642e-05,
-   "last": 6.642e-05,
-   "opened": 1793223110.7775958,
-   "p_buy": 0.55
-  }
- },
+ "cash": 434.15950181738793,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -1652,8 +1640,12 @@
   [
    "2026-10-28T14:31:50",
    435.56
+  ],
+  [
+   "2026-10-28T14:32:49",
+   434.16
   ]
  ],
- "cycles": 739,
+ "cycles": 740,
  "started": "2026-10-28T01:46:56"
 }
