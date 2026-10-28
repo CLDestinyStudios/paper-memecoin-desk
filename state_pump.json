@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 206.7546893338194,
+ "cash": 194.03468933381941,
  "positions": {
   "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump": {
    "sym": "LGBTM",
@@ -13,10 +13,38 @@
    "entry_px": 5.087756479339896e-08,
    "entry_fill": 5.418228189768637e-08,
    "opened": 1793215724.306984,
-   "last_px": 4.964283610116172e-08,
+   "last_px": 5.0170669494408086e-08,
    "peak_px": 5.087756479339896e-08,
-   "last_val": 5.492132601267568,
-   "last_prog": 0.338
+   "last_val": 5.554751067642236,
+   "last_prog": 0.343
+  },
+  "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": {
+   "sym": "MYSTERY",
+   "bc": "AMRoQnypUzK241QEBPW3SacRdGCjDAKX6RAka5657mUA",
+   "tokens": 709079.3770286178,
+   "cost": 6.37,
+   "cost0": 6.37,
+   "entry_px": 8.262468027960095e-08,
+   "entry_fill": 8.796523579014163e-08,
+   "opened": 1793215864.5460954,
+   "last_px": 8.262468027960095e-08,
+   "peak_px": 8.262468027960095e-08,
+   "last_val": 5.614635044905153,
+   "last_prog": 0.566
+  },
+  "EpARAmFf4cwbCHbDgaJe9wjSJD43q29cA97MDwsapump": {
+   "sym": "ASS",
+   "bc": "41NGJpqJpmoe1g2YppGp6VBpePjQx7fbZH11CnrdnZ6m",
+   "tokens": 1113012.297786598,
+   "cost": 6.35,
+   "cost0": 6.35,
+   "entry_px": 5.2456452188968566e-08,
+   "entry_fill": 5.586505821424943e-08,
+   "opened": 1793215865.7977614,
+   "last_px": 5.2456452188968566e-08,
+   "peak_px": 5.2456452188968566e-08,
+   "last_val": 5.593419497332495,
+   "last_prog": 0.365
   }
  },
  "traded": [
@@ -154,7 +182,9 @@
   "HXZLMdWXnrh1EKw4s8VEgbECpegCWpz8ZLZiiTywpump",
   "5c8sbYDamFYDjaBMYcgFPcYNZBrBs1RyjDf5NCV4pump",
   "AuBvZnWbRfUj7vzc5pGWUPb8tqUNnRVKtydZeaH2pump",
-  "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump"
+  "FgjjfLPxurtRJL6jyfTPdoAns6RBN14LXzdqKohYpump",
+  "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump",
+  "EpARAmFf4cwbCHbDgaJe9wjSJD43q29cA97MDwsapump"
  ],
  "equity": [
   [
@@ -2172,82 +2202,86 @@
   [
    "2026-10-28T12:29:47",
    212.25
+  ],
+  [
+   "2026-10-28T12:31:05",
+   210.8
   ]
  ],
- "cycles": 597,
+ "cycles": 598,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.05689499500001,
- "watching": 340,
+ "sol_usd": 102.12533795249998,
+ "watching": 295,
  "near": [
   [
-   "ORBTATO",
-   "9o55LLfdu8SJSCmq8e3cW1AQ5nLPLr4LjLd8uyADpump",
-   0.312,
-   2.6,
-   "buyers=8; top5_hold_most=86%; bundled_launch=3 extra buys in creation block"
+   "MYSTERY",
+   "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump",
+   0.566,
+   2.4,
+   "bought"
+  ],
+  [
+   "SAMSUNG",
+   "EySFNNsi98DX8UhwFdijMWoa2K1GTt9XFEdCNQJKpump",
+   0.461,
+   2.9,
+   ""
+  ],
+  [
+   "ASS",
+   "EpARAmFf4cwbCHbDgaJe9wjSJD43q29cA97MDwsapump",
+   0.365,
+   2.9,
+   "bought"
   ],
   [
    "onchain",
    "6T6GixVuT3w6HhNF8t9GCWU7fkNiPfT5McRuhWQQpump",
-   0.153,
-   3.2,
+   0.152,
+   4.5,
    ""
-  ],
-  [
-   "REFRIGDERATO",
-   "7AJZan8cEcvJzgvsz4Hakz2iZUiCGHVmYnzayFwMpump",
-   0.136,
-   7.9,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "Refrigerator",
-   "EU1WDX95dM4D4uCBjwMt6sybqezrahQHTETfzeTXpump",
-   0.126,
-   9.6,
-   ""
-  ],
-  [
-   "NAKAMAPAD",
-   "88wPqX4Zd6azeZArajEvoGkvU5JNFybHxjG7dygBpump",
-   0.114,
-   6.3,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "PANICP",
    "BGdDvAYvJsADwhtCsqWEpQD4nb86ZitUCnrquSwppump",
-   0.108,
-   3.8,
+   0.135,
+   5.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "NAKAMAPAD",
+   "88wPqX4Zd6azeZArajEvoGkvU5JNFybHxjG7dygBpump",
+   0.13,
+   7.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "HOPCODE",
    "2TVkoemeJDDZc1BtN2MFkYx44XhiTDtghaXMjeyppump",
-   0.081,
-   3.1,
+   0.126,
+   4.4,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "SAMSUNG",
+   "vm4GraChthKGE6nyphKCBeUm9vDotwgTXEBNSDePeaR",
+   0.088,
+   2.5,
+   ""
+  ],
+  [
+   "Fuck Mika",
+   "CnsSYHiECg3KJvqH2MECGmguC5t1wR7NWo9duRBUpump",
+   0.076,
+   2.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "fridge",
-   "GK9t3Ascj6TKza9KdXTwmKpy4M7Discc311TkEEJpump",
-   0.075,
-   9.7,
-   ""
-  ],
-  [
-   "GROCERY",
-   "6x6HcSRtxrszXUNK2WXp81GyoqY4d9v4PW61eZzpMCYX",
-   0.073,
-   6.9,
-   ""
-  ],
-  [
-   "FI",
-   "8qGH9DFvfxrhRXdmvCkmFTM3PwhUgKFn2ewkC6VCRpt",
-   0.054,
-   9.5,
-   ""
+   "CADO",
+   "tRwBWBenp61wgDxxjaeCrBwNJ7DivWJryAC2vf7pump",
+   0.064,
+   4.0,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
