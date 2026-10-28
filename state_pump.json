@@ -269,83 +269,83 @@
    419.93
   ],
   [
-   "2026-10-28T03:46:06",
+   "2026-10-28T03:47:06",
    419.93
   ]
  ],
- "cycles": 101,
+ "cycles": 102,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.92,
- "watching": 389,
+ "sol_usd": 102.928409829,
+ "watching": 388,
  "near": [
   [
    "EGC",
    "29z4PRKNRQkhQCghqCEJCcsyV5hjj1Xqdg6s1Doypump",
-   0.152,
-   7.6,
-   "buyers=4; top5_hold_most=100%"
+   0.154,
+   8.6,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Gangdori",
    "EopMLksz678xQvMtx8ZsenJuH4cD1h3kWUypNs6ZbPxt",
-   0.113,
-   3.0,
+   0.114,
+   4.0,
    "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "SAMBA",
+   "GxqpMUdXnnSCeaVeZJmLKQ23Dvf1uWKE2bn4CP4MQHbE",
+   0.08,
+   2.6,
+   ""
+  ],
+  [
+   "HP",
+   "6CbPy9Sd7fRYfrka2euAgC7oriqQntaD8LimjK64pump",
+   0.078,
+   2.5,
+   "top5_hold_most=86%"
+  ],
+  [
+   "ChaCha",
+   "35YBBvaFbJUkFqj2pPEXpsBWSimStnwa5iYH3rKRpump",
+   0.064,
+   2.5,
+   ""
   ],
   [
    "BRAA",
    "4CSe6a5eEJnCEDAVstWyzER9ygGgVaLSgerh5QiJpump",
    0.052,
-   6.3,
+   7.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Shibana",
    "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
    0.043,
-   3.4,
+   4.4,
    ""
   ],
   [
    "pumper",
    "6FgyzbDSxkbbRqAcrmcPVrr4F5utnndnFJSdVHRQpump",
    0.028,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "WATERFOWL",
-   "Ff3XBe81onCNmMeKbR7t4bhn33sHFy3bNBuTJmquuwrx",
-   0.024,
-   5.0,
+   "NEVADA",
+   "xJGK4GfKyPSPWMypZWduEtzR9wQay9nXy9tKdUupump",
+   0.025,
+   2.2,
    ""
   ],
   [
    "Ween",
    "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
    0.021,
-   3.8,
-   ""
-  ],
-  [
-   "SLOPCORE",
-   "Ca1VUGKzHMrgfAhwUMpp41kH23C3FeLhiYCj7doMxq5L",
-   0.017,
-   5.9,
-   ""
-  ],
-  [
-   "$CBS",
-   "FhAEzWuzK6DUvsZPwuRfVZGW9D4WcNxaLe7pz8sLpump",
-   0.011,
-   7.1,
-   ""
-  ],
-  [
-   "XINA",
-   "AYuyEcz3Y4EzYVCHiNMaseHn14cQKDwHgEeVzTEGpump",
-   0.011,
-   4.1,
+   4.8,
    ""
   ]
  ]
