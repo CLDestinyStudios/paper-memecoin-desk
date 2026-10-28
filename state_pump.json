@@ -13,10 +13,10 @@
    "entry_px": 5.2086129180770184e-08,
    "entry_fill": 5.558223416074597e-08,
    "opened": 1793224430.7353768,
-   "last_px": 6.02354985523713e-08,
+   "last_px": 5.7361239034781284e-08,
    "peak_px": 6.63400960571386e-08,
-   "last_val": 5.0366663196699,
-   "last_prog": 0.431
+   "last_val": 4.793895542931723,
+   "last_prog": 0.408
   }
  },
  "traded": [
@@ -2774,82 +2774,86 @@
   [
    "2026-10-28T14:56:49",
    163.66
+  ],
+  [
+   "2026-10-28T14:57:49",
+   163.41
   ]
  ],
- "cycles": 744,
+ "cycles": 745,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.72584914299999,
- "watching": 299,
+ "sol_usd": 102.72319338550001,
+ "watching": 315,
  "near": [
-  [
-   "HI",
-   "366LHXrAJQYtyCw6nCkeLFXTcKqfZtZJ1Je9pSsbpump",
-   0.915,
-   3.1,
-   ""
-  ],
   [
    "MEME69",
    "4RNBaLFL7ARHmbkBUAAL4ECYJKD9agww7N9Af5T8N1ym",
-   0.446,
-   4.0,
+   0.305,
+   5.0,
    ""
+  ],
+  [
+   "NAHDUCK",
+   "6E62sWR4S9BAqrAN6xRP539xLNxNAwWBVb7VmjjCpump",
+   0.216,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SOL",
    "7LG6PDABeFNw17iyHBp2De7f1UfveuyoLapJ5qwEpump",
-   0.195,
-   8.7,
+   0.205,
+   9.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "MEME69",
    "J8F3cS237svd9Cx8K3FL1jfS8s8iNT1RQnESdW1Tpump",
    0.101,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "GRIMOTHY",
+   "33QCR8RddDRb8z2Y9SgTBMdEqbnFyiwu36dUBLehpump",
+   0.076,
+   2.9,
    ""
   ],
   [
    "PINO",
    "BCSUa8DcHf8mhKe43LajDprRb3BHxt9EQFw9cbKXpump",
    0.076,
-   3.2,
+   4.2,
    ""
-  ],
-  [
-   "PING",
-   "9wpRi8DXhQszvZzzZLax3qGrbL6ZyKKj24Mf1ApY4tHi",
-   0.072,
-   8.8,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "HI",
    "8fTdrepSdRKGjfuZrfpTTSdgDQHsxJYtYZqXxPSMsxsi",
    0.072,
-   4.6,
+   5.6,
+   ""
+  ],
+  [
+   "GRIMOTHY",
+   "6UV1kTHTuppEYnwwEuVyoQzkewkL7uM2HF9aMLnopump",
+   0.071,
+   3.0,
    ""
   ],
   [
    "CLAPCAT",
    "4wD9jKbZQCsM4XYgDWBXYgdMVqZLqTPrPWZSJGLsQ5DN",
    0.064,
-   4.2,
+   5.2,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Tucker",
-   "DvQ13euaryH8vtkGhpX4LWbGwazkpvQX9MAnxYjhpump",
-   0.051,
-   2.3,
-   ""
-  ],
-  [
-   "BID",
-   "GTcSAmC9NA1CT3FnMiRBQWBVES6kdNs6g9CniYEApump",
-   0.044,
-   3.1,
-   ""
+   "PING",
+   "9wpRi8DXhQszvZzzZLax3qGrbL6ZyKKj24Mf1ApY4tHi",
+   0.047,
+   9.8,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
