@@ -1,26 +1,43 @@
-# Paper-only Solana memecoin desk
+# Paper-only Solana memecoin desks
 
-> **PAPER TRADING ONLY. No real money, no wallets, no keys.** This repo runs a simulated $500 desk on GitHub Actions every ~5 minutes using public read-only APIs (DexScreener, RugCheck). Nothing here buys or sells anything.
+> **PAPER TRADING ONLY. No real money, no wallets, no keys.** GitHub Actions runs two simulated $500 desks about once a minute using public read-only APIs (DexScreener, GeckoTerminal, RugCheck). Nothing here buys or sells anything.
 
-
-**No real money.** No wallets, keys, signing, exchanges, or purchases. Only read-only public APIs:
-DexScreener (pairs, price, liquidity, volume, txns) and RugCheck `/v1/tokens/<mint>/report` (mint/freeze authority, LP lock, top holders, risk flags). Neither needs a key.
-Thresholds come from an X post by @x_insider4. Treat them as an experiment.
+Strict thresholds come from an X post by @x_insider4. Treat them as an experiment. The LOOSE desk is a looser comparison run.
 
 ## Commands
-    python3 /workspace/memecoin-desk/desk.py cycle      # one scan+manage pass (~10-60 s), safe to re-run
-    python3 /workspace/memecoin-desk/desk.py recap      # morning report (last 24h)
-    python3 /workspace/memecoin-desk/desk.py calibrate  # weekly judge calibration + re-priced passes
+    python3 desk.py cycle [--desk strict|loose]       # one shared scout pass + both desks (or one); ~5-45 s
+    python3 desk.py recap [--desk strict|loose]       # last-24h report, one section per desk
+    python3 desk.py calibrate [--desk strict|loose]   # judge calibration + re-priced passes
+    python3 alerts.py [--peek]                        # new BUY/SELL lines per desk since last run (box-local cursors)
 
-## Seats (all in desk.py; hard handoffs)
-1. SCOUT: Solana tokens from DexScreener latest profiles/boosts, plus search (pumpswap/raydium/pump, pairs <3 days old). Up to 60 new candidates per cycle.
-2. RISK: kills a token if mint authority is not revoked, LP is <95% locked/burned, top-10 holders exceed 20% (AMM, locker and pool accounts excluded), 1h volume is under $50k, or it has a rugged/danger dev/insider flag. One fail kills it, and missing data counts as a fail.
-3. ANALYST: a 0-1 score from buy pressure, txn count, liquidity, turnover sanity, non-parabolic move, holder spread and socials. Under 0.6 dies.
-4. JUDGE: a facts-only dossier (gaps are written as 'missing'). It answers organic, late, exit_risk 1-5 and buy/watch/pass with deterministic rules. The gate requires buy p>=0.70, organic=yes p>=0.65, late=no and exit_risk<=3. A watch is rechecked once on the next cycle; a second watch becomes a pass.
-5. EXECUTOR: paper fill at the DexScreener price +2%. Size is fixed at 8% of current paper equity, and confidence never changes size.
-6. RISK/EXIT: the hard stop is -6% after the 2% exit haircut. A trailing stop (10% off the peak, my choice) arms only after the price runs +12%. There is no averaging down and no re-entry into a token already traded. No new entries are allowed in a cycle that booked a loss.
-7. LOGGER: `log.jsonl` records every entry, exit, watch, rejection (with reason) and cycle summary.
+## SCOUT (shared, deduped by mint, ~150 Solana mints per cycle)
+DexScreener: token-profiles/latest, token-boosts/latest, token-boosts/top, community-takeovers/latest, ads/latest, and search
+(pumpswap, raydium, pump, meteora, bonk, moonshot, launchlab, "solana meme"; pairs < 3 days old). GeckoTerminal: solana new_pools
+pages 1-2 and trending_pools (1h): 3 calls/min against a ~30/min limit. Pair data is batched 30 mints per DexScreener call.
+RugCheck reports are cached 30 min per mint in `scout_cache.json` (runner-local, gitignored), at most 40 fresh calls per cycle,
+and RugCheck is skipped when DexScreener data already fails a desk. Rejected coins are re-scored after 15 min.
+Open positions are re-priced every cycle before scouting.
+
+## Desk profiles (`PROFILES` in desk.py)
+| rule | STRICT | LOOSE |
+|---|---|---|
+| mint authority revoked | required | required |
+| freeze authority revoked | (danger flag only) | required |
+| LP locked/burned | >= 95% | >= 80% |
+| top-10 holders | <= 20% | <= 35% |
+| 1h volume | >= $50k | >= $10k |
+| liquidity | - | >= $10k |
+| dev flag | rugged or danger dev/insider flag kills | only RugCheck "rugged" kills |
+| missing data | fail | LP / top-10 / dev missing = neutral |
+| ANALYST floor | 0.60 | 0.45 |
+| JUDGE gate | buy p>=0.70, organic>=0.65, not late, exit risk<=3 | buy p>=0.55, organic>=0.50, not late, exit risk<=4 |
+| size | 8% of equity | 5% of equity, max 6 open |
+| hard stop | -6% | -8% |
+| trailing | arms +12%, 10% giveback | arms +10%, 10% giveback |
+| time stop | - | 6h if under +3% |
+
+Both: paper fills at the live DexScreener price with a 2% haircut each side, no re-entry into a traded token, no new entries in a cycle that booked a loss.
 
 ## Files
-`state.json` (bank starts at $500; holds open positions, the watchlist and seen tokens), `log.jsonl`, `terminal.html` (regenerated each cycle).
-Reset: delete state.json and log.jsonl.
+STRICT: `state.json`, `log.jsonl`. LOOSE: `state_loose.json`, `log_loose.jsonl` (bank started 2026-10-28). `loop.log` (runner output incl. cycle seconds),
+`terminal.html` (both desks). Unchanged reject reasons are not re-logged. Reset a desk: delete its state and log files.
