@@ -2,37 +2,37 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 190.1654023146872,
+ "cash": 190.8084868302196,
  "positions": {
-  "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": {
-   "sym": "MYSTERY",
-   "bc": "AMRoQnypUzK241QEBPW3SacRdGCjDAKX6RAka5657mUA",
-   "tokens": 354539.6885143089,
-   "cost": 3.185,
-   "cost0": 6.37,
-   "entry_px": 8.262468027960095e-08,
-   "entry_fill": 8.796523579014163e-08,
-   "opened": 1793215864.5460954,
-   "last_px": 8.302914391476697e-08,
-   "peak_px": 1.294964719279087e-07,
-   "last_val": 2.8053699223702515,
-   "last_prog": 0.568,
-   "tp1_done": true,
-   "realized": 1.2097756701705937
-  },
   "AYi8wqqg4audZasLjUvKndkP6GzUJ34LGY7fyA3npump": {
    "sym": "RUGSEM",
    "bc": "DMXN7reVbbtPpkRUphxjD5yiyw7eDnGDZeftUPxVPpTn",
-   "tokens": 887044.3780082703,
-   "cost": 5.97,
+   "tokens": 443522.18900413514,
+   "cost": 2.985,
    "cost0": 5.97,
    "entry_px": 6.168081465618933e-08,
    "entry_fill": 6.571114724044531e-08,
    "opened": 1793216699.6723218,
-   "last_px": 6.168081465618933e-08,
-   "peak_px": 6.168081465618933e-08,
-   "last_val": 5.254710406703336,
-   "last_prog": 0.442
+   "last_px": 1.090958135759523e-07,
+   "peak_px": 1.090958135759523e-07,
+   "last_val": 4.643605878240938,
+   "last_prog": 0.668,
+   "tp1_done": true,
+   "realized": 1.6586058782409379
+  },
+  "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump": {
+   "sym": "Percy",
+   "bc": "bZS6Dqgh1rBmqmfsYJy9Lz69e2M6kpMraBtPBwY18QL",
+   "tokens": 1804582.9079346084,
+   "cost": 6.05,
+   "cost0": 6.05,
+   "entry_px": 3.0708224012389e-08,
+   "entry_fill": 3.272929595221199e-08,
+   "opened": 1793216774.2828057,
+   "last_px": 3.0708224012389e-08,
+   "peak_px": 3.0708224012389e-08,
+   "last_val": 5.320547620031644,
+   "last_prog": 0.062
   }
  },
  "traded": [
@@ -177,7 +177,8 @@
   "8swN2NHntJ3EHiaFhaeK5V94R2nuVwVpgoFrHAo2pump",
   "AYAmQnv2o9MLfknsSMhuiyen6iZpqy1ag9RxBj87pump",
   "2bzuBrX4SqaT1mrLbV3jw6GJzcVEGmjNHjkoYZR7pump",
-  "AYi8wqqg4audZasLjUvKndkP6GzUJ34LGY7fyA3npump"
+  "AYi8wqqg4audZasLjUvKndkP6GzUJ34LGY7fyA3npump",
+  "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump"
  ],
  "equity": [
   [
@@ -2255,81 +2256,85 @@
   [
    "2026-10-28T12:44:59",
    198.23
-  ]
- ],
- "cycles": 612,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.421217453,
- "watching": 196,
- "near": [
-  [
-   "RUGSEM",
-   "AYi8wqqg4audZasLjUvKndkP6GzUJ34LGY7fyA3npump",
-   0.442,
-   2.4,
-   "bought"
   ],
   [
-   "Percy",
-   "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
-   0.396,
-   8.1,
-   "creator=24.5%; top5_hold_most=92%"
+   "2026-10-28T12:46:14",
+   200.77
+  ]
+ ],
+ "cycles": 613,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.43346689699999,
+ "watching": 227,
+ "near": [
+  [
+   "PT",
+   "j96CRzF6axWNUtq2sSWq8JJpNiF27MStWctU4R1pump",
+   0.252,
+   5.2,
+   "launch_slot=missing"
   ],
   [
    "SIFI",
    "79Ky1TS2dBfuXLJK9fkTAmbar8ZGYSvuWjrWszXQpump",
-   0.302,
-   3.7,
+   0.219,
+   5.0,
    "launch_slot=missing"
-  ],
-  [
-   "PT",
-   "j96CRzF6axWNUtq2sSWq8JJpNiF27MStWctU4R1pump",
-   0.245,
-   3.9,
-   "launch_slot=missing"
-  ],
-  [
-   "STOLAS",
-   "6q7N9NS9suAbyJam3fqctppAdG6tBL5ywLJVKdU4pump",
-   0.171,
-   9.6,
-   "buyers=8"
-  ],
-  [
-   "SHEDCOIN",
-   "F2hZhxFkTkbTPAWCm7jpXTLD9bkF7ECiYYWMxiWVpump",
-   0.165,
-   10.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Susie",
-   "D3uzy6Ecjv47pNTxoRLx27Hy9Sg8WRZSRfANmdD3pump",
-   0.142,
-   7.4,
-   ""
   ],
   [
    "SBR",
    "EVcXA2oCvQ6yXWk6AfiUHVSg1PMbZW4f5sTsdepKpump",
-   0.126,
-   4.0,
+   0.142,
+   5.2,
    "buyers=3; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "Fitz",
    "HAyfa4ahnzniBzjVMKYu53PNcmp9dn51vwUQeVFZpump",
    0.084,
-   6.4,
+   7.7,
    ""
+  ],
+  [
+   "retire",
+   "9omizu4kmFDwvbo5sdzaNuKzeywJA8bbTDRG83zbpump",
+   0.083,
+   3.1,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "SIFI",
    "HNg8afvW6AWeT1ifJv1y99BvAua6YGcZVxoxY6ripump",
    0.075,
-   4.0,
+   5.2,
+   ""
+  ],
+  [
+   "Hatch",
+   "5s8mLieJsqmxktHNCriEpDmvWSW3GAL3Bmb8oBxYyV2d",
+   0.068,
+   9.1,
+   ""
+  ],
+  [
+   "Percy",
+   "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
+   0.062,
+   9.4,
+   "bought"
+  ],
+  [
+   "tent",
+   "DjcmwbzeExjoW1BCyuDmmRWKn5BuTTDUQei3W1oHpump",
+   0.045,
+   3.2,
+   ""
+  ],
+  [
+   "$LBTC",
+   "XJKgwHQsth2MeQoZDFYbMdFu1oiqcobnEH2hwUTtaGF",
+   0.04,
+   4.8,
    ""
   ]
  ]
