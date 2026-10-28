@@ -23,83 +23,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:40:04",
+   "2026-10-28T02:41:08",
    500.0
   ]
  ],
- "cycles": 35,
+ "cycles": 36,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.46,
- "watching": 501,
+ "sol_usd": 102.55798493600687,
+ "watching": 436,
  "near": [
   [
    "Jepe",
    "E62WAyxL6jsXctYh6ihuDBNecyFDjeiprx7RmL4PovbT",
-   0.816,
-   2.6,
-   ""
+   0.586,
+   3.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Spidcat",
    "7u6emKPgdEJmP8iAC33i7h9tThikfDNYyPShJovQpump",
-   0.213,
-   2.2,
+   0.236,
+   3.3,
    ""
   ],
   [
    "Jepe",
    "5DPetaiLiMmjwhAWKyvPbxnYSWLBpC8CvY2E4gX8odvT",
-   0.126,
-   2.9,
+   0.122,
+   3.9,
    ""
   ],
   [
    "Goofy",
    "9XANtGjiGENF5vfwzVSfustx1opd6he8td5jR4bPYB2v",
-   0.118,
-   8.2,
+   0.117,
+   9.2,
    ""
+  ],
+  [
+   "1M",
+   "A3eqomp2m7YKa5PSy9rLnZjtbqdsNWJ1U7cN6AdSpump",
+   0.103,
+   2.5,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "KITTEN",
    "8uf1Hq8R1MricxS2h9vezUkuFJB5PBVMENretMk1pump",
    0.095,
-   6.8,
+   7.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BRUMPLIT",
    "AhjjCiwHVieNbJvP9iZBbY68oxDBP4VbCDmSu8cRpump",
-   0.055,
-   6.7,
+   0.054,
+   7.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Hope",
    "84zy2gdKJZ3QkCpLwqrtPzZPXmikiFsLdDZQri548PTq",
    0.022,
-   7.5,
+   8.6,
    ""
   ],
   [
    "Flash",
    "6KDwY4tAzpo4e1M6KWyhFXaa4NNzB5urqWXZen4Mpump",
    0.018,
-   7.1,
+   8.2,
    "buyers=17; top5_hold_most=75%"
   ],
   [
-   "Nik",
-   "G1U6f1vi5riqyoecDBLAChevpmcP63fJrqJDg54Qpump",
-   0.016,
-   8.6,
-   ""
-  ],
-  [
-   "$Glitch",
-   "D2mspFASaQpweoNs384GSjqA8atcmndrkJ582BzWpump",
-   0.012,
-   5.1,
+   "CRORES",
+   "AhozQK4e4TPkvN7uyq4CUD117udPaykNU5wG9dHGpump",
+   0.014,
+   2.7,
    ""
   ]
  ]
