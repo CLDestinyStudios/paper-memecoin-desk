@@ -13,10 +13,10 @@
    "entry_px": 3.648242391414527e-08,
    "entry_fill": 3.8781374610056444e-08,
    "opened": 1793197386.7462451,
-   "last_px": 3.8992936235240965e-08,
-   "peak_px": 3.8992936235240965e-08,
-   "last_val": 10.422692604834495,
-   "last_prog": 0.207
+   "last_px": 3.938856585380313e-08,
+   "peak_px": 3.938856585380313e-08,
+   "last_val": 10.527906989410354,
+   "last_prog": 0.213
   },
   "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump": {
    "sym": "$UNU",
@@ -27,10 +27,10 @@
    "entry_px": 3.8427373268693204e-08,
    "entry_fill": 4.0846059206720094e-08,
    "opened": 1793197447.8430178,
-   "last_px": 3.8427373268693204e-08,
+   "last_px": 3.719050433841318e-08,
    "peak_px": 3.8427373268693204e-08,
-   "last_val": 9.678862699270567,
-   "last_prog": 0.199
+   "last_val": 9.365374101604305,
+   "last_prog": 0.18
   }
  },
  "traded": [
@@ -1157,81 +1157,85 @@
   [
    "2026-10-28T07:26:05",
    363.79
+  ],
+  [
+   "2026-10-28T07:27:06",
+   363.58
   ]
  ],
- "cycles": 321,
+ "cycles": 322,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.37430000000002,
- "watching": 314,
+ "sol_usd": 100.36591918600001,
+ "watching": 290,
  "near": [
   [
-   "COFFER",
-   "CFR2seZGRcnPLzd78Zq4N4QLjb5jL9orBQ8conLfB41w",
-   0.579,
-   3.2,
-   "creator=30.0%; top10=45.6%; top5_hold_most=91%"
+   "ANTS",
+   "vZE1yKrS9cxeW9e3Tr42myNJCooZZ8rm3bau9eHpump",
+   0.769,
+   2.4,
+   ""
+  ],
+  [
+   "MEMESTOCK",
+   "4j2BoxQWALsBdgBba8dXpGwy89iRxjpt2erFwvHBpump",
+   0.742,
+   2.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "GOOGLE",
+   "Xe9aYXmqk6mNfsrDvxw1z2VNd9ZKXbhNtckY7HPpump",
+   0.524,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "CHIPMUNK",
    "F7qMukpSciCRimthkDV9mdYSp2kkoBDcdTsnusaVyVZY",
-   0.158,
-   5.5,
+   0.197,
+   6.5,
    ""
   ],
   [
    "CHIPMUNK",
    "BKGxb6c66wfjn1kz7E6D6hp8b7vJmt6x9HyRN9VUX77o",
-   0.149,
-   5.8,
+   0.185,
+   6.8,
+   ""
+  ],
+  [
+   "long",
+   "ywBDE8oVMu7Cn527Tx8buZfgmbjiRewP69REWPWpump",
+   0.161,
+   8.1,
    ""
   ],
   [
    "CALLCAT",
    "4iRkLQ4tscbqpmBDnGMaSFbYEPzRYGHPS5B2jqWGpump",
    0.14,
-   8.1,
+   9.1,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "long",
-   "ywBDE8oVMu7Cn527Tx8buZfgmbjiRewP69REWPWpump",
-   0.12,
-   7.1,
-   ""
   ],
   [
    "CHIPMUNK",
    "DBH18cofnZjdiA43x8oLAZU4GZ1yXAnLSSwtGzWZL6Tu",
-   0.096,
-   6.8,
+   0.128,
+   7.8,
    ""
   ],
   [
    "CHIPMUNK",
    "3RecxztupYD4YLaA6JUjCKajGcBjFLHKBXE619vdYXYX",
-   0.091,
-   4.4,
-   ""
-  ],
-  [
-   "CHIPMUNK",
-   "Aqb6b9p6KTuYzfaAAdRLgtVQR98EzqnuxhS3YzHgSbN3",
-   0.082,
-   2.9,
+   0.124,
+   5.4,
    ""
   ],
   [
    "long",
    "AWo8cZLpWHG6UsMTGXEENTPExnLEiKYk8cbjf1yMLf55",
-   0.082,
-   7.5,
-   ""
-  ],
-  [
-   "CHIPMUNK",
-   "GLzbL4X9nrKRm1h49SLYMRoyHeQsZoa2SnSNFij4pump",
-   0.077,
-   8.1,
+   0.114,
+   8.6,
    ""
   ]
  ]
