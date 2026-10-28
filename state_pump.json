@@ -2793,81 +2793,85 @@
   [
    "2026-10-28T15:04:50",
    158.53
+  ],
+  [
+   "2026-10-28T15:05:50",
+   158.53
   ]
  ],
- "cycles": 752,
+ "cycles": 753,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.34832867700001,
- "watching": 333,
+ "sol_usd": 102.320377902,
+ "watching": 353,
  "near": [
   [
-   "grove",
-   "GPoCduZXFXeyDzTkVT3Sro2sWexHdep5niVTcoAkpump",
-   0.127,
-   3.0,
-   "buyers=4; top5_hold_most=100%"
+   "BREAD",
+   "AWsocFGr1NxZkLFcUnJAKRbacao1K3zMHC4NgYccpump",
+   0.679,
+   2.9,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "COGE",
-   "F81XeAzSGk1LLTu1hY2SyNW33DxRzvLxFdypCDF1qrhX",
-   0.113,
-   5.4,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "COGECOIN",
-   "A3hLaRWKYmfk1yg6R6S44sMeQQSTzz4VXcz9M3kMuqbB",
-   0.08,
-   6.2,
+   "grops",
+   "4uV8vN2u8YSkFFa1dvntt1TgEgkk7s7sBuvVr6yDpump",
+   0.139,
+   2.2,
    ""
   ],
   [
-   "JUSTONE",
-   "3ptGFJLhhRKP29hc8HicNSFRbR7DsKZLfE39qmvtpump",
-   0.072,
-   2.6,
-   "buyers=1; top5_hold_most=100%"
+   "grove",
+   "GPoCduZXFXeyDzTkVT3Sro2sWexHdep5niVTcoAkpump",
+   0.09,
+   4.0,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "COGE",
+   "5nqoKAsYyt7t7CgqV4yEeJw8Baf4ahFsmKowNsRLZWqn",
+   0.084,
+   6.1,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "manothy",
+   "HMrmhwDxxQnBfUEbDatXs6uUk8TStu4VV7peDfRUpump",
+   0.059,
+   2.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "pronouns",
    "DN9C7wwDJxnQmyhQkw2TQiyAwBAQrV835P3Fd5STpump",
    0.055,
-   7.3,
+   8.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "ARKL",
    "FJtztSCUcX3NRU9yBcJYBah9JGirSHvBFjTcrUcYpump",
    0.047,
-   5.6,
+   6.6,
    "buyers=1; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "LATER",
    "CvXg7V5kKcH7kiwnZASfYq6RQESmapUPGL515rsYpump",
    0.045,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "COGECOIN",
-   "En6DmX7RyN44EQQYz7UUjxHJpp25j8HRCZjykV9opump",
-   0.041,
-   5.5,
-   ""
-  ],
-  [
-   "SHIBU",
-   "DS89b9FQBVuAT4uftV3CmEaXydW9FvF9NwYE8H7opump",
-   0.035,
-   8.0,
+   "COGE",
+   "4RJMKxAkAwdqfmwmR9CR1WoB7UTPZsSt59NcoGeVpump",
+   0.043,
+   6.7,
    ""
   ],
   [
    "SPIDYXELON",
    "GxKMZA9MXkDXrw5vmXRzDf7Pvpa93aMJWMkP3Xinpump",
    0.035,
-   7.8,
+   8.8,
    "buyers=9; top5_hold_most=92%"
   ]
  ]
