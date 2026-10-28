@@ -271,81 +271,85 @@
   [
    "2026-10-28T03:52:05",
    419.93
+  ],
+  [
+   "2026-10-28T03:53:05",
+   419.93
   ]
  ],
- "cycles": 107,
+ "cycles": 108,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.90000000000002,
- "watching": 286,
+ "sol_usd": 102.93145224349999,
+ "watching": 266,
  "near": [
   [
    "Trip",
    "2oCZ2wwA9oNSAYWoSqn6P1vZ9E6JVrCjnH1ecKzipump",
-   0.449,
-   5.6,
-   "buyers=5; creator=35.5%; top5_hold_most=100%"
-  ],
-  [
-   "SURVIVAL",
-   "BjmZZGyHn3x7kFVgYT8LJXpeMYDZpos8pk7asK27AHdj",
-   0.107,
-   4.7,
-   ""
+   0.468,
+   6.6,
+   "buyers=6; creator=37.0%; top5_hold_most=100%"
   ],
   [
    "  ",
    "6HttLBGvBmcjLwyEyXK8ZeYmykg94Ubf7Fbx9WVHNFZ",
    0.068,
-   2.4,
-   ""
-  ],
-  [
-   "Shibana",
-   "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
-   0.044,
-   9.3,
-   ""
-  ],
-  [
-   "SURVIVAL",
-   "9vdjfpvjQRNTsuA2hoBREprqVuYhhMNQsFHgXo8upump",
-   0.039,
-   5.6,
+   3.4,
    ""
   ],
   [
    "pumper",
    "6FgyzbDSxkbbRqAcrmcPVrr4F5utnndnFJSdVHRQpump",
    0.028,
-   8.4,
+   9.4,
    ""
   ],
   [
    "SURVIVAL",
    "LvDn9VYxabBdywvo3AgHp22B9C5VUi3LagGZF8adCQN",
    0.022,
-   4.2,
-   ""
-  ],
-  [
-   "Ween",
-   "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
-   0.021,
-   9.8,
+   5.2,
    ""
   ],
   [
    "SURVIVAL",
    "He985Nwp5fJPsbpETVgPuam6hjUAPC3zQpp6Ke8jpump",
    0.018,
-   3.6,
+   4.6,
    ""
   ],
   [
    "RHRF",
    "612ViLhbPdJP4vdTjBb8Lb9rAjbdv3vdd91dDNdCpump",
    0.016,
-   3.7,
+   4.7,
+   ""
+  ],
+  [
+   "SURVIVAL",
+   "9vdjfpvjQRNTsuA2hoBREprqVuYhhMNQsFHgXo8upump",
+   0.014,
+   6.6,
+   ""
+  ],
+  [
+   "TsTT",
+   "EHR3PX8MJT7PfG2ZApbg448U6kzz7k8eM9b6n8xnpump",
+   0.013,
+   3.2,
+   ""
+  ],
+  [
+   "SURVIVAL",
+   "BjmZZGyHn3x7kFVgYT8LJXpeMYDZpos8pk7asK27AHdj",
+   0.012,
+   5.7,
+   ""
+  ],
+  [
+   "LARP",
+   "52oZmc8CLEGkch8e4jeDhgsFwnqAi57BQAR4LoqGpump",
+   0.011,
+   6.0,
    ""
   ]
  ]
