@@ -13,9 +13,9 @@
    "entry_px": 6.569273042939003e-08,
    "entry_fill": 6.981000244725945e-08,
    "opened": 1793204089.2044473,
-   "last_px": 7.785440891384773e-08,
+   "last_px": 7.777361936108104e-08,
    "peak_px": 1.1979544814204335e-07,
-   "last_val": 4.891403218376256,
+   "last_val": 4.889663833241982,
    "last_prog": 0.542,
    "tp1_done": true,
    "realized": 1.8229865628569373
@@ -31,7 +31,7 @@
    "opened": 1793206609.0637403,
    "last_px": 3.366174510850843e-08,
    "peak_px": 3.366174510850843e-08,
-   "last_val": 7.479250879570412,
+   "last_val": 7.484434005613078,
    "last_prog": 0.12
   }
  },
@@ -1678,81 +1678,85 @@
   [
    "2026-10-28T09:57:47",
    276.12
+  ],
+  [
+   "2026-10-28T09:58:39",
+   276.12
   ]
  ],
- "cycles": 445,
+ "cycles": 446,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.01,
- "watching": 255,
+ "sol_usd": 101.07999999999998,
+ "watching": 260,
  "near": [
   [
    "TRUMPKIN",
    "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump",
-   0.878,
-   2.5,
+   0.88,
+   3.3,
    ""
   ],
   [
    "Rise",
    "9CYWtXkZQ8i6vgNfwELQYxzQjzEmKUaureFirGDFpump",
-   0.627,
-   8.9,
+   0.646,
+   9.7,
    "creator=43.4%; top10=49.0%; top5_hold_most=98%"
-  ],
-  [
-   "Termite",
-   "6tVzn6spRv2pkHre5uE8VzwndLgFBzsVyswiDGsspump",
-   0.181,
-   3.4,
-   "top5_hold_most=83%"
   ],
   [
    "OMNI",
    "7TvJLVzG3vAs1RHTNADTieaB1oMajw2tGWFH5ZScpump",
-   0.18,
-   8.4,
+   0.152,
+   9.3,
    ""
   ],
   [
-   "Pablo",
-   "DGXHAHmxoXEKG9gmnKtRR18T2aCnWpszXTd5xgmmpump",
-   0.113,
-   3.9,
-   ""
+   "Termite",
+   "6tVzn6spRv2pkHre5uE8VzwndLgFBzsVyswiDGsspump",
+   0.146,
+   4.3,
+   "top5_hold_most=80%"
   ],
   [
    "SI",
    "4HVhgquLCGPVFVfjPd66HubvN3P5EZntmFKKNy82pump",
    0.102,
-   2.7,
+   3.6,
    ""
   ],
   [
    "Pablo",
    "EkqBCsD5Yj4V6cpFp57AkPL61gChhwwg9UZ9qtz1mDL1",
    0.084,
-   3.7,
+   4.5,
    ""
   ],
   [
    "CAM",
    "5VcBRKSyBwbHrE4cYHKgQLSSgPc5M5L9LyhRxEpzpump",
    0.083,
-   2.9,
+   3.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "PATRIOTS",
    "2YPcZ6Er1vaRRN7TLKmrNukgMyuj8KeLkG2hVe9Vpump",
    0.068,
-   5.4,
+   6.3,
    ""
   ],
   [
    "Trenton",
    "Q2fLCmGdiY1fgTtBfD6e8k1MMDYTLqfZj6BZCAfpump",
    0.058,
-   7.7,
+   8.5,
+   ""
+  ],
+  [
+   "SI",
+   "5AyzNWuuxdNovefbU1qrxTFiSzPtKNZXTyRajWUopump",
+   0.05,
+   3.3,
    ""
   ]
  ]
