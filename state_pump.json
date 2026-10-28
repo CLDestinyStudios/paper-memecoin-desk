@@ -13,10 +13,10 @@
    "entry_px": 9.457002907002169e-08,
    "entry_fill": 1.004001160972566e-07,
    "opened": 1793189707.9811027,
-   "last_px": 1.1149193826606713e-07,
-   "peak_px": 1.1149193826606713e-07,
-   "last_val": 12.173959425295672,
-   "last_prog": 0.675
+   "last_px": 1.3505591535664933e-07,
+   "peak_px": 1.3505591535664933e-07,
+   "last_val": 14.757168872327895,
+   "last_prog": 0.737
   }
  },
  "traded": [
@@ -622,81 +622,85 @@
   [
    "2026-10-28T05:16:08",
    388.0
+  ],
+  [
+   "2026-10-28T05:17:08",
+   390.58
   ]
  ],
- "cycles": 191,
+ "cycles": 192,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.952052287,
- "watching": 239,
+ "sol_usd": 101.97,
+ "watching": 234,
  "near": [
   [
-   "NOA",
-   "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
-   0.186,
-   5.9,
-   ""
+   "chance",
+   "BJRbuPWj8FpmN6fv9XpctjksfeT8xQxZHU5rKM1Kpump",
+   0.133,
+   2.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "KEPLER",
    "EQtBbyhsNLwS78LPogHM3NgRmDCAyoigm2g2nV4Wpump",
-   0.131,
-   2.9,
+   0.132,
+   3.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "okay",
    "D4NHYxUiG2rRuMcTmC6Z5Qk11q4dAfJZziJz8mXApump",
    0.128,
-   2.5,
+   3.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "QUBIT",
-   "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
-   0.073,
-   8.1,
-   ""
-  ],
-  [
-   "MPC",
-   "J5Zb7ZDNZxtQJME6LJWez6HVkoDx95FH1xkKJKhipump",
-   0.062,
-   6.9,
-   ""
   ],
   [
    "OPENPUMP",
    "7N3udi82YybBKJoFXZwdKyuXjwGXU67UXM55G6vWpump",
-   0.059,
-   2.3,
-   "top5_hold_most=89%"
+   0.056,
+   3.3,
+   "top5_hold_most=93%"
   ],
   [
-   "ITAU",
-   "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
-   0.048,
-   9.2,
+   "NOA",
+   "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
+   0.056,
+   6.9,
    ""
   ],
   [
-   "MATCH",
-   "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
-   0.04,
-   9.3,
+   "Ruined",
+   "2iWdc4SQa7KtfwctPWmLmCyCEawc2ib8JDH5CWBepump",
+   0.044,
+   2.6,
    ""
   ],
   [
    "Trencher",
    "4F9ZQTrDnqMEieHPtuCDV3pG64UBoYaGBo8shQ4dpump",
-   0.036,
-   2.1,
+   0.041,
+   3.1,
    ""
   ],
   [
    "MOO",
    "Go5jAzbTFFLK5ExpJWHNEEMx5xn7E3TWhFmVpDcxpump",
    0.029,
-   4.6,
+   5.6,
+   ""
+  ],
+  [
+   "BROKE",
+   "3W55iFwaVUfwDKCRWq8vttZN2kZQKqpAKyJdkthjpump",
+   0.018,
+   2.8,
+   ""
+  ],
+  [
+   "TACO",
+   "4v7NGhYHgnCdLcErawK2xcNNtoxstaHcRj4gY9HTpump",
+   0.018,
+   7.7,
    ""
   ]
  ]
