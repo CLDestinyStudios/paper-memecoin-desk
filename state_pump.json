@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 272.3579937191989,
- "positions": {},
+ "cash": 264.18799371919886,
+ "positions": {
+  "C8hSdE61jR615gkGZm6E4F72xXLUYr2nZfZbFo98pump": {
+   "sym": "DEC0DED",
+   "bc": "GHtMUo51Ks3bAF7KRJcptD6fnoH4jpLzy99HLrJyv8Ri",
+   "tokens": 2017336.836171684,
+   "cost": 8.17,
+   "cost0": 8.17,
+   "entry_px": 3.763581953619287e-08,
+   "entry_fill": 4.003849557195647e-08,
+   "opened": 1793209325.6090865,
+   "last_px": 3.763581953619287e-08,
+   "peak_px": 3.763581953619287e-08,
+   "last_val": 7.213958297655239,
+   "last_prog": 0.187
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -102,7 +117,8 @@
   "8a6ZBRduYHTM73pUzBWTMq4YaLxNdpKVNSFrwxyRpump",
   "HPmXbD3iuBv7R4jWeBxALz9Uh23tyvuFpCagntWhpump",
   "3t9w3rwGfCS9UqvogHNqKyUgc5iRyCYvWfFMspCpmBaw",
-  "8Fy16aTmxH3trwB1pRRR4jH4n15ebbZwwRUPbdy4pump"
+  "8Fy16aTmxH3trwB1pRRR4jH4n15ebbZwwRUPbdy4pump",
+  "C8hSdE61jR615gkGZm6E4F72xXLUYr2nZfZbFo98pump"
  ],
  "equity": [
   [
@@ -1696,82 +1712,86 @@
   [
    "2026-10-28T10:40:55",
    272.36
+  ],
+  [
+   "2026-10-28T10:42:05",
+   271.4
   ]
  ],
- "cycles": 488,
+ "cycles": 489,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.071520478,
- "watching": 244,
+ "sol_usd": 101.15,
+ "watching": 243,
  "near": [
   [
-   "CRABLER",
-   "7SF6umqmWb5di8gDXurQgwErDnpVuCqsQEyojZiBpump",
+   "BIBICOIN",
+   "BwHQ4QcooRU1D8Dp7JtQjWsZWeqEQjGpy93jFeS7pump",
    1.0,
-   4.5,
+   4.6,
    "graduated"
   ],
   [
-   "NETANYAHU",
-   "BNPrtfT6kpojA7xo6g7C3EffKyu29cULQj3P22Nnpump",
-   0.954,
+   "WEPE",
+   "GbkYqgmMaPvz2SbxuWwGUMBRWHKo9RmztfFC1rhJpump",
+   0.971,
    3.1,
    ""
   ],
   [
-   "BIBICOIN",
-   "BwHQ4QcooRU1D8Dp7JtQjWsZWeqEQjGpy93jFeS7pump",
-   0.943,
-   3.4,
+   "NETANYAHU",
+   "BNPrtfT6kpojA7xo6g7C3EffKyu29cULQj3P22Nnpump",
+   0.92,
+   4.2,
    ""
   ],
   [
    "BIBICOIN",
    "2eqwNJS49GjhNVmDZp92FnThe3cMoyGDdKqjMqnFpump",
-   0.374,
-   2.9,
+   0.401,
+   4.0,
    ""
   ],
   [
    "IOF",
    "Gb8o5t6BzSaUuDF6dRaQyFjZVwepF3r85QAdr9bBpump",
-   0.328,
-   3.1,
-   "top5_hold_most=89%"
+   0.343,
+   4.3,
+   "top5_hold_most=85%"
+  ],
+  [
+   "30K",
+   "6mNnrPmGejPjjpfPTMG5aYMarx8PQJioXN3biH2Xpump",
+   0.341,
+   2.9,
+   "bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "DEC0DED",
+   "C8hSdE61jR615gkGZm6E4F72xXLUYr2nZfZbFo98pump",
+   0.187,
+   3.0,
+   "bought"
+  ],
+  [
+   "CHUNK",
+   "6X7RFx9GZpbvsEtqK57mShznx7RcAirvgotQeWE7pump",
+   0.156,
+   3.3,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "BIBICOIN",
    "2q2XgABvd6V13kYP41E7C5mCiKpCEKWYZh5p1pwpGdJZ",
-   0.132,
-   3.5,
+   0.121,
+   4.7,
    ""
   ],
   [
    "HERMANN2",
    "4TFjKTgX18px9DtpnJUHBwSpMDEyvYX7WfHhiPz7pump",
    0.114,
-   3.6,
+   4.8,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "NAKO",
-   "EaNpeUKx9bpejmqcpqHWABP2M6opJ1DbWz4iczp1pump",
-   0.102,
-   2.6,
-   "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "AirDropCat",
-   "87zBbeXifrK2CXyiTexTwQtvxD53RHt17Js78y9ypump",
-   0.099,
-   3.0,
-   "buyers=8; top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "putin",
-   "F4NvE4G4ourzA9VdoV1uUaU15A5KzyVhEHfWUZmTpump",
-   0.09,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
