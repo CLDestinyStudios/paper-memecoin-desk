@@ -13,10 +13,10 @@
    "entry_px": 3.4336544518393414e-08,
    "entry_fill": 3.6502311590331256e-08,
    "opened": 1793187248.1843777,
-   "last_px": 3.0795506160536144e-08,
+   "last_px": 3.040638034127885e-08,
    "peak_px": 9.76743034456271e-08,
-   "last_val": 4.58796765452135,
-   "last_prog": 0.064,
+   "last_val": 4.52500560529758,
+   "last_prog": 0.056,
    "tp1_done": true,
    "realized": 4.3678562971473465
   }
@@ -603,81 +603,85 @@
   [
    "2026-10-28T05:11:07",
    387.81
+  ],
+  [
+   "2026-10-28T05:12:07",
+   387.74
   ]
  ],
- "cycles": 186,
+ "cycles": 187,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.24619780622224,
- "watching": 278,
+ "sol_usd": 102.14715328549998,
+ "watching": 276,
  "near": [
+  [
+   "BOARDO",
+   "8K1zd4a7N5fnz3ZdtV6WFmdyE3FohkF1FYyfstqopump",
+   1.0,
+   2.6,
+   "graduated"
+  ],
   [
    "ABLE",
    "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump",
-   0.969,
-   8.5,
+   0.973,
+   9.5,
    ""
   ],
   [
    "QUBIT",
    "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
    0.112,
-   3.1,
+   4.1,
    ""
   ],
   [
    "TOGETRICH",
    "8WTt8cPPLoPuRzvPjqbhLmrPJEy8AhBMaB7Y6K9ppump",
    0.09,
-   2.7,
+   3.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "LARRY",
-   "FnS5yeipfL6F55e33VyBBDUtjjXPUMpUtuE4f4Fcpump",
-   0.071,
-   2.2,
+   "Xbtc",
+   "65qVboHL96U7gAbd8Y3PqJw7XvVcGZ6hRb6bpZoWpump",
+   0.074,
+   2.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "MPC",
+   "J5Zb7ZDNZxtQJME6LJWez6HVkoDx95FH1xkKJKhipump",
+   0.062,
+   2.9,
    ""
   ],
   [
    "WKC",
    "GxYtPmuqMpAL3z9VZFeRncL6E2knn8pphZjpi1Cipump",
    0.056,
-   2.7,
+   3.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "Col",
    "DektX6FiCRzkpAqgXzcq79M9fjzxiLEupfRLA28bpump",
    0.051,
-   5.4,
+   6.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "MATCH",
    "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
    0.04,
-   4.3,
+   5.3,
    ""
   ],
   [
    "ITAU",
    "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
    0.039,
-   4.1,
-   ""
-  ],
-  [
-   "LARRY",
-   "Ajkcp2pNhgiCPgWJ51Gr1na1XcPqeW9wbU2hEW1Tpump",
-   0.026,
-   5.4,
-   "top5_hold_most=91%"
-  ],
-  [
-   "Girtblob",
-   "39RHo61GEGm2wD5N6tfVCvLRVPQnCwn97L8ZYmmnpump",
-   0.021,
-   6.9,
+   5.1,
    ""
   ]
  ]
