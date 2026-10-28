@@ -1,18 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 415.27451405978354,
+ "cash": 424.04528306390847,
  "positions": {
-  "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump": {
-   "sym": "Rapport",
-   "qty": 133280.18302194183,
-   "entry": 0.00017309400000000002,
-   "mark_entry": 0.0001697,
-   "cost": 23.07,
-   "peak": 0.0001804,
-   "last": 0.0001804,
-   "opened": 1793201560.37479,
-   "p_buy": 0.65
-  },
   "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": {
    "sym": "swordcat",
    "qty": 13630.709081215567,
@@ -20,12 +9,17 @@
    "mark_entry": 0.001655,
    "cost": 23.01,
    "peak": 0.001656,
-   "last": 0.001643,
+   "last": 0.001636,
    "opened": 1793201861.563724,
    "p_buy": 0.55
   }
  },
- "watch": {},
+ "watch": {
+  "GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6": 1793202522.694982,
+  "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793202524.8783758,
+  "28vWTtEwxoWp5MpHutAMSK5DeVf8xXk8jEEtbrtppump": 1793202527.0484738,
+  "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz": 1793202528.984937
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -1293,8 +1287,12 @@
   [
    "2026-10-28T08:47:43",
    460.78
+  ],
+  [
+   "2026-10-28T08:48:52",
+   445.9
   ]
  ],
- "cycles": 395,
+ "cycles": 396,
  "started": "2026-10-28T01:46:56"
 }
