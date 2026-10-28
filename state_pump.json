@@ -13,10 +13,10 @@
    "entry_px": 4.506163002202779e-08,
    "entry_fill": 4.787632634508601e-08,
    "opened": 1793182146.94087,
-   "last_px": 4.127055878062965e-08,
+   "last_px": 4.493547097565845e-08,
    "peak_px": 4.506163002202779e-08,
-   "last_val": 11.42664939114472,
-   "last_prog": 0.239
+   "last_val": 12.438182982438072,
+   "last_prog": 0.286
   },
   "C21mctvobZQntNgWHasTgeSg2m6k2AtaNp6wgjZqpump": {
    "sym": "frontman",
@@ -27,10 +27,10 @@
    "entry_px": 3.791572411269225e-08,
    "entry_fill": 4.029679482332199e-08,
    "opened": 1793182327.250246,
-   "last_px": 3.842057390254166e-08,
+   "last_px": 3.82996960021837e-08,
    "peak_px": 4.767530644231013e-08,
-   "last_val": 12.46378794271796,
-   "last_prog": 0.199
+   "last_val": 12.41850422244906,
+   "last_prog": 0.197
   }
  },
  "traded": [
@@ -191,81 +191,85 @@
   [
    "2026-10-28T03:18:05",
    453.44
+  ],
+  [
+   "2026-10-28T03:19:06",
+   454.41
   ]
  ],
- "cycles": 73,
+ "cycles": 74,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.85264764850001,
+ "sol_usd": 102.80314109514015,
  "watching": 275,
  "near": [
   [
+   "TOLEDO",
+   "7DaA5x9Fwcg7mybgYovE5sddgYPczaTVNduqGZ8VR7oK",
+   0.481,
+   2.6,
+   "serial_creator=25 launches/24h"
+  ],
+  [
    "Rackz",
    "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump",
-   0.245,
-   2.6,
+   0.284,
+   3.6,
    ""
   ],
   [
    "DOGWIFPUMP",
    "7e6h41RHTt4NHEjvj2ro2gYKan7P7uANGqqF5PdUpump",
-   0.231,
-   8.5,
-   "buyers=4; top5_hold_most=100%"
+   0.266,
+   9.6,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "TOLEDO",
+   "pS9RFL4ZHGbBTXt9tg9HLdfZvDf2DAgjtwCaKSopump",
+   0.173,
+   2.7,
+   ""
+  ],
+  [
+   "popdog",
+   "96F37n9i7kvoqdXpUDCjT7FmNaKa8Yqx3d6y3g9Rpump",
+   0.112,
+   2.9,
+   ""
   ],
   [
    "PVE",
    "DFZhonD6s8i6Nwp5ypD6U5B7xL71MK6jMDiJxMp2cPMj",
    0.102,
-   2.4,
+   3.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "walpadwal",
-   "7deC36qZDxG3ogwLVMdpumUJ79z5QZnMtKmGf4Eapump",
-   0.038,
-   10.0,
+   "TOLEDO",
+   "4exjGHRiBqNqJHw6qreErsx8ewDz7vkzxsLL2fbLpump",
+   0.099,
+   2.1,
+   ""
+  ],
+  [
+   "Spain",
+   "FbcQADxggDobmNXaZbjPKj4jzBjwyf6awSbFUvk3oTgR",
+   0.032,
+   2.3,
    ""
   ],
   [
    "Pain",
    "AHWAKqq9NLPD7UU1pAD79syKHacMxSgjgH2z4aw1pump",
    0.03,
-   4.1,
+   5.1,
    ""
   ],
   [
    "Spain",
    "Sdwp6wEAe3KJsNxDqQLAus9asP2xGo9DQyFckSNpump",
    0.029,
-   4.1,
-   ""
-  ],
-  [
-   "THE",
-   "8ZQM7vjSFNzDMGNyFcaPx5qUT7trMePcCrDfghaVpump",
-   0.028,
-   2.9,
-   ""
-  ],
-  [
-   "Hand",
-   "4eu9iGZswthjhWV4VppGat9T56Yyo3eN92XA84DVpump",
-   0.022,
-   3.6,
-   ""
-  ],
-  [
-   "PUMPPILL",
-   "EWFJMvkyygvPtdCzrSQTk24jmyb11DkAordduCTSpump",
-   0.014,
-   2.2,
-   ""
-  ],
-  [
-   "\u4f69\u4f69",
-   "CqWqSKH6U5TdD72JFxCoKqQqheCtztFz8wMSLMC4pump",
-   0.01,
-   3.5,
+   5.1,
    ""
   ]
  ]
