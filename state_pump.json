@@ -626,83 +626,83 @@
    379.33
   ],
   [
-   "2026-10-28T05:21:06",
+   "2026-10-28T05:22:05",
    379.33
   ]
  ],
- "cycles": 196,
+ "cycles": 197,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.940172392,
- "watching": 196,
+ "sol_usd": 101.92479590200001,
+ "watching": 177,
  "near": [
   [
    "POOPIE",
+   "EAnnxAo767c3sh7sSubCEAYeUkHLKiBvN5s76bPUpump",
+   0.934,
+   3.0,
+   ""
+  ],
+  [
+   "POOPIE",
    "Bo8N1xGn4RU5Xavo1QtzSXSxp21JXUsENEuUhbsipump",
-   0.14,
-   2.6,
+   0.135,
+   3.6,
    ""
   ],
   [
    "KEPLER",
    "EQtBbyhsNLwS78LPogHM3NgRmDCAyoigm2g2nV4Wpump",
    0.105,
-   7.9,
+   8.9,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Luna",
+   "EkdfusnVF3C7wcMKMBTPgm2sGxuR95BhQfQ8LBmEpump",
+   0.071,
+   2.6,
+   ""
   ],
   [
    "okay",
    "D4NHYxUiG2rRuMcTmC6Z5Qk11q4dAfJZziJz8mXApump",
-   0.102,
-   7.5,
+   0.063,
+   8.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "482Mhz",
-   "Fu5rmJcwD9vD9isYCFUaCKrEZwDWJjrnTpD8XFMpWQpf",
-   0.074,
-   3.7,
+   "VETTED",
+   "3D61uQX126ABfw6L64kEJoy7cuZL2bJCttMucj5ypump",
+   0.046,
+   2.8,
    ""
   ],
   [
    "Ruined",
    "2iWdc4SQa7KtfwctPWmLmCyCEawc2ib8JDH5CWBepump",
    0.044,
-   6.6,
+   7.6,
    ""
   ],
   [
    "chance",
    "BJRbuPWj8FpmN6fv9XpctjksfeT8xQxZHU5rKM1Kpump",
    0.029,
-   6.6,
+   7.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Trencher",
    "4F9ZQTrDnqMEieHPtuCDV3pG64UBoYaGBo8shQ4dpump",
    0.029,
-   7.1,
-   ""
-  ],
-  [
-   "SS",
-   "ASQ4MNmmGLLqrk7N82gvj9AiF4ztX7KZHDupe37Rpump",
-   0.023,
-   3.1,
+   8.1,
    ""
   ],
   [
    "BROKE",
    "3W55iFwaVUfwDKCRWq8vttZN2kZQKqpAKyJdkthjpump",
    0.018,
-   6.8,
-   ""
-  ],
-  [
-   "SLOW",
-   "AAcow18yVWgPAcSjcPLeT7sSx1ceDDiDng8DDa9bpump",
-   0.016,
-   7.2,
+   7.7,
    ""
   ]
  ]
