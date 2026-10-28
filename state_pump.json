@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 198.9690461222339,
+ "cash": 204.36371292521432,
  "positions": {
   "4BeUbgUetPJxB9DhXTWnLw9p6Bda1fzRzDfqPQHUpump": {
    "sym": "BRBR",
@@ -13,10 +13,10 @@
    "entry_px": 6.714273512952015e-08,
    "entry_fill": 7.144257035732585e-08,
    "opened": 1793213093.929925,
-   "last_px": 5.786807838884419e-08,
+   "last_px": 5.773366185866792e-08,
    "peak_px": 7.708717062275202e-08,
-   "last_val": 5.395426756598427,
-   "last_prog": 0.413
+   "last_val": 5.386691415714869,
+   "last_prog": 0.411
   },
   "8rGGuG6JMLfJvfEhNArL6dHBVkoKAuvS3wEsx8P2pump": {
    "sym": "CFIT",
@@ -27,10 +27,10 @@
    "entry_px": 5.321830599789152e-08,
    "entry_fill": 5.663542127804514e-08,
    "opened": 1793213271.6894155,
-   "last_px": 5.312601318202192e-08,
+   "last_px": 5.1244926899691294e-08,
    "peak_px": 5.321830599789152e-08,
-   "last_val": 6.279342661781774,
-   "last_prog": 0.371
+   "last_val": 6.059766753897407,
+   "last_prog": 0.354
   },
   "55xgkUWfS4FEsqMD26uzR9xDHXFPHPhzMME5GKcypump": {
    "sym": "PIT",
@@ -41,24 +41,26 @@
    "entry_px": 5.0153049748826596e-08,
    "entry_fill": 5.3389536192388315e-08,
    "opened": 1793213628.067667,
-   "last_px": 4.823851433327996e-08,
+   "last_px": 4.8618611994352324e-08,
    "peak_px": 5.3472388167967965e-08,
-   "last_val": 5.780966322954922,
-   "last_prog": 0.323
+   "last_val": 5.831113838176336,
+   "last_prog": 0.327
   },
   "8J6ZVUqaTiqeJNfurfpr9gUYmYEy4YFM3UuV1Qwepump": {
    "sym": "BATTLE",
    "bc": "7Sktw2BZeoJjMKfgDhfgkwZZVdRdn8HZGdZrSQeh2e7V",
-   "tokens": 1194210.7611317826,
-   "cost": 6.72,
+   "tokens": 597105.3805658913,
+   "cost": 3.36,
    "cost0": 6.72,
    "entry_px": 5.178377826803954e-08,
    "entry_fill": 5.512924640647496e-08,
    "opened": 1793213685.7874827,
-   "last_px": 7.442613530850942e-08,
-   "peak_px": 7.442613530850942e-08,
-   "last_val": 8.525215995190543,
-   "last_prog": 0.524
+   "last_px": 9.437436973845543e-08,
+   "peak_px": 9.437436973845543e-08,
+   "last_val": 5.394666802980425,
+   "last_prog": 0.617,
+   "tp1_done": true,
+   "realized": 2.0346668029804253
   }
  },
  "traded": [
@@ -2094,81 +2096,85 @@
   [
    "2026-10-28T11:57:41",
    224.95
+  ],
+  [
+   "2026-10-28T11:58:40",
+   227.04
   ]
  ],
- "cycles": 565,
+ "cycles": 566,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.96897254599999,
- "watching": 199,
+ "sol_usd": 102.042992384,
+ "watching": 191,
  "near": [
+  [
+   "VECTOR",
+   "ANv6oWfrqx6Xg9WTJyukXqmJgzRHK1dWvqDzo6jpump",
+   0.897,
+   2.2,
+   ""
+  ],
+  [
+   "SVM",
+   "6Tdr5iX9hynZ14ddnFFEjeQsRdt5habAUo6tMNF4pump",
+   0.838,
+   2.5,
+   ""
+  ],
+  [
+   "SVM",
+   "4XoJBHudDCHiDEJ1NVUaxzMHH9fWMxyvjdpMQNciApgt",
+   0.219,
+   3.0,
+   ""
+  ],
+  [
+   "ACTX",
+   "9y3MRyz1MDkxejB7rcVWYvx6ncamthYrtqqRD5FLpump",
+   0.155,
+   2.7,
+   ""
+  ],
   [
    "pumpcat",
    "CxPeordYqqqgEtJ2GqBB7rSFmjnMVspqe2ugji1Ppump",
-   0.17,
-   8.9,
+   0.146,
+   9.9,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "NOA",
    "34UB2Q7nsyRGmUnA4NcvZzkZfiJUp34mm6Zke3bjpump",
-   0.124,
-   4.9,
+   0.106,
+   5.9,
+   ""
+  ],
+  [
+   "kimchi dog",
+   "4SgbP5DMna4h8YH9KkG9voV2E6peeAjAcgf2HybPpump",
+   0.096,
+   2.2,
    ""
   ],
   [
    "PUMP ",
    "GeSmf8G8JKxoTosJVwPUh6Q9Sy8fDvTQTd3SGWAFpump",
    0.092,
-   5.7,
+   6.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "JAILMIKA",
-   "5MRq7mf5GHSVBCCT2fHEFuDULCaqea3SsDdfk7qJpump",
-   0.071,
-   6.8,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "T.O.T. ",
-   "4cvsek24kyb9EnqFkqcNB4AEWHcs6HBacMCnURUzpump",
-   0.064,
-   9.9,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "omni",
-   "D2n8fG2ZXC6pqhWad4VPNiduTMHvv6HxcR7Kd2GCpump",
-   0.035,
-   3.6,
+   "SATURNINO",
+   "74pGLsViUBYDdpX6QjUFWHum7Um1WV3gqtEzJ8zcpump",
+   0.067,
+   2.6,
    ""
   ],
   [
-   "PEPS",
-   "HWedih1g5WjB4qdoF1Q2xjVf8j7k9CTb7mNzwo5Gpump",
-   0.03,
-   7.6,
-   ""
-  ],
-  [
-   "Dill",
-   "3qnnjbeo3oFFW3NRCLBBWfGeH5Vu3xFjxQJj4scMpump",
-   0.025,
-   3.2,
-   ""
-  ],
-  [
-   "Gate",
-   "H573X8wr6EegxEynmwWzQPAD3C51retCjbHxmrexpump",
-   0.022,
-   8.0,
-   ""
-  ],
-  [
-   "gate",
-   "GFkvhnkNWA6RXmwvLcwrMaULRRPiVixiUJbZpLupump",
-   0.022,
-   6.2,
+   "Timmpixx",
+   "nVwP1GmDyYZJFHY24WMSLtB4M2S39ZurhDUeXDHpump",
+   0.058,
+   2.3,
    ""
   ]
  ]
