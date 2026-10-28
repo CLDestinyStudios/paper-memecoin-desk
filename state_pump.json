@@ -13,10 +13,10 @@
    "entry_px": 6.156821493097416e-08,
    "entry_fill": 6.54047801740643e-08,
    "opened": 1793198476.0788846,
-   "last_px": 6.582379012465086e-08,
-   "peak_px": 6.582379012465086e-08,
-   "last_val": 10.184138612508354,
-   "last_prog": 0.471
+   "last_px": 7.798504750499765e-08,
+   "peak_px": 7.798504750499765e-08,
+   "last_val": 12.072622879223024,
+   "last_prog": 0.543
   }
  },
  "traded": [
@@ -1205,81 +1205,85 @@
   [
    "2026-10-28T07:42:05",
    357.31
+  ],
+  [
+   "2026-10-28T07:43:12",
+   359.2
   ]
  ],
- "cycles": 337,
+ "cycles": 338,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.720102117,
- "watching": 215,
+ "sol_usd": 100.721014554,
+ "watching": 211,
  "near": [
   [
    "RACCOIN",
    "8N9BouNJp1TVFWQEGDUqHhhec5ZRC7AmWsorXLLqpump",
-   0.82,
-   2.9,
+   0.823,
+   4.0,
    ""
   ],
   [
    "PEPEween",
    "5C5K1ZetdvGoF5QRcyRbVMiVLhkJzS8RkH8UL2pwpump",
-   0.501,
+   0.539,
+   3.4,
+   ""
+  ],
+  [
+   "FIVEMIND",
+   "br1sTLyi2YygfkgWwQihmA3Rz5YRRiSaF1tobpcpump",
+   0.344,
    2.3,
    ""
+  ],
+  [
+   "Pacific",
+   "9agBY8pUAc3Q7D2BzueuXABDoghi8eN4YbLYXNGWpump",
+   0.255,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "PAPERGUY",
    "AN1toSEYtqhhnBMRwETc9yaBnPyx6XWpZoEiDa4xpump",
    0.198,
-   8.3,
+   9.5,
    "buyers=7; top5_hold_most=94%"
+  ],
+  [
+   "BLUECHIMP",
+   "Aq5E2y6UYP7bMxnNzfkVH7XnFxKsLrU7Fo3PsR3Kpump",
+   0.113,
+   2.4,
+   ""
+  ],
+  [
+   "POOP",
+   "FgHtiGYNo2N3guB1VduFhMYbSsww5Zv7PTcgzKqApump",
+   0.098,
+   2.2,
+   ""
+  ],
+  [
+   "POOP",
+   "ChpseqgrxJtJwREwCRRE3AhbUtweaxtvqAijkwVZpump",
+   0.074,
+   2.8,
+   ""
+  ],
+  [
+   "MOTO",
+   "AAaLtu4jJrm3Yko5ffkZ5zyPV3t1X6E2mGcriLoNpump",
+   0.074,
+   2.4,
+   ""
   ],
   [
    "RACCOIN",
    "Cfm1w1iuwNSzGhAG2h3QmnXdjscKV2F8uMqfXaxXpump",
    0.073,
-   3.9,
-   ""
-  ],
-  [
-   "EYEDOC",
-   "4WLPTAqSZ38m1ECxQKuuE5PUkzEjcGbcWetBuraWsdNs",
-   0.035,
-   4.4,
-   ""
-  ],
-  [
-   "GRINCH",
-   "C5zPZ2dQ5fJAqrvcyyBfRxYFnemgWGQTMNzHk993pump",
-   0.034,
-   7.9,
-   ""
-  ],
-  [
-   "MARCEL",
-   "BGpSuXKeF8xmbiw4nELZu3G4D4EujfoUi1fqykkreLkq",
-   0.034,
-   3.7,
-   ""
-  ],
-  [
-   "POOCOIN",
-   "5h3UmHB4H32X2wVZexovMhre1quUwk8QWBdFYL93iMfy",
-   0.031,
-   3.2,
-   ""
-  ],
-  [
-   "RACCOIN",
-   "79HsTqvSCyjngxJQkEAZyjREh6xXrfXSR1CZWKr9XtCm",
-   0.025,
-   6.5,
-   ""
-  ],
-  [
-   "JMS",
-   "8osQi8y4BmZEh82Btiunjxga7XVMC1uXzCPvCiSRpump",
-   0.022,
-   3.6,
+   5.0,
    ""
   ]
  ]
