@@ -15,7 +15,7 @@
    "opened": 1793190367.4686122,
    "last_px": 1.2129334996556107e-07,
    "peak_px": 1.750526466497902e-07,
-   "last_val": 10.364607607694975,
+   "last_val": 10.367223026415534,
    "last_prog": 0.703,
    "tp1_done": true,
    "realized": 2.1764581682455733
@@ -782,81 +782,85 @@
   [
    "2026-10-28T05:58:07",
    384.64
+  ],
+  [
+   "2026-10-28T05:59:07",
+   384.65
   ]
  ],
- "cycles": 233,
+ "cycles": 234,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.39,
- "watching": 216,
+ "sol_usd": 101.41558488599999,
+ "watching": 211,
  "near": [
   [
    "DEADPOOL",
    "GQmknKuEPyx6kpYzRtHu5yeCBV4G2pS1WJ8xNS54pump",
-   0.346,
-   4.5,
-   "creator=17.6%; top5_hold_most=90%"
+   0.331,
+   5.5,
+   "creator=17.6%; top5_hold_most=95%"
   ],
   [
    "Elonhouse",
    "2MbjhKywwfYKYL4jGzYVECR6pRaS2G7cM3n1X8PuFx36",
    0.231,
-   5.0,
+   6.0,
    ""
   ],
   [
-   "Manta Inu",
-   "BhmAmgjY81iigNVq1U7CkTyUshGjFyq2ZrhGUs7ypump",
-   0.098,
-   4.7,
-   "buyers=7; top5_hold_most=100%"
+   "HP",
+   "DuxEyxsvDfwCDxqPSpPpwvNjjPEvDPRTB9EHCY6Upump",
+   0.168,
+   2.6,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "gud ket",
-   "31jh6SzgyRRuN7yAzPiMNbnPQy95FDdXyYG1oTtipump",
-   0.092,
-   2.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Manta Cat",
-   "9MAozij8bRjMTMnWmrd71Nj4gzVYhwZSezbL4wUkpump",
-   0.088,
-   2.5,
-   "buyers=9; top5_hold_most=98%"
+   "Consequences",
+   "2ZwRQXnb7bFLZJrHj5o3ZzkGKyQwpmMp44i9t64xpump",
+   0.093,
+   5.3,
+   ""
   ],
   [
    "Rug",
    "HihgJZuoyYZQguhWQWn5i4v7oFreTgJo4sGixvK1pump",
    0.071,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "LAUNCHCAT",
+   "H7GX7yNPKqgCKfj6fYKMtVWiThNBdMo3zVUE83Fhpump",
+   0.071,
+   2.7,
+   ""
+  ],
+  [
+   "CACHET",
+   "9Dugm9Xgj3wfMEeZSvbU8iP3UuiQopHL1cCvzL8Xpump",
+   0.063,
+   2.1,
    ""
   ],
   [
    "Quarry",
    "EEL4tzHSGMfSKskDhyci9D3gqbug9d7s71XXAv2BbTE9",
    0.061,
-   6.6,
+   7.6,
    ""
+  ],
+  [
+   "gud ket",
+   "31jh6SzgyRRuN7yAzPiMNbnPQy95FDdXyYG1oTtipump",
+   0.055,
+   3.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Nothing",
    "BiAUatZuRRZMzwubU8Td3NAELsEsyE2Fw8fvnsdUJiQE",
    0.055,
-   2.3,
-   ""
-  ],
-  [
-   "DUSTY",
-   "DceYsNsWnNgoWdeChwfbpuoagdy7UXqqhztUvfxopump",
-   0.043,
-   8.8,
-   ""
-  ],
-  [
-   "GT",
-   "FuS6H9tNadjrjCmf6712LNqt7v6ZD4JS97JP4WJ5pump",
-   0.043,
-   5.7,
+   3.3,
    ""
   ]
  ]
