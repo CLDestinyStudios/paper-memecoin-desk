@@ -13,9 +13,9 @@
    "entry_px": 5.2789776954448656e-08,
    "entry_fill": 5.6443920904064814e-08,
    "opened": 1793230070.5884793,
-   "last_px": 5.670687267812881e-08,
-   "peak_px": 5.670687267812881e-08,
-   "last_val": 3.8408622452199346,
+   "last_px": 5.673309326845032e-08,
+   "peak_px": 5.673309326845032e-08,
+   "last_val": 3.8427141476691924,
    "last_prog": 0.403
   }
  },
@@ -3178,81 +3178,85 @@
   [
    "2026-10-28T16:40:49",
    131.0
+  ],
+  [
+   "2026-10-28T16:41:53",
+   131.0
   ]
  ],
- "cycles": 848,
+ "cycles": 849,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.29858564599999,
- "watching": 244,
+ "sol_usd": 102.30000000000001,
+ "watching": 226,
  "near": [
   [
    "ALFREDITO",
    "FDA9eSmQy5qDyzNHkUTA9fhN1tFJ55PkFJpzzZtXpump",
-   0.442,
-   7.7,
+   0.499,
+   8.7,
    ""
+  ],
+  [
+   "\u3164\u3164\u3164\u3164",
+   "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
+   0.461,
+   2.4,
+   ""
+  ],
+  [
+   "Grokius",
+   "WLtKi1x7CkdEXAHm712kutVVCPW7y7qhT6M8PVppump",
+   0.373,
+   2.5,
+   "serial_creator=13 launches/24h"
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "4yBF1zwab4waGkMacwEBRd6KeGaPDxmLGywwT9HNpump",
    0.31,
-   6.7,
+   7.7,
    ""
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "2CNFPZdahkk9XGpiaCxuEXmvwu4w9wCcgm2aE6nxpump",
    0.255,
-   7.6,
+   8.7,
    ""
   ],
   [
    "SAME",
    "EKaAwDWfc57RBCY4wdKkzXwzJHCEtME8xTwa1JtYpump",
    0.063,
-   5.5,
+   6.6,
    ""
   ],
   [
    "pumpcat",
    "8mgpZqQvb15vBV72FoosWpsBJv2WDKUHER9Gdb1xpump",
    0.048,
-   3.0,
+   4.1,
    ""
   ],
   [
    "SAME",
    "4UUKpu5qPv8TfeE1ZUviWoZphmnVQ5cjVyA65V7cpump",
    0.044,
-   5.9,
+   6.9,
    ""
   ],
   [
    "$SPCXX",
    "BfrZeXvaQV6HrpVbahhgtukefjwpB2kUTm3j7x4Cpump",
    0.041,
-   8.9,
+   10.0,
    ""
   ],
   [
    "\u3164\u3164\u3164\u3164",
    "5wm7JK91T9Tiim7AbL3rZKrwdNdYQEsu447B9nL3pump",
    0.035,
-   8.5,
-   ""
-  ],
-  [
-   "BIOME",
-   "5B9E8TBAJZtspf3yvYKKXQREhVb8Zr9g33KHJQ6s4Wev",
-   0.025,
-   4.5,
-   ""
-  ],
-  [
-   "BFC",
-   "9G617Gy7Am4pvtMhE5H44AvmDcvjaxdmcm33QBJYpump",
-   0.024,
-   5.8,
+   9.5,
    ""
   ]
  ]
