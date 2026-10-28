@@ -1038,81 +1038,85 @@
   [
    "2026-10-28T07:03:14",
    364.36
+  ],
+  [
+   "2026-10-28T07:04:06",
+   364.36
   ]
  ],
- "cycles": 298,
+ "cycles": 299,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.03075160099999,
- "watching": 220,
+ "sol_usd": 101.0,
+ "watching": 211,
  "near": [
   [
    "Robotaxi",
    "8HfToph7SsjfZVuMhatshUMWz7oFJ8q4rTw8KFNLpump",
    0.535,
-   7.3,
+   8.2,
    "buyers=2; creator=36.8%; top5_hold_most=100%"
-  ],
-  [
-   "FBM",
-   "ddj4TAPkE9eyG5DSvjWVCkHagW1ix82KsfUnE8ipump",
-   0.48,
-   2.5,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Voices ",
    "7ykGV6fnooFdExBDfeesm5rFHHRewRC2ixwfx5L7pump",
-   0.181,
-   5.8,
-   "buyers=8; top5_hold_most=90%"
+   0.196,
+   6.7,
+   "top5_hold_most=80%"
   ],
   [
    "$TAPE",
    "7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump",
-   0.16,
-   2.4,
+   0.141,
+   3.2,
    ""
   ],
   [
    "SICO",
    "4AcCV64Zi7kbYhqaGDmBk59igEFjDQisatXFerXWpump",
-   0.096,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
+   0.097,
+   3.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "COPY",
    "8D8eyHAMzDU3gpLiB2SdcYQffXo9ZfQUtyJS7AYjpump",
-   0.092,
-   3.7,
-   "buyers=5; top5_hold_most=100%"
+   0.096,
+   4.5,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "CRUMB",
    "EnZviLqit5f6WEcHoFWApCHHhNVK99njf2VWTn2GcQt9",
    0.053,
-   3.5,
+   4.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "MEME",
    "5HTUvAiFJEgdyLLhD3kbpJaRaenATe9koYJYzgBxMnxa",
    0.043,
-   7.0,
+   7.9,
    ""
   ],
   [
    "MbappeMAO",
    "8j1zkTV4KrQFxyagKN8raVgomLa1RRUxPeyNP31Zpump",
-   0.038,
-   3.2,
+   0.037,
+   4.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "EFP",
    "7wcetSgy1v1bU1zS8CaSbPAAcEHU6EuVYeDdV9FPpump",
-   0.029,
-   2.8,
+   0.031,
+   3.7,
+   ""
+  ],
+  [
+   "Squeeze",
+   "85Uby27VRVVjvBv9fTKoEt7tHVxuH5dVpt77KkJPL2dZ",
+   0.022,
+   2.5,
    ""
   ]
  ]
