@@ -13,10 +13,10 @@
    "entry_px": 1.1946755784412127e-07,
    "entry_fill": 1.268190051732801e-07,
    "opened": 1793196969.3762598,
-   "last_px": 1.4750596302777447e-07,
+   "last_px": 1.2184977258005024e-07,
    "peak_px": 1.6044780194545198e-07,
-   "last_val": 12.064950237980897,
-   "last_prog": 0.764
+   "last_val": 9.947733639963788,
+   "last_prog": 0.705
   }
  },
  "traded": [
@@ -1117,81 +1117,85 @@
   [
    "2026-10-28T07:20:06",
    369.67
+  ],
+  [
+   "2026-10-28T07:21:06",
+   367.55
   ]
  ],
- "cycles": 315,
+ "cycles": 316,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.68352926750002,
- "watching": 340,
+ "sol_usd": 100.56580867234257,
+ "watching": 320,
  "near": [
-  [
-   "Aloooong",
-   "GsXNdu6jDKsKLZCXvf4mF1ciDmpQG8TEiwZ5Rnf4pump",
-   1.0,
-   3.2,
-   "graduated"
-  ],
   [
    "Loongcat",
    "HuUgLZGMAVqtUA5MVcBDDjQswzCKViH7i8CNxeKzpump",
-   0.932,
-   2.8,
+   0.936,
+   3.8,
    ""
   ],
   [
    "Aloooong",
    "6EA2bLcCtrDAxjoQdwTCWcmdSr4uFFfk9nabH4DwV4CM",
-   0.589,
-   3.6,
+   0.664,
+   4.6,
    ""
   ],
   [
-   "STICK",
-   "2kptRsGx9P9ufjH6R4u7wyrCANh1VMJ4WXiPT2xKgFLW",
-   0.301,
-   2.7,
-   ""
+   "PFP",
+   "24bwh7djJ2Jkw889GvbBj8p6waFhGQ65QVkJhfcppump",
+   0.253,
+   2.4,
+   "top5_hold_most=88%"
   ],
   [
    "LOONGCAT",
    "7WGW2rmqab2DhNVbUCbQRbjETuvCd5sp6DFKrUH7RHtM",
    0.181,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "STICK",
+   "2kptRsGx9P9ufjH6R4u7wyrCANh1VMJ4WXiPT2xKgFLW",
+   0.174,
+   3.7,
    ""
   ],
   [
    "COPY",
    "AS43k5uT45oHU13iXFbNBLvdnT7MQcqkz8vW38YSpump",
-   0.175,
-   3.1,
+   0.169,
+   4.1,
    ""
   ],
   [
    "CALLCAT",
    "4iRkLQ4tscbqpmBDnGMaSFbYEPzRYGHPS5B2jqWGpump",
    0.14,
-   2.1,
+   3.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "PAWS",
    "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump",
-   0.126,
-   2.8,
-   "buyers=6; top5_hold_most=97%"
+   0.131,
+   3.8,
+   "buyers=7; top5_hold_most=94%"
   ],
   [
-   "PERPS",
-   "2kiqChYwbxwzRHf7yeSUqR9FdBe7XsuCrDQ1LRqhpump",
-   0.109,
-   3.0,
-   "buyers=7; top5_hold_most=97%"
+   "long",
+   "B7a5aHhj8H4uD5p4oRjcdFAjnjsSSbBupYhn6tanpump",
+   0.129,
+   3.8,
+   ""
   ],
   [
-   "Loongcat",
-   "8kwQGapcQDtsitdPEQJfnRh8VFsQjMGXT7osBhWbLWXP",
-   0.103,
-   2.7,
+   "long",
+   "ywBDE8oVMu7Cn527Tx8buZfgmbjiRewP69REWPWpump",
+   0.12,
+   2.1,
    ""
   ]
  ]
