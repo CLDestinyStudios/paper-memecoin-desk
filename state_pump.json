@@ -269,83 +269,83 @@
    419.93
   ],
   [
-   "2026-10-28T03:44:06",
+   "2026-10-28T03:45:06",
    419.93
   ]
  ],
- "cycles": 99,
+ "cycles": 100,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.92140684922283,
- "watching": 376,
+ "sol_usd": 102.90283016699999,
+ "watching": 393,
  "near": [
-  [
-   "Elung",
-   "CxH7LW1ccMqCzRnkWKBGFFgnRtjxNiVkcSv1f2eApump",
-   0.364,
-   2.0,
-   "creator=27.5%; top5_hold_most=97%; bundled_launch=4 extra buys in creation block"
-  ],
   [
    "EGC",
    "29z4PRKNRQkhQCghqCEJCcsyV5hjj1Xqdg6s1Doypump",
    0.149,
-   5.6,
+   6.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "BRAA",
    "4CSe6a5eEJnCEDAVstWyzER9ygGgVaLSgerh5QiJpump",
    0.052,
-   4.3,
+   5.3,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Shibana",
+   "CMWC5SHBH9JbKXpqzXroUgd3yWYjpkoAgk9NJfEppump",
+   0.043,
+   2.4,
+   ""
   ],
   [
    "WATERFOWL",
    "Ff3XBe81onCNmMeKbR7t4bhn33sHFy3bNBuTJmquuwrx",
    0.024,
-   3.0,
+   4.0,
    ""
   ],
   [
    "SLOPCORE",
    "Ca1VUGKzHMrgfAhwUMpp41kH23C3FeLhiYCj7doMxq5L",
    0.024,
-   3.9,
+   4.9,
+   ""
+  ],
+  [
+   "Ween",
+   "FdPh3DMJgFEkKLDZ9h6ipM7hESismqBz7t64rAPDpump",
+   0.021,
+   2.8,
    ""
   ],
   [
    "XINA",
    "AYuyEcz3Y4EzYVCHiNMaseHn14cQKDwHgEeVzTEGpump",
-   0.02,
-   2.1,
+   0.021,
+   3.1,
    ""
   ],
   [
    "$CBS",
    "FhAEzWuzK6DUvsZPwuRfVZGW9D4WcNxaLe7pz8sLpump",
    0.012,
-   5.1,
-   ""
-  ],
-  [
-   "CHP",
-   "ENnkBbWF5SnpjsKFjaZEHXbeeSmbgi1HszbJbnV4pump",
-   0.011,
-   9.4,
+   6.1,
    ""
   ],
   [
    "swordinu",
    "4fbDoVAmXtJUCtwPmM5njtAfiSmV2QPZFp2zqwBApump",
    0.007,
-   8.1,
+   9.1,
    ""
   ],
   [
-   "Mango",
-   "CQ7mFd2HTC5dPXvxeygD46qXBCNK8a61ZcHfJzf52yWW",
-   0.004,
-   9.3,
+   "HUMAN",
+   "9iWZE5tsG8FLN1oRajFACu9CSJ2gnvWgu6DQje6bpump",
+   0.002,
+   2.8,
    ""
   ]
  ]
