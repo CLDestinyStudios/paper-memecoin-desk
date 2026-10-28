@@ -80,7 +80,7 @@ def rpc(method, params, timeout=15, tries=3):
 # ---------------- state ----------------
 def load():
     if os.path.exists(STATE): return json.load(open(STATE))
-    return {"desk": LABEL, "paper_only": True, "bank_start": START_BANK, "cash": START_BANK, "positions": {}, "watch": {},
+    return {"desk": LABEL, "paper_only": True, "bank_start": START_BANK, "cash": START_BANK, "positions": {}, "watching": 0, "near": [],
             "traded": [], "equity": [], "cycles": 0, "started": iso(), "sol_usd": None}
 def save(st):
     tmp = STATE + ".tmp"; json.dump(st, open(tmp, "w"), indent=1); os.replace(tmp, STATE)
@@ -90,7 +90,7 @@ def read_log(): return [json.loads(l) for l in open(LOG)] if os.path.exists(LOG)
 def load_cache():
     try: c = json.load(open(CACHE))
     except Exception: c = {}
-    for k in ("rc", "cr", "creators", "seen", "ls"): c.setdefault(k, {})
+    for k in ("rc", "cr", "creators", "seen", "ls", "watch"): c.setdefault(k, {})
     c["rc"] = {a: v for a, v in c["rc"].items() if v["t"] > now() - 1800}
     c["cr"] = {a: v for a, v in c["cr"].items() if v["t"] > now() - 600}
     c["creators"] = {a: [t for t in v if t > now() - 86400] for a, v in c["creators"].items()}
@@ -121,7 +121,7 @@ def sell_flat(px_sol, tokens):                                                  
 # ---------------- data ----------------
 def discover(st, cache, src):
     """Add new pump.fun launches to the watchlist. Returns the source used."""
-    W = st["watch"]; sol_usd = None; got = 0
+    W = cache["watch"]; sol_usd = None; got = 0
     for page in range(6):
         d = get(f"{FE}?offset={page * 50}&limit=50&sort=created_timestamp&order=DESC&includeNsfw=true", "pumpfun_api")
         if not isinstance(d, list):
@@ -146,7 +146,7 @@ def pumpportal(st, cache, src, secs=12):
     try:
         import asyncio, websockets
     except Exception: src["pumpportal"] = "websockets missing"; return "none"
-    W = st["watch"]; got = [0]
+    W = cache["watch"]; got = [0]
     async def run():
         async with websockets.connect(PP_WS, open_timeout=8) as ws:
             await ws.send(json.dumps({"method": "subscribeNewToken"})); t0 = now()
@@ -283,10 +283,11 @@ def equity(st, sol_usd):
 def cycle(deadline=DEADLINE):
     t0 = now(); NET.update(calls=0, http429=0, errors=0, by={})
     st = load(); st["cycles"] += 1; cache = load_cache(); src = {}
+    if "watch" in st: cache["watch"].update(st.pop("watch"))   # watchlist lives in the runner-local cache (keeps the committed state small)
     stats = Counter(); stats.update(exits=0, win=0, loss=0, stale=0, entries=0)
     via = discover(st, cache, src)
     sol_usd = st.get("sol_usd") or 0
-    W = st["watch"]
+    W = cache["watch"]
     for m in [m for m, w in W.items() if now() - w[0] > R["age_max"] + 60]: del W[m]
     cand = [m for m, w in W.items() if R["age_min"] <= now() - w[0] <= R["age_max"] and m not in st["traded"]
             and cache["seen"].get(m, [0, ""])[1] not in ("final",)]
@@ -310,6 +311,7 @@ def cycle(deadline=DEADLINE):
         if pg < R["prog_min"]: rej["progress_low"] += 1; continue
         if pg > R["prog_max"]: rej["progress_high"] += 1; continue
         live.append((m, c, pg))
+    near = sorted(((progress(cvs[W[m][3]]), m) for m in cand if W[m][3] in cvs and not cvs[W[m][3]]["mayhem"]), reverse=True)[:10]
     stats["progress_ok"] = len(live)
     pairs = ds_pairs(list(dict.fromkeys([m for m, _, _ in live] + list(st["positions"])))) if (live or st["positions"]) else {}
     if not sol_usd:
@@ -371,7 +373,9 @@ def cycle(deadline=DEADLINE):
         stats["entries"] += 1
         log("entry", token=m, sym=sym, price=px * sol_usd, price_sol=px, size=size, tokens=tokens, sol_usd=round(sol_usd, 2), facts=f,
             mark_value=round(st["positions"][m]["last_val"], 2))
-    st["traded"] = st["traded"][-500:]
+    st["traded"] = st["traded"][-500:]; st["watching"] = len(W)
+    st["near"] = [[W[m][1], m, round(pg, 3), round((now() - W[m][0]) / 60, 1), (cache["seen"].get(m) or [0, "", ""])[2] if len(cache["seen"].get(m) or []) > 2 else ""]
+                  for pg, m in near]          # top-10 coins in the 2-10 min window by curve progress: [sym, mint, progress, age min, last deep-check reason]
     save_cache(cache)
     eq = round(equity(st, sol_usd), 2); E = st["equity"]
     if E and len(E) > 1 and E[-1][1] == eq and E[-2][1] == eq and now() - dt.datetime.fromisoformat(E[-2][0]).timestamp() < 600: E[-1] = [iso(), eq]
@@ -419,7 +423,7 @@ def block():
     rows = "".join(f"<tr><td>{e['ts']}</td><td>{e['kind']}</td><td>{e.get('sym','')}</td><td>{e.get('reason', e.get('pnl', e.get('size', '')))}</td></tr>"
                    for e in reversed(L) if e["kind"] != "cycle")
     pos = "".join(f"<tr><td>{q['sym']}</td><td>${q['cost']:.2f}</td><td>{q.get('last_val', q['cost']) / q['cost'] - 1:+.1%}</td></tr>" for q in st["positions"].values())
-    return (f"<h1>PUMP desk (pump.fun curve, paper)</h1><p>bank start ${st['bank_start']:.2f} | equity ${vals[-1]:.2f} | cash ${st['cash']:.2f} | open {len(st['positions'])} | watching {len(st['watch'])}</p>"
+    return (f"<h1>PUMP desk (pump.fun curve, paper)</h1><p>bank start ${st['bank_start']:.2f} | equity ${vals[-1]:.2f} | cash ${st['cash']:.2f} | open {len(st['positions'])} | watching {st.get('watching', 0)}</p>"
             f"<svg width=600 height=150 style=\"border:1px solid #131\"><polyline fill=none stroke=\"#3f3\" points=\"{pts}\"/></svg>"
             f"<h2>Open</h2><table>{pos or '<tr><td>none</td></tr>'}</table><h2>Recent activity</h2><table>{rows}</table>")
 

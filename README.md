@@ -72,5 +72,5 @@ because selling back immediately would pay both sides' fees and slippage.
 
 ## Files
 STRICT: `state.json`, `log.jsonl`. LOOSE: `state_loose.json`, `log_loose.jsonl` (bank started 2026-10-28). PUMP: `state_pump.json`
-(includes the rolling watchlist of coins under ~11 min old), `log_pump.jsonl` (entries, exits incl. partial sells, deep-check rejects, per-cycle counts),
-`pump_cache.json` (runner-local, gitignored). `loop.log` (runner output incl. cycle seconds), `terminal.html` (all desks). Unchanged reject reasons are not re-logged. Reset a desk: delete its state and log files.
+(bank, positions, watchlist size and the 10 in-window coins furthest up the curve), `log_pump.jsonl` (entries, exits incl. partial sells,
+deep-check rejects, per-cycle counts), `pump_cache.json` (runner-local, gitignored: the rolling watchlist of coins under ~11 min old plus caches). `loop.log` (runner output incl. cycle seconds), `terminal.html` (all desks). Unchanged reject reasons are not re-logged. Reset a desk: delete its state and log files.
