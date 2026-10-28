@@ -15,7 +15,7 @@
    "opened": 1793228150.9612513,
    "last_px": 2.8952776939358912e-08,
    "peak_px": 3.3235121125106424e-08,
-   "last_val": 3.4810660678507443,
+   "last_val": 3.4837975016940863,
    "last_prog": 0.023
   }
  },
@@ -3051,82 +3051,86 @@
   [
    "2026-10-28T16:04:53",
    146.33
+  ],
+  [
+   "2026-10-28T16:05:50",
+   146.34
   ]
  ],
- "cycles": 812,
+ "cycles": 813,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.30016097149999,
- "watching": 309,
+ "sol_usd": 102.380431244,
+ "watching": 321,
  "near": [
-  [
-   "TWINPAD",
-   "8UekL4nqxXiByEysPanauhp1PgggBkfDoApi7DvDpump",
-   0.713,
-   3.7,
-   "bundled_launch=5 extra buys in creation block"
-  ],
   [
    "TIMECAPSULE",
    "6yuxB2qmuw3jpuL2QepG8M2a7ZsYRTLewkPAcrgLpump",
-   0.413,
-   2.5,
+   0.472,
+   3.4,
    ""
+  ],
+  [
+   "$LTC ",
+   "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
+   0.196,
+   9.2,
+   "buyers=8; top5_hold_most=93%"
   ],
   [
    "Solcoin",
    "5ogyUVB9i9mPaLs2DoC8133eUpYPsCUKBHJ31KZUpump",
    0.169,
-   3.9,
+   4.8,
    "top5_hold_most=82%"
   ],
   [
    "Mortgage",
    "2XnfD2JgEnZoWAC4tJ6nGUUWBBKeuTPMvfeNzA4gpump",
-   0.157,
-   6.5,
+   0.159,
+   7.5,
    ""
   ],
   [
    "INCOWGNITO",
    "CfKvqLiMqoVVf1grgux5ok8BnJCwMge1Ets5fwyVpump",
    0.096,
-   2.9,
+   3.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "$LTC ",
-   "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
-   0.075,
-   8.3,
-   "buyers=2; top5_hold_most=100%"
+   "LOT",
+   "6tgrVuJgTtXLvWRTTrUo8YS8ZxCNH5KZQXjQKWzArpbj",
+   0.071,
+   2.9,
+   ""
   ],
   [
    "TCAT",
    "CqjEuCmVjXdp2DSsLFpRWtmbbuD1AhY8QEVwvmqU4rDY",
    0.069,
-   2.4,
-   ""
-  ],
-  [
-   "LAUNCHINU",
-   "AHwvPwPz5HoTtCJS4e923P7YbBYWLtnGmpLA8LAapump",
-   0.062,
-   3.9,
+   3.4,
    ""
   ],
   [
    "SCAM",
    "4xXm8mRxPeLDSfQcdjzG4mmvk6vn9jJ5GNMZc4Bdpump",
-   0.061,
-   3.4,
+   0.066,
+   4.4,
    ""
   ],
   [
    "VOLTA",
    "2wUPC9SqhJAqwT7Mdy96Yn5Ziy3U1GohPRiecwAgpump",
    0.058,
-   2.7,
+   3.7,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "AirdropCat",
+   "B1t6835597DByy9LKkExoucmsPGEzQmH2SWiFLZ2pump",
+   0.057,
+   6.2,
+   "creator=43.9%; top10=49.1%; top5_hold_most=98%"
   ]
  ]
 }
