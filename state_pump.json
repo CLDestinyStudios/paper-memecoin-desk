@@ -2,25 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 383.2177602191507,
- "positions": {
-  "GNd1yhTneUjeV17YUqajUP3KVqWanfNTCuAAFe69pump": {
-   "sym": "Robotaxi",
-   "bc": "Fg9P8kGMbiU5FTZSB5Ccjv5UG6ghGzzvM2qhdCWo3UoQ",
-   "tokens": 1556505.6178687476,
-   "cost": 5.84,
-   "cost0": 11.68,
-   "entry_px": 3.4336544518393414e-08,
-   "entry_fill": 3.6502311590331256e-08,
-   "opened": 1793187248.1843777,
-   "last_px": 7.753061588890356e-08,
-   "peak_px": 9.76743034456271e-08,
-   "last_val": 11.60007422988882,
-   "last_prog": 0.54,
-   "tp1_done": true,
-   "realized": 4.3678562971473465
-  }
- },
+ "cash": 387.44121847070494,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -611,82 +594,86 @@
   [
    "2026-10-28T05:13:06",
    394.82
+  ],
+  [
+   "2026-10-28T05:14:05",
+   387.44
   ]
  ],
- "cycles": 188,
+ "cycles": 189,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.09,
- "watching": 272,
+ "sol_usd": 101.9529389105,
+ "watching": 271,
  "near": [
-  [
-   "Sneako",
-   "4hAe3FSyAkMoTZytPs7Evsi9LNTKcrYaFvR2LbqBpump",
-   0.496,
-   2.5,
-   "bundled_launch=5 extra buys in creation block"
-  ],
   [
    "NOA",
    "6LNSXkKRSVhBDcZeWcwYq1izmv3o1FLzJsTJH1B1pump",
-   0.139,
-   2.9,
+   0.234,
+   3.9,
    ""
   ],
   [
    "QUBIT",
    "FeQ6hY6VWBAcsDahvTbp8X6q3RjtqJEv5Dx3XgPupump",
-   0.103,
-   5.1,
+   0.073,
+   6.1,
    ""
   ],
   [
-   "TOGETRICH",
-   "8WTt8cPPLoPuRzvPjqbhLmrPJEy8AhBMaB7Y6K9ppump",
-   0.09,
-   4.6,
-   "buyers=3; top5_hold_most=100%"
+   "the runner",
+   "DcvN64uhJNhJHmrfLhQHqrCWXWnRqqtVtgkSeyz5pump",
+   0.063,
+   2.9,
+   ""
   ],
   [
    "MPC",
    "J5Zb7ZDNZxtQJME6LJWez6HVkoDx95FH1xkKJKhipump",
    0.062,
-   3.9,
+   4.9,
    ""
-  ],
-  [
-   "WKC",
-   "GxYtPmuqMpAL3z9VZFeRncL6E2knn8pphZjpi1Cipump",
-   0.056,
-   4.7,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "Col",
    "DektX6FiCRzkpAqgXzcq79M9fjzxiLEupfRLA28bpump",
    0.051,
-   7.4,
+   8.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "ITAU",
+   "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
+   0.043,
+   7.1,
+   ""
   ],
   [
    "MATCH",
    "9xVvrT5uCf4zhmsVekBQPMUpTcQFZoR8PHaqHYSEX6kx",
    0.04,
-   6.3,
+   7.3,
    ""
   ],
   [
-   "ITAU",
-   "DmRXVic6sejWsrEUUcdqBjD3J7CKSfWRSk4HBha3pump",
-   0.039,
-   6.1,
+   "MOO",
+   "Go5jAzbTFFLK5ExpJWHNEEMx5xn7E3TWhFmVpDcxpump",
+   0.029,
+   2.5,
    ""
   ],
   [
    "LARRY",
    "Ajkcp2pNhgiCPgWJ51Gr1na1XcPqeW9wbU2hEW1Tpump",
    0.026,
-   7.4,
+   8.3,
    "top5_hold_most=91%"
+  ],
+  [
+   "Girtblob",
+   "39RHo61GEGm2wD5N6tfVCvLRVPQnCwn97L8ZYmmnpump",
+   0.021,
+   9.8,
+   ""
   ]
  ]
 }
