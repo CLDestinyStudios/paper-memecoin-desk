@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 424.04528306390847,
- "positions": {
-  "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": {
-   "sym": "swordcat",
-   "qty": 13630.709081215567,
-   "entry": 0.0016881,
-   "mark_entry": 0.001655,
-   "cost": 23.01,
-   "peak": 0.001658,
-   "last": 0.001589,
-   "opened": 1793201861.563724,
-   "p_buy": 0.55
-  }
- },
+ "cash": 445.0842825307647,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -1322,8 +1310,12 @@
   [
    "2026-10-28T08:57:40",
    445.27
+  ],
+  [
+   "2026-10-28T08:58:40",
+   445.08
   ]
  ],
- "cycles": 405,
+ "cycles": 406,
  "started": "2026-10-28T01:46:56"
 }
