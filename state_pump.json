@@ -23,83 +23,83 @@
    500.0
   ],
   [
-   "2026-10-28T02:41:08",
+   "2026-10-28T02:42:04",
    500.0
   ]
  ],
- "cycles": 36,
+ "cycles": 37,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.55798493600687,
- "watching": 436,
+ "sol_usd": 102.57728032499999,
+ "watching": 411,
  "near": [
   [
-   "Jepe",
-   "E62WAyxL6jsXctYh6ihuDBNecyFDjeiprx7RmL4PovbT",
-   0.586,
-   3.7,
-   "serial_creator=10 launches/24h"
+   "1M",
+   "A3eqomp2m7YKa5PSy9rLnZjtbqdsNWJ1U7cN6AdSpump",
+   0.209,
+   3.5,
+   "top5_hold_most=90%"
   ],
   [
    "Spidcat",
    "7u6emKPgdEJmP8iAC33i7h9tThikfDNYyPShJovQpump",
-   0.236,
-   3.3,
+   0.202,
+   4.2,
    ""
   ],
   [
    "Jepe",
    "5DPetaiLiMmjwhAWKyvPbxnYSWLBpC8CvY2E4gX8odvT",
    0.122,
-   3.9,
+   4.9,
    ""
-  ],
-  [
-   "Goofy",
-   "9XANtGjiGENF5vfwzVSfustx1opd6he8td5jR4bPYB2v",
-   0.117,
-   9.2,
-   ""
-  ],
-  [
-   "1M",
-   "A3eqomp2m7YKa5PSy9rLnZjtbqdsNWJ1U7cN6AdSpump",
-   0.103,
-   2.5,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "KITTEN",
    "8uf1Hq8R1MricxS2h9vezUkuFJB5PBVMENretMk1pump",
    0.095,
-   7.8,
+   8.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BRUMPLIT",
    "AhjjCiwHVieNbJvP9iZBbY68oxDBP4VbCDmSu8cRpump",
    0.054,
-   7.8,
+   8.7,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Executioner",
+   "9B2wGtMhZ8ixwgcHCA1n4K6j38nMLCMndZeTeHFwpump",
+   0.042,
+   2.5,
+   ""
+  ],
+  [
+   "Jepe",
+   "EnniBXpDCXw8v47dbUw2Sp4veuhLxPbmWH4yLubJpump",
+   0.03,
+   2.1,
+   ""
   ],
   [
    "Hope",
    "84zy2gdKJZ3QkCpLwqrtPzZPXmikiFsLdDZQri548PTq",
    0.022,
-   8.6,
+   9.5,
    ""
   ],
   [
    "Flash",
    "6KDwY4tAzpo4e1M6KWyhFXaa4NNzB5urqWXZen4Mpump",
-   0.018,
-   8.2,
+   0.013,
+   9.1,
    "buyers=17; top5_hold_most=75%"
   ],
   [
-   "CRORES",
-   "AhozQK4e4TPkvN7uyq4CUD117udPaykNU5wG9dHGpump",
-   0.014,
-   2.7,
+   "EXIT",
+   "8y4PyqtYyXtJzN9xCC4aQFgqqgV4oPfcBDsQYS4fpump",
+   0.013,
+   3.8,
    ""
   ]
  ]
