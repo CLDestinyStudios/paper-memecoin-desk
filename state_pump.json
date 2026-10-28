@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 178.54255121237466,
+ "cash": 182.77590971866306,
  "positions": {
   "GodmodehCNtRPaSrRWvTY9oK1nupeEF4UzcvCrDUCReK": {
    "sym": "GODMODE",
@@ -13,10 +13,10 @@
    "entry_px": 5.669226460115838e-08,
    "entry_fill": 6.03988599178168e-08,
    "opened": 1793217673.981926,
-   "last_px": 1.6644925247139151e-07,
+   "last_px": 1.541276383053947e-07,
    "peak_px": 1.6644925247139151e-07,
-   "last_val": 7.814244881379515,
-   "last_prog": 0.798,
+   "last_val": 7.229073635785895,
+   "last_prog": 0.777,
    "tp1_done": true,
    "realized": 2.4419044830450383
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.08883806926874e-08,
    "entry_fill": 5.421593203884645e-08,
    "opened": 1793217740.324521,
-   "last_px": 4.5154742770945526e-08,
+   "last_px": 4.7146603469410315e-08,
    "peak_px": 5.313441732342529e-08,
-   "last_val": 4.746280275481756,
-   "last_prog": 0.288
+   "last_val": 4.955591715214325,
+   "last_prog": 0.311
   },
   "BuC54YateJ9zfqGHdv6RyWkgj4fcHsAAcCED6V21pump": {
    "sym": "TOLY",
@@ -43,24 +43,10 @@
    "entry_px": 7.570965208196361e-08,
    "entry_fill": 8.065253471009046e-08,
    "opened": 1793217772.0962317,
-   "last_px": 1.1027379384138778e-07,
+   "last_px": 7.068138428338406e-08,
    "peak_px": 1.1345955478285417e-07,
-   "last_val": 7.656630508119168,
-   "last_prog": 0.672
-  },
-  "5iPaQggUp39ew5JHL5tkdA5cQX6ocDbkxbQn5oq8pump": {
-   "sym": "EXILE",
-   "bc": "JBTQqAWCKdAdTqN7g9E3r4S3nZfVqH3jMH8jqRW9zfSu",
-   "tokens": 1053078.825070839,
-   "cost": 6.15,
-   "cost0": 6.15,
-   "entry_px": 5.314156754491039e-08,
-   "entry_fill": 5.6610423864853595e-08,
-   "opened": 1793218008.8451457,
-   "last_px": 5.314156754491039e-08,
-   "peak_px": 5.314156754491039e-08,
-   "last_val": 5.413973075534071,
-   "last_prog": 0.372
+   "last_val": 4.8882376365859965,
+   "last_prog": 0.502
   }
  },
  "traded": [
@@ -2381,81 +2367,85 @@
   [
    "2026-10-28T13:06:48",
    204.17
+  ],
+  [
+   "2026-10-28T13:07:46",
+   199.85
   ]
  ],
- "cycles": 634,
+ "cycles": 635,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 103.161542908,
- "watching": 305,
+ "sol_usd": 103.115960833,
+ "watching": 300,
  "near": [
   [
    "VIRUS",
    "5zEk4o4zijC4UGjrshi7TanRcPkwLuszKDvFJZ7zpump",
-   0.704,
-   3.4,
+   0.693,
+   4.4,
    ""
   ],
   [
-   "EXILE",
-   "5iPaQggUp39ew5JHL5tkdA5cQX6ocDbkxbQn5oq8pump",
-   0.372,
-   2.9,
-   "bought"
+   "miccat",
+   "5PDAtuzUsVautPrkjd7FJz66WBJVYsXE4UKnp7TLpump",
+   0.459,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "VS",
+   "E6xP7wEdroRKAuckCMtpGrJu37e7N7HUtUeTQxX8pump",
+   0.36,
+   3.0,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "negro",
    "6QAvjbKqTw1SWtF2souzJvWwvaoLsuKouRCRfzUApump",
    0.248,
-   8.1,
+   9.0,
    "top5_hold_most=87%"
   ],
   [
    "CASHTAG",
    "GctoaNV5fuXppfvF7anbhNdNTEDefNctHSC54WVQpump",
    0.211,
-   5.6,
+   6.5,
    ""
   ],
   [
    "NANOAI",
    "EuYahBuEAxoQeCG9tWBKZmoNuQkiZnA8cnLoHPVnpump",
    0.141,
-   6.3,
+   7.2,
    ""
   ],
   [
-   "XIAOHAN",
-   "2HnfuyETmESzU7DfiGCvKgJTCutMMUpAY6AP43Qnpump",
-   0.084,
-   9.8,
+   "puter",
+   "HtDy45MsSoD1rgfRsHhdYwG4R7aTkWXqF1XBFtGSpump",
+   0.111,
+   2.7,
    ""
   ],
   [
-   "Zfly",
-   "92xU7zxqyXqv51Q1yKhok3cFhfruVL1KGPzEPvtSpump",
-   0.084,
-   3.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "toly-San",
-   "EUX6v4WT515ZsSAfN71wxef55LfPFHRiH8Cx4i9ypump",
-   0.081,
-   4.7,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Toly",
-   "3zFRwT2rHZKdgsBXsZeNfNH8UPzZuyz4m6pfVA1DDPjE",
-   0.074,
-   2.2,
-   ""
-  ],
-  [
-   "UP",
-   "GCg7Fzjaawfr46JJCF3xUnfBXKj7KZRHBNqoR37hpump",
+   "WASB",
+   "7NiSG8M1oUvAbpMgQvRMqRN7i823n71Z9uyzaJy5hSKK",
    0.072,
-   6.1,
+   3.0,
+   ""
+  ],
+  [
+   "TolyChan",
+   "3SGBZeqYUvBzED4BAdngbqTbxY1vBhsmRc41kFEhpump",
+   0.068,
+   8.1,
+   ""
+  ],
+  [
+   "Topblast",
+   "9Vrzk4Cxc7bJZkoL1m63mTxVrNS5s2fVcZGHJHcXpump",
+   0.064,
+   3.7,
    ""
   ]
  ]
