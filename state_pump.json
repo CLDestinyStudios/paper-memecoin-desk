@@ -13,10 +13,10 @@
    "entry_px": 6.714273512952015e-08,
    "entry_fill": 7.144257035732585e-08,
    "opened": 1793213093.929925,
-   "last_px": 5.982484689585343e-08,
+   "last_px": 5.769351945942556e-08,
    "peak_px": 7.708717062275202e-08,
-   "last_val": 5.591016956900989,
-   "last_prog": 0.428
+   "last_val": 5.3802660069931845,
+   "last_prog": 0.411
   }
  },
  "traded": [
@@ -2100,82 +2100,86 @@
   [
    "2026-10-28T12:09:59",
    219.39
+  ],
+  [
+   "2026-10-28T12:10:48",
+   219.18
   ]
  ],
- "cycles": 577,
+ "cycles": 578,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.18,
- "watching": 202,
+ "sol_usd": 101.992813391,
+ "watching": 200,
  "near": [
   [
    "GAMBLERS",
    "Ar9Fb4rSKJbpN46mYswwGyRtSRz5KEzXKA3V2qE4pump",
-   0.928,
-   2.8,
+   0.965,
+   3.6,
+   ""
+  ],
+  [
+   "SEAT61",
+   "GPxZw1wxeEC6Qkc5efi2xq5k75BkGct7PMpoGCNZpump",
+   0.771,
+   8.4,
    ""
   ],
   [
    "pear",
    "4iqu3Z5D4LVYRYzFefEDUEXiAgxZYFevD9KZUhQ5pump",
-   0.7,
-   8.6,
+   0.746,
+   9.4,
    "creator=15.3%"
-  ],
-  [
-   "Refrigerator",
-   "D3XYLErK4f8xszFDwuCZy4PzYxz64iHkEZ24bYiHpump",
-   0.639,
-   3.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "PINO",
-   "7WfrNCLoL5Fomsz239UTMujx4qPVUENfrfEbu3MDpump",
-   0.547,
-   2.6,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "ORION",
-   "8BSCQubsUbJVpRjb3RcRf79mueHaa56RU6Zx6TJvpump",
-   0.253,
-   7.1,
-   ""
   ],
   [
    "JOBWIZ",
    "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
    0.241,
-   7.1,
+   7.9,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "PUMP",
+   "6xT7yUBeSfv3zW2kTBjdKsX5xZTiys4oLU7WQBJrpump",
+   0.195,
+   2.8,
+   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Keith",
    "67uGzxbvX2NM3kfz8eqk6TrkiREnPmbhcvtqBGm3pump",
-   0.218,
-   5.2,
+   0.108,
+   6.0,
    ""
   ],
   [
-   "Refrigerator",
-   "EWhLzQgd1RWgkUBV9oXVM8gSCkbHtGjmHZD1D1Tepump",
-   0.134,
-   2.4,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Peterson2028",
-   "4rsNzgZCtisiodF3QAnEAUbdSUExVGg5CpwZN9Shpump",
-   0.096,
-   3.6,
+   "fridge",
+   "2xxZFKZGMUFmGW8hBdeEXRUHvzfAPJ6V76jLEx2Ppump",
+   0.062,
+   2.7,
    ""
   ],
   [
-   "Dill",
-   "F7MS3CMCFLNqQgnpXzh81H413vtft1sFbseoAPWZpump",
-   0.095,
-   3.6,
+   "GAMBLERS",
+   "6sBEJCkUbZ1JPYmNfSEdbL8DStStk8e9jx3Y2ECPteT4",
+   0.058,
+   3.9,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "RAWSTEAK",
+   "4LKtuHQUumJS39nRdMQjxxssqd9aEhyW6qE2Knovpump",
+   0.045,
+   5.7,
    ""
+  ],
+  [
+   "BIBIbbb",
+   "DMxGsyQiQpvuLudaJbBFABFqM1Jn9xwchxqwpUFxpump",
+   0.024,
+   9.5,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
