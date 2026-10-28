@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 339.8824214633636,
+ "cash": 343.87379243944,
  "positions": {
   "7QvcJhBRZdN59Xi4W4UjiQj9wZT5JPv3gjSU1t9Npump": {
    "sym": "FUCK",
@@ -13,10 +13,10 @@
    "entry_px": 4.419289240266247e-08,
    "entry_fill": 4.696460953171119e-08,
    "opened": 1793193130.7476828,
-   "last_px": 6.39696152018313e-08,
+   "last_px": 5.7324193474052454e-08,
    "peak_px": 8.22558990048921e-08,
-   "last_val": 7.079095425570006,
-   "last_prog": 0.458,
+   "last_val": 6.33253387028282,
+   "last_prog": 0.408,
    "tp1_done": true,
    "realized": 3.592769732543248
   },
@@ -29,26 +29,10 @@
    "entry_px": 7.743201211664543e-08,
    "entry_fill": 8.223123255192272e-08,
    "opened": 1793193380.9350216,
-   "last_px": 8.798583377936213e-08,
+   "last_px": 8.638399524355009e-08,
    "peak_px": 1.0297318377860654e-07,
-   "last_val": 11.147452220284388,
-   "last_prog": 0.59
-  },
-  "h2F4zVTLeqBj1qf2nuSGBcKUwe8cuFwsmV7iJNfHMxa": {
-   "sym": "BCAT",
-   "bc": "6bnrBdpoBs1sZFXeo5gvJ31SJ35qEoDkD1c5mmax2HY6",
-   "tokens": 1420659.426449833,
-   "cost": 5.52,
-   "cost0": 11.04,
-   "entry_px": 3.606544218134614e-08,
-   "entry_fill": 3.833924823649184e-08,
-   "opened": 1793193381.1835794,
-   "last_px": 3.1488214039269294e-08,
-   "peak_px": 6.980255702264703e-08,
-   "last_val": 4.235024164276139,
-   "last_prog": 0.078,
-   "tp1_done": true,
-   "realized": 3.9250154937024604
+   "last_val": 10.932654882116966,
+   "last_prog": 0.583
   },
   "GaeForzktFSJ8pj5tgbL7Pe4iQJ1Km1SjxeJtEaJpump": {
    "sym": "UNPROMPT",
@@ -59,10 +43,10 @@
    "entry_px": 4.65050968697752e-08,
    "entry_fill": 4.941883386828905e-08,
    "opened": 1793193429.4534423,
-   "last_px": 1.2004794518594862e-07,
+   "last_px": 5.6275137289522485e-08,
    "peak_px": 1.5607565147511458e-07,
-   "last_val": 12.58380268198173,
-   "last_prog": 0.7,
+   "last_val": 5.870029078231351,
+   "last_prog": 0.399,
    "tp1_done": true,
    "realized": 2.9344647220899605
   }
@@ -958,81 +942,85 @@
   [
    "2026-10-28T06:28:06",
    374.93
+  ],
+  [
+   "2026-10-28T06:29:06",
+   367.01
   ]
  ],
- "cycles": 263,
+ "cycles": 264,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.19929723454483,
- "watching": 253,
+ "sol_usd": 101.09618999999999,
+ "watching": 251,
  "near": [
+  [
+   "ber",
+   "BkGSkMAYmqPvLBNc36NfeDUYy4Rz7ZjvDV6ehpACpump",
+   0.289,
+   2.1,
+   ""
+  ],
   [
    "GOAT",
    "4hTUuLo1SGj4s3NzbnehaMxwhptU88FtsTR1dBKhpump",
    0.162,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "Dabal",
+   "51KoSBSAVowpZ2DjNHHuWCt9mQsffGek5WKUkkpwb8XN",
+   0.074,
+   2.3,
    ""
   ],
   [
    "SHLD",
    "3hDoPSFvNCYBepJeuBoJK1W6apu5u4SufRAZGLpPpump",
    0.073,
-   2.1,
+   3.1,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "MPC",
    "A9Lve1VhWFkgdAa5ug3kUotXRL9QkoceR4KLvq3zpump",
    0.063,
-   6.4,
+   7.4,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "memestock",
-   "4hTRqbKPdNKxC8gNqjFbvVi3NKon3fWnJS7HnEzepump",
-   0.062,
-   9.1,
-   "buyers=8; top5_hold_most=100%; bundled_launch=12 extra buys in creation block"
   ],
   [
    "XRP",
    "G61JubnbMwKXy4kVRbC9DJ1sXJzqDFBtsVKCXgn8pump",
    0.056,
-   4.1,
+   5.1,
    ""
   ],
   [
    "Bebe",
    "8p5FKeZfQ1UrNP3sWWQjEUVNASie6hPTbgytFKu7pump",
    0.043,
+   3.4,
+   ""
+  ],
+  [
+   "CPAN",
+   "CoCapaTQvhQdB7MSFDYbBSNgP8zSktH6nPv2iWP6pump",
+   0.027,
    2.4,
    ""
   ],
   [
-   "PAPU",
-   "FJ8DG5eVZ2sYLXFTFSrfn9qVkoAuwTTmPDXgcWSVpump",
-   0.026,
-   9.1,
+   "Squeeze",
+   "wwjzyRWtogK7UF6zgLNm2faxprFMnqUJZZZB94ZLX6p",
+   0.022,
+   2.5,
    ""
   ],
   [
    "101",
    "W54WAQ6XMhXy5LY7PnX6aNxwBU4YGF1nKbnEY5Apump",
    0.022,
-   4.3,
-   ""
-  ],
-  [
-   "OPENSI",
-   "9Ud4j7o2VFK1rJMhyp5gL3H1up3PXkrYqTbVcrBUpump",
-   0.022,
-   3.5,
-   ""
-  ],
-  [
-   "ZAHRA",
-   "Qo44HqxCYT8WxhGSzo8wBNx6a7YreyTZhhxgW4zpump",
-   0.022,
-   8.0,
+   5.3,
    ""
   ]
  ]
