@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 412.53538458272766,
+ "cash": 399.02538458272767,
  "positions": {
   "2YJokSbssQXTKt1pY1jx25wgCHaSqa1pjFvjHaywpump": {
    "sym": "massacre",
@@ -15,7 +15,7 @@
    "opened": 1793182146.94087,
    "last_px": 4.493308793078104e-08,
    "peak_px": 4.506163002202779e-08,
-   "last_val": 12.447282878859662,
+   "last_val": 12.46051468836915,
    "last_prog": 0.286
   },
   "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump": {
@@ -27,10 +27,10 @@
    "entry_px": 4.4876232855813084e-08,
    "entry_fill": 4.768016068132094e-08,
    "opened": 1793182806.7325222,
-   "last_px": 4.418874155605622e-08,
+   "last_px": 4.2518761260692824e-08,
    "peak_px": 4.578224419709301e-08,
-   "last_val": 11.828029485992865,
-   "last_prog": 0.277
+   "last_val": 11.391881988945004,
+   "last_prog": 0.256
   },
   "14AtAZmiwijeQdKJwVRrSi9PDixXmEnVvAzLQfUYpump": {
    "sym": "FUTA",
@@ -41,10 +41,24 @@
    "entry_px": 4.0204575264198876e-08,
    "entry_fill": 4.27248577102165e-08,
    "opened": 1793182927.2788136,
-   "last_px": 4.0204575264198876e-08,
-   "peak_px": 4.0204575264198876e-08,
-   "last_val": 11.959287125536436,
-   "last_prog": 0.225
+   "last_px": 4.667233700044201e-08,
+   "peak_px": 4.667233700044201e-08,
+   "last_val": 13.90253672941745,
+   "last_prog": 0.306
+  },
+  "r3UDu8An74P59pM5WEGxkuXRNqXYGadEV8cySvHpump": {
+   "sym": "TOLEDO",
+   "bc": "9K6k6CD4dWaY6tW56BkyL1jXCBFcE8EnJqJa347zfMnP",
+   "tokens": 2692708.7339261626,
+   "cost": 13.51,
+   "cost0": 13.51,
+   "entry_px": 4.585122387059912e-08,
+   "entry_fill": 4.871441112651572e-08,
+   "opened": 1793182987.148847,
+   "last_px": 4.585122387059912e-08,
+   "peak_px": 4.585122387059912e-08,
+   "last_val": 11.96460829191987,
+   "last_prog": 0.296
   }
  },
  "traded": [
@@ -61,7 +75,8 @@
   "BB2zoUXWthQfvt9M6TyvqhQCFW1v2xUTgkLXF53Wpump",
   "4MPxHvSwoKPTbdbfNdbTH2jdSBnXW8qLUaDX4Runpump",
   "2589ZRsLhmzZ2zw41pQcW2HLW82mu8FJNbNNaa8upump",
-  "14AtAZmiwijeQdKJwVRrSi9PDixXmEnVvAzLQfUYpump"
+  "14AtAZmiwijeQdKJwVRrSi9PDixXmEnVvAzLQfUYpump",
+  "r3UDu8An74P59pM5WEGxkuXRNqXYGadEV8cySvHpump"
  ],
  "equity": [
   [
@@ -223,81 +238,85 @@
   [
    "2026-10-28T03:22:07",
    448.77
-  ]
- ],
- "cycles": 77,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.88382239395527,
- "watching": 281,
- "near": [
-  [
-   "AC",
-   "4WiX1uqafJDpJnzZXbv8AwfideNx5XEYBwZs6Rdepump",
-   0.364,
-   2.6,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "FUTA",
-   "14AtAZmiwijeQdKJwVRrSi9PDixXmEnVvAzLQfUYpump",
-   0.225,
-   3.2,
+   "2026-10-28T03:23:07",
+   448.74
+  ]
+ ],
+ "cycles": 78,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.993190772,
+ "watching": 286,
+ "near": [
+  [
+   "SHROOMINAL",
+   "fgFMv2FP51dNKd6ojVGFqaJdmhN7FdgDhY5R8nhpump",
+   0.402,
+   2.7,
+   "serial_creator=6 launches/24h"
+  ],
+  [
+   "TOLEDO",
+   "r3UDu8An74P59pM5WEGxkuXRNqXYGadEV8cySvHpump",
+   0.296,
+   2.8,
    "bought"
   ],
   [
    "PVE",
    "DFZhonD6s8i6Nwp5ypD6U5B7xL71MK6jMDiJxMp2cPMj",
    0.124,
-   6.4,
+   7.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "$spacee",
-   "Ggs2BbYZA9kvG918VqFB5Hm5SaXyLGbx43j6XytEpump",
-   0.111,
-   2.5,
-   "buyers=4; top5_hold_most=100%"
+   "TOLEDO",
+   "AuhKExsQAhWQp5u4zAZ6sBxo5mNkPgZDmBkkTeGepump",
+   0.11,
+   2.4,
+   ""
   ],
   [
    "\u4f69\u4f69",
    "CqWqSKH6U5TdD72JFxCoKqQqheCtztFz8wMSLMC4pump",
    0.104,
-   7.6,
+   8.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "TOLEDO",
    "2AdccSQ9cpmuMmjH8i4wczASsr6Qy7n3oR9mnrKcpump",
-   0.101,
-   3.1,
+   0.099,
+   4.1,
    ""
   ],
   [
    "TOLEDO",
    "4exjGHRiBqNqJHw6qreErsx8ewDz7vkzxsLL2fbLpump",
    0.081,
-   5.1,
-   ""
-  ],
-  [
-   "UP",
-   "4f1Mv7v7e5ziRaaXPhjfk7jGYSmwwGKjRdsQLAAbpump",
-   0.07,
-   2.9,
-   ""
-  ],
-  [
-   "DAPITLUM",
-   "6PdkwLa3LqijWczg1TmJ8sZxyMLzaHmw7FDLEP4urGgf",
-   0.04,
-   5.5,
+   6.1,
    ""
   ],
   [
    "TOLEDO",
-   "EJws3FUrfgT9KGtAEsMFA6QdpJgHfQcFw7sRpvbMpump",
-   0.032,
-   4.8,
+   "87KaSyT9TWLBXZfaiUrQ78G6TksD2W6HU859Fyerpump",
+   0.072,
+   2.0,
+   ""
+  ],
+  [
+   "Hand",
+   "4eu9iGZswthjhWV4VppGat9T56Yyo3eN92XA84DVpump",
+   0.022,
+   8.6,
+   ""
+  ],
+  [
+   "FOMGUS",
+   "Hwq9SAT7T7tNh2CjfihnXWEVNjPkPCXYeLGgrBjKpump",
+   0.022,
+   5.2,
    ""
   ]
  ]

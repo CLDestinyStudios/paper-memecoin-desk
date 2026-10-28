@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 374.5430779072045,
+ "cash": 351.1330779072045,
  "positions": {
   "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump": {
    "sym": "OTC",
@@ -9,7 +9,7 @@
    "mark_entry": 0.009879,
    "cost": 24.9,
    "peak": 0.009944,
-   "last": 0.009821,
+   "last": 0.009829,
    "opened": 1793177235.0487025,
    "p_buy": 0.56
   },
@@ -20,7 +20,7 @@
    "mark_entry": 0.0323,
    "cost": 24.8,
    "peak": 0.0323,
-   "last": 0.0322,
+   "last": 0.03204,
    "opened": 1793177990.945919,
    "p_buy": 0.56
   },
@@ -31,7 +31,7 @@
    "mark_entry": 8.108e-05,
    "cost": 23.43,
    "peak": 9.297e-05,
-   "last": 8.817e-05,
+   "last": 8.565e-05,
    "opened": 1793181427.4606538,
    "p_buy": 0.57
   },
@@ -42,14 +42,23 @@
    "mark_entry": 0.001938,
    "cost": 23.5,
    "peak": 0.001938,
-   "last": 0.00193,
+   "last": 0.001926,
    "opened": 1793182568.1310503,
    "p_buy": 0.64
+  },
+  "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump": {
+   "sym": "fone",
+   "qty": 10460.793250755178,
+   "entry": 0.0022378800000000003,
+   "mark_entry": 0.002194,
+   "cost": 23.41,
+   "peak": 0.002194,
+   "last": 0.002194,
+   "opened": 1793182987.399192,
+   "p_buy": 0.56
   }
  },
- "watch": {
-  "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump": 1793182927.2794785
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -58,7 +67,8 @@
   "4YjH28rjUTL9uD5qmNyHeV5trgxvHteC5WC9MKZopump",
   "FuK9BkA4jXTBzj8HQRQT4538gy1BJzPYy9qwiHs2pump",
   "9uGqEsc5Sh9GBjvLr7jUf7PyY9tDZhiV7kCdyM7Wpump",
-  "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump"
+  "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump",
+  "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  ],
  "equity": [
   [
@@ -420,8 +430,12 @@
   [
    "2026-10-28T03:22:07",
    469.04
+  ],
+  [
+   "2026-10-28T03:23:08",
+   467.28
   ]
  ],
- "cycles": 97,
+ "cycles": 98,
  "started": "2026-10-28T01:46:56"
 }
