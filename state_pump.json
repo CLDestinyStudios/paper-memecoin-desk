@@ -13,10 +13,10 @@
    "entry_px": 8.029038241910753e-08,
    "entry_fill": 8.528226961050288e-08,
    "opened": 1793203003.16268,
-   "last_px": 1.4087072704664696e-07,
+   "last_px": 1.4178294864932788e-07,
    "peak_px": 1.58342495418017e-07,
-   "last_val": 7.908166676138655,
-   "last_prog": 0.75,
+   "last_val": 7.9602044018474984,
+   "last_prog": 0.752,
    "tp1_done": true,
    "realized": 1.948605352352602
   },
@@ -29,9 +29,9 @@
    "entry_px": 4.302799067620225e-08,
    "entry_fill": 4.573689804159223e-08,
    "opened": 1793203122.6005497,
-   "last_px": 4.2145447531436595e-08,
+   "last_px": 4.211484632552457e-08,
    "peak_px": 4.554123586621829e-08,
-   "last_val": 8.721854420828857,
+   "last_val": 8.716076617693624,
    "last_prog": 0.251
   },
   "JB2q3VcRTzq3YFHA1wwMXYaU5EmRNwu2VyLCUWKwpump": {
@@ -43,10 +43,10 @@
    "entry_px": 3.3180452975643e-08,
    "entry_fill": 3.5285997100130344e-08,
    "opened": 1793203442.5026917,
-   "last_px": 2.925808913086668e-08,
+   "last_px": 2.9047716876879118e-08,
    "peak_px": 3.50004519614028e-08,
-   "last_val": 7.474331949480227,
-   "last_prog": 0.03
+   "last_val": 7.420793157329043,
+   "last_prog": 0.026
   },
   "3M84CAyuyK29K5au1Q1rGJpa1w6HRZSYrnLqyUXBpump": {
    "sym": "DROY",
@@ -57,10 +57,10 @@
    "entry_px": 5.62414098569495e-08,
    "entry_fill": 5.977176338361406e-08,
    "opened": 1793203670.7063031,
-   "last_px": 8.122426939912994e-08,
+   "last_px": 6.489227812599828e-08,
    "peak_px": 8.122426939912994e-08,
-   "last_val": 12.217406032411317,
-   "last_prog": 0.559
+   "last_val": 9.753942493496117,
+   "last_prog": 0.465
   },
   "75GLyZbW1fNSnDDYEWJeVHEV4HNG1N8ckUgPWDsdpump": {
    "sym": "LOTTO",
@@ -71,10 +71,10 @@
    "entry_px": 5.340658218992103e-08,
    "entry_fill": 5.676297376574184e-08,
    "opened": 1793203793.6101015,
-   "last_px": 5.095942760525378e-08,
+   "last_px": 5.1219544939225084e-08,
    "peak_px": 5.340658218992103e-08,
-   "last_val": 8.023351960145831,
-   "last_prog": 0.351
+   "last_val": 8.065060765581018,
+   "last_prog": 0.353
   },
   "4b3pevazEkq96vo2Kemzse6m5tkR4LmaMJucVBVNpump": {
    "sym": "PULSE",
@@ -87,7 +87,7 @@
    "opened": 1793203793.8873074,
    "last_px": 5.110238856240937e-08,
    "peak_px": 5.110238856240937e-08,
-   "last_val": 8.374211880902205,
+   "last_val": 8.374772724412264,
    "last_prog": 0.352
   }
  },
@@ -1534,81 +1534,85 @@
   [
    "2026-10-28T09:10:39",
    317.48
+  ],
+  [
+   "2026-10-28T09:11:39",
+   315.05
   ]
  ],
- "cycles": 398,
+ "cycles": 399,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.86324491699999,
+ "sol_usd": 100.87,
  "watching": 310,
  "near": [
   [
-   "FLOPBAT",
-   "GTS3H5PEoQmjbfkJcAz9k3Fb2JmSBxZr5XhzxNnHpump",
-   1.0,
-   4.5,
-   "graduated"
-  ],
-  [
    "STI",
    "8qWC44couaF3HCxLQYHzt4yR8rtNLSa6pE4Uvcf9pump",
-   0.876,
-   4.4,
+   0.888,
+   5.4,
    ""
   ],
   [
    "$JIO",
    "Gt3zytbgcvsVv9ci7ydZ5nABEWtsqX5kcXP4zfropump",
    0.341,
-   8.5,
+   9.5,
    "top5_hold_most=91%"
+  ],
+  [
+   "Noclip",
+   "EG3g6r6mprdUfdwkR3uWyMMxcZbC2KHqjBDBdx1dpump",
+   0.207,
+   2.8,
+   ""
   ],
   [
    "Ape",
    "JKLiDA6cgm9noJ49QDwfq8ey893paPCa9AtcShhb9wT",
    0.181,
-   7.5,
+   8.5,
    ""
   ],
   [
    "NETANYAHU",
    "E4gukmBxHTbBoMmQGyPg7xTcbMVSNUJBQD8jrNMwwQKJ",
    0.082,
-   8.7,
+   9.7,
+   ""
+  ],
+  [
+   "PILL",
+   "BAvoz1Berxu9HoB9QBwSeh12WEhW8kYBjVpWqTeipump",
+   0.078,
+   2.1,
    ""
   ],
   [
    "LB",
    "78h7rxAczhZ2xCXZQ8skU97pEfkDcJMDanAgoauUJ87M",
    0.064,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "TRUMPKIN",
-   "8jPGivBSi3wNwRAAJKcR5TuMndFd4KD9ZBycabJRpump",
-   0.048,
-   9.4,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Vrax",
    "FtpWxkD426kGSWYKPnfU52FnvSGNECTZtxKaFERvfFxV",
    0.046,
-   2.8,
-   ""
-  ],
-  [
-   "HCAT",
-   "FiJVGNU8TkskSrB3NkQmnfcRp7sdyLTUFFQLA5w9pump",
-   0.043,
-   4.7,
+   3.8,
    ""
   ],
   [
    "MARS",
    "3Rvark9qZPtkyBsfNTjL7mTvV71P3m2FCTWhusF1pump",
    0.043,
-   5.3,
+   6.3,
+   ""
+  ],
+  [
+   "blups",
+   "E7b6XyDvcZMsi6sAmBq41wzAxborKTg5bp1xA4jfpump",
+   0.032,
+   5.2,
    ""
   ]
  ]
