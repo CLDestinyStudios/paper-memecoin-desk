@@ -15,7 +15,7 @@
    "opened": 1793183588.2821007,
    "last_px": 3.542606937951353e-08,
    "peak_px": 3.653736716757981e-08,
-   "last_val": 11.255549906257754,
+   "last_val": 11.251767818645368,
    "last_prog": 0.151
   }
  },
@@ -254,84 +254,84 @@
    428.77
   ],
   [
-   "2026-10-28T03:36:12",
+   "2026-10-28T03:37:05",
    428.77
   ]
  ],
- "cycles": 91,
+ "cycles": 92,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 103.03928115699999,
- "watching": 373,
+ "sol_usd": 103.0046579185,
+ "watching": 354,
  "near": [
   [
    "TRUMP",
    "2MZ7tTvZowmkiFxqr8aZ7WJWpKWofSeRrSTS53zopump",
-   0.961,
-   8.9,
+   0.964,
+   9.7,
    ""
-  ],
-  [
-   "VOID",
-   "8RV8pWrZBT1jFi9eamAtK2EEJJdexrEWfvz2vgyXpump",
-   0.488,
-   5.3,
-   "buyers=3; creator=38.5%; top5_hold_most=100%"
   ],
   [
    "DROOBY",
    "HBYpGbZkrA2Ubms9HR8dKhsZ7WxnMUyWDcn35epjpump",
    0.31,
-   3.8,
+   4.7,
    "top5_hold_most=84%"
   ],
   [
    "80085",
    "2BHAscNaqRwXkcqyFqyGuEfFm2g2XACFQCKkbrMypump",
    0.225,
-   3.1,
-   "buyers=6; top5_hold_most=100%"
+   4.0,
+   "buyers=2; creator=17.8%; top5_hold_most=100%"
   ],
   [
-   "Tango",
-   "A8HhY5HB4dJiaZktGFrALi2uh8BEuV631qY3Vgj7pump",
-   0.136,
-   3.5,
+   "Mango",
+   "CQ7mFd2HTC5dPXvxeygD46qXBCNK8a61ZcHfJzf52yWW",
+   0.125,
+   2.3,
    ""
-  ],
-  [
-   "BLACKROCK",
-   "9PK2uLxw7ZuNfSR3Rf4fH3PRjBvT55d2x9GiQiaMpump",
-   0.126,
-   3.9,
-   "buyers=7; top5_hold_most=92%"
   ],
   [
    "RIBBON",
    "6LrNR6Y6W3vk8EW2PLk99gYeSUct47Knsj6rZnp5NaS8",
    0.111,
-   7.3,
+   8.1,
    ""
   ],
   [
-   "UPVEMBER",
-   "CkgShrrZZA5HVcUpySXkxkHqkocJBvhTECACM6pypump",
-   0.103,
-   3.3,
+   "BLACKROCK",
+   "9PK2uLxw7ZuNfSR3Rf4fH3PRjBvT55d2x9GiQiaMpump",
+   0.109,
+   4.8,
+   "buyers=6; top5_hold_most=98%"
+  ],
+  [
+   "Tango",
+   "A8HhY5HB4dJiaZktGFrALi2uh8BEuV631qY3Vgj7pump",
+   0.043,
+   4.3,
    ""
   ],
   [
-   "MEMELORDS",
-   "Dc2tj5PT4EJMh6YbwfPRF3cLRiskn89DdrtyH6ohpump",
-   0.102,
-   5.5,
+   "CHP",
+   "ENnkBbWF5SnpjsKFjaZEHXbeeSmbgi1HszbJbnV4pump",
+   0.022,
+   2.4,
    ""
   ],
   [
-   "LAZO",
-   "6FuZyGASCrqGe2LMCYLrJztKdRR9THEAxsBs8xSFpump",
-   0.084,
-   2.9,
-   "buyers=7; top5_hold_most=98%; bundled_launch=5 extra buys in creation block"
+   "SPAIN",
+   "9NQCvWuUAvYZdmutoy8n49EqXeGNzisYBtjhQhN5pump",
+   0.022,
+   5.9,
+   ""
+  ],
+  [
+   "CINTA",
+   "Ae9spk4kyJSewGAx4uPkiLEmocJynQowu7e7AEoXpump",
+   0.02,
+   4.6,
+   ""
   ]
  ]
 }
