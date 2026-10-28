@@ -1,8 +1,3 @@
-=== Tue Oct 27 22:13:45 PDT 2026 ===
-CYCLE 4 2026-10-27T22:13:46 | leads 0 | RISK killed 0 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 2 | equity $498.47 | 0s
-=== Tue Oct 27 22:28:46 PDT 2026 ===
-CYCLE 5 2026-10-27T22:28:48 | leads 2 | RISK killed 1 | ANALYST killed 1 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 2 | equity $524.69 | 2s
-=== Tue Oct 27 22:43:48 PDT 2026 ===
 CYCLE 6 2026-10-27T22:43:51 | leads 1 | RISK killed 1 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 1 (W1/L0) | open 1 | equity $513.63 | 3s
 === Tue Oct 27 22:58:51 PDT 2026 ===
 CYCLE 7 2026-10-27T22:58:54 | leads 4 | RISK killed 4 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 1 | equity $514.98 | 2s
@@ -1996,3 +1991,10 @@ CYCLE LOOSE 279 2026-10-28T06:24:12 | leads 90 (deferred 0) | RISK killed 80 | A
 CYCLE PUMP 259 2026-10-28T06:24:06 | via pumpfun_api new 17 | watching 287 | 2-10min 134 | 5%-75% curve 3 | deep 1 | rejects {'progress_low': 122, 'progress_high': 1, 'mayhem_mode': 8, 'buy_sell_ratio': 2, 'buyers': 1} | entries 0 exits 0 (W0/L0) | open 5 | equity $376.91 | http 7 calls, 429s 0 {}, errors 0 | 1s
 CYCLE_SECS 6.8
 loop wall 8s
+=== Wed Oct 28 06:25:04 PDT 2026 [actions] ===
+SCOUT 2026-10-28T06:25:05 | pool 156 unique mints {'ds_profiles': 22, 'ds_boosts_top': 25, 'gt_trending': 16, 'ds_boosts': 23, 'ds_search': 41, 'ds_cto': 11, 'ds_ads': 14, 'gt_new': 38} | due 42 | RugCheck fresh 0 cached 6 | http 19 calls, 429s 0 {} | scout 0.7s
+CYCLE STRICT 317 2026-10-28T06:25:05 | leads 37 (deferred 0) | RISK killed 36 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/1 | exits 0 (W0/L0) | open 0 | equity $509.10 | 1s
+CYCLE LOOSE 280 2026-10-28T06:25:05 | leads 41 (deferred 0) | RISK killed 36 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/5 | exits 0 (W0/L0) | open 1 | equity $454.82 | 1s
+CYCLE PUMP 260 2026-10-28T06:25:05 | via pumpfun_api new 16 | watching 277 | 2-10min 132 | 5%-75% curve 2 | deep 0 | rejects {'progress_low': 115, 'progress_high': 2, 'mayhem_mode': 13, 'buy_sell_ratio': 2} | entries 0 exits 1 (W1/L0) | open 5 | equity $378.21 | http 5 calls, 429s 0 {}, errors 0 | 1s
+CYCLE_SECS 1.0
+loop wall 2s
