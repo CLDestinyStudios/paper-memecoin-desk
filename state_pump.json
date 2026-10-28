@@ -15,7 +15,7 @@
    "opened": 1793230070.5884793,
    "last_px": 5.846203068927132e-08,
    "peak_px": 5.846203068927132e-08,
-   "last_val": 3.9591073128788925,
+   "last_val": 3.9579661178134575,
    "last_prog": 0.417
   }
  },
@@ -3213,83 +3213,83 @@
    129.31
   ],
   [
-   "2026-10-28T16:50:50",
+   "2026-10-28T16:51:49",
    129.31
   ]
  ],
- "cycles": 858,
+ "cycles": 859,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.242796069,
- "watching": 249,
+ "sol_usd": 102.213325038,
+ "watching": 259,
  "near": [
   [
    "Pussper",
    "3kxcfBpGMJpiKG5Cb4JUkwNcsCgzUPi2iN1hSh68pump",
-   0.536,
-   6.0,
+   0.493,
+   7.0,
    ""
-  ],
-  [
-   "Fairgate",
-   "E7pe112UjEiHwEc6HFWdC72RDDULpFsNjqgykPcRpump",
-   0.29,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Axios",
    "4NP8jKAsps94mJX1Xn1Se9amE6AU4773oy8sbAgnpump",
-   0.25,
-   3.0,
+   0.199,
+   4.0,
    ""
   ],
   [
    "ClavCat",
    "6FhBEmFdJJcf6RFJK9yAA1QxAakMsxwZbyzuJzrJpump",
    0.159,
-   5.7,
+   6.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "SHIBO",
    "7jpjkbYFgQ9iHSk3xLk15L5bHQhURsHuWCQjZ1wGpump",
    0.132,
-   5.8,
+   6.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Versuspad",
-   "FX95yVTXp2BJLAC9Sm4ZPBuy7XXK99EfDA6ZpbpQpump",
-   0.103,
-   4.8,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Kiryusha",
-   "74fjZiQwnnBp4Nx2VzyhsdmzcfCngfn9iBd3WBDTpump",
-   0.086,
-   2.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "Entry",
+   "4yGpaxufioePFiJ3eXBpuK894JmQrQfzeJhA5ofnpump",
+   0.096,
+   6.4,
+   ""
   ],
   [
    "FLOAT",
    "FpDtGNv9hvm9kyBMRSaaxrXAkED49QJtiz3PP5Smpump",
    0.077,
-   4.1,
-   "buyers=7; top5_hold_most=89%"
+   5.0,
+   "buyers=7; top5_hold_most=90%"
   ],
   [
-   "Entry",
-   "4yGpaxufioePFiJ3eXBpuK894JmQrQfzeJhA5ofnpump",
-   0.068,
-   5.4,
-   ""
+   "MSCHF",
+   "4LcMpsSLpGnpuyCx3kS4aggVevagdmp6BQHi8YMNpump",
+   0.066,
+   2.6,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "CHECKOUT",
    "EdW8xmqPxyfE3jtdxEiPhgZi28azMq4rjZtmCLLmXcfT",
    0.062,
-   4.5,
+   5.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ROADSTER",
+   "8sQMjMW5t9C1Asqr1qmjELDoCFbxTsa4aJmoE2Qpump",
+   0.056,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PCAT",
+   "He6APhPiSqU6jLb451Wef4VDrHEj5NkhiNU2i1JRpump",
+   0.051,
+   4.4,
    "buyers=3; top5_hold_most=100%"
   ]
  ]
