@@ -13,9 +13,9 @@
    "entry_px": 4.511239871495638e-08,
    "entry_fill": 4.7943859095099235e-08,
    "opened": 1793200606.5411098,
-   "last_px": 4.304973224190544e-08,
+   "last_px": 4.3057488892438376e-08,
    "peak_px": 4.511239871495638e-08,
-   "last_val": 8.972998250526254,
+   "last_val": 8.98262080528422,
    "last_prog": 0.263
   }
  },
@@ -1243,82 +1243,86 @@
   [
    "2026-10-28T08:19:42",
    350.25
+  ],
+  [
+   "2026-10-28T08:20:43",
+   350.26
   ]
  ],
- "cycles": 347,
+ "cycles": 348,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.98,
- "watching": 260,
+ "sol_usd": 101.07,
+ "watching": 266,
  "near": [
   [
    "ZENO",
    "7geo58qJXEe1Si8DYnEz21XUWkBrfBXTA2ZVYwTEpump",
-   0.865,
-   3.1,
+   0.905,
+   4.1,
    ""
   ],
   [
    "EFP",
    "C6s1Ph66UmLPKhLH2FPGmzonwS74N7BnHUoaQvAGpump",
    0.781,
-   5.7,
+   6.7,
    ""
-  ],
-  [
-   "IE",
-   "6nTgzmvfm69WuA3RzgZAvxXM2h4orfbRFTqmLzpVpump",
-   0.467,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Zenith",
    "FGo917zxEkP6b1m8Gpy7FZ6FWESNMcLzaBotGH42pump",
    0.201,
-   6.4,
+   7.4,
    ""
+  ],
+  [
+   "Koul",
+   "83PbqXQYS5hcooR78xCaL1b8rVDbEXPzdwck4YBqpump",
+   0.136,
+   7.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "AODF",
    "AYvuzup4afTHt26PLT97xvZ2943g84eYkzaVWueSpump",
    0.122,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Koul",
-   "83PbqXQYS5hcooR78xCaL1b8rVDbEXPzdwck4YBqpump",
-   0.103,
-   6.3,
-   "buyers=3; top5_hold_most=100%"
+   "IDOLS",
+   "6AiZ6b61muE56tDQkpfZta6Rq14XMuTWzzM8bm4mXcPm",
+   0.11,
+   2.3,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "Pumpurr",
-   "H9WfXHfWiPNNEW44Qqjc2Uxy3rY1wjFT4PotC2Htpump",
-   0.069,
-   10.0,
+   "Salute",
+   "JARKhV1yeeLEMtRj3ydVzBVeTxfurDnrbDinxgWdpump",
+   0.074,
+   2.2,
+   ""
+  ],
+  [
+   "Biberty",
+   "A7nEKvkbNh1UCSkh3xe8vT8JRKCd2hKrjJjbNzow4Up8",
+   0.064,
+   2.5,
+   ""
+  ],
+  [
+   "WOB",
+   "A5KV36yuGhs7vujjAwgzbRdW4fH68PMEwBiewEhqpump",
+   0.064,
+   6.4,
    ""
   ],
   [
    "DDOG",
    "35tuc25Rq8Um7imz1EiydihAxFFucnVBJepUTbaApump",
    0.061,
-   5.8,
+   6.8,
    ""
-  ],
-  [
-   "SCHLONG",
-   "CmkXC8QED9PeKugQM1WAsK6W7xzEgtWsaJRsSHmV6czk",
-   0.054,
-   3.4,
-   ""
-  ],
-  [
-   "BDD",
-   "AbxCGnHLaDLe1pvZyVq4UdnCdfTHmNpe6rsKNisjpump",
-   0.054,
-   5.2,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
