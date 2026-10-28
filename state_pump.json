@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 140.43833634979092,
+ "cash": 142.85247365062713,
  "positions": {
   "9vVb7tHGkfvXT3ZT4qb2Qhv1TbtEQRv3odpT9my6pump": {
    "sym": "Runner",
@@ -13,24 +13,10 @@
    "entry_px": 3.3235121125106424e-08,
    "entry_fill": 3.550193214446694e-08,
    "opened": 1793228150.9612513,
-   "last_px": 2.9048891622186565e-08,
+   "last_px": 2.8952776939358912e-08,
    "peak_px": 3.3235121125106424e-08,
-   "last_val": 3.4901301991483447,
-   "last_prog": 0.026
-  },
-  "96RqMT8D3L9Au64S8wLsSUSLmfjX66vWWhdxrwfUpump": {
-   "sym": "Harold",
-   "bc": "DmGw2SGRyJtQ8iho2ARCYg2SBJCMWDXZizFn6eQpzKur",
-   "tokens": 644155.5049146652,
-   "cost": 4.45,
-   "cost0": 4.45,
-   "entry_px": 6.323119753058897e-08,
-   "entry_fill": 6.75385706111005e-08,
-   "opened": 1793228450.6684892,
-   "last_px": 5.526404841361329e-08,
-   "peak_px": 6.323119753058897e-08,
-   "last_val": 3.395731419096566,
-   "last_prog": 0.391
+   "last_val": 3.4810660678507443,
+   "last_prog": 0.023
   }
  },
  "traded": [
@@ -3061,82 +3047,86 @@
   [
    "2026-10-28T16:03:52",
    147.32
+  ],
+  [
+   "2026-10-28T16:04:53",
+   146.33
   ]
  ],
- "cycles": 811,
+ "cycles": 812,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.222405348,
- "watching": 303,
+ "sol_usd": 102.30016097149999,
+ "watching": 309,
  "near": [
   [
    "TWINPAD",
    "8UekL4nqxXiByEysPanauhp1PgggBkfDoApi7DvDpump",
-   0.816,
-   2.7,
-   ""
+   0.713,
+   3.7,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
-   "Mortgage",
-   "2XnfD2JgEnZoWAC4tJ6nGUUWBBKeuTPMvfeNzA4gpump",
-   0.344,
-   5.5,
+   "TIMECAPSULE",
+   "6yuxB2qmuw3jpuL2QepG8M2a7ZsYRTLewkPAcrgLpump",
+   0.413,
+   2.5,
    ""
-  ],
-  [
-   "Mortgage",
-   "HzbUFo2zp8ybxW3qDgWXyoovDSoH4xZpRGVfGBMrpump",
-   0.093,
-   3.6,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Solcoin",
    "5ogyUVB9i9mPaLs2DoC8133eUpYPsCUKBHJ31KZUpump",
-   0.09,
-   2.8,
-   "buyers=5; top5_hold_most=100%"
+   0.169,
+   3.9,
+   "top5_hold_most=82%"
   ],
   [
-   "AirdropCat",
-   "B1t6835597DByy9LKkExoucmsPGEzQmH2SWiFLZ2pump",
-   0.077,
-   4.2,
-   "creator=43.9%; top10=49.1%; top5_hold_most=98%"
+   "Mortgage",
+   "2XnfD2JgEnZoWAC4tJ6nGUUWBBKeuTPMvfeNzA4gpump",
+   0.157,
+   6.5,
+   ""
+  ],
+  [
+   "INCOWGNITO",
+   "CfKvqLiMqoVVf1grgux5ok8BnJCwMge1Ets5fwyVpump",
+   0.096,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "$LTC ",
    "7NVC6Mt6NYEzppAT8Zj81hFtrLrA2EtznjzY4Hh6pump",
    0.075,
-   7.2,
+   8.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Mortgage",
-   "3dF6Pm6M47y2nRJ7fa2SrxfycXXkHBqFhov8iAcypump",
-   0.073,
-   4.3,
-   "buyers=1; top5_hold_most=100%"
+   "TCAT",
+   "CqjEuCmVjXdp2DSsLFpRWtmbbuD1AhY8QEVwvmqU4rDY",
+   0.069,
+   2.4,
+   ""
   ],
   [
    "LAUNCHINU",
    "AHwvPwPz5HoTtCJS4e923P7YbBYWLtnGmpLA8LAapump",
    0.062,
-   2.9,
+   3.9,
    ""
   ],
   [
    "SCAM",
    "4xXm8mRxPeLDSfQcdjzG4mmvk6vn9jJ5GNMZc4Bdpump",
    0.061,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "CI",
-   "DnCoKdcDT3pFw3SzTAg2UbQ41Hz6W1EtzrKeRoxopump",
-   0.042,
+   "VOLTA",
+   "2wUPC9SqhJAqwT7Mdy96Yn5Ziy3U1GohPRiecwAgpump",
+   0.058,
    2.7,
-   ""
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
