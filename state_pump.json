@@ -3098,82 +3098,86 @@
   [
    "2026-10-28T16:20:50",
    136.23
+  ],
+  [
+   "2026-10-28T16:21:50",
+   136.23
   ]
  ],
- "cycles": 828,
+ "cycles": 829,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.33,
- "watching": 382,
+ "sol_usd": 102.348786673,
+ "watching": 388,
  "near": [
   [
-   "Keith",
-   "4UM6QGAXbNmrnQwK4L98twoj73XygAhk8FKCK898pump",
-   0.802,
+   "Major",
+   "4xviQbBM8SZsGx6NtNJyCfJSdwtCsKAYfWraC8wzpump",
+   0.64,
    2.1,
-   ""
+   "serial_creator=10 launches/24h"
   ],
   [
    "BlueChip",
    "Hi6P7LingPoMuYmD59J79amFfSjvduE8tZNnAgkdpump",
-   0.548,
-   3.0,
+   0.593,
+   4.0,
    ""
   ],
   [
    "Percy",
    "F3iLEmkjAmm25wuw8Pku1ASvHqkFcZYW9HhuLpWkpump",
-   0.33,
-   2.5,
-   "top5_hold_most=89%"
+   0.335,
+   3.5,
+   "top5_hold_most=88%"
   ],
   [
    "Launchpup",
    "wEjxcQhKMCnAGWTEYvEbe2CaYmLU42MhSprPJEipump",
    0.193,
-   6.5,
+   7.5,
    ""
   ],
   [
    "FIFTY",
    "FydZdvGm8AqoLmvETcJH3XNFv84ykRhHQoniGJ1Dpump",
    0.104,
-   4.9,
+   5.9,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "LAYOFF",
+   "AEh9BvFWxLasViCzqrVwQ6EheiDSXW6Udsjg6GNqpump",
+   0.082,
+   2.3,
+   ""
+  ],
+  [
+   "TIMESAFE",
+   "2GBaTLqrzp42Hma3aqJrRTDSGz9REXgURbkUK3uupump",
+   0.076,
+   2.2,
+   ""
   ],
   [
    "BUDDY",
    "J5vtFEyoa5ayBKWpwN2TGvUE7XNutf24HR7gDPzipump",
    0.073,
-   7.6,
+   8.6,
    ""
   ],
   [
    "BlueChip",
    "8m3oms64eyMRUpFFogBLXfP7mAcao3GrCMSxo3oLpump",
    0.073,
-   2.7,
+   3.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "TIMEBINDER",
    "EB3Kpf5ekGrjL7FgtreYQ52zaLSpAd9YsbB6ZF1Qpump",
    0.053,
-   3.7,
+   4.7,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "MANGO$$$",
-   "9qHWekbUSKADwGbQ8FzfJyK2NkgeH7ttpM9K5Y8Mpump",
-   0.045,
-   6.6,
-   ""
-  ],
-  [
-   "MS",
-   "4rsk6WDUSkXxpZyqKux7H3AcK14wtKJEPha52mxipump",
-   0.043,
-   8.6,
-   ""
   ]
  ]
 }
