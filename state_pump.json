@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 350.87942129442087,
+ "cash": 340.0394212944209,
  "positions": {
   "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump": {
    "sym": "PAWS",
@@ -15,8 +15,22 @@
    "opened": 1793197386.7462451,
    "last_px": 3.938856585380313e-08,
    "peak_px": 3.938856585380313e-08,
-   "last_val": 10.537858554424629,
+   "last_val": 10.551331479277513,
    "last_prog": 0.213
+  },
+  "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump": {
+   "sym": "CAULDRON",
+   "bc": "3dw1qjwbYYnZ38gAaRYWcvAijcHvPjspzozsUHEMBp5y",
+   "tokens": 2756060.148188896,
+   "cost": 10.84,
+   "cost0": 10.84,
+   "entry_px": 3.678263994508535e-08,
+   "entry_fill": 3.910111095512257e-08,
+   "opened": 1793197867.656557,
+   "last_px": 3.678263994508535e-08,
+   "peak_px": 3.678263994508535e-08,
+   "last_val": 9.588302294658105,
+   "last_prog": 0.173
   }
  },
  "traded": [
@@ -81,7 +95,8 @@
   "H7yEs6sTxJJv6s8nAX32Qa3cwaY2C7KtUsxa712Dpump",
   "BJa1h6yp3wKTc36y4iAdaSSGwRXEHTsvqECxVkhQpump",
   "63SLXVTAxMRMh7sWaH7T3WTSUZeXzoYG9fbb4CTypump",
-  "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump"
+  "JBuQtH3eaECt9v7vELcWZqBNaiu2cke8ikeNdnBQpump",
+  "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump"
  ],
  "equity": [
   [
@@ -1159,81 +1174,85 @@
   [
    "2026-10-28T07:30:06",
    361.42
+  ],
+  [
+   "2026-10-28T07:31:07",
+   360.18
   ]
  ],
- "cycles": 325,
+ "cycles": 326,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.460790652,
- "watching": 273,
+ "sol_usd": 100.58923237249998,
+ "watching": 260,
  "near": [
-  [
-   "Memelord",
-   "4j97CcD1JRfdiuHKKYXPdZ3kiawobHM8Yk64RuWmpump",
-   1.0,
-   2.6,
-   "graduated"
-  ],
   [
    "ANTS",
    "vZE1yKrS9cxeW9e3Tr42myNJCooZZ8rm3bau9eHpump",
-   0.869,
-   5.4,
+   0.88,
+   6.5,
    ""
   ],
   [
-   "MEMELORD",
-   "H9irMW2EPDGpDUG7Fon4oTbD8zx3dRkXpEMJKDNTpump",
-   0.863,
-   2.2,
-   ""
-  ],
-  [
-   "Memelord",
-   "2dt6jqTdFU4ZumK3K8xCEesyrsyGMNRQ6ipu3WqC3fHE",
-   0.149,
-   2.5,
-   ""
+   "NOOKPAD",
+   "Bhs3ddvpAtGMSLtaPXpsvG9LXzZW6qsxN2ydp7rypump",
+   0.554,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "CAULDRON",
    "EDFRKY5VQysrFMqDetbFQWxKrWkSM1wqppb5vMQwpump",
-   0.138,
-   2.5,
-   "buyers=7; top5_hold_most=93%"
+   0.173,
+   3.5,
+   "bought"
   ],
   [
    "Memefather",
    "pPGuRtEVogah7ProviW6pR5419p3X5hahPbUU1Tpump",
    0.125,
-   3.2,
+   4.2,
    ""
   ],
   [
    "ELON",
    "FNHrqci2MhnRzi5kqGbdEYDmU3E7mZhe7SMUByMJpump",
    0.125,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "Memelord",
+   "2dt6jqTdFU4ZumK3K8xCEesyrsyGMNRQ6ipu3WqC3fHE",
+   0.123,
+   3.5,
    ""
   ],
   [
    "Memelord",
    "CjyBedkJWag1NZ3aYp3be9sAnGWfU5nRXddyuKdtpump",
    0.123,
-   3.1,
+   4.1,
    ""
   ],
   [
    "mimi",
    "W1m9J31nuS4BtHcYfAzRMRHxkp28GrYS9VtmeRipump",
    0.122,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "UNIVERSE",
-   "2iDj8QyY8xD8x2iiJrRTna5E7sSk9hPqMHC9ino3nk36",
-   0.122,
-   3.2,
+   "Memelord",
+   "3NekbiPY1nBV2emZhZZidX6gN7aZ2wJazgQLfXwcRW1V",
+   0.113,
+   4.0,
+   ""
+  ],
+  [
+   "MEMEFATHER",
+   "EkMpCnGwY2ARR9dsR43Cnj2UQctehuBRVLEtoSQ6pump",
+   0.11,
+   2.5,
    ""
   ]
  ]
