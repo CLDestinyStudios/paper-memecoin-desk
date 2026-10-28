@@ -15,7 +15,7 @@
    "opened": 1793213093.929925,
    "last_px": 6.1158602044786e-08,
    "peak_px": 7.708717062275202e-08,
-   "last_val": 5.713478436776096,
+   "last_val": 5.712243306631434,
    "last_prog": 0.438
   }
  },
@@ -2084,81 +2084,85 @@
   [
    "2026-10-28T12:05:47",
    219.52
+  ],
+  [
+   "2026-10-28T12:06:41",
+   219.51
   ]
  ],
- "cycles": 573,
+ "cycles": 574,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.1220765785,
- "watching": 186,
+ "sol_usd": 102.1,
+ "watching": 192,
  "near": [
+  [
+   "DEPORTLON",
+   "AmFoZdNBWukr9V9PMRQYHYHH9Zq3qwsizEWzMd4Spump",
+   0.972,
+   3.0,
+   ""
+  ],
   [
    "Nola",
    "CDzoLshs12mbPuJQgSeMkjmsBWfdyfhZAruRwQe2pump",
-   0.876,
-   8.3,
+   0.907,
+   9.2,
    ""
   ],
   [
    "DEPORTLON",
    "E5L5TU5qV7d8pmEB3p8VYhseWs83cJXe1eVNTrWZpump",
-   0.824,
-   2.3,
+   0.812,
+   3.2,
    ""
   ],
   [
    "pear",
    "4iqu3Z5D4LVYRYzFefEDUEXiAgxZYFevD9KZUhQ5pump",
-   0.578,
-   4.4,
+   0.683,
+   5.3,
    "creator=15.3%"
-  ],
-  [
-   "ACTX",
-   "9y3MRyz1MDkxejB7rcVWYvx6ncamthYrtqqRD5FLpump",
-   0.376,
-   9.8,
-   "top5_hold_most=89%"
   ],
   [
    "ORION",
    "8BSCQubsUbJVpRjb3RcRf79mueHaa56RU6Zx6TJvpump",
    0.253,
-   2.9,
+   3.8,
    ""
   ],
   [
    "JOBWIZ",
    "mery7EUmf63DypgMWqD5xywdjoFCPqNnWgNf57gpump",
    0.232,
-   2.9,
+   3.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "BIBIbbb",
    "DMxGsyQiQpvuLudaJbBFABFqM1Jn9xwchxqwpUFxpump",
    0.134,
-   4.5,
+   5.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BONDPAD",
    "7KGLia8y1cX8NvHvJU5XUCpj51i22NRn5aU37ty7pump",
    0.125,
-   3.2,
+   4.1,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "$BINARY",
    "FbsftTJK8xkLJameAUNsaC7NdPhMf3fZQz6yHX2mpump",
    0.122,
-   7.5,
+   8.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "CZ1B",
    "DCtkjyWsdj1QeUXu61Gn1Pw55nrP9hbQ6S1La8Kupump",
    0.077,
-   8.3,
+   9.2,
    "buyers=2; top5_hold_most=100%"
   ]
  ]
