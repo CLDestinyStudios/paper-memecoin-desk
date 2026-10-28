@@ -15,7 +15,7 @@
    "opened": 1793190367.4686122,
    "last_px": 1.2129334996556107e-07,
    "peak_px": 1.750526466497902e-07,
-   "last_val": 10.369718865021976,
+   "last_val": 10.364607607694975,
    "last_prog": 0.703,
    "tp1_done": true,
    "realized": 2.1764581682455733
@@ -778,81 +778,85 @@
   [
    "2026-10-28T05:57:06",
    384.65
+  ],
+  [
+   "2026-10-28T05:58:07",
+   384.64
   ]
  ],
- "cycles": 232,
+ "cycles": 233,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.44,
- "watching": 229,
+ "sol_usd": 101.39,
+ "watching": 216,
  "near": [
   [
-   "PURRING",
-   "iMRVjx92tX295eEcWLPfrH7j9LtrqxtxKb8ck4xpump",
-   0.884,
-   3.4,
-   ""
+   "DEADPOOL",
+   "GQmknKuEPyx6kpYzRtHu5yeCBV4G2pS1WJ8xNS54pump",
+   0.346,
+   4.5,
+   "creator=17.6%; top5_hold_most=90%"
   ],
   [
    "Elonhouse",
    "2MbjhKywwfYKYL4jGzYVECR6pRaS2G7cM3n1X8PuFx36",
    0.231,
-   4.0,
+   5.0,
    ""
-  ],
-  [
-   "DEADPOOL",
-   "GQmknKuEPyx6kpYzRtHu5yeCBV4G2pS1WJ8xNS54pump",
-   0.228,
-   3.5,
-   "buyers=4; creator=17.6%; top5_hold_most=100%"
   ],
   [
    "Manta Inu",
    "BhmAmgjY81iigNVq1U7CkTyUshGjFyq2ZrhGUs7ypump",
-   0.12,
-   3.7,
-   "top5_hold_most=93%"
+   0.098,
+   4.7,
+   "buyers=7; top5_hold_most=100%"
   ],
   [
-   "LENCH",
-   "BXvYupSZJGLKF6BDLYqPapVJ1jnSXHej5idXdoXwpump",
-   0.101,
+   "gud ket",
+   "31jh6SzgyRRuN7yAzPiMNbnPQy95FDdXyYG1oTtipump",
+   0.092,
+   2.4,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Manta Cat",
+   "9MAozij8bRjMTMnWmrd71Nj4gzVYhwZSezbL4wUkpump",
+   0.088,
    2.5,
-   ""
+   "buyers=9; top5_hold_most=98%"
   ],
   [
-   "PATRICK",
-   "GTLMMvPMYHN3GFqUsp1FuCQC7Rn1tM8Mo3hpuALCpump",
-   0.068,
-   9.6,
+   "Rug",
+   "HihgJZuoyYZQguhWQWn5i4v7oFreTgJo4sGixvK1pump",
+   0.071,
+   2.4,
    ""
   ],
   [
    "Quarry",
    "EEL4tzHSGMfSKskDhyci9D3gqbug9d7s71XXAv2BbTE9",
    0.061,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "Nothing",
+   "BiAUatZuRRZMzwubU8Td3NAELsEsyE2Fw8fvnsdUJiQE",
+   0.055,
+   2.3,
+   ""
+  ],
+  [
+   "DUSTY",
+   "DceYsNsWnNgoWdeChwfbpuoagdy7UXqqhztUvfxopump",
+   0.043,
+   8.8,
    ""
   ],
   [
    "GT",
    "FuS6H9tNadjrjCmf6712LNqt7v6ZD4JS97JP4WJ5pump",
    0.043,
-   4.7,
-   ""
-  ],
-  [
-   "PumpLeague",
-   "2FXf54stu4HSENbBDNmBSjjL7Z1U3Pc4DrX4S9h8pump",
-   0.042,
-   3.6,
-   ""
-  ],
-  [
-   "DUSTY",
-   "DceYsNsWnNgoWdeChwfbpuoagdy7UXqqhztUvfxopump",
-   0.041,
-   7.7,
+   5.7,
    ""
   ]
  ]
