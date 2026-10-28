@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 412.2390215629081,
- "positions": {
-  "5w2VFC9LAmxAkujyu7PaFdniaXApc7LJW1WCZy4Spump": {
-   "sym": "SIB",
-   "qty": 120127.10222428892,
-   "entry": 0.000180642,
-   "mark_entry": 0.0001771,
-   "cost": 21.7,
-   "peak": 0.0003024,
-   "last": 0.0003024,
-   "opened": 1793218185.1098998,
-   "p_buy": 0.57
-  }
- },
+ "cash": 439.0919937399212,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -1602,8 +1590,12 @@
   [
    "2026-10-28T13:20:43",
    447.84
+  ],
+  [
+   "2026-10-28T13:21:44",
+   439.09
   ]
  ],
- "cycles": 668,
+ "cycles": 669,
  "started": "2026-10-28T01:46:56"
 }
