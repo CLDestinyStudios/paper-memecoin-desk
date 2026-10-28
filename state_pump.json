@@ -1692,81 +1692,85 @@
   [
    "2026-10-28T10:34:40",
    272.36
+  ],
+  [
+   "2026-10-28T10:35:40",
+   272.36
   ]
  ],
- "cycles": 482,
+ "cycles": 483,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.0255730895,
- "watching": 214,
+ "sol_usd": 101.056016712,
+ "watching": 212,
  "near": [
-  [
-   "TIPPD",
-   "2amNWKrZVGuKd3MC4Qe5BPe3rr4ffvrCNDDHSvQjpump",
-   0.048,
-   5.7,
-   ""
-  ],
-  [
-   "GROKPAD",
-   "GRxBZTsjHaWfwaRka9FaiRFji5WSN569uBYdzfrbpump",
-   0.045,
-   9.2,
-   "buyers=9; top5_hold_most=85%"
-  ],
-  [
-   "Meecot",
-   "NvfgnpffdaDZJCKeLTGkdJH8T1oKHyjrMsBNpWupump",
-   0.043,
-   2.3,
-   ""
-  ],
-  [
-   "SQUADMARKET",
-   "BFMftb3iDwGVhHUyHerJMsr3w7if2vSaudvwkw4wpump",
-   0.031,
-   4.9,
-   ""
-  ],
-  [
-   "YIELDED",
-   "AENZ2Pzm4CLvwPtcQcy9pQZ5Vd9HM5Wda2wvzA69pump",
-   0.028,
-   4.8,
-   ""
-  ],
   [
    "Robin",
    "GnjkYgUnKj3R97jz88ibtfE1pCwRveCsS6TkcLAjpump",
    0.026,
-   7.9,
+   8.9,
    ""
   ],
   [
    "putin",
    "F4NvE4G4ourzA9VdoV1uUaU15A5KzyVhEHfWUZmTpump",
    0.025,
-   3.3,
+   4.3,
    ""
   ],
   [
-   "CHILLHOUSE",
-   "7WJmgJUatJHK3af5FMUdpDx1152gyTSJTmbEaoicpump",
-   0.019,
-   4.8,
+   "Meecot",
+   "NvfgnpffdaDZJCKeLTGkdJH8T1oKHyjrMsBNpWupump",
+   0.025,
+   3.3,
    ""
   ],
   [
    "Wojtek",
    "Fv51RPmbZd7cNus2cNeNoGqkzpecKD5MFLaFxvedpump",
    0.015,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "BROKE",
-   "DsaQDaxRSaSmn54EroYTnv5hKYwPRNg6ySeLkd3fpump",
-   0.014,
-   9.3,
+   "$CACT",
+   "FaL9HKP56bxktQUZDMez8Czqfg6kuGBTYCa7JzCApump",
+   0.012,
+   2.9,
+   ""
+  ],
+  [
+   "bc",
+   "2rFqE3UoX3hhaNS3qHVYDZsJ17mhu5Wk4dEZoQ7wpump",
+   0.011,
+   9.0,
+   ""
+  ],
+  [
+   "CIPHER",
+   "3bBvbEYxVFxcooh7UbJt5YFGw8cNtBRjpnaRFFHepump",
+   0.009,
+   4.8,
+   ""
+  ],
+  [
+   "PARCEL",
+   "9K6dUEWsMhxWbqVAhaN4zd2tgsB7b5PkcsqjQPazpump",
+   0.007,
+   2.8,
+   ""
+  ],
+  [
+   "OFR",
+   "9dCrcZzfH6heDq8LiNVJjihqrRcKYW6YtMFEZq9Tpump",
+   0.005,
+   4.5,
+   ""
+  ],
+  [
+   " $CACT",
+   "69yTVvKzhSUxweUPkHs4awEgCXNtZJGB9kE4cqUHpump",
+   0.003,
+   8.0,
    ""
   ]
  ]
