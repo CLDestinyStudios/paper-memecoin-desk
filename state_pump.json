@@ -13,10 +13,10 @@
    "entry_px": 8.617304087885189e-08,
    "entry_fill": 9.148123331645541e-08,
    "opened": 1793184907.245469,
-   "last_px": 8.617304087885189e-08,
+   "last_px": 7.415775024392572e-08,
    "peak_px": 8.617304087885189e-08,
-   "last_val": 11.175664301030722,
-   "last_prog": 0.582
+   "last_val": 9.612043028103056,
+   "last_prog": 0.522
   }
  },
  "traded": [
@@ -295,81 +295,85 @@
   [
    "2026-10-28T03:55:07",
    418.5
+  ],
+  [
+   "2026-10-28T03:56:06",
+   416.94
   ]
  ],
- "cycles": 110,
+ "cycles": 111,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.90708366823132,
- "watching": 253,
+ "sol_usd": 102.91,
+ "watching": 240,
  "near": [
   [
-   "Buster",
-   "Ea6FCT3jqvGFzAnp8uWeVVaQPAtRswQA5xq84rjfpump",
-   0.582,
-   2.9,
-   "bought"
-  ],
-  [
-   "Trip",
-   "2oCZ2wwA9oNSAYWoSqn6P1vZ9E6JVrCjnH1ecKzipump",
-   0.487,
-   8.7,
-   "buyers=5; creator=38.5%; top5_hold_most=100%"
-  ],
-  [
-   "BLACKBOX",
-   "7u8Ebm2oU4dxH2pkbm3GuH1kiSeAhQNzMpT9KhGkpump",
-   0.136,
-   2.5,
-   ""
-  ],
-  [
-   "Cub",
-   "9Ve5TwUMUMyMW8N2HY8ciPW9TwJ8Z5rHdfvxKombpump",
-   0.097,
-   2.7,
-   ""
-  ],
-  [
-   "Toledo",
-   "3yngPb1ZrzPoxfzB167jiUvDj5KdVmZsnUCcqDMgpump",
-   0.083,
-   2.8,
-   ""
+   "BGC",
+   "DV8TYgwECzDLGAecwTpvzxVVJoicvU7JAtoDyZiQpump",
+   0.278,
+   2.1,
+   "top5_hold_most=80%"
   ],
   [
    "OpenBot",
    "2RdP64o3XfaynmdBPUbaG2PK3NkeWPEid6RNWzFHpump",
-   0.076,
-   2.2,
-   "buyers=2; top5_hold_most=100%"
+   0.078,
+   3.2,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BLACKBOX",
+   "7u8Ebm2oU4dxH2pkbm3GuH1kiSeAhQNzMpT9KhGkpump",
+   0.074,
+   3.5,
+   ""
   ],
   [
    "  ",
    "6HttLBGvBmcjLwyEyXK8ZeYmykg94Ubf7Fbx9WVHNFZ",
    0.068,
-   5.5,
+   6.4,
    ""
   ],
   [
-   "Bread",
-   "GQ9ZvprV9cKMp8Ak4Rn265D2Nom5fc2igqQJVZ6hpump",
-   0.062,
-   2.4,
+   "Duck",
+   "2gEjNwnjsr3bhBQoWvhULHCSNPhhfGSEfYPbZPZtpump",
+   0.056,
+   2.8,
+   "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "tegnike",
+   "4fisBkKT2fsWpsgw1ncVZ2RZ8ic4fdZ3BdqSWwAnpump",
+   0.05,
+   2.7,
    ""
   ],
   [
    "t-rex",
    "5FKUPMisKDAvcvED37U6DjrS9Qc9o7PV3QFQCgFjpump",
    0.036,
-   2.2,
+   3.1,
    ""
   ],
   [
    "tegnike",
    "5t9737k2XNQMeBrNgpqBxbrx2u86odNFAhHDAQmjL8qo",
-   0.025,
-   2.4,
+   0.031,
+   3.4,
+   ""
+  ],
+  [
+   "Toledo",
+   "3yngPb1ZrzPoxfzB167jiUvDj5KdVmZsnUCcqDMgpump",
+   0.022,
+   3.8,
+   ""
+  ],
+  [
+   "SURVIVAL",
+   "LvDn9VYxabBdywvo3AgHp22B9C5VUi3LagGZF8adCQN",
+   0.022,
+   8.3,
    ""
   ]
  ]
