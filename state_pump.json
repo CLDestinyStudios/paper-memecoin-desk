@@ -13,10 +13,10 @@
    "entry_px": 8.262468027960095e-08,
    "entry_fill": 8.796523579014163e-08,
    "opened": 1793215864.5460954,
-   "last_px": 1.1194513668233396e-07,
+   "last_px": 1.1864871556591894e-07,
    "peak_px": 1.294964719279087e-07,
-   "last_val": 3.7912021317300275,
-   "last_prog": 0.677,
+   "last_val": 4.022473320225428,
+   "last_prog": 0.696,
    "tp1_done": true,
    "realized": 1.2097756701705937
   },
@@ -31,7 +31,7 @@
    "opened": 1793215865.7977614,
    "last_px": 5.0427370778726216e-08,
    "peak_px": 5.79924305848095e-08,
-   "last_val": 5.378526707446993,
+   "last_val": 5.380216625278136,
    "last_prog": 0.346
   },
   "AYAmQnv2o9MLfknsSMhuiyen6iZpqy1ag9RxBj87pump": {
@@ -43,10 +43,10 @@
    "entry_px": 3.956658092108617e-08,
    "entry_fill": 4.215110532681106e-08,
    "opened": 1793216396.1967318,
-   "last_px": 3.956658092108617e-08,
+   "last_px": 3.3858424246985583e-08,
    "peak_px": 3.956658092108617e-08,
-   "last_val": 5.510547940516956,
-   "last_prog": 0.216
+   "last_val": 4.710239198171979,
+   "last_prog": 0.124
   }
  },
  "traded": [
@@ -2247,81 +2247,85 @@
   [
    "2026-10-28T12:39:56",
    208.01
+  ],
+  [
+   "2026-10-28T12:40:57",
+   207.44
   ]
  ],
- "cycles": 607,
+ "cycles": 608,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.18789285400001,
- "watching": 199,
+ "sol_usd": 102.22,
+ "watching": 179,
  "near": [
+  [
+   "ELYSIUMC",
+   "72s1iBWddR4VGqYWiY47KSmtpBHhrmhocfKrxb19pump",
+   0.793,
+   3.2,
+   ""
+  ],
   [
    "Susie",
    "D3uzy6Ecjv47pNTxoRLx27Hy9Sg8WRZSRfANmdD3pump",
-   0.429,
-   2.4,
+   0.4,
+   3.4,
    ""
   ],
   [
    "Percy",
    "F5ep12Uq5XgajPotUUedtgeCaxXZzRmCibiuqvQfpump",
-   0.375,
-   3.1,
-   "creator=24.5%; top5_hold_most=95%"
+   0.359,
+   4.1,
+   "buyers=8; creator=24.5%; top5_hold_most=97%"
   ],
   [
-   "SMR",
-   "AYAmQnv2o9MLfknsSMhuiyen6iZpqy1ag9RxBj87pump",
-   0.216,
-   3.0,
-   "bought"
+   "Susie",
+   "Dwc4Dw3vVdEGKbKBWyvu1NuXfkmQCdzZomCRbUmwpump",
+   0.265,
+   2.3,
+   "launch_slot=missing"
   ],
   [
    "STOLAS",
    "6q7N9NS9suAbyJam3fqctppAdG6tBL5ywLJVKdU4pump",
    0.132,
-   4.5,
+   5.5,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "SHEDCOIN",
    "F2hZhxFkTkbTPAWCm7jpXTLD9bkF7ECiYYWMxiWVpump",
-   0.094,
-   5.2,
+   0.132,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Mikol",
    "BjxH5iU3DbF3KSbgSv1HWUWBKJNgRAkekazVhNqvpump",
    0.093,
-   5.9,
+   6.9,
    "buyers=7; top5_hold_most=98%"
   ],
   [
-   "ELYSIUMCAT",
-   "HcsycUKPFvRT2AjeXDxXGHS1TJKTFmraQGvrPpRKpump",
-   0.072,
-   3.5,
-   ""
+   "Candy",
+   "2Kr8LLxgSNU2ZpdpuFU5P82BHyxQ6N69nm5oLYP5pump",
+   0.084,
+   3.0,
+   "buyers=1; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "Hatch",
    "5s8mLieJsqmxktHNCriEpDmvWSW3GAL3Bmb8oBxYyV2d",
    0.068,
-   2.8,
+   3.9,
    ""
   ],
   [
-   "SOLMON NFT",
-   "HaVT8nEVRApzqXXQCuECgBueggG4SZfWPQ3puiW2pump",
-   0.043,
-   3.2,
-   ""
-  ],
-  [
-   "ELYSIUMCAT",
-   "G7Rz4zE5myhyT8v9xf8CmKQuMk75PYbjUSUpG4Zwpump",
-   0.038,
-   3.4,
+   "Fitz",
+   "HAyfa4ahnzniBzjVMKYu53PNcmp9dn51vwUQeVFZpump",
+   0.068,
+   2.4,
    ""
   ]
  ]
