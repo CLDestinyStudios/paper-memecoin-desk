@@ -15,7 +15,7 @@
    "opened": 1793230070.5884793,
    "last_px": 5.802924470880511e-08,
    "peak_px": 5.802924470880511e-08,
-   "last_val": 3.93010644385682,
+   "last_val": 3.929714203595152,
    "last_prog": 0.414
   }
  },
@@ -3203,81 +3203,85 @@
   [
    "2026-10-28T16:46:50",
    129.28
+  ],
+  [
+   "2026-10-28T16:47:51",
+   129.28
   ]
  ],
- "cycles": 854,
+ "cycles": 855,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.26028646,
- "watching": 235,
+ "sol_usd": 102.25008047649999,
+ "watching": 245,
  "near": [
+  [
+   "Retail",
+   "CmktS8u4ue3CGsoLSCiubF7JwWXYEiV52a3NcseSpump",
+   0.598,
+   2.6,
+   "bundled_launch=6 extra buys in creation block"
+  ],
   [
    "Pussper",
    "3kxcfBpGMJpiKG5Cb4JUkwNcsCgzUPi2iN1hSh68pump",
-   0.574,
-   2.0,
+   0.536,
+   3.1,
+   ""
+  ],
+  [
+   "Entry",
+   "4yGpaxufioePFiJ3eXBpuK894JmQrQfzeJhA5ofnpump",
+   0.407,
+   2.4,
+   ""
+  ],
+  [
+   "ClavCat",
+   "6FhBEmFdJJcf6RFJK9yAA1QxAakMsxwZbyzuJzrJpump",
+   0.159,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "SHIBO",
+   "7jpjkbYFgQ9iHSk3xLk15L5bHQhURsHuWCQjZ1wGpump",
+   0.132,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Ivy",
+   "14WCyXBCKCaigfKKPxjxRmXWf7cmRrTPsZWMZwEDpump",
+   0.113,
+   2.1,
+   ""
+  ],
+  [
+   "Monkey",
+   "Hz8y5mLP5vSJhvigGbKhcTZ3kvdBnoGZPgrzXDQpump",
+   0.11,
+   2.7,
+   ""
+  ],
+  [
+   "BANANA",
+   "4UvCRzpwNj9TwfsdGqL9jshRmcxTAhopid84MhKxpump",
+   0.104,
+   2.4,
+   "top5_hold_most=95%"
+  ],
+  [
+   "Entry",
+   "VDZsGa8ohRes49wmZYRZajKzX8PaJVPDksjP7GTVvzH",
+   0.092,
+   2.7,
    ""
   ],
   [
    "Snipers",
    "4yEKzj3b6guGiGWoPW6sEECJZqNkxPExemDVinn7pump",
    0.071,
-   2.9,
-   ""
-  ],
-  [
-   "AIM",
-   "4yEmXWTEcbs7GqyNsyR6Hq3iMGUYs7DoHk5mQoZqpump",
-   0.062,
-   2.4,
-   ""
-  ],
-  [
-   "Samba",
-   "B3PCaJXJANg9vMTnHzKe84tpgcyYB9XtCMJT5KPopump",
-   0.051,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Nov15",
-   "A8CuHxcQm1fqUayVfs6BYK3zhC8Po8AMseFwaiY1pump",
-   0.042,
-   5.2,
-   ""
-  ],
-  [
-   "BIDDYBLAS",
-   "9zagobUUGfZ6WYgFmcgciM6j4WLK57fC91VFSpj1pump",
-   0.033,
-   5.8,
-   ""
-  ],
-  [
-   "FlyingDog",
-   "9igwSMPdWYYvEKVcbx7ppnW4CEzrq4nd8hF7fC16pump",
-   0.028,
-   4.8,
-   ""
-  ],
-  [
-   "Messi",
-   "3ks2xiyoQhrdyjMSaRBvtbhJiNysXNsWamPJw5z4pump",
-   0.025,
-   3.4,
-   ""
-  ],
-  [
-   "\u3164\u3164\u3164\u3164",
-   "HnWkg6XNpSTpU6GMzzUuawEodC5xPYH2pxXm6ytpump",
-   0.022,
-   7.3,
-   ""
-  ],
-  [
-   "SOLPUMP",
-   "4c3mppPo1XnwjmVoCx5NHAScdXoa5w3dK9tvVUgGpump",
-   0.019,
-   8.6,
+   3.9,
    ""
   ]
  ]

@@ -1,18 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 390.80950181738797,
+ "cash": 410.5755344971265,
  "positions": {
-  "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump": {
-   "sym": "three",
-   "qty": 42230.78120136944,
-   "entry": 0.00051408,
-   "mark_entry": 0.000504,
-   "cost": 21.71,
-   "peak": 0.0005115,
-   "last": 0.0004928,
-   "opened": 1793226831.5363517,
-   "p_buy": 0.58
-  },
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "sym": "JOB",
    "qty": 8248.711615283748,
@@ -1993,8 +1982,12 @@
   [
    "2026-10-28T16:46:49",
    431.91
+  ],
+  [
+   "2026-10-28T16:47:50",
+   431.28
   ]
  ],
- "cycles": 874,
+ "cycles": 875,
  "started": "2026-10-28T01:46:56"
 }
