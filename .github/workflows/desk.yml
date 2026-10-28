@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install requests
-      - name: Paper desk loop (~5h40m, one cycle every 5 min)
+      - name: Paper desk loop (~5h40m, one cycle every 1 min)
         run: |
           set +e
           git config user.name "github-actions[bot]"
@@ -30,7 +30,7 @@ jobs:
             START=$(date +%s)
             git pull -q --rebase origin main || git rebase --abort || true
             echo "=== $(date) [actions] ===" >> loop.log
-            timeout 300 python desk.py cycle >> loop.log 2>&1 || echo "cycle exit $?" >> loop.log
+            timeout 120 python desk.py cycle >> loop.log 2>&1 || echo "cycle exit $?" >> loop.log
             tail -n 2000 loop.log > loop.log.trim && mv loop.log.trim loop.log
             tail -n 3 loop.log
             git add -A
@@ -42,7 +42,7 @@ jobs:
                 sleep $((i*3))
               done
             fi
-            LEFT=$(( 300 - ($(date +%s) - START) ))
+            LEFT=$(( 60 - ($(date +%s) - START) ))
             NOWLEFT=$(( END - $(date +%s) ))
             [ "$NOWLEFT" -le 0 ] && break
             [ "$LEFT" -gt "$NOWLEFT" ] && LEFT=$NOWLEFT
