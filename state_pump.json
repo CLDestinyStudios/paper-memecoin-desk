@@ -5417,81 +5417,85 @@
   [
    "2026-10-29T05:23:23",
    58.26
+  ],
+  [
+   "2026-10-29T05:24:22",
+   58.26
   ]
  ],
- "cycles": 1610,
+ "cycles": 1611,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.27197629699998,
- "watching": 212,
+ "sol_usd": 100.27378393400001,
+ "watching": 206,
  "near": [
-  [
-   "EPYH",
-   "E6mThKJZuJVAhm9o915btE3c5enqfohuQ6s83AGz28fp",
-   0.679,
-   2.4,
-   "serial_creator=64 launches/24h"
-  ],
-  [
-   "NASU",
-   "Hp7MZqbmzcDqo5gF9TdeHV2vas7k6hCa4wbvi9kqpump",
-   0.631,
-   2.9,
-   "serial_creator=6 launches/24h"
-  ],
   [
    "SAR",
    "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
-   0.589,
-   6.9,
+   0.523,
+   7.9,
    ""
   ],
   [
-   "CELLROOM",
-   "9sXsgRBy3y7byrczBLixpnMdpWovgY9MeoRhuYspump",
-   0.368,
+   "IRONY",
+   "DuU2RHdMckUTQN1ckSYMRzhzMUFQ58DvKTk3ns9Qpump",
+   0.136,
    2.2,
-   "bundled_launch=6 extra buys in creation block"
+   "buyers=9; top5_hold_most=95%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "Elon",
-   "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
-   0.063,
-   9.3,
+   "\u043a\u043e\u0442",
+   "5bXgF8LNDNGhb6miFGJZyp4v8YcyijTbuPqu4dxU33c9",
+   0.073,
+   2.1,
    ""
   ],
   [
-   "BOOM",
-   "5aer69ZarDrZcjdJmB2YZoCc2Kbp6ojtXjk6wRPwpump",
-   0.058,
-   3.4,
-   "buyers=2; top5_hold_most=100%"
+   "\u0441\u0443\u0301\u043a\u0430",
+   "GtViXj6HBzWRp3s7yWSHY54Y29ncjPYEkTPGzEHHpump",
+   0.061,
+   2.3,
+   ""
   ],
   [
    "BOWEN WAN",
    "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
    0.058,
-   6.7,
+   7.7,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "BOTHSL",
+   "Ebs7Q9JNk2u9SnhYRw8bFyHVatd3FuLrMaqKaRjJpump",
+   0.05,
+   2.2,
+   ""
   ],
   [
    "HERMES",
    "EsjL8EK9YEaof53fr5sjwwqMdHxgWXsFC4t2CGkpump",
    0.044,
-   3.9,
+   4.8,
    ""
   ],
   [
-   "BTS",
-   "DDE2T4MVNaXKnArmS7CorpfdVi8jNqWDXcXPXdDJpump",
-   0.039,
-   5.3,
-   ""
+   "BOOM",
+   "5aer69ZarDrZcjdJmB2YZoCc2Kbp6ojtXjk6wRPwpump",
+   0.041,
+   4.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Stonker",
    "CZ8azHgeun4fUpQZXGHaBCHBoc3B1P8kapvB2fqkpump",
    0.034,
-   5.0,
+   5.9,
+   ""
+  ],
+  [
+   "nearonpump",
+   "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
+   0.026,
+   9.5,
    ""
   ]
  ]
