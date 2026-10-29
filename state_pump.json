@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.5706131817891178e-07,
+   "last_px": 1.1351829619520365e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.1290945738120965,
-   "last_prog": 0.782,
+   "last_val": 0.8019760103197727,
+   "last_prog": 0.681,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5422,81 +5422,85 @@
   [
    "2026-10-29T05:20:22",
    58.88
+  ],
+  [
+   "2026-10-29T05:21:22",
+   58.55
   ]
  ],
- "cycles": 1607,
+ "cycles": 1608,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.23,
- "watching": 239,
+ "sol_usd": 100.202295921,
+ "watching": 235,
  "near": [
   [
    "SAR",
    "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
-   0.504,
-   3.9,
+   0.496,
+   4.9,
    ""
   ],
   [
    "MuCa",
    "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
-   0.118,
-   8.1,
-   "buyers=3; top5_hold_most=100%"
+   0.122,
+   9.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SAR",
    "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
    0.076,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "PINO",
-   "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
-   0.07,
-   10.0,
-   "buyers=9; top5_hold_most=95%"
+   "TRENCH",
+   "GjUV9nsKWuQUSumUiCM2Q7qyGTwySF5XggRry9m5pump",
+   0.066,
+   9.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Elon",
    "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
    0.063,
-   6.3,
+   7.3,
    ""
   ],
   [
    "RWAR",
    "7ie2ZkxNSKrkBQ9VkJhpikfakGcyoMcnkXjbsE1wpump",
    0.04,
-   3.4,
+   4.4,
    ""
   ],
   [
    "BTS",
    "DDE2T4MVNaXKnArmS7CorpfdVi8jNqWDXcXPXdDJpump",
    0.039,
-   2.3,
+   3.3,
+   ""
+  ],
+  [
+   "Stonker",
+   "CZ8azHgeun4fUpQZXGHaBCHBoc3B1P8kapvB2fqkpump",
+   0.034,
+   2.9,
    ""
   ],
   [
    "BOWEN WAN",
    "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
    0.029,
-   3.7,
+   4.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "nearonpump",
    "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
-   0.025,
-   5.5,
-   ""
-  ],
-  [
-   "TRENCH",
-   "GjUV9nsKWuQUSumUiCM2Q7qyGTwySF5XggRry9m5pump",
-   0.025,
-   8.6,
+   0.026,
+   6.5,
    ""
   ]
  ]
