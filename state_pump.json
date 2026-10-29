@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.7278981150557417e-07,
+   "last_px": 1.6296213915617575e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.2471183721449015,
-   "last_prog": 0.809,
+   "last_val": 1.1731060595883127,
+   "last_prog": 0.793,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5414,81 +5414,85 @@
   [
    "2026-10-29T05:18:22",
    59.0
+  ],
+  [
+   "2026-10-29T05:19:22",
+   58.93
   ]
  ],
- "cycles": 1605,
+ "cycles": 1606,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.22566174700002,
- "watching": 270,
+ "sol_usd": 100.2054294255,
+ "watching": 262,
  "near": [
   [
-   "Elon",
-   "6VFHeFA2gwhVW1UuV4PaMJJPXPhuBe9BDS9x9GUjpump",
-   0.54,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "SYNTHRA",
-   "8LSMn8zWQQHHcLubeY649B8qHqGcMxAHysVMbur4pump",
-   0.317,
-   2.2,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "PumpDog",
-   "5MdTE2jyiXsHESCPSpHrrjLKBxtKo6KHW6WesDpapump",
-   0.156,
-   2.4,
-   "top5_hold_most=84%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Elon",
-   "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
-   0.131,
-   4.3,
+   "SAR",
+   "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
+   0.477,
+   2.9,
    ""
   ],
   [
    "MuCa",
    "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
    0.118,
-   6.1,
-   "buyers=1; top5_hold_most=100%"
+   7.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "MEIMEI",
    "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
    0.111,
-   8.1,
-   "buyers=7; top5_hold_most=92%"
+   9.1,
+   "buyers=8; top5_hold_most=92%"
   ],
   [
-   "GTAVI",
-   "GowRcDGK8G9MF3bLEgxAXXs6Dzoodpn6NFo6yX86pump",
-   0.08,
-   9.7,
-   "buyers=2; top5_hold_most=100%"
+   "Elon",
+   "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
+   0.109,
+   5.3,
+   ""
+  ],
+  [
+   "SAR",
+   "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
+   0.082,
+   2.1,
+   ""
   ],
   [
    "PINO",
    "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
    0.076,
-   8.0,
+   9.0,
+   "buyers=9; top5_hold_most=96%"
+  ],
+  [
+   "Neko",
+   "58iiKGRBrf237pxRFnBVw6QBPUZhanE2k2oLgapApump",
+   0.071,
+   2.7,
    ""
   ],
   [
-   "Cockfish",
-   "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
-   0.072,
-   9.5,
+   "BOWEN WAN",
+   "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
+   0.06,
+   2.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "RWAR",
+   "7ie2ZkxNSKrkBQ9VkJhpikfakGcyoMcnkXjbsE1wpump",
+   0.04,
+   2.4,
    ""
   ],
   [
-   "QEYRO",
-   "3AKZNKNhJt9g9xqsNxPaS91XfnHfiPaPe6tEjeA7pump",
-   0.036,
-   4.8,
+   "nearonpump",
+   "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
+   0.025,
+   4.5,
    ""
   ]
  ]
