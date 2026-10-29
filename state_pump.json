@@ -13,10 +13,10 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 8.664233551171571e-08,
+   "last_px": 9.788342307452551e-08,
    "peak_px": 1.011463125213647e-07,
-   "last_val": 0.9007432492831977,
-   "last_prog": 0.584,
+   "last_val": 1.0244823559506129,
+   "last_prog": 0.63,
    "tp1_done": true,
    "realized": 0.23547084605700674
   }
@@ -5586,81 +5586,85 @@
   [
    "2026-10-29T06:26:23",
    54.93
+  ],
+  [
+   "2026-10-29T06:27:26",
+   55.05
   ]
  ],
- "cycles": 1673,
+ "cycles": 1674,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.53,
- "watching": 199,
+ "sol_usd": 100.5660106435,
+ "watching": 197,
  "near": [
   [
    "CHLOE",
    "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-   0.968,
-   8.4,
+   0.969,
+   9.4,
    ""
-  ],
-  [
-   "PETS",
-   "AS8iLMmSJNEgDsv5XkVQn67kCM91hCuCgHc9cxp5pump",
-   0.64,
-   7.6,
-   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "launchpad",
    "3FwUjzW7Cy1BXqB7ir1qCb72fufv2KbTnLxFnQ7Spump",
-   0.378,
-   2.7,
+   0.139,
+   3.8,
    ""
-  ],
-  [
-   "BLAHMA",
-   "6SpPE7u6TBiaqyKocjf1PDN8Rb1MH4im7G5MyDoepump",
-   0.322,
-   4.1,
-   "buyers=9; top5_hold_most=96%"
   ],
   [
    "PP",
    "3PXKpgh4ndaDkvS9qHTJ4d8t9dZaAfsU4LQmBxtTpump",
-   0.136,
-   2.7,
-   "buyers=1; top5_hold_most=100%"
+   0.137,
+   3.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "MAX",
-   "6sHDEw1tPeY3LJcE4HwzEMzgziszrphwdosJRUsQmrLK",
-   0.118,
-   9.7,
+   "STAN",
+   "4K7XWvLNaV56NfSPf5KGHfJPg7GpT33FNXttkiUfpump",
+   0.119,
+   2.5,
    ""
   ],
   [
    "Lar",
    "AiDRfSyJJGiPFnUzdgc4siQC3MZJiEb94HCJ2JfPfn9y",
    0.109,
-   4.9,
+   5.9,
    ""
   ],
   [
    "sponk",
    "AKtAR5RVUwbeLpb9QbJaMjGjr1mQSefvwZkGYqvvwJ5g",
    0.081,
-   3.7,
+   4.7,
+   ""
+  ],
+  [
+   "lauchinu",
+   "8fqY784qCxHVhrcaakqYt5ENeXe54JEsXwVdJ6jdpump",
+   0.074,
+   3.1,
    ""
   ],
   [
    "BOOKS",
    "GMbmg9G3moYoVHakHJ6RH1WczzpmPcunp7qkRYxSpump",
    0.071,
-   2.5,
+   3.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Ulhan",
-   "59tBrea8DL7toL4SGyGqWmhgeaqPwHH9y2XH5L9Qpump",
+   "LAUNCHPAD",
+   "L9ytmSHwxvkoaPRKt2hW1XfbE9Jn4pPuxBTWgBdpump",
    0.064,
-   3.5,
+   6.9,
+   ""
+  ],
+  [
+   "INTO",
+   "2xdnBBLbkkBobT7Z6PgZkAzPiVyYvCuASSi3yQ1pME2K",
+   0.064,
+   2.7,
    ""
   ]
  ]
