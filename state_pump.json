@@ -3711,83 +3711,83 @@
    119.01
   ],
   [
-   "2026-10-28T19:19:53",
+   "2026-10-28T19:20:54",
    119.01
   ]
  ],
- "cycles": 1007,
+ "cycles": 1008,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.61,
- "watching": 248,
+ "sol_usd": 99.61507105135001,
+ "watching": 232,
  "near": [
   [
    "TOKENIZER",
    "5MMVWXWtHKCovkQMqknnM5edJKyTJTg6PeZffUXapump",
-   0.545,
-   3.3,
+   0.664,
+   4.3,
    ""
   ],
   [
-   "VAULT",
-   "6GNVYSRZKgNp8yH93RPcVpjrahfS53oZ9t28Dy9Ppump",
-   0.293,
+   "CP",
+   "w1CPsw9F4cA5cequ2b2JUJ4Qb32N9Zx89bpzEv2pump",
+   0.355,
    2.4,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "MANGO",
-   "Dk2hv3W9S1BsXAGH56Z8mgVWDhmFQraR4ziQjHMUpump",
-   0.159,
-   2.3,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "IT",
-   "2RDd7j3hpiccPmG7RUPYKZaVNzBJHbXMiuw313oppump",
-   0.147,
-   3.1,
-   ""
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "ORBIX",
    "EuaBDQ7emUqAogDVX3Qkom9mAtWtYTbwg637H9zhpump",
    0.132,
-   5.7,
-   "buyers=4; top5_hold_most=100%"
+   6.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "TOKENIZER",
    "eAKhEyDEbQKGcdRxpnxwRTrEY5ZDbqzB9Bh5MCqXFgi",
    0.121,
-   3.4,
+   4.4,
    ""
   ],
   [
    "NutBag",
    "Dek22ZSxfYhEWtx4yUBwp4b9N86vpK1ikrtZKHor7Z1w",
    0.088,
-   6.5,
+   7.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "choom",
-   "BFFzoe6hCQnzWAmuhx4YFZSkvDyCQGpk7NiCGJy1pump",
-   0.087,
-   7.7,
-   ""
   ],
   [
    "gyatt",
    "Cs6zgY4CXdXpYAGVvKJH7ZoMoKYEr1b1a7FNtK1Qpump",
    0.084,
-   3.9,
+   5.0,
    ""
   ],
   [
    "TOKENIZOOR",
    "24jZaPCQ52cJwDmt1jSGNDCxcdg4L6ye3rmfVPC5pump",
    0.082,
-   2.6,
+   3.7,
+   ""
+  ],
+  [
+   "IT",
+   "2RDd7j3hpiccPmG7RUPYKZaVNzBJHbXMiuw313oppump",
+   0.075,
+   4.1,
+   ""
+  ],
+  [
+   "Cyber",
+   "C2HbawK8k8iLNpZXy5ZrMdStFSarcWfZkXWk98XCrHof",
+   0.064,
+   2.2,
+   "buyers=6; top5_hold_most=99%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "TOKENIZER",
+   "EQ8bYw1cimFKwiUfjvGidKzYf6zXFn4uqvU21Dcopump",
+   0.061,
+   4.0,
    ""
   ]
  ]
