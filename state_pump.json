@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 115.4433636102684,
- "positions": {
-  "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump": {
-   "sym": "PODCAT",
-   "bc": "9NWRn2K6dci1xwc1bia5ZseYD5zb4gwwBQ7C2xdz4rC7",
-   "tokens": 592502.16688591,
-   "cost": 3.57,
-   "cost0": 3.57,
-   "entry_px": 5.665864647138259e-08,
-   "entry_fill": 6.06593619253117e-08,
-   "opened": 1793241291.4047287,
-   "last_px": 5.665864647138259e-08,
-   "peak_px": 5.665864647138259e-08,
-   "last_val": 3.1090006558774737,
-   "last_prog": 0.403
-  }
- },
+ "cash": 117.19277905891474,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -3737,82 +3722,86 @@
   [
    "2026-10-28T19:34:51",
    118.55
+  ],
+  [
+   "2026-10-28T19:35:49",
+   117.19
   ]
  ],
- "cycles": 1022,
+ "cycles": 1023,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.33,
- "watching": 196,
+ "sol_usd": 99.29214117515,
+ "watching": 192,
  "near": [
   [
    "Fatfish",
    "Hxd1iJUyeA6oDjhUxHqDtR86UFGZFPreKkazrc8Dpump",
-   0.965,
-   7.0,
-   ""
+   1.0,
+   8.0,
+   "graduated"
   ],
   [
-   "PODCAT",
-   "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump",
-   0.403,
-   2.8,
-   "bought"
-  ],
-  [
-   "BOO",
-   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
-   0.092,
-   9.2,
-   ""
+   "PONZI",
+   "74eE9A2TByKwh5D4a6JPM8SvaAP76hyZm9qh2bbBpump",
+   0.1,
+   2.3,
+   "buyers=7; top5_hold_most=93%"
   ],
   [
    "COTUS",
    "BT746R99tvULSh6jDsc5BF16kXrE17Gr8LkQ2Pxmpump",
    0.082,
-   8.2,
+   9.2,
    ""
   ],
   [
    "\u5927\u80a5\u9c7c",
    "FNegZGCW6QsruzmZBv54wCP7wAEx3LqQ4adJ5Mp6pump",
    0.043,
-   8.4,
+   9.4,
    ""
   ],
   [
-   "Mcat",
-   "51DjpRNusN3Homoc2fpferwuNrMxmTNaqzPWbsDZpump",
-   0.023,
-   9.9,
+   "LVT",
+   "GAyMGM85Cx4aSzEBmb5X46oyMg6RRhzNen9mwkDNpump",
+   0.028,
+   3.8,
    ""
   ],
   [
    "Purrcast",
    "Disu6eChUFA9znQyvXsrK27Eh9iioqFHeVR92e7hpump",
    0.022,
-   8.0,
+   9.0,
+   ""
+  ],
+  [
+   "$STESLA",
+   "3nBzzByNA5rQ8YsHGPL3Gi4dWytj8B7BzELrnapmpump",
+   0.019,
+   2.9,
    ""
   ],
   [
    "$NOTHING",
    "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
-   0.016,
-   4.6,
+   0.015,
+   5.6,
    ""
   ],
   [
    "Blackout",
    "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
    0.013,
-   4.8,
+   5.8,
    ""
   ],
   [
-   "FATFISH",
-   "DmnSGb8kG434TtAVKNvXGureRNR1GkkF8QbCcQUYpump",
-   0.012,
-   7.3,
-   "buyers=6; top5_hold_most=100%"
+   "COTUS",
+   "62pS9xc7R2doenTcS1ynP8Go7HLZYsrHt9yHvfUTpump",
+   0.008,
+   9.6,
+   ""
   ]
  ]
 }
