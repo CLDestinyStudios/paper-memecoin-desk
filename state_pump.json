@@ -6059,83 +6059,83 @@
    37.91
   ],
   [
-   "2026-10-29T08:22:55",
+   "2026-10-29T08:23:53",
    37.91
   ]
  ],
- "cycles": 1789,
+ "cycles": 1790,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.02999999999999,
- "watching": 249,
+ "sol_usd": 102.095417077,
+ "watching": 255,
  "near": [
-  [
-   "HYPERPUMP",
-   "D2LxM4Vw5p7scpi9zvUcMw5ueZVHTib6zTHw2imxpump",
-   0.607,
-   2.2,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "ELOOONG",
-   "3MWjsCc4yYJaRg3jvwrvZTFM3JfVGL6sdbdEC63Vpump",
-   0.14,
-   9.9,
-   ""
-  ],
   [
    "El purr",
    "8kaCp6qrR2LppH6A6AJRPNhDGhufys1f5cXooadipump",
-   0.128,
-   2.9,
-   "buyers=7; top5_hold_most=99%"
+   0.122,
+   3.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Dussy",
    "27JMubn7poVGSHLEDqxQyetQDKNW6E2VRhBm2uCqpump",
-   0.098,
-   3.3,
-   "buyers=4; top5_hold_most=100%"
+   0.1,
+   4.2,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "ZOPZI",
    "DdYWxX9ahP6xUjZJNxAwnBeE2YUGyy5X2aATpmzPpump",
    0.09,
-   7.7,
+   8.6,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "$NOBRAIN",
+   "AjwzApbubHuaowExXsTSSBs9475ejVrVhirvMaU1pump",
+   0.081,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "sol",
    "4qWTP8wpLibr2j9ryAhJirPBYJ85Hx5HC5zYwz1gpump",
    0.08,
-   6.5,
+   7.5,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "TAHOE",
+   "G1itSqotvfQ6tHyotkUtTGPC5ffUX4JQeauKr8H9pump",
+   0.064,
+   2.3,
+   ""
   ],
   [
    "Chill",
    "AMRHQ4zdD8ApE4bNvwV2P6efVf7QBZz4b6396oaCGCpm",
    0.044,
-   6.5,
+   7.5,
    ""
   ],
   [
    "Float",
    "B5xuZ62fYXbrGN5FjUicc1HxZddHz2DeZtwFUNb56myu",
    0.043,
-   4.1,
-   ""
-  ],
-  [
-   "ts23",
-   "C5bjxqGxyS2VPreLNUPSd5G2hbbc4TWveFhBwyM7toLd",
-   0.043,
-   3.4,
+   5.1,
    ""
   ],
   [
    "ELOOONG",
    "5DV8k2qFV3XQdrf3BakPg7P1MgGNnq8zUjjuEoNapump",
    0.042,
-   8.7,
+   9.7,
+   ""
+  ],
+  [
+   "slop",
+   "28nTH7apr3Z5Avk76X9DKXh7EHhGWufKD7kqwGq3C3Cn",
+   0.039,
+   8.8,
    ""
   ]
  ]
