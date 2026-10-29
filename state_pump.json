@@ -15,7 +15,7 @@
    "opened": 1793277382.7304814,
    "last_px": 3.357940476511299e-08,
    "peak_px": 3.7610929740441486e-08,
-   "last_val": 1.2990201220844908,
+   "last_val": 1.2998606796765646,
    "last_prog": 0.118
   }
  },
@@ -5456,83 +5456,83 @@
    57.15
   ],
   [
-   "2026-10-29T05:38:22",
+   "2026-10-29T05:39:22",
    57.15
   ]
  ],
- "cycles": 1625,
+ "cycles": 1626,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.33465689600001,
+ "sol_usd": 100.39958049199998,
  "watching": 146,
  "near": [
   [
-   "Beamish",
-   "BCU9agqgxJMnjEGaFJjzhb4DeFcgci4gQQQcBgsJpump",
-   0.484,
-   2.7,
-   "serial_creator=10 launches/24h"
+   "Susie",
+   "ANdPhuEpk2AzoBiAg1Z1hzUeX98NLKysxoDLGR2ypump",
+   0.941,
+   2.6,
+   ""
   ],
   [
    "NICEHAT",
    "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
    0.287,
-   8.2,
+   9.2,
    "top5_hold_most=89%"
+  ],
+  [
+   "Absorb",
+   "9Af63ao21KjuPS6SHNYFekq5GcT3tEsWSpBFnKh2pump",
+   0.209,
+   2.9,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "commando",
    "3XpEtxi732V2wyWoyfWPzjqzCW5xxyQCdCBxoCripump",
-   0.202,
-   3.9,
-   "top5_hold_most=83%"
-  ],
-  [
-   "Q&E",
-   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
-   0.126,
-   4.6,
-   ""
+   0.193,
+   4.9,
+   "top5_hold_most=87%"
   ],
   [
    "BTS",
    "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
    0.118,
-   5.0,
+   6.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Pedos",
    "AjG5Zigb1g2WvSH9ue5JReZzZpiU8WQm8gvYWk1Qpump",
    0.114,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "MHGA",
-   "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
-   0.044,
-   8.7,
-   "buyers=5; top5_hold_most=100%"
+   "Q&E",
+   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
+   0.102,
+   5.6,
+   ""
   ],
   [
    "HAIL",
    "HiRSfSfeZre7mnKE8aJi3B1hqX3NTB4E8BmLVZZcpump",
    0.044,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "Wan",
-   "3ttCnAidi9QWUhJRDCR2edGqCzUe7N22RgwsBY8vpump",
-   0.028,
-   3.2,
-   ""
+   "MHGA",
+   "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
+   0.043,
+   9.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "CHALOWEEN",
-   "DzZ1U4y6WyazymWDvnGDXexsvw8QBs18KRkTM591pump",
-   0.015,
-   4.2,
+   "Susie",
+   "D65CyJtqTntgB4tC9uvbvj7vH8ngwM7t3K53BVdgpump",
+   0.038,
+   2.2,
    ""
   ]
  ]
