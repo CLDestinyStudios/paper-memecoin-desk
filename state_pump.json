@@ -6398,83 +6398,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:13:54",
+   "2026-10-29T12:14:56",
    32.58
   ]
  ],
- "cycles": 2020,
+ "cycles": 2021,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.30204228,
- "watching": 243,
+ "sol_usd": 100.20857333899998,
+ "watching": 241,
  "near": [
-  [
-   "Lily",
-   "8PLFUxaRXxzakrMXL7r47b7v3SaP79XVPv4fWXVupump",
-   1.0,
-   6.9,
-   "graduated"
-  ],
   [
    "CROWD",
    "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
-   0.908,
-   7.1,
+   0.978,
+   8.1,
    ""
   ],
   [
    "SI",
    "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
-   0.767,
-   8.1,
+   0.606,
+   9.2,
+   ""
+  ],
+  [
+   "Rise",
+   "ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump",
+   0.58,
+   3.0,
    ""
   ],
   [
    "Mali",
    "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
-   0.544,
-   7.8,
+   0.486,
+   8.8,
    ""
   ],
   [
-   "COPYCAT",
-   "8Tw8bKh2HbQevwh4sfSoULKBRDPy29qXYHpGyJ6Dpump",
-   0.342,
-   2.4,
-   "bundled_launch=7 extra buys in creation block"
+   "invest",
+   "CJnnvownetihvjwK7W9qQinFKcjJ84m2qdkFAnZGpump",
+   0.281,
+   3.0,
+   "top5_hold_most=90%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "Lily",
    "6UXb21zaayGa9FSxRMaJq7zZjQgDS8pnfK7DeH5Apump",
-   0.194,
-   8.6,
-   ""
-  ],
-  [
-   "HOKO",
-   "9gmGrkpErnLgdUWkzH17xHxZa4MmZ3qKu3CUNCe8pump",
-   0.136,
-   2.6,
-   "buyers=6; top5_hold_most=88%"
-  ],
-  [
-   "Puri cat",
-   "6KdtvnKtP1qXPmenkfYL8YikttCn3mqHGpDEse7Fpump",
-   0.086,
-   2.3,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   0.191,
+   9.6,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SI",
    "HRFiuhw5gkyGV2z4H29Q9M4o5m1zwqXCf41g1z6opump",
    0.084,
-   5.9,
+   7.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "EVEREST",
    "8re6E9YTguz8nTgLXqVXqnHrfKo6cahkXrAuwcRaAKSj",
    0.073,
-   2.7,
+   3.7,
+   ""
+  ],
+  [
+   "AtlasPad",
+   "4ZYjp7nS7EgtJmy7PxmoVdNS9nTZyVDMgPvBQzP7pump",
+   0.047,
+   7.5,
+   ""
+  ],
+  [
+   "REKT",
+   "34Q8BgSU2VdYSmZCk84aGaMDbuNJq96ey7uiJA3ypump",
+   0.039,
+   5.9,
    ""
   ]
  ]
