@@ -6466,84 +6466,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:48:02",
+   "2026-10-29T14:49:04",
    32.58
   ]
  ],
- "cycles": 2174,
+ "cycles": 2175,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.96,
- "watching": 323,
+ "sol_usd": 96.98241993570001,
+ "watching": 315,
  "near": [
-  [
-   "karma",
-   "D2f3W2SCYZcz7kSH6HiErQR5Ui4Hm8vMh62XtBCTpump",
-   0.656,
-   2.3,
-   "bundled_launch=8 extra buys in creation block"
-  ],
   [
    "ABC",
    "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
    0.634,
-   4.6,
+   5.7,
    ""
   ],
   [
-   "Cyber",
-   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
-   0.543,
-   7.2,
-   ""
-  ],
-  [
-   "cuz",
-   "FwFeBW1gVYY9Pv1fCPqgMJZ9YWR4DgU2URWLmfmHpump",
-   0.363,
-   2.6,
-   "buyers=9; top5_hold_most=83%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "Sakura",
-   "9BupfsbAnAmyDZT17dtrRvmRgdvCt6oDjnPhcbTBibyJ",
-   0.36,
-   2.2,
-   ""
-  ],
-  [
-   "NINO",
-   "HCeDBTuoJD73QWYB8dkGJEvaCKU1Jqj9uKJ5MaW4u71E",
-   0.316,
-   3.4,
-   "serial_creator=6 launches/24h"
-  ],
-  [
-   "Sakura",
-   "H76vRpPL2SbicJHv49GdhcbTzgWrTiVyCyDAHkcUpump",
-   0.275,
-   6.8,
-   ""
+   "MeiMei",
+   "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump",
+   0.417,
+   2.4,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "CSI",
    "6qRgKi1KzdknadpCRoyc5siDhSkiUKUs926ZMJD7pump",
    0.248,
-   8.5,
+   9.5,
    "top5_hold_most=86%"
   ],
   [
-   "THREADGUY",
-   "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
-   0.149,
-   6.9,
+   "Cyber",
+   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
+   0.199,
+   8.3,
+   ""
+  ],
+  [
+   "QUANTUM",
+   "abXs3qeKMo1ck4bZ3hf84Ei4WzgX1wDnP7Y4nivpump",
+   0.173,
+   6.7,
    ""
   ],
   [
    "safu",
    "4yGXKiS9XwqGAcqn6yTyYzFZhT9nzwQeBsEELpf9pump",
-   0.13,
-   7.5,
-   "buyers=8; top5_hold_most=90%"
+   0.147,
+   8.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "hack",
+   "9iNL3oEE8uSmbLHLkLVQiLGbMWiDrDD9oKsshjsGpump",
+   0.123,
+   7.8,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PICARDCOIN",
+   "6xNdELzLQVkfs1LcGTKq4AYMz8vE4ENCZyVdqL4Rpump",
+   0.103,
+   6.3,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "HI",
+   "2iy6YoYNpCXSGEVRTRDZD3VgfeACcLUD9Zmr7b4Lr8o6",
+   0.066,
+   8.6,
+   ""
+  ],
+  [
+   "THREADGUY",
+   "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
+   0.066,
+   8.0,
+   ""
   ]
  ]
 }
