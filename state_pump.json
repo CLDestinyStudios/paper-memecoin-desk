@@ -4543,83 +4543,83 @@
    79.96
   ],
   [
-   "2026-10-29T00:32:06",
+   "2026-10-29T00:33:06",
    79.96
   ]
  ],
- "cycles": 1319,
+ "cycles": 1320,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.74000000000001,
- "watching": 141,
+ "sol_usd": 99.708655361,
+ "watching": 142,
  "near": [
+  [
+   "AIRO",
+   "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
+   0.151,
+   3.6,
+   "buyers=5; top5_hold_most=100%"
+  ],
   [
    "KONY",
    "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
-   0.161,
-   2.6,
-   "buyers=5; top5_hold_most=100%"
+   0.115,
+   3.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "UPTOOMUCH",
+   "3oPTTeF6PMWtgWv6XmxgVPTi1xYtyazW8A7AVH2Dpump",
+   0.076,
+   3.0,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "BABYFURY",
    "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
-   0.135,
-   3.8,
-   "buyers=9; top5_hold_most=98%"
-  ],
-  [
-   "PSYOP",
-   "GRzGoLNkQAcUnRoGFU6hFNaAB4eu1oqFvUBhYsU4pump",
-   0.073,
-   3.0,
-   ""
-  ],
-  [
-   "AIRO",
-   "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
-   0.066,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
+   0.057,
+   4.8,
+   "buyers=8; top5_hold_most=97%"
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.044,
-   5.7,
-   ""
-  ],
-  [
-   "TRENDI",
-   "AHuicBRzvWjgXetmF5FNmeBc5YsSnJzSyZWTez2wpump",
-   0.044,
-   2.5,
+   6.7,
    ""
   ],
   [
    "MARCEL",
    "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
    0.044,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "dose",
-   "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
-   0.036,
-   7.5,
-   "top5_hold_most=93%"
+   "TRENDI",
+   "AHuicBRzvWjgXetmF5FNmeBc5YsSnJzSyZWTez2wpump",
+   0.044,
+   3.5,
+   ""
+  ],
+  [
+   "SSP",
+   "HLT9VXgeSPwCPeE8cUbY53sks6wb7dRYNX9y36YGpump",
+   0.033,
+   2.6,
+   ""
   ],
   [
    "VOPE",
    "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
    0.025,
-   3.3,
+   4.3,
    ""
   ],
   [
-   "67coin",
-   "HpjUhQmLVDKx2CVo4wdd2AFQmjVDdCVocHxmmqtxpump",
-   0.022,
-   4.4,
+   "Solana ",
+   "EL7vbn4MbuyMzkfdK1uTAiwyQ7zQC2vwmKWzJKHqpump",
+   0.025,
+   2.2,
    ""
   ]
  ]
