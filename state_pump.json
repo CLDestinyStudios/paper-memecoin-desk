@@ -13,10 +13,10 @@
    "entry_px": 3.488566094122119e-08,
    "entry_fill": 3.772598812455949e-08,
    "opened": 1793264843.486543,
-   "last_px": 3.685347434523856e-08,
+   "last_px": 3.668466790464499e-08,
    "peak_px": 3.685347434523856e-08,
-   "last_val": 1.8853641177222122,
-   "last_prog": 0.175
+   "last_val": 1.8792431316812912,
+   "last_prog": 0.172
   }
  },
  "traded": [
@@ -4740,81 +4740,85 @@
   [
    "2026-10-29T02:08:21",
    69.62
+  ],
+  [
+   "2026-10-29T02:09:20",
+   69.61
   ]
  ],
- "cycles": 1415,
+ "cycles": 1416,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3,
- "watching": 113,
+ "sol_usd": 100.44656022649998,
+ "watching": 111,
  "near": [
-  [
-   "TRUST ME",
-   "GTx93KWNw48wM5iDmD4PfEscfpPg3XE6vUmXJZ6spump",
-   0.351,
-   2.6,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "FATINU",
    "3w6hfxoeDwKdPQSU91myCUWMgaUbmhQxy7TKBEzKpump",
-   0.081,
-   3.9,
+   0.082,
+   4.9,
    ""
   ],
   [
    "SI",
    "AFxZf2V8ZCuPSb7V8v8TBmRzFK315Sc5YXP9WC3pcvRJ",
    0.075,
-   3.1,
+   4.0,
    ""
   ],
   [
-   "LESCAR",
-   "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
-   0.055,
-   5.9,
+   "FATINU",
+   "7GCSR9ci8AY5hnb6nR7m1uyB98FawSb48ierTi9opump",
+   0.07,
+   2.2,
    ""
   ],
   [
    "DrawFi",
    "8kdQXfYwywA3GP2MD6iv7fa83tmwj3VkUFu6sKpNpump",
    0.043,
-   2.1,
+   3.1,
    ""
   ],
   [
    "STL",
    "6g3ziZ6niLVzMF55AHP5zLfqsLd5MbXfmHja3PNwayui",
    0.036,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
    0.034,
-   6.7,
+   7.7,
+   ""
+  ],
+  [
+   "LESCAR",
+   "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
+   0.034,
+   6.9,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   8.4,
+   9.4,
    ""
   ],
   [
    "AC",
    "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
    0.022,
-   7.8,
+   8.7,
    ""
   ],
   [
    "ZET",
    "GcWpUT5BxTkkKwyKqakGYccgZmeJ5NyVpz3srNmHpump",
    0.022,
-   3.0,
+   4.0,
    ""
   ]
  ]
