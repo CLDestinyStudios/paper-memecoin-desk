@@ -15,7 +15,7 @@
    "opened": 1793261106.8150942,
    "last_px": 4.22105562373859e-08,
    "peak_px": 4.22105562373859e-08,
-   "last_val": 2.1712015325248624,
+   "last_val": 2.1703884110385965,
    "last_prog": 0.252
   }
  },
@@ -4674,83 +4674,83 @@
    74.12
   ],
   [
-   "2026-10-29T01:15:05",
+   "2026-10-29T01:16:06",
    74.12
   ]
  ],
- "cycles": 1362,
+ "cycles": 1363,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.88740813394999,
- "watching": 152,
+ "sol_usd": 99.85000000000001,
+ "watching": 150,
  "near": [
+  [
+   "Peace",
+   "83Tm7q5rCW6powHdExdSwMsCKDXkE642Hs3C87t1pump",
+   0.539,
+   2.5,
+   ""
+  ],
   [
    "DEER",
    "9t1LTuwBrGK7QwPQp5KwppMDoGpCgCSpKCY1vdWtpump",
-   0.391,
-   6.4,
-   ""
+   0.48,
+   7.5,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "404",
    "5zYqxHrNDunLg8LGhLGfHJYUXKem93Z8doenMD55pump",
-   0.179,
-   6.2,
-   ""
+   0.287,
+   7.3,
+   "serial_creator=6 launches/24h"
   ],
   [
    "NATURE",
    "299rpq3q4k9s2uPowz1CAUktdEhpgPZUpD5Acz8Spump",
    0.121,
-   3.7,
+   4.7,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "QFLIP",
    "EJa9YSKBnjb82mESTvSzxVWELM4b94ZqvTPaiHZBpump",
    0.064,
-   5.9,
+   6.9,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "PUMPV2",
-   "7McgHdTFF9PpZDfBfwuvQbC86snEbrJKvwzvEir6pump",
-   0.056,
-   2.5,
-   ""
   ],
   [
    "ALLIN",
    "CmsxrvU3MeR6u3UMGn17rDmskDKo2hWcJoaTXDRwpump",
    0.042,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "PUMPV2",
+   "7McgHdTFF9PpZDfBfwuvQbC86snEbrJKvwzvEir6pump",
+   0.04,
+   3.5,
    ""
   ],
   [
    "ECAT",
    "6WTna7SqrPMCWPctPEnGkuBGK9upjFMKV3svYEU9pump",
    0.035,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "ket",
+   "4MB9gH8XtfMVHQhxCFX1DF4G7D7rumTuc3NiHQ8Ye3vf",
+   0.028,
+   2.5,
    ""
   ],
   [
    "PI",
    "CZN6NGPeL5Vqx3Tnj1LusCwyzxA8W1SUvDwhB9CHpump",
    0.022,
-   5.2,
-   ""
-  ],
-  [
-   "SGM",
-   "2WtUSCz98a1HJ1mWFqUEpa6gv6qxAhwJQNwxzrZKpump",
-   0.022,
-   5.0,
-   ""
-  ],
-  [
-   "404",
-   "7V9LqxSU16vvzLWZ3knArccibixXwNyFbbiHR12vpump",
-   0.02,
-   8.8,
+   6.2,
    ""
   ]
  ]
