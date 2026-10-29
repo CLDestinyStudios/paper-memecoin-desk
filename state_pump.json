@@ -6458,84 +6458,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:28:04",
+   "2026-10-29T14:29:01",
    32.58
   ]
  ],
- "cycles": 2154,
+ "cycles": 2155,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.04000000000002,
- "watching": 404,
+ "sol_usd": 97.11245504470001,
+ "watching": 398,
  "near": [
   [
-   "BOTTOM",
-   "5ixzNp3xhH8RZ8aCSLrkJp34yparohTGH2RkypCC3ont",
-   0.47,
-   2.1,
+   "HASH",
+   "AidGuStzEAzh9GxpSMvguz4egFhRNP67ZX3fy8vrpump",
+   0.464,
+   2.9,
    ""
   ],
   [
    "SCAM",
    "Ah5HXGPVi4H1hWFNQgxz4vJtuNVGZVzBbtbsCdHppump",
-   0.436,
-   4.8,
-   "buyers=4; creator=28.7%; top5_hold_most=100%"
+   0.461,
+   5.8,
+   "buyers=5; creator=28.7%; top5_hold_most=100%"
+  ],
+  [
+   "BOTTOM",
+   "5ixzNp3xhH8RZ8aCSLrkJp34yparohTGH2RkypCC3ont",
+   0.389,
+   3.1,
+   ""
+  ],
+  [
+   "Trunoest",
+   "DQQQ6epoDu8YMZezTj3aEa5JJEkGT3v67qHv2LEApump",
+   0.369,
+   7.9,
+   ""
   ],
   [
    "commotitty",
    "9GEEthkyuuESdsmXTqbKpCvwyPaWNotQVYEmrhdFpump",
-   0.203,
-   5.3,
+   0.273,
+   6.3,
    ""
   ],
   [
-   "POKE",
-   "H5UjHuNexhMb6PQBmjc7Knkn5L8n31wrddZg7Gwipump",
-   0.193,
-   4.4,
-   "buyers=9; top5_hold_most=99%"
+   "CRL",
+   "3TENsrRkyA96MYPrvwT5irx2E1mqfypzkh6H556kpump",
+   0.226,
+   2.7,
+   ""
+  ],
+  [
+   "KSLAY",
+   "DF88Kav9LYXuHHs5bHJejKamBWNNwKPe9pjZAKdkpump",
+   0.222,
+   3.0,
+   ""
   ],
   [
    "SPX6900",
    "7zujveTdAchf6yKNzz8B5nK9yWMNKWLyQwgVS5zUpump",
-   0.138,
-   8.6,
+   0.136,
+   9.6,
+   ""
+  ],
+  [
+   "GAS",
+   "8ucUyfW4mpZex2aWdj9fJx416U8RZ8VxCgx1ASu6pump",
+   0.119,
+   5.6,
    ""
   ],
   [
    "CI",
    "ATxt8A4EhkXyn2vYWYNttbkY14nK4oomSm2H1LjKpump",
    0.115,
-   7.0,
+   7.9,
    ""
-  ],
-  [
-   "LEDGER",
-   "EBXt38MB9EiLLrJhYkNm1GfpFVaZokPhYK5Xwphepump",
-   0.084,
-   2.1,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "GAS",
-   "8ucUyfW4mpZex2aWdj9fJx416U8RZ8VxCgx1ASu6pump",
-   0.081,
-   4.6,
-   ""
-  ],
-  [
-   "fiat",
-   "4GZMoyqJVnkSLgyk8XTqkQ9XLPqt7i4ZApECYHF9pump",
-   0.071,
-   5.0,
-   ""
-  ],
-  [
-   "safe",
-   "5eTZVvwuyJT1JRizSwon91VXjBKpha5WWDUiK1mEpump",
-   0.068,
-   2.3,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
