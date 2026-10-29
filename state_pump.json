@@ -13,10 +13,10 @@
    "entry_px": 3.5692556135273145e-08,
    "entry_fill": 3.824648708147207e-08,
    "opened": 1793243044.532474,
-   "last_px": 3.8089192833709105e-08,
+   "last_px": 3.7980825566411774e-08,
    "peak_px": 3.8089192833709105e-08,
-   "last_val": 3.1722720632765085,
-   "last_prog": 0.194
+   "last_val": 3.1597224850479493,
+   "last_prog": 0.192
   },
   "5qc24MU4dVUzQUH9YmCciSPdAVWf46yNo3duiGZkpump": {
    "sym": "Lingo",
@@ -27,10 +27,10 @@
    "entry_px": 5.543982874490995e-08,
    "entry_fill": 5.9401561489516236e-08,
    "opened": 1793243164.7315204,
-   "last_px": 5.370627271199007e-08,
-   "peak_px": 5.543982874490995e-08,
-   "last_val": 2.8540191583624788,
-   "last_prog": 0.377
+   "last_px": 6.194058775383249e-08,
+   "peak_px": 6.194058775383249e-08,
+   "last_val": 3.295543996300937,
+   "last_prog": 0.444
   }
  },
  "traded": [
@@ -3865,81 +3865,85 @@
   [
    "2026-10-28T20:07:03",
    112.3
+  ],
+  [
+   "2026-10-28T20:08:04",
+   112.73
   ]
  ],
- "cycles": 1054,
+ "cycles": 1055,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.89,
- "watching": 222,
+ "sol_usd": 99.7830548043,
+ "watching": 230,
  "near": [
   [
    "BIO/ACC",
    "CR3WXpY8YQbiLpyxfipYyrf7JpxzSG4nybEesR3Qpump",
-   0.629,
-   4.1,
+   0.752,
+   5.1,
    ""
+  ],
+  [
+   "Pumpkinu",
+   "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump",
+   0.701,
+   2.8,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "BIO/ACC",
    "Dpq5dptoBa2q3Xz5gCDQakDJ7AdYhTB3eJUvmNZ3pump",
-   0.33,
-   5.8,
+   0.375,
+   6.9,
    ""
+  ],
+  [
+   "MIMI",
+   "BVn6nSfEyuJ937JtzE98sFoksTnU7VscM7HEtAxjpump",
+   0.342,
+   2.2,
+   "serial_creator=7 launches/24h"
   ],
   [
    "NBMF",
    "J2gmPqq56X2c8AMfXo2QchcrdyhMuUNhCLKHMF7ipaid",
-   0.119,
-   3.0,
+   0.163,
+   4.0,
    ""
   ],
   [
    "STENCH",
    "Hju3iXoMx4FkTAEzaLErZVDMw6Frv2G5Yt7y23gFpump",
    0.071,
-   4.1,
+   5.1,
    ""
   ],
   [
    "CRINGE",
    "52fczyhnZz6ZXAuS6uGdSMAnF5jXaapaVckevXbLpump",
    0.05,
-   4.7,
+   5.7,
    ""
   ],
   [
    "e\u02e3",
    "4gDb8xaqxMQzzAGfbw79ZsNv98jxz6YELQBpbedepump",
    0.042,
-   3.4,
+   4.4,
    ""
   ],
   [
    "BIO/ACC",
    "3QzJjRYaJmwmjievzZwX5yXa6aTTK8tt1NdbLzrBYuGx",
    0.042,
-   3.4,
+   4.5,
    ""
   ],
   [
-   "HAKIMI",
-   "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump",
-   0.036,
-   8.9,
-   ""
-  ],
-  [
-   "SUPERHUMAN",
-   "Atjp5HadzrPxmoc2LGGZp4NLaK3vRkHgxj9h8DyPpump",
-   0.033,
-   5.3,
-   ""
-  ],
-  [
-   "BIO/ACC",
-   "HppcNutjrJg8HYK7e9d4WzJcLnepZCNdaMmWnPrpump",
-   0.031,
-   5.5,
+   "PluTO$",
+   "C87HcLY7dPLVU7LyeyakPPS3Y55Hdi4D5ytQjNApump",
+   0.037,
+   2.1,
    ""
   ]
  ]
