@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 113.52798178647859,
+ "cash": 109.93798178647859,
  "positions": {
   "CAX6NZNJfe37SKNbYy6yYU6xAcYhiz4HUjAebnx9pump": {
    "sym": "PaperPump",
@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.3722046198148403e-07,
-   "peak_px": 1.3722046198148403e-07,
-   "last_val": 2.7282407039920558,
-   "last_prog": 0.742,
+   "last_px": 1.3764783337357352e-07,
+   "peak_px": 1.3764783337357352e-07,
+   "last_val": 2.7369894056287105,
+   "last_prog": 0.743,
    "tp1_done": true,
    "realized": 0.7659854280569913
   },
@@ -29,10 +29,24 @@
    "entry_px": 8.430931760075574e-08,
    "entry_fill": 9.027448096830748e-08,
    "opened": 1793234511.3432598,
-   "last_px": 8.090378291368249e-08,
-   "peak_px": 8.430931760075574e-08,
-   "last_val": 2.997612583771562,
-   "last_prog": 0.558
+   "last_px": 9.268337435410598e-08,
+   "peak_px": 9.268337435410598e-08,
+   "last_val": 3.441456921192305,
+   "last_prog": 0.61
+  },
+  "G2idUQHxexGUwLjgXYQ7mm1rjfvEEAinuacomyZfpump": {
+   "sym": "PROJAGENTS",
+   "bc": "5sYZZpgfy9TtgvGLuF3NQ39wKCnHd2CAH1TfLnZ8umyj",
+   "tokens": 617526.9298807526,
+   "cost": 3.59,
+   "cost0": 3.59,
+   "entry_px": 5.322511963878149e-08,
+   "entry_fill": 5.700080055200392e-08,
+   "opened": 1793234630.8425965,
+   "last_px": 5.322511963878149e-08,
+   "peak_px": 5.322511963878149e-08,
+   "last_val": 3.124370761470385,
+   "last_prog": 0.372
   }
  },
  "traded": [
@@ -262,7 +276,8 @@
   "9UdG82xovfebsCXmnFNcajjbdKQ4kW8wLYdw9Ajvpump",
   "GDsapcu4GJXeLF52p2sY3toSmjZn2eirhyhgNoscpump",
   "HE8NpCJR84V3V2SrCDECL488Mh2oqCWtmQHzmXMjpump",
-  "6ufeVaW78uhhTVRgk16ruB7GbPJn7X4Tzdi9487ppump"
+  "6ufeVaW78uhhTVRgk16ruB7GbPJn7X4Tzdi9487ppump",
+  "G2idUQHxexGUwLjgXYQ7mm1rjfvEEAinuacomyZfpump"
  ],
  "equity": [
   [
@@ -3444,82 +3459,86 @@
   [
    "2026-10-28T17:42:49",
    119.25
+  ],
+  [
+   "2026-10-28T17:43:50",
+   119.24
   ]
  ],
- "cycles": 910,
+ "cycles": 911,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.98647155,
- "watching": 353,
+ "sol_usd": 101.98999999999998,
+ "watching": 341,
  "near": [
   [
-   "DUBBLE",
-   "BGpPt4AbeNmhfat4FmvB79v9dV8aHomyfzXmwNzypump",
-   0.764,
-   9.6,
+   "Dill",
+   "7X9N8rJ3AsMHHT8jtLs38thybK4Wr2bEx39k4moLpump",
+   0.907,
+   2.1,
    ""
   ],
   [
-   "\ud835\udd4f CARD",
-   "VYyDWCKx3eaZFZYCbJzTHuPatWV6gFQDNd68ermpump",
-   0.278,
-   3.0,
-   "serial_creator=16 launches/24h"
+   "WARDOG",
+   "2yZyDmMj6PD1LFh8TpeeezHhDcfS4uWsPvNddKh6pump",
+   0.807,
+   2.9,
+   ""
+  ],
+  [
+   "PROJAGENTS",
+   "G2idUQHxexGUwLjgXYQ7mm1rjfvEEAinuacomyZfpump",
+   0.372,
+   2.5,
+   "bought"
   ],
   [
    "Dill",
    "Hwmh6JDgAZMZ7LvibNM9QLRhAY6ndz3WogK7LSVHpump",
-   0.144,
-   2.8,
+   0.2,
+   3.8,
    ""
   ],
   [
    "ACC",
    "79uZNmJRMiZcKftXXWe4paJpXXf6iSaidicWri7Npump",
-   0.111,
-   3.2,
-   ""
+   0.17,
+   4.2,
+   "top5_hold_most=88%"
   ],
   [
-   "CLYDEFROG",
-   "4iPJyvV4PcFtoWHuy6MLo2ynrQ8GkxqvMoehKzVFKhDJ",
-   0.086,
-   9.8,
-   ""
+   "EVON",
+   "8duRZhzk4tCmPEBXP2XvXAeJzVhdUJZxRB6fbzzbpump",
+   0.128,
+   2.6,
+   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Dill",
-   "JUWHVUPdfkqpDN5vm4d5zRCiXicrJEv1jJfvGVdpump",
-   0.057,
-   3.1,
+   "A2xoSXx5LHkmFwVhPgM8annmthvyKQGErNnDP2pApump",
+   0.093,
+   2.4,
+   ""
+  ],
+  [
+   "Max",
+   "4HRmdr2EheNV6Vo69FYPcNZpGMuFPZMHXBQYLJtZpump",
+   0.071,
+   2.2,
+   ""
+  ],
+  [
+   "TRENCHER",
+   "FTzNnKyMXHFDmE2c42wdzsWnwWD4U4qLvVJedsGvpump",
+   0.063,
+   2.5,
    ""
   ],
   [
    "DRAKKAN",
    "CY52udK7XooR14JaDoajdy4QWkx9hicH9ZpPxAF7pump",
    0.054,
-   5.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "BIO",
-   "ArisyS7rZxdAoYekbG2nB9PM9jrEtr1p5xaWBabHpump",
-   0.045,
-   5.8,
-   ""
-  ],
-  [
-   "BIO",
-   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
-   0.029,
-   6.6,
-   ""
-  ],
-  [
-   "DEGEN",
-   "4Dr8dF9xXKRChmMeZQxUjWGVPazGgCqDwo4C6dabpump",
-   0.028,
-   2.1,
-   ""
+   6.5,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
