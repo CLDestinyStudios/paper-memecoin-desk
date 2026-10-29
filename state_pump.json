@@ -6486,84 +6486,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:35:16",
+   "2026-10-29T15:36:12",
    32.58
   ]
  ],
- "cycles": 2221,
+ "cycles": 2222,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.4,
- "watching": 379,
+ "sol_usd": 97.2443311885,
+ "watching": 415,
  "near": [
   [
-   "NULL",
-   "HFrri95vJf2pEeCi5Db1Cqtw52V5vhsRUgcAVgSYpump",
-   0.611,
-   6.9,
-   "bundled_launch=6 extra buys in creation block"
+   "ZERODAY",
+   "CQG3nVqKMquWsV5h1jzPrZZKm2DroQcHg6Y42Znhpump",
+   1.0,
+   2.4,
+   "graduated"
   ],
   [
-   "NGMI",
-   "AfKERTVN3hQnixsgkHCCrCCU4gPZHCr7xbgdpwrypump",
-   0.309,
-   3.7,
-   "rugcheck=creator history of rugs"
+   "ZERODAY",
+   "AJvBnYDtMtY69TQyDnLW98nT6vb3ngaqqNRjRfdTpump",
+   1.0,
+   2.4,
+   "graduated"
   ],
   [
-   "HEIST",
-   "Go545BPuCyG8NitmxzqEJWF1Lf8pTcxLi7xjsVQ3pump",
-   0.137,
-   3.0,
+   "ZERO",
+   "7jve7W967Ub8kAKqsn2RiJzKsXDYWvE8kMq8Uyqjpump",
+   0.238,
+   2.7,
    ""
   ],
   [
-   "ser",
-   "FFra4nVgcPMP2NTtrxC3HoDj6yBBBPytSBJmQEKspump",
-   0.135,
-   2.9,
+   "ZERODAY",
+   "5QbvqXka2oWY7VVgwDb94wdknJHQxv8YT2C2uketfRgC",
+   0.152,
+   2.6,
    ""
+  ],
+  [
+   "HACKCRYPTOUP",
+   "GoVUcoZ6YrjeMhwGP5f8Ptm97pYEG3si4p4Upm6cpump",
+   0.128,
+   2.8,
+   "buyers=6; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "ZERODAY",
+   "8enQ4rMhndsi8tvUy2hZq2KQmoySRhTXtqgt1oxAmQYH",
+   0.121,
+   2.7,
+   ""
+  ],
+  [
+   "ZERODAY",
+   "5CU636XznBaHu1x9eWDLCEQ1HRYr6cNhdKSZUNTQpump",
+   0.118,
+   2.6,
+   "buyers=3; top5_hold_most=100%; bundled_launch=10 extra buys in creation block"
+  ],
+  [
+   "ZERODAY",
+   "DosTRTr5Fot2izXjoRYxUKc9oyUzpdBeq76ENdzWpump",
+   0.118,
+   2.4,
+   "buyers=3; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "FINE",
    "38c3iyXzwm9hUKEXMHJY6ZgHdTkZtBMpcc4VYxWepump",
    0.11,
-   4.0,
+   4.9,
    ""
   ],
   [
-   "Retail",
-   "44VVBZ93A4Co6denekauPXyW5B7qmuMwfFgMWSgmpump",
-   0.089,
-   4.6,
+   "ZERODAY",
+   "2PPrrJu1ZwLDS6h3Pf7VqMs96gxpP4bdVhFcFwmCpump",
+   0.103,
+   2.2,
    ""
-  ],
-  [
-   "Melonie",
-   "5gb81PkrXrrP5oY1PGHfJQdV5mkSYJTMrh3U8cwfpump",
-   0.086,
-   9.6,
-   ""
-  ],
-  [
-   "BUPP",
-   "MCi4EGTKKmSiKybHdMJRqsHY5z6UpjAtHUd1Lwwpump",
-   0.08,
-   4.7,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "GOONCOIN",
-   "ErYzQRejkT4CDoN6hFQuneZ44SGB9Hoz1ZmGnfSivt6v",
-   0.077,
-   10.1,
-   ""
-  ],
-  [
-   "SAFE",
-   "259WfcDxi8ZTDcDfkXN41TqM2XLxucYsLFfXEMHvpump",
-   0.076,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
