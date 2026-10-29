@@ -6434,83 +6434,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:37:03",
+   "2026-10-29T13:38:01",
    32.58
   ]
  ],
- "cycles": 2103,
+ "cycles": 2104,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.8,
- "watching": 347,
+ "sol_usd": 98.4905431671,
+ "watching": 365,
  "near": [
   [
    "Surgeon",
    "5VWd2CTKSnvzyZkLKmaJsuB9rX2ZR1haePgzDKXcpump",
-   0.557,
-   4.0,
+   0.581,
+   5.0,
    ""
   ],
   [
    "NOCTO",
    "2WpzJcqjhxyNuXF5Pb5z1N6q5t3tEpZTteX1METuEVkC",
-   0.54,
-   3.1,
+   0.418,
+   4.1,
    ""
+  ],
+  [
+   "BYENANCE",
+   "5bbJHtxtSVm8P3hPVFt9wuetfXHLnM8Re3ewFsEZpump",
+   0.225,
+   2.1,
+   "serial_creator=16 launches/24h"
   ],
   [
    "AlArab",
    "5nneAWLVDnHHvnDQvEEdnVQKDf1CKdo8b8f9ht2jpump",
    0.217,
-   2.3,
+   3.2,
    "top5_hold_most=84%"
   ],
   [
-   "OZVAG",
-   "2TN65HobeBDdk9M4dZddSmmEoQ9AahEryAis2en437cu",
-   0.163,
-   7.3,
+   "$TRENCHMAS",
+   "HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump",
+   0.165,
+   7.8,
    ""
   ],
   [
    "HP",
    "DEgJZDpWfaDjwVXHr8kiGeHs6C7hnH2YAwfkqAZ2pump",
    0.162,
-   5.1,
+   6.0,
    ""
   ],
   [
    "DK",
    "3em12Qpg4SaY5Yqj1vixpeVusrRboJCk2sKStUxspump",
-   0.142,
-   4.2,
+   0.159,
+   5.1,
    "buyers=9; top5_hold_most=81%"
   ],
   [
    "BUNANCE",
-   "5bagm12y19GYdHMVvRd9uufwfw59PcrnhaZCjLctpump",
-   0.14,
-   2.1,
-   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "4iNPyYAnJuAgdT3bpuaAfh67kBCGDzuL77DmLziXpump",
+   0.15,
+   4.1,
+   ""
+  ],
+  [
+   "OZVAG",
+   "2TN65HobeBDdk9M4dZddSmmEoQ9AahEryAis2en437cu",
+   0.15,
+   8.3,
+   ""
   ],
   [
    "Invest",
    "GzRwdjt2EKm5Td5QNtwcqqSvUxtJmQ8CKEKkibyDpump",
    0.131,
-   3.2,
-   ""
-  ],
-  [
-   "BUNANCE",
-   "4iNPyYAnJuAgdT3bpuaAfh67kBCGDzuL77DmLziXpump",
-   0.126,
-   3.1,
-   ""
-  ],
-  [
-   "Inuvest",
-   "F54iE7GYjYQrN4HcVvdqFM8JvCS1vWkRYEpGcLRJpump",
-   0.099,
-   2.3,
+   4.2,
    ""
   ]
  ]
