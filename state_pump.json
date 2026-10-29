@@ -13,10 +13,10 @@
    "entry_px": 4.199753585286485e-08,
    "entry_fill": 4.52478528958781e-08,
    "opened": 1793256544.5065336,
-   "last_px": 1.192897717127532e-07,
+   "last_px": 1.1488202187147539e-07,
    "peak_px": 1.192897717127532e-07,
-   "last_val": 3.026525838354891,
-   "last_prog": 0.698,
+   "last_val": 2.9134613828505187,
+   "last_prog": 0.685,
    "tp1_done": true,
    "realized": 0.5840184320710229
   },
@@ -31,7 +31,7 @@
    "opened": 1793257207.0894024,
    "last_px": 3.690564436663746e-08,
    "peak_px": 3.690564436663746e-08,
-   "last_val": 2.1667792785659796,
+   "last_val": 2.167212894591308,
    "last_prog": 0.175
   }
  },
@@ -4451,81 +4451,85 @@
   [
    "2026-10-29T00:00:07",
    83.49
+  ],
+  [
+   "2026-10-29T00:01:05",
+   83.38
   ]
  ],
- "cycles": 1287,
+ "cycles": 1288,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.94,
- "watching": 145,
+ "sol_usd": 99.96,
+ "watching": 133,
  "near": [
-  [
-   "STONKTERM",
-   "AEr832CFEvZWraCSy3MoWGHyDXEKQNV8giypa1ugpump",
-   0.175,
-   3.0,
-   "bought"
-  ],
-  [
-   "CATchart",
-   "DxjAHLSVjDmBLQp95bYNtPAiz24k7B6uZMMZ87depump",
-   0.095,
-   2.2,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "LEMON",
-   "CzXdCNrvAHvfXNXoatAT1EBRhjaU1ZAWkaryc5X9pump",
-   0.093,
-   8.1,
-   "top5_hold_most=94%"
-  ],
   [
    "SOUND",
    "CNKvYUdzhbPMYjztDyoyZNVPfR1sULtZV4vx9usWpump",
    0.087,
-   6.5,
+   7.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Niggercoin",
-   "549k4BbmXrjkzmmKj28TwUgwqe4pTGnbkn9n7CkDpump",
-   0.071,
-   3.5,
-   ""
+   "CATchart",
+   "DxjAHLSVjDmBLQp95bYNtPAiz24k7B6uZMMZ87depump",
+   0.064,
+   3.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "MAYE",
    "H3ay8Ctr9nVvSnXog66w3ciiAANq2SKh2GRSuDWApump",
    0.049,
-   6.2,
+   7.2,
    ""
   ],
   [
    "Elonu",
    "Fy3ZduLPqfpuLbtTGPmUev3PCb3W5CphSdo51HDPpump",
    0.025,
-   8.8,
+   9.8,
    ""
+  ],
+  [
+   "LEMON",
+   "CzXdCNrvAHvfXNXoatAT1EBRhjaU1ZAWkaryc5X9pump",
+   0.022,
+   9.1,
+   "top5_hold_most=94%"
   ],
   [
    "VCINU",
    "618JBtNxFXKZCchhKGxEFn3hLyXa7mmne73EHMXfpump",
    0.013,
-   5.1,
+   6.1,
    ""
   ],
   [
    "VOICEMEMO",
    "EXSXonYWadmTasHSRKB3T1sjDaWJHQVEwcRRJSwxpump",
    0.011,
-   4.8,
+   5.8,
    ""
   ],
   [
    "vcat",
    "HYKrp995nKutQ3Ltaenap1pFTjrSoCqonowvuTxRpump",
    0.011,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "URANUS",
+   "6MkuENCLoD7sGu6HRQimNQpx19W67kC94uFRwLbJpump",
+   0.008,
+   8.2,
+   "top5_hold_most=84%"
+  ],
+  [
+   "SPAD",
+   "YLSmY1vhS8s65dUicFxS6Z9iazaPFabpfZUjBDDpump",
+   0.006,
+   9.9,
    ""
   ]
  ]
