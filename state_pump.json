@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 79.88696455377706,
+ "cash": 81.58591237214746,
  "positions": {
   "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump": {
    "sym": "VICEBET",
@@ -13,24 +13,10 @@
    "entry_px": 5.6057106185523136e-08,
    "entry_fill": 6.035406479049814e-08,
    "opened": 1793253245.5979853,
-   "last_px": 6.162410646752069e-08,
+   "last_px": 6.109201401100005e-08,
    "peak_px": 6.796348431673351e-08,
-   "last_val": 2.4136130427921376,
-   "last_prog": 0.442
-  },
-  "8wqM2ZkW2YyMFSP9ebya8DHShsYfPPqHkDnJjnHupump": {
-   "sym": "OIIA",
-   "bc": "8Vbv4FAf5Q5C36vkbVAeiQeymMXuJwsshJszsZaXWMxq",
-   "tokens": 434587.1879486847,
-   "cost": 2.55,
-   "cost0": 2.55,
-   "entry_px": 5.436379415183015e-08,
-   "entry_fill": 5.8530048015496485e-08,
-   "opened": 1793253366.1068153,
-   "last_px": 5.436379415183015e-08,
-   "peak_px": 5.436379415183015e-08,
-   "last_val": 2.193933579387419,
-   "last_prog": 0.383
+   "last_val": 2.392813498421923,
+   "last_prog": 0.438
   }
  },
  "traded": [
@@ -4319,81 +4305,85 @@
   [
    "2026-10-28T22:56:06",
    84.49
-  ]
- ],
- "cycles": 1223,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.25,
- "watching": 139,
- "near": [
-  [
-   "OIIA",
-   "8wqM2ZkW2YyMFSP9ebya8DHShsYfPPqHkDnJjnHupump",
-   0.383,
-   2.4,
-   "bought"
   ],
   [
-   "APUL",
-   "GTxwR2YcYgcHZXQD2pmKfADafSREGPdiQZRqMrYGpump",
-   0.12,
-   3.8,
-   "buyers=3; top5_hold_most=100%"
+   "2026-10-28T22:57:04",
+   83.98
+  ]
+ ],
+ "cycles": 1224,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.26958678700001,
+ "watching": 140,
+ "near": [
+  [
+   "Dill",
+   "4PWhGDJhttbnsTTn6bGzb4qHmnt5V4cdjXraxDC3pump",
+   0.102,
+   2.2,
+   ""
   ],
   [
    "CAT",
    "4ph5DwAHiEnXAXtBpsS6PWDvp1AvVG3oxcoJZuAopump",
-   0.111,
-   4.3,
+   0.04,
+   5.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "MODEL3",
-   "52y5JMwq9kQxh54K6QRWKpRzKb2bApEQwKSbX2PYpump",
-   0.034,
-   9.3,
+   "LEGA",
+   "GsSohqi32FwiHTkdA5H3QPcwRjJNhpwg6zv7VB5Spump",
+   0.031,
+   2.5,
    ""
   ],
   [
    "WWHALE",
    "BnRsMkaGjfgjieGocZ29MFdrsFdSw89PVcNTFCbRpump",
    0.03,
-   2.6,
+   3.5,
    ""
   ],
   [
    "MINI",
    "5K9QgF1oAB8dkPj17Ps5SwkEdDYQtp1qzRhbeiNPpump",
    0.027,
-   4.0,
+   5.0,
+   ""
+  ],
+  [
+   "Schrodinger",
+   "7djDqvtLdXv1dJmqixjDHmy2xbwqGT5XGE9ohH6zpump",
+   0.023,
+   2.8,
    ""
   ],
   [
    "$Hucks",
    "GoH1LLS8k59t5xy245kVYCc7y9RTqjQutMLX55P8pump",
    0.022,
-   7.9,
+   8.9,
+   ""
+  ],
+  [
+   "UDTF",
+   "7FPYoe15QRX2qa5ZHAYcn4KBFjNHJWkKwYwk1G77pump",
+   0.019,
+   2.5,
    ""
   ],
   [
    "AI/SI",
    "8bQQKA1KZBb84Usjv9hzQPWTpksztGgaCQqhGDgWpump",
    0.019,
-   3.2,
+   4.1,
    ""
   ],
   [
    "HOOD ",
    "5WQQUcewpVGTz5a3JEWgub1y1deMvMpYJ5o36ZUPpump",
    0.018,
-   4.3,
-   ""
-  ],
-  [
-   "MIDAS",
-   "422yWbJHfjMSMNwUCvtLKZR3qcMix9BQuvL7Yzarpump",
-   0.015,
-   8.1,
+   5.3,
    ""
   ]
  ]
