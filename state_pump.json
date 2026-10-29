@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.413184636622748e-07,
+   "last_px": 1.3729936042925716e-07,
    "peak_px": 1.413184636622748e-07,
-   "last_val": 2.1544876766945875,
-   "last_prog": 0.751
+   "last_val": 2.094049496612935,
+   "last_prog": 0.742
   }
  },
  "traded": [
@@ -5244,81 +5244,85 @@
   [
    "2026-10-29T04:35:21",
    59.11
+  ],
+  [
+   "2026-10-29T04:36:22",
+   59.05
   ]
  ],
- "cycles": 1562,
+ "cycles": 1563,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.265865572,
- "watching": 180,
+ "sol_usd": 100.373751668,
+ "watching": 177,
  "near": [
+  [
+   "SIMULON",
+   "GoB64RCkd3oYRpbC3W4JNJjLNjQYeC8mbQRFvL8tpump",
+   0.198,
+   2.4,
+   "rugcheck=creator history of rugs"
+  ],
   [
    "CRINGE",
    "GcMcLQgUbUwQAf3LdFahrhwzAALzS3ACpQAW797Zpump",
-   0.134,
-   3.3,
-   "top5_hold_most=86%"
+   0.112,
+   4.3,
+   "top5_hold_most=97%"
   ],
   [
-   "trmpxmsk",
-   "Af87AMsbEtQmr8FydDT51qwoGbnP5UFx1niXyUYjpump",
-   0.124,
-   9.8,
-   "buyers=2; top5_hold_most=100%"
+   "POOPCOIN",
+   "2eHJY3enqbGT5PfrNaLoerkC5aTBf4VfV5RspAnkpump",
+   0.1,
+   2.2,
+   "top5_hold_most=97%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "Marmot",
    "EenUMqd9dM3vgyY7DLMVb7WDQ1TRSU5J3MyMbeArpump",
    0.084,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "sheriff",
-   "FW5ESViMgLWHtPWQuWP4PhFXmpjj2LKTKbShnTQXpump",
-   0.058,
-   10.0,
-   "buyers=6; top5_hold_most=99%"
+   "MLAUNC",
+   "45XF2dTN5YsptsahLtqrQHwH4ErduLSJkJznJh1qpump",
+   0.082,
+   2.5,
+   "buyers=8; top5_hold_most=97%"
+  ],
+  [
+   "Tucker",
+   "J5t2YxemwNnioQT2Qi7mgxSuRzNt5s7MQ2Q6QafEpump",
+   0.072,
+   2.8,
+   ""
+  ],
+  [
+   "Inflation",
+   "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
+   0.071,
+   2.4,
+   ""
+  ],
+  [
+   "Gulag",
+   "9xoRknZ4ttNVWJM7yFmxkKrvxwQoq8FmKZKycGYfwDmV",
+   0.064,
+   2.4,
+   ""
+  ],
+  [
+   "BRUZHNUV",
+   "BG6NKtF8CwdBhZfw7PCbSkjttXZ7B4iti5K3fbPHiNVM",
+   0.063,
+   2.4,
+   ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   3.2,
-   ""
-  ],
-  [
-   "\u30ca\u30ba\u304f\u3093",
-   "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
-   0.03,
-   6.3,
-   ""
-  ],
-  [
-   "Boat coin",
-   "D8zTJzH8oUMQ8rTjTo7C1A8W3ojD49yvtbtvmBEUpump",
-   0.027,
-   6.8,
-   ""
-  ],
-  [
-   "AURA",
-   "6bafXYaCz5EEecb53gjzQkPLrkwMfGUAYwR1E4ocxDCk",
-   0.022,
-   8.1,
-   ""
-  ],
-  [
-   "\u30ca\u30ba\u304f\u3093",
-   "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
-   0.022,
-   5.7,
-   ""
-  ],
-  [
-   "GTA67",
-   "9bwwEt8Y78zPWXbXhMBExMR9eobj1mYGQnZqdDgspump",
-   0.016,
-   2.4,
+   4.2,
    ""
   ]
  ]
