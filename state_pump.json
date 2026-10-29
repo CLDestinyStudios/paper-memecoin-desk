@@ -15,7 +15,7 @@
    "opened": 1793280086.3528252,
    "last_px": 9.108539176171373e-08,
    "peak_px": 1.0490706483993984e-07,
-   "last_val": 0.9472868138375319,
+   "last_val": 0.9471193200837196,
    "last_prog": 0.603,
    "tp1_done": true,
    "realized": 0.23547084605700674
@@ -29,10 +29,10 @@
    "entry_px": 4.6387731609782184e-08,
    "entry_fill": 5.04918529266908e-08,
    "opened": 1793280564.3861618,
-   "last_px": 8.988038658421246e-08,
+   "last_px": 8.712635245022358e-08,
    "peak_px": 8.988038658421246e-08,
-   "last_val": 1.3369883254975772,
-   "last_prog": 0.598,
+   "last_val": 1.294261701526685,
+   "last_prog": 0.587,
    "tp1_done": true,
    "realized": 0.21908894098316267
   },
@@ -45,10 +45,10 @@
    "entry_px": 4.0786523807937344e-08,
    "entry_fill": 4.439265798531246e-08,
    "opened": 1793281343.7863407,
-   "last_px": 4.0786523807937344e-08,
+   "last_px": 3.782345801543322e-08,
    "peak_px": 4.0786523807937344e-08,
-   "last_val": 1.3853158478691747,
-   "last_prog": 0.233
+   "last_val": 1.2808261008498658,
+   "last_prog": 0.19
   }
  },
  "traded": [
@@ -5687,81 +5687,85 @@
   [
    "2026-10-29T06:43:23",
    54.79
+  ],
+  [
+   "2026-10-29T06:44:26",
+   54.64
   ]
  ],
- "cycles": 1690,
+ "cycles": 1691,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.294980109,
- "watching": 254,
+ "sol_usd": 100.277246533,
+ "watching": 256,
  "near": [
+  [
+   "Bruh",
+   "5L5jcU28X25dsT4ykVCzsYcWkmgKwMbpFPqQFMELpump",
+   0.751,
+   2.4,
+   ""
+  ],
+  [
+   "ORWELL",
+   "966MmX1ZNGDhgVsajjwUU9LSKV8pxSBVsKWTDgmypump",
+   0.682,
+   2.9,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Hippo",
+   "A9YxAvcfjyUe9ySfnn1EQzSovJYgdtechXenyDxKpump",
+   0.551,
+   2.9,
+   ""
+  ],
   [
    "Shieldex ",
    "6bWh8cy5pKDDt6R5m9zizzrkk69GdFQ4tT6sBAsqpump",
    0.157,
-   6.9,
+   7.9,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "nyanoween",
    "ByL7xDdAWUkgsr4pTc6uLxTj2JPxc2mz2cpwAKZwa2eE",
-   0.121,
-   3.5,
+   0.12,
+   4.6,
    ""
-  ],
-  [
-   "BHEIST",
-   "C5FXPCcUSQpi2gfzkMCr9mNahdxouMf2VrLCsJWypump",
-   0.117,
-   2.8,
-   "buyers=8; top5_hold_most=99%"
   ],
   [
    "SCREAMPAD",
    "Hx2dCwMxKxeuZLF1nBCJh26DR49ZhnrxtGJEFYF7pump",
    0.097,
-   2.5,
+   3.6,
    ""
   ],
   [
-   "4Chan",
-   "Axz7gsBFRLvtzUfN8WfAfEixR1Nj7UjK54wEaLqCpump",
-   0.082,
-   9.6,
-   "buyers=7; top5_hold_most=100%"
+   "BabyCah",
+   "8md34uz7PpQ4prE5C5paYAUXTrauigr13mQe8hLKpump",
+   0.084,
+   2.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BDOG",
    "GPkUsm2xcGs4hecjdFwFHgq4LPTEyRLrYHKM8CBmpump",
    0.074,
-   2.3,
+   3.4,
    ""
   ],
   [
    "PORION",
    "CDJRq1wrbx46WfexiTkdQ7VRFgmfo2TLLpnT6vJkpump",
    0.044,
-   3.7,
+   4.7,
    ""
   ],
   [
    "Hyperplex",
    "9WyCtHZLqgvTNT6NwcHnJu9bzvLbBzA4zV7DhPSkpump",
    0.039,
-   4.7,
-   ""
-  ],
-  [
-   "PUMPOWEEN",
-   "3avwrYNbup5s85y6Y5urcwKLiA7RGjDqPXAr2rRppump",
-   0.034,
-   9.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "ALMOST",
-   "59EsAqFnaef73EJk394mo9v1uMiy88Vt1SEF1fJ1pump",
-   0.033,
-   4.8,
+   5.8,
    ""
   ]
  ]
