@@ -6404,81 +6404,85 @@
   [
    "2026-10-29T12:24:54",
    32.58
+  ],
+  [
+   "2026-10-29T12:25:58",
+   32.58
   ]
  ],
- "cycles": 2031,
+ "cycles": 2032,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3145636925,
- "watching": 259,
+ "sol_usd": 100.30000000000001,
+ "watching": 254,
  "near": [
   [
    "INSTA",
    "AnNxAekjNfLx3H4GXPoHAtv2iBToSfKK7fZWxPXZDRMi",
-   0.917,
-   7.4,
+   0.918,
+   8.5,
    ""
   ],
   [
    "PERPMINDS",
    "DHtvQ6y24m7un9L8vSZHDvMbiL5PAS674PhFntp7pump",
-   0.895,
-   3.0,
+   0.906,
+   4.1,
    ""
   ],
   [
    "HYPERSQUAD",
    "8ZvkstZNozUNbeuBd3zfQBAHZoWw7iJXyifhzVzNRfdi",
-   0.417,
-   2.9,
-   ""
+   0.609,
+   4.0,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Pepe ",
+   "aBBZdT8hbeDUFczB5eGWKn8eX3mt3KGLC2tJjkcpump",
+   0.379,
+   2.4,
+   "creator=15.1%"
   ],
   [
    "Hyperjak",
    "21D8UZNvkuWeQqBNMXJtGeDabJzjNg5CupTM1fgzpump",
    0.333,
-   7.2,
+   8.2,
    "top5_hold_most=90%"
-  ],
-  [
-   "BEAMBOT",
-   "7BN9BGXD1wjgMD1wCz9kSuj4nuUmkyJtJzCCk96Apump",
-   0.122,
-   6.8,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "QVR",
    "DmKEE6AKn7SgP8fNpKR1kFai8B3MsP2D9ZguPkuapump",
    0.121,
-   2.7,
+   3.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "LONG",
-   "9v4UAGVF2N7ZkMeg85HcvuunKxmdLEXTpG5HuK7Kpump",
-   0.106,
-   5.5,
+   "SLIME",
+   "J63mcPh56mPWbxW6F87xinyvN1kvRakx2CJvM57Ppump",
+   0.072,
+   2.5,
+   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "$CULT",
+   "8Pz3Avb3WDXPBNLXocyEV3PDTp3bPx17EyGiD8eTpump",
+   0.052,
+   2.8,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HP",
+   "HFZFoXvwqtMR6mvtxAjNWDcDTjX3xVhTYaaQrfzPpump",
+   0.048,
+   3.1,
    ""
-  ],
-  [
-   "grok",
-   "4dUHovZqLYzsNiaJNXkWwy5XwRDYFL1FXtjZe8PApump",
-   0.098,
-   5.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "HypPuffy",
-   "9bhSxVtJwZR7ULTTxkMAhdE8hDhwjTYiPMA28Snhpump",
-   0.086,
-   6.1,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "AERA",
    "GPnu3ZVGtUreGZFNmFqiexNYxapiTwEJT53hpW9ZqWQ8",
    0.043,
-   3.2,
+   4.2,
    ""
   ]
  ]
