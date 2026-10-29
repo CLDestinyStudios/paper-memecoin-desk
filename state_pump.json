@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.8912409561774298e-07,
+   "last_px": 1.872853584969247e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.367708833315466,
-   "last_prog": 0.833,
+   "last_val": 1.3539704973542266,
+   "last_prog": 0.83,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5390,82 +5390,86 @@
   [
    "2026-10-29T05:12:22",
    59.12
-  ]
- ],
- "cycles": 1599,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.07725,
- "watching": 258,
- "near": [
-  [
-   "HI",
-   "GpHRKALgvXv7rBQyFq4xvumZgiHCy7BL462kEgoBpump",
-   0.336,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "GTBONK",
-   "55Lj2TYA3swDTErvwzuP9JeW6mkQjT1hN8raf5yXpump",
-   0.201,
-   2.7,
-   "bundled_launch=7 extra buys in creation block"
+   "2026-10-29T05:13:22",
+   59.11
+  ]
+ ],
+ "cycles": 1600,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.08052,
+ "watching": 264,
+ "near": [
+  [
+   "Belugas",
+   "83MCc2QhWveVTVo9RHGzDXrnfLjahd528DhUGioepump",
+   0.787,
+   2.4,
+   ""
   ],
   [
    "PIRATE",
    "7bXhRSnPu67Pt1drn7mFpiHZEh5mVPUZZtaQ5BMCpump",
-   0.181,
-   5.4,
-   "top5_hold_most=88%"
+   0.161,
+   6.4,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "ICECAT",
    "2UdoVDRfeNsMDtd4y7ziRXRP4fa7o84PN492Z1jCikUQ",
-   0.145,
-   4.2,
+   0.149,
+   5.2,
    ""
   ],
   [
-   "ALON",
-   "6mLA2228XHTuf47XjR73C1JqPyxhX9Hja5n2nxYKpump",
-   0.106,
-   3.8,
+   "PINO",
+   "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
+   0.131,
+   3.0,
    ""
   ],
   [
-   "Dawid",
-   "5GsiXCsWs6Ekfg6TCRy7eQRthyoiB4c2Ufg6XWxRpump",
-   0.094,
-   2.8,
+   "EGG",
+   "74zGUTncpsXGkPsTXfGifs7ZMud8rTyGNu99EAfApump",
+   0.101,
+   2.9,
    ""
   ],
   [
    "ICECAT",
    "CmfETzZd5zXhubDNjkF2Ra7HxQ9ba5KQAV5qDChBPnFX",
    0.084,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "ICECAT",
+   "HbkD4LqHX52FPWVc2zQJvDxRmrEzxgQZ7UgK4MjttkE5",
+   0.077,
+   5.4,
    ""
   ],
   [
    "Cockfish",
    "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
    0.071,
-   3.5,
-   ""
-  ],
-  [
-   "Walkoor",
-   "8UMuGCNZ2ggwtiUYP6kB3ztDqu6f9HVKUBQt2QZipump",
-   0.07,
-   3.3,
+   4.5,
    ""
   ],
   [
    "GTAVI",
    "GowRcDGK8G9MF3bLEgxAXXs6Dzoodpn6NFo6yX86pump",
    0.07,
-   3.7,
+   4.7,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HYPEINU",
+   "ErGEouw3hFUppmXuvASKZ9JT3iunkUW9M75eVefvmSCn",
+   0.059,
+   5.5,
+   ""
   ]
  ]
 }
