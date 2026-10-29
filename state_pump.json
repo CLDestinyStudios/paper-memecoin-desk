@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 102.61096664781137,
- "positions": {},
+ "cash": 99.53096664781137,
+ "positions": {
+  "8NNyirwViB3vgkjXajPmaLoWnwmLkLk2FXH2BsdApump": {
+   "sym": "MINUSSY",
+   "bc": "8WwPxBmAYsVa1cJbVfVQEaXgTVfDryFmdkKG1UDUKEjQ",
+   "tokens": 450927.0956881714,
+   "cost": 3.08,
+   "cost0": 3.08,
+   "entry_px": 6.385333269735683e-08,
+   "entry_fill": 6.850925200437599e-08,
+   "opened": 1793247845.8263938,
+   "last_px": 6.385333269735683e-08,
+   "peak_px": 6.385333269735683e-08,
+   "last_val": 2.66982912159005,
+   "last_prog": 0.458
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -265,7 +280,8 @@
   "415XC5JBy4qZcAFGtozb3UFxAADL5XrB1YVEAcYMpump",
   "HhswM3oAco7CQgMZtCPJxDUKCZoFkPmKFGdGXvVBpump",
   "BYVkngw2muudeMVepb5XsX6fjzxKtJGzRjaY8E6Mpump",
-  "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump"
+  "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump",
+  "8NNyirwViB3vgkjXajPmaLoWnwmLkLk2FXH2BsdApump"
  ],
  "equity": [
   [
@@ -4015,82 +4031,86 @@
   [
    "2026-10-28T21:23:04",
    102.61
+  ],
+  [
+   "2026-10-28T21:24:05",
+   102.2
   ]
  ],
- "cycles": 1130,
+ "cycles": 1131,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.6892905951,
- "watching": 182,
+ "sol_usd": 99.70000000000002,
+ "watching": 187,
  "near": [
   [
    "AI/SI",
    "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6",
-   0.908,
-   2.9,
+   0.929,
+   3.9,
    ""
+  ],
+  [
+   "MINUSSY",
+   "8NNyirwViB3vgkjXajPmaLoWnwmLkLk2FXH2BsdApump",
+   0.458,
+   2.9,
+   "bought"
   ],
   [
    "AI/SI",
    "4EJk1861c5CBhszYf5giwhx1kHYG4cWGsXHojNFVpump",
-   0.311,
-   2.3,
+   0.374,
+   3.3,
    ""
-  ],
-  [
-   "AI/SI",
-   "EtxcX7Pt8iVkN6NwvMjBtXuzCU7yPiyF8LwKnFhcpump",
-   0.152,
-   2.4,
-   ""
-  ],
-  [
-   "gumball",
-   "CNvAEAZGfZxZoAxa3JvXJxgR4aECu55Hec5yjnKPpump",
-   0.119,
-   2.9,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "AISI",
-   "GQkSXEVzRfNffWNN2GoAeHzkUxbTPEh4NmiM6QRVjdPm",
-   0.103,
-   2.0,
-   ""
-  ],
-  [
-   "ASI",
-   "6UnY8s6iYJQaTcoFRzcSrtbk1pty8x8RD89tm1Repump",
-   0.092,
-   2.1,
-   "buyers=5; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "AISI",
-   "B6GZ98UUXHTVVYESBborSLykmk6n73WLyPdwFTjjpump",
-   0.082,
-   2.0,
+   "3V6wH1rNAd5cFnr2DARszMXd2ivtTrVkkw48zFq7pump",
+   0.35,
+   3.6,
    ""
   ],
   [
    "AI/SI",
    "B5pe3p1QH2eDdZ96UqMMejCTDaedkhRZi7trsAdcL3nM",
-   0.081,
+   0.123,
+   3.7,
+   ""
+  ],
+  [
+   "AI/SI",
+   "EtxcX7Pt8iVkN6NwvMjBtXuzCU7yPiyF8LwKnFhcpump",
+   0.122,
+   3.5,
+   ""
+  ],
+  [
+   "AI",
+   "HhQxLxi3tb9kqjo2SAaamBnaC6WCJFo63qwbJEVCpump",
+   0.121,
+   2.5,
+   ""
+  ],
+  [
+   "AI/SI",
+   "Cq2nXQHrANb7taSYwNa7GsuWChkqJDw4n5rvFyBspump",
+   0.119,
    2.7,
    ""
   ],
   [
-   "inu",
-   "DoR1tLa22qzMnEAAHv5VKuMBHUAf44HCZGYT78tZpump",
-   0.067,
-   4.0,
+   "AISI",
+   "GQkSXEVzRfNffWNN2GoAeHzkUxbTPEh4NmiM6QRVjdPm",
+   0.091,
+   3.1,
    ""
   ],
   [
-   "ED138",
-   "5T8JQd8wUhRTymx9djzwcCkRtMqTev478WX6ZaiMpump",
-   0.066,
-   3.0,
-   "buyers=6; top5_hold_most=99%"
+   "AISI",
+   "B6GZ98UUXHTVVYESBborSLykmk6n73WLyPdwFTjjpump",
+   0.082,
+   3.1,
+   ""
   ]
  ]
 }
