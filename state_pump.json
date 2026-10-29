@@ -4543,83 +4543,83 @@
    79.96
   ],
   [
-   "2026-10-29T00:34:06",
+   "2026-10-29T00:35:05",
    79.96
   ]
  ],
- "cycles": 1321,
+ "cycles": 1322,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7189767971,
- "watching": 143,
+ "sol_usd": 99.68331201800001,
+ "watching": 138,
  "near": [
   [
    "BTS",
    "4TvRzrSPg2CFBE3TBfGw7JqFNX8F1mekw2bvTndzpump",
-   0.915,
+   1.0,
+   3.2,
+   "graduated"
+  ],
+  [
+   "CACHET",
+   "FAhEzTWLnqocLu355bfPmmFJy5UceyFv4jbxEBLRpump",
+   0.143,
    2.2,
-   ""
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "AIRO",
    "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
    0.139,
-   4.6,
-   "buyers=5; top5_hold_most=100%"
+   5.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "KONY",
    "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
    0.115,
-   4.6,
+   5.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.061,
-   7.7,
-   "buyers=4; top5_hold_most=100%"
+   8.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "BABYFURY",
    "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
-   0.057,
-   5.8,
-   "buyers=9; top5_hold_most=96%"
+   0.058,
+   6.8,
+   "top5_hold_most=95%"
   ],
   [
    "MARCEL",
    "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
    0.044,
-   4.6,
-   ""
-  ],
-  [
-   "TRENDI",
-   "AHuicBRzvWjgXetmF5FNmeBc5YsSnJzSyZWTez2wpump",
-   0.044,
-   4.5,
+   5.6,
    ""
   ],
   [
    "SSP",
    "HLT9VXgeSPwCPeE8cUbY53sks6wb7dRYNX9y36YGpump",
    0.033,
-   3.6,
+   4.6,
    ""
   ],
   [
    "VOPE",
    "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
    0.025,
-   5.3,
+   6.2,
    ""
   ],
   [
    "Solana ",
    "EL7vbn4MbuyMzkfdK1uTAiwyQ7zQC2vwmKWzJKHqpump",
    0.025,
-   3.2,
+   4.2,
    ""
   ]
  ]
