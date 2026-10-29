@@ -6338,83 +6338,83 @@
    32.58
   ],
   [
-   "2026-10-29T09:54:54",
+   "2026-10-29T09:55:53",
    32.58
   ]
  ],
- "cycles": 1881,
+ "cycles": 1882,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.847655611,
- "watching": 433,
+ "sol_usd": 101.81372969199997,
+ "watching": 449,
  "near": [
-  [
-   "VPRF",
-   "JfREGRZyWsYNCHLkLcpHTbKG5gQuomJeL2NzFGzpump",
-   0.307,
-   2.6,
-   ""
-  ],
   [
    "$Trashy",
    "5b9xb6Vvr5NvkNMAXG7BY6K9wGyn5CHckvEvxyZ6pump",
    0.214,
-   4.1,
+   5.1,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "DOGSTAN",
+   "BqdQ7o7XCoa4mRqu1wy8jEPUSKBtampbFLExbS3XcwEw",
+   0.175,
+   2.5,
+   "top5_hold_most=100%"
+  ],
+  [
+   "HYPERX",
+   "8MeTdQX5Vvg7j4qT6CjKWZsk3X5Hm46HYHASwJL2pump",
+   0.116,
+   2.2,
+   ""
   ],
   [
    "$THEONE",
    "J7Yphx8f7JvgaAFB19HGaknEu8BdaTubZ4my2B7dpump",
    0.115,
-   6.1,
+   7.1,
    "buyers=6; top5_hold_most=96%"
   ],
   [
    "UCha",
    "HUj4xQxAsbUHDpkRyVtdAQ4RPpruncnTghSxmNHgpump",
    0.09,
-   8.9,
+   9.8,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "XLIQUID",
+   "33NmNxrUNNDJZnPGQwhPafDQtXDGLikfVEjKwMH3pump",
+   0.084,
+   2.1,
+   ""
   ],
   [
    "OFR",
    "GRd8RgvTQ8TzrbX5FKsfWjqqXv2xSeqC5V8xZihtpump",
    0.083,
-   2.1,
+   3.1,
    ""
   ],
   [
    "meme",
    "FkR24gydSj3ue8vsxuXG5c4bcbfDtuPpuJBFceCwpump",
    0.073,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "SNED",
-   "CXj2EdGVYtzfwViAJ9CMZUQaNGbLmDoyjKYrBcLPpump",
-   0.048,
-   2.7,
-   ""
-  ],
-  [
-   "HYX",
-   "DwbMn4jbpyxyP6zyjg2999uux8BhGaXVphoYnPBJpump",
-   0.046,
-   8.2,
-   ""
-  ],
-  [
-   "Peace",
-   "CTjj2quj7muKira9GfTkCa94aXqpFccAw3TFGeSHpump",
-   0.044,
-   7.1,
-   ""
-  ],
-  [
-   "GODPAD",
-   "5iTriRNgYzMGJNaYJW45mga87uwc7CKxdnUA6Wompump",
-   0.044,
+   "HYPE INU",
+   "DLtRAjakoZpbAR1gRumCXrqqWoX1fVicmYk22oH8pump",
+   0.055,
    2.1,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "VPRF",
+   "JfREGRZyWsYNCHLkLcpHTbKG5gQuomJeL2NzFGzpump",
+   0.051,
+   3.6,
    ""
   ]
  ]
