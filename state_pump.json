@@ -6502,84 +6502,84 @@
    32.58
   ],
   [
-   "2026-10-29T16:14:04",
+   "2026-10-29T16:15:04",
    32.58
   ]
  ],
- "cycles": 2260,
+ "cycles": 2261,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.4859355726,
- "watching": 319,
+ "sol_usd": 96.42999999999999,
+ "watching": 302,
  "near": [
   [
    "1029",
    "4vfDwu14Z6rzX5M95TyaRJn5V3VfT6WmBcd3VNAhfDPs",
-   0.811,
-   5.2,
+   0.915,
+   6.2,
+   ""
+  ],
+  [
+   "longit",
+   "387AKE5T853Me3qaUNYumQAtNSLkiR7rKv5rGbMDpump",
+   0.686,
+   2.1,
    ""
   ],
   [
    "1029",
    "C7hNjGqjSbwK38K2hr8uiKhwQGhJvYtC4inmxMAcpump",
-   0.515,
-   4.8,
+   0.544,
+   5.8,
    ""
-  ],
-  [
-   "FREEZE",
-   "AFjTS6WHbX2V1hs7S5KF7x5RojiqdV7jCaYhyy5Rpump",
-   0.433,
-   3.9,
-   "top5_hold_most=86%"
   ],
   [
    "RABBIT",
    "6BCurTs1ZdjX7n9jJZMSeDWHki6smgioHthafvzA97LS",
-   0.346,
-   3.8,
+   0.324,
+   4.8,
    ""
   ],
   [
    "BNBQ",
    "Hhu8GBL9i2Ty9Xnbhic38tZkh7Ytj1DLxbdQEqCLpump",
-   0.215,
-   7.7,
+   0.24,
+   8.7,
    "launch_slot=missing"
+  ],
+  [
+   "REKTOBER",
+   "8FA3gDDVir7EpFPZcZ3ahPY6Gu6KjvetvuvPbGMDpump",
+   0.232,
+   2.3,
+   ""
   ],
   [
    "GUC",
    "5iUCgk7z5z7sBfpTCoktoCGhxKSAVExPvzBmyjsUpump",
    0.212,
-   4.1,
+   5.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Banker",
    "9QF8DCnfheSSiGbpf6k3PAqwoAC7trbdr7UFtPmXpump",
    0.171,
-   6.9,
+   7.9,
    "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "ELON",
    "HeauJA5GTuiHfSS9xzpsz3W4t8ezAfL4FwZujPCYiZPh",
    0.149,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "MGC",
-   "EugZ8TwkraW6DZRMMfxJoiNabgWS6LZCJLfzjLqDpump",
+   "FREEZE",
+   "AFjTS6WHbX2V1hs7S5KF7x5RojiqdV7jCaYhyy5Rpump",
    0.142,
-   4.0,
-   ""
-  ],
-  [
-   "\ud83d\ude4f",
-   "9FN6tyHB5UJ7MH7bhxnE7cYLyWh3Dpkh5hzpzLHDpump",
-   0.14,
-   7.7,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+   4.9,
+   "top5_hold_most=99%"
   ]
  ]
 }
