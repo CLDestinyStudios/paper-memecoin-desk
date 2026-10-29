@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 67.10069909033633,
- "positions": {
-  "3G8nU4qGNhVLD1jwqyEMBvET5pqbuj6qUYdjWHK6pump": {
-   "sym": "REPINKING",
-   "bc": "EhNnmNSCYcvoniocjLBBCQ8YE8xGoqhrPRDprwpEoBLc",
-   "tokens": 499797.4351116943,
-   "cost": 2.08,
-   "cost0": 2.08,
-   "entry_px": 3.8394873490158223e-08,
-   "entry_fill": 4.152436820149197e-08,
-   "opened": 1793265323.3922448,
-   "last_px": 3.3290430877000523e-08,
-   "peak_px": 3.8394873490158223e-08,
-   "last_val": 1.5299247589013516,
-   "last_prog": 0.113
-  }
- },
+ "cash": 68.55785659690551,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4761,81 +4746,85 @@
   [
    "2026-10-29T02:16:22",
    68.63
-  ]
- ],
- "cycles": 1423,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.222656894,
- "watching": 174,
- "near": [
-  [
-   "\ub9ac\ud540",
-   "6E9mByFQt4CStJg8e1ytZC5X6j2mw6BCSv7LTvbopump",
-   0.784,
-   3.6,
-   ""
   ],
   [
-   "Screaming",
-   "DtwmcXWWjokAtknRUBzxvogrukpeF6Zmvte6f9gWSoTV",
-   0.711,
-   2.7,
-   "bundled_launch=6 extra buys in creation block"
+   "2026-10-29T02:17:22",
+   68.56
+  ]
+ ],
+ "cycles": 1424,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.205827427,
+ "watching": 167,
+ "near": [
+  [
+   "Retardio ",
+   "46ek4wpzsXxwiGjpc7ARrcoSiLCvBmEU3388UhgMpump",
+   0.28,
+   2.3,
+   "top5_hold_most=83%; bundled_launch=9 extra buys in creation block"
   ],
   [
    "FOMOKING",
    "B9yALCmyoVJREQRjWhe4wYdXY9U1VtEQM7QmjBm3pump",
-   0.257,
-   6.8,
-   "top5_hold_most=87%"
+   0.254,
+   7.8,
+   "top5_hold_most=88%"
   ],
   [
    "SIRIUS",
    "6MAD9jGWh69A7diKvGAzUY48gEFUJZamM8Q97cbupump",
    0.177,
-   4.1,
+   5.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "\ub9ac\ud540",
    "7yq8F1wdCd6zUJSmzh3z68N26KCXRVB6hDwqZeGVK21c",
-   0.122,
-   3.8,
+   0.153,
+   4.8,
    ""
   ],
   [
    "\ub9ac\ud540",
    "6xwRoevBye37iajd9yq65eo6fpy5HFP1pgBTgJ8Qzxqr",
    0.087,
-   3.5,
+   4.5,
    ""
   ],
   [
    "REPINKING",
    "7NdimK2MUodQ7DAiVHzaj5NUNbwaP44mwdNniurApump",
    0.056,
-   2.6,
-   ""
-  ],
-  [
-   "SIDEPAD",
-   "A79ja2iNUMcfZksp11jZcfBsRLzCrJrRKgdWBtN2pump",
-   0.045,
-   2.2,
+   3.6,
    ""
   ],
   [
    "CICAK",
    "Cgu3ktRAsKca6EoZcyVhyqhhbnFUvN2SsNB6RwiUhKG7",
    0.044,
-   4.9,
+   5.9,
+   ""
+  ],
+  [
+   "hinu",
+   "5ZDWkF42rGA3DHXbQ7tx4Qe9MbD9Qn968nNoHoGvpump",
+   0.039,
+   2.9,
    ""
   ],
   [
    "RAPCAT",
    "FQ11xe8VgQr3B5hnxr5dgYnQo1j5jtK9CGfgQ48epump",
    0.023,
-   3.9,
+   4.9,
+   ""
+  ],
+  [
+   "SIDEPAD",
+   "A79ja2iNUMcfZksp11jZcfBsRLzCrJrRKgdWBtN2pump",
+   0.023,
+   3.2,
    ""
   ]
  ]
