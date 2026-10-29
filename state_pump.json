@@ -6414,83 +6414,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:45:07",
+   "2026-10-29T12:46:05",
    32.58
   ]
  ],
- "cycles": 2051,
+ "cycles": 2052,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.02864953349997,
- "watching": 232,
+ "sol_usd": 100.0,
+ "watching": 238,
  "near": [
   [
    "10XHYPE",
    "7Rv5zwxHGhbHJeHjHp7GxHsw417uMoqc7vxoaEGQpump",
-   0.895,
-   8.0,
+   0.809,
+   9.0,
    ""
   ],
   [
    "MEWMEW",
    "E7awV4WLjwJWFDDvDeHDe29swqQpZusEgf3Dmyvtpump",
-   0.323,
-   2.4,
+   0.394,
+   3.3,
+   ""
+  ],
+  [
+   "GRAB",
+   "8q2dTGhcrZNf1X4k5P7Szi6PjTnq2sJojBwnwjDFpump",
+   0.176,
+   3.5,
+   "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "PS5",
+   "7FAvsmF6osVimxRGyrJMrgfA5mbEh7y8HLkSM1mqpump",
+   0.175,
+   4.0,
+   "buyers=8"
+  ],
+  [
+   "NOTCH",
+   "J9ojmpgkazf9vEJEfwEf572MfTxtWnQPShotGsm8pump",
+   0.168,
+   2.9,
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Solanah",
+   "ADpHDbLBDabUA7eu15YNc9ENEtkM9JdLVY22wBWhpump",
+   0.162,
+   3.1,
    ""
   ],
   [
    "MORE",
    "BY88mjVqg6i6i4XS84Tby1HXhzHpP1pVwV5ShStMpump",
-   0.186,
-   2.8,
-   "top5_hold_most=81%"
+   0.145,
+   3.7,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
-   "GRAB",
-   "8q2dTGhcrZNf1X4k5P7Szi6PjTnq2sJojBwnwjDFpump",
-   0.178,
-   2.6,
-   "top5_hold_most=84%"
-  ],
-  [
-   "PS5",
-   "7FAvsmF6osVimxRGyrJMrgfA5mbEh7y8HLkSM1mqpump",
-   0.129,
-   3.0,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "$GRANNY",
-   "7ednSGCACXHcmbY3nekf9nNhdUpixKzNy8YDnqyEpump",
-   0.111,
-   4.2,
-   "buyers=3; top5_hold_most=100%"
+   "ARAIL",
+   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
+   0.087,
+   5.6,
+   "top5_hold_most=90%"
   ],
   [
    "ODYSSEE",
    "BuDqBg6wSNM2D6P6FjWt5uASZErk9oCwqj2FC9yTpump",
    0.086,
-   4.0,
+   5.0,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "ARAIL",
-   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
-   0.06,
-   4.7,
-   "buyers=9; top5_hold_most=91%"
   ],
   [
    "Jutsu",
    "7GU5e1S5c7yrTWeumrC6azWCoJx6GFwZ9FPH3z28pump",
    0.052,
-   2.9,
-   ""
-  ],
-  [
-   "AXEL",
-   "D6gT2aNHrnfUwgENAqwG6eU1erjSbpVuE39R5t9gpump",
-   0.047,
-   9.0,
+   3.9,
    ""
   ]
  ]
