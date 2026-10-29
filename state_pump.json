@@ -3458,81 +3458,85 @@
   [
    "2026-10-28T17:54:05",
    117.47
+  ],
+  [
+   "2026-10-28T17:55:14",
+   117.47
   ]
  ],
- "cycles": 921,
+ "cycles": 922,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.84849488649999,
- "watching": 331,
+ "sol_usd": 101.85,
+ "watching": 346,
  "near": [
   [
    "PVE",
-   "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
-   0.739,
-   2.6,
-   ""
-  ],
-  [
-   "Tio",
-   "6oTpXBConTUzjU43B3bEpTzDULQgUL9XWj2DWjccpump",
-   0.488,
-   2.8,
-   "serial_creator=6 launches/24h"
+   "4aUBmtFVpZJQocr51PtPRyvBrVAenWgPGL1GeLEApump",
+   1.0,
+   2.9,
+   "graduated"
   ],
   [
    "PVE",
    "4zpRkgErTMTHE7XyAPuwY9VdrMXU5RCVz5wMqAP5pump",
-   0.425,
-   2.8,
+   0.787,
+   4.0,
    ""
   ],
   [
-   "Unmask",
-   "8hFWPVT3PKTKaqpEvXfDYw1Qr1Uh865XMbPsfET2pump",
-   0.373,
-   9.3,
-   "launch_slot=missing"
+   "PVE",
+   "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
+   0.688,
+   3.7,
+   ""
   ],
   [
    "GTA",
    "HCAp4PjrWKySdbFUTq2XwCpmKcspuaawDjFzbmMBpump",
    0.275,
-   8.3,
+   9.4,
    "top5_hold_most=88%"
+  ],
+  [
+   "PVE",
+   "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
+   0.209,
+   4.0,
+   ""
+  ],
+  [
+   "UPVOTE",
+   "574P9b4gp7nPe7oLcRs8jYxpPZmn3PjbHJaYVRx3pump",
+   0.205,
+   2.5,
+   "buyers=7; top5_hold_most=100%"
   ],
   [
    "GHOST",
    "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
-   0.208,
-   2.6,
+   0.18,
+   3.7,
    "buyers=8; top5_hold_most=93%; launch_slot=missing"
-  ],
-  [
-   "NGU",
-   "GuJeXbYJ2yUGerfK1JuqnX8896zRPm9MqqHoattjpump",
-   0.156,
-   3.5,
-   "top5_hold_most=92%; launch_slot=missing"
   ],
   [
    "trencher",
    "GocQbw1NkTJbymFaWjKnw3CuBSQpnFyUF9vQdS9Hpump",
-   0.134,
-   5.3,
+   0.129,
+   6.4,
    "top5_hold_most=95%"
   ],
   [
-   "PVE",
-   "FmEPF2KtgDxNywQRdNJwUswg4WbsQjitZx2Se9LQpump",
-   0.081,
-   3.0,
-   ""
+   "fablesquad",
+   "CQWdNMXnrB9ypWLEbX97m2im3paH5eoVLjwxMra6pump",
+   0.12,
+   2.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "CLYDEFROG",
-   "9MCZ4spFv2cwxMMvStpJNAihZ231E1PrcwuffxnFpump",
-   0.073,
-   4.1,
+   "PVE",
+   "AAeGmNxczwAwEjhhYEBdVuZ9wTQNiPBZdocTy9RJpump",
+   0.09,
+   3.0,
    ""
   ]
  ]
