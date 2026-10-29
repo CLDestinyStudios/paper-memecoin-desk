@@ -4714,84 +4714,84 @@
    69.82
   ],
   [
-   "2026-10-29T02:00:23",
+   "2026-10-29T02:01:22",
    69.82
   ]
  ],
- "cycles": 1407,
+ "cycles": 1408,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9291418685,
- "watching": 144,
+ "sol_usd": 100.188351631,
+ "watching": 145,
  "near": [
   [
    "Boochie",
    "FEKm134peKiwXXnDT5e2dMLMN7ucyyb7GEJwSobEpump",
-   0.124,
-   5.8,
+   0.186,
+   6.8,
    ""
-  ],
-  [
-   "neko",
-   "6kn3NPvfoibXwDwu1hU54iHVgATtnQYPKg1eUxrEe8ZP",
-   0.072,
-   4.4,
-   ""
-  ],
-  [
-   "SIRIUS",
-   "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
-   0.071,
-   4.8,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "END",
    "3S6w1Nn9cqL4X4TA3KSQeqfqZhyE76dgUo5QhSstpump",
+   0.065,
+   9.5,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "SIRIUS",
+   "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
    0.064,
-   8.5,
-   ""
+   5.7,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
    0.058,
-   3.0,
+   4.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "LOVE",
    "4sxpPcx4JF9eUCGkEAMZDSzR4bcAatrPsMqosJbqpump",
    0.028,
-   6.0,
+   7.0,
+   ""
+  ],
+  [
+   "BabyNuts",
+   "8rxw82R72VzgZSrZwK5X1RvMSi5ERsgiJNuEw15xpump",
+   0.024,
+   9.9,
    ""
   ],
   [
    "TOWERCAT",
    "Ei2ritefJSSMmCzZSbBhDF4gitcHMfPrMZbwokqspump",
    0.022,
-   6.9,
+   7.8,
    ""
   ],
   [
    "BabyNuts",
-   "8rxw82R72VzgZSrZwK5X1RvMSi5ERsgiJNuEw15xpump",
+   "46rw8x4Eanx7Wzn5KxpZcejJLkSks8gdJCKa1FNxpump",
    0.02,
-   8.9,
+   7.4,
    ""
   ],
   [
    "Jenny",
    "2GradHGg9Qj2XW9dKZK1yN7RgDe8QzqvbD356mM3pump",
    0.017,
-   3.8,
+   4.8,
    ""
   ],
   [
-   "BabyNuts",
-   "46rw8x4Eanx7Wzn5KxpZcejJLkSks8gdJCKa1FNxpump",
-   0.016,
-   6.4,
-   ""
+   "FOMO",
+   "GJh37AAYtmVqprb2HVHMghKSwEpzokWubQXQepH5pump",
+   0.014,
+   6.2,
+   "top5_hold_most=94%"
   ]
  ]
 }
