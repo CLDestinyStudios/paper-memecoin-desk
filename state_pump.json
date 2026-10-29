@@ -4714,83 +4714,83 @@
    69.82
   ],
   [
-   "2026-10-29T02:04:22",
+   "2026-10-29T02:05:21",
    69.82
   ]
  ],
- "cycles": 1411,
+ "cycles": 1412,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.21,
- "watching": 120,
+ "sol_usd": 100.17790684099998,
+ "watching": 116,
  "near": [
-  [
-   "MEAT",
-   "8HEiMgNV1pQZv49Qmy78LtcQHTnEVpXLCNnPWgVvpump",
-   0.332,
-   2.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "Sora",
    "8rZ2spNhiia964xoaxiY7mS9WQqtvU7aocvDsnSJpump",
-   0.261,
-   2.8,
+   0.197,
+   3.8,
    ""
   ],
   [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
-   0.086,
-   7.0,
-   "buyers=3; top5_hold_most=100%"
+   0.114,
+   8.0,
+   "buyers=9; top5_hold_most=90%"
   ],
   [
    "luck",
    "J3idAZRE9LxzigQS5CwFyRSVRjMH4S5RAUoYoXytBY7J",
-   0.085,
-   3.7,
+   0.087,
+   4.7,
    ""
   ],
   [
    "SIRIUS",
    "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
    0.076,
-   8.7,
+   9.7,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "LESCAR",
+   "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
+   0.055,
+   2.9,
+   ""
   ],
   [
    "GL",
    "7EoboMPnrF9jZ2reaWogbQyWHVfSyNvK8Q4c4eorpump",
-   0.061,
-   2.1,
+   0.049,
+   3.1,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "GREMLIN",
+   "9YejnLLhkYbiQGxyhFTtiaB1yJgytqcRoXg4dDmaNxbs",
+   0.038,
+   2.3,
+   ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
-   0.033,
-   2.7,
-   ""
-  ],
-  [
-   "LOVE",
-   "4sxpPcx4JF9eUCGkEAMZDSzR4bcAatrPsMqosJbqpump",
-   0.028,
-   10.0,
+   0.034,
+   3.7,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   4.4,
+   5.4,
    ""
   ],
   [
    "AC",
    "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
    0.022,
-   3.8,
+   4.8,
    ""
   ]
  ]
