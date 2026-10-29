@@ -13,10 +13,10 @@
    "entry_px": 5.6471090600832834e-08,
    "entry_fill": 6.05656203665727e-08,
    "opened": 1793244970.9116685,
-   "last_px": 6.44759739132718e-08,
-   "peak_px": 6.44759739132718e-08,
-   "last_val": 3.1366139892370755,
-   "last_prog": 0.462
+   "last_px": 6.900627372638876e-08,
+   "peak_px": 6.900627372638876e-08,
+   "last_val": 3.357895403874566,
+   "last_prog": 0.492
   }
  },
  "traded": [
@@ -3985,81 +3985,85 @@
   [
    "2026-10-28T20:40:06",
    105.17
+  ],
+  [
+   "2026-10-28T20:41:03",
+   105.39
   ]
  ],
- "cycles": 1087,
+ "cycles": 1088,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.5225137124,
- "watching": 169,
+ "sol_usd": 99.44797660745,
+ "watching": 166,
  "near": [
   [
    "LiquidPump",
    "hhp3Zypkj51s6N5cFWxy3X2vavJq8aXi9kY3zMEpump",
-   0.714,
-   3.1,
+   0.836,
+   4.1,
    ""
-  ],
-  [
-   "UFP",
-   "8P8thUaQoHuWW5LPPivdhGYRbXfhST5MjhCEFTU8pump",
-   0.646,
-   3.0,
-   "serial_creator=8 launches/24h"
-  ],
-  [
-   "SplitOtake",
-   "Ebg5MUmE5aeL2JZHbwXAC3TsKwu38e1aNRu8UkK6pump",
-   0.134,
-   7.5,
-   "buyers=7; top5_hold_most=96%"
   ],
   [
    "GROTTI",
    "7Qb39N2p6fsVi3cZUFySHo2rfvTp5vCVSHqvtUvspump",
    0.115,
-   7.4,
+   8.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "OFRON",
    "5F5ACbgxDpyCNiGTSA5LuERgmecUtDHW5NYKNhtGpump",
-   0.109,
-   6.0,
-   "buyers=7; top5_hold_most=100%"
+   0.098,
+   7.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "UFP",
    "51gTSyRTq3Xc3fe2BrmUbgSgNUvk1oLTqNEmwYWQpump",
    0.074,
-   5.0,
+   5.9,
+   ""
+  ],
+  [
+   "TP",
+   "ST4DXGmv6CHnK67XUrTSHHYiB38tMQhRH3wmTPfpump",
+   0.074,
+   2.3,
    ""
   ],
   [
    "UFP",
    "G7hg6MLpsNDff531NMjNqbaMuwS19BdA4B3DKNqpD4Lf",
-   0.065,
-   4.2,
+   0.067,
+   5.1,
    ""
+  ],
+  [
+   "SIGVAR",
+   "A3PpJGgFcxKfrkuvw1z87MJx7anoHg4X1KmH7DGepump",
+   0.047,
+   2.6,
+   ""
+  ],
+  [
+   "SplitOtake",
+   "Ebg5MUmE5aeL2JZHbwXAC3TsKwu38e1aNRu8UkK6pump",
+   0.047,
+   8.4,
+   "buyers=7; top5_hold_most=96%"
   ],
   [
    "BUILDER",
    "7BJcHBb7UZ46b8dF26xJZtJ3ukfJ5dBrpsm8p2Pgpump",
    0.046,
-   4.7,
+   5.7,
    ""
   ],
   [
    "RICO",
    "EmUwTzS2MWXX3Ugt4Wzy7yf395Y32KSurSoSVtT9pump",
    0.028,
-   7.5,
-   ""
-  ],
-  [
-   "moca",
-   "8z1Y6ChUrtfQhcFqMDVLLuQLvjRojcfxJ5jrBjPRpump",
-   0.023,
-   6.2,
+   8.4,
    ""
   ]
  ]
