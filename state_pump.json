@@ -6474,84 +6474,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:05:00",
+   "2026-10-29T15:06:06",
    32.58
   ]
  ],
- "cycles": 2191,
+ "cycles": 2192,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.9680598471,
- "watching": 325,
+ "sol_usd": 96.79,
+ "watching": 322,
  "near": [
-  [
-   "SAFU",
-   "6wpTNeYGwGZSL5YgxgmWcpMKoLmKhcAkrScnsvqupump",
-   1.0,
-   3.1,
-   "graduated"
-  ],
   [
    "Vortex",
    "GYA6eeoXubyuwxDT7cAK9eCKobnziKvALPPbbq7Hpump",
    0.952,
-   9.0,
+   10.1,
    ""
-  ],
-  [
-   "REPAD",
-   "FKzywwjGvzKWynqNR3A7bUN4x83pHwwEsPguHSc1pump",
-   0.177,
-   6.3,
-   "buyers=6; top5_hold_most=98%"
   ],
   [
    "SAFU",
    "Hj4CJxF3oBJDZ31qWQ96RVhqeKuMzMEwd3V3MooUpump",
-   0.149,
-   4.3,
+   0.211,
+   5.4,
    ""
   ],
   [
    "CUHCOIN",
    "GiYcQeT6s27SRaEcPZJWVbTMpZH8kk7kn8MzaXGzpump",
-   0.133,
-   8.4,
+   0.152,
+   9.5,
    ""
   ],
   [
    "SAFU",
    "2iJoxHFkyQeFMLSMKUQ1E1HCSkxnUUZ7ZZvY2t2ywZDw",
    0.13,
-   4.1,
+   5.2,
    ""
   ],
   [
    "SAFU",
    "8Vixd2qbwZF5JpazNqmqRuGfRbcK7KSiQbHEcuNKpump",
-   0.128,
-   2.4,
+   0.125,
+   3.5,
    ""
   ],
   [
    "Diego",
    "7P3Q2oPoJ9tvpcrWCeaZ8qpveMG4K7zoQTtaQyedpump",
    0.119,
-   5.6,
+   6.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "PEPE2",
-   "9hkkyCfHCu2Y8nUM7DxqnSU2K462L1MXKBkW5iXLpump",
-   0.118,
-   3.4,
-   ""
   ],
   [
    "HACKER",
    "ABcgSRpHohFcsQoc7R8dt6vvUdh4kHBWnqFQ9vhKpump",
+   0.109,
+   6.9,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "UNLOCK",
+   "B6w17HdX4HiqBTgs2YSc2HkbWkW7Sgn4sKkRSs76pump",
    0.084,
-   5.8,
-   "buyers=3; top5_hold_most=100%"
+   4.2,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "BOUNTY",
+   "Hb34ZFXGyHB1QzddHyz6s9uYL31f12HjhA3mxtEE89a4",
+   0.083,
+   5.1,
+   ""
+  ],
+  [
+   "PEPE2",
+   "AFwZiRtHfWokhkeP7NXzN1Zwnq6tMGdT4tXyEDMpump",
+   0.077,
+   2.1,
+   ""
   ]
  ]
 }
