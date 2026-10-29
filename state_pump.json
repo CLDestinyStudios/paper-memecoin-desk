@@ -6498,83 +6498,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:06:23",
+   "2026-10-29T16:07:21",
    32.58
   ]
  ],
- "cycles": 2252,
+ "cycles": 2253,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.23249109865002,
- "watching": 384,
+ "sol_usd": 96.26325772929998,
+ "watching": 393,
  "near": [
   [
    "RETARD",
    "CXcoqBLzatUphFSDLgsDrqJncZJ3JYkFgse4NgDVpump",
-   0.914,
-   3.2,
+   0.979,
+   4.1,
    ""
   ],
   [
    "HACKTOBER",
    "G8HeiPdMGwZnmU35kgFPfhcBdatwmCcqxPUJpgzfpump",
-   0.549,
-   5.2,
+   0.599,
+   6.1,
+   ""
+  ],
+  [
+   "EI",
+   "JDQGRhgqjXdpMdCWtT8NQSCbcEYVohvu9bisaPbEpump",
+   0.334,
+   3.2,
+   ""
+  ],
+  [
+   "usdhc",
+   "EWVPJ21fWntVvRbQ8J66rNYvqcwQgQ39oUStgHmzpump",
+   0.276,
+   5.0,
    ""
   ],
   [
    "AAI",
    "3xy73As4RmmXxUjKaSBv6q2pLPoQNnNufKtTEbgPpump",
-   0.486,
-   3.7,
-   "launch_slot=missing"
-  ],
-  [
-   "usdhc",
-   "EWVPJ21fWntVvRbQ8J66rNYvqcwQgQ39oUStgHmzpump",
-   0.277,
-   4.1,
-   ""
+   0.171,
+   4.7,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "AAI",
    "Ea98mV14EdcUkxc3HpJ8LBjGknyjjkQtwuoHguvLpump",
-   0.173,
-   5.9,
+   0.16,
+   6.9,
    ""
   ],
   [
    "HI",
    "8t2wMDNcp7F1RQVSujoyDzXr8eaCEyQyqjEcfxqwpump",
    0.143,
-   4.3,
-   ""
-  ],
-  [
-   "RETARD",
-   "2TNa8Jh8VwXRWiSJnnvkNuQ4wUeQyifQS2MD21j3pump",
-   0.141,
-   3.7,
+   5.2,
    ""
   ],
   [
    "AAI",
    "8Y5taXGHwUog8oK7518hJpHXwUN2qyUAY5NogsC7pump",
    0.134,
-   5.6,
+   6.5,
    ""
   ],
   [
    "AAI",
    "7LFo7KB4Qf1pKAu3Qj3QLq2nhBRXrdKk3L73QiNpump",
    0.128,
-   5.6,
+   6.5,
    ""
   ],
   [
    "AAI",
    "8igjtx5pg61uDU87ndaQF7KFQpqBdd2TB7buuMKGpump",
-   0.117,
-   5.1,
+   0.125,
+   6.1,
    ""
   ]
  ]
