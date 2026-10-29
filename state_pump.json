@@ -6414,84 +6414,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:48:03",
+   "2026-10-29T12:49:00",
    32.58
   ]
  ],
- "cycles": 2054,
+ "cycles": 2055,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.016381172,
- "watching": 249,
+ "sol_usd": 99.99,
+ "watching": 240,
  "near": [
   [
    "MLC",
    "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
-   0.781,
-   3.3,
+   0.725,
+   4.2,
    ""
   ],
   [
-   "MLC",
-   "5ZT6mJV7z7KstfgbPPHcKg7s3ZiYFnkP62ywvTUUpump",
-   0.686,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "MEWMEW",
-   "E7awV4WLjwJWFDDvDeHDe29swqQpZusEgf3Dmyvtpump",
-   0.555,
-   5.3,
-   ""
+   "PATRICK",
+   "6cyooEqD6hodkCrHBcRvTkgkDDjSKShJ9HckdFCspump",
+   0.378,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "PS5",
    "7FAvsmF6osVimxRGyrJMrgfA5mbEh7y8HLkSM1mqpump",
-   0.152,
-   5.9,
+   0.316,
+   6.9,
    "buyers=7; top5_hold_most=88%"
+  ],
+  [
+   "TFL",
+   "bVboGcrpwdd7aFJnvXS459z9hX27SXCcpnTjaUvpump",
+   0.113,
+   3.0,
+   ""
   ],
   [
    "ODYSSEE",
    "BuDqBg6wSNM2D6P6FjWt5uASZErk9oCwqj2FC9yTpump",
    0.086,
-   7.0,
+   7.9,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "ARAIL",
-   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
-   0.083,
-   7.6,
-   "buyers=9; top5_hold_most=90%"
   ],
   [
    "MLC",
    "6F1fF9aGFf223YeRJSUJHsQgiXfkAW3wxzV2gcr8pump",
    0.081,
-   2.4,
+   3.4,
    ""
   ],
   [
    "MORE",
    "BY88mjVqg6i6i4XS84Tby1HXhzHpP1pVwV5ShStMpump",
    0.075,
-   5.7,
+   6.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "MORE",
    "4qUTjgsYgx1hCAbwYWLCjjHKWn8BkQbTPUj1Gu5d7MCg",
    0.072,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "MIKA",
-   "GgTy5xP2LnU4bsB1rh4UEYMFisN6MgfxHJHQLxGzxFzD",
-   0.067,
-   2.4,
-   "bundled_launch=4 extra buys in creation block"
+   "ARAIL",
+   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
+   0.054,
+   8.5,
+   "buyers=9; top5_hold_most=90%"
+  ],
+  [
+   "COLUM",
+   "F7dC9rzCMs1QzFEBmwN5pvacsLey6ZxBb2pQVN93pump",
+   0.044,
+   5.0,
+   ""
   ]
  ]
 }
