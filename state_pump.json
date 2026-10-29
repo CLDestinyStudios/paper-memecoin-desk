@@ -6462,83 +6462,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:38:04",
+   "2026-10-29T14:39:03",
    32.58
   ]
  ],
- "cycles": 2164,
+ "cycles": 2165,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.83999999999999,
- "watching": 328,
+ "sol_usd": 97.77000000000001,
+ "watching": 331,
  "near": [
+  [
+   "CSI",
+   "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr",
+   1.0,
+   2.3,
+   "graduated"
+  ],
   [
    "CI",
    "3s4gSTiaV8njPixQt8aeboRDPT871Xcssba75RYspump",
-   0.938,
-   2.1,
-   ""
+   1.0,
+   3.1,
+   "graduated"
   ],
   [
    "BER",
    "257yaViGhqKR641zkKU9JUvS1czyFowTL26mX3UUpump",
-   0.563,
-   7.9,
+   0.571,
+   8.9,
    ""
   ],
   [
-   "TIT",
-   "7EfosxNa5BqfdgbwS8Steyc7xn1H7xXBC9o3iwyopump",
-   0.498,
-   3.0,
-   "serial_creator=17 launches/24h"
-  ],
-  [
-   "GLASS",
-   "CCwZEjU3B1E67crLJT5xUAiyDKtex1ejyun9Tyuw6hZS",
-   0.472,
-   2.9,
-   ""
-  ],
-  [
-   "PAOLO",
-   "EhkQ6dcgWV6mpZuzDAC3Fa9zjtJhw86uLqEXR2NmMZo6",
-   0.294,
-   5.3,
-   ""
+   "SAFULESS",
+   "bB1rzHp75QmWrBTydAXm9pYVxovrH4hcaFnHwuopump",
+   0.5,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "SOBACK",
    "HZLonL9A8nxJijiKXeHPHT2mFiSXK5wJcoZJFLGapump",
-   0.265,
-   3.5,
+   0.262,
+   4.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Hack",
    "Byh11yTSPtYqAChJv3eaNjpTLVyWLbb7gYcrQw2bpump",
-   0.202,
-   2.8,
-   "top5_hold_most=89%"
-  ],
-  [
-   "BNB",
-   "245mGPS5jVoV6o3RX4eMuLxihrH7nXyizqPp9WNEpurp",
-   0.202,
-   2.6,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "OPSEC",
-   "1k1ri57sRVGUX9ksvucUUtLU3KLeh5FvqUvb1j7b8Ba",
-   0.185,
-   5.0,
-   ""
+   0.213,
+   3.8,
+   "top5_hold_most=82%"
   ],
   [
    "cyber",
    "85jXSb6F2XkQm1kPzj4ujhbDHqfFbgSuDfi8BsB8pump",
    0.182,
-   2.5,
+   3.5,
+   ""
+  ],
+  [
+   "SAFU",
+   "7ZmieZakrJsLNc7G92BRe5EwpjsnzRL9apB66qRWC3Na",
+   0.108,
+   9.2,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "Si",
+   "A8B5aE6LtBDiTdMk55UpA1jGxdFRSYMuH5qeRQThpump",
+   0.104,
+   3.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "SHITTED",
+   "G98FLnwLgPBrPk4QmWkghkRsNjbvsywm8ZWwZjuXpump",
+   0.084,
+   9.6,
    ""
   ]
  ]
