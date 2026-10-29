@@ -4543,83 +4543,83 @@
    79.96
   ],
   [
-   "2026-10-29T00:33:06",
+   "2026-10-29T00:34:06",
    79.96
   ]
  ],
- "cycles": 1320,
+ "cycles": 1321,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.708655361,
- "watching": 142,
+ "sol_usd": 99.7189767971,
+ "watching": 143,
  "near": [
+  [
+   "BTS",
+   "4TvRzrSPg2CFBE3TBfGw7JqFNX8F1mekw2bvTndzpump",
+   0.915,
+   2.2,
+   ""
+  ],
   [
    "AIRO",
    "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
-   0.151,
-   3.6,
+   0.139,
+   4.6,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "KONY",
    "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
    0.115,
-   3.6,
+   4.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "UPTOOMUCH",
-   "3oPTTeF6PMWtgWv6XmxgVPTi1xYtyazW8A7AVH2Dpump",
-   0.076,
-   3.0,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "$CHNABULL",
+   "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
+   0.061,
+   7.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BABYFURY",
    "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
    0.057,
-   4.8,
-   "buyers=8; top5_hold_most=97%"
-  ],
-  [
-   "$CHNABULL",
-   "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
-   0.044,
-   6.7,
-   ""
+   5.8,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "MARCEL",
    "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
    0.044,
-   3.6,
+   4.6,
    ""
   ],
   [
    "TRENDI",
    "AHuicBRzvWjgXetmF5FNmeBc5YsSnJzSyZWTez2wpump",
    0.044,
-   3.5,
+   4.5,
    ""
   ],
   [
    "SSP",
    "HLT9VXgeSPwCPeE8cUbY53sks6wb7dRYNX9y36YGpump",
    0.033,
-   2.6,
+   3.6,
    ""
   ],
   [
    "VOPE",
    "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
    0.025,
-   4.3,
+   5.3,
    ""
   ],
   [
    "Solana ",
    "EL7vbn4MbuyMzkfdK1uTAiwyQ7zQC2vwmKWzJKHqpump",
    0.025,
-   2.2,
+   3.2,
    ""
   ]
  ]
