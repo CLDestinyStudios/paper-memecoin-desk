@@ -13,10 +13,10 @@
    "entry_px": 1.108585851110699e-07,
    "entry_fill": 1.185603182392527e-07,
    "opened": 1793232111.715238,
-   "last_px": 1.3430059634610547e-07,
+   "last_px": 1.3269816414095843e-07,
    "peak_px": 1.4375120587390025e-07,
-   "last_val": 4.156455561257525,
-   "last_prog": 0.736
+   "last_val": 4.106128327510891,
+   "last_prog": 0.732
   },
   "CAX6NZNJfe37SKNbYy6yYU6xAcYhiz4HUjAebnx9pump": {
    "sym": "PaperPump",
@@ -27,10 +27,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 7.300992381979781e-08,
+   "last_px": 7.90566672815272e-08,
    "peak_px": 9.61818945040114e-08,
-   "last_val": 2.9169015452333262,
-   "last_prog": 0.516
+   "last_val": 3.162531480546559,
+   "last_prog": 0.548
   }
  },
  "traded": [
@@ -3315,82 +3315,86 @@
   [
    "2026-10-28T17:12:53",
    124.89
+  ],
+  [
+   "2026-10-28T17:13:53",
+   125.09
   ]
  ],
- "cycles": 880,
+ "cycles": 881,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.3734749235,
- "watching": 253,
+ "sol_usd": 102.36999999999999,
+ "watching": 246,
  "near": [
+  [
+   "DESK",
+   "EAcUXj6Ux37BoZjxtJZ24Yiu3sVmKRdxd1vVnsTrpump",
+   0.915,
+   2.5,
+   ""
+  ],
   [
    "ROOMS",
    "CwRvaRr1AEfAaFqaFHcniyjMZ7X7e6eZnMpmU4otpump",
-   0.882,
-   7.2,
+   0.898,
+   8.2,
    ""
   ],
   [
    "Pedos",
    "6EpA82fNTLFy1czykWKJFk497AbqFtSYPJJgknzQpump",
-   0.841,
-   6.7,
+   0.855,
+   7.7,
    ""
   ],
   [
    "MDECOR",
    "Hw12kd6dvho8UhGQuissyrcErG64gYJtK6dwn66Gpump",
    0.178,
-   7.0,
+   8.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "11/17",
    "7trV1VxeNu4DCtYqm4WchXmmJKv6NCtk783SX9pWpump",
-   0.167,
-   5.5,
+   0.166,
+   6.5,
    ""
   ],
   [
-   "WORKER",
-   "2tES5jdQakhaf2SXoqPhe2H68oPaFAXiH4Vwr3uWpump",
-   0.135,
-   9.6,
+   "ACT:D",
+   "2Ja8hmthyjZa6RYf1dZHkYDtas9SVrP8pEiNv68Rpump",
+   0.126,
+   2.4,
    ""
   ],
   [
-   "SAMBA",
-   "25YP1R6u9rXosNpor4kHnudnEaT4iwUYoqnjPnqmpump",
-   0.089,
-   3.6,
-   "buyers=2; top5_hold_most=100%"
+   "KINS",
+   "AyidEKkkTusji486mhzp2pmgcyxr977xdVGg1Vzwpump",
+   0.111,
+   2.8,
+   ""
+  ],
+  [
+   "MONEY",
+   "5Cf3VbraWqUNYP216T1ioCAJKzRyStpgNpJ1JKnrpump",
+   0.091,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Micromeme",
    "2zN3vq6iaoDqpew4TGPhfsaxDDnWVq2Mbk3vtdDupump",
    0.079,
-   5.4,
+   6.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "CatGPT",
    "7gpu395P2szHrJ546uCFinCsmQ5MN4j7km5Q9AHkpump",
    0.078,
-   8.0,
+   9.0,
    ""
-  ],
-  [
-   "loopy",
-   "BdaLv8UWQDZwyGVmRrhNt6NwvQQ9gZ1KHEv2FTUjpump",
-   0.063,
-   8.5,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "11/17",
-   "9VszzCtpzb3RtSYGc51kfxKF7vL9DWimJgsmVjfVpump",
-   0.057,
-   4.4,
-   "top5_hold_most=96%"
   ]
  ]
 }
