@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.121831301475712e-07,
-   "peak_px": 1.1666580610361144e-07,
-   "last_val": 4.499869799601916,
-   "last_prog": 0.678
+   "last_px": 1.1929793782422118e-07,
+   "peak_px": 1.1929793782422118e-07,
+   "last_val": 4.789208284474239,
+   "last_prog": 0.698
   }
  },
  "traded": [
@@ -3356,82 +3356,86 @@
   [
    "2026-10-28T17:25:49",
    122.37
+  ],
+  [
+   "2026-10-28T17:26:50",
+   122.66
   ]
  ],
- "cycles": 893,
+ "cycles": 894,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.17231601900001,
- "watching": 240,
+ "sol_usd": 102.19,
+ "watching": 238,
  "near": [
   [
    "Unmask",
    "BnvcVvoq8HhrrtSGnBvEEZCbYHchQFVqoZ7kf3k8pump",
    0.45,
-   4.7,
+   5.7,
    ""
   ],
   [
    "WWM",
    "Etc7CZyff3CtGcoADHjp6RuksKZeN2KPG6wNfEjHpump",
    0.148,
-   3.6,
+   4.7,
    ""
   ],
   [
    "fablesquad",
    "93A8578wwzaT3djUTEKgoUPox9vJCPeAVup1jDa8pump",
    0.136,
-   8.4,
-   ""
-  ],
-  [
-   "MAXI",
-   "98Rs31eaE77VxNe49QEwBoNFRxH8Pir9xaksz2pxpump",
-   0.132,
-   7.0,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "WARINU",
-   "53KQbSPVvZqweLJDxtByftrH7MjmNVZ8qs26JFiHKVS5",
-   0.111,
-   8.4,
+   9.4,
    ""
   ],
   [
    "MANI",
    "Bi4FgBKeVY6DrEmGxi82EgBq4H9rmSc1CZui89BRpump",
    0.096,
-   6.4,
+   7.4,
    "buyers=7; top5_hold_most=100%"
   ],
   [
    "PARP",
    "25Mir8fDTgwBFjs1sQNA3JQU3RSCNfCjdgYh7peHpump",
    0.089,
-   8.5,
+   9.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "SMILE3",
-   "2xyJk3N7NVqqw7ZZnH442MjSXSVm69s2bqfgyKnDDKxw",
-   0.062,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "RUBBISH",
-   "9SJZFwnF6tLs1yQJ84W5fegisfLdnEL8UGHri8ftpump",
-   0.047,
-   7.8,
+   "WARINU",
+   "53KQbSPVvZqweLJDxtByftrH7MjmNVZ8qs26JFiHKVS5",
+   0.074,
+   9.4,
    ""
   ],
   [
-   "X-07",
-   "9ccbDBZSwcCq55TASXhCLp5g4pR1pp1Vy47ucpFrpump",
-   0.038,
-   4.3,
+   "WWM",
+   "4yeueaezf6yc8xpfZ3zNYcAV9HMuctNsRCJ7D6Xqpump",
+   0.073,
+   2.5,
    ""
+  ],
+  [
+   "fridge",
+   "X1VD6747ez6ru44J9gnAkVDSrTfxAKoQ11eLwqqpump",
+   0.073,
+   2.4,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "PSU",
+   "4yfBSBxwNe41MBrXCoPdFUvG1CtzzQDorfLeLF5opump",
+   0.068,
+   2.3,
+   ""
+  ],
+  [
+   "MAXI",
+   "98Rs31eaE77VxNe49QEwBoNFRxH8Pir9xaksz2pxpump",
+   0.049,
+   8.1,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
