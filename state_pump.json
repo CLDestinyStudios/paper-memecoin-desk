@@ -6510,83 +6510,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:35:21",
+   "2026-10-29T16:36:20",
    32.58
   ]
  ],
- "cycles": 2281,
+ "cycles": 2282,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.4167236185,
- "watching": 310,
+ "sol_usd": 96.26,
+ "watching": 298,
  "near": [
   [
-   "beans",
-   "3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT",
-   0.697,
-   9.4,
-   ""
+   "UHI",
+   "BsuyZLe4SvFU8G4D5N38eygxk8hESLHzspvTx66apump",
+   0.522,
+   2.5,
+   "launch_slot=missing"
   ],
   [
    "cat",
    "5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump",
-   0.228,
-   7.9,
+   0.345,
+   8.8,
    "buyers=9; top5_hold_most=80%"
   ],
   [
    "commotitty",
    "FkSqhYZmxMa89TM6awaeLjLHdZoDAs2Lm1GvfQM1pump",
-   0.192,
-   6.9,
+   0.202,
+   7.8,
    ""
+  ],
+  [
+   "ZCAT",
+   "5aWff5Z9sLRavv5GETupmsYuiVTryZabsrVeTTsJpump",
+   0.172,
+   3.1,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "beans",
    "BCumPokjGCpsp1myFLAo65Vh1R37ZR3vnfXs952Zpump",
-   0.125,
-   4.5,
+   0.123,
+   5.5,
    ""
   ],
   [
-   "simulation",
-   "AHPaeQA9fkvCkGH92xzCb24AxjfTKniTiAPd3VXyWJuc",
-   0.114,
-   10.0,
-   ""
+   "CA",
+   "FGA7pcjY68sbpEWStEEXEtJvem3wtnP9WMHnXDW2sqdy",
+   0.116,
+   6.0,
+   "buyers=6; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "currency",
    "G3BgcX6XD3g83ZfzXAvaWLjiy2b3epN2byW1XBsdpump",
    0.108,
-   4.2,
+   5.2,
    ""
   ],
   [
-   "NEKO",
-   "7Lu41WBXZdpKuszwqpCEapthAKX4MmxUZRoqkCjqpump",
-   0.107,
-   5.1,
+   "beans",
+   "HdCLqAtuHnzw9SwK1VvmvKfu6Hst7xW1W4C6B9Jpump",
+   0.083,
+   10.2,
    ""
   ],
   [
-   "BEANS",
-   "HLXpTJRvPnuHTBFZVg3QqbRHDjapWnU68nuq1rk8pump",
-   0.098,
-   9.5,
+   "MBA",
+   "3Czras4RNb9151EpoKZwr2rRbVqVY4jtXiom5cGfpump",
+   0.083,
+   3.3,
    ""
   ],
   [
-   "0",
-   "C9mGfLCw291jkFQEyRPkMnWyg5BgWEFoPBAd1Hy4pump",
-   0.097,
-   5.9,
-   ""
-  ],
-  [
-   "CAN",
-   "5ZoxQfT3FKjpx2yBngmXcJ9JfEvPDZbr7URcjjWMGmVH",
-   0.091,
-   9.5,
+   "proof",
+   "FSPaXgTGRC4tHRZGCmEuEGTbg5CaZRJ4BTYD36iZpump",
+   0.079,
+   4.3,
    ""
   ]
  ]
