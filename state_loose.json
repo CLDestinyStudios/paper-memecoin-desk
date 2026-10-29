@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 378.1221717113764,
+ "cash": 397.85347890091884,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -9,20 +9,9 @@
    "mark_entry": 0.03037,
    "cost": 20.54,
    "peak": 0.05488,
-   "last": 0.05461,
+   "last": 0.05466,
    "opened": 1793253786.137508,
    "p_buy": 0.75
-  },
-  "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": {
-   "sym": "NIO",
-   "qty": 32679.738562091505,
-   "entry": 0.000666468,
-   "mark_entry": 0.0006534,
-   "cost": 21.78,
-   "peak": 0.0006534,
-   "last": 0.0006483,
-   "opened": 1793315763.955157,
-   "p_buy": 0.55
   }
  },
  "watch": {},
@@ -7456,8 +7445,12 @@
   [
    "2026-10-29T16:18:03",
    434.37
+  ],
+  [
+   "2026-10-29T16:19:03",
+   433.37
   ]
  ],
- "cycles": 2284,
+ "cycles": 2285,
  "started": "2026-10-28T01:46:56"
 }
