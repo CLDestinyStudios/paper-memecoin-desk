@@ -6442,83 +6442,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:55:07",
+   "2026-10-29T13:56:08",
    32.58
   ]
  ],
- "cycles": 2121,
+ "cycles": 2122,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.76000000000002,
- "watching": 289,
+ "sol_usd": 96.60954796164755,
+ "watching": 282,
  "near": [
   [
-   "Shadow",
-   "Eb4SxWgieZGqSW12pNpxJQinV5w5nfUeWG8mgEmCpump",
-   1.0,
-   6.9,
-   "graduated"
+   "OREN",
+   "CQwTUCSNWmpWUZ1CmWHt2qZg3gPUxRntMXBLVUVQQUSf",
+   0.611,
+   5.5,
+   "buyers=1; creator=48.4%; top10=48.4%; top5_hold_most=100%"
   ],
   [
    "offchain",
    "9jrymsK4ozsFBZ9pNgBdXa7emg4vCToj8qsVpJiaxajb",
-   0.827,
-   2.2,
-   ""
+   0.598,
+   3.2,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "OREN",
-   "CQwTUCSNWmpWUZ1CmWHt2qZg3gPUxRntMXBLVUVQQUSf",
-   0.612,
-   4.5,
-   "buyers=2; creator=48.4%; top10=48.5%; top5_hold_most=100%"
-  ],
-  [
-   "PAD",
-   "8YzG5Lm8v4HxYEA3BN49vX8Nk5Zn3NQYnnxLZfVZpump",
-   0.375,
-   2.9,
-   ""
+   "BINHACK",
+   "43Mi4KHYAE7EHWZPqrjaSdqEicY8dqqf1f6cJn5Qpump",
+   0.368,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "AKASHA",
    "7uKxeyBZce83KcYz4orVR8BCTZjUqKMMiTcSphZRpump",
-   0.322,
-   7.1,
+   0.313,
+   8.1,
    "buyers=8; top5_hold_most=94%"
   ],
   [
    "POLY",
    "G1VdeURiEkRJsZgWMEHXdUXseNGnvJLrE6RHQy2dpump",
    0.275,
-   6.9,
+   7.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "BEAR",
    "27uCD72VSsLTiwT293V9yVU7nNgRr6g5FQWLs41Jpump",
-   0.193,
-   3.2,
+   0.189,
+   4.3,
    ""
   ],
   [
    "OVER",
    "D1KugXegBk7JNsiSLuoZt9fmd5AKR1NbhVJ3Gksspump",
    0.156,
+   3.8,
+   ""
+  ],
+  [
+   "offline",
+   "Gvxa7n9Diio1r86W3ydJ1GjUngLZQsjxLgxwKJ5vpump",
+   0.117,
    2.8,
    ""
   ],
   [
-   "VIKO",
-   "6RtzFwnJq9XddYioHiZS34C6N4mQ4ooBS896NshDpump",
-   0.148,
-   9.5,
-   "buyers=9; top5_hold_most=100%"
+   "Down",
+   "DWaEpMUq1mtpBZCtsLSXsNpXHgFx1UV8ZkHGRctQpump",
+   0.107,
+   3.7,
+   ""
   ],
   [
-   "offchain",
-   "5d1F66FVAxYXLQcMsrE9KB9uvRrPhuCihDRGrP2zpump",
-   0.144,
-   2.2,
+   "offline",
+   "5d3XWRVCKJVgC36GBr9fnM9cxXcnatpMjEPs15TDpump",
+   0.106,
+   2.7,
    ""
   ]
  ]
