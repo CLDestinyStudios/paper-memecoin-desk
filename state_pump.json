@@ -6352,81 +6352,85 @@
   [
    "2026-10-29T10:24:54",
    32.58
+  ],
+  [
+   "2026-10-29T10:25:55",
+   32.58
   ]
  ],
- "cycles": 1911,
+ "cycles": 1912,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.553964014,
- "watching": 334,
+ "sol_usd": 101.6,
+ "watching": 349,
  "near": [
-  [
-   "X",
-   "A1G7qDPBjCzGNW3GgTa6kvkQSheckwSvvVWFft46pump",
-   0.593,
-   2.6,
-   ""
-  ],
-  [
-   "\ud835\udd4f",
-   "BjPcTtQiY8ausqUvQvbxwb75rvmge3D9DvXKSXVApump",
-   0.356,
-   9.4,
-   ""
-  ],
   [
    "WWHALE",
    "GGjXQ4KQbz5Ma7sqNnFTSFzUmDnQxvUe4AHLabRepump",
    0.259,
-   5.6,
+   6.7,
    "buyers=9"
+  ],
+  [
+   "X",
+   "A1G7qDPBjCzGNW3GgTa6kvkQSheckwSvvVWFft46pump",
+   0.203,
+   3.6,
+   ""
+  ],
+  [
+   "ALOOOOOONG",
+   "6VuktFbFfc3ob2YJsXo4KFShTnFgzwk3Ek1uXDA7dGrY",
+   0.176,
+   2.4,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "NAKO",
    "5gZJd9NgKypJN25ccEbKncoQKy6VqxfwkT6amArcpump",
-   0.103,
-   3.6,
-   "buyers=7; top5_hold_most=91%"
-  ],
-  [
-   "Dogth",
-   "GYpy7BjEGdKp71QhTd42WAmod9V3Gb6G4H5GPFKppump",
-   0.102,
-   3.2,
-   "buyers=7; top5_hold_most=92%"
-  ],
-  [
-   "HI",
-   "2Qvhh9BNfYjvyHycHgVW1zLb6WQQ2sokEm88vYv4pump",
-   0.099,
-   5.2,
-   "buyers=8; top5_hold_most=96%"
+   0.111,
+   4.6,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
    "X",
    "EmC5g9BsxGaoBvt3oW4qGv3eDiUEz7RJEvPEBct9fKzJ",
    0.083,
-   2.9,
+   4.0,
    ""
   ],
   [
    "X",
    "4YLtE8aXwMZGLhJfPqFpCDYLYJQUmhatFZ8pfxPZpump",
    0.082,
-   3.6,
+   4.6,
    ""
-  ],
-  [
-   "HYPER",
-   "ENoNb7LNSgmcBWUPoRHmv8WAM3fdGyLtbXJA4t9Mpump",
-   0.079,
-   2.9,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "SELECTED",
    "Fmb2Bzwn39cgiTKNH4uGvYDx1QfSVgyHzfSUoikbpump",
    0.074,
-   7.1,
+   8.1,
+   ""
+  ],
+  [
+   "X",
+   "GRvh313qD3spSpfHU5jujGsLd3BHEGWv63fSqWmEpump",
+   0.074,
+   2.9,
+   ""
+  ],
+  [
+   "Abundance",
+   "7e3iUmCtWtaGv9BpXRbfTiKyGa7W5LvXpENsohLopump",
+   0.07,
+   2.0,
+   ""
+  ],
+  [
+   "CallMyCoin",
+   "84GKtit9FAvsHKchUeX4noKcnCxLCyUgeBE9JoVB2Mkq",
+   0.069,
+   9.8,
    ""
   ]
  ]
