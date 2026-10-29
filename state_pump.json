@@ -3726,81 +3726,85 @@
   [
    "2026-10-28T19:35:49",
    117.19
+  ],
+  [
+   "2026-10-28T19:37:19",
+   117.19
   ]
  ],
- "cycles": 1023,
+ "cycles": 1024,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.29214117515,
- "watching": 192,
+ "sol_usd": 99.220297618,
+ "watching": 186,
  "near": [
   [
-   "Fatfish",
-   "Hxd1iJUyeA6oDjhUxHqDtR86UFGZFPreKkazrc8Dpump",
-   1.0,
-   8.0,
-   "graduated"
+   "Survival",
+   "BzRqqacSDzDM5KFqwwNv7uWQK8Z5eSBqKwMQ3EcBpump",
+   0.211,
+   6.2,
+   ""
+  ],
+  [
+   "WEENIE",
+   "3PCAcdQRLKcjmJVMH9aEuMRNygTT2fBEnt8KE1Rgpump",
+   0.14,
+   7.9,
+   ""
   ],
   [
    "PONZI",
    "74eE9A2TByKwh5D4a6JPM8SvaAP76hyZm9qh2bbBpump",
-   0.1,
-   2.3,
-   "buyers=7; top5_hold_most=93%"
-  ],
-  [
-   "COTUS",
-   "BT746R99tvULSh6jDsc5BF16kXrE17Gr8LkQ2Pxmpump",
-   0.082,
-   9.2,
+   0.097,
+   3.8,
    ""
   ],
   [
-   "\u5927\u80a5\u9c7c",
-   "FNegZGCW6QsruzmZBv54wCP7wAEx3LqQ4adJ5Mp6pump",
+   "UBUR",
+   "9zRTmATDRvkFhmpWCywS293TZ4aL6P3EfKvahHuzpump",
+   0.085,
+   2.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "GHOSTCAT",
+   "FUsU3nh3uVLhFCGp8nCzZbTRbiX4LS174j1Kvn6ipump",
    0.043,
-   9.4,
+   2.9,
    ""
   ],
   [
    "LVT",
    "GAyMGM85Cx4aSzEBmb5X46oyMg6RRhzNen9mwkDNpump",
-   0.028,
-   3.8,
-   ""
-  ],
-  [
-   "Purrcast",
-   "Disu6eChUFA9znQyvXsrK27Eh9iioqFHeVR92e7hpump",
    0.022,
-   9.0,
+   5.3,
    ""
   ],
   [
    "$STESLA",
    "3nBzzByNA5rQ8YsHGPL3Gi4dWytj8B7BzELrnapmpump",
    0.019,
-   2.9,
+   4.4,
    ""
   ],
   [
    "$NOTHING",
    "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
    0.015,
-   5.6,
+   7.1,
    ""
   ],
   [
    "Blackout",
    "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
    0.013,
-   5.8,
+   7.3,
    ""
   ],
   [
-   "COTUS",
-   "62pS9xc7R2doenTcS1ynP8Go7HLZYsrHt9yHvfUTpump",
-   0.008,
-   9.6,
+   "Solana ",
+   "HX1wPDXsDfVRkcXDLkzVu89Z9y1KKsYE2qp22gQwpump",
+   0.006,
+   4.8,
    ""
   ]
  ]
