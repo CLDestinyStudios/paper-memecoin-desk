@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.592112113385996e-07,
+   "last_px": 1.8912409561774298e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.1442061096564706,
-   "last_prog": 0.786,
+   "last_val": 1.367708833315466,
+   "last_prog": 0.833,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5386,82 +5386,86 @@
   [
    "2026-10-29T05:11:22",
    58.9
+  ],
+  [
+   "2026-10-29T05:12:22",
+   59.12
   ]
  ],
- "cycles": 1598,
+ "cycles": 1599,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.14000000000001,
- "watching": 246,
+ "sol_usd": 100.07725,
+ "watching": 258,
  "near": [
   [
-   "ALON",
-   "6mLA2228XHTuf47XjR73C1JqPyxhX9Hja5n2nxYKpump",
-   0.181,
-   2.8,
-   ""
+   "HI",
+   "GpHRKALgvXv7rBQyFq4xvumZgiHCy7BL462kEgoBpump",
+   0.336,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "NNN",
-   "3ZRaCCLiMnVe99M8v2dVSQr3phGvpgtPom5JXF9epump",
-   0.142,
-   2.1,
-   "top5_hold_most=90%"
-  ],
-  [
-   "ICECAT",
-   "2UdoVDRfeNsMDtd4y7ziRXRP4fa7o84PN492Z1jCikUQ",
-   0.137,
-   3.2,
-   ""
-  ],
-  [
-   "Multi cat",
-   "HRtVshE7FzrUHcSabebLohBR8LXmVqLzw1FuyFcapump",
-   0.127,
-   4.0,
-   ""
+   "GTBONK",
+   "55Lj2TYA3swDTErvwzuP9JeW6mkQjT1hN8raf5yXpump",
+   0.201,
+   2.7,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "PIRATE",
    "7bXhRSnPu67Pt1drn7mFpiHZEh5mVPUZZtaQ5BMCpump",
-   0.11,
-   4.4,
-   "buyers=7; top5_hold_most=99%"
+   0.181,
+   5.4,
+   "top5_hold_most=88%"
+  ],
+  [
+   "ICECAT",
+   "2UdoVDRfeNsMDtd4y7ziRXRP4fa7o84PN492Z1jCikUQ",
+   0.145,
+   4.2,
+   ""
+  ],
+  [
+   "ALON",
+   "6mLA2228XHTuf47XjR73C1JqPyxhX9Hja5n2nxYKpump",
+   0.106,
+   3.8,
+   ""
+  ],
+  [
+   "Dawid",
+   "5GsiXCsWs6Ekfg6TCRy7eQRthyoiB4c2Ufg6XWxRpump",
+   0.094,
+   2.8,
+   ""
   ],
   [
    "ICECAT",
    "CmfETzZd5zXhubDNjkF2Ra7HxQ9ba5KQAV5qDChBPnFX",
    0.084,
-   3.8,
+   4.8,
    ""
   ],
   [
    "Cockfish",
    "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
    0.071,
-   2.5,
+   3.5,
    ""
   ],
   [
    "Walkoor",
    "8UMuGCNZ2ggwtiUYP6kB3ztDqu6f9HVKUBQt2QZipump",
    0.07,
-   2.3,
+   3.3,
    ""
   ],
   [
    "GTAVI",
    "GowRcDGK8G9MF3bLEgxAXXs6Dzoodpn6NFo6yX86pump",
    0.07,
-   2.7,
+   3.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "penisfish",
-   "Ft45NqGvqa7aXLjiq576SDmZVZMuC9pUWoH6LBjypump",
-   0.065,
-   4.6,
-   ""
   ]
  ]
 }
