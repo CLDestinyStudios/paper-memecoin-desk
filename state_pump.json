@@ -15,7 +15,7 @@
    "opened": 1793274746.1827707,
    "last_px": 7.169793670243058e-08,
    "peak_px": 7.355847130291046e-08,
-   "last_val": 1.8437022509443783,
+   "last_val": 1.8433462466255346,
    "last_prog": 0.508
   },
   "HNX8tvyefGDArgak3rw6qZUkEK3tnWRkas7zfaSspump": {
@@ -27,10 +27,10 @@
    "entry_px": 3.683326760006071e-08,
    "entry_fill": 4.001941011358588e-08,
    "opened": 1793275162.9149787,
-   "last_px": 5.723530598905137e-08,
+   "last_px": 5.708344505215857e-08,
    "peak_px": 5.723530598905137e-08,
-   "last_val": 1.134533436826733,
-   "last_prog": 0.407,
+   "last_val": 1.1311722911108721,
+   "last_prog": 0.406,
    "tp1_done": true,
    "realized": 0.259533436826733
   }
@@ -5359,81 +5359,85 @@
   [
    "2026-10-29T05:01:25",
    58.91
+  ],
+  [
+   "2026-10-29T05:02:21",
+   58.91
   ]
  ],
- "cycles": 1588,
+ "cycles": 1589,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.18645785542132,
- "watching": 182,
+ "sol_usd": 100.16711264300001,
+ "watching": 183,
  "near": [
   [
    "CLAPCAT",
    "6qCL9XktXUdbf1TfJdyaBZxuXwhrA3zTFFnVC7oTpump",
    0.297,
-   4.7,
+   5.6,
    "top5_hold_most=89%"
-  ],
-  [
-   "WOFL",
-   "B6hsBk8rL2dEL4AZbd2X62A8zJAewxJGiBSv5Bo7pump",
-   0.23,
-   2.4,
-   "buyers=7; bundled_launch=7 extra buys in creation block"
   ],
   [
    "Oren",
    "9VjBEWJMmwZwpsAbA1FNekA1ixkoCUwzPEmQwtoRpump",
-   0.13,
-   2.6,
-   "buyers=7; top5_hold_most=99%"
-  ],
-  [
-   "OREN",
-   "581P5KRb2fJRzVcieey49bLmGTN3R3AoyffTYCFFpump",
-   0.105,
-   10.0,
-   "buyers=6; top5_hold_most=98%"
-  ],
-  [
-   "HDGE",
-   "7Z8eUNZZ7yjmwdBG5hcPDScNyRHj7gyBSZ7oC8GWpump",
-   0.083,
-   2.8,
-   ""
+   0.109,
+   3.5,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "MUSIC",
    "3UYdnRHXJnSg5U1AprsVDGq1iDgNEF5onkkGyCompump",
-   0.079,
-   2.1,
-   "buyers=6; top5_hold_most=99%"
+   0.077,
+   3.0,
+   "buyers=7; top5_hold_most=96%"
+  ],
+  [
+   "HDGE",
+   "7Z8eUNZZ7yjmwdBG5hcPDScNyRHj7gyBSZ7oC8GWpump",
+   0.059,
+   3.7,
+   ""
   ],
   [
    "awesome901",
    "3mpKWLLGqHCBvejYp7wPkJD6NuW1fDQLbPLMDEAkpump",
    0.045,
-   2.1,
+   3.1,
    ""
   ],
   [
    "!LAMPs",
    "681wqXiUoBCyLHcVZYPdSQPs4GVUNefukJ9SmCe6pump",
    0.04,
-   7.8,
+   8.8,
    ""
   ],
   [
    "OREN",
    "8wJNQJ4uhJJh8hHKRWKu5YBTwXHhx1n3dFuSMBc6FKW1",
    0.039,
-   7.4,
+   8.4,
    ""
   ],
   [
    "MCha ",
    "5Cvei1BEn3ZRpbHS275Zaid86hndZ7rqTNLCNWa7pump",
    0.029,
-   7.4,
+   8.3,
+   ""
+  ],
+  [
+   "awesome901",
+   "GR8bAKfeGDwEfsYXvWLbax8UMy9WJtGYgdTmfPk7pump",
+   0.02,
+   6.2,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Lingo",
+   "CjFtXWaXu5rXvqq6EprGQwCW2hdNfRnmKefpmApQpump",
+   0.019,
+   5.9,
    ""
   ]
  ]
