@@ -6478,83 +6478,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:16:17",
+   "2026-10-29T15:17:16",
    32.58
   ]
  ],
- "cycles": 2202,
+ "cycles": 2203,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.7772369561,
- "watching": 270,
+ "sol_usd": 96.74,
+ "watching": 284,
  "near": [
   [
    "PROFIT",
-   "5fsESPweqQ1JrSRyKsV3tFnWqQys3Mis6gFyfupjpump",
-   1.0,
-   2.4,
-   "graduated"
-  ],
-  [
-   "SIDES",
-   "DTNNJrr7yLb6XaWHwFJGYefo2sroFHry7YKkJqu5pump",
-   0.381,
-   3.4,
-   "bundled_launch=9 extra buys in creation block"
-  ],
-  [
-   "ONEROAD",
-   "FiSsnXfZ3wvjzn8nAGw6jJCZNcY7HEsZfxyaSgg74rn8",
-   0.212,
-   8.7,
+   "EVCUvzcyvTnQ47tX69pvzhHVXoQNRTyCFK8zG1s1pump",
+   0.933,
+   2.6,
    ""
+  ],
+  [
+   "Higheroween",
+   "9fckckHqvr6NJ7MxxQ6YGSdLbD19mMFdY7o7HTS6pump",
+   0.685,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "OPSEC",
+   "7UguzHiEHbiudBjmdNRrTFfbeao2VrTxtgmc46jHY1bo",
+   0.458,
+   2.5,
+   ""
+  ],
+  [
+   "PROFIT",
+   "HESDtnDtQ8XfW4xFZubjhtsHFT5PQCoRFQ65G31kCLaY",
+   0.281,
+   3.1,
+   "serial_creator=13 launches/24h"
   ],
   [
    "SPREAD",
    "5fm7jQuAW4wV5ZyvTjtyD2jRHyazTLw5HAMp13ocpump",
-   0.2,
-   6.6,
+   0.199,
+   7.6,
    ""
   ],
   [
-   "Changpeng",
-   "AA5CD22mM4TiaiZyiLXqo4LvVrgoA87TB7mMaCjBpump",
-   0.196,
-   2.8,
+   "ONEROAD",
+   "FiSsnXfZ3wvjzn8nAGw6jJCZNcY7HEsZfxyaSgg74rn8",
+   0.189,
+   9.7,
+   "buyers=8; top5_hold_most=82%"
+  ],
+  [
+   "SOUL",
+   "APe4obQj2ov5o5DoeF7Q31qYqFsAXqHgbBnpJfnvpump",
+   0.139,
+   2.3,
    ""
   ],
   [
-   "PRAYPEPE",
-   "3HHgZQPDUhnsLx4ANwWLp8mGxJPmdQHAruDRXoW1pump",
-   0.086,
-   3.4,
+   "PROFIT",
+   "9hFLrc7JTuFdM8TaP5tJFxJhv8HzsqDQkn86w1Nipump",
+   0.108,
+   5.6,
+   ""
+  ],
+  [
+   "PROFIT",
+   "akU9BBhgAXwwYcGejVgJunvSCpXeg6AMwwsX133pump",
+   0.083,
+   2.9,
    ""
   ],
   [
    "SCREAM",
    "3Sqt5Arw4ZngdLGcdEsYTFKRL91arBDKBVyAuZWqpump",
-   0.083,
-   5.0,
-   ""
-  ],
-  [
-   "PROFIT",
-   "2XZSgTX63tKRuUreTdLP5LPvwHWhm1ZZxW4AFmEfpump",
-   0.074,
-   4.6,
-   ""
-  ],
-  [
-   "SOUL",
-   "8rW7naSiDXJUTezhQAJv1hnTotHzxZFsAQmuxnWdpump",
-   0.073,
-   2.8,
-   ""
-  ],
-  [
-   "CZ",
-   "DHkAsrXjSfLfChM3PcgQDHMfre1Vw11BpFZktHtTpump",
-   0.073,
-   8.9,
+   0.081,
+   6.0,
    ""
   ]
  ]
