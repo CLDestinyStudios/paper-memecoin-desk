@@ -13,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 7.355510140589857e-08,
+   "last_px": 7.525581807855223e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8355642903170198,
-   "last_prog": 0.519,
+   "last_val": 0.8559953556469183,
+   "last_prog": 0.528,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5075,81 +5075,85 @@
   [
    "2026-10-29T03:38:21",
    61.39
+  ],
+  [
+   "2026-10-29T03:39:22",
+   61.41
   ]
  ],
- "cycles": 1505,
+ "cycles": 1506,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.37551183750001,
- "watching": 159,
+ "sol_usd": 100.37000000000002,
+ "watching": 158,
  "near": [
   [
    "Purrps",
    "CMaSuodfJJ6FWTyU9Hi3GhGqgWi5rVo7fgLki7KmBXxH",
-   0.939,
-   2.6,
+   0.602,
+   3.6,
    ""
+  ],
+  [
+   "kbaby ",
+   "4f16crSPaQNZsKQ6KHQMrJEyNdTMZ6FNoi2Ti7Q6pump",
+   0.139,
+   2.9,
+   "top5_hold_most=84%"
   ],
   [
    "Purps",
    "GNB58Da4JsHQR7LcvQ79GS77aNAfi9p5kTwJ4qBopump",
-   0.127,
-   3.5,
-   ""
-  ],
-  [
-   "$LPC",
-   "kAa8xUeRowesrsVxpfPnig4AnMVAGXYesBEg1Pxpump",
-   0.098,
-   9.1,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Nasduck",
-   "5rToPpXw4Cs2q5o9pN6zUFmLbYTY4iA2e2sty6rypump",
-   0.086,
-   4.8,
-   ""
-  ],
-  [
-   "Purrps",
-   "2F3rApoXvKsUf9B5hrgugqMhiZpwEpMjuS37J3CGdtaJ",
-   0.064,
-   2.1,
+   0.126,
+   4.6,
    ""
   ],
   [
    "CROCS",
    "EUwBQxucxt3RRnxxYEbR9oQxZ15MAQnVAY8pxArapump",
-   0.047,
-   2.3,
+   0.105,
+   3.3,
    ""
   ],
   [
-   "PURPS",
-   "5ZU3AiFWrVhYqT7rTuKBMSFVHhSg9TXbzEReHPckpump",
-   0.044,
+   "CROCS",
+   "EbpBpL12Q35ZHeQbLSTPhbKASiPmXKHpYexnSMG3pump",
+   0.088,
+   2.4,
+   ""
+  ],
+  [
+   "NYSE",
+   "3RWiGaHd2PJ43dwYmZneVsP9KkXiB9kn6595F7ri5LbP",
+   0.087,
+   2.2,
+   ""
+  ],
+  [
+   "Nasduck",
+   "5rToPpXw4Cs2q5o9pN6zUFmLbYTY4iA2e2sty6rypump",
+   0.084,
+   5.8,
+   ""
+  ],
+  [
+   "STREAM",
+   "Dhn5jfq6gMtRD2dAScM11daYXYMrbzrcgPFyJDjypump",
+   0.073,
+   2.8,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "Purrps",
+   "2F3rApoXvKsUf9B5hrgugqMhiZpwEpMjuS37J3CGdtaJ",
+   0.068,
    3.1,
-   ""
-  ],
-  [
-   "ASS BTC",
-   "Ew3A9v7s4zZoPwhL8dumn6u7j92DH8DqYNrXKMGHpump",
-   0.043,
-   3.9,
    ""
   ],
   [
    "$ELYSIUM",
    "CTdpj5RWR8YF4Jje7LEi6cUkv4uaptzFwqGYgxpxpump",
    0.032,
-   3.9,
-   ""
-  ],
-  [
-   "Normie",
-   "5DYVZvCuuDAcucfAuC8BaQ3CPrsg5samzXrjt99ppump",
-   0.026,
-   9.0,
+   4.9,
    ""
   ]
  ]
