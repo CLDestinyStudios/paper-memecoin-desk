@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 384.9905897900278,
+ "cash": 361.8105897900278,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -9,7 +9,7 @@
    "mark_entry": 0.03037,
    "cost": 20.54,
    "peak": 0.05138,
-   "last": 0.05115,
+   "last": 0.05082,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -20,7 +20,7 @@
    "mark_entry": 0.2868,
    "cost": 24.14,
    "peak": 0.2904,
-   "last": 0.2863,
+   "last": 0.2878,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
   },
@@ -34,12 +34,27 @@
    "last": 3.134e-05,
    "opened": 1793304612.4080725,
    "p_buy": 0.56
+  },
+  "7p2ZBjXspFywnRyahtLkSs6eR3S1dZ4A9ugEbPG3pump": {
+   "sym": "HYPERCHAN",
+   "qty": 263483.9443023586,
+   "entry": 8.7975e-05,
+   "mark_entry": 8.625e-05,
+   "cost": 23.18,
+   "peak": 8.625e-05,
+   "last": 8.625e-05,
+   "opened": 1793304663.3561766,
+   "p_buy": 0.7
   }
  },
  "watch": {
-  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": 1793304608.9820247,
-  "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump": 1793304613.5907772,
-  "Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793304613.9844759
+  "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump": 1793304663.3569784,
+  "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun": 1793304663.983804,
+  "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793304663.984038,
+  "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793304664.628527,
+  "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": 1793304665.1270597,
+  "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1793304665.5716302,
+  "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz": 1793304666.035389
  },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -97,7 +112,8 @@
   "6XkQmWgXjvautgTzNMUNqKZQSdjZTsEZW9fJ11jupump",
   "GJKnJsRiM5ATS4yhwjYRegT3iRsXUvcW1dafJPh8pump",
   "FaBb6ebRTGbZWchGiC2eSSRaZWVsFYLe9UqvBuiYpump",
-  "25XYntzwGpubUjgJPTJgv5qKd3Kfp9n5tKKRZAVipump"
+  "25XYntzwGpubUjgJPTJgv5qKd3Kfp9n5tKKRZAVipump",
+  "7p2ZBjXspFywnRyahtLkSs6eR3S1dZ4A9ugEbPG3pump"
  ],
  "equity": [
   [
@@ -6715,8 +6731,12 @@
   [
    "2026-10-29T13:10:18",
    463.7
+  ],
+  [
+   "2026-10-29T13:11:06",
+   462.7
   ]
  ],
- "cycles": 2096,
+ "cycles": 2097,
  "started": "2026-10-28T01:46:56"
 }
