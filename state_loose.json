@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 361.8105897900278,
+ "cash": 381.29027397303435,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -9,7 +9,7 @@
    "mark_entry": 0.03037,
    "cost": 20.54,
    "peak": 0.05138,
-   "last": 0.05108,
+   "last": 0.05111,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -20,7 +20,7 @@
    "mark_entry": 0.2868,
    "cost": 24.14,
    "peak": 0.2904,
-   "last": 0.2873,
+   "last": 0.2859,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
   },
@@ -34,17 +34,6 @@
    "last": 3.134e-05,
    "opened": 1793304612.4080725,
    "p_buy": 0.56
-  },
-  "7p2ZBjXspFywnRyahtLkSs6eR3S1dZ4A9ugEbPG3pump": {
-   "sym": "HYPERCHAN",
-   "qty": 263483.9443023586,
-   "entry": 8.7975e-05,
-   "mark_entry": 8.625e-05,
-   "cost": 23.18,
-   "peak": 0.0001004,
-   "last": 0.0001004,
-   "opened": 1793304663.3561766,
-   "p_buy": 0.7
   }
  },
  "watch": {},
@@ -6731,8 +6720,12 @@
   [
    "2026-10-29T13:12:01",
    466.48
+  ],
+  [
+   "2026-10-29T13:13:00",
+   459.94
   ]
  ],
- "cycles": 2098,
+ "cycles": 2099,
  "started": "2026-10-28T01:46:56"
 }
