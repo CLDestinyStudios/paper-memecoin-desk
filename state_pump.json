@@ -13,10 +13,10 @@
    "entry_px": 3.488566094122119e-08,
    "entry_fill": 3.772598812455949e-08,
    "opened": 1793264843.486543,
-   "last_px": 3.488566094122119e-08,
-   "peak_px": 3.488566094122119e-08,
-   "last_val": 1.7809762750456641,
-   "last_prog": 0.142
+   "last_px": 3.685347434523856e-08,
+   "peak_px": 3.685347434523856e-08,
+   "last_val": 1.8853641177222122,
+   "last_prog": 0.175
   }
  },
  "traded": [
@@ -4736,81 +4736,85 @@
   [
    "2026-10-29T02:07:23",
    69.51
+  ],
+  [
+   "2026-10-29T02:08:21",
+   69.62
   ]
  ],
- "cycles": 1414,
+ "cycles": 1415,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.239821019,
- "watching": 116,
+ "sol_usd": 100.3,
+ "watching": 113,
  "near": [
   [
-   "POLICE",
-   "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
-   0.142,
-   10.0,
-   "bought"
-  ],
-  [
-   "SI",
-   "96yx2Ua2fTWtcEDEjqxA6Ls77RwZQeBw778zzoYupump",
-   0.096,
-   2.1,
-   "top5_hold_most=84%"
-  ],
-  [
-   "luck",
-   "J3idAZRE9LxzigQS5CwFyRSVRjMH4S5RAUoYoXytBY7J",
-   0.087,
-   6.7,
-   ""
+   "TRUST ME",
+   "GTx93KWNw48wM5iDmD4PfEscfpPg3XE6vUmXJZ6spump",
+   0.351,
+   2.6,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "FATINU",
    "3w6hfxoeDwKdPQSU91myCUWMgaUbmhQxy7TKBEzKpump",
-   0.082,
-   3.0,
+   0.081,
+   3.9,
+   ""
+  ],
+  [
+   "SI",
+   "AFxZf2V8ZCuPSb7V8v8TBmRzFK315Sc5YXP9WC3pcvRJ",
+   0.075,
+   3.1,
    ""
   ],
   [
    "LESCAR",
    "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
    0.055,
-   5.0,
+   5.9,
    ""
   ],
   [
-   "SI",
-   "AFxZf2V8ZCuPSb7V8v8TBmRzFK315Sc5YXP9WC3pcvRJ",
-   0.047,
+   "DrawFi",
+   "8kdQXfYwywA3GP2MD6iv7fa83tmwj3VkUFu6sKpNpump",
+   0.043,
    2.1,
    ""
   ],
   [
    "STL",
    "6g3ziZ6niLVzMF55AHP5zLfqsLd5MbXfmHja3PNwayui",
-   0.044,
-   2.3,
-   ""
-  ],
-  [
-   "GREMLIN",
-   "9YejnLLhkYbiQGxyhFTtiaB1yJgytqcRoXg4dDmaNxbs",
-   0.038,
-   4.3,
+   0.036,
+   3.3,
    ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
    0.034,
-   5.7,
+   6.7,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   7.4,
+   8.4,
+   ""
+  ],
+  [
+   "AC",
+   "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
+   0.022,
+   7.8,
+   ""
+  ],
+  [
+   "ZET",
+   "GcWpUT5BxTkkKwyKqakGYccgZmeJ5NyVpz3srNmHpump",
+   0.022,
+   3.0,
    ""
   ]
  ]
