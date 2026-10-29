@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 48.7856995206764,
+ "cash": 49.871912576831264,
  "positions": {
   "B2ro2c1AFemiDDfnCBeVTKx6dZLQ3opB6ygsKo9XwrLi": {
    "sym": "OAKEN",
@@ -13,10 +13,10 @@
    "entry_px": 4.6387731609782184e-08,
    "entry_fill": 5.04918529266908e-08,
    "opened": 1793280564.3861618,
-   "last_px": 6.486549791109048e-08,
+   "last_px": 6.476964460195823e-08,
    "peak_px": 8.988038658421246e-08,
-   "last_val": 0.952433520012222,
-   "last_prog": 0.465,
+   "last_val": 0.9505502709428799,
+   "last_prog": 0.464,
    "tp1_done": true,
    "realized": 0.21908894098316267
   },
@@ -29,24 +29,10 @@
    "entry_px": 4.0786523807937344e-08,
    "entry_fill": 4.439265798531246e-08,
    "opened": 1793281343.7863407,
-   "last_px": 4.820230295867614e-08,
+   "last_px": 4.7037440877516407e-08,
    "peak_px": 5.2399285681603726e-08,
-   "last_val": 1.6487808731943472,
-   "last_prog": 0.323
-  },
-  "Fw4FqPRk2R8nt889JwXSSD989g97Tccu7rQfgDx7pump": {
-   "sym": "TGUY",
-   "bc": "7Nxac74BjLZW7htr3dkuP5yqwxziUQa2UA4bnRSTE8BD",
-   "tokens": 241852.38390701293,
-   "cost": 1.6,
-   "cost0": 1.6,
-   "entry_px": 6.049930555149217e-08,
-   "entry_fill": 6.59072584779509e-08,
-   "opened": 1793281886.0812166,
-   "last_px": 5.295114366568811e-08,
-   "peak_px": 6.049930555149217e-08,
-   "last_val": 1.1688938350978582,
-   "last_prog": 0.37
+   "last_val": 1.6070524017370802,
+   "last_prog": 0.31
   }
  },
  "traded": [
@@ -5724,82 +5710,86 @@
   [
    "2026-10-29T06:52:27",
    52.56
+  ],
+  [
+   "2026-10-29T06:53:27",
+   52.43
   ]
  ],
- "cycles": 1699,
+ "cycles": 1700,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.449213174,
- "watching": 209,
+ "sol_usd": 100.40677440846827,
+ "watching": 202,
  "near": [
-  [
-   "PillPad",
-   "3L2UC4gQumwMPYoBNhtmuJjiphqbRjsvc2JDRVR7pump",
-   1.0,
-   7.4,
-   "graduated"
-  ],
   [
    "ATM",
    "G5VSnuS7coWQnJYJVCiZPzdR3GeCYjwYPU9qX95jpump",
    0.202,
-   7.1,
+   8.1,
    "buyers=9; top5_hold_most=83%"
   ],
   [
    "NCOIN",
    "B1Z1cwAPDS6h1WcDuNZmpjaznXKkzUSW4zjKYMhopump",
-   0.175,
-   5.9,
-   "buyers=9; top5_hold_most=94%"
+   0.174,
+   6.9,
+   "buyers=8; top5_hold_most=95%"
+  ],
+  [
+   "EPCO",
+   "3ifUK8B3XYS2eUEHUH5Y72aNG228vcmuGAe5JoDmpump",
+   0.086,
+   2.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BCha",
    "7ENBmBtTvPEn5XSRhAj3WRNEFsz7MTeVwLaxTK8xpump",
-   0.083,
-   5.5,
+   0.084,
+   6.5,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Mortgage",
+   "Cy5DXZyzeLFS3CDPG9ns3S9hw7aNBBtDYDdm3C8sihrR",
+   0.082,
+   2.5,
+   ""
+  ],
+  [
+   "TEST",
+   "DVQ18RKBCTwssDV7wCAAPQKL3WzVXeBcotfM5CJJAi19",
+   0.08,
+   2.6,
+   ""
   ],
   [
    "Aloooong",
    "Fk3hH5uiKqXpSCAz2DffZLCBKSbJHggkihKtrGnApump",
    0.079,
-   3.5,
+   4.5,
    ""
   ],
   [
    "MURK",
    "2SBKZczguJ86rVPSt1pgBQ94KonGhFCmpwoS84pkpump",
    0.072,
-   7.0,
+   8.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "BLK/SOL",
    "2xkEJPtcmQShBYvRtdhe7JdZqAU7wgpNmAua52i3pump",
    0.068,
-   8.1,
+   9.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "pawswif",
    "54sqfYigQwNem1ks5qXVhEk5C8RsujSQWdEhjwmrpump",
    0.064,
-   4.5,
+   5.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ANTS",
-   "yWCZQctBffaWWw48Frn9QKGxouoiirNGad5K26Lpump",
-   0.05,
-   7.1,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "VECTO",
-   "13JHWoPMXDrALQgVaNhGMupNuY99nXJUQatZgMzipump",
-   0.044,
-   2.2,
-   ""
   ]
  ]
 }
