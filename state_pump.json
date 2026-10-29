@@ -4697,84 +4697,84 @@
    71.47
   ],
   [
-   "2026-10-29T01:44:22",
+   "2026-10-29T01:45:23",
    71.47
   ]
  ],
- "cycles": 1391,
+ "cycles": 1392,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.84431315515,
- "watching": 137,
+ "sol_usd": 99.83814879984999,
+ "watching": 135,
  "near": [
-  [
-   "wCAT",
-   "DN6Hx5yxF3W3WRzmrreCECkicKmmK8gAUBpn3i1Apump",
-   0.328,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "COHERENCE",
    "2x28tR1LbjFNKaRVUcDr3qPHSUKzWXoJoAweAsEXiP34",
    0.157,
-   6.0,
+   7.0,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "retire ",
-   "BLBFPyjPgEUNfbnEDLU14cAZp5mRN9LnzK1uAf2spump",
-   0.098,
-   4.6,
-   "buyers=4; top5_hold_most=100%"
+   "PERCENT",
+   "B55mCL1QBskAzQfrTKY1DvLpDYogTjsvzna2jPKspump",
+   0.053,
+   2.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BLMP",
    "AaqG3RtUy4P11FrsJfy62QWtVjjBE8QtSDsqvtiSpump",
    0.025,
-   8.5,
+   9.5,
    ""
   ],
   [
    "T-REX",
    "F9VbUk9WkWVFp3fxehmdogz3FagigocQzyhrRz1tpump",
    0.024,
-   5.1,
+   6.1,
    ""
   ],
   [
-   "Archer",
-   "88FhS236xXKaW9p6xQ5MFfwxitjYTyABaTwiDEo3pump",
-   0.017,
-   9.6,
+   "MCC",
+   "77Ri4GuwZDDEvSpjmUL9LGwAgrw3KDmBsrRjCwxzpump",
+   0.018,
+   2.1,
    ""
+  ],
+  [
+   "retire ",
+   "BLBFPyjPgEUNfbnEDLU14cAZp5mRN9LnzK1uAf2spump",
+   0.016,
+   5.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BabyNuts",
    "CXs6fcWJktzHQTyBv9WcsDaATRGcLS8ZhP7egbXapump",
    0.014,
-   7.6,
+   8.6,
    ""
   ],
   [
    "crown",
    "F98DLgFE74vcnVRmBBDnKq7zLkvvpkW6ik7GcdXKpump",
-   0.014,
-   6.7,
+   0.013,
+   7.7,
    ""
   ],
   [
    "DOGE",
    "5ShiDay6BdH4xNhrDiD3rZzHZovo61ezfyuvdRiRpump",
    0.011,
-   7.8,
+   8.8,
    ""
   ],
   [
-   "Shopify",
-   "Q9ac8BdEFavJ3FMZKqqmeVoVyEtJokso8Fg8RaTpump",
+   "bear",
+   "J3vf9wq9WKTQMoE9F43KFhCFeJhWQaRWb7x5WxP9uAxg",
    0.011,
-   4.8,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   2.6,
+   ""
   ]
  ]
 }
