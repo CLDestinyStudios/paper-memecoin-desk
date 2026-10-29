@@ -13,10 +13,10 @@
    "entry_px": 4.2151422350054365e-08,
    "entry_fill": 4.586104768811781e-08,
    "opened": 1793278764.2245898,
-   "last_px": 4.142382115732062e-08,
+   "last_px": 3.797774693817976e-08,
    "peak_px": 5.0337920884963425e-08,
-   "last_val": 1.3823803340409686,
-   "last_prog": 0.241
+   "last_val": 1.264547280531154,
+   "last_prog": 0.192
   }
  },
  "traded": [
@@ -5538,81 +5538,85 @@
   [
    "2026-10-29T06:03:21",
    55.39
+  ],
+  [
+   "2026-10-29T06:04:23",
+   55.27
   ]
  ],
- "cycles": 1650,
+ "cycles": 1651,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.60986848490734,
- "watching": 190,
+ "sol_usd": 100.71579642758155,
+ "watching": 195,
  "near": [
+  [
+   "Neko",
+   "71452sEMcV95aXsvTjVtS2m869SZC4mfz5mhPy2Tpump",
+   1.0,
+   2.4,
+   "graduated"
+  ],
+  [
+   "Neko",
+   "8mJT6mesXotSvn487J6gnnajBsSQbfUawpRazGYdd3GV",
+   0.62,
+   2.8,
+   "serial_creator=74 launches/24h"
+  ],
   [
    "PHYSICAL",
    "BSD39MKDiGAzV3buswhkzubZijDPvXHpWBCW6ofvpump",
    0.173,
-   3.7,
+   4.8,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "MTP",
-   "7nMt99UVj9MsTh7PnvEgrndawJgZV65Pe2uhiHh5pump",
-   0.139,
-   9.5,
-   "top5_hold_most=98%"
   ],
   [
    "letter",
    "EZLWUwuM1tqeNKvXyg6bUdhxC9vxh9Mve8gZY2Dpump",
    0.111,
-   3.5,
+   4.6,
    ""
   ],
   [
    "FAAG",
    "FdGXXxFCpi7FDKmeEW42QBVevw3ckJRTwcFnz4G168mx",
    0.108,
-   3.4,
+   4.4,
    ""
   ],
   [
    "\u6ca1\u6709\u8138",
    "CMn64cJEDhwL2t62BB78FTfhUph4tT7MxkgtZN7Gpump",
    0.106,
-   6.5,
+   7.5,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Unknown",
+   "8siZhDhQnT14EKUiax5PHrhtvgmWq9BRcUsUSG6Ppump",
+   0.099,
+   2.4,
+   ""
   ],
   [
    "NEKO",
    "8XRJmf8R4wCRbLBnV5DNqhbfsJN1eGdvLiEcmWVRxcd7",
    0.08,
-   2.3,
+   3.3,
    ""
   ],
   [
    "NASTY",
    "8Y3vADQrpKsuHd65DutJGgAaEFG913TmBUjUMQ1kU1oN",
    0.05,
-   5.8,
+   6.9,
    ""
   ],
   [
    "Decayed",
    "BR8RfueZ3UHM5yxf8E4LATHnNWeGfm3SDEtr5nYypump",
    0.049,
-   6.1,
-   ""
-  ],
-  [
-   "Ape Trader",
-   "4gscNn34bDL5QRNzEVTtn9ZKbwdYk61woykCPhLEpump",
-   0.044,
-   4.0,
-   ""
-  ],
-  [
-   "NASTY",
-   "EJ242hTxBXQ3gqRu3DpKwPAJvFniNx4osdTXKfgnpump",
-   0.031,
-   6.8,
+   7.1,
    ""
   ]
  ]
