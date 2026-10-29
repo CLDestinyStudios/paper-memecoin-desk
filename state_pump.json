@@ -13,10 +13,10 @@
    "entry_px": 5.67189796078381e-08,
    "entry_fill": 6.074703175832617e-08,
    "opened": 1793242507.2344034,
-   "last_px": 5.990690279724228e-08,
+   "last_px": 5.727103318856433e-08,
    "peak_px": 5.990690279724228e-08,
-   "last_val": 3.2122515786647123,
-   "last_prog": 0.429
+   "last_val": 3.068391633183748,
+   "last_prog": 0.408
   }
  },
  "traded": [
@@ -3813,81 +3813,85 @@
   [
    "2026-10-28T19:58:04",
    114.32
+  ],
+  [
+   "2026-10-28T19:59:04",
+   114.17
   ]
  ],
- "cycles": 1045,
+ "cycles": 1046,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9423236962,
- "watching": 264,
+ "sol_usd": 99.93,
+ "watching": 259,
  "near": [
-  [
-   "NIKITA",
-   "G5Must3Z4mzN3mKnFQoeFbJT5hDzus4X2wGdpG7rKU6J",
-   0.208,
-   2.5,
-   ""
-  ],
   [
    "STAN",
    "Egm7h2YsMLNYnkWiwwqAPep3NYL6qbZENWVujgSppump",
    0.127,
-   4.2,
+   5.2,
    ""
+  ],
+  [
+   "STARVE",
+   "BwLeVPf4wQF7ucdgK7Av3AohzZouHy6K7i5FkAEBpump",
+   0.123,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "STAN",
    "9vvQ7qjv3AFbmxa7e2az733cjmTDvjkBiLmARgHppump",
-   0.088,
-   3.9,
+   0.091,
+   4.9,
    ""
   ],
   [
    "hypur",
    "AqXNLwYa7qGNH3NSss5Gue1c5fjnhPcNWCRbASMcpump",
    0.086,
-   3.7,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "HAKIMI",
-   "yad4Hi37TJMDE58eJUqenkuB5KdJ5FM3hHfrWAspump",
-   0.085,
-   2.9,
-   ""
+   4.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ELON",
    "H45xxMg68oyhUfPL8Yt4waZnwrM4jqw3mKRUzAqfpump",
    0.084,
-   5.9,
+   6.9,
    ""
   ],
   [
    "CRIMEPUMP",
    "Fg1kuVMDxPC3yAu8tQYTTRqgi9poi9GGbwPB5YyUpump",
    0.067,
-   6.4,
+   7.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Nikita",
-   "HkXANr5Y2dB2nhNA89L7iWprGUtKPFhvMW5fwUsapump",
-   0.062,
-   2.6,
-   ""
+   "STAN",
+   "8SS5bMmmT1381kxDTBkjxZuvKh1tqJt3QUoPb3pgpump",
+   0.063,
+   2.2,
+   "buyers=7; top5_hold_most=87%"
   ],
   [
    "Cheonsa",
    "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
-   0.051,
-   6.7,
+   0.045,
+   7.7,
+   ""
+  ],
+  [
+   "90DAYS",
+   "BKwMss6JAem5GsKZjHB7KhHQZe3ztZf2RDVmoMU4jHks",
+   0.045,
+   2.4,
    ""
   ],
   [
    "KNIGHTLON",
    "57bC6CY3tLjtyn1mppSCpufFaBejBHcSmj5n8Trnpump",
-   0.034,
-   5.5,
+   0.045,
+   6.5,
    ""
   ]
  ]
