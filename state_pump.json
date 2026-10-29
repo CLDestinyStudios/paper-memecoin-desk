@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 85.63727198358563,
+ "cash": 87.26357413676934,
  "positions": {
   "SWy7QnnTCbxXaZdT2Kw4rLWkxniGmUQgHhp43Nvpump": {
    "sym": "CLICK",
@@ -15,7 +15,7 @@
    "opened": 1793249046.4014819,
    "last_px": 4.722019174896629e-08,
    "peak_px": 4.7333618089899236e-08,
-   "last_val": 2.7059024440183492,
+   "last_val": 2.7047467057619103,
    "last_prog": 0.312
   },
   "67zSN8g1gNdFrV1EdvRKJZV9AuHPV13mzEX6GEhUpump": {
@@ -27,24 +27,10 @@
    "entry_px": 6.39978126846851e-08,
    "entry_fill": 6.872020921215597e-08,
    "opened": 1793249405.8091965,
-   "last_px": 7.523970195550485e-08,
-   "peak_px": 7.523970195550485e-08,
-   "last_val": 3.000832099938973,
-   "last_prog": 0.528
-  },
-  "34MvAYjRhPfwcimzrnw7axDYC9rnfQvt9PV1YG23Dd37": {
-   "sym": "HIKERS",
-   "bc": "Eu6WcNoRifc5vVLAUXtF3QjPEoQwnEceBanz1ENdXw5k",
-   "tokens": 632366.6187311554,
-   "cost": 2.94,
-   "cost0": 2.94,
-   "entry_px": 4.324372293624939e-08,
-   "entry_fill": 4.644127546975116e-08,
-   "opened": 1793249646.1213043,
-   "last_px": 4.97481718842309e-08,
-   "peak_px": 4.97481718842309e-08,
-   "last_val": 2.9333834788613116,
-   "last_prog": 0.339
+   "last_px": 7.531885214241755e-08,
+   "peak_px": 7.531885214241755e-08,
+   "last_val": 3.002757428936261,
+   "last_prog": 0.529
   },
   "DcTgjkS9bQjx7wBZi9kfXa7uALMRXYU9znUaQauWpump": {
    "sym": "BACKROOM",
@@ -55,10 +41,10 @@
    "entry_px": 3.896701748442065e-08,
    "entry_fill": 4.185482777331545e-08,
    "opened": 1793249765.536359,
-   "last_px": 3.896701748442065e-08,
-   "peak_px": 3.896701748442065e-08,
-   "last_val": 2.525135902391498,
-   "last_prog": 0.207
+   "last_px": 4.006330486950448e-08,
+   "peak_px": 4.006330486950448e-08,
+   "last_val": 2.5964479077289604,
+   "last_prog": 0.223
   }
  },
  "traded": [
@@ -4160,81 +4146,85 @@
   [
    "2026-10-28T21:56:05",
    96.8
+  ],
+  [
+   "2026-10-28T21:57:04",
+   95.57
   ]
  ],
- "cycles": 1163,
+ "cycles": 1164,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.11621423999999,
- "watching": 136,
+ "sol_usd": 100.073452854,
+ "watching": 135,
  "near": [
   [
-   "BOOCAT",
-   "6JBuwy4KBAuxwsWNbkEy6YKbjuSH2LTZKRPR4t3ppump",
-   1.0,
-   3.9,
-   "graduated"
-  ],
-  [
-   "neko",
-   "7KNcovmF3KMSRw9sdcQxLXyTjKFT8zy7LL3mLmmBpump",
-   0.409,
-   6.0,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "Cyber",
-   "RKPf6o4UeMaPn1xyu1AFUJXYTZufMhfnujehCsSpump",
-   0.309,
-   4.8,
-   "serial_creator=8 launches/24h"
-  ],
-  [
-   "BACKROOM",
-   "DcTgjkS9bQjx7wBZi9kfXa7uALMRXYU9znUaQauWpump",
-   0.207,
-   2.1,
-   "bought"
-  ],
-  [
-   "NSFW",
-   "AwcFk8b4BxM22p66iNZK1g23BaoWqbGdC1aP1fkyt4CZ",
-   0.149,
-   5.6,
-   "bundled_launch=4 extra buys in creation block"
+   "VIRL",
+   "6jXEADr34G4UQGUeJhtP9HHLP7cSocvX2muQywvZpump",
+   0.161,
+   2.5,
+   "top5_hold_most=95%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "DOM",
    "4RNe9H8gKVXRh4CtGdpyuV2pZNiib3RTH2vfFmeDEztA",
    0.122,
-   2.6,
+   3.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "KimWHORE",
-   "BGSkrLiJ4egrFMxXXWaFd86nM8CmKUcdx9vAhJUcpump",
-   0.112,
-   2.5,
+   "SS",
+   "X7wqFm8GcyNizP2d5VnFLFAQgNR3qbESvQPgKSdpump",
+   0.109,
+   2.0,
    ""
   ],
   [
    "CLOAK",
    "5SAs2eZxLCpDCqwqLwERgHNtj9VWohpMXszPz33vpump",
    0.086,
-   4.6,
-   "top5_hold_most=94%"
+   5.6,
+   "buyers=9; top5_hold_most=94%"
   ],
   [
    "SI",
    "Acwhctg2b8HHzqHpnjjQtkpa4u3YMxjy8LV9HvGGpump",
-   0.051,
-   7.7,
-   "buyers=1; top5_hold_most=100%"
+   0.052,
+   8.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "NSFW",
+   "4askXaxYo34MZNEpyKYpe3Az1XpZ3TAKpojnibm1pump",
+   0.05,
+   2.8,
+   ""
   ],
   [
    "Ai/Si",
    "DMU8Kfbct8B1UjLEuxZRfxrmHD8S7bPiL1qTKrojpump",
    0.044,
-   3.0,
+   4.0,
+   ""
+  ],
+  [
+   "C",
+   "rBXcwBpr9eiGDkjq3pie8sxnKTYp3NTCtD8VcV3pump",
+   0.031,
+   3.9,
+   ""
+  ],
+  [
+   "DIH",
+   "GZpogWSdtjc2QM1F4RuzZDRLtZbyVpvbd9Upx5c3pump",
+   0.025,
+   3.7,
+   ""
+  ],
+  [
+   "NSFW",
+   "7PzSHtWchjbd5LrT11zRVzfgBbC1Ak5itvpNPdQVeKNa",
+   0.022,
+   5.8,
    ""
   ]
  ]
