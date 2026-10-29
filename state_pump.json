@@ -6374,84 +6374,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:15:58",
+   "2026-10-29T11:16:55",
    32.58
   ]
  ],
- "cycles": 1962,
+ "cycles": 1963,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.023054063,
- "watching": 321,
+ "sol_usd": 101.0,
+ "watching": 331,
  "near": [
   [
    "Anakin",
    "4bHw1UDh4PLGWkioCsWbBMSpkAU7DAVKqkkcMKyX6sDq",
-   0.337,
-   7.5,
+   0.325,
+   8.5,
    ""
   ],
   [
    "CallMyCoin",
    "FvRKZrXuED5t6QW2QDma6VugfgntPyr1rL4CBy4sjFKU",
    0.246,
-   6.9,
+   7.8,
+   ""
+  ],
+  [
+   "Unrug",
+   "5sdkpcMBgZRWfyuWW7Ld2Dh56XCYRBr4LxkWhwkApump",
+   0.156,
+   2.4,
    ""
   ],
   [
    "Beachballs",
    "3CkHdvvFXJ6fWGMvn65CNwcNRfqpwuYGxS9xRD3mpump",
    0.135,
-   7.4,
+   8.3,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "BIRDIE",
    "4S5jd53hToTVwFWspehVFS8GodgWf62HnSFksntKZETT",
-   0.132,
-   5.7,
+   0.134,
+   6.7,
    ""
   ],
   [
    "CtrlTheNar",
    "48yYGLJLdKp1DkeBVTyqtsoyneCK8MYSG2AbSjiMpump",
    0.122,
-   6.7,
+   7.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "X",
    "5dNHaaYFqj2rw38Gj79JmmG3z5bcod2Wzion4t44pump",
    0.121,
-   3.8,
+   4.7,
    "top5_hold_most=99%"
   ],
   [
    "JTO",
    "6w6fwBDM92k64WEvTJ4LCKzKBqJo8VUSTsRYUfZypump",
    0.113,
-   2.6,
+   3.5,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "LLM",
+   "6x48WRARvEQAqEFjxJmwRGayjQ398s1fw44ZCiDcCHFM",
+   0.082,
+   2.2,
+   ""
   ],
   [
    "LILY",
    "DfhpiS4QMdGMrsQtCZunuV6G5cPwywUv1SqkihLmMBPt",
    0.076,
-   2.4,
+   3.4,
    ""
-  ],
-  [
-   "DOOMER",
-   "5Y5PsaHPC5e4Gpt925HnEhiYMtE6bAkuNNEVBMJfpump",
-   0.064,
-   2.4,
-   ""
-  ],
-  [
-   "Anakin",
-   "3r7C1Ae7yV5UVkVoFSZnErN8x2tptbhRTh8oXNsFPedJ",
-   0.061,
-   8.9,
-   "buyers=6; top5_hold_most=100%"
   ]
  ]
 }
