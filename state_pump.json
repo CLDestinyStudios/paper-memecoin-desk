@@ -6346,84 +6346,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:09:57",
+   "2026-10-29T10:10:58",
    32.58
   ]
  ],
- "cycles": 1896,
+ "cycles": 1897,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.61616304300001,
- "watching": 327,
+ "sol_usd": 101.65463402449998,
+ "watching": 328,
  "near": [
+  [
+   "LUMEN",
+   "BtAe3p7i1jig8vAAob1QuUkDZwLugqoGGXHrYBEKpump",
+   0.76,
+   3.6,
+   ""
+  ],
   [
    "XRPS",
    "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
    0.743,
-   7.8,
+   8.8,
    "top10=58.9%; top5_hold_most=94%"
   ],
   [
-   "LUMEN",
-   "BtAe3p7i1jig8vAAob1QuUkDZwLugqoGGXHrYBEKpump",
-   0.692,
-   2.6,
-   ""
+   "VANISH",
+   "Co56brRpmLjUKTsAacRJWJR9GgCAVPyruaWGarknbEcz",
+   0.643,
+   3.0,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "COLUM",
    "GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ",
-   0.605,
-   2.9,
-   ""
-  ],
-  [
-   "MASSAGECAT",
-   "ef4scsYTB6xhFDE3vvweTjoyh2wmogz8V8zKpRtpump",
-   0.353,
-   3.0,
+   0.33,
+   3.9,
    ""
   ],
   [
    "COLUM",
    "E6CLWayZ8zdjfmKzMNGrx9B1XKmXVYUqsjtwXyPYpump",
    0.272,
-   7.6,
+   8.6,
    ""
   ],
   [
    "USWR",
    "FNkA4NDiNUwZuCwp5J6P7WPtgrZcVRDnvwJ1yrLUpump",
-   0.191,
-   3.8,
-   "top5_hold_most=83%"
+   0.19,
+   4.8,
+   "top5_hold_most=84%"
   ],
   [
    "$SWEEP",
    "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
    0.189,
-   3.3,
+   4.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "VOLY",
    "6FhFcdRDNNWLkH6buVLFzRkttUoB5sLEyVCPh4tQpump",
    0.187,
-   4.4,
+   5.5,
    ""
   ],
   [
    "CNT",
    "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
-   0.156,
-   2.1,
-   "top5_hold_most=91%"
+   0.141,
+   3.1,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
-   "JRE",
-   "gE1yx59gThxj3e7PnUhUW6YSBrpy9U6Xsf1SWFypump",
-   0.064,
-   6.1,
-   ""
+   "FC",
+   "5TUfEaDXRTuSNVZgPsZdUgxriDKhngewYZUWZhvnpump",
+   0.088,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
