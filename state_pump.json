@@ -6450,83 +6450,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:10:04",
+   "2026-10-29T14:11:06",
    32.58
   ]
  ],
- "cycles": 2136,
+ "cycles": 2137,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.52999999999999,
- "watching": 344,
+ "sol_usd": 96.6161245773,
+ "watching": 348,
  "near": [
   [
    "bye",
    "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
-   0.823,
-   5.4,
-   ""
-  ],
-  [
-   "Lynk",
-   "4srL5EtGy1iMSmqXJBm5kzNAsMpGP9sHBSEK96z6pump",
-   0.785,
-   2.7,
+   0.867,
+   6.4,
    ""
   ],
   [
    "BlackSwan",
    "4cN7Nf82MtarpSU6wqNePNtw4oZXLtv6Pp6ZpTiPS3D8",
-   0.768,
-   8.1,
+   0.707,
+   9.2,
    ""
+  ],
+  [
+   "Lynk",
+   "4srL5EtGy1iMSmqXJBm5kzNAsMpGP9sHBSEK96z6pump",
+   0.423,
+   3.8,
+   "serial_creator=12 launches/24h"
   ],
   [
    "BNB",
    "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
-   0.466,
-   4.7,
-   ""
-  ],
-  [
-   "PFSPIT",
-   "FVjNk5bXpeWznYNb52dge6FsTj8u9VEC3rSQDHKWpump",
-   0.465,
-   2.8,
-   "buyers=7; top5_hold_most=83%"
-  ],
-  [
-   "SAFU",
-   "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
-   0.375,
-   3.8,
+   0.315,
+   5.7,
    ""
   ],
   [
    "\ud83d\udd96",
    "GBESrHMz4zCnTUsWeomRJmW3oDW95kTWB9hcCkbGpump",
    0.268,
-   9.0,
+   10.0,
    "top5_hold_most=87%"
   ],
   [
-   "MS",
-   "CfUvExePbJPHT4BJbbX5Cuvo7pzLZczrbttM2Aa7pump",
-   0.264,
-   2.5,
-   "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "CANDLE",
-   "8Y2FwdLWctsyeSCc7ehFTe6cMxDhWcvKXwhoyFu9ggw8",
-   0.194,
-   9.7,
+   "SAFU",
+   "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
+   0.192,
+   4.8,
    ""
   ],
   [
-   "PUMPPAIR",
-   "CUG5xQD6Q3ficZTZPqhqHMqokRUuFoiLiiHhubPwTQMV",
-   0.171,
+   "STARE",
+   "86W9914Rne9sZVGVraH2jm3TKBXDiLCfQ6BG7WhUpump",
+   0.166,
+   2.8,
+   ""
+  ],
+  [
+   "BLACKSWAN",
+   "HvYtqNTn7m4FWva1aHDJYUa9vugjGUUFCSFRqUkcpump",
+   0.149,
+   2.3,
+   ""
+  ],
+  [
+   "CANDLE",
+   "D6fqeTjaS48B8dNsWvKZBuj7SC42CymMRQcw7t23pump",
+   0.129,
    10.0,
+   ""
+  ],
+  [
+   "EIP-7702",
+   "6mHTcnTb8bTQxmgUY9W9pYWgavMpjzia5grc1CUrpump",
+   0.101,
+   2.8,
    ""
   ]
  ]
