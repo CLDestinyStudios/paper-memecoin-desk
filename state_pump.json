@@ -6514,83 +6514,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:43:13",
+   "2026-10-29T16:44:12",
    32.58
   ]
  ],
- "cycles": 2289,
+ "cycles": 2290,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.0188128118,
- "watching": 213,
+ "sol_usd": 96.11540994279999,
+ "watching": 218,
  "near": [
   [
    "cz",
    "7qhCBXrzUDeEYqNgR96twaRf7JLSkJERTqpxjWM2pump",
-   0.95,
-   3.8,
+   0.964,
+   4.8,
+   ""
+  ],
+  [
+   "ZCAT",
+   "Dn6DzgXkRRJXCR4pGkQFrxWesZJg9k387c2QEsSRpump",
+   0.6,
+   2.6,
    ""
   ],
   [
    "HOOK",
    "6tBFyEXF7LSQVqjvDKqSjfbZuGsutYoVSMpTq5Fppump",
-   0.785,
-   5.9,
+   0.411,
+   6.9,
    ""
   ],
   [
-   "GM",
-   "Fykugh9fj2bQRMgcnTVicd3VsK6AzEQvr5t3apMvpump",
-   0.495,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "ZCAT",
-   "5aWff5Z9sLRavv5GETupmsYuiVTryZabsrVeTTsJpump",
-   0.171,
-   10.0,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+   "GEKKO",
+   "GuQk171GNR6L8fDRF7AefcqCB2CW4Dr4rwKXm515pump",
+   0.282,
+   2.9,
+   "top5_hold_most=84%"
   ],
   [
    "BIT",
    "4jqoz1MnkrhSXR2gZV9pwQ9F8yEWhRDweSbdY6hUpump",
    0.136,
-   7.6,
+   8.6,
    "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "CANARY",
    "ES3ZafF2SyFgQJEQ96bdhfNTmxo1zLbP4DCfRGqYpump",
    0.107,
-   2.6,
+   3.5,
    ""
   ],
   [
-   "EXPLOITER",
-   "8H3Sfcj6yXxvsPT7uSKdZVzqo2VxcvdcciEcU9Rqpump",
-   0.08,
-   3.7,
-   "buyers=6; top5_hold_most=95%"
+   "DROOL",
+   "6WaifgYVHus9KhuoTxUGtpP9PjVBvmRdt3VnxAy6pump",
+   0.101,
+   2.9,
+   ""
   ],
   [
-   "AIE",
-   "EhB4MWBVutmzZBvtEhcBiR2iAo7mFxzGZAp4teSkpump",
-   0.079,
-   4.0,
-   "top5_hold_most=80%"
+   "nukita",
+   "Gua2kEAZa1tJoRPjk3iXwrxw1WJtnaro9EvgVkaDoUfr",
+   0.094,
+   2.5,
+   ""
   ],
   [
    "DINO",
    "B3xbecRxYahvvJiGBcZUeAygWcjotV5SmzvcesVFpump",
    0.077,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SeaZ",
    "GUzUEEPhkbFyomfbZ4iBB9pshmewj9KbkKN7DTqFpump",
    0.076,
-   3.3,
+   4.3,
    ""
   ]
  ]

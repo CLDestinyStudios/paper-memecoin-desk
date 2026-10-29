@@ -1,21 +1,10 @@
 {
  "bank_start": 500.0,
- "cash": 397.85347890091884,
- "positions": {
-  "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
-   "sym": "USDF",
-   "qty": 663.0640402357848,
-   "entry": 0.030977400000000002,
-   "mark_entry": 0.03037,
-   "cost": 20.54,
-   "peak": 0.05705,
-   "last": 0.05688,
-   "opened": 1793253786.137508,
-   "p_buy": 0.75
-  }
- },
+ "cash": 398.32075206522575,
+ "positions": {},
  "watch": {
-  "9KhzhyM1BwgW6myZRcqdzQvemKjVrjck8kaevTkMpump": 1793317384.531309
+  "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1793317443.412839,
+  "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793317443.413041
  },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -7543,8 +7532,12 @@
   [
    "2026-10-29T16:43:04",
    434.81
+  ],
+  [
+   "2026-10-29T16:44:03",
+   398.32
   ]
  ],
- "cycles": 2309,
+ "cycles": 2310,
  "started": "2026-10-28T01:46:56"
 }
