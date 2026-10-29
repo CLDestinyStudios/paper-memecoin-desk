@@ -15,7 +15,7 @@
    "opened": 1793256544.5065336,
    "last_px": 3.8632909469672086e-08,
    "peak_px": 1.3421563196168e-07,
-   "last_val": 0.9441199312774787,
+   "last_val": 0.9451287111696063,
    "last_prog": 0.202,
    "tp1_done": true,
    "realized": 0.5840184320710229
@@ -29,10 +29,10 @@
    "entry_px": 8.293496241454415e-08,
    "entry_fill": 8.937605796560471e-08,
    "opened": 1793257746.619328,
-   "last_px": 2.131813006215346e-07,
+   "last_px": 2.0847246185135612e-07,
    "peak_px": 2.2101189353624232e-07,
-   "last_val": 2.6678900833832584,
-   "last_prog": 0.863,
+   "last_val": 2.6106564567223036,
+   "last_prog": 0.857,
    "tp1_done": true,
    "realized": 0.5971614331703516
   }
@@ -4532,82 +4532,86 @@
   [
    "2026-10-29T00:19:06",
    80.44
+  ],
+  [
+   "2026-10-29T00:20:05",
+   80.39
   ]
  ],
- "cycles": 1306,
+ "cycles": 1307,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.6779640573,
+ "sol_usd": 99.78446866809999,
  "watching": 91,
  "near": [
+  [
+   "Moancoin",
+   "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
+   0.816,
+   2.7,
+   ""
+  ],
   [
    "TRUMP",
    "DjpFNMu6hrm7oagdrwQZXVFuCjyiHpVXuQeyNpxjpump",
    0.231,
-   3.9,
+   4.9,
    "top5_hold_most=81%"
   ],
   [
    "FUM",
    "6Uon9LzJMv4pxtukv8dREUb4EHgo8z9T5zfQXfJxpump",
-   0.176,
-   2.9,
+   0.229,
+   3.9,
    ""
   ],
   [
-   "VoiceCalls",
-   "3QiUiPgPZYjYC11UhFCmecKcgKd4DhVyTLczvy1ypump",
-   0.142,
-   2.5,
-   "buyers=9; top5_hold_most=86%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "Ryker",
-   "8aU6U2TcGwRZKnHk9dHLqLmvdQ2dwkLHfYX1HSpdpump",
-   0.085,
-   2.2,
-   ""
+   "HOLD",
+   "Ba3AF7p6aYk1E6F1UiDnFrk7zBycDb7e7XNrupLipump",
+   0.083,
+   2.8,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "TICKTOCK",
    "FEtWqXSYvbuNeYwaNXdej3xyWG82Ce9kTkgkTLPxpump",
    0.079,
-   3.3,
+   4.2,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "$CATO",
+   "7e7V7mjEG7MkYucsEKNhPyzFsxzejTWQBX5WJNG8pump",
+   0.066,
+   2.4,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "ELY",
    "2C2EDSzLU3HYmZ4Lm4Q4LUvFSsRM11nR9y5Tm4Yzpump",
-   0.072,
-   3.8,
-   "buyers=3; top5_hold_most=100%"
+   0.064,
+   4.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "TRUTH",
    "G7V8AkMep6Ahd5Lx2bY8nbbmFxk1EUTbGmwGE5fipump",
-   0.064,
-   2.5,
+   0.042,
+   3.5,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "derpcats",
+   "HrZFABF2XHHEjyHrSsbXiRqzdtUDW67L9agYztrepump",
+   0.032,
+   2.7,
+   ""
   ],
   [
    "SIA",
    "8tw9wDUZyuDRyLASdeE71UbmMJfTHaQxR9iLqMQhpump",
-   0.037,
-   4.4,
+   0.03,
+   5.4,
    ""
-  ],
-  [
-   "TYLER",
-   "EGemejVbwHaFgcqkqohCeWfuz8chXKLuJb7Y7vd8pump",
-   0.026,
-   2.3,
-   ""
-  ],
-  [
-   "ALMOST",
-   "CANFgnwKxmyPaqzhadQTVGuVFKTCH9YN25ew9VZwpump",
-   0.023,
-   6.3,
-   "buyers=8; top5_hold_most=89%"
   ]
  ]
 }
