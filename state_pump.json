@@ -6502,83 +6502,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:12:35",
+   "2026-10-29T16:13:31",
    32.58
   ]
  ],
- "cycles": 2258,
+ "cycles": 2259,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.45,
- "watching": 348,
+ "sol_usd": 96.41,
+ "watching": 335,
  "near": [
   [
    "1029",
    "4vfDwu14Z6rzX5M95TyaRJn5V3VfT6WmBcd3VNAhfDPs",
-   0.751,
-   3.7,
+   0.801,
+   4.6,
    ""
   ],
   [
    "1029",
    "C7hNjGqjSbwK38K2hr8uiKhwQGhJvYtC4inmxMAcpump",
-   0.513,
+   0.393,
+   4.3,
+   ""
+  ],
+  [
+   "RABBIT",
+   "6BCurTs1ZdjX7n9jJZMSeDWHki6smgioHthafvzA97LS",
+   0.365,
+   3.2,
+   ""
+  ],
+  [
+   "FREEZE",
+   "AFjTS6WHbX2V1hs7S5KF7x5RojiqdV7jCaYhyy5Rpump",
+   0.325,
    3.3,
-   ""
-  ],
-  [
-   "usdhc",
-   "EWVPJ21fWntVvRbQ8J66rNYvqcwQgQ39oUStgHmzpump",
-   0.276,
-   10.3,
-   ""
-  ],
-  [
-   "EI",
-   "JDQGRhgqjXdpMdCWtT8NQSCbcEYVohvu9bisaPbEpump",
-   0.262,
-   8.5,
-   ""
+   "top5_hold_most=86%"
   ],
   [
    "GUC",
    "5iUCgk7z5z7sBfpTCoktoCGhxKSAVExPvzBmyjsUpump",
    0.212,
-   2.6,
-   "buyers=6; top5_hold_most=100%; launch_slot=missing"
+   3.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "BNBQ",
    "Hhu8GBL9i2Ty9Xnbhic38tZkh7Ytj1DLxbdQEqCLpump",
-   0.183,
-   6.2,
+   0.205,
+   7.1,
    "launch_slot=missing"
   ],
   [
    "Banker",
    "9QF8DCnfheSSiGbpf6k3PAqwoAC7trbdr7UFtPmXpump",
    0.171,
-   5.4,
+   6.4,
    "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "$ZhaoInu",
    "zDqD3ioxECjDSHNR99zdiR9f9JycrRdCk3RjyN8pump",
    0.168,
-   2.8,
-   "buyers=1; top5_hold_most=100%; launch_slot=missing"
+   3.7,
+   "buyers=0; top5_hold_most=100%"
   ],
   [
-   "\ud83d\ude4f",
-   "9FN6tyHB5UJ7MH7bhxnE7cYLyWh3Dpkh5hzpzLHDpump",
-   0.14,
-   6.2,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+   "EI",
+   "JDQGRhgqjXdpMdCWtT8NQSCbcEYVohvu9bisaPbEpump",
+   0.147,
+   9.4,
+   ""
   ],
   [
-   "GUC",
-   "AjPpaXiEMyzPuhVctDPHNXAugFvevC6JVRsNXyZ3pump",
-   0.138,
-   4.2,
+   "MGC",
+   "EugZ8TwkraW6DZRMMfxJoiNabgWS6LZCJLfzjLqDpump",
+   0.142,
+   3.5,
    ""
   ]
  ]
