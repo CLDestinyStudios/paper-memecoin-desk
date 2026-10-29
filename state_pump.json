@@ -6514,83 +6514,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:46:28",
+   "2026-10-29T16:47:13",
    32.58
   ]
  ],
- "cycles": 2292,
+ "cycles": 2293,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.8577128368,
- "watching": 208,
+ "sol_usd": 95.5960205989,
+ "watching": 209,
  "near": [
-  [
-   "cz",
-   "7qhCBXrzUDeEYqNgR96twaRf7JLSkJERTqpxjWM2pump",
-   0.9,
-   7.0,
-   ""
-  ],
   [
    "ZCAT",
    "Dn6DzgXkRRJXCR4pGkQFrxWesZJg9k387c2QEsSRpump",
-   0.757,
-   4.8,
+   0.853,
+   5.6,
+   ""
+  ],
+  [
+   "cz",
+   "7qhCBXrzUDeEYqNgR96twaRf7JLSkJERTqpxjWM2pump",
+   0.846,
+   7.8,
    ""
   ],
   [
    "COLUM",
    "FWvFKYe2Su5XwJdaeNtc5Ct95cX7p6GiCe97raKYpump",
    0.291,
-   4.4,
-   "top5_hold_most=89%; launch_slot=missing"
+   5.2,
+   "top5_hold_most=89%"
   ],
   [
    "1029",
    "EBrBhrRihbzeKssDuhYzKUBM1aqWFfrBw9y7D6A7pump",
-   0.257,
-   2.9,
-   "launch_slot=missing"
+   0.275,
+   3.7,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "HOOK",
    "6tBFyEXF7LSQVqjvDKqSjfbZuGsutYoVSMpTq5Fppump",
-   0.189,
-   9.1,
+   0.13,
+   9.9,
    ""
   ],
   [
-   "SOLHYPE",
-   "H6Ag76HDKG6VWxtAHH1fmj3EwvMYK3YYD2zQb1eYpump",
-   0.088,
-   4.6,
+   "DROOL",
+   "6WaifgYVHus9KhuoTxUGtpP9PjVBvmRdt3VnxAy6pump",
+   0.11,
+   5.9,
    ""
   ],
   [
    "1029",
    "FZ6wCvvzLbzdKqx5tVf2pcMdr39aTATcQUbck7Rtpump",
    0.083,
-   4.0,
+   4.8,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "DoubleT",
+   "8PdQP3zmFBocbt9AaegBLkUsA6RdFvE5xKT8Df2Vpump",
+   0.074,
+   2.2,
+   ""
   ],
   [
    "MIC",
    "5VfsC4XTksmP6waLgsazDLpJ9Pbv4ow1azizZf1ZP2Rq",
    0.073,
-   6.5,
-   ""
-  ],
-  [
-   "beans",
-   "auW4APJuQPbSCX6dUcDJk36AT9iti3QJu9Gk4MJpump",
-   0.072,
-   10.0,
+   7.3,
    ""
   ],
   [
    "Phishing",
    "AM1KrzVApqLjw9w8Enirrve912Fj24oVMFjCphxqpump",
    0.072,
-   6.1,
+   6.9,
    ""
   ]
  ]
