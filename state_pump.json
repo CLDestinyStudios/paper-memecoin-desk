@@ -13,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 7.543343663977879e-08,
+   "last_px": 7.578794611970287e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8574859326263674,
-   "last_prog": 0.529,
+   "last_val": 0.8628260590301331,
+   "last_prog": 0.531,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5095,81 +5095,85 @@
   [
    "2026-10-29T03:44:21",
    61.41
+  ],
+  [
+   "2026-10-29T03:45:29",
+   61.42
   ]
  ],
- "cycles": 1511,
+ "cycles": 1512,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.29421025799999,
- "watching": 159,
+ "sol_usd": 100.419323126,
+ "watching": 172,
  "near": [
   [
    "MAX",
    "55w6WZtCTkBEN1xHJ35Um3V4qPUJPKjs7uKUivpbpump",
-   0.807,
-   5.9,
+   0.769,
+   7.1,
    ""
   ],
   [
    "Purrps",
    "CMaSuodfJJ6FWTyU9Hi3GhGqgWi5rVo7fgLki7KmBXxH",
-   0.495,
-   8.6,
-   ""
+   0.545,
+   9.7,
+   "serial_creator=33 launches/24h"
+  ],
+  [
+   "HYPE",
+   "2sou1C8RZps5nLkfiz9FiQBuZyv83b97gY7oR6gjpump",
+   0.46,
+   3.0,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "MAX",
+   "HUMEJU7krUJJE4916pnzD83pTh7K5WUXbmcAKFH6TP48",
+   0.308,
+   2.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "HOLDER",
    "rJtsNKg1T9d6sUUsyEd1QZX6GeMT1C5uZRezg4vpump",
    0.263,
-   3.9,
+   5.0,
    "top5_hold_most=87%"
-  ],
-  [
-   "MOORIN",
-   "HypYmZSQmpd4SAQnAvWBw5uNJcVXB64MLwyTivuopump",
-   0.142,
-   3.5,
-   ""
   ],
   [
    "PREDICT",
    "24nzaCipFYaQEQAarSYGecq16bEUZu61BhuFqVRrpump",
    0.131,
-   3.0,
+   4.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "$ELYSIUM",
-   "CTdpj5RWR8YF4Jje7LEi6cUkv4uaptzFwqGYgxpxpump",
-   0.1,
-   9.9,
-   "buyers=5; top5_hold_most=100%"
+   "MOORIN",
+   "HypYmZSQmpd4SAQnAvWBw5uNJcVXB64MLwyTivuopump",
+   0.119,
+   4.6,
+   ""
+  ],
+  [
+   "MicCat",
+   "65Huc4LHsTzVFpd4HyxZe7xf9NvvFzbgSq1hCVEbpump",
+   0.101,
+   3.1,
+   "top5_hold_most=94%"
   ],
   [
    "CROCS",
    "EbpBpL12Q35ZHeQbLSTPhbKASiPmXKHpYexnSMG3pump",
    0.088,
-   7.4,
+   8.6,
    ""
   ],
   [
    "EGG",
    "GPjnrA9VmEx2oKMCYdwnNvDxhRR189ZU5SkBFoiJpump",
    0.069,
-   2.0,
-   ""
-  ],
-  [
-   "Purrps",
-   "2F3rApoXvKsUf9B5hrgugqMhiZpwEpMjuS37J3CGdtaJ",
-   0.067,
-   8.1,
-   ""
-  ],
-  [
-   "Hypurr",
-   "55qEch81iHzbwtj25dAbER5snL1iWtfGtbqmuLPApump",
-   0.067,
-   6.9,
+   3.2,
    ""
   ]
  ]
