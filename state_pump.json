@@ -6370,83 +6370,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:07:56",
+   "2026-10-29T11:08:58",
    32.58
   ]
  ],
- "cycles": 1954,
+ "cycles": 1955,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.98091895599998,
- "watching": 250,
+ "sol_usd": 100.95227467900001,
+ "watching": 258,
  "near": [
-  [
-   "HOLY",
-   "shTHzjQ8iwWef2aK67RDQnMfJibtT6qet8bZT21pump",
-   1.0,
-   3.2,
-   "graduated"
-  ],
   [
    "WALT",
    "Bf1TR8U8WicCD2fnqhuG1S5LK3VdTfT9nwYjdox5pump",
-   0.752,
-   2.2,
-   ""
-  ],
-  [
-   "WALT",
-   "BW8QuaDC1Tw7jRv2Hm5FbkYkitFrgS8itknXy3Avpump",
-   0.574,
+   0.771,
    3.2,
    ""
   ],
   [
    "Grok",
    "4v9HYtYia3G952S3zxHALb8CrJFq5YZe6BUwCY1Fpump",
-   0.556,
-   6.7,
-   ""
+   0.537,
+   7.7,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "SATO",
    "J2p7JJgJyjm4z8m6N21W7D3Hr6CMfvA3kduFsWb7pump",
-   0.447,
-   2.6,
-   "buyers=1; top5_hold_most=100%"
+   0.504,
+   3.6,
+   "top5_hold_most=88%"
   ],
   [
    "ADF",
    "4wXDcYbZCLu1avCNdhCWufz1tZN7ycZC8CxYXFWppump",
    0.385,
-   5.3,
+   6.3,
    "buyers=2; creator=30.4%; top5_hold_most=100%"
   ],
   [
-   "Podcast",
-   "4nzzPbqijSyYAwjMv5wFHfLMdNrNk25TQeetiK39HLAS",
-   0.224,
-   9.7,
-   "top5_hold_most=89%"
+   "GrokCoin",
+   "DdUWzDPNXzLEAjUoULPx63F2u3AxUMi3vRgJJdbDpump",
+   0.331,
+   3.0,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "WALT",
+   "BW8QuaDC1Tw7jRv2Hm5FbkYkitFrgS8itknXy3Avpump",
+   0.331,
+   4.2,
+   ""
+  ],
+  [
+   "MASSIMO",
+   "5YgphPfCjRASJn6r1fyjWDv1UHxMc1hQH4dzWVmwpump",
+   0.286,
+   2.7,
+   ""
   ],
   [
    "Carl",
    "DH619wL2iHE4nbMieczByAv3d14WP4XMmkGm9nokpump",
    0.214,
-   8.8,
+   9.9,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "Pua",
    "DsJfeJ5Vpyf4oEc8e2RDk5SAM4n6kcmcVq1uZfPhzLKA",
    0.191,
-   5.6,
+   6.6,
    "buyers=1; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "ARTC",
    "5Xj5AqudgA7viVEKxafgp159k9mas7F1uKfhKP1hpump",
    0.152,
-   7.8,
+   8.9,
    "buyers=6; top5_hold_most=100%"
   ]
  ]
