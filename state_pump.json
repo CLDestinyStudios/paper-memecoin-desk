@@ -2,24 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 117.84205594697634,
+ "cash": 118.9927056620258,
  "positions": {
-  "uSf3r8EJDXpXLi5bLvBP53ZunHy32QD8qvfYHcdpump": {
-   "sym": "FARMED",
-   "bc": "2EnpHC8PLGjMX6pM3h8wA8rbakk9x2L4BKxXXDfp9bHj",
-   "tokens": 223342.58390773772,
-   "cost": 1.94,
-   "cost0": 3.88,
-   "entry_px": 7.94049430303874e-08,
-   "entry_fill": 8.494110128087161e-08,
-   "opened": 1793231813.7053251,
-   "last_px": 1.0634089713563043e-07,
-   "peak_px": 1.573336955711073e-07,
-   "last_val": 2.24971862869707,
-   "last_prog": 0.659,
-   "tp1_done": true,
-   "realized": 1.4150430114954942
-  },
   "9QT2ue258kE1NYr7U9f3uGpcRNQHPB45ikxmmCdGpump": {
    "sym": "RSTR",
    "bc": "9uiEjvsACtiA9KWaEkM5ycSWkNPW2pp4okW4S7FHkWYF",
@@ -29,10 +13,10 @@
    "entry_px": 1.108585851110699e-07,
    "entry_fill": 1.185603182392527e-07,
    "opened": 1793232111.715238,
-   "last_px": 1.1629061354578783e-07,
-   "peak_px": 1.2145876562790414e-07,
-   "last_val": 3.5873591144415804,
-   "last_prog": 0.69
+   "last_px": 1.4223182602372815e-07,
+   "peak_px": 1.4223182602372815e-07,
+   "last_val": 4.402718776181416,
+   "last_prog": 0.753
   },
   "CAX6NZNJfe37SKNbYy6yYU6xAcYhiz4HUjAebnx9pump": {
    "sym": "PaperPump",
@@ -43,9 +27,9 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 9.594004072283187e-08,
-   "peak_px": 9.594004072283187e-08,
-   "last_val": 3.843357085951162,
+   "last_px": 9.61818945040114e-08,
+   "peak_px": 9.61818945040114e-08,
+   "last_val": 3.8566802891393577,
    "last_prog": 0.623
   }
  },
@@ -3306,82 +3290,86 @@
   [
    "2026-10-28T17:06:54",
    127.52
+  ],
+  [
+   "2026-10-28T17:07:55",
+   127.25
   ]
  ],
- "cycles": 874,
+ "cycles": 875,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.23070381099998,
- "watching": 239,
+ "sol_usd": 102.3238095725,
+ "watching": 242,
  "near": [
+  [
+   "ROOMS",
+   "CwRvaRr1AEfAaFqaFHcniyjMZ7X7e6eZnMpmU4otpump",
+   0.907,
+   2.3,
+   ""
+  ],
+  [
+   "bio\u00b7\u03b5/909",
+   "BnzoPxDyv8RnsRhvyP3EFoEwsRhKJfwNF9iXN3Skpump",
+   0.748,
+   2.2,
+   "bundled_launch=12 extra buys in creation block"
+  ],
   [
    "DAN",
    "Dr9J5NugbpRTnBVhXd6iRLnwF4Lzes9g2j6EAiUFpump",
-   0.572,
-   8.9,
+   0.61,
+   9.9,
    ""
   ],
   [
    "$PBOT",
    "6huE6c5VaAcqND2wWtGBuwppgsqFt2vsSbx1pe7apump",
    0.425,
-   4.3,
+   5.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "PETRI",
-   "D8FCgV88KVUZ6XdgZzRepV36s732n2ihpMjLhX2Rpump",
-   0.349,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "WORKER",
-   "2tES5jdQakhaf2SXoqPhe2H68oPaFAXiH4Vwr3uWpump",
-   0.179,
-   3.6,
+   "END",
+   "89LV4XGxfVBgeDKQRRJEj2trMtxd8ZxCZsyw1btZpump",
+   0.178,
+   2.6,
    ""
-  ],
-  [
-   "BARBIE",
-   "FQiRP7Ny7ZMP5n8GABDPRDNRg1PBDh3pk8mHamdmpump",
-   0.106,
-   3.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "GHOST",
-   "EWKukR7dq6vVGYEcKzbNUXToRsJKiuTCe2oV6HXX6Cxi",
-   0.092,
-   3.0,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "$LAST",
-   "Dz2Ha5CEfKoT2fLnpKN27eyMtiFYGuJPR1mDpi4vpump",
-   0.084,
-   7.2,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "AngelC",
    "G28gV8F2QHDKiSKMZMHUqP1DNnWrNDGmFR83FNg7pump",
-   0.073,
-   8.6,
-   "buyers=5; top5_hold_most=100%"
+   0.147,
+   9.7,
+   "top5_hold_most=82%"
   ],
   [
-   "POLYGON",
-   "2r8H7x4n6fKDJQpeZj2WeLucLYz36jJMRALU3BFqpump",
-   0.071,
-   2.5,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "DAN",
-   "BwhWCMMM5ZCVMmrPLwyy2X73sjb1pGziry2rtndgpump",
-   0.064,
-   7.6,
+   "CatGPT",
+   "7gpu395P2szHrJ546uCFinCsmQ5MN4j7km5Q9AHkpump",
+   0.121,
+   3.1,
    ""
+  ],
+  [
+   "WORKER",
+   "2tES5jdQakhaf2SXoqPhe2H68oPaFAXiH4Vwr3uWpump",
+   0.107,
+   4.6,
+   ""
+  ],
+  [
+   "COLO",
+   "HZ6F71hTx9iF2FVgGa1TVAfZgGPGX91iE37zekUtpump",
+   0.09,
+   2.3,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "WORKER",
+   "3rxrAy9HcNCogi597cDqk1xkZuEprfcH4y6oriPrpump",
+   0.081,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
