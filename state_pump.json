@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 56.51316783675069,
- "positions": {
-  "5N57ao54n7M2WRj1zZyhMPQC6M9KnwtDhxKgxE3apump": {
-   "sym": "Sniping Pa",
-   "bc": "29JEUerwpk2sC8NHriAxrTuBmmMKZbQsthMZrXQ6PjE2",
-   "tokens": 263181.5387221527,
-   "cost": 1.75,
-   "cost0": 1.75,
-   "entry_px": 6.100039488147602e-08,
-   "entry_fill": 6.627053024701886e-08,
-   "opened": 1793277263.1865828,
-   "last_px": 6.100039488147602e-08,
-   "peak_px": 6.100039488147602e-08,
-   "last_val": 1.476347068590189,
-   "last_prog": 0.437
-  }
- },
+ "cash": 57.57785765929416,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -5441,81 +5426,85 @@
   [
    "2026-10-29T05:34:23",
    57.99
+  ],
+  [
+   "2026-10-29T05:35:24",
+   57.58
   ]
  ],
- "cycles": 1621,
+ "cycles": 1622,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.33724712,
- "watching": 177,
+ "sol_usd": 100.144026946,
+ "watching": 171,
  "near": [
-  [
-   "Sniping Pa",
-   "5N57ao54n7M2WRj1zZyhMPQC6M9KnwtDhxKgxE3apump",
-   0.437,
-   6.6,
-   "bought"
-  ],
   [
    "NICEHAT",
    "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
    0.287,
-   4.2,
+   5.2,
    "top5_hold_most=89%"
+  ],
+  [
+   "KORILA",
+   "4WVSUSL7Yxo552BeRvzQWkBt92dwqxEhsBQUoJtCUQ3G",
+   0.248,
+   2.7,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "MHGA",
    "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
-   0.094,
-   4.7,
+   0.095,
+   5.7,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "\u043c\u043e\u043d\u0435\u0442\u0430",
-   "3cxLbNC2gjboPdAi6W4mxpeZdw6KMfqhT4NWnEAs4UqS",
-   0.085,
-   2.8,
-   ""
   ],
   [
    "EGG",
    "khM5d4p3ik8meK85GunjZhGQbjMA5fzXqzfEEW7pump",
    0.081,
-   3.7,
-   ""
-  ],
-  [
-   "Bo",
-   "6vp7M7Hho8R5AV2kBfeCMPj31ouhh6YDza7j4gzcpump",
-   0.077,
-   7.5,
-   ""
-  ],
-  [
-   "Bread",
-   "2TL4L3WkuTiMNi4dAvuFHH7gobXzpoXRUFqfaGMgpump",
-   0.075,
-   3.1,
+   4.7,
    ""
   ],
   [
    "Bowen",
    "FAZeyz1KyP15EsksbqVxkdjJh1pxTi2EnWpdGXpfpump",
    0.063,
-   6.0,
+   7.0,
    ""
+  ],
+  [
+   "UFP",
+   "GwuJzfey3tuShn6act8HmaDaGnMtAjpbUnEgoGRYpump",
+   0.059,
+   2.9,
+   "buyers=6; top5_hold_most=97%"
   ],
   [
    "LGP",
    "74RAVptQVBBPEtHnaCwF4tVM2cbF5PRitfQyDDpipaid",
    0.052,
-   7.2,
+   8.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "XPLACE",
    "FCRfuNVSRGe7vuyDdaY14rVAfahruENqErovuxzg8v7A",
    0.043,
-   4.3,
+   5.3,
+   ""
+  ],
+  [
+   "EGG",
+   "EqguQcXSet9YZPVAC2YWV4m6Ht3VSb2hkgk2nvcfbNhT",
+   0.022,
+   8.3,
+   ""
+  ],
+  [
+   "EGG",
+   "EcnufdZ8gkeFckzdioHMQSqA2G8GFtts6XR1dAEBHzf8",
+   0.022,
+   8.3,
    ""
   ]
  ]
