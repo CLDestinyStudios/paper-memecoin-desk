@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 54.13785765929416,
+ "cash": 55.03257751066013,
  "positions": {
   "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump": {
    "sym": "TimeCoin",
@@ -15,22 +15,8 @@
    "opened": 1793277382.7304814,
    "last_px": 3.2449841276872295e-08,
    "peak_px": 3.7610929740441486e-08,
-   "last_val": 1.2541077385824992,
+   "last_val": 1.2554013524721863,
    "last_prog": 0.097
-  },
-  "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump": {
-   "sym": "BTS",
-   "bc": "WYJJDn4HB5496VhiDPq7mP8LkT4vHctemFWSEEGrbdd",
-   "tokens": 339467.06923702237,
-   "cost": 1.71,
-   "cost0": 1.71,
-   "entry_px": 4.616097074866629e-08,
-   "entry_fill": 5.0186531885233356e-08,
-   "opened": 1793277682.5496762,
-   "last_px": 4.616097074866629e-08,
-   "peak_px": 4.616097074866629e-08,
-   "last_val": 1.44025822748896,
-   "last_prog": 0.3
   }
  },
  "traded": [
@@ -5481,81 +5467,85 @@
   [
    "2026-10-29T05:41:22",
    56.83
+  ],
+  [
+   "2026-10-29T05:42:21",
+   56.29
   ]
  ],
- "cycles": 1628,
+ "cycles": 1629,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.37169873899998,
- "watching": 131,
+ "sol_usd": 100.47523228689676,
+ "watching": 135,
  "near": [
   [
    "Susie",
    "ANdPhuEpk2AzoBiAg1Z1hzUeX98NLKysxoDLGR2ypump",
-   0.912,
-   4.6,
+   0.93,
+   5.5,
    ""
   ],
   [
-   "BTS",
-   "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
-   0.3,
-   8.0,
-   "bought"
-  ],
-  [
-   "DOH",
-   "58BwFmd6oZWsCfdXzofXLNebcBFj1VgiLqgyQjXZpump",
-   0.144,
-   2.1,
-   "buyers=5; top5_hold_most=100%"
+   "Persona",
+   "AMSy4NWD43EBfjTE5C7ZyQptJanGNQXUkVZkVjPQPPAD",
+   0.345,
+   3.0,
+   ""
   ],
   [
    "Q&E",
    "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
    0.102,
-   7.6,
+   8.6,
+   ""
+  ],
+  [
+   "GosWING",
+   "BVv4Qs6PW474aFeUxdNceWWKZ4Yxm2DVfBVcS5qhpump",
+   0.084,
+   2.1,
    ""
   ],
   [
    "PETER",
    "AQL7awq8rM3AaNAjdnNrHdQnZptdwybRCUbc9Yjypump",
-   0.027,
-   3.4,
+   0.019,
+   4.3,
    ""
   ],
   [
    "doge",
    "GrkNM599vY6vV8LLy2tsogayC8b12fy4FuYCWdCipump",
    0.017,
-   4.5,
+   5.5,
    ""
   ],
   [
    "CSINDEXES",
    "Ewg1VrSpKAkv99jBVzF4rEhvSvNYXT4BrhE4Zwtrpump",
    0.015,
-   4.9,
+   5.9,
    ""
   ],
   [
    "CHALOWEEN",
    "DzZ1U4y6WyazymWDvnGDXexsvw8QBs18KRkTM591pump",
    0.015,
-   7.2,
+   8.2,
    ""
   ],
   [
    "AMMU",
    "5SmoQy57T2GM7PPjHBHGsKN3bDwRUrhzsPc3nsmZpump",
    0.013,
-   7.0,
+   7.9,
    ""
   ],
   [
-   "$GTC",
-   "4GW5SHZqe2t1iF4fk7jqWxtfDmXdj5TcPD7oMTZepump",
-   0.012,
-   9.5,
+   "EXIT",
+   "DmG4DSKjLkN2EfB5pnkjeiwcWVNZ5bx3SfWmyJTqpump",
+   0.011,
+   8.9,
    ""
   ]
  ]
