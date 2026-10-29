@@ -6358,84 +6358,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:37:55",
+   "2026-10-29T10:38:56",
    32.58
   ]
  ],
- "cycles": 1924,
+ "cycles": 1925,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.45,
- "watching": 280,
+ "sol_usd": 101.41191479094431,
+ "watching": 300,
  "near": [
   [
    "PULLS",
    "EjRpSxNVmaLReVwRLds549ZbvMdPVW9ZB4xNhe9KejA3",
-   0.755,
-   2.3,
+   0.703,
+   3.3,
    ""
   ],
   [
    "CALORIEEARN",
    "2R6pcAGoGcLcTYhKebRLL5UTs9z6RBLfsPqKGf8qzRfi",
-   0.447,
-   2.1,
+   0.436,
+   3.1,
    ""
-  ],
-  [
-   "TMTKN",
-   "EPW6eXVw2pTRPpytJrfC8dU2xSHcD11R5km7WuWGpump",
-   0.325,
-   9.6,
-   "buyers=9"
-  ],
-  [
-   "SHROOM",
-   "7ixh4rqrBX2LaoxvJrEHaCrXTxvZCNjVCx1eFBz7pump",
-   0.252,
-   9.0,
-   "buyers=9; top5_hold_most=82%"
   ],
   [
    "DotOS",
    "DaBjtaJ6mTqZ7ctEuYMXGGBHy87WZaB75fDMqEEv4g3R",
    0.225,
-   7.2,
+   8.2,
+   ""
+  ],
+  [
+   "Brett",
+   "5XEGV5kbZd2Y6nwdXFHpVJfGPbPHuf3mUy2spiFzpump",
+   0.213,
+   2.7,
    ""
   ],
   [
    "Brett",
    "FRKMzwhdATz1ogWdqxkjw2HoLm11P2mAPCCp3PBspump",
-   0.191,
-   2.3,
-   ""
-  ],
-  [
-   "PTCN",
-   "4BdNU9g9XBqixV4yyBEQ8EqVJjUyT2Tto9jgz6cLpump",
-   0.18,
-   5.9,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "ICE",
-   "9jLVVknsqjk51d4KRYGXBbjzWxL15PrpSDKhfwBupump",
-   0.179,
-   8.5,
+   0.187,
+   3.3,
    ""
   ],
   [
    "DUCKENMILLER",
    "FL8mtwEubUbg5VAK5bQKar28b3BqhXQnimk2BP2Zpump",
-   0.179,
-   6.9,
+   0.171,
+   8.0,
    ""
   ],
   [
    "DUCKENMILLER",
    "7hpvKbUWuYNY8E87MzMSmiCSFUY2kdpVcAkshTeHsG3y",
    0.162,
-   8.0,
+   9.0,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "MOSSY",
+   "FNSJPCRVP1NoPEoMi5pckgPBRogaNytU9LGwV9Ropump",
+   0.156,
+   8.2,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ICE",
+   "9jLVVknsqjk51d4KRYGXBbjzWxL15PrpSDKhfwBupump",
+   0.141,
+   9.5,
    ""
+  ],
+  [
+   "DUCKENMILLER",
+   "FYrJXWt36bt4K5c1QScepMGvi4GQjVtErcS48NSYikzo",
+   0.134,
+   8.8,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
