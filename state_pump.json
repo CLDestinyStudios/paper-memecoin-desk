@@ -3651,83 +3651,83 @@
    123.81
   ],
   [
-   "2026-10-28T18:56:52",
+   "2026-10-28T18:57:50",
    123.81
   ]
  ],
- "cycles": 984,
+ "cycles": 985,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.093510236,
- "watching": 266,
+ "sol_usd": 99.9864368556,
+ "watching": 280,
  "near": [
   [
-   "PERCS",
-   "ApB2GYkZYQcsUyp2S8ZnA6aq2WppUi8c7BmrN8F8pump",
-   0.707,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "DoinkCoin",
-   "B6RZZA1JMipbwoGQexqGCSSvpbCA2D1jeGNNzFypump",
-   0.316,
-   3.0,
-   "buyers=8; top5_hold_most=89%"
-  ],
-  [
-   "PEPEYE",
-   "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
-   0.293,
-   9.4,
-   "top5_hold_most=92%; launch_slot=missing"
+   "url",
+   "7Kr5qM8butauC5gLHGpnC7XuNgiRbWFicJWv2bi3pump",
+   0.298,
+   2.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "HALOPAD",
    "B5dJfk6e6fnidagyhqKMZjjSdW36AkZ4C3sJmaiMpump",
-   0.235,
-   6.4,
-   "buyers=7; top5_hold_most=100%"
+   0.234,
+   7.4,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Drip",
+   "5XdyqBVdLGuJsHjBuz1N4mPZSXkvdYiyQKtaRybYpump",
+   0.138,
+   2.4,
+   ""
   ],
   [
    "GHOSTDEV",
    "G95bm7QTxj5EeTiZWjDUM4WHjHoQ9XQWTCtQokqv5R8g",
    0.133,
-   4.8,
+   5.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "GHOST",
-   "JAecrtGseba9pnLFAti47qc4KZkLpLc9HfJTR4gWmYQ",
-   0.103,
-   9.6,
-   "top5_hold_most=99%"
-  ],
-  [
-   "HANA",
-   "FRSm2WhHMQ3aapZED2w4zxp7pJRC1wDX5gDkr8Jfpump",
-   0.074,
-   3.2,
-   ""
+   "DoinkCoin",
+   "B6RZZA1JMipbwoGQexqGCSSvpbCA2D1jeGNNzFypump",
+   0.096,
+   4.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PERRO",
    "8Nt16W1fMVif6tETmMFVNpGTTesp3FbNFpiquKT7pump",
    0.063,
-   8.5,
+   9.5,
    ""
   ],
   [
    "FARMED",
    "9CUWaUQqTrDmiS8Pi36ctyCbu6gvrVekLbgrux6npump",
-   0.045,
-   3.3,
+   0.044,
+   4.3,
+   ""
+  ],
+  [
+   "FLEA",
+   "4Uxq5xxAC8MStmxy4GG5QSBanbFshaV3KdxSsxqopump",
+   0.039,
+   2.3,
+   ""
+  ],
+  [
+   "HANA",
+   "FRSm2WhHMQ3aapZED2w4zxp7pJRC1wDX5gDkr8Jfpump",
+   0.035,
+   4.2,
    ""
   ],
   [
    "RUMPEL2",
    "4VkDKD6YrAbqe2tgQ2re36p7CCheMtH4vMdAtQHwpump",
    0.031,
-   9.0,
+   10.0,
    "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
