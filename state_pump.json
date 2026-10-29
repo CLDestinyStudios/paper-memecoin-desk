@@ -13,10 +13,10 @@
    "entry_px": 4.14843763273595e-08,
    "entry_fill": 4.500621512159938e-08,
    "opened": 1793267965.1255596,
-   "last_px": 8.895582114108524e-08,
+   "last_px": 8.64951587073635e-08,
    "peak_px": 8.895582114108524e-08,
-   "last_val": 1.673752501893838,
-   "last_prog": 0.594,
+   "last_val": 1.6258249106183005,
+   "last_prog": 0.584,
    "tp1_done": true,
    "realized": 0.6593046300182409
   },
@@ -29,10 +29,10 @@
    "entry_px": 3.4021715680744224e-08,
    "entry_fill": 3.6906346006639015e-08,
    "opened": 1793268145.720429,
-   "last_px": 3.821121867357306e-08,
-   "peak_px": 3.821121867357306e-08,
-   "last_val": 1.7654255384741964,
-   "last_prog": 0.196
+   "last_px": 3.9010946015184985e-08,
+   "peak_px": 3.9010946015184985e-08,
+   "last_val": 1.803134451480258,
+   "last_prog": 0.208
   }
  },
  "traded": [
@@ -4963,81 +4963,85 @@
   [
    "2026-10-29T03:07:22",
    62.06
-  ]
- ],
- "cycles": 1474,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.21488902749998,
- "watching": 294,
- "near": [
-  [
-   "Beanbird",
-   "HdBmxF2Uxn8fBC7uUvMaym6AwgRv7ysopv42Y8vLpump",
-   0.504,
-   2.4,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
-   "WALT",
-   "AJhrahkX4DXoSjvnYonkfkvDbTyargYNyqPAodyupump",
-   0.149,
-   2.3,
-   "buyers=6; top5_hold_most=99%"
+   "2026-10-29T03:08:22",
+   62.05
+  ]
+ ],
+ "cycles": 1475,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.19943578054543,
+ "watching": 296,
+ "near": [
+  [
+   "Azathoth",
+   "3Vr2A6nA2Mh9Ct3SjxBWBGnA6gQaBARyvNYj5nfxpump",
+   0.598,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "CINDY",
    "5vkpDMnihF1oX976r295Qqwn2uHnomzzy8iNcMkypump",
    0.095,
-   6.5,
+   7.5,
    "buyers=9; top5_hold_most=99%"
-  ],
-  [
-   "LG",
-   "CJPyeMqqpZ9Q2YgNtmtHvDZtAsRkoBDFH527vTmb9JaG",
-   0.065,
-   4.9,
-   ""
   ],
   [
    "Spooky",
    "DL7FqEeX9p8CaMUS1x5CoUHpSi6xEeHKCdR17pcQpump",
    0.05,
-   8.2,
+   9.2,
    ""
   ],
   [
    "VICERUN",
    "HtTqE1bjcr1QXXa2txGEAoGFReYhUUzXP9WdhAAepump",
    0.038,
-   2.2,
+   3.2,
    ""
   ],
   [
    "A",
    "ATMCFZLqnC22TUBMCctFyzx2soET1Qv2H8FP8ttbyWAF",
    0.036,
-   5.0,
-   ""
-  ],
-  [
-   "FLOATINU",
-   "DpBF5CnAwMfLSZEPTDTpQGHsRxkNqsv85QFzUgaapump",
-   0.025,
-   10.0,
+   6.0,
    ""
   ],
   [
    "CARBON",
    "6Kau87NWURqSRnJX44VHsmn7LC6MeyYh4kEdBNTvpump",
    0.025,
-   8.2,
+   9.2,
    ""
   ],
   [
    "LG",
    "5765hERvquKcMEwh9jyn9vVBZt5fhFctF75wTKoCL3PV",
    0.023,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "WALT",
+   "AJhrahkX4DXoSjvnYonkfkvDbTyargYNyqPAodyupump",
+   0.019,
+   3.3,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "ElizaOS",
+   "AzYWeTgBq5DCgQ2ehrwYpBwVa8UJ3S7zr5JK5pgZpump",
+   0.014,
+   2.5,
+   ""
+  ],
+  [
+   "BRU",
+   "8XeQycz3Y3pzyqusbmWKy8hkc65CYwGLwm4Vjtaqpump",
+   0.012,
+   4.3,
    ""
   ]
  ]
