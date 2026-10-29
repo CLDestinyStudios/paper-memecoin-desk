@@ -4714,84 +4714,84 @@
    69.82
   ],
   [
-   "2026-10-29T02:02:23",
+   "2026-10-29T02:03:22",
    69.82
   ]
  ],
- "cycles": 1409,
+ "cycles": 1410,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.2,
- "watching": 133,
+ "sol_usd": 100.2084481015,
+ "watching": 121,
  "near": [
+  [
+   "COPY",
+   "GYLppaTd7gEQPeQ4FGwUCRcDS6NXeoPcB8HKVmDZpump",
+   0.364,
+   2.5,
+   "bundled_launch=7 extra buys in creation block"
+  ],
   [
    "Boochie",
    "FEKm134peKiwXXnDT5e2dMLMN7ucyyb7GEJwSobEpump",
-   0.262,
-   7.8,
-   ""
+   0.265,
+   8.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "SIRIUS",
    "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
    0.14,
-   6.8,
+   7.7,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "CIPHER",
-   "6qQhVWfqiBhTCzJx9eUeCSeyVi5LmWU3Zr8jEzDdpump",
-   0.11,
-   2.5,
-   "buyers=9; top5_hold_most=87%"
   ],
   [
    "HEAD",
    "J3n9EuZjMAJvFetv6wQXnRVe9ynbiRP4YCxhRiL4pump",
-   0.091,
-   2.2,
-   "top5_hold_most=96%"
-  ],
-  [
-   "FATINU",
-   "BHUSGdtj4oJbBCuUTfvPFevdA2xJ41pLt2gPmEnhpump",
-   0.091,
-   2.7,
-   ""
+   0.086,
+   3.2,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
    0.058,
-   5.0,
+   6.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "LOVE",
    "4sxpPcx4JF9eUCGkEAMZDSzR4bcAatrPsMqosJbqpump",
    0.028,
-   8.0,
+   9.0,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "AC",
+   "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
+   0.022,
+   2.8,
    ""
   ],
   [
    "TOWERCAT",
    "Ei2ritefJSSMmCzZSbBhDF4gitcHMfPrMZbwokqspump",
    0.022,
-   8.9,
+   9.8,
    ""
   ],
   [
-   "BabyNuts",
-   "46rw8x4Eanx7Wzn5KxpZcejJLkSks8gdJCKa1FNxpump",
-   0.02,
-   8.4,
-   ""
+   "CIPHER",
+   "6qQhVWfqiBhTCzJx9eUeCSeyVi5LmWU3Zr8jEzDdpump",
+   0.021,
+   3.5,
+   "buyers=9; top5_hold_most=87%"
   ]
  ]
 }
