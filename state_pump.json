@@ -13,10 +13,10 @@
    "entry_px": 5.898525465389262e-08,
    "entry_fill": 6.317236960461554e-08,
    "opened": 1793241965.2627635,
-   "last_px": 1.0007091642929571e-07,
-   "peak_px": 1.0007091642929571e-07,
-   "last_val": 2.5699480854311876,
-   "last_prog": 0.638,
+   "last_px": 1.1198958419903014e-07,
+   "peak_px": 1.1198958419903014e-07,
+   "last_val": 2.882965029683027,
+   "last_prog": 0.677,
    "tp1_done": true,
    "realized": 0.8299480854311876
   }
@@ -3785,82 +3785,86 @@
   [
    "2026-10-28T19:51:05",
    117.6
+  ],
+  [
+   "2026-10-28T19:52:03",
+   117.92
   ]
  ],
- "cycles": 1038,
+ "cycles": 1039,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.79968243695001,
- "watching": 262,
+ "sol_usd": 99.83673780885,
+ "watching": 257,
  "near": [
   [
    "BlackShiba",
    "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.786,
-   3.9,
+   0.844,
+   4.8,
    ""
-  ],
-  [
-   "TRENTON",
-   "5YNm5Sz5YbCjtGJ92gYMsbg4s9hoZ2sWEzhs1E8Ypump",
-   0.383,
-   2.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HAKIMI",
-   "BdNnWh6BCHiYUMFJpXyuKcWLGkXvU8g8vLZzQuiHpump",
-   0.182,
-   2.2,
-   "buyers=6; top5_hold_most=96%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "YOKO",
    "Gv47U9VUwSsSrXa2tVDYy2frBEnU7Z9jYy788TVapump",
-   0.162,
-   3.2,
+   0.153,
+   4.2,
    ""
   ],
   [
    "STARSHIP42",
    "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
    0.074,
-   4.8,
+   5.8,
    ""
   ],
   [
    "HAKIMI",
    "2DXCjVjGL3KMMv98WBXpzDaCbP2e9piMFHGSDyc3pump",
    0.071,
-   6.0,
+   6.9,
    ""
   ],
   [
    "HAKIMI1337",
    "HJJ2iRKyhBi9WGs7Lsg4RU4tc1grB5CVaD9vgDH1pump",
    0.064,
-   7.2,
+   8.2,
    ""
   ],
   [
    "Cyberpsyc",
    "7KqHx6cA2sVTEwd6ov1woFuiBxykXgHJKj9GxYZwpump",
    0.058,
-   3.5,
+   4.5,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "HYPUR",
-   "4i9rZoBP3swnx6MQ7qBRp4zS48antRZ2FEQ1uYm5pump",
-   0.049,
-   2.6,
-   ""
   ],
   [
    "RoboCab",
    "98LqSreaZjyvwkL5Vf5HJJFkvFheFT5CQNKopXaVpump",
-   0.041,
-   7.5,
+   0.045,
+   8.5,
    "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "BRAIN",
+   "Em4ZejFom2FUf7Gc5wwhy1rCNndHHvuGtiqVB8aZpump",
+   0.038,
+   5.2,
+   ""
+  ],
+  [
+   "SHOPIFY ",
+   "DXgw3h55gxDiXeunVSnauM3RDFWfobVX8djhGgoHpump",
+   0.027,
+   7.2,
+   ""
+  ],
+  [
+   "LaPerla",
+   "987LWNXLLvc8UhVWyxzUUNPpAZYqCBvgFbBYFKKepump",
+   0.022,
+   6.9,
+   ""
   ]
  ]
 }
