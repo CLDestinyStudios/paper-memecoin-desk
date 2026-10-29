@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 105.8901767366816,
+ "cash": 102.3601767366816,
  "positions": {
   "4gMLiKpRHQoPVGK6PX4xY2tmfeesRQuvr7oPQxWSpump": {
    "sym": "LGBTQ+",
@@ -13,10 +13,10 @@
    "entry_px": 1.2683624005893516e-07,
    "entry_fill": 1.3582491559744502e-07,
    "opened": 1793235778.3935692,
-   "last_px": 2.108759406199147e-07,
-   "peak_px": 2.108759406199147e-07,
-   "last_val": 2.5374303610825484,
-   "last_prog": 0.86,
+   "last_px": 2.2550001728485401e-07,
+   "peak_px": 2.2550001728485401e-07,
+   "last_val": 2.718649485227597,
+   "last_prog": 0.877,
    "tp1_done": true,
    "realized": 0.7774303610825484
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.1623084654673315e-08,
    "entry_fill": 4.4592110217206765e-08,
    "opened": 1793235778.5899053,
-   "last_px": 3.948250845476213e-08,
+   "last_px": 3.7305342028633676e-08,
    "peak_px": 4.1623084654673315e-08,
-   "last_val": 2.8913556376072274,
-   "last_prog": 0.214
+   "last_val": 2.730951694121989,
+   "last_prog": 0.182
   },
   "6idpECyv6NJ7eAA2bqXWQ2rXBpGnUCAKfgWJJCKMpump": {
    "sym": "FORTRESS",
@@ -43,10 +43,10 @@
    "entry_px": 5.021130216283563e-08,
    "entry_fill": 5.377975358296539e-08,
    "opened": 1793235907.3880217,
-   "last_px": 5.021130216283563e-08,
+   "last_px": 4.770346573773663e-08,
    "peak_px": 5.021130216283563e-08,
-   "last_val": 3.088757345123095,
-   "last_prog": 0.343
+   "last_val": 2.933909950663567,
+   "last_prog": 0.317
   },
   "4eFtEy3YChmDw2mUZLffUFsnpHi7UycHUiQMV5eUpump": {
    "sym": "ELOSAGENT",
@@ -57,10 +57,24 @@
    "entry_px": 4.2362923055007245e-08,
    "entry_fill": 4.5378744183179335e-08,
    "opened": 1793235907.6881683,
-   "last_px": 4.2362923055007245e-08,
-   "peak_px": 4.2362923055007245e-08,
-   "last_val": 3.0793416295025557,
-   "last_prog": 0.254
+   "last_px": 4.4891515837013676e-08,
+   "peak_px": 4.4891515837013676e-08,
+   "last_val": 3.2682040728360686,
+   "last_prog": 0.285
+  },
+  "5En96qU95Xsj9XCwMtFqCawddZ8XCXjfNS9aMhShpump": {
+   "sym": "fair",
+   "bc": "7G9udrFDfdUD2XGwsiM3AVFDFW8Y6SsXzaKgGPnQt38z",
+   "tokens": 443557.04309749603,
+   "cost": 3.53,
+   "cost0": 3.53,
+   "entry_px": 7.310441693240929e-08,
+   "entry_fill": 7.82953458811445e-08,
+   "opened": 1793235952.0466127,
+   "last_px": 7.310441693240929e-08,
+   "peak_px": 7.310441693240929e-08,
+   "last_val": 3.071663203112,
+   "last_prog": 0.516
   }
  },
  "traded": [
@@ -295,7 +309,8 @@
   "4gMLiKpRHQoPVGK6PX4xY2tmfeesRQuvr7oPQxWSpump",
   "5qK3nuo5gRjawEnUCj6AVRRFTPZ5cdMpHKKWjV9Kpump",
   "6idpECyv6NJ7eAA2bqXWQ2rXBpGnUCAKfgWJJCKMpump",
-  "4eFtEy3YChmDw2mUZLffUFsnpHi7UycHUiQMV5eUpump"
+  "4eFtEy3YChmDw2mUZLffUFsnpHi7UycHUiQMV5eUpump",
+  "5En96qU95Xsj9XCwMtFqCawddZ8XCXjfNS9aMhShpump"
  ],
  "equity": [
   [
@@ -3537,81 +3552,85 @@
   [
    "2026-10-28T18:05:07",
    117.49
+  ],
+  [
+   "2026-10-28T18:05:52",
+   117.08
   ]
  ],
- "cycles": 932,
+ "cycles": 933,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.58000000000001,
- "watching": 313,
+ "sol_usd": 101.64576264700001,
+ "watching": 300,
  "near": [
   [
-   "FORTRESS",
-   "6idpECyv6NJ7eAA2bqXWQ2rXBpGnUCAKfgWJJCKMpump",
-   0.343,
-   3.1,
-   "bought"
-  ],
-  [
-   "FUNDME",
-   "62JZiTGemGH9fkzH6ngYvD81FUAS2GEVYbWKS1eUpump",
-   0.315,
-   3.0,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "ELOSAGENT",
-   "4eFtEy3YChmDw2mUZLffUFsnpHi7UycHUiQMV5eUpump",
-   0.254,
-   2.3,
+   "fair",
+   "5En96qU95Xsj9XCwMtFqCawddZ8XCXjfNS9aMhShpump",
+   0.516,
+   2.8,
    "bought"
   ],
   [
    "up dog",
    "ALZ5Q8ZgWwixnubHairGBfwAuKNFPozLh4U23XTCpump",
    0.215,
-   4.7,
+   5.4,
    "buyers=8; top5_hold_most=99%"
+  ],
+  [
+   "POKE",
+   "Dtd3WFErgAB8Vw67tDkhDb7Yka3EDqtEYH4pT2Cwpump",
+   0.139,
+   2.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "chain",
+   "2tpokDccsQezBuV2U1vZXHSynoDceDKnaXrdoQ3Ypump",
+   0.118,
+   2.8,
+   ""
   ],
   [
    "GAYLORDS",
    "GJf2TiFAgz4dj1oLoeLasAaL3BasbkmfzspvU41npump",
-   0.106,
-   2.5,
-   "top5_hold_most=91%"
-  ],
-  [
-   "TFR",
-   "Hjo5teW3uYkwGcVhVZVm31g2whffvATas9hTHidypump",
-   0.087,
-   4.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   0.102,
+   3.2,
+   "top5_hold_most=90%"
   ],
   [
    "FIX",
    "Em4bk1W6efXa2frrKJhVpctToLsxbE4rRXMceRUnpump",
    0.069,
-   7.7,
+   8.5,
    ""
   ],
   [
    "HTXCAT",
    "ExxwMvANtJFoLNZo6x2BDkm2noWGz46ofQqX5XNrpump",
-   0.038,
-   7.8,
+   0.037,
+   8.6,
    "launch_slot=missing"
   ],
   [
    "GATE",
    "9cJLcTHLReoNzCi8sgX9JHovK8RWpWoZY64ngHoapump",
    0.025,
-   6.2,
+   7.0,
    ""
   ],
   [
    "El toro",
    "AVxmiG7xvkUrnaPtGyeXU8YwcLjtWgkmpkQrzrSppump",
    0.023,
-   4.7,
+   5.5,
+   ""
+  ],
+  [
+   "NASDUCK",
+   "8U1s2SxmhvhyXaATo3QXpsfvB3LnEcXbpjt6uerXpump",
+   0.021,
+   3.5,
    ""
   ]
  ]
