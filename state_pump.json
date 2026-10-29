@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 82.58525937619316,
- "positions": {
-  "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump": {
-   "sym": "BITE",
-   "bc": "FDqgAT9RXbdDwngWvwTt8FqTRHr5HxQyEjRZNqzXcxJu",
-   "tokens": 657785.4057556915,
-   "cost": 2.62,
-   "cost0": 2.62,
-   "entry_px": 3.684524778796942e-08,
-   "entry_fill": 3.965493392782358e-08,
-   "opened": 1793252106.096096,
-   "last_px": 3.8776214329495014e-08,
-   "peak_px": 3.890070811186877e-08,
-   "last_val": 2.378283051476611,
-   "last_prog": 0.204
-  }
- },
+ "cash": 84.96193588484773,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4250,81 +4235,85 @@
   [
    "2026-10-28T22:41:04",
    84.96
+  ],
+  [
+   "2026-10-28T22:42:04",
+   84.96
   ]
  ],
- "cycles": 1208,
+ "cycles": 1209,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.5078936155,
- "watching": 200,
+ "sol_usd": 100.44000000000001,
+ "watching": 185,
  "near": [
   [
    "GCAT",
    "6pM9iz9B2yurZMApaUWMrh8Bvap5DWQRASQuGz3YAWMt",
    0.083,
-   5.1,
+   6.1,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "PCAT",
+   "HWBqfn84yUnJBoeJyyF3MiZ6czVMGWA4LXFNguhPpump",
+   0.082,
+   2.5,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "\u02e2\u1d50\u1d52\u02e1",
    "6Ar6oJSSX5PgCYCiUbGfzZDxpsNR9n5wWDSgSUsMpump",
    0.073,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "Cumshot",
+   "4b9Nb2hRQ64ZXeDoSC3yrKdKAwohMxGY8fTwH8zVpump",
+   0.071,
+   2.2,
    ""
   ],
   [
    "ZAZU",
    "FjBZn4chuU8c6aKnXZCPzxA4uC3NZf15vSmq9W7rpump",
    0.07,
-   2.7,
+   3.7,
+   ""
+  ],
+  [
+   "saPuhblo",
+   "Hm3HUkbBqhYSJNKyFRx1ehXiyFdmkoBKTGBBD4wUpump",
+   0.064,
+   2.5,
    ""
   ],
   [
    "Biscuit",
    "4yFArbnF9Aee1qcvfSVZWYmM2HrZ7DBHWtM2Hhuipump",
-   0.067,
-   2.1,
+   0.058,
+   3.1,
    ""
   ],
   [
    "PANF",
    "5LXtsFaHb1dgCj57GPWaNTw9r9qBbJPFL3H45auspump",
    0.033,
-   3.2,
+   4.2,
    ""
   ],
   [
    "ZAZU",
    "GvDMYhdQJ9sPRBN6znGcavicMXUnDqgepNQNyhEpump",
-   0.029,
-   4.1,
+   0.028,
+   5.1,
    ""
   ],
   [
    "SLEGO",
    "2szTQaE4vNTNk5rL7DFM4ErjNtcqDDjUmWUmSqALpump",
    0.022,
-   5.5,
-   ""
-  ],
-  [
-   "SLEGO",
-   "2dBzmd653KFfX1UroqtGQSTtcBmbX3fgPKSLgARKpump",
-   0.022,
-   8.5,
-   ""
-  ],
-  [
-   "$BRAINROT",
-   "ACCPuZnxGyn6bkW66sjMFQYAu7jvn3u4N5xQMRDXpump",
-   0.014,
-   8.1,
-   ""
-  ],
-  [
-   "XUEFARM",
-   "HmFk8EQEGeDX2DRdDMLoKM4jyQZEUfy7fdj3V3hmpump",
-   0.013,
-   7.4,
+   6.5,
    ""
   ]
  ]
