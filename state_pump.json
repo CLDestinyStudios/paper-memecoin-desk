@@ -13,10 +13,10 @@
    "entry_px": 5.111847800799861e-08,
    "entry_fill": 5.5463026641310846e-08,
    "opened": 1793271202.7240314,
-   "last_px": 5.996611396913064e-08,
-   "peak_px": 5.996611396913064e-08,
-   "last_val": 1.8338568232503083,
-   "last_prog": 0.429
+   "last_px": 6.02329749515629e-08,
+   "peak_px": 6.02329749515629e-08,
+   "last_val": 1.840163891667889,
+   "last_prog": 0.431
   }
  },
  "traded": [
@@ -5126,81 +5126,85 @@
   [
    "2026-10-29T03:55:25",
    61.38
+  ],
+  [
+   "2026-10-29T03:56:22",
+   61.39
   ]
  ],
- "cycles": 1522,
+ "cycles": 1523,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.62045307824235,
- "watching": 175,
+ "sol_usd": 100.50706751038965,
+ "watching": 160,
  "near": [
-  [
-   "XYZ100",
-   "AhnttuBfs3GbRJ75wq99FcoYSGSniPGaouSDYSntpump",
-   1.0,
-   2.7,
-   "graduated"
-  ],
   [
    "Purrrps",
    "82Pi34RzXHrD2LqMppRa3rCw8RdX3ABQ1YmaeYfppump",
    0.245,
-   2.8,
+   3.8,
    "buyers=9; top5_hold_most=80%"
-  ],
-  [
-   "NBaby",
-   "8E9vWwHgaEFrSijAatGbUHY4DPCm8dXUvAGWLBknpump",
-   0.186,
-   3.3,
-   "serial_creator=10 launches/24h"
   ],
   [
    "MEIMEI",
    "598YRYDeUP8gpBbJtkA6GgjDxkxPQc2G1spJvufVpump",
-   0.103,
-   2.9,
-   "buyers=4; top5_hold_most=100%"
+   0.104,
+   3.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Blackout",
+   "H2ikghi2icnjvuLupW7HqX3mjjBGHKnd9KFn8skkpump",
+   0.092,
+   2.6,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "tim",
+   "EdC45EDpfEBDpRdoit1YhwujFLXJZH9fGNBQD9Hzr8kh",
+   0.085,
+   2.1,
+   ""
   ],
   [
    "POCKET",
    "3oVacbk2y2hpDq3QgVQ2CzYZDVpZDh1tLKdAaP1jpump",
    0.079,
-   3.8,
+   4.8,
    "buyers=7; top5_hold_most=98%"
   ],
   [
    "GENESIS",
    "4GEWYGfkU6JwVoQ2mncrvTF1F5d1Vgp83YbCgCgfxAvB",
    0.076,
-   6.5,
+   7.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "BOWEN",
+   "45D2WtZzN6jjWMBBtpGUNxiE3RTRNnJeqbppvmHhpump",
+   0.064,
+   2.6,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "ETH",
    "P6YcMF52HPjNyh9JK52dcf8M4xRsy2HPoBCKCkkpump",
-   0.055,
-   2.6,
+   0.054,
+   3.6,
    ""
   ],
   [
    "Donkey",
    "AQKMWimTdaZvCTXrCXGxDzLeZpk1oWR3AtwXkpJ7pump",
-   0.041,
-   3.6,
+   0.044,
+   4.5,
    ""
   ],
   [
    "sawyer",
    "6Z5ehVwDM2P1iTqp9gAYKamBr2skLGRf5Qy3d3Jpump",
    0.036,
-   4.4,
-   ""
-  ],
-  [
-   "$SPEPE",
-   "RDuPQjpasqnpoaaL2Gx4GR5ENukgTcwJntYCwazpump",
-   0.035,
-   8.1,
+   5.4,
    ""
   ]
  ]
