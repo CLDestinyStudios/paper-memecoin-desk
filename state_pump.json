@@ -4714,84 +4714,84 @@
    69.82
   ],
   [
-   "2026-10-29T02:03:22",
+   "2026-10-29T02:04:22",
    69.82
   ]
  ],
- "cycles": 1410,
+ "cycles": 1411,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.2084481015,
- "watching": 121,
+ "sol_usd": 100.21,
+ "watching": 120,
  "near": [
   [
-   "COPY",
-   "GYLppaTd7gEQPeQ4FGwUCRcDS6NXeoPcB8HKVmDZpump",
-   0.364,
-   2.5,
-   "bundled_launch=7 extra buys in creation block"
+   "MEAT",
+   "8HEiMgNV1pQZv49Qmy78LtcQHTnEVpXLCNnPWgVvpump",
+   0.332,
+   2.1,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "Boochie",
-   "FEKm134peKiwXXnDT5e2dMLMN7ucyyb7GEJwSobEpump",
-   0.265,
-   8.8,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "SIRIUS",
-   "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
-   0.14,
-   7.7,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HEAD",
-   "J3n9EuZjMAJvFetv6wQXnRVe9ynbiRP4YCxhRiL4pump",
-   0.086,
-   3.2,
-   "buyers=7; top5_hold_most=99%"
+   "Sora",
+   "8rZ2spNhiia964xoaxiY7mS9WQqtvU7aocvDsnSJpump",
+   0.261,
+   2.8,
+   ""
   ],
   [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
-   0.058,
-   6.0,
+   0.086,
+   7.0,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "luck",
+   "J3idAZRE9LxzigQS5CwFyRSVRjMH4S5RAUoYoXytBY7J",
+   0.085,
+   3.7,
+   ""
+  ],
+  [
+   "SIRIUS",
+   "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
+   0.076,
+   8.7,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "GL",
+   "7EoboMPnrF9jZ2reaWogbQyWHVfSyNvK8Q4c4eorpump",
+   0.061,
+   2.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Mewkin",
+   "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
+   0.033,
+   2.7,
+   ""
   ],
   [
    "LOVE",
    "4sxpPcx4JF9eUCGkEAMZDSzR4bcAatrPsMqosJbqpump",
    0.028,
-   9.0,
+   10.0,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   3.4,
+   4.4,
    ""
   ],
   [
    "AC",
    "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
    0.022,
-   2.8,
+   3.8,
    ""
-  ],
-  [
-   "TOWERCAT",
-   "Ei2ritefJSSMmCzZSbBhDF4gitcHMfPrMZbwokqspump",
-   0.022,
-   9.8,
-   ""
-  ],
-  [
-   "CIPHER",
-   "6qQhVWfqiBhTCzJx9eUeCSeyVi5LmWU3Zr8jEzDdpump",
-   0.021,
-   3.5,
-   "buyers=9; top5_hold_most=87%"
   ]
  ]
 }
