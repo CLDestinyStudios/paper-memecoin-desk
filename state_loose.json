@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 360.3029911152937,
+ "cash": 338.4329911152937,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -9,7 +9,7 @@
    "mark_entry": 0.03037,
    "cost": 20.54,
    "peak": 0.05212,
-   "last": 0.05109,
+   "last": 0.0511,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -31,12 +31,25 @@
    "mark_entry": 0.001625,
    "cost": 21.89,
    "peak": 0.001674,
-   "last": 0.001621,
+   "last": 0.001624,
    "opened": 1793307841.7179182,
    "p_buy": 0.55
+  },
+  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": {
+   "sym": "HYPERCAT",
+   "qty": 132844.95954515637,
+   "entry": 0.000164628,
+   "mark_entry": 0.0001614,
+   "cost": 21.87,
+   "peak": 0.0001614,
+   "last": 0.0001614,
+   "opened": 1793308445.262273,
+   "p_buy": 0.74
   }
  },
- "watch": {},
+ "watch": {
+  "677RzFgXjLpApyHAtzjd9sTjiJNGCxrRVvYb1TwWp5qJ": 1793308442.998541
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -97,7 +110,8 @@
   "7p2ZBjXspFywnRyahtLkSs6eR3S1dZ4A9ugEbPG3pump",
   "C5hLhhd5MivJ8m2MTQjB9A2nmuBymRzYhyRpeRMMpump",
   "DvdmEnztCmXwBnAbedD48XVGZJSxq31zNvnyftXdpump",
-  "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump"
+  "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump",
+  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump"
  ],
  "equity": [
   [
@@ -6967,8 +6981,12 @@
   [
    "2026-10-29T14:13:00",
    437.34
+  ],
+  [
+   "2026-10-29T14:14:05",
+   436.53
   ]
  ],
- "cycles": 2159,
+ "cycles": 2160,
  "started": "2026-10-28T01:46:56"
 }

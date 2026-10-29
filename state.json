@@ -1,7 +1,19 @@
 {
  "bank_start": 500.0,
- "cash": 504.6152341640085,
- "positions": {},
+ "cash": 464.2452341640085,
+ "positions": {
+  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": {
+   "sym": "HYPERCAT",
+   "qty": 245219.5252326457,
+   "entry": 0.000164628,
+   "mark_entry": 0.0001614,
+   "cost": 40.37,
+   "peak": 0.0001614,
+   "last": 0.0001614,
+   "opened": 1793308445.2620645,
+   "p_buy": 0.74
+  }
+ },
  "watch": {},
  "traded": [
   "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
@@ -13,7 +25,8 @@
   "HuRqh4ddfRGwcWRD6UaXKGha8ycaDcw6gP6NbFc66uNy",
   "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump",
   "A6PM7bxyWYiUxaEpRMHvuL4tY2jYVf8N46vXZ15Hpump",
-  "GJKnJsRiM5ATS4yhwjYRegT3iRsXUvcW1dafJPh8pump"
+  "GJKnJsRiM5ATS4yhwjYRegT3iRsXUvcW1dafJPh8pump",
+  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump"
  ],
  "equity": [
   [
@@ -1559,7 +1572,11 @@
   [
    "2026-10-29T14:13:00",
    504.62
+  ],
+  [
+   "2026-10-29T14:14:05",
+   503.03
   ]
  ],
- "cycles": 2196
+ "cycles": 2197
 }
