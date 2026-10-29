@@ -6470,84 +6470,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:56:01",
+   "2026-10-29T14:57:03",
    32.58
   ]
  ],
- "cycles": 2182,
+ "cycles": 2183,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.97526448419998,
- "watching": 275,
+ "sol_usd": 97.23130012300001,
+ "watching": 268,
  "near": [
   [
    "wif",
    "fuUb3T8EgWkgwgrSyGPz26p6AkkzWZ4yxjgMjKppump",
-   0.953,
-   4.3,
-   ""
+   1.0,
+   5.3,
+   "graduated"
   ],
   [
-   "SAFU",
-   "BApjWvYFU3BUAcZaRJvQGoSsghynQ4s2JyLTxVFWpump",
-   0.147,
-   4.1,
-   "buyers=5; top5_hold_most=100%"
+   "WOFL",
+   "4rWXz6LcChtjFwg3dyi9b2rvgd5TAKQ9Xsentn6Upump",
+   0.191,
+   2.4,
+   ""
   ],
   [
    "FI",
    "4f7UoHzZ1XPkPKp5p4Y9mNztGizyo2MpjN7ZiCGHpump",
    0.117,
-   2.5,
+   3.6,
    ""
   ],
   [
    "PEPE",
    "5zH5dLzmYZ4y8cBfisvJ86gRG6G8WHFeAHY1jWprFzze",
    0.091,
-   2.5,
+   3.5,
    ""
   ],
   [
    "TIT",
    "EWrjMSKkCzNcoeVKqUxa6AS8ArhXHDDkLCFthhqspump",
    0.082,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "HACKDAY",
-   "Huf3nFE7epbTpK5itcHwWZUuFgxriNTr5UD4FGfDpump",
+   "CHOLLIMA",
+   "9ivo6udhETC9bAyAsW81FNDtePD9eXfM1XnF1S12pump",
    0.072,
-   2.5,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   2.4,
+   ""
   ],
   [
    "DPRK",
    "3atWTj3yLg1n8emVJLWqCtZYbCKxYtJFQM7ZuBz4pump",
    0.068,
-   2.7,
+   3.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ASCII",
    "A77GhgV36rAHgk3bC7gUyCSoGkw754D9TFiKa6qfF1ga",
    0.063,
-   3.4,
+   4.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "7XCCDWDRhknAh2agRiHetCpPkiV73WPczPDAdaq7pump",
    0.039,
-   3.2,
+   4.2,
    ""
   ],
   [
-   "Mike",
-   "9y7uQuiwLPas3VQJXshNvxZkD33wxiAxgecWcFApump",
-   0.031,
-   3.3,
-   ""
+   "SAFU",
+   "BApjWvYFU3BUAcZaRJvQGoSsghynQ4s2JyLTxVFWpump",
+   0.035,
+   5.2,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
