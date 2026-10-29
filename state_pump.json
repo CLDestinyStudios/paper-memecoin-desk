@@ -6394,83 +6394,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:04:54",
+   "2026-10-29T12:05:54",
    32.58
   ]
  ],
- "cycles": 2011,
+ "cycles": 2012,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.402359918,
- "watching": 252,
+ "sol_usd": 100.4,
+ "watching": 263,
  "near": [
-  [
-   "leaveamsg",
-   "8Q7u7jANEFjAKcdP1U78WdKh7Xmgr1CsZNBiCRG53hAJ",
-   0.637,
-   2.9,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "NOTATO",
-   "Sj36xiTroJ6armTjLbPNwniRPmuKxrdax6Y4fzfpump",
-   0.425,
-   2.0,
-   "top5_hold_most=81%; bundled_launch=3 extra buys in creation block"
-  ],
   [
    "MIAOU",
    "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
-   0.223,
-   2.6,
-   "buyers=2; creator=15.2%; top5_hold_most=100%"
+   0.309,
+   3.6,
+   "buyers=2; creator=22.0%; top5_hold_most=100%"
   ],
   [
-   "RUGGO ",
-   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
-   0.127,
-   2.3,
-   ""
+   "SQODY",
+   "5VQtRtV7Pc2Y5N2QSF5HmgbyKVRcyuM72uqKAguRpump",
+   0.274,
+   2.4,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
-   "Sol",
-   "CYQJHJinra2bLAnAXz9FhsSvn86hXNDUzxRR1Ahvpump",
-   0.09,
-   3.8,
-   ""
+   "ABDUL",
+   "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
+   0.122,
+   2.9,
+   "top5_hold_most=100%"
   ],
   [
    "ZD",
    "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
-   0.087,
-   5.1,
-   "buyers=6; top5_hold_most=100%"
+   0.07,
+   6.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Puri",
-   "7Q8KGZQSPNsuXvqUiMSiswo73NkyJ91xnrYt2NNepump",
-   0.085,
-   2.3,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Ket",
-   "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
-   0.048,
-   9.7,
+   "RUGGO ",
+   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
+   0.065,
+   3.3,
    ""
   ],
   [
    "HATCH",
    "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
    0.043,
-   6.8,
+   7.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "CR7",
    "56Jfs46D3ZBTumjjsrHQ6LSSweVkcnEsy5z7bYp9pump",
    0.043,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "ELON",
+   "4bMuqLcLoj2QR2chWiwNBAYvrgkCU9WHvqsibNRX6avV",
+   0.027,
+   7.6,
+   ""
+  ],
+  [
+   "HYPE",
+   "2Xj8sodgEE6aQ2QuyYMjb7TQ6Gp5m2yj3qdL4RZApump",
+   0.024,
+   2.5,
+   ""
+  ],
+  [
+   "MATTC",
+   "HtgJyfJuNoVeQcFXvi6ADV1uNAUP9CqGEpkE7ngRpump",
+   0.024,
+   9.5,
    ""
   ]
  ]
