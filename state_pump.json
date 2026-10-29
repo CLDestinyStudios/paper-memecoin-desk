@@ -6450,83 +6450,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:12:02",
+   "2026-10-29T14:13:01",
    32.58
   ]
  ],
- "cycles": 2138,
+ "cycles": 2139,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.7164182299,
- "watching": 351,
+ "sol_usd": 96.87,
+ "watching": 352,
  "near": [
   [
    "bye",
    "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
-   0.911,
-   7.3,
-   ""
-  ],
-  [
-   "BNB",
-   "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
-   0.308,
-   6.6,
+   0.956,
+   8.3,
    ""
   ],
   [
    "FOOLS",
    "GG4o6qnSQvfDU4S9de2jRcRaFMqxK7pwJDRqrtgepump",
-   0.27,
-   2.9,
+   0.302,
+   3.9,
+   ""
+  ],
+  [
+   "BNB",
+   "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
+   0.255,
+   7.6,
+   ""
+  ],
+  [
+   "SI",
+   "7E2EJ8qM3iYnyTHcfgzs99jXJMoDpir3jZFJW9Q3zfQq",
+   0.199,
+   3.0,
    ""
   ],
   [
    "SAFU",
    "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
    0.192,
-   5.8,
+   6.7,
    ""
   ],
   [
-   "STARE",
-   "86W9914Rne9sZVGVraH2jm3TKBXDiLCfQ6BG7WhUpump",
-   0.151,
-   3.7,
-   ""
+   "BYE",
+   "6zzDrkA6ZKtuP7nKVdE2UTUk5MGBBdKHxiYrbruiMsoF",
+   0.141,
+   2.1,
+   "buyers=8; top5_hold_most=82%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "BLACKSWAN",
    "HvYtqNTn7m4FWva1aHDJYUa9vugjGUUFCSFRqUkcpump",
-   0.136,
-   3.2,
+   0.129,
+   4.2,
    ""
   ],
   [
    "OVER",
    "J1xpj4jPK83URsJCeiRPyDscTuwd8U1zvcyLBXNFpump",
-   0.133,
-   4.2,
+   0.11,
+   5.2,
    ""
   ],
   [
    "0",
    "CHxVLEctuzwDwcwZAAv6EqHG29rBDBxFqnpmuvvupump",
-   0.111,
-   5.0,
+   0.106,
+   6.0,
    ""
   ],
   [
-   "FOLIG",
-   "7gVYv1RqD7siW1K7tk2t8cDZxGmnQCLr29ns8qG7pump",
-   0.105,
-   8.5,
-   "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "EIP-7702",
-   "6mHTcnTb8bTQxmgUY9W9pYWgavMpjzia5grc1CUrpump",
-   0.101,
-   3.7,
+   "SI",
+   "FSrwiJmzD4s8j92CkLCKXkygfPrJjVEXu6qQtwUM1523",
+   0.103,
+   2.4,
    ""
   ]
  ]
