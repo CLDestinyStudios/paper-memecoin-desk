@@ -6426,83 +6426,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:15:05",
+   "2026-10-29T13:16:02",
    32.58
   ]
  ],
- "cycles": 2081,
+ "cycles": 2082,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.968969334,
- "watching": 323,
+ "sol_usd": 98.8736238133,
+ "watching": 321,
  "near": [
   [
    "STAN",
    "HmVWvfzZBRKzFBnoD5ctQTPLuAPGM7qiDfnbqg9Npump",
-   0.749,
-   8.5,
-   "top10=54.2%; top5_hold_most=81%"
+   0.701,
+   9.4,
+   "top10=53.4%; top5_hold_most=86%"
   ],
   [
    "HEDGE",
    "74QZS3FPw8sHHiLv2gqjQskrD9pRZcDzGbHeHkdmpump",
-   0.465,
-   3.1,
+   0.536,
+   4.0,
    ""
   ],
   [
    "LIQ",
    "8GwSGBxNZcYyMQ8tabCdpcFGnCcioquuF3zcFA8cpump",
    0.244,
-   3.8,
+   4.8,
    "top5_hold_most=87%"
   ],
   [
-   "HYPECHILL",
-   "CMbEeYNMm6DzLXP6jSi7eQEv46htSBkBbyGhRHkxpump",
-   0.191,
-   2.3,
-   "buyers=2; creator=15.2%; top5_hold_most=100%"
+   "AMZNCRASH",
+   "B3LgWfML3VTCK4yNYHuKBXdLV2ZsFSNNq8Q3ntADgKKR",
+   0.14,
+   2.2,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "ruddit",
    "Az57mEyk73QB621Md8LC8Fj5tHDVqpfq4dBKjtff8hsB",
    0.118,
-   2.1,
+   3.1,
    ""
-  ],
-  [
-   "HM",
-   "HwcSF7ZtVLgVWJnrXXiiJ4YzGWawyAGtnWuNp2pspump",
-   0.095,
-   3.5,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "pop",
    "AWTTKCDUTzsYSwtBFrXtbAHaAqdBZtsQLwSi7Lufpump",
    0.093,
-   6.2,
+   7.1,
    ""
+  ],
+  [
+   "before",
+   "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
+   0.092,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "HEDGE",
    "EfQ9h4ZSk2ynjVss2PYMNDHhZPsvWSibBFRpKCehisWq",
    0.08,
-   2.8,
+   3.8,
    ""
   ],
   [
    "chanchalcat",
    "FMXdFfJVFSs8pDPYapTkpTDBPciPiaA4bHKVz5ykkovj",
    0.076,
-   4.0,
+   4.9,
    ""
   ],
   [
-   "CALF",
-   "6xgGFqVQvFG3vHpt5cAZ4c1UozUQRpnxy69b4GhQpump",
-   0.076,
-   9.3,
+   "AI",
+   "EKmCkSCfWrhU87LDRHVUwjJo64enB34WiD2xqwJcpump",
+   0.074,
+   9.9,
    ""
   ]
  ]
