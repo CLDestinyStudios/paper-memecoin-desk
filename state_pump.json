@@ -13,10 +13,10 @@
    "entry_px": 4.14843763273595e-08,
    "entry_fill": 4.500621512159938e-08,
    "opened": 1793267965.1255596,
-   "last_px": 3.748827037395052e-08,
+   "last_px": 3.7440183593811705e-08,
    "peak_px": 1.5816565936981958e-07,
-   "last_val": 0.6752081812888245,
-   "last_prog": 0.185,
+   "last_val": 0.6740257824012439,
+   "last_prog": 0.184,
    "tp1_done": true,
    "realized": 0.6593046300182409
   },
@@ -31,7 +31,7 @@
    "opened": 1793268145.720429,
    "last_px": 4.3208957494639034e-08,
    "peak_px": 4.379178412394622e-08,
-   "last_val": 1.9991125603375364,
+   "last_val": 1.9983646952117444,
    "last_prog": 0.265
   }
  },
@@ -5004,81 +5004,85 @@
   [
    "2026-10-29T03:17:22",
    60.72
+  ],
+  [
+   "2026-10-29T03:18:22",
+   60.72
   ]
  ],
- "cycles": 1484,
+ "cycles": 1485,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.0297480845,
- "watching": 228,
+ "sol_usd": 99.9923271,
+ "watching": 226,
  "near": [
   [
    "TBC",
    "5F3FdYqQkNiMmjcju45MKma7xrz3TE2goM4jYCbJ2heE",
-   0.898,
-   2.3,
-   ""
-  ],
-  [
-   "GARY",
-   "3wQ6hLMiGzcCMXSitwxi3DzBxDdMYTVBBUre4ixDP5s9",
-   0.683,
-   2.7,
-   "serial_creator=23 launches/24h"
-  ],
-  [
-   "FN ",
-   "DjQ5r66ARdUFxMfoWEBP4X2dm8rQebS5LNgm5XZbpump",
-   0.319,
-   2.5,
-   "serial_creator=10 launches/24h"
+   0.149,
+   3.3,
+   "top5_hold_most=85%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "Emmyk ",
    "85EmfWN8xgwNDrdbstQPLRavjUA1dkb4hFa9FPhkpump",
-   0.151,
-   3.6,
-   "top5_hold_most=96%"
+   0.121,
+   4.6,
+   "top5_hold_most=98%"
   ],
   [
    "TBC",
    "7LsJBuk9qa9q2VR54ZLwQyWeFget3QiNueV5kn4kpump",
-   0.104,
-   3.2,
+   0.112,
+   4.2,
    ""
   ],
   [
    "DD",
    "5uNWEqve5mbdyokiEzooDaPx6mETWT737yuqdAsXpump",
    0.081,
-   2.8,
+   3.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Boner",
-   "6pTvuMM6Fdc81QtM7d6MJQQAHYjodnJpDs9QdqDZpump",
-   0.072,
-   3.2,
+   "TBC",
+   "6Hf9iAXLBkezzQRytPEyWvGpvr1dGrga3aUkpo1LKAUU",
+   0.064,
+   2.9,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "TBC",
+   "GfWZ4cEbUrd7sRWMtqyGfK5u6sDUoezY4Y6wP7ktC8BK",
+   0.047,
+   2.7,
+   ""
+  ],
+  [
+   "TBC",
+   "BoxtoaotnShYBz3fDtaJLMr7KqAJrEkCKNgNtKja67yE",
+   0.047,
+   2.3,
    ""
   ],
   [
    "TBC",
    "8nxEWEsybkmJou5nPeiPU59qsZhARYVZ4KFqH5NFpump",
    0.044,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "WHALEPEPE",
+   "GWaPMwjQLB3wXQsVwYGT8jur8EMn4X4P7zhsE7QRpump",
+   0.043,
+   2.7,
    ""
   ],
   [
    "LG",
    "Afzaqra3AqGZ7rNnTeHWj8VqrWaH3Cn4nZdcazrapump",
    0.035,
-   5.6,
-   ""
-  ],
-  [
-   "YO",
-   "Nie4w9ujbqv7QgjXVrp1bFh8ZzuVWgTX5SMjkPSK7vJ",
-   0.035,
-   2.0,
+   6.6,
    ""
   ]
  ]
