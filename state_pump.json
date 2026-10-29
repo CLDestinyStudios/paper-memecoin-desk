@@ -6502,84 +6502,84 @@
    32.58
   ],
   [
-   "2026-10-29T16:15:04",
+   "2026-10-29T16:16:16",
    32.58
   ]
  ],
- "cycles": 2261,
+ "cycles": 2262,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.42999999999999,
- "watching": 302,
+ "sol_usd": 96.39960491800001,
+ "watching": 286,
  "near": [
   [
    "1029",
    "4vfDwu14Z6rzX5M95TyaRJn5V3VfT6WmBcd3VNAhfDPs",
-   0.915,
-   6.2,
+   0.901,
+   7.4,
+   ""
+  ],
+  [
+   "HYPEFUN",
+   "C4Uj6tm6BR1YveN1mtkE54zuN8QJomXYb5c2jFjuHYPE",
+   0.725,
+   2.9,
    ""
   ],
   [
    "longit",
    "387AKE5T853Me3qaUNYumQAtNSLkiR7rKv5rGbMDpump",
-   0.686,
-   2.1,
+   0.675,
+   3.3,
    ""
   ],
   [
    "1029",
    "C7hNjGqjSbwK38K2hr8uiKhwQGhJvYtC4inmxMAcpump",
-   0.544,
-   5.8,
+   0.672,
+   7.0,
    ""
   ],
   [
    "RABBIT",
    "6BCurTs1ZdjX7n9jJZMSeDWHki6smgioHthafvzA97LS",
-   0.324,
-   4.8,
+   0.305,
+   6.0,
    ""
   ],
   [
    "BNBQ",
    "Hhu8GBL9i2Ty9Xnbhic38tZkh7Ytj1DLxbdQEqCLpump",
-   0.24,
-   8.7,
+   0.243,
+   9.9,
    "launch_slot=missing"
   ],
   [
    "REKTOBER",
    "8FA3gDDVir7EpFPZcZ3ahPY6Gu6KjvetvuvPbGMDpump",
-   0.232,
-   2.3,
-   ""
+   0.24,
+   3.5,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "GUC",
    "5iUCgk7z5z7sBfpTCoktoCGhxKSAVExPvzBmyjsUpump",
    0.212,
-   5.1,
+   6.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Banker",
-   "9QF8DCnfheSSiGbpf6k3PAqwoAC7trbdr7UFtPmXpump",
-   0.171,
+   "HyperBull",
+   "5jtiZBbGModLaDBxtPAMn51rHATmXhbLd986YzXTpump",
+   0.19,
+   2.6,
+   "top5_hold_most=93%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "GUC",
+   "AjPpaXiEMyzPuhVctDPHNXAugFvevC6JVRsNXyZ3pump",
+   0.176,
    7.9,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "ELON",
-   "HeauJA5GTuiHfSS9xzpsz3W4t8ezAfL4FwZujPCYiZPh",
-   0.149,
-   3.6,
    ""
-  ],
-  [
-   "FREEZE",
-   "AFjTS6WHbX2V1hs7S5KF7x5RojiqdV7jCaYhyy5Rpump",
-   0.142,
-   4.9,
-   "top5_hold_most=99%"
   ]
  ]
 }
