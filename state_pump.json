@@ -3651,83 +3651,83 @@
    123.81
   ],
   [
-   "2026-10-28T18:58:50",
+   "2026-10-28T18:59:49",
    123.81
   ]
  ],
- "cycles": 986,
+ "cycles": 987,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.858850335,
+ "sol_usd": 99.70279203340002,
  "watching": 282,
  "near": [
   [
    "HALOPAD",
    "B5dJfk6e6fnidagyhqKMZjjSdW36AkZ4C3sJmaiMpump",
    0.209,
-   8.4,
+   9.3,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "Fortress",
-   "8St4UazPpaTpmicKtajXPHEHiSpZWGxs4cp2pmQHpump",
-   0.208,
-   2.3,
-   "buyers=8; top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Doink",
    "BuzgR56zUX39Ubk8vbncTo2qwMeLprkhrCD7f2QFpump",
-   0.144,
-   2.8,
+   0.141,
+   3.7,
    ""
   ],
   [
    "GHOSTDEV",
    "G95bm7QTxj5EeTiZWjDUM4WHjHoQ9XQWTCtQokqv5R8g",
    0.133,
-   6.7,
+   7.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Drip",
    "5XdyqBVdLGuJsHjBuz1N4mPZSXkvdYiyQKtaRybYpump",
-   0.067,
-   3.4,
+   0.112,
+   4.4,
+   ""
+  ],
+  [
+   "offline",
+   "DjPH8z5yAb58qyDAknWhmj1VfVhYiL8dce2gWpwKpump",
+   0.099,
+   2.2,
+   ""
+  ],
+  [
+   "Doink",
+   "FsbZ4hEUbZwHvwheBM3JmuMePsJLEPrB7WvRFUTephTE",
+   0.072,
+   2.4,
+   ""
+  ],
+  [
+   "Doink",
+   "8eBTjYC7T7H6FD1s9hn2pF6TVR3GAQGXruydNxNfpump",
+   0.071,
+   2.3,
    ""
   ],
   [
    "DoinkCoin",
    "B6RZZA1JMipbwoGQexqGCSSvpbCA2D1jeGNNzFypump",
-   0.065,
-   5.0,
+   0.064,
+   5.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "LESCAR",
    "2xEtN2rjFUwHRLRn52xuBxESjEeRpYtDGx3xacNApump",
    0.063,
-   2.7,
+   3.7,
    ""
   ],
   [
    "FARMED",
    "9CUWaUQqTrDmiS8Pi36ctyCbu6gvrVekLbgrux6npump",
    0.044,
-   5.3,
-   ""
-  ],
-  [
-   "FLEA",
-   "4Uxq5xxAC8MStmxy4GG5QSBanbFshaV3KdxSsxqopump",
-   0.039,
-   3.3,
-   ""
-  ],
-  [
-   "HANA",
-   "FRSm2WhHMQ3aapZED2w4zxp7pJRC1wDX5gDkr8Jfpump",
-   0.034,
-   5.2,
+   6.3,
    ""
   ]
  ]
