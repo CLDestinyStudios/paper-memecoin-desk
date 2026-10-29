@@ -13,10 +13,10 @@
    "entry_px": 6.02225566725056e-08,
    "entry_fill": 6.679296468840795e-08,
    "opened": 1793288454.128348,
-   "last_px": 1.2320898279287137e-07,
+   "last_px": 1.2894457739441618e-07,
    "peak_px": 1.8982409721213043e-07,
-   "last_val": 0.8695129948697066,
-   "last_prog": 0.708,
+   "last_val": 0.9113918290244637,
+   "last_prog": 0.723,
    "tp1_done": true,
    "realized": 0.19840459416484324
   },
@@ -29,10 +29,10 @@
    "entry_px": 7.942939907250695e-08,
    "entry_fill": 8.809236564535803e-08,
    "opened": 1793288753.6935158,
-   "last_px": 9.084066391063811e-08,
+   "last_px": 9.132878539165436e-08,
    "peak_px": 1.1172516905505777e-07,
-   "last_val": 0.9782704505188297,
-   "last_prog": 0.602
+   "last_val": 0.9827418939724875,
+   "last_prog": 0.604
   },
   "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY": {
    "sym": "SQUADWARS",
@@ -43,10 +43,10 @@
    "entry_px": 5.4623968372119834e-08,
    "entry_fill": 6.0654108460154e-08,
    "opened": 1793289664.213021,
-   "last_px": 5.4623968372119834e-08,
+   "last_px": 5.3378199494351474e-08,
    "peak_px": 5.4623968372119834e-08,
-   "last_val": 0.8278739633880665,
-   "last_prog": 0.385
+   "last_val": 0.8069547731205046,
+   "last_prog": 0.374
   }
  },
  "traded": [
@@ -6263,81 +6263,85 @@
   [
    "2026-10-29T09:01:04",
    34.13
+  ],
+  [
+   "2026-10-29T09:02:01",
+   34.15
   ]
  ],
- "cycles": 1827,
+ "cycles": 1828,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.60057733,
- "watching": 258,
+ "sol_usd": 102.49,
+ "watching": 254,
  "near": [
   [
    "McElon",
    "74hGo15SYb8YcEjrtsUqdP8jaZbTuNtPRoyQ5RaKpump",
-   0.965,
-   2.7,
+   0.96,
+   3.6,
    ""
   ],
   [
-   "SQUADWARS",
-   "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY",
-   0.385,
-   3.0,
-   "bought"
+   "Creatoor",
+   "9ebwX8pntCPxbCyu2Ej8Cm2YRA6FYFTjhUQbyX88pump",
+   0.663,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "WILPLATYPUS",
    "tCTRBXGweVUSrkYH9moK7dTgt6c1U36Qgc9Xqxapump",
-   0.22,
-   3.6,
-   "top5_hold_most=86%"
+   0.206,
+   4.6,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "HUNCH",
    "CxYKRRYsisS1p2Kif3BpUY31pUR1Ta8dBSkL4vTppump",
    0.122,
-   8.3,
+   9.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "LOUDPAD",
    "2oHnMDuTeEy6kbuvNLfxh7GKDHFRJwkNpy62DDkFpump",
    0.101,
-   5.4,
+   6.3,
    ""
   ],
   [
    "Peet",
    "8zk32WV36DpWsFKQzPZLLWtvN511iBBgCwVFcapCpump",
-   0.096,
-   4.2,
+   0.082,
+   5.2,
+   ""
+  ],
+  [
+   "ALON",
+   "VuVQiXvc962L2T5kevyVjgkbCdaSehE9iXz9jDHbQHe",
+   0.072,
+   3.1,
    ""
   ],
   [
    "hSOL",
    "9zgYJHmoPqJiCiCScPnzPYqzyRQs69Bb8yr5q6f4pump",
    0.07,
-   5.9,
+   6.9,
    ""
   ],
   [
    "b",
    "67tazfcwTjd9N6ZVVBaCbc8wWfNhfQyYnFCNsCZipump",
    0.063,
-   6.7,
+   7.7,
    ""
   ],
   [
    "Elon",
    "CUkeNgjMdTJUKNGJ7UcYbi32YP7y3d6DMuqbpxwjpump",
    0.062,
-   3.7,
-   ""
-  ],
-  [
-   "HOGE",
-   "EgtcURZffeAHtWsoDhVkbEge7uyAwYqags8M6J17pump",
-   0.062,
-   6.9,
+   4.6,
    ""
   ]
  ]
