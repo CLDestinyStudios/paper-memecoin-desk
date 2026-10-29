@@ -2,24 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 59.53894559898549,
+ "cash": 60.55698367126186,
  "positions": {
-  "Gt3jUwbYV6k3Z7atNk3HvAT2tGHKmqPCQnoFpTmopump": {
-   "sym": "BOUNCER",
-   "bc": "9Zqhs3yYrH49n4KJ7qCdSndYR5ArJP5pWARVLw362MgY",
-   "tokens": 250195.43301006316,
-   "cost": 0.925,
-   "cost0": 1.85,
-   "entry_px": 3.4021715680744224e-08,
-   "entry_fill": 3.6906346006639015e-08,
-   "opened": 1793268145.720429,
-   "last_px": 4.492713946276439e-08,
-   "peak_px": 5.9413926279660515e-08,
-   "last_val": 1.0177551338676132,
-   "last_prog": 0.286,
-   "tp1_done": true,
-   "realized": 0.4340262843171183
-  },
   "4NvUYybmPynmbkCbeN6wkxss5nArP9WDJ9QW2aSXpump": {
    "sym": "ai-chs",
    "bc": "86gphe2nwC9TkgmV12SGRBshup7NQQV2hkrC4S49ide9",
@@ -29,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 1.0930086192602702e-07,
+   "last_px": 9.858006789681234e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 1.264285687127145,
-   "last_prog": 0.669,
+   "last_val": 1.135691387225655,
+   "last_prog": 0.632,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5075,81 +5059,85 @@
   [
    "2026-10-29T03:34:22",
    61.82
+  ],
+  [
+   "2026-10-29T03:35:21",
+   61.69
   ]
  ],
- "cycles": 1501,
+ "cycles": 1502,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.24273231500001,
- "watching": 168,
+ "sol_usd": 100.270600039,
+ "watching": 172,
  "near": [
   [
    "PAD0",
    "5a8afyVbW7iSgFp8fRvgYXBjTHBjqkoTazwB92Qxpump",
-   0.504,
-   4.0,
+   0.484,
+   5.0,
    ""
-  ],
-  [
-   "Nina",
-   "5v2EmpiZSNSGLZAuUAhS4v3omM51Z5ZVaAyfmnqQpump",
-   0.321,
-   2.6,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "PUMP",
-   "58r3VEpbhiAbta8wD7ixBGRQGTk1HrWc1FY6Xfukpump",
-   0.312,
-   2.1,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "USOE",
    "5WjiK27JZ2sFqoT5xuW7EcUjWY8SmzkdoCRij3tbpump",
    0.206,
-   5.2,
+   6.2,
    "top5_hold_most=84%"
+  ],
+  [
+   "$LPC",
+   "kAa8xUeRowesrsVxpfPnig4AnMVAGXYesBEg1Pxpump",
+   0.138,
+   6.1,
+   ""
   ],
   [
    "Mao",
    "7d1G5tu9NLKo6Dx5aQYv4WZJ3GN3DQxaq6cFM5T9pump",
    0.072,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "SNIFF",
+   "AMQVJ3f7siY22RC3ohh1RY3oCvhVwF2aGEeMt1G2pump",
+   0.071,
+   3.0,
+   ""
+  ],
+  [
+   "HYPE",
+   "E9dYz5v6wRX4K2oEiCZTfxYXWd2orLXszTPafXYnafpi",
+   0.049,
+   2.1,
    ""
   ],
   [
    "Pokespin",
    "A7tZMVocY6983DxhpshgTPiYdkShzb4c4szVH7mv8LdZ",
    0.045,
-   7.1,
-   ""
-  ],
-  [
-   "ERIC ",
-   "8je78nmcQkEgkXSrePDDTnXix56FL2vR2kdbdDNUpump",
-   0.045,
-   4.9,
+   8.1,
    ""
   ],
   [
    "HALLOWMOON",
    "GZGmyCr7aYdHzuE1mn9PBP333mYzGP1X4oDQy5Mupump",
    0.043,
+   9.2,
+   ""
+  ],
+  [
+   "RABT",
+   "H8UDHt5wqz9a2XBRqHcKPMccmuAVq4oD2cssvV2pKc3x",
+   0.036,
+   2.8,
+   ""
+  ],
+  [
+   "Pillson",
+   "G2xaz1zhY4dFaNh9daTsqojPAuuD6rdvcDKprjZkpump",
+   0.032,
    8.2,
-   ""
-  ],
-  [
-   "GODPACK",
-   "Emm2iZhWcTacDoSrjfeewL8pn6RAuJHqdUZgQXNKpump",
-   0.042,
-   2.7,
-   ""
-  ],
-  [
-   "SNIFF",
-   "AMQVJ3f7siY22RC3ohh1RY3oCvhVwF2aGEeMt1G2pump",
-   0.041,
-   2.1,
    ""
   ]
  ]
