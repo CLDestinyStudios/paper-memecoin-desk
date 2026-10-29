@@ -13,10 +13,10 @@
    "entry_px": 4.6387731609782184e-08,
    "entry_fill": 5.04918529266908e-08,
    "opened": 1793280564.3861618,
-   "last_px": 8.607662051422288e-08,
+   "last_px": 8.327941534044071e-08,
    "peak_px": 8.988038658421246e-08,
-   "last_val": 1.2768063496114328,
-   "last_prog": 0.582,
+   "last_val": 1.2351545818673448,
+   "last_prog": 0.569,
    "tp1_done": true,
    "realized": 0.21908894098316267
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.0786523807937344e-08,
    "entry_fill": 4.439265798531246e-08,
    "opened": 1793281343.7863407,
-   "last_px": 3.633935563482483e-08,
-   "peak_px": 4.296686904891916e-08,
-   "last_val": 1.2274014829036042,
-   "last_prog": 0.166
+   "last_px": 5.2399285681603726e-08,
+   "peak_px": 5.2399285681603726e-08,
+   "last_val": 1.7939582544371135,
+   "last_prog": 0.365
   },
   "6bWh8cy5pKDDt6R5m9zizzrkk69GdFQ4tT6sBAsqpump": {
    "sym": "Shieldex ",
@@ -43,10 +43,10 @@
    "entry_px": 5.1992513016978135e-08,
    "entry_fill": 5.65939900263445e-08,
    "opened": 1793281527.3499377,
-   "last_px": 5.31042292191838e-08,
+   "last_px": 4.638735173536043e-08,
    "peak_px": 5.31042292191838e-08,
-   "last_val": 1.4081761161704942,
-   "last_prog": 0.371
+   "last_val": 1.2252092454243817,
+   "last_prog": 0.303
   }
  },
  "traded": [
@@ -5698,81 +5698,85 @@
   [
    "2026-10-29T06:46:25",
    53.82
+  ],
+  [
+   "2026-10-29T06:47:22",
+   54.16
   ]
  ],
- "cycles": 1693,
+ "cycles": 1694,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.17841492299999,
- "watching": 249,
+ "sol_usd": 100.297161822,
+ "watching": 245,
  "near": [
   [
    "Bruh",
    "5L5jcU28X25dsT4ykVCzsYcWkmgKwMbpFPqQFMELpump",
-   0.835,
-   4.4,
+   0.877,
+   5.3,
+   ""
+  ],
+  [
+   "PillPad",
+   "3L2UC4gQumwMPYoBNhtmuJjiphqbRjsvc2JDRVR7pump",
+   0.818,
+   2.3,
    ""
   ],
   [
    "Hippo",
    "A9YxAvcfjyUe9ySfnn1EQzSovJYgdtechXenyDxKpump",
-   0.114,
-   4.9,
-   ""
-  ],
-  [
-   "B",
-   "CJZ8HjFd2gh1n8fsrd6VjtKqx7Jx9tgzX7z2VCwVsQpF",
    0.102,
-   2.8,
+   5.8,
    ""
   ],
   [
    "WEATHER",
    "DArKP3t56AopwdmXbb4NDFh7jE7kyDy288V5WNTGpump",
    0.101,
-   2.2,
+   3.1,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "BDOG",
-   "GPkUsm2xcGs4hecjdFwFHgq4LPTEyRLrYHKM8CBmpump",
-   0.071,
-   5.4,
-   ""
-  ],
-  [
-   "SCREAMPAD",
-   "Hx2dCwMxKxeuZLF1nBCJh26DR49ZhnrxtGJEFYF7pump",
-   0.07,
-   5.6,
-   ""
   ],
   [
    "BLK/SOL",
    "2xkEJPtcmQShBYvRtdhe7JdZqAU7wgpNmAua52i3pump",
    0.068,
-   2.1,
+   3.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Maple",
-   "L77FjgDFRb21nxxqp7k19amaAqER4XeNKbQgFc4pump",
-   0.068,
-   2.3,
+   "GgkWwf1LC6mwBuB5GB91Vn658ydgXG1SFLXoKLLfpump",
+   0.066,
+   2.8,
+   ""
+  ],
+  [
+   "SCREAMPAD",
+   "Hx2dCwMxKxeuZLF1nBCJh26DR49ZhnrxtGJEFYF7pump",
+   0.064,
+   6.5,
    ""
   ],
   [
    "?a=",
    "7DmZzvQKoKryd1FwP8wE7iFyV1FDQAow7DB3LAwipump",
-   0.061,
-   4.0,
+   0.054,
+   5.0,
+   ""
+  ],
+  [
+   "Maple",
+   "L77FjgDFRb21nxxqp7k19amaAqER4XeNKbQgFc4pump",
+   0.044,
+   3.3,
    ""
   ],
   [
    "DOORCART",
    "7tBaFUG7hg355LdkQKJDHChrKtYKwBoEvHsc7YfXpump",
    0.037,
-   5.0,
+   6.0,
    ""
   ]
  ]
