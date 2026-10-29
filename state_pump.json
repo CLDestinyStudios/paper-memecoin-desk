@@ -13,10 +13,10 @@
    "entry_px": 5.898525465389262e-08,
    "entry_fill": 6.317236960461554e-08,
    "opened": 1793241965.2627635,
-   "last_px": 5.936939691768101e-08,
-   "peak_px": 5.936939691768101e-08,
-   "last_val": 3.0486527922598934,
-   "last_prog": 0.424
+   "last_px": 5.9451714426945035e-08,
+   "peak_px": 5.9451714426945035e-08,
+   "last_val": 3.053585341883699,
+   "last_prog": 0.425
   }
  },
  "traded": [
@@ -3767,82 +3767,86 @@
   [
    "2026-10-28T19:47:03",
    115.51
+  ],
+  [
+   "2026-10-28T19:48:04",
+   115.52
   ]
  ],
- "cycles": 1034,
+ "cycles": 1035,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.49944650905002,
- "watching": 251,
+ "sol_usd": 99.52024411610002,
+ "watching": 265,
  "near": [
   [
-   "One",
-   "HYkujGCJmi2BgkpxD9CMAyUrjXnur9Egi4VViPZc6one",
-   1.0,
-   4.0,
-   "graduated"
+   "DUWO",
+   "721YiPbruDYcmM66yD2buchdWDwwdbVPqYWitJRopump",
+   0.967,
+   2.3,
+   ""
   ],
   [
    "ELIEZER",
    "2dvZHR7y9fGqWozSWA7gfHpEBp3YMJNaqSRgdiExpump",
-   0.664,
-   2.4,
+   0.565,
+   3.5,
    ""
+  ],
+  [
+   "ELIEZER",
+   "DjEmiJqi2vrCmXsaMBKQoDHwDpxfu7Y5V3vFAYQ9pump",
+   0.426,
+   2.2,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "PERLA",
    "AzKQcL7AK8R7dSG2bqKm9VaGTVm2dsEnTvzh1a78pump",
    0.202,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Cyber",
    "A9gLrKQoRf2cL6utgtRFRkwJVhtVeJAWax3RQWwzpump",
-   0.152,
-   6.3,
+   0.153,
+   7.3,
    ""
   ],
   [
    "NietzBer",
    "8AQGYqqKXFjdSCFnPrq52eykpnUfbUWsis5uYxPpump",
-   0.139,
-   3.8,
+   0.119,
+   4.8,
    ""
   ],
   [
    "$BSSPEPE",
    "8PXV7Ne6A6FKMXCuMZrWt61vjZ5z1W9rEcg6b2qHpump",
    0.098,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "spacecat",
    "HNMqbkDVmkfiXcYpUfZWymiG3LF5mmMPfDPZtazEpump",
    0.073,
-   4.6,
+   5.6,
    ""
   ],
   [
    "DICTATOR",
    "7diZHj7fi3STKtaajxNwBuRy1iDagk4rcEBxoWXYpump",
    0.071,
-   6.2,
+   7.2,
    ""
   ],
   [
    "HAKIMI1337",
    "HJJ2iRKyhBi9WGs7Lsg4RU4tc1grB5CVaD9vgDH1pump",
    0.068,
-   3.2,
+   4.2,
    ""
-  ],
-  [
-   "RoboCab",
-   "98LqSreaZjyvwkL5Vf5HJJFkvFheFT5CQNKopXaVpump",
-   0.062,
-   3.5,
-   "buyers=6; top5_hold_most=99%"
   ]
  ]
 }
