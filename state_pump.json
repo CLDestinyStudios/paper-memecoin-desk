@@ -6330,83 +6330,83 @@
    32.58
   ],
   [
-   "2026-10-29T09:32:52",
+   "2026-10-29T09:33:56",
    32.58
   ]
  ],
- "cycles": 1859,
+ "cycles": 1860,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.97891321949999,
- "watching": 286,
+ "sol_usd": 101.83202605324419,
+ "watching": 299,
  "near": [
   [
    "KATT",
    "3L5svTNje1iNnYJEXLxgiZqaCkYQZ87FTXCt2JRFZyS7",
-   0.982,
-   5.1,
-   ""
-  ],
-  [
-   "MCAT",
-   "9vWsrhGQNw6F81Nb1T7sMXugQtavvFYPXnUzBNJfZueK",
-   0.754,
-   2.8,
+   0.951,
+   6.1,
    ""
   ],
   [
    "GROKKIES",
    "8NTU6e46S8c8VD3uscMAgz8sQYjF2GofuZy4znQwpump",
-   0.711,
-   5.4,
+   0.816,
+   6.5,
+   ""
+  ],
+  [
+   "MCAT",
+   "9vWsrhGQNw6F81Nb1T7sMXugQtavvFYPXnUzBNJfZueK",
+   0.785,
+   3.9,
    ""
   ],
   [
    "KATT",
    "FWsS6gh2DcQUq9kgQskB7EMFXR5oK4sqeYEnF7ggpump",
-   0.439,
-   8.9,
+   0.434,
+   9.9,
+   ""
+  ],
+  [
+   "Pizzarat",
+   "CAcwAPk9rcyN961BdyvhFafyDq693tRWS3UjWZZRpump",
+   0.26,
+   2.8,
    ""
   ],
   [
    "KATT",
    "6JyEUbPYqx83ceQhKd1kr2qs7f9jW17hq8yt4nuBpump",
-   0.226,
-   5.8,
+   0.166,
+   6.9,
    ""
+  ],
+  [
+   "hypfck",
+   "DBYhrUe6sLKnJqgyjz7mophUPDkkhTz96qgbCAUopump",
+   0.122,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "TRUMP",
+   "3BrSqaaQ91N9gHNg15t8rBY1DBttPHTquyNTwdF2pump",
+   0.1,
+   3.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SOLYGON",
    "55r8yVhxnrgJPgPLseedSNzDr22CppPvpq9bEh8tpump",
-   0.095,
-   3.6,
+   0.071,
+   4.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "KATT",
    "6KRb2XNvoi4aEnSCnL4S8WLao1BoLjzejTgD8VCDpump",
-   0.051,
-   5.4,
-   ""
-  ],
-  [
-   "KATT",
-   "AtrVLj5Mj9owsqjyWZNY1b5saAJ3hvBqW8mvHrnUSmK2",
    0.043,
-   7.5,
-   ""
-  ],
-  [
-   "KATT",
-   "4QgokjPQt3anzXhJC2gd6vjQ47TidaGod27kLrcrd8f7",
-   0.043,
-   8.2,
-   ""
-  ],
-  [
-   "FEFER",
-   "FwQvJWofLQXVcr42NFyLCX4ug7m84KGfeM9G1fBUpump",
-   0.039,
-   7.2,
+   6.5,
    ""
   ]
  ]
