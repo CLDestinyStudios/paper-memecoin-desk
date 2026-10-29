@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.1351829619520365e-07,
+   "last_px": 9.173184029154664e-08,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 0.8019760103197727,
-   "last_prog": 0.681,
+   "last_val": 0.6386803622040073,
+   "last_prog": 0.606,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5426,81 +5426,85 @@
   [
    "2026-10-29T05:21:22",
    58.55
+  ],
+  [
+   "2026-10-29T05:22:22",
+   58.39
   ]
  ],
- "cycles": 1608,
+ "cycles": 1609,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.202295921,
- "watching": 235,
+ "sol_usd": 100.23758615300001,
+ "watching": 223,
  "near": [
   [
    "SAR",
    "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
-   0.496,
-   4.9,
+   0.519,
+   5.9,
    ""
-  ],
-  [
-   "MuCa",
-   "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
-   0.122,
-   9.1,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "SAR",
-   "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
-   0.076,
-   4.1,
-   ""
-  ],
-  [
-   "TRENCH",
-   "GjUV9nsKWuQUSumUiCM2Q7qyGTwySF5XggRry9m5pump",
-   0.066,
-   9.6,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Elon",
    "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
    0.063,
-   7.3,
+   8.3,
    ""
   ],
   [
-   "RWAR",
-   "7ie2ZkxNSKrkBQ9VkJhpikfakGcyoMcnkXjbsE1wpump",
-   0.04,
-   4.4,
+   "BOOM",
+   "5aer69ZarDrZcjdJmB2YZoCc2Kbp6ojtXjk6wRPwpump",
+   0.062,
+   2.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BOWEN WAN",
+   "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
+   0.058,
+   5.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HERMES",
+   "EsjL8EK9YEaof53fr5sjwwqMdHxgWXsFC4t2CGkpump",
+   0.044,
+   2.8,
    ""
   ],
   [
    "BTS",
    "DDE2T4MVNaXKnArmS7CorpfdVi8jNqWDXcXPXdDJpump",
    0.039,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Stonker",
    "CZ8azHgeun4fUpQZXGHaBCHBoc3B1P8kapvB2fqkpump",
    0.034,
-   2.9,
+   3.9,
    ""
-  ],
-  [
-   "BOWEN WAN",
-   "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
-   0.029,
-   4.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "nearonpump",
    "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
    0.026,
-   6.5,
+   7.5,
+   ""
+  ],
+  [
+   "Pedos",
+   "7WcWFyWHu8CKM4biu3zv3Nidyqhyhww4YwwRxuYXpump",
+   0.025,
+   2.2,
+   ""
+  ],
+  [
+   "SAR",
+   "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
+   0.022,
+   5.1,
    ""
   ]
  ]
