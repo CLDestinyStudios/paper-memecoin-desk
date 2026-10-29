@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 99.53096664781137,
- "positions": {
-  "8NNyirwViB3vgkjXajPmaLoWnwmLkLk2FXH2BsdApump": {
-   "sym": "MINUSSY",
-   "bc": "8WwPxBmAYsVa1cJbVfVQEaXgTVfDryFmdkKG1UDUKEjQ",
-   "tokens": 450927.0956881714,
-   "cost": 3.08,
-   "cost0": 3.08,
-   "entry_px": 6.385333269735683e-08,
-   "entry_fill": 6.850925200437599e-08,
-   "opened": 1793247845.8263938,
-   "last_px": 6.266497862433049e-08,
-   "peak_px": 6.385333269735683e-08,
-   "last_val": 2.6199048915656755,
-   "last_prog": 0.449
-  }
- },
+ "cash": 101.36279259997283,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4039,81 +4024,85 @@
   [
    "2026-10-28T21:25:04",
    102.15
+  ],
+  [
+   "2026-10-28T21:26:04",
+   101.36
   ]
  ],
- "cycles": 1132,
+ "cycles": 1133,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7256942208,
- "watching": 209,
+ "sol_usd": 99.71110387019999,
+ "watching": 211,
  "near": [
   [
    "AI/SI",
    "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6",
-   0.886,
-   4.9,
+   0.907,
+   5.9,
    ""
   ],
   [
    "AI/SI",
    "4EJk1861c5CBhszYf5giwhx1kHYG4cWGsXHojNFVpump",
-   0.563,
-   4.3,
-   ""
+   0.627,
+   5.3,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "ASI",
+   "BfnVpEdDoyjszuPt3AjtL1wuschgY8TCyHJXGxwcpump",
+   0.55,
+   2.3,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "AI/SI",
    "D4rfPxDH1zd2KE2nsByfzzBBAxMJSJW55y6pNwUBpump",
-   0.411,
-   2.2,
+   0.493,
+   3.2,
    ""
   ],
   [
    "AISI",
    "3V6wH1rNAd5cFnr2DARszMXd2ivtTrVkkw48zFq7pump",
-   0.301,
-   4.6,
-   ""
-  ],
-  [
-   "PEEPEE",
-   "EqoTvctH8htqh5RqbdS7LuAYW85y9Fcx2KJCJvtApump",
-   0.166,
-   2.8,
-   "serial_creator=9 launches/24h"
-  ],
-  [
-   "AI/SI",
-   "EtxcX7Pt8iVkN6NwvMjBtXuzCU7yPiyF8LwKnFhcpump",
-   0.132,
-   4.4,
+   0.319,
+   5.6,
    ""
   ],
   [
    "AI/SI",
    "B5pe3p1QH2eDdZ96UqMMejCTDaedkhRZi7trsAdcL3nM",
    0.123,
-   4.7,
+   5.7,
    ""
   ],
   [
    "AI",
    "HhQxLxi3tb9kqjo2SAaamBnaC6WCJFo63qwbJEVCpump",
    0.121,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "AI/SI",
+   "EtxcX7Pt8iVkN6NwvMjBtXuzCU7yPiyF8LwKnFhcpump",
+   0.11,
+   5.4,
    ""
   ],
   [
    "AISI",
    "GQkSXEVzRfNffWNN2GoAeHzkUxbTPEh4NmiM6QRVjdPm",
    0.091,
-   4.0,
+   5.0,
    ""
   ],
   [
    "AISI",
    "B6GZ98UUXHTVVYESBborSLykmk6n73WLyPdwFTjjpump",
    0.082,
-   4.0,
+   5.0,
    ""
   ]
  ]
