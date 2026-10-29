@@ -6440,81 +6440,85 @@
   [
    "2026-10-29T13:47:04",
    32.58
+  ],
+  [
+   "2026-10-29T13:48:06",
+   32.58
   ]
  ],
- "cycles": 2113,
+ "cycles": 2114,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.1254014163,
- "watching": 338,
+ "sol_usd": 95.34289699769998,
+ "watching": 326,
  "near": [
-  [
-   "RPOOL",
-   "gEYL94W8sDev2BV411JHrAz9nMngJi1AmaZ6ZUspump",
-   0.969,
-   7.5,
-   ""
-  ],
   [
    "10/29",
    "7tQXn4wtQtqejxPHB5iUQiGNMadchjzNsKjwSzRHviGt",
-   0.942,
-   6.9,
-   ""
+   1.0,
+   7.9,
+   "graduated"
   ],
   [
-   "Shadow",
-   "2zaoDkwrBtXgzsqkc6mTj1yDfVuCcYkiNSKvaD9spump",
-   0.897,
-   4.6,
+   "RPOOL",
+   "gEYL94W8sDev2BV411JHrAz9nMngJi1AmaZ6ZUspump",
+   0.965,
+   8.5,
    ""
   ],
   [
    "dca",
    "DCA8Y187z5idPn95BQhra13W4Ca6iyJ44JnSmT5NkHs",
-   0.612,
-   5.8,
+   0.584,
+   6.8,
    ""
   ],
   [
    "RIVAL",
    "2Yn5A16bCBJnRk97BnchAveW72YwY9KpN6MiPjQDiTt8",
-   0.558,
-   8.6,
+   0.508,
+   9.7,
    ""
   ],
   [
    "ABC",
    "683j5beHNZKbfVrrzqi5Za1xCKhz91RGvhE3HFbiwa1K",
-   0.324,
-   9.1,
-   "buyers=9; top5_hold_most=93%"
+   0.313,
+   10.1,
+   "buyers=8; top5_hold_most=95%"
   ],
   [
-   "UNSAFU",
-   "4cEar2cWFgoQjFWuYRtVwEnGvdHJ97KaeMxca3gLpump",
-   0.309,
-   3.6,
-   "buyers=3; creator=15.3%; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "UNSAFU",
-   "2wqFMU5pgKe1uiQKtqHBXM1dAVmhpNbTcw2ZcDmfpump",
-   0.227,
-   9.9,
+   "VIKO",
+   "6RtzFwnJq9XddYioHiZS34C6N4mQ4ooBS896NshDpump",
+   0.246,
+   2.5,
    ""
+  ],
+  [
+   "BUSTINU",
+   "BEcCyJ9m41fGqRaAVCPXuaAVhKiygWjd1qW3A4Pwpump",
+   0.158,
+   3.0,
+   "buyers=7; top5_hold_most=99%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "UNSAFU",
+   "B8M6aq2DJTdS1fXzRXa1C9jqpJeW3LUqx9qkJT3rpump",
+   0.112,
+   3.1,
+   ""
+  ],
+  [
+   "WORLD",
+   "A7eHgSu8WoDaisaaRV842CnkXKQUm2DLEEJweVXEpump",
+   0.11,
+   2.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ceezee",
    "GdMEqt4TSGWsuZpNYaanGJajE7F5r94p6yuDqmBXpump",
-   0.216,
-   6.2,
-   ""
-  ],
-  [
-   "Unsafu",
-   "AuRitkiCx8FoKRqWcKYAH27qKpNX1THF6yUsJffnpump",
-   0.112,
-   9.9,
+   0.106,
+   7.2,
    ""
   ]
  ]
