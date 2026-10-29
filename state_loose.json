@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 410.6088053931423,
+ "cash": 387.25880539314227,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -8,8 +8,8 @@
    "entry": 0.030977400000000002,
    "mark_entry": 0.03037,
    "cost": 20.54,
-   "peak": 0.05083,
-   "last": 0.05083,
+   "peak": 0.05087,
+   "last": 0.05087,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -20,9 +20,20 @@
    "mark_entry": 0.2868,
    "cost": 24.14,
    "peak": 0.2898,
-   "last": 0.288,
+   "last": 0.2895,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
+  },
+  "6XkQmWgXjvautgTzNMUNqKZQSdjZTsEZW9fJ11jupump": {
+   "sym": "Leslie",
+   "qty": 452861.65900583775,
+   "entry": 5.1561e-05,
+   "mark_entry": 5.055e-05,
+   "cost": 23.35,
+   "peak": 5.055e-05,
+   "last": 5.055e-05,
+   "opened": 1793301654.7355213,
+   "p_buy": 0.63
   }
  },
  "watch": {},
@@ -78,7 +89,8 @@
   "61TmSSNVJFvWi6Mxs8jAQ1RZ7LihEyj4hQhrsa2gpump",
   "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump",
   "WZgKD1NXT2JgeJFDuQuDa4CiYX2mwWWitC1Pgsrpump",
-  "A6PM7bxyWYiUxaEpRMHvuL4tY2jYVf8N46vXZ15Hpump"
+  "A6PM7bxyWYiUxaEpRMHvuL4tY2jYVf8N46vXZ15Hpump",
+  "6XkQmWgXjvautgTzNMUNqKZQSdjZTsEZW9fJ11jupump"
  ],
  "equity": [
   [
@@ -6496,8 +6508,12 @@
   [
    "2026-10-29T12:19:54",
    466.93
+  ],
+  [
+   "2026-10-29T12:20:57",
+   466.16
   ]
  ],
- "cycles": 2046,
+ "cycles": 2047,
  "started": "2026-10-28T01:46:56"
 }
