@@ -6466,84 +6466,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:47:01",
+   "2026-10-29T14:48:02",
    32.58
   ]
  ],
- "cycles": 2173,
+ "cycles": 2174,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.25504212549998,
- "watching": 336,
+ "sol_usd": 96.96,
+ "watching": 323,
  "near": [
   [
-   "Cyber",
-   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
-   0.481,
-   6.2,
-   ""
+   "karma",
+   "D2f3W2SCYZcz7kSH6HiErQR5Ui4Hm8vMh62XtBCTpump",
+   0.656,
+   2.3,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "ABC",
    "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
-   0.481,
-   3.6,
+   0.634,
+   4.6,
    ""
   ],
   [
+   "Cyber",
+   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
+   0.543,
+   7.2,
+   ""
+  ],
+  [
+   "cuz",
+   "FwFeBW1gVYY9Pv1fCPqgMJZ9YWR4DgU2URWLmfmHpump",
+   0.363,
+   2.6,
+   "buyers=9; top5_hold_most=83%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
    "Sakura",
-   "H76vRpPL2SbicJHv49GdhcbTzgWrTiVyCyDAHkcUpump",
-   0.451,
-   5.7,
+   "9BupfsbAnAmyDZT17dtrRvmRgdvCt6oDjnPhcbTBibyJ",
+   0.36,
+   2.2,
    ""
   ],
   [
    "NINO",
    "HCeDBTuoJD73QWYB8dkGJEvaCKU1Jqj9uKJ5MaW4u71E",
-   0.263,
-   2.4,
+   0.316,
+   3.4,
+   "serial_creator=6 launches/24h"
+  ],
+  [
+   "Sakura",
+   "H76vRpPL2SbicJHv49GdhcbTzgWrTiVyCyDAHkcUpump",
+   0.275,
+   6.8,
    ""
   ],
   [
    "CSI",
    "6qRgKi1KzdknadpCRoyc5siDhSkiUKUs926ZMJD7pump",
    0.248,
-   7.4,
+   8.5,
    "top5_hold_most=86%"
-  ],
-  [
-   "BINANCEHACK",
-   "7YimXMUM4ZUvSx8mb8NdLpLJm9bKC5Q6tpe8L8ibpump",
-   0.228,
-   2.5,
-   "buyers=9; top5_hold_most=90%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "PAULO",
-   "BSi9Teh9kHzbR82Di3uxfyQHuyMaM3B54ZA5y8c6pump",
-   0.197,
-   2.3,
-   "buyers=7; top5_hold_most=96%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "THREADGUY",
    "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
-   0.146,
-   5.9,
+   0.149,
+   6.9,
    ""
   ],
   [
    "safu",
    "4yGXKiS9XwqGAcqn6yTyYzFZhT9nzwQeBsEELpf9pump",
-   0.126,
-   6.4,
+   0.13,
+   7.5,
    "buyers=8; top5_hold_most=90%"
-  ],
-  [
-   "hack",
-   "9iNL3oEE8uSmbLHLkLVQiLGbMWiDrDD9oKsshjsGpump",
-   0.123,
-   5.7,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
