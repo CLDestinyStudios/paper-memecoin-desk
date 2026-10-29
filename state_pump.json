@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 2.174972019293928e-07,
+   "last_px": 1.9391519461035142e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.5814990749947486,
-   "last_prog": 0.868,
+   "last_val": 1.4038000858357496,
+   "last_prog": 0.839,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5378,81 +5378,85 @@
   [
    "2026-10-29T05:09:22",
    59.33
+  ],
+  [
+   "2026-10-29T05:10:21",
+   59.16
   ]
  ],
- "cycles": 1596,
+ "cycles": 1597,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.14798717262977,
- "watching": 225,
+ "sol_usd": 100.09,
+ "watching": 231,
  "near": [
+  [
+   "ICECAT",
+   "2UdoVDRfeNsMDtd4y7ziRXRP4fa7o84PN492Z1jCikUQ",
+   0.142,
+   2.1,
+   ""
+  ],
+  [
+   "Multi cat",
+   "HRtVshE7FzrUHcSabebLohBR8LXmVqLzw1FuyFcapump",
+   0.124,
+   3.0,
+   ""
+  ],
   [
    "PIRATE",
    "7bXhRSnPu67Pt1drn7mFpiHZEh5mVPUZZtaQ5BMCpump",
-   0.122,
-   2.4,
-   "buyers=9; top5_hold_most=92%"
+   0.118,
+   3.4,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
-   "CATBOT",
-   "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
-   0.091,
-   5.7,
-   "buyers=7; top5_hold_most=96%"
+   "ICECAT",
+   "CmfETzZd5zXhubDNjkF2Ra7HxQ9ba5KQAV5qDChBPnFX",
+   0.084,
+   2.8,
+   ""
   ],
   [
    "penisfish",
    "Ft45NqGvqa7aXLjiq576SDmZVZMuC9pUWoH6LBjypump",
    0.065,
-   2.6,
+   3.5,
    ""
   ],
   [
-   "dessa",
-   "9HqmwKfM8NKHVaCQCmJ9UQCAxNFoSxbS8pv5bWatmNNV",
+   "HYPEINU",
+   "ErGEouw3hFUppmXuvASKZ9JT3iunkUW9M75eVefvmSCn",
+   0.064,
+   2.5,
+   ""
+  ],
+  [
+   "CATBOT",
+   "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
+   0.062,
+   6.6,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ICECAT",
+   "HbkD4LqHX52FPWVc2zQJvDxRmrEzxgQZ7UgK4MjttkE5",
    0.051,
-   7.8,
+   2.4,
    ""
   ],
   [
    "Pedos",
    "5bMzRaNNMaTbPARgsryRmu6bZCe6C9gq45LETfR8pump",
    0.043,
-   3.7,
+   4.7,
    "top5_hold_most=87%"
   ],
   [
-   "Susie",
-   "9xWKDUBSnu3Z6kciQxYPBSr6Qojhm5GKym7NwyFJpump",
-   0.036,
-   5.1,
-   ""
-  ],
-  [
-   "dessa",
-   "9EYYwGHtxrPa3JdUzkc7pAbjD8gSA8Yba4FMDtBxLwYg",
-   0.036,
-   8.3,
-   ""
-  ],
-  [
-   "Warinu",
-   "D5csqgJjbsXXzF8vaE5MC6QyyKKPvgqhTgqhy5nmpump",
-   0.016,
-   3.1,
-   ""
-  ],
-  [
-   "ANT",
-   "8Y1CDE63ejpts6xaQb3CZNnu6wBio29ukvoNYRpopump",
-   0.013,
-   8.5,
-   ""
-  ],
-  [
-   "MRM",
-   "2sd7i2parQRD6qGwgjyV9MApMTbrijLGkt2dbFovqEGY",
-   0.012,
-   3.8,
+   "ICEINU",
+   "HfrQH5kbPX9myM4g38qnKeJj8pdajCUDSrLukCGJj1Ty",
+   0.043,
+   2.5,
    ""
   ]
  ]
