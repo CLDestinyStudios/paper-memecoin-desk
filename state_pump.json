@@ -4598,81 +4598,85 @@
   [
    "2026-10-29T00:52:05",
    75.15
+  ],
+  [
+   "2026-10-29T00:53:05",
+   75.15
   ]
  ],
- "cycles": 1339,
+ "cycles": 1340,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.71448907400001,
- "watching": 144,
+ "sol_usd": 99.67232007050002,
+ "watching": 135,
  "near": [
   [
    "CROWDCAT",
    "6ge8cKeWqAUtkHftcZrhG3rAyi2MzRqYqwKX5DNSCec5",
    0.167,
-   3.7,
+   4.7,
    "top5_hold_most=94%"
+  ],
+  [
+   "666",
+   "9fkpjfMeTCNx86moCdFAVStyBUihtXHkoKAJMsk9pump",
+   0.139,
+   2.5,
+   ""
   ],
   [
    "BILLY",
    "EcQPPd9tKtPxiQULnFW3XA3URpebdAzLoVH7pgobo5w4",
    0.131,
-   7.8,
+   8.8,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "NOL",
-   "Bkp6kNfnGdFA2u2Fbd61adsc4LuFb1buPo5fCLyQpump",
-   0.122,
-   3.0,
-   "buyers=7; top5_hold_most=96%"
   ],
   [
    "Metalcoin",
    "GQcGZppMKiQoLY3eie8BrKnt72XUT17X8Um4XqG1pump",
    0.107,
-   2.3,
+   3.3,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "NODIT",
-   "cLSLoCNsCsuSFpV4bYXrt7cATYTF8YDxR56NyRNpump",
-   0.095,
-   3.0,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "PP",
    "FBjHS2GdeZq9RAUUsbpjvK5p3MLcoSNYdLjtuEappump",
    0.085,
-   8.6,
+   9.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "NOL",
+   "Bkp6kNfnGdFA2u2Fbd61adsc4LuFb1buPo5fCLyQpump",
+   0.08,
+   4.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Metalcoin",
    "Brc9DUVDfjTp6ezeCjaKyhHyfmeJcaDxxE24Npgbpump",
-   0.063,
-   3.4,
+   0.057,
+   4.4,
    ""
   ],
   [
    "CC",
    "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
    0.053,
-   7.4,
+   8.4,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "BP",
-   "GYSW8Hgc3yH9moLMev9z7Yk6TqidBtNWibB9LXkGpump",
-   0.046,
-   4.5,
-   ""
   ],
   [
    "Metalcoin",
    "5Nv4YLFaypRDb1G4c4PAwykPXhVsoeuE9zSh9aQ7pump",
    0.022,
-   6.5,
+   7.5,
+   ""
+  ],
+  [
+   "legend ",
+   "6gRuazTKAvQXyLqRNQHGwModfxsPBgCRuovCHidBpump",
+   0.021,
+   5.8,
    ""
   ]
  ]
