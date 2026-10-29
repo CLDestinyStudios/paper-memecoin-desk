@@ -6350,84 +6350,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:22:00",
+   "2026-10-29T10:22:54",
    32.58
   ]
  ],
- "cycles": 1908,
+ "cycles": 1909,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.587793026,
- "watching": 337,
+ "sol_usd": 101.65073452550001,
+ "watching": 322,
  "near": [
-  [
-   "Leverage",
-   "HGPXxvbffcGgV98qvqbCi8hz6bKoS7naEDqt4VFZpump",
-   0.687,
-   2.2,
-   "rugcheck=creator history of rugs"
-  ],
   [
    "\ud835\udd4f",
    "BjPcTtQiY8ausqUvQvbxwb75rvmge3D9DvXKSXVApump",
-   0.289,
-   6.5,
-   ""
-  ],
-  [
-   "CallMyCoin",
-   "84GKtit9FAvsHKchUeX4noKcnCxLCyUgeBE9JoVB2Mkq",
-   0.278,
-   5.9,
+   0.469,
+   7.4,
    ""
   ],
   [
    "WWHALE",
    "GGjXQ4KQbz5Ma7sqNnFTSFzUmDnQxvUe4AHLabRepump",
-   0.258,
-   2.7,
+   0.259,
+   3.6,
    "buyers=9"
-  ],
-  [
-   "BOTJOB",
-   "7j4owAGiAT9Z15aX2NCPXb6hAuNTvQ342ARHLYgvpump",
-   0.192,
-   9.4,
-   "buyers=8; top5_hold_most=96%"
   ],
   [
    "\ud835\udd4f",
    "FUTaAEfEqMzpPNHL6nDc5r5ULPTVv1YumoMLDk2Zpump",
    0.184,
-   5.7,
+   6.6,
    ""
   ],
   [
    "X",
    "8J8vRWtyKHkvTjUY8Mk1gaLoJNzkMcSYNV82zah7pump",
    0.165,
-   5.8,
+   6.7,
+   ""
+  ],
+  [
+   "X",
+   "6YbbVpEL6J7KmCEekX3sD5Hu8wmk7x6dsAFQa5wjpump",
+   0.152,
+   2.5,
    ""
   ],
   [
    "X",
    "3T2HQFuWyHhdeNZkrTLRx8X5b4Li8Gg1LVdHGrZbsWuA",
    0.15,
-   4.4,
+   5.3,
+   ""
+  ],
+  [
+   "TRENTON",
+   "8fvTFdtQAF47FWRMyS3T6QWcY2aJ5s1VdD1BfVE5pump",
+   0.128,
+   2.1,
    ""
   ],
   [
    "X",
    "2qJnm69XKChyo8RPCmAthYfmPMpHVnw5jgc6GpDBUSUL",
    0.125,
-   4.7,
+   5.6,
    ""
   ],
   [
    "X",
    "8q8nBo7zhKk9UzCPszPVaRc5SzpjCL7GyiNHxs1Uw2YW",
    0.104,
-   5.6,
+   6.5,
    ""
+  ],
+  [
+   "HI",
+   "2Qvhh9BNfYjvyHycHgVW1zLb6WQQ2sokEm88vYv4pump",
+   0.103,
+   3.2,
+   "buyers=9; top5_hold_most=93%"
   ]
  ]
 }
