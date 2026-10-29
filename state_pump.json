@@ -13,10 +13,10 @@
    "entry_px": 9.250078880262355e-08,
    "entry_fill": 1.0016511382127626e-07,
    "opened": 1793266343.038469,
-   "last_px": 1.5102244413686738e-07,
+   "last_px": 1.5399585665152928e-07,
    "peak_px": 1.777320685811972e-07,
-   "last_val": 1.349896030276921,
-   "last_prog": 0.771,
+   "last_val": 1.3781542104574716,
+   "last_prog": 0.776,
    "tp1_done": true,
    "realized": 0.3760501163242276
   }
@@ -4864,81 +4864,85 @@
   [
    "2026-10-29T02:39:22",
    63.87
+  ],
+  [
+   "2026-10-29T02:40:22",
+   63.9
   ]
  ],
- "cycles": 1446,
+ "cycles": 1447,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.01999999999998,
- "watching": 165,
+ "sol_usd": 100.0707577425,
+ "watching": 162,
  "near": [
+  [
+   "DEAFCOIN",
+   "DRpdTSZsoV1MPmGyLncHqcdRxhisYC1njGXuaqnZpump",
+   0.151,
+   2.1,
+   ""
+  ],
+  [
+   "BABYSITT",
+   "GVvMeGLP9gudWzqfSAz8FDeFK3mpDGz9DMGFHrz6pump",
+   0.148,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
   [
    "NAZ",
    "EZwGuLxSJTfKwsFrhFam3fZVASUAoYxgezR8Ctr5pump",
    0.11,
-   2.5,
+   3.5,
    ""
   ],
   [
    "NNN",
    "7Wf1Wp4iozJHzdeQmK519DA2CJLy3CoXTMjFkRZMpump",
-   0.105,
-   2.5,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "GG",
-   "GvEDU6zmwre2mXxt37mf36zzhxBSbfu4a7K47uNEpump",
-   0.086,
-   8.2,
-   ""
-  ],
-  [
-   "GARAGECOIN",
-   "7zovucUbib253LYcf9dAb6YetS8397KwbUzKRGPrpump",
-   0.016,
-   4.7,
-   "buyers=4; top5_hold_most=100%"
+   0.109,
+   3.5,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "MOAI",
    "GnAppL7eV2Jh4tCXWJmZttTwdDZPs9dU2aCkGdrtpump",
    0.016,
-   6.6,
+   7.6,
    ""
   ],
   [
    "BEAR",
    "7g2KbUpR7RKovtXCA6NLj3vM4eWtshoDBSA7i7ocpump",
    0.014,
-   6.7,
+   7.7,
+   ""
+  ],
+  [
+   "GG",
+   "GvEDU6zmwre2mXxt37mf36zzhxBSbfu4a7K47uNEpump",
+   0.014,
+   9.2,
    ""
   ],
   [
    "BuPepe",
    "9o1EWgxBZK4mJgAzyP8XkWyyKJuZeqoFN2LBPWQ6pump",
    0.012,
-   5.9,
+   6.9,
    ""
   ],
   [
    "PICKONE",
    "DpjsvHntAqLFox7fhBZXeM9xbWXRkpPSQW7fSKo7pump",
    0.012,
-   7.9,
+   8.9,
    ""
   ],
   [
    "NONNA",
    "DTjkd1gQjvXoanrqNuLbck5ttegThCuert4CVjrPpump",
    0.011,
-   3.0,
-   ""
-  ],
-  [
-   "LOVE",
-   "CWsdfA4xTEeeuKfU8XXezjx4bGaPZvw5JRoTEK6vpump",
-   0.007,
-   9.5,
+   4.0,
    ""
   ]
  ]
