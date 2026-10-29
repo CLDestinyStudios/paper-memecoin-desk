@@ -3715,84 +3715,84 @@
    119.01
   ],
   [
-   "2026-10-28T19:26:53",
+   "2026-10-28T19:27:51",
    119.01
   ]
  ],
- "cycles": 1014,
+ "cycles": 1015,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7618902534,
- "watching": 223,
+ "sol_usd": 99.59054089770002,
+ "watching": 221,
  "near": [
-  [
-   "PERCS",
-   "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
-   0.875,
-   5.2,
-   ""
-  ],
   [
    "PODCAT",
    "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
-   0.862,
-   3.5,
-   ""
+   1.0,
+   4.5,
+   "graduated"
   ],
   [
-   "Pumptoo",
-   "pVDSkDZ1jV7zg878Nk7MJWZb2scLjCvMLNMhQMKpump",
-   0.302,
-   2.9,
-   "serial_creator=10 launches/24h"
+   "PERCS",
+   "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
+   0.865,
+   6.1,
+   ""
   ],
   [
    "CRF",
    "BDC6ittE1x8MwPM7P7ceyLRMgFU4jQjW5X56Yj7Dpump",
-   0.268,
-   4.4,
+   0.314,
+   5.4,
    ""
   ],
   [
-   "CPELON",
-   "3RraqHfGinFxGfLMu2rRvb4mRz7WGCqfBTmHTyEApump",
-   0.227,
-   3.5,
-   "rugcheck=creator history of rugs"
+   "Mcat",
+   "Yn49Jn2GdwBAqBfgE5FkTCegdqAk8sgvvTGHHGepump",
+   0.191,
+   2.7,
+   "buyers=9; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "BOO",
+   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
+   0.187,
+   2.2,
+   ""
+  ],
+  [
+   "CPI",
+   "GPz7229qBUKkbQaDeLDWeuxLBaFoNP9CNbeZkGp1pump",
+   0.128,
+   2.7,
+   ""
+  ],
+  [
+   "COTUS",
+   "4QfxCnnSyV6esmyADhoTL5rpQmcw6vYLT5q1fXGDpump",
+   0.121,
+   2.0,
+   ""
   ],
   [
    "CPI",
    "GCxbe5nnY23SHxU2cVCJ4w7qHfVvg9iVEgnHWSxVpump",
-   0.134,
-   2.5,
-   "buyers=8; top5_hold_most=98%"
+   0.11,
+   3.4,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Mcat",
+   "51DjpRNusN3Homoc2fpferwuNrMxmTNaqzPWbsDZpump",
+   0.094,
+   2.9,
+   ""
   ],
   [
    "PODCAT",
-   "5q8R3D2jaL2d36XEdwZzGUWM5bm5xCVqqhV3SLoKpump",
-   0.094,
-   2.4,
-   ""
-  ],
-  [
-   "AVA",
-   "Ejm25FiaiPFGrXbuERkgGx6QTNwwQMfWt2YVPJSBpump",
-   0.081,
-   5.1,
-   ""
-  ],
-  [
-   "BOWEN",
-   "3ZSrcYYY9phcgA95crgRPKXJDmFqVub4UdpbzBBapump",
-   0.025,
-   5.9,
-   ""
-  ],
-  [
-   "ANTIC",
-   "3ByS3wgX2n3Bwe8XC4ymVbR7Lq1c6EBV4gLDFLG4pump",
-   0.021,
-   6.1,
-   ""
+   "9WQHZQUHeU71dmhXz23MzmEKDCQukdc1ofg54uD9pump",
+   0.089,
+   2.8,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
