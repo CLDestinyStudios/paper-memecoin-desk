@@ -13,10 +13,10 @@
    "entry_px": 6.72421880411413e-08,
    "entry_fill": 7.195774946281922e-08,
    "opened": 1793239553.8927171,
-   "last_px": 9.193780941046394e-08,
+   "last_px": 9.168022183847885e-08,
    "peak_px": 1.019085150866936e-07,
-   "last_val": 2.182250776261894,
-   "last_prog": 0.607,
+   "last_val": 2.1734810228889723,
+   "last_prog": 0.606,
    "tp1_done": true,
    "realized": 0.5851081383012862
   }
@@ -3705,81 +3705,85 @@
   [
    "2026-10-28T19:09:52",
    122.06
+  ],
+  [
+   "2026-10-28T19:10:52",
+   122.06
   ]
  ],
- "cycles": 997,
+ "cycles": 998,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.63526706902476,
- "watching": 301,
+ "sol_usd": 99.52,
+ "watching": 303,
  "near": [
+  [
+   "RAREINU",
+   "4ZPdXfNBizAgNsftUebEuMMmwv3rRQUUiH5PdpMqpump",
+   0.585,
+   3.0,
+   "bundled_launch=9 extra buys in creation block"
+  ],
   [
    "SURVIVE",
    "2iwHfeDRGF1sY2o9ckUdDohDoyyRDwkt9ftYxJCMpump",
-   0.546,
-   6.6,
-   ""
-  ],
-  [
-   "CYBER",
-   "2Wpe3F7MJBwm6FEBZkUm67kZFqcMH6whMyhz7gjjpump",
-   0.313,
-   2.5,
+   0.541,
+   7.6,
    ""
   ],
   [
    "PSYCHOSIS",
    "G7froZDbx25suxhrucZsLwSkmJoz8T38hbdTj3K9pump",
    0.165,
-   4.5,
+   5.5,
    ""
   ],
   [
    "CYBER",
    "CkiShvnPkSurzYktWm2VEvkAwQR9jXuMvt7Nkg5YNKnx",
    0.138,
-   4.0,
-   ""
-  ],
-  [
-   "GHOST",
-   "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
-   0.133,
    5.0,
    ""
   ],
   [
-   "CB",
-   "HiUhcs1BPtQ48FJttN32es5pkWFwMPZqj6ca1NLYXUxG",
-   0.125,
-   5.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "CYBER",
+   "2Wpe3F7MJBwm6FEBZkUm67kZFqcMH6whMyhz7gjjpump",
+   0.137,
+   3.5,
+   ""
   ],
   [
    "CYBER",
    "8PLoTc8F7qLdVxKKovxNXRxPmee2GsWvgdEURmK4pump",
    0.124,
-   6.0,
-   ""
+   7.0,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "PSYCHOSIS",
    "s6gG96imqbWS39pbS6wcE8oPc394LPGzSZoquPdpump",
    0.123,
-   5.7,
-   ""
+   6.7,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "CYBERPSYCHOS",
    "6Uqay4jDaxe3BBeWj6TeMCNr41a16CQDc719k6Dxpump",
    0.123,
-   6.5,
+   7.5,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "GHOST",
+   "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
+   0.11,
+   6.0,
+   ""
   ],
   [
    "CYBER",
    "C8xyb1GzNDxZorgx1NacW5GPi6KJxyUhNi7tWRzQG9uA",
    0.081,
-   6.3,
+   7.3,
    ""
   ]
  ]
