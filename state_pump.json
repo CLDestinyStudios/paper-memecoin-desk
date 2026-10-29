@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 117.19277905891474,
- "positions": {},
+ "cash": 113.67277905891474,
+ "positions": {
+  "EADux6KA3RcNhPhkSoCRs3xZyTqpkSQqzqzyG5Yipump": {
+   "sym": "Fatfish",
+   "bc": "Cevg1UVMcF1MPwZMRdGpyXjtJM1SEGQHMtxXyMsZsoPi",
+   "tokens": 863244.5757305145,
+   "cost": 3.52,
+   "cost0": 3.52,
+   "entry_px": 3.8357193034960646e-08,
+   "entry_fill": 4.1080139101775776e-08,
+   "opened": 1793241544.481332,
+   "last_px": 3.8357193034960646e-08,
+   "peak_px": 3.8357193034960646e-08,
+   "last_val": 3.0632101641265206,
+   "last_prog": 0.198
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -248,7 +263,8 @@
   "BqN6hShHcExcGiJ4pH6HYhnpPxEe1TTzCdHHKkeipump",
   "CkysQg3gbRdbN3vUb7UjcEY18Z7ow9ZEGmxqoUCKgxTo",
   "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
-  "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump"
+  "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump",
+  "EADux6KA3RcNhPhkSoCRs3xZyTqpkSQqzqzyG5Yipump"
  ],
  "equity": [
   [
@@ -3730,81 +3746,85 @@
   [
    "2026-10-28T19:38:03",
    117.19
+  ],
+  [
+   "2026-10-28T19:39:04",
+   116.74
   ]
  ],
- "cycles": 1025,
+ "cycles": 1026,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.26901690515,
- "watching": 181,
+ "sol_usd": 99.26060087569998,
+ "watching": 176,
  "near": [
+  [
+   "HAKIMI",
+   "MmkEZpTu9Ur1DCxM5tF8nva14DYMeoQ5izf4zxVpump",
+   0.71,
+   2.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "Fatfish",
+   "EADux6KA3RcNhPhkSoCRs3xZyTqpkSQqzqzyG5Yipump",
+   0.198,
+   2.4,
+   "bought"
+  ],
   [
    "Survival",
    "BzRqqacSDzDM5KFqwwNv7uWQK8Z5eSBqKwMQ3EcBpump",
-   0.18,
-   6.9,
+   0.184,
+   8.0,
    ""
   ],
   [
    "WEENIE",
    "3PCAcdQRLKcjmJVMH9aEuMRNygTT2fBEnt8KE1Rgpump",
-   0.132,
-   8.6,
+   0.117,
+   9.6,
    ""
   ],
   [
    "PONZI",
    "74eE9A2TByKwh5D4a6JPM8SvaAP76hyZm9qh2bbBpump",
-   0.104,
-   4.5,
+   0.098,
+   5.5,
    ""
-  ],
-  [
-   "UBUR",
-   "9zRTmATDRvkFhmpWCywS293TZ4aL6P3EfKvahHuzpump",
-   0.085,
-   3.1,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Calm",
    "E7oRsHTdbNYrAxDsNfpX42iF5PnJ1mE86mg7MAM8pump",
    0.071,
-   2.1,
+   3.1,
    ""
   ],
   [
    "GHOSTCAT",
    "FUsU3nh3uVLhFCGp8nCzZbTRbiX4LS174j1Kvn6ipump",
    0.043,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "LVT",
-   "GAyMGM85Cx4aSzEBmb5X46oyMg6RRhzNen9mwkDNpump",
+   "FRANKIE",
+   "3Ye9kCkJ9SVYsejZSnrcFG8ewSWVtPkYrvqskRF6pump",
+   0.026,
+   2.2,
+   ""
+  ],
+  [
+   "Blackout",
+   "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
    0.022,
-   6.1,
+   9.0,
    ""
   ],
   [
    "$STESLA",
    "3nBzzByNA5rQ8YsHGPL3Gi4dWytj8B7BzELrnapmpump",
    0.019,
-   5.2,
-   ""
-  ],
-  [
-   "Blackout",
-   "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
-   0.013,
-   8.0,
-   ""
-  ],
-  [
-   "$NOTHING",
-   "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
-   0.011,
-   7.8,
+   6.2,
    ""
   ]
  ]
