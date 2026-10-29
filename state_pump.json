@@ -13,10 +13,10 @@
    "entry_px": 5.257128747104219e-08,
    "entry_fill": 5.7399492248563355e-08,
    "opened": 1793283417.2122974,
-   "last_px": 1.428797304989695e-07,
+   "last_px": 1.4146403331923975e-07,
    "peak_px": 1.428797304989695e-07,
-   "last_val": 1.732364868815143,
-   "last_prog": 0.754,
+   "last_val": 1.7135096763021413,
+   "last_prog": 0.751,
    "tp1_done": true,
    "realized": 0.4171173148812155
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.327167673559085e-08,
    "entry_fill": 5.841532010593303e-08,
    "opened": 1793284815.9940975,
-   "last_px": 4.6774016141788773e-08,
+   "last_px": 4.61275002403389e-08,
    "peak_px": 5.558463894317586e-08,
-   "last_val": 0.9689183376423036,
-   "last_prog": 0.307
+   "last_val": 0.954164031837568,
+   "last_prog": 0.3
   }
  },
  "traded": [
@@ -5953,81 +5953,85 @@
   [
    "2026-10-29T07:48:56",
    43.56
+  ],
+  [
+   "2026-10-29T07:49:52",
+   43.52
   ]
  ],
- "cycles": 1755,
+ "cycles": 1756,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.41040076537453,
- "watching": 264,
+ "sol_usd": 101.34000000000002,
+ "watching": 266,
  "near": [
   [
    "RENTX",
    "FvoV1LH5gCP7nkheMxTVXwmd3wxRK5z5eWFgPyJupump",
-   0.303,
-   8.9,
+   0.126,
+   9.8,
    "top5_hold_most=88%"
-  ],
-  [
-   "HOLYDOG",
-   "6FzkDQMdv4pbaS8rkWZLp8UrGNFX4vcVjacyRRRapump",
-   0.145,
-   2.6,
-   "buyers=7; top5_hold_most=99%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "GORO",
    "EyBAVDLnhjZVb1NptJvoHEajJzHmZrSfj7MLHQhNpump",
    0.108,
-   4.3,
+   5.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "TREND",
+   "4CSmJEBtPcxc7GEkd488NZhNUiNEYwRhmY1q1ECnUKVF",
+   0.104,
+   4.6,
+   ""
   ],
   [
    "BOAT",
    "GqT5CHmg8WDLcRGNQV6u3ENQ3Q2DPYFHEPZprDSkpump",
    0.104,
-   3.6,
+   4.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BUFFER",
    "7AQsPWtCxqbU4d2Ja1DT5vnpD2DztMk3kjyHnTFapump",
    0.097,
-   8.9,
+   9.9,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "TREND",
-   "4CSmJEBtPcxc7GEkd488NZhNUiNEYwRhmY1q1ECnUKVF",
-   0.096,
-   3.6,
-   ""
   ],
   [
    "HALLOWEEN",
    "9c3B9KoVH1z1wnvAFYCsLdKp1uQq4pt2wXR32R7Fpump",
    0.086,
-   4.7,
+   5.6,
    ""
   ],
   [
    "rippump",
    "BtLVQ3bKirqwBn4racep6HEp35xtm5iiXMN8ts1Bpump",
    0.053,
-   4.2,
+   5.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "Vivi",
    "HmPuvr7MsSuKwhA9gBfxTYStwjwc9u41GUaHGkg3pump",
    0.039,
-   3.9,
+   4.9,
    ""
   ],
   [
    "nebcat",
    "6XUfDF85NJfJ7FThFpbSaC8Gz3eoz5TRQPZVquLJyzgE",
    0.037,
-   7.7,
+   8.7,
+   ""
+  ],
+  [
+   "Dnipro",
+   "95iZQdn7YhmpWHirYQW1rpZTY135RANMLHQ6eEXQAB8k",
+   0.029,
+   2.5,
    ""
   ]
  ]
