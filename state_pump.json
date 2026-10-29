@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.681797340859977e-07,
+   "last_px": 1.7278981150557417e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.2122430267405293,
-   "last_prog": 0.801,
+   "last_val": 1.2471183721449015,
+   "last_prog": 0.809,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5410,81 +5410,85 @@
   [
    "2026-10-29T05:17:22",
    58.96
+  ],
+  [
+   "2026-10-29T05:18:22",
+   59.0
   ]
  ],
- "cycles": 1604,
+ "cycles": 1605,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.20351050200001,
- "watching": 278,
+ "sol_usd": 100.22566174700002,
+ "watching": 270,
  "near": [
+  [
+   "Elon",
+   "6VFHeFA2gwhVW1UuV4PaMJJPXPhuBe9BDS9x9GUjpump",
+   0.54,
+   2.2,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "SYNTHRA",
+   "8LSMn8zWQQHHcLubeY649B8qHqGcMxAHysVMbur4pump",
+   0.317,
+   2.2,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "PumpDog",
+   "5MdTE2jyiXsHESCPSpHrrjLKBxtKo6KHW6WesDpapump",
+   0.156,
+   2.4,
+   "top5_hold_most=84%; bundled_launch=3 extra buys in creation block"
+  ],
   [
    "Elon",
    "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
    0.131,
-   3.3,
-   ""
-  ],
-  [
-   "MEIMEI",
-   "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
-   0.111,
-   7.1,
-   "buyers=7; top5_hold_most=92%"
-  ],
-  [
-   "ICECAT",
-   "CmfETzZd5zXhubDNjkF2Ra7HxQ9ba5KQAV5qDChBPnFX",
-   0.084,
-   9.8,
+   4.3,
    ""
   ],
   [
    "MuCa",
    "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
-   0.083,
-   5.1,
+   0.118,
+   6.1,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "MEIMEI",
+   "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
+   0.111,
+   8.1,
+   "buyers=7; top5_hold_most=92%"
   ],
   [
    "GTAVI",
    "GowRcDGK8G9MF3bLEgxAXXs6Dzoodpn6NFo6yX86pump",
    0.08,
-   8.7,
+   9.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Cockfish",
-   "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
-   0.071,
-   8.5,
-   ""
   ],
   [
    "PINO",
    "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
-   0.066,
-   7.0,
+   0.076,
+   8.0,
    ""
   ],
   [
-   "VEND",
-   "7NHpS4uen1mHCHk4rrNXFLVvS8rriyr9YT2wrx7gpump",
-   0.048,
-   4.2,
+   "Cockfish",
+   "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
+   0.072,
+   9.5,
    ""
   ],
   [
    "QEYRO",
    "3AKZNKNhJt9g9xqsNxPaS91XfnHfiPaPe6tEjeA7pump",
-   0.027,
-   3.8,
-   ""
-  ],
-  [
-   "Pedos",
-   "8pPyoUiRjt8o8KqNnviqsCz1m1f8KuHiqkS9XWBipump",
-   0.027,
-   2.7,
+   0.036,
+   4.8,
    ""
   ]
  ]
