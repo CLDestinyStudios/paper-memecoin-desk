@@ -6450,84 +6450,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:14:09",
+   "2026-10-29T14:15:05",
    32.58
   ]
  ],
- "cycles": 2140,
+ "cycles": 2141,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.8378662394,
+ "sol_usd": 96.7410517755,
  "watching": 344,
  "near": [
   [
-   "bye",
-   "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
-   1.0,
-   9.4,
-   "graduated"
-  ],
-  [
    "FI",
    "5Pp2wnCij3ZcBU7CDwGGRPWVH4TZwaGJoSy3eYeLrGcn",
-   0.654,
-   2.2,
-   "launch_slot=missing"
+   0.537,
+   3.1,
+   "serial_creator=39 launches/24h"
   ],
   [
    "FOOLS",
    "GG4o6qnSQvfDU4S9de2jRcRaFMqxK7pwJDRqrtgepump",
-   0.312,
-   5.1,
+   0.441,
+   6.0,
    ""
-  ],
-  [
-   "Trunoest",
-   "5dsNxLebtWjKSndvAKPBAiz62r6Lt7P9ZcCa8UHppump",
-   0.283,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "BNB",
    "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
    0.252,
-   8.8,
-   ""
-  ],
-  [
-   "BH",
-   "EViNHRW98aHSZP4UfPBBr2H4Y9AKwWSPaf2Vpinkpump",
-   0.228,
-   2.4,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "SAFU",
-   "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
-   0.18,
-   7.9,
-   ""
-  ],
-  [
-   "SI",
-   "7E2EJ8qM3iYnyTHcfgzs99jXJMoDpir3jZFJW9Q3zfQq",
-   0.172,
-   4.1,
+   9.7,
    ""
   ],
   [
    "BURRIOT",
    "2BW9L2cBku7rzxnVkxxzwex3atvh27q382NSypyQ9Xbb",
-   0.167,
-   3.0,
+   0.18,
+   4.0,
    ""
   ],
   [
-   "FI",
-   "2DPJ6FANtaY3kkEmPpDHwdFQczUYW3hmmVsnqTdGWyTr",
-   0.141,
-   7.9,
-   "buyers=5; top5_hold_most=100%"
+   "SAFU",
+   "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
+   0.18,
+   8.8,
+   ""
+  ],
+  [
+   "SI",
+   "7E2EJ8qM3iYnyTHcfgzs99jXJMoDpir3jZFJW9Q3zfQq",
+   0.139,
+   5.0,
+   ""
+  ],
+  [
+   "0",
+   "CHxVLEctuzwDwcwZAAv6EqHG29rBDBxFqnpmuvvupump",
+   0.106,
+   8.0,
+   ""
+  ],
+  [
+   "SI",
+   "FSrwiJmzD4s8j92CkLCKXkygfPrJjVEXu6qQtwUM1523",
+   0.103,
+   4.5,
+   ""
+  ],
+  [
+   "SI",
+   "2wmeojzUvHseHGjejCcoYPnShg74Vb5DkqaeLPw6pump",
+   0.103,
+   3.3,
+   ""
+  ],
+  [
+   "EIP-7702",
+   "6mHTcnTb8bTQxmgUY9W9pYWgavMpjzia5grc1CUrpump",
+   0.101,
+   6.7,
+   ""
   ]
  ]
 }
