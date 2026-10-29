@@ -4695,81 +4695,85 @@
   [
    "2026-10-29T01:36:21",
    71.47
+  ],
+  [
+   "2026-10-29T01:37:21",
+   71.47
   ]
  ],
- "cycles": 1383,
+ "cycles": 1384,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.74647549459998,
- "watching": 117,
+ "sol_usd": 99.91308517095001,
+ "watching": 116,
  "near": [
-  [
-   "UNCL",
-   "94GoQyPfshgNY96sLKT5zpA1mSLbeDkezp8LKAprpump",
-   0.152,
-   5.5,
-   ""
-  ],
   [
    "SELLICON",
    "DrxqBz6e6MnQx9qt9hQQwiWdPutpeJYwiDPLB3jXpump",
-   0.129,
-   6.3,
-   "buyers=5; top5_hold_most=100%"
+   0.134,
+   7.3,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "PUMPSPIDER",
    "3FpjQmSX9eja6HxLUFKcmwZcKiFUYLB8iFrLFdv1SAGA",
    0.102,
-   7.6,
+   8.6,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "T-REX",
    "yFtmDbUoievNTQzqcT3qPazagPF6NYM368gZdq9pump",
    0.062,
-   3.9,
+   4.9,
    ""
   ],
   [
    "SC",
    "4KSN9QDw4LuW7MeX7QNbsdw8CB6QV3onsGJ68woXpump",
    0.058,
-   2.5,
+   3.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "$TITTY",
    "CGxKHAioZ3cer9F8A8PYtCzXFWQhUPzufXRHkYfipump",
-   0.049,
-   4.0,
-   ""
+   0.056,
+   5.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    " ",
    "5yE8yqHwUy1mQQvTm2k2wkCzDUWY9jXgCJA183Gcpump",
    0.044,
-   6.2,
-   ""
-  ],
-  [
-   "OPC",
-   "gXoWAz3P1HjjtsXuWmTwwputXBrkzCwX2t4xhg4pump",
-   0.037,
-   2.6,
+   7.2,
    ""
   ],
   [
    "DFuncaged",
    "DdBGdVqXSr8NPZu1Utcf7i6kKnnhGw7vsHKdwjCypump",
    0.034,
-   6.3,
+   7.3,
    ""
   ],
   [
    "LOVEINU",
    "5N9mMa9t6vkUEnZVHdA6euBW1dRQYTcFAA43Zdzepump",
    0.03,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "Shalom",
+   "ExvxzddALLT5HwhaKNgQ7s62h2ph5yU796FFUFvcpump",
+   0.029,
+   9.4,
+   ""
+  ],
+  [
+   "BabyNuts",
+   "C7CKxbcnVKvYML4Zq3U7ozBocMW9CRLNgoRFzvJdpump",
+   0.028,
+   4.6,
    ""
   ]
  ]
