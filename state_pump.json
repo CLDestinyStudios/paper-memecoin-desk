@@ -6496,81 +6496,85 @@
   [
    "2026-10-29T16:01:04",
    32.58
+  ],
+  [
+   "2026-10-29T16:02:12",
+   32.58
   ]
  ],
- "cycles": 2247,
+ "cycles": 2248,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.87,
- "watching": 340,
+ "sol_usd": 96.67704870820002,
+ "watching": 363,
  "near": [
   [
    "ZI",
    "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
-   0.862,
-   8.3,
+   0.813,
+   9.4,
    ""
   ],
   [
-   "FAG",
-   "6Ya1cE1A8Vi42LsUmsT3yEFEnDe8umzee6jjQPuupump",
-   0.171,
-   9.2,
-   "buyers=3; top5_hold_most=100%"
+   "TRIBUTE",
+   "B71WWnLREzY9RE1afww7HfC5x57A9K5KM39po5uspump",
+   0.26,
+   2.6,
+   "buyers=6; top5_hold_most=99%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "PEIRO",
-   "GMrJdNq3VjNkfDy44teEusYEbec1eyh8RJYtFEGiR4KX",
-   0.137,
-   5.4,
+   "FIVE5",
+   "CCXWYatuEXGnbrHL63Ab8eViT7j1n3nQPfqDPXgdpump",
+   0.11,
+   2.4,
    ""
   ],
   [
    "ZeroNut",
    "gH97pijziqNP894Swz59CUyNgvWYsk6axYvxW87pump",
    0.071,
-   2.4,
-   ""
-  ],
-  [
-   "UBC",
-   "F5YmKXVbPEge2Jw1nbfFCaSJRHHtCvCpu299hYSrpump",
-   0.062,
-   6.3,
+   3.6,
    ""
   ],
   [
    "CZeroday",
    "58ykyFV9jmm3kzjGrHu2y6x8Bb1tL2M6jyUTH1Yapump",
    0.043,
-   2.7,
-   ""
-  ],
-  [
-   "PEIRO",
-   "5hs73pJX2bbrrhVZdhSSYvq2xiHc1vbbsFozAC7jpump",
-   0.042,
-   6.3,
+   3.8,
    ""
   ],
   [
    "HYPEALL",
    "8LsUXbdijBJ6UGPUnyCJ9iFurQbk2FGwF2gcPNtB4FYx",
    0.039,
-   3.7,
+   4.9,
    ""
   ],
   [
    "ZERODAY",
    "DjfXJqFZLjxK57JMai6Nz5vVfp1C7LFC18GBND8Wpump",
    0.031,
-   4.2,
+   5.3,
    ""
   ],
   [
    "Zero",
    "4AXok1iRFdtA7GRLeAEvdbmcXnGHACypwXJPeM1Kpump",
    0.027,
-   7.8,
+   9.0,
+   ""
+  ],
+  [
+   "Zday",
+   "G5R93cNZJUCcnNNAvMRNn8F1pMqtsH8T2zzHVyd1pump",
+   0.027,
+   8.6,
+   ""
+  ],
+  [
+   "Firedancer",
+   "5hzmQEiSYqFrj4BCpFT2Pb9LqjHi51QtnRYLoatYpump",
+   0.026,
+   4.2,
    ""
   ]
  ]
