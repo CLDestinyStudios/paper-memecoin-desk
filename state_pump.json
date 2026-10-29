@@ -6370,84 +6370,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:04:56",
+   "2026-10-29T11:05:59",
    32.58
   ]
  ],
- "cycles": 1951,
+ "cycles": 1952,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.00892698099999,
+ "sol_usd": 101.0831966625,
  "watching": 282,
  "near": [
   [
-   "PEPEYE",
-   "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump",
-   0.948,
-   9.1,
-   ""
-  ],
-  [
-   "PUMPAXE",
-   "2QoAVZHojBAWdpkrdesU4WA5CuXqSMbni4taiW6Jpump",
-   0.674,
-   3.7,
-   "bundled_launch=6 extra buys in creation block"
+   "kPEPE",
+   "3brs5nWeVj8vLCsmgWcXsgbYgmM6ogt9RgrBk6iqpump",
+   1.0,
+   3.0,
+   "graduated"
   ],
   [
    "Grok",
    "4v9HYtYia3G952S3zxHALb8CrJFq5YZe6BUwCY1Fpump",
    0.556,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "SOLOFWAR",
-   "4KdB5zg8VuuUKJEk4DvkVZnrT9DJQxvWbjfDRF4cpump",
-   0.524,
-   9.9,
+   "HYPECOIN",
+   "EHRoM7c8MtcQCxj4QvsmAoSgVTwV7PHJPDFocdBSpump",
+   0.554,
+   2.2,
    ""
+  ],
+  [
+   "PIPER",
+   "3MTTdj5AFhSAssXDAt837tEuchjEveddJcX2ScqQpump",
+   0.436,
+   2.8,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "ADF",
    "4wXDcYbZCLu1avCNdhCWufz1tZN7ycZC8CxYXFWppump",
    0.385,
-   2.3,
+   3.3,
    "buyers=2; creator=30.4%; top5_hold_most=100%"
   ],
   [
    "Carl",
    "DH619wL2iHE4nbMieczByAv3d14WP4XMmkGm9nokpump",
    0.214,
-   5.8,
+   6.9,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "Pua",
    "DsJfeJ5Vpyf4oEc8e2RDk5SAM4n6kcmcVq1uZfPhzLKA",
    0.191,
-   2.6,
+   3.6,
    "buyers=1; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "DEFCONBASE",
-   "Ax1Ruxyu1S8LC1mAbo9yueHuj3kr9j5XxdpyMujDpump",
-   0.178,
-   10.0,
-   ""
-  ],
-  [
-   "TRSTAI",
-   "5W8BhdsqVPoogabwesC65fBmVv7XgZZ5nSobmVJrpump",
-   0.168,
-   4.6,
-   "top5_hold_most=96%"
+   "ARTC",
+   "5Xj5AqudgA7viVEKxafgp159k9mas7F1uKfhKP1hpump",
+   0.172,
+   5.9,
+   "buyers=7; top5_hold_most=90%"
   ],
   [
    "Randy",
    "FUDmg2t4cnt6qH8pUNqpwkbDLumU9BDVGSkW1P6Wpump",
    0.121,
-   5.4,
+   6.5,
    ""
+  ],
+  [
+   "Podcast",
+   "4nzzPbqijSyYAwjMv5wFHfLMdNrNk25TQeetiK39HLAS",
+   0.12,
+   7.8,
+   "top5_hold_most=89%"
   ]
  ]
 }
