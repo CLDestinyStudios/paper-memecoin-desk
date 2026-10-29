@@ -3709,81 +3709,85 @@
   [
    "2026-10-28T19:14:52",
    119.01
+  ],
+  [
+   "2026-10-28T19:15:52",
+   119.01
   ]
  ],
- "cycles": 1002,
+ "cycles": 1003,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.50818273704999,
- "watching": 280,
+ "sol_usd": 99.462204012,
+ "watching": 250,
  "near": [
-  [
-   "Cardinal",
-   "GQJsb9tiZoiGVwHVFn9FfhE74kSk2RAB4sREMXbvpump",
-   0.74,
-   2.3,
-   "bundled_launch=6 extra buys in creation block"
-  ],
   [
    "BURQA",
    "AtAvTigDJacRbKmGdcspKwAaFRdpG5qKXqeTe4j6pump",
-   0.285,
-   5.8,
+   0.282,
+   6.8,
    "buyers=6; creator=15.2%; top5_hold_most=99%"
   ],
   [
-   "NOTHING",
-   "4zyA4sSibf1S7EAGdo353KCtuHxyDeV4M73N8Duipump",
-   0.079,
-   3.4,
+   "Meowteor",
+   "6nRSD9Jo2aUYkCP4eZpSEFix8jzfW7Lgfi3ky8KVpump",
+   0.128,
+   2.5,
    ""
+  ],
+  [
+   "NutBag",
+   "Dek22ZSxfYhEWtx4yUBwp4b9N86vpK1ikrtZKHor7Z1w",
+   0.088,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Meowteor",
+   "8Awc4GkxQfNVMSBtySmJn9AySkxTXv3Fg8tKi6hgpump",
+   0.08,
+   2.2,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "choom",
    "BFFzoe6hCQnzWAmuhx4YFZSkvDyCQGpk7NiCGJy1pump",
    0.059,
-   2.7,
+   3.7,
    ""
   ],
   [
    "CYBERPSYCHOS",
    "EqE8qLAPRtPL9Qf4nnNTvz5nGZjptxCumpU733ncpump",
    0.044,
-   4.9,
+   5.9,
    ""
   ],
   [
    "TERRY",
    "QEwssWMWfswFV822kJdZEdcTRL1yzTXkeKwoh6ypump",
    0.043,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "RM",
+   "HNNCsThkijxdkMAiyncCfQhoBdNF7DcsoCjAsUa8pump",
+   0.043,
+   5.3,
    ""
   ],
   [
    "MACA",
    "HhcihBxsHYXXPTgBvas4U6RWziTNNSZwo2b41DGbpump",
    0.043,
-   3.8,
+   4.8,
    ""
   ],
   [
-   "CHILL FROG",
-   "27R7CQ8XVA1dB3GKvxMxNNnRxGarEreT6qFGsqbdpump",
-   0.041,
-   3.4,
-   ""
-  ],
-  [
-   "CYBER",
-   "4JpRnN5GkKFvWsHRxzjcWqztrCaHBooe6CwoeFyDpump",
-   0.041,
-   4.1,
-   ""
-  ],
-  [
-   "PSYCHOSIS",
-   "G7froZDbx25suxhrucZsLwSkmJoz8T38hbdTj3K9pump",
-   0.039,
-   9.5,
+   "ELM",
+   "77WoJSPk3BeVYM7aKGBouwfeXzU7nwU2TtcB2LcPpump",
+   0.042,
+   2.1,
    ""
   ]
  ]
