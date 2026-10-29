@@ -6398,84 +6398,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:07:59",
+   "2026-10-29T12:08:57",
    32.58
   ]
  ],
- "cycles": 2014,
+ "cycles": 2015,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.303864261,
- "watching": 263,
+ "sol_usd": 100.317234293,
+ "watching": 253,
  "near": [
   [
    "Doink",
    "LfZjr2CYtu4vqpGAeKa9zDBLQe7jc71RJCn29kBpump",
-   0.946,
-   4.0,
+   0.986,
+   4.9,
+   ""
+  ],
+  [
+   "Mali",
+   "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
+   0.799,
+   2.8,
    ""
   ],
   [
    "SI",
    "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
-   0.391,
-   2.2,
+   0.77,
+   3.2,
    ""
   ],
   [
-   "LilyAI",
-   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
-   0.361,
-   2.5,
+   "CROWD",
+   "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
+   0.436,
+   2.1,
    ""
   ],
   [
    "MIAOU",
    "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
    0.36,
-   5.7,
-   "buyers=3; creator=22.0%; top5_hold_most=100%"
+   6.7,
+   "buyers=4; creator=22.0%; top5_hold_most=100%"
   ],
   [
-   "ELONMOON",
-   "6aW8rHPHqmJ34fpszEiFNKa7JNmEyNsCgje2XrDgpump",
-   0.292,
+   "LilyAI",
+   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
+   0.283,
    3.4,
-   ""
-  ],
-  [
-   "RUGGO ",
-   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
-   0.149,
-   5.4,
-   ""
-  ],
-  [
-   "SI",
-   "BUQaen7BL7BpByMXYP1Hws6FuDcUqcmzxWzfjFcpump",
-   0.147,
-   2.9,
-   ""
-  ],
-  [
-   "ZD",
-   "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
-   0.125,
-   8.1,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Repair",
-   "8SHX8aUba5X4qiGC487dcSdXd7tqkUgTKzRR4PVipump",
-   0.124,
-   9.5,
    ""
   ],
   [
    "ABDUL",
    "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
    0.122,
-   5.0,
+   6.0,
    "top5_hold_most=100%"
+  ],
+  [
+   "LLM",
+   "sAUJyF4EeoGMXPz6yL4bpypxNUZnyn5EBECH3peQ67M",
+   0.116,
+   4.3,
+   ""
+  ],
+  [
+   "ZD",
+   "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
+   0.107,
+   9.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "RUGGO ",
+   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
+   0.096,
+   6.4,
+   ""
   ]
  ]
 }
