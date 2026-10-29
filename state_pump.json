@@ -6518,83 +6518,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:52:03",
+   "2026-10-29T16:53:06",
    32.58
   ]
  ],
- "cycles": 2298,
+ "cycles": 2299,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.54,
- "watching": 230,
+ "sol_usd": 95.54749112859999,
+ "watching": 238,
  "near": [
   [
    "BYENANCE",
    "DSnN1923kwmoPTrq9tWq4KcAk157pad4Zv75RNcspump",
-   0.381,
-   4.7,
+   0.309,
+   5.8,
    ""
   ],
   [
-   "COLUM",
-   "FWvFKYe2Su5XwJdaeNtc5Ct95cX7p6GiCe97raKYpump",
-   0.291,
-   10.0,
-   "top5_hold_most=89%"
+   "1029",
+   "66xMLsVAponwfwHj33E4VuaPAU3Uzk23QTdY5xA8pump",
+   0.191,
+   2.1,
+   "buyers=1; creator=15.1%; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "CATMAN",
+   "FWszYVwWo7Vyoyxwm8wAPC7Exp4da5Qh8eMdnGDCxSDy",
+   0.149,
+   6.8,
+   "buyers=6; top5_hold_most=99%; launch_slot=missing"
+  ],
+  [
+   "BEAR",
+   "CZPF9YuNZH56rPWaS4HD1ER4D6KvcihSduxSCkqWpump",
+   0.115,
+   5.0,
+   ""
   ],
   [
    "BYENANCE",
    "5ipVowwf9a8FHsYacdk2v3APkkYCk4jdkQ9odUs6pump",
-   0.112,
-   4.4,
+   0.109,
+   5.5,
    ""
   ],
   [
    "OVER",
    "4r3ueQ2omNt9yWfs9RxAgGJssm6RdHu21oAzwZ8UZQbH",
-   0.089,
-   6.1,
+   0.105,
+   7.2,
+   ""
+  ],
+  [
+   "FREEZEGATE",
+   "9j3AJZzysJPY4Tsj4DiqHdHYYkWsP5B3ozEApprupump",
+   0.103,
+   2.1,
    ""
   ],
   [
    "OOF",
    "Ed2PSZe43z4qn75ZfzCtG5V6Vw4catsr61h5Qb6Kpump",
    0.088,
-   2.7,
-   ""
-  ],
-  [
-   "BEAR",
-   "CZPF9YuNZH56rPWaS4HD1ER4D6KvcihSduxSCkqWpump",
-   0.077,
-   4.0,
+   3.7,
    ""
   ],
   [
    "FREEZEGATE",
    "Emi4FydZeMfJf9vXPTWcohnnem8KFd3CXHCCoGbppump",
-   0.076,
-   2.1,
-   ""
-  ],
-  [
-   "bye",
-   "F3gXz2QVkoDwAmPXjWFaKeriXWuc2pj7gVYCiYr9s88D",
-   0.073,
-   3.6,
+   0.075,
+   3.1,
    ""
   ],
   [
    "LIFE",
    "5CS9X7ae9rN23b1Z1SdYXFoeJS7YDk34UBkVnrpPpump",
    0.071,
-   2.7,
-   ""
-  ],
-  [
-   "BYE",
-   "5uga44EtR9E3mj1uvwErrM4KHuAhayUZvQs6xFHTpump",
-   0.045,
-   4.6,
+   3.7,
    ""
   ]
  ]
