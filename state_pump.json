@@ -6366,83 +6366,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:58:57",
+   "2026-10-29T10:59:55",
    32.58
   ]
  ],
- "cycles": 1945,
+ "cycles": 1946,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.93,
- "watching": 292,
+ "sol_usd": 100.959488313,
+ "watching": 287,
  "near": [
   [
    "PEPEYE",
    "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump",
    0.949,
-   3.1,
+   4.1,
    ""
   ],
   [
    "SOLOFWAR",
    "4KdB5zg8VuuUKJEk4DvkVZnrT9DJQxvWbjfDRF4cpump",
-   0.711,
-   3.9,
+   0.669,
+   4.9,
    ""
   ],
   [
    "SATO",
    "E8UUoB9r89YZ4JRsuNaRGRfUwfeVe1WeTKXqaTiDpump",
    0.609,
-   2.8,
-   "buyers=2; creator=48.2%; top10=48.3%; top5_hold_most=100%"
+   3.7,
+   "buyers=2; top10=48.3%; top5_hold_most=100%"
   ],
   [
    "PUMPL",
    "BQxUZes3PTPLFdNHjv2YghZjVKxiy59HRHUffRxzsGNV",
-   0.387,
-   7.4,
+   0.488,
+   8.3,
    ""
   ],
   [
-   "Hal",
-   "DNHw1TZ2YP8Qxt2AauDYPH3zDTQhbzLhsQu9YeMFpump",
-   0.295,
-   7.4,
-   ""
+   "IRONYMAN",
+   "D6MkZmw8L4V1ZZ5PcKTmRLsUQBPHXN1aZX2z8dNRpump",
+   0.089,
+   7.5,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "VIB",
+   "47rhwr8S9vYdTFHaVuV4X9Qk5qihjrsYZdrKXxEopump",
+   0.082,
+   2.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CallMyCoin",
    "GZhFAT4zEqjZfatzdYgT6Kgg9GUfCm5M9YFjZRuuhu5u",
-   0.104,
-   4.0,
+   0.068,
+   4.9,
    ""
   ],
   [
    "BERNIE",
    "G5wCUq3wUK6s2DjSZTi5qg6CzHajB36xCQqqJ8WFpump",
    0.062,
-   4.7,
+   5.6,
    ""
-  ],
-  [
-   "IRONYMAN",
-   "D6MkZmw8L4V1ZZ5PcKTmRLsUQBPHXN1aZX2z8dNRpump",
-   0.056,
-   6.5,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "ELON",
-   "J3vgJyfJHy6w3eamRJ6UR4ikh5iF9Sr8XFp5XEuCpump",
-   0.054,
-   2.2,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "STAN",
    "8hz4YFUWYyoiEbs5oufakVvemu6hBMTvcYGndq5avcc",
    0.042,
-   8.8,
+   9.7,
+   ""
+  ],
+  [
+   "Lola",
+   "EmykezTDHebE5wuz9cFrZjz6L2e5VF9kQiKu78sjpump",
+   0.03,
+   2.3,
    ""
   ]
  ]

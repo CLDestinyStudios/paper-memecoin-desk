@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 395.3027145006329,
+ "cash": 412.39580117664264,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -20,23 +20,15 @@
    "mark_entry": 0.2868,
    "cost": 24.14,
    "peak": 0.2891,
-   "last": 0.2882,
+   "last": 0.2863,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
-  },
-  "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump": {
-   "sym": "CATBOT",
-   "qty": 299483.60541898664,
-   "entry": 7.920300000000001e-05,
-   "mark_entry": 7.765e-05,
-   "cost": 23.72,
-   "peak": 7.765e-05,
-   "last": 7.765e-05,
-   "opened": 1793296735.8158667,
-   "p_buy": 0.63
   }
  },
- "watch": {},
+ "watch": {
+  "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun": 1793296794.028991,
+  "Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793296794.7570746
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -6181,8 +6173,12 @@
   [
    "2026-10-29T10:58:56",
    473.53
+  ],
+  [
+   "2026-10-29T10:59:54",
+   467.67
   ]
  ],
- "cycles": 1965,
+ "cycles": 1966,
  "started": "2026-10-28T01:46:56"
 }
