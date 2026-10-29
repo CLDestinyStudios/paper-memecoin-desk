@@ -4334,83 +4334,83 @@
    82.63
   ],
   [
-   "2026-10-28T23:09:04",
+   "2026-10-28T23:10:07",
    82.63
   ]
  ],
- "cycles": 1236,
+ "cycles": 1237,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.226772321,
- "watching": 182,
+ "sol_usd": 100.1509,
+ "watching": 187,
  "near": [
   [
    "STEVE",
    "FMzQfjhqGnMTB56Z6ie9Muz2BzSKbGUwB2wwS4Dqex4C",
-   0.875,
-   2.3,
+   0.75,
+   3.3,
    ""
   ],
   [
-   "SIA",
-   "7vxpTyP7PaPR8D12AB8BFQKbguuuU66RfCRDVP4qxUdp",
-   0.266,
-   3.7,
-   ""
-  ],
-  [
-   "SIA",
-   "6igVWiQRMoro7GnjHQVoPRC56v1rbT8LrfVvNXGQpump",
-   0.129,
-   3.7,
-   ""
-  ],
-  [
-   "SIA",
-   "4fPYe51GXBk6bL2y2jDKYqei5Uzmhz7dZbxB3UEApump",
-   0.125,
-   3.8,
-   ""
+   "STEVE",
+   "AaeNFmHBfZUMSeF5k5morV1L97e3f98Sd7m5f21Jpump",
+   0.134,
+   2.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "STEVE",
    "3ccmrshAFFNJhXRGDc8Fs64ZPBnt1MJtBmRSnnSTpump",
    0.121,
-   2.1,
-   ""
-  ],
-  [
-   "SIA",
-   "5AP8An4Ey9pApsUgdRSyvNPAXTBjN1Z4cs7QyCuTpump",
-   0.105,
-   4.0,
-   ""
-  ],
-  [
-   "SIA",
-   "GeGN38tAcC9Cug4NKNPvmsqGrzxyWwa5Xe34uHxzpump",
-   0.1,
-   3.8,
-   ""
-  ],
-  [
-   "SIA",
-   "CYSWXGmHQN3P52BoP1M1DY7xWF6jvjJe2KTepk49pump",
-   0.081,
    3.2,
    ""
   ],
   [
-   "SIA",
-   "i4bzSnomdg1E83sHPRQmGa1tQ8i6YN5ShFSpUQuQJnT",
-   0.075,
-   3.3,
+   "STEVE",
+   "C61zMGR1awYCzpWuxtMn1VX9SVZK6oz7HKLZJrdciMTA",
+   0.079,
+   2.6,
+   ""
+  ],
+  [
+   "BIO/ACC",
+   "ACPUGXGn4jZggo16nRSJyv3Fw9xcN9X5oAhoykCwpump",
+   0.078,
+   2.4,
+   "buyers=3; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "STEVE",
+   "9YZi6cS2NVGRu9fg9D3DnCxnV18tj7qLmGBtFsiFpump",
+   0.072,
+   2.4,
+   ""
+  ],
+  [
+   "STEVE",
+   "Az6r1ugoxdZvbBNWnhpyG8SnMFUH9VdKH3Dt3cjDpump",
+   0.064,
+   3.0,
    ""
   ],
   [
    "SIA",
    "7HRgqgQ1tAvv52fViL47K94CymwyuaZzdHNy52Ebpump",
    0.061,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "SIA",
+   "GfhQUX2KV1WasPUS7gCsyPjENWoBcKabpD2STG4Kpump",
+   0.06,
+   4.1,
+   ""
+  ],
+  [
+   "SIA",
+   "8yqA1FdxdBxTSuMUt5tG2nv1PsBHWBVL5tkzwVXQpump",
+   0.058,
+   4.1,
    ""
   ]
  ]
