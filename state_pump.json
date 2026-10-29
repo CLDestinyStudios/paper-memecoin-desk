@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.6053467263317068e-07,
-   "peak_px": 1.6053467263317068e-07,
-   "last_val": 1.1530955205508258,
-   "last_prog": 0.788,
+   "last_px": 1.985791019718506e-07,
+   "peak_px": 1.985791019718506e-07,
+   "last_val": 1.4390354754754429,
+   "last_prog": 0.845,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5362,81 +5362,85 @@
   [
    "2026-10-29T05:05:22",
    58.91
+  ],
+  [
+   "2026-10-29T05:06:22",
+   59.19
   ]
  ],
- "cycles": 1592,
+ "cycles": 1593,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.05,
- "watching": 184,
+ "sol_usd": 100.10892321800002,
+ "watching": 197,
  "near": [
   [
    "dessa",
    "589aEJDgSk7MzqDfLTMsqTnaUYuQig7dp8GB4mSipump",
-   0.539,
-   4.8,
+   0.506,
+   5.8,
    ""
   ],
   [
    "CLAPCAT",
    "6qCL9XktXUdbf1TfJdyaBZxuXwhrA3zTFFnVC7oTpump",
    0.297,
-   8.6,
+   9.6,
    "top5_hold_most=89%"
   ],
   [
    "MUSIC",
    "3UYdnRHXJnSg5U1AprsVDGq1iDgNEF5onkkGyCompump",
    0.154,
-   6.0,
+   7.0,
    "buyers=7; top5_hold_most=96%"
+  ],
+  [
+   "Antoine",
+   "6g1c44VaHiiQxiXjcREay1FtWVd7epE1T5SY3nNAuocC",
+   0.085,
+   2.7,
+   ""
+  ],
+  [
+   "CATBOT",
+   "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
+   0.079,
+   2.7,
+   "buyers=7; top5_hold_most=97%"
+  ],
+  [
+   "Niggerfish",
+   "CcnfnAmFABCeyfkXQYuDEH5sz9Jh3jZimUpyvw2Npump",
+   0.074,
+   2.1,
+   ""
+  ],
+  [
+   "Niggerfish",
+   "5kSbGZi86DtzTPWCqL2XFYKzZrsnLATUnTCCDfegpump",
+   0.073,
+   2.7,
+   ""
+  ],
+  [
+   "Hyper dog",
+   "8PF792q8Dzu2utjiGmczVZskrnLuzkWuxRn7UomCpump",
+   0.073,
+   3.6,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Niggerfish",
    "BnrjGVGU3UcxZKFzVoQsBCxZa1sHFmD7H4enmyvp3cyj",
    0.07,
-   2.4,
+   3.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Hyper dog",
-   "8PF792q8Dzu2utjiGmczVZskrnLuzkWuxRn7UomCpump",
-   0.069,
-   2.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Niggerfish",
-   "9QgMtbg1uMbaJiqkHXTJ7SSgErJrSjNqSYUrNmyNpump",
+   "STOCKE",
+   "9Jg4x9PQ3U4NEovLFDfepFVSpnW2UNgFN6Dat6sUpump",
    0.064,
-   2.5,
-   ""
-  ],
-  [
-   "HDGE",
-   "7Z8eUNZZ7yjmwdBG5hcPDScNyRHj7gyBSZ7oC8GWpump",
-   0.04,
-   6.7,
-   ""
-  ],
-  [
-   "dessa",
-   "9EYYwGHtxrPa3JdUzkc7pAbjD8gSA8Yba4FMDtBxLwYg",
-   0.036,
-   4.3,
-   ""
-  ],
-  [
-   "dessa",
-   "4ejg4PHM7zSp1iLKpcUHxLiegFBk9opMFs8p5pJnpump",
-   0.031,
-   4.3,
-   ""
-  ],
-  [
-   "dessa",
-   "9HqmwKfM8NKHVaCQCmJ9UQCAxNFoSxbS8pv5bWatmNNV",
-   0.027,
-   3.8,
+   2.9,
    ""
   ]
  ]
