@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 75.03122621297574,
+ "cash": 75.8567254788902,
  "positions": {
   "EdL5zccqwoepD3g5xf6kqQmZjhYzsywjpPG3g4pXN8WZ": {
    "sym": "Fridgecoin",
@@ -13,10 +13,10 @@
    "entry_px": 4.199753585286485e-08,
    "entry_fill": 4.52478528958781e-08,
    "opened": 1793256544.5065336,
-   "last_px": 1.3421563196168e-07,
+   "last_px": 1.263674637046951e-07,
    "peak_px": 1.3421563196168e-07,
-   "last_val": 3.406462718937316,
-   "last_prog": 0.735,
+   "last_val": 3.2065554152401177,
+   "last_prog": 0.717,
    "tp1_done": true,
    "realized": 0.5840184320710229
   },
@@ -29,24 +29,10 @@
    "entry_px": 3.769015018412942e-08,
    "entry_fill": 4.060080966463972e-08,
    "opened": 1793257507.1505694,
-   "last_px": 4.080370629633747e-08,
-   "peak_px": 4.080370629633747e-08,
-   "last_val": 2.3144976345453467,
-   "last_prog": 0.233
-  },
-  "GG1B9VS1kt9Bk58HPDeG1dTdCeLx4fk9PMiVQBQypump": {
-   "sym": "Windup",
-   "bc": "CggeXHC7zbS4efwdu43wGswqKaLH1orbQhPjd3XNWe2o",
-   "tokens": 324367.1887738037,
-   "cost": 2.5,
-   "cost0": 2.5,
-   "entry_px": 7.171671727388941e-08,
-   "entry_fill": 7.723018072940588e-08,
-   "opened": 1793257626.3352382,
-   "last_px": 7.171671727388941e-08,
-   "peak_px": 7.171671727388941e-08,
-   "last_val": 2.149842319047386,
-   "last_prog": 0.508
+   "last_px": 4.089770173410921e-08,
+   "peak_px": 4.089770173410921e-08,
+   "last_val": 2.3214970539814637,
+   "last_prog": 0.234
   }
  },
  "traded": [
@@ -4495,81 +4481,85 @@
   [
    "2026-10-29T00:07:06",
    82.9
+  ],
+  [
+   "2026-10-29T00:08:06",
+   81.38
   ]
  ],
- "cycles": 1294,
+ "cycles": 1295,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7966678353,
- "watching": 105,
+ "sol_usd": 99.86354517550001,
+ "watching": 108,
  "near": [
   [
-   "Windup",
-   "GG1B9VS1kt9Bk58HPDeG1dTdCeLx4fk9PMiVQBQypump",
-   0.508,
-   5.4,
-   "bought"
+   "VC",
+   "54BZCznn4FfERwno1g4fJjiaBiFxmSXRQZSsmLxEpump",
+   0.562,
+   3.0,
+   ""
+  ],
+  [
+   "bingus",
+   "6jzcLmTR7XvQinzuRYA26RGXC4TGkH9fNpjSyQywpump",
+   0.509,
+   2.8,
+   ""
   ],
   [
    "nio ",
    "Dp6TCoTKoj2FxETpz4awYF2Apv4DMXzd9xAi3Qzdpump",
-   0.098,
-   2.3,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Floki",
-   "8ceoX7RdoSAy8hxgepaz688Y9YS8k9k4qhaR4QU6pump",
-   0.081,
-   4.1,
-   ""
+   0.086,
+   3.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "TRUMP",
    "3wxam1vSEix92c3nv5w2WmwAkxERwmWD9zQ74PpHpump",
-   0.08,
-   3.5,
+   0.081,
+   4.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "YOLO",
    "E6yjcvYcvTQLMEua2spUbmjhPCijWJhsDBSpNKsMGpXP",
    0.077,
-   7.0,
+   8.0,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "GENIUS ",
-   "2PMeE7xEtsLvjTsLRW38zLHEnUkSk23gooEWfJSupump",
-   0.051,
-   5.9,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "RAIL",
    "673UnVhr9RzhWHn2ezjEhZXC8eUBAmizM7cjRbaVpump",
-   0.047,
-   2.8,
+   0.059,
+   3.8,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "House",
+   "38DHtTw3h6ZPWUynsgYo4JGaARuEP9xac7wyewkxpump",
+   0.045,
+   2.1,
    ""
   ],
   [
    "MARS",
    "FpA2jEsXRTUbbNhNoH9LvWeqUBzgZUxinoCpU2P2pump",
    0.034,
-   2.2,
+   3.2,
    ""
   ],
   [
    "e/acc",
    "VHaXCUX7JfCQmdt9v9SPRg5Q2JmiJWmFfkj5dFApump",
    0.024,
-   7.9,
+   8.9,
    ""
   ],
   [
-   "block",
-   "G8EU5mCPrCpD4ffsTbm4gbFQ7p8m9gLZp8fKcSQdpump",
-   0.022,
-   6.1,
+   "MADMAXCAT",
+   "6KS24zVmYqMBcaVVajin1YbzwCM7EpNWPeBx3KhGpump",
+   0.023,
+   3.8,
    ""
   ]
  ]
