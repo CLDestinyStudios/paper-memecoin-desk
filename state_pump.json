@@ -6414,83 +6414,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:49:00",
+   "2026-10-29T12:50:00",
    32.58
   ]
  ],
- "cycles": 2055,
+ "cycles": 2056,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.99,
- "watching": 240,
+ "sol_usd": 100.0165569405,
+ "watching": 258,
  "near": [
   [
-   "MLC",
-   "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
-   0.725,
-   4.2,
+   "PATRICK",
+   "6JgGMDa53uLf6QuM5EFEJrsjqnJFm1uxByLVtWufpump",
+   0.811,
+   2.7,
    ""
   ],
   [
-   "PATRICK",
-   "6cyooEqD6hodkCrHBcRvTkgkDDjSKShJ9HckdFCspump",
-   0.378,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
+   "MLC",
+   "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
+   0.776,
+   5.2,
+   ""
   ],
   [
    "PS5",
    "7FAvsmF6osVimxRGyrJMrgfA5mbEh7y8HLkSM1mqpump",
-   0.316,
-   6.9,
+   0.241,
+   7.9,
    "buyers=7; top5_hold_most=88%"
   ],
   [
    "TFL",
    "bVboGcrpwdd7aFJnvXS459z9hX27SXCcpnTjaUvpump",
-   0.113,
-   3.0,
-   ""
+   0.117,
+   4.0,
+   "buyers=7; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "ODYSSEE",
    "BuDqBg6wSNM2D6P6FjWt5uASZErk9oCwqj2FC9yTpump",
    0.086,
-   7.9,
+   8.9,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "MLC",
    "6F1fF9aGFf223YeRJSUJHsQgiXfkAW3wxzV2gcr8pump",
    0.081,
-   3.4,
+   4.4,
    ""
   ],
   [
    "MORE",
    "BY88mjVqg6i6i4XS84Tby1HXhzHpP1pVwV5ShStMpump",
-   0.075,
-   6.7,
+   0.074,
+   7.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "MORE",
    "4qUTjgsYgx1hCAbwYWLCjjHKWn8BkQbTPUj1Gu5d7MCg",
    0.072,
-   3.4,
+   4.4,
    ""
   ],
   [
-   "ARAIL",
-   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
-   0.054,
-   8.5,
-   "buyers=9; top5_hold_most=90%"
+   "PATRICK",
+   "4vi7hQ64PcJgfuHWYQNY7QMtCw38hESeawcT5FBSpump",
+   0.064,
+   2.8,
+   ""
   ],
   [
-   "COLUM",
-   "F7dC9rzCMs1QzFEBmwN5pvacsLey6ZxBb2pQVN93pump",
-   0.044,
-   5.0,
+   "PATRICK",
+   "E5672ZPKxE7LA1WLdqtGbUH7odhHvdWqRwTGVdxJpump",
+   0.064,
+   2.7,
    ""
   ]
  ]
