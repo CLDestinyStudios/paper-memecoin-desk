@@ -6442,84 +6442,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:52:06",
+   "2026-10-29T13:53:03",
    32.58
   ]
  ],
- "cycles": 2118,
+ "cycles": 2119,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.9240970917,
- "watching": 296,
+ "sol_usd": 96.48999999999998,
+ "watching": 293,
  "near": [
   [
    "Shadow",
    "Eb4SxWgieZGqSW12pNpxJQinV5w5nfUeWG8mgEmCpump",
-   0.844,
-   3.9,
+   0.906,
+   4.9,
    ""
+  ],
+  [
+   "OREN",
+   "CQwTUCSNWmpWUZ1CmWHt2qZg3gPUxRntMXBLVUVQQUSf",
+   0.612,
+   2.4,
+   "buyers=2; creator=48.4%; top10=48.5%; top5_hold_most=100%"
   ],
   [
    "POLY",
    "G1VdeURiEkRJsZgWMEHXdUXseNGnvJLrE6RHQy2dpump",
-   0.274,
-   3.9,
+   0.275,
+   4.8,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "XLG",
+   "GrYt738hsaLLNeixh5zNWbxm9pg5DUmsTeC1HwGtpump",
+   0.247,
+   2.6,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "AKASHA",
+   "7uKxeyBZce83KcYz4orVR8BCTZjUqKMMiTcSphZRpump",
+   0.239,
+   5.0,
+   "buyers=8; top5_hold_most=94%"
   ],
   [
    "VIKO",
    "6RtzFwnJq9XddYioHiZS34C6N4mQ4ooBS896NshDpump",
-   0.223,
-   6.5,
+   0.221,
+   7.4,
    "top5_hold_most=92%"
   ],
   [
    "ape",
    "FsnYGV3H72kD2A4eipFu9mqytjHYmZ7bSeSXrNjopump",
-   0.18,
-   3.3,
+   0.179,
+   4.2,
    ""
   ],
   [
-   "AKASHA",
-   "7uKxeyBZce83KcYz4orVR8BCTZjUqKMMiTcSphZRpump",
-   0.119,
-   4.0,
-   "buyers=8; top5_hold_most=94%"
+   "\u5173\u706f\u5403\u9762",
+   "2inVeJr4jA6vco73eDBRQDyUXSmPHjgV6QPaJyuTpump",
+   0.101,
+   2.1,
+   ""
   ],
   [
    "REDTOBER",
    "G4qfj6ecSA3ycXtsXQZr31YmdywNtFdTwT8nhJx1pump",
    0.1,
-   3.4,
+   4.3,
    ""
-  ],
-  [
-   "CEZE",
-   "EnjeJA36ShykxraV47eHPhLyT1nR9PVUmRFJzD7Npump",
-   0.1,
-   2.3,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "10/29",
    "CS5CXJrFTxH5unadA7wden3Z5hTnYcyCdBrFzjg6pump",
    0.099,
-   8.6,
+   9.6,
    ""
-  ],
-  [
-   "SOL",
-   "795B5jNai4Z6kH3TPXg47QmDAc5obuGfwBMiXiXFpump",
-   0.091,
-   2.5,
-   ""
-  ],
-  [
-   "2.0",
-   "7bXmF9JRgnF4LJ6PF1thurs16JWtMPppQi6Ukbt8pump",
-   0.084,
-   2.8,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
