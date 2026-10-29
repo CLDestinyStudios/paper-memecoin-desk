@@ -2,9 +2,7 @@
  "bank_start": 500.0,
  "cash": 504.6152341640085,
  "positions": {},
- "watch": {
-  "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1793303642.7804027
- },
+ "watch": {},
  "traded": [
   "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -1525,7 +1523,11 @@
   [
    "2026-10-29T12:54:02",
    504.62
+  ],
+  [
+   "2026-10-29T12:55:00",
+   504.62
   ]
  ],
- "cycles": 2117
+ "cycles": 2118
 }
