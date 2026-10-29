@@ -6378,83 +6378,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:23:56",
+   "2026-10-29T11:24:54",
    32.58
   ]
  ],
- "cycles": 1970,
+ "cycles": 1971,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.884349321,
+ "sol_usd": 100.82,
  "watching": 357,
  "near": [
   [
    "Zoogie",
    "FcRUMWBxUS7baQGMcRKnLQBSSuuJiSF1NG4GANsGpump",
-   0.944,
-   2.3,
-   ""
-  ],
-  [
-   "GINGER",
-   "6HXP5Lb33ZfPAZdaevApB8LEWzJ18qURCDsbgKSLpump",
-   0.599,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "PULYMARKET",
-   "32jHLeLqnH6PMwNdFpEoSbZN7KbFqZsf6e5DHWsRMWo7",
-   0.441,
-   7.2,
-   "serial_creator=95 launches/24h"
-  ],
-  [
-   "ECX",
-   "ECX45Db6hBotshNo1qn7rHyH7XjzNvgEYWnA7n77KMJP",
-   0.334,
-   2.6,
-   ""
+   1.0,
+   3.2,
+   "graduated"
   ],
   [
    "QGN",
    "9supVPJuy1Y5Jk3ZZmPfxvdHrpRsY67u7TNj7h5zB4EJ",
    0.326,
-   4.5,
+   5.4,
    ""
   ],
   [
-   "Hypurr",
-   "8TZDdyr7h4UQ49G3eWKMPmEWgbX8LavHWdwRaPBMpump",
-   0.164,
-   2.7,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "ECX",
+   "ECX45Db6hBotshNo1qn7rHyH7XjzNvgEYWnA7n77KMJP",
+   0.207,
+   3.6,
+   ""
+  ],
+  [
+   "UIO",
+   "7fQzH4Z26Y3Hm5pzLyehrq1Yk1xhh7nva9MTAcRQpump",
+   0.11,
+   2.3,
+   ""
+  ],
+  [
+   "pulymerket",
+   "2gnrz6grybjP3vCo6mZAwHrMGLpfLwkjs1WRQTHypump",
+   0.104,
+   2.5,
+   ""
+  ],
+  [
+   "MC",
+   "5pULT56oN8qWVpWhWV7zg77z9VUHb7daz2n6ArNFpump",
+   0.07,
+   3.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BISON",
    "5Y8Tut1HduRs4HfxQB5Go66ZVsM3L2kL6bCKKufhpump",
    0.066,
-   8.1,
+   9.1,
    ""
-  ],
-  [
-   "Unrug",
-   "5sdkpcMBgZRWfyuWW7Ld2Dh56XCYRBr4LxkWhwkApump",
-   0.062,
-   9.4,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "JEFF",
    "HPk9B46DMLWDhaBk6p43v7bF1E4b3Lyfo4RhAyy1pump",
    0.044,
-   2.6,
+   3.5,
    ""
   ],
   [
    "chill",
    "EVtK3nJBwCMZeNqNAR1dbsUyv8tJZEbjwVuQYnrmpump",
-   0.038,
-   8.6,
+   0.028,
+   9.6,
+   ""
+  ],
+  [
+   "Percy",
+   "HuLp6TnVcQvTvQx1zHhr4saRoq2ZnVb243NCtCthpump",
+   0.025,
+   2.7,
    ""
   ]
  ]
