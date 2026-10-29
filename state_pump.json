@@ -6436,82 +6436,86 @@
   [
    "2026-10-29T13:38:01",
    32.58
+  ],
+  [
+   "2026-10-29T13:39:00",
+   32.58
   ]
  ],
- "cycles": 2104,
+ "cycles": 2105,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.4905431671,
- "watching": 365,
+ "sol_usd": 98.5538845341,
+ "watching": 363,
  "near": [
+  [
+   "4",
+   "5EwCSS2Q13GutpGzSwFySRF4iFvMwHYjnYHC9oZTpump",
+   1.0,
+   2.7,
+   "graduated"
+  ],
+  [
+   "Unsafu",
+   "GcPRpq23wyvtDxzxeA1hfFQN7G3FA5KqK2rU5zqcpump",
+   0.657,
+   2.8,
+   ""
+  ],
   [
    "Surgeon",
    "5VWd2CTKSnvzyZkLKmaJsuB9rX2ZR1haePgzDKXcpump",
-   0.581,
-   5.0,
+   0.57,
+   5.9,
    ""
   ],
   [
    "NOCTO",
    "2WpzJcqjhxyNuXF5Pb5z1N6q5t3tEpZTteX1METuEVkC",
-   0.418,
-   4.1,
+   0.353,
+   5.1,
    ""
-  ],
-  [
-   "BYENANCE",
-   "5bbJHtxtSVm8P3hPVFt9wuetfXHLnM8Re3ewFsEZpump",
-   0.225,
-   2.1,
-   "serial_creator=16 launches/24h"
   ],
   [
    "AlArab",
    "5nneAWLVDnHHvnDQvEEdnVQKDf1CKdo8b8f9ht2jpump",
-   0.217,
-   3.2,
+   0.19,
+   4.2,
    "top5_hold_most=84%"
-  ],
-  [
-   "$TRENCHMAS",
-   "HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump",
-   0.165,
-   7.8,
-   ""
   ],
   [
    "HP",
    "DEgJZDpWfaDjwVXHr8kiGeHs6C7hnH2YAwfkqAZ2pump",
    0.162,
-   6.0,
+   7.0,
    ""
   ],
   [
    "DK",
    "3em12Qpg4SaY5Yqj1vixpeVusrRboJCk2sKStUxspump",
    0.159,
-   5.1,
+   6.1,
    "buyers=9; top5_hold_most=81%"
   ],
   [
    "BUNANCE",
    "4iNPyYAnJuAgdT3bpuaAfh67kBCGDzuL77DmLziXpump",
-   0.15,
-   4.1,
+   0.152,
+   5.1,
    ""
   ],
   [
    "OZVAG",
    "2TN65HobeBDdk9M4dZddSmmEoQ9AahEryAis2en437cu",
    0.15,
-   8.3,
+   9.3,
    ""
   ],
   [
-   "Invest",
-   "GzRwdjt2EKm5Td5QNtwcqqSvUxtJmQ8CKEKkibyDpump",
-   0.131,
-   4.2,
-   ""
+   "$TRENCHMAS",
+   "HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump",
+   0.143,
+   8.8,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
