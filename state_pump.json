@@ -13,10 +13,10 @@
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 6.70189383326815e-08,
-   "peak_px": 6.70189383326815e-08,
-   "last_val": 2.4799618586351295,
-   "last_prog": 0.479,
+   "last_px": 6.724698520042098e-08,
+   "peak_px": 6.724698520042098e-08,
+   "last_val": 2.4866097110339447,
+   "last_prog": 0.481,
    "tp1_done": true,
    "realized": 0.5013267413787641
   }
@@ -3573,81 +3573,85 @@
   [
    "2026-10-28T18:25:50",
    114.6
+  ],
+  [
+   "2026-10-28T18:26:49",
+   114.61
   ]
  ],
- "cycles": 953,
+ "cycles": 954,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.52,
- "watching": 236,
+ "sol_usd": 101.44,
+ "watching": 230,
  "near": [
   [
    "michael",
    "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
    0.896,
-   5.7,
+   6.7,
    ""
+  ],
+  [
+   "GENIUS",
+   "9if2y2zhACYV8q99Evi8rtbCahedonxAVKW67gBSpump",
+   0.211,
+   2.9,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "TIMMY",
    "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
    0.151,
-   4.4,
+   5.3,
    ""
   ],
   [
-   "SQUADS",
-   "HuBoWBTmj5Jm6NVUc7JVaLrKNmpCCGmCVTQMiWHrpump",
-   0.132,
-   2.2,
-   ""
-  ],
-  [
-   "FLIP",
-   "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
-   0.125,
-   7.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Milly",
-   "7wzabVCAF2ucEVgDnBbP8LLh5nUYBDSUFz3vbsWjpump",
-   0.071,
-   2.2,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "YUGE",
-   "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
-   0.044,
-   7.6,
+   "Quary",
+   "Dvcdwuo4f7zFfVNupmSjFbmw6JHEmQmeEnm3rsdLpump",
+   0.04,
+   2.4,
    ""
   ],
   [
    "Walkoor",
    "781s7EMGQ84DJ2EmkgC7RbSK8dJKC2jX1V4YRhLzpump",
    0.028,
-   4.8,
+   5.8,
    ""
-  ],
-  [
-   "POKE",
-   "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
-   0.028,
-   7.0,
-   "top5_hold_most=90%"
   ],
   [
    "WOFL",
    "32KgYocqNQruLgoLRoLSAXsCrQhkCxpYkjJLinESpump",
    0.027,
-   3.7,
+   4.6,
    ""
   ],
   [
    "PROLAPSE",
    "7RFiXZtvMisBCajLrFfhVsfNCcshNffYA8rjAEf3pump",
    0.027,
-   3.1,
+   4.1,
+   ""
+  ],
+  [
+   "PVE",
+   "8iD9QfJifGdWkbqhYwBs8c27JactJUb8NGo3Pidkpump",
+   0.025,
+   9.2,
+   ""
+  ],
+  [
+   "NASDANQ",
+   "7Sv268RbDNnWoHqeJ71vuoEYhw4c57Lyi9fvg7sepump",
+   0.024,
+   2.8,
+   ""
+  ],
+  [
+   "BACKED",
+   "3eFWFPwVCUPaheJ9FRNhsdhNdXpgdSEULrgU1xR7DARf",
+   0.02,
+   8.2,
    ""
   ]
  ]
