@@ -6376,81 +6376,85 @@
   [
    "2026-10-29T11:20:57",
    32.58
+  ],
+  [
+   "2026-10-29T11:21:58",
+   32.58
   ]
  ],
- "cycles": 1967,
+ "cycles": 1968,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.9551638330293,
- "watching": 369,
+ "sol_usd": 101.053714958,
+ "watching": 359,
  "near": [
+  [
+   "DUNUSSY",
+   "8MAc1qKffJFrydak7MeJxVkjNaqD8JxmkCnwvAPwpump",
+   0.807,
+   2.7,
+   ""
+  ],
   [
    "ANAKIN",
    "BE52ktkCRYejptU2gh3K1kDrCS2XHmmwNZ39axttpump",
-   0.339,
-   7.4,
+   0.557,
+   8.4,
    "top5_hold_most=81%"
+  ],
+  [
+   "QGN",
+   "9supVPJuy1Y5Jk3ZZmPfxvdHrpRsY67u7TNj7h5zB4EJ",
+   0.313,
+   2.5,
+   ""
   ],
   [
    "Anakin",
    "6zAg9L5bdeR17YwBNkjCQRHUc75MAvKQcjHZi5grpump",
    0.148,
-   8.6,
+   9.6,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PULYMARKET",
+   "32jHLeLqnH6PMwNdFpEoSbZN7KbFqZsf6e5DHWsRMWo7",
+   0.144,
+   5.2,
    ""
   ],
   [
    "JTO",
    "6w6fwBDM92k64WEvTJ4LCKzKBqJo8VUSTsRYUfZypump",
-   0.113,
-   7.6,
+   0.094,
+   8.6,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "BISON",
-   "5Y8Tut1HduRs4HfxQB5Go66ZVsM3L2kL6bCKKufhpump",
-   0.078,
-   5.1,
-   ""
   ],
   [
    "DUNUSSY",
    "EZDGy3o6bUT37rCBxGgdQybgykvNhj2j1rY8wy7bpump",
    0.073,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "Ruggymarket",
-   "5cwrxi26o6GMtJJSXvy63QerYWVjQE1gq6NTYkGhpump",
-   0.064,
-   3.1,
+   "BISON",
+   "5Y8Tut1HduRs4HfxQB5Go66ZVsM3L2kL6bCKKufhpump",
+   0.072,
+   6.1,
    ""
   ],
   [
    "Unrug",
    "5sdkpcMBgZRWfyuWW7Ld2Dh56XCYRBr4LxkWhwkApump",
    0.061,
-   6.4,
+   7.4,
    "buyers=6; top5_hold_most=99%"
   ],
   [
-   "SHEEPLE",
-   "A8tmCoKwoqXz1iT1HmFeYiJP6Qekj1Eib13cpAp2pump",
-   0.046,
+   "Percy",
+   "Bvy5H51KPxbjWjHLkGRZG6FGPqfCVwuhLoqkVsc7pump",
+   0.043,
    4.0,
-   ""
-  ],
-  [
-   "HYPERCASH",
-   "8SGyTx3F1YvA8aqSEq35vtzTgSr2wwPyoszL75ewpump",
-   0.039,
-   3.5,
-   ""
-  ],
-  [
-   "chill",
-   "EVtK3nJBwCMZeNqNAR1dbsUyv8tJZEbjwVuQYnrmpump",
-   0.038,
-   5.6,
    ""
   ]
  ]
