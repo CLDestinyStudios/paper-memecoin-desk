@@ -1,22 +1,8 @@
 {
  "bank_start": 500.0,
- "cash": 467.4157880478527,
- "positions": {
-  "GJKnJsRiM5ATS4yhwjYRegT3iRsXUvcW1dafJPh8pump": {
-   "sym": "AgenC",
-   "qty": 180411.68481878942,
-   "entry": 0.000225318,
-   "mark_entry": 0.0002209,
-   "cost": 40.65,
-   "peak": 0.0002209,
-   "last": 0.0002209,
-   "opened": 1793301954.5697055,
-   "p_buy": 0.73
-  }
- },
- "watch": {
-  "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump": 1793301954.1568167
- },
+ "cash": 504.6152341640085,
+ "positions": {},
+ "watch": {},
  "traded": [
   "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -1521,7 +1507,11 @@
   [
    "2026-10-29T12:25:54",
    506.47
+  ],
+  [
+   "2026-10-29T12:26:54",
+   504.62
   ]
  ],
- "cycles": 2089
+ "cycles": 2090
 }
