@@ -6346,84 +6346,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:06:00",
+   "2026-10-29T10:06:57",
    32.58
   ]
  ],
- "cycles": 1892,
+ "cycles": 1893,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.57191842199998,
- "watching": 273,
+ "sol_usd": 101.573463805,
+ "watching": 271,
  "near": [
   [
-   "XRPS",
-   "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
-   0.742,
-   3.8,
-   "top10=58.9%; top5_hold_most=94%"
-  ],
-  [
-   "THK",
-   "2K9o2b9hKrJm1JWnoD84ryKCAWgHQTr4p6xruEoTpump",
-   0.55,
-   10.0,
-   "top5_hold_most=84%"
+   "long",
+   "7JxfCxFrgraC7FVECJHBxJUvJofkXj7bY8HPtxTapump",
+   1.0,
+   2.3,
+   "graduated"
   ],
   [
    "COLUM",
    "3SFK79ZtgiCZrz1jf3hnzMJDQyaYPZY6eic8TBdtpump",
-   0.452,
-   3.4,
+   0.879,
+   4.4,
    ""
+  ],
+  [
+   "XRPS",
+   "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
+   0.742,
+   4.8,
+   "top10=58.9%; top5_hold_most=94%"
+  ],
+  [
+   "JRE",
+   "GQEsoVKQDZMHgEi7e9JSpWPrhjwRmkJMm8mHsw78cqDd",
+   0.602,
+   3.0,
+   "serial_creator=69 launches/24h"
   ],
   [
    "UPKEEP",
    "vCqK7sVh868rpPF3E3LJZ7iH2ofXVoBqJ95nMmcGxrd",
    0.34,
-   7.7,
+   8.6,
    ""
   ],
   [
    "COLUM",
    "E6CLWayZ8zdjfmKzMNGrx9B1XKmXVYUqsjtwXyPYpump",
-   0.3,
-   3.7,
+   0.272,
+   4.6,
    ""
   ],
   [
-   "JRECOIN",
-   "EU4M7Q5DK9FU1UwXksNnfo3ziYQrgNq6Sz9UFp5opump",
-   0.238,
-   2.5,
-   "bundled_launch=5 extra buys in creation block"
+   "MIND",
+   "9d1UbcQvHn3KXriWd74x489zo7bhvsjxKqLnTpyhpump",
+   0.241,
+   2.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "REPPURN",
-   "FAWPCpVp2UHiudjetBm9ps4HLT2yFEvKrFCvb2M4pump",
-   0.233,
-   4.7,
-   "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "COLUM",
-   "5FiJ71WJ4jCh6paJwxcgt4PAmJVF3sqdNyB7BTyLpump",
-   0.162,
-   2.6,
+   "FRAZZ",
+   "5zSsSusnef57GSBv7hNzBzoVs7xYUZMF9NREFKeepump",
+   0.108,
+   7.1,
    ""
   ],
   [
-   "Colum",
-   "5Y24urDxqUjXRFNfhwqP5A5Snb7d8muk45mJRWLhpump",
-   0.119,
-   3.5,
-   ""
+   "GLASS",
+   "Fj8pfWiQFP8aVYMCXt26KCv5NESFGq4WhVsQCymNpump",
+   0.107,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "colum",
-   "CDLizMRdTCofwuJnu5R3zu5yeg5JvWtjvKuse3xckJEJ",
-   0.11,
-   3.6,
-   ""
+   "CHONK",
+   "FMiKp2ahkemDGhEVq1F88jTESz22yAk7s3pfgEwqpump",
+   0.103,
+   4.3,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
