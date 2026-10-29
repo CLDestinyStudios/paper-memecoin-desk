@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.900593359440716e-07,
+   "last_px": 1.8652731693317048e-07,
    "peak_px": 1.900593359440716e-07,
-   "last_val": 1.433602251515865,
-   "last_prog": 0.834,
+   "last_val": 1.4061126315202606,
+   "last_prog": 0.829,
    "tp1_done": true,
    "realized": 0.5536022515158651
   }
@@ -5254,81 +5254,85 @@
   [
    "2026-10-29T04:37:21",
    59.82
-  ]
- ],
- "cycles": 1564,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.33744980649999,
- "watching": 176,
- "near": [
-  [
-   "loan",
-   "H6Fi4dCUH3gdrCNFmMKKng8XjK6i4c7EP3qd6qXJpump",
-   0.715,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "MLAUNC",
-   "45XF2dTN5YsptsahLtqrQHwH4ErduLSJkJznJh1qpump",
-   0.082,
-   3.5,
-   "buyers=8; top5_hold_most=97%"
+   "2026-10-29T04:38:21",
+   59.79
+  ]
+ ],
+ "cycles": 1565,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.343282071,
+ "watching": 181,
+ "near": [
+  [
+   "BAGZ",
+   "2S6JzS4BX6oq4qb5Jo8qvWiXmfQ7794dC8dLr8Fypump",
+   0.151,
+   2.7,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "Inflation",
    "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
    0.071,
-   3.4,
-   ""
-  ],
-  [
-   "Gulag",
-   "9xoRknZ4ttNVWJM7yFmxkKrvxwQoq8FmKZKycGYfwDmV",
-   0.064,
-   3.4,
+   4.4,
    ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   5.2,
+   6.2,
    ""
   ],
   [
    "Tucker",
    "J5t2YxemwNnioQT2Qi7mgxSuRzNt5s7MQ2Q6QafEpump",
    0.031,
-   3.8,
+   4.8,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
    0.03,
-   8.3,
+   9.3,
    ""
+  ],
+  [
+   "MLAUNC",
+   "45XF2dTN5YsptsahLtqrQHwH4ErduLSJkJznJh1qpump",
+   0.023,
+   4.5,
+   "buyers=8; top5_hold_most=97%"
   ],
   [
    "LARP",
    "3G5FrUsdNFHpY8n4GE98rPHBxFEY2JW4BPJ43PqCpump",
    0.022,
-   3.5,
+   4.5,
    ""
   ],
   [
    "Tucker",
    "2nE2e6iXGDVBk8dBbMuZPtApoDLCbGgz57SFKBtbpump",
    0.022,
-   2.8,
+   3.8,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
    0.022,
-   7.7,
+   8.7,
+   ""
+  ],
+  [
+   "GTA67",
+   "9bwwEt8Y78zPWXbXhMBExMR9eobj1mYGQnZqdDgspump",
+   0.016,
+   5.4,
    ""
   ]
  ]
