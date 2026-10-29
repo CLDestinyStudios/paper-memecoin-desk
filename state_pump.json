@@ -6059,83 +6059,83 @@
    37.91
   ],
   [
-   "2026-10-29T08:19:55",
+   "2026-10-29T08:20:51",
    37.91
   ]
  ],
- "cycles": 1786,
+ "cycles": 1787,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.95000000000002,
+ "sol_usd": 102.03,
  "watching": 230,
  "near": [
   [
    "ELOOONG",
-   "BN2YrT3WUcQYzzYJnmwoXG88LwXhXTWrNjZLa2vpump",
-   0.203,
-   6.5,
-   ""
-  ],
-  [
-   "LOGAN",
-   "2r1GwSSNVHdhWbtRtag48VY5ZKBxeY1tonBeUjmNpump",
-   0.185,
-   3.0,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "ELOOONG",
    "3MWjsCc4yYJaRg3jvwrvZTFM3JfVGL6sdbdEC63Vpump",
-   0.133,
-   6.9,
+   0.14,
+   7.8,
    ""
   ],
   [
    "sol",
    "4qWTP8wpLibr2j9ryAhJirPBYJ85Hx5HC5zYwz1gpump",
    0.08,
-   3.5,
+   4.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ZOPZI",
    "DdYWxX9ahP6xUjZJNxAwnBeE2YUGyy5X2aATpmzPpump",
    0.076,
-   4.7,
+   5.6,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "DRUCKENMILON",
-   "EbkNpTgjYyQMKe9vGyDA4n9kizMxR7QTQj6gqMnApump",
-   0.055,
-   9.0,
-   ""
   ],
   [
    "Chill",
    "AMRHQ4zdD8ApE4bNvwV2P6efVf7QBZz4b6396oaCGCpm",
    0.044,
-   3.5,
+   4.4,
    ""
   ],
   [
-   "ELOOONG",
-   "8a4dNo8VRt714suNdej3bjWnY1bi3R21GvGmi7Fcpump",
+   "Float",
+   "B5xuZ62fYXbrGN5FjUicc1HxZddHz2DeZtwFUNb56myu",
    0.043,
-   9.9,
+   2.1,
    ""
   ],
   [
    "ELOOONG",
    "5DV8k2qFV3XQdrf3BakPg7P1MgGNnq8zUjjuEoNapump",
    0.042,
-   5.7,
+   6.6,
    ""
   ],
   [
    "ELOOONG",
    "ED6GdVtMkjNYQKNhancdkDjGtbfowNzBpQiPRoMWZ9Jj",
    0.042,
-   7.3,
+   8.3,
+   ""
+  ],
+  [
+   "slop",
+   "28nTH7apr3Z5Avk76X9DKXh7EHhGWufKD7kqwGq3C3Cn",
+   0.039,
+   5.8,
+   ""
+  ],
+  [
+   "ELOOONG",
+   "BN2YrT3WUcQYzzYJnmwoXG88LwXhXTWrNjZLa2vpump",
+   0.036,
+   7.5,
+   ""
+  ],
+  [
+   "TEST1",
+   "GByfHb88MzTFCxCgfpFkfUgnDDoYnjHAa2SRWSgg9Z5c",
+   0.022,
+   7.1,
    ""
   ]
  ]
