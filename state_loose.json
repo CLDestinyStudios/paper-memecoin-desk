@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 316.4629911152937,
+ "cash": 337.2410055478325,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -8,8 +8,8 @@
    "entry": 0.030977400000000002,
    "mark_entry": 0.03037,
    "cost": 20.54,
-   "peak": 0.05217,
-   "last": 0.05195,
+   "peak": 0.05222,
+   "last": 0.05222,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -20,7 +20,7 @@
    "mark_entry": 0.2868,
    "cost": 24.14,
    "peak": 0.2904,
-   "last": 0.2841,
+   "last": 0.2842,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
   },
@@ -31,20 +31,9 @@
    "mark_entry": 0.001625,
    "cost": 21.89,
    "peak": 0.001674,
-   "last": 0.001633,
+   "last": 0.001604,
    "opened": 1793307841.7179182,
    "p_buy": 0.55
-  },
-  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": {
-   "sym": "HYPERCAT",
-   "qty": 132844.95954515637,
-   "entry": 0.000164628,
-   "mark_entry": 0.0001614,
-   "cost": 21.87,
-   "peak": 0.0001924,
-   "last": 0.0001913,
-   "opened": 1793308445.262273,
-   "p_buy": 0.74
   },
   "CNtdYoJq9viwsj5eogkK45Bn9HjMyGKWpU6GB2dwpump": {
    "sym": "HYPEDOG",
@@ -53,14 +42,12 @@
    "mark_entry": 0.0001684,
    "cost": 21.97,
    "peak": 0.0001772,
-   "last": 0.0001772,
+   "last": 0.000175,
    "opened": 1793308861.6048648,
    "p_buy": 0.63
   }
  },
- "watch": {
-  "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": 1793309040.8440306
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -7037,8 +7024,12 @@
   [
    "2026-10-29T14:24:00",
    441.45
+  ],
+  [
+   "2026-10-29T14:24:59",
+   436.85
   ]
  ],
- "cycles": 2170,
+ "cycles": 2171,
  "started": "2026-10-28T01:46:56"
 }

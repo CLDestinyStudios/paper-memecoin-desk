@@ -6454,83 +6454,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:24:07",
+   "2026-10-29T14:25:07",
    32.58
   ]
  ],
- "cycles": 2150,
+ "cycles": 2151,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.4130844374,
- "watching": 418,
+ "sol_usd": 97.496078624,
+ "watching": 417,
  "near": [
   [
-   "SPX6900",
-   "7zujveTdAchf6yKNzz8B5nK9yWMNKWLyQwgVS5zUpump",
-   0.747,
-   4.7,
+   "commotitty",
+   "9GEEthkyuuESdsmXTqbKpCvwyPaWNotQVYEmrhdFpump",
+   0.706,
+   2.4,
    ""
   ],
   [
-   "SOON",
-   "ae3Cq5PZo6MZvdnLGGubQkKviw9MuZBoWvXwPTapump",
-   0.664,
-   2.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "CI",
-   "42ZGuXd1K4t99n8X8fQxbiyxLG1VXLV5UMcdhDJDujxW",
-   0.655,
-   2.2,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Podium",
-   "nRpLvAPZNtHcsY5YWAxTPDXnfjtAaMfUGfVybMopump",
-   0.413,
-   2.7,
-   "bundled_launch=4 extra buys in creation block"
+   "BlackSwan",
+   "ApopBMmwXEoxbJ6Bedbe1LNyP6WVGrqrGEWURt3mpump",
+   0.265,
+   8.3,
+   ""
   ],
   [
    "ABC",
    "Dqg5cxg4EAauAhMufKEr77RqCBxmrymYH3snE1HYfhSs",
    0.253,
-   7.7,
+   8.7,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "BlackSwan",
-   "ApopBMmwXEoxbJ6Bedbe1LNyP6WVGrqrGEWURt3mpump",
-   0.252,
-   7.3,
-   ""
   ],
   [
    "UNBUNDL",
    "AM5U7Mk8JicwjWjw44D7nVzB7m33VxJ1kTEvrtZiKTs8",
    0.218,
-   4.5,
+   5.5,
    ""
   ],
   [
-   "commotitty",
-   "FB9ygac8RJ5uMPrm3mJzNSECMc3WwJWUyYLv9waHpump",
-   0.214,
-   9.8,
-   "buyers=9; top5_hold_most=99%"
-  ],
-  [
-   "FUNDED",
-   "7EmruPnjLBuxmvdCdPR7ypnJU5H2PxA1MYvunCQcGXmJ",
-   0.204,
-   3.0,
+   "SPX6900",
+   "7zujveTdAchf6yKNzz8B5nK9yWMNKWLyQwgVS5zUpump",
+   0.14,
+   5.7,
    ""
   ],
   [
    "CI",
    "ATxt8A4EhkXyn2vYWYNttbkY14nK4oomSm2H1LjKpump",
-   0.204,
+   0.112,
+   4.0,
+   ""
+  ],
+  [
+   "FUNDED",
+   "7EmruPnjLBuxmvdCdPR7ypnJU5H2PxA1MYvunCQcGXmJ",
+   0.104,
+   4.0,
+   "buyers=8; top5_hold_most=95%"
+  ],
+  [
+   "SAFU",
+   "6XsAoZ9ufTQUrSSNPiVsTccUgedwyZJpw4hATzt7pump",
+   0.104,
    3.0,
+   "buyers=8; top5_hold_most=93%"
+  ],
+  [
+   "GTA VI",
+   "3zbNrE8tr8dEm32oXp3oJdJB4BzdP4JCTsuAZ73Epump",
+   0.089,
+   8.6,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SAFE",
+   "BpF2QZakYAvvDstoeAeiFi3bmAgbp8rRpX7N8MVYpump",
+   0.053,
+   9.4,
    ""
   ]
  ]
