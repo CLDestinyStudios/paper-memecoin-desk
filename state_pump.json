@@ -4712,81 +4712,85 @@
   [
    "2026-10-29T01:56:30",
    69.82
+  ],
+  [
+   "2026-10-29T01:57:31",
+   69.82
   ]
  ],
- "cycles": 1403,
+ "cycles": 1404,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.05,
- "watching": 141,
+ "sol_usd": 100.11999999999999,
+ "watching": 143,
  "near": [
   [
-   "GTARAGE",
-   "5ntnWCtAWTBdw4GJVdf9xVk6P6NffoiPD1d2rAP1pump",
-   0.082,
-   2.6,
-   "buyers=1; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
+   "Samba",
+   "53vCabTQafbRBwRqqGtbHQeTKPZAWE4KU9KVoB1Ppump",
+   0.633,
+   3.0,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "FOMO",
+   "GJh37AAYtmVqprb2HVHMghKSwEpzokWubQXQepH5pump",
+   0.17,
+   2.4,
+   "top5_hold_most=94%"
+  ],
+  [
+   "Boochie",
+   "FEKm134peKiwXXnDT5e2dMLMN7ucyyb7GEJwSobEpump",
+   0.152,
+   2.9,
+   ""
+  ],
+  [
+   "BID",
+   "Ht6XwB6RDycLLy4SwzfAYVMY7pnXSSZs7CSmEA5apump",
+   0.09,
+   2.8,
+   "top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "AAJMAR",
    "DKQ95tn9w2ZEHih7KCrSLpxYHTMhAzo5z8P3N6Wppump",
    0.05,
-   2.3,
+   3.3,
    ""
   ],
   [
    "Messi",
    "1MSKxmsFLDDUPB4wm6XUgU7STFwrEdUviXRzGjXNnaX",
    0.036,
-   7.4,
+   8.4,
    ""
   ],
   [
-   "CRIMCHATT",
-   "7RYU1ukCwvirBeq2gE1Nd9H9yMsNWtDu13MfXRVwpump",
-   0.035,
-   4.6,
-   ""
-  ],
-  [
-   "BabyNuts",
-   "46rw8x4Eanx7Wzn5KxpZcejJLkSks8gdJCKa1FNxpump",
-   0.028,
-   2.5,
-   ""
-  ],
-  [
-   "GPM ",
-   "6763opCM3DuprLGzzScKWLoMqNDupL7nMPbfArNpump",
-   0.023,
-   4.0,
+   "LOVE",
+   "4sxpPcx4JF9eUCGkEAMZDSzR4bcAatrPsMqosJbqpump",
+   0.029,
+   3.1,
    ""
   ],
   [
    "TOWERCAT",
    "Ei2ritefJSSMmCzZSbBhDF4gitcHMfPrMZbwokqspump",
    0.022,
-   3.0,
+   4.0,
    ""
   ],
   [
    "BabyNuts",
    "8rxw82R72VzgZSrZwK5X1RvMSi5ERsgiJNuEw15xpump",
    0.02,
-   5.1,
-   ""
-  ],
-  [
-   "BabyNuts",
-   "9w1gLY7RoHoA1jzUaQQtTxYz2qtNwVnvRosg2oZypump",
-   0.019,
-   7.4,
-   ""
-  ],
-  [
-   "SKYCAT",
-   "5X9agLf9UjerFsGWaKA5GR1xv3kiKB6FxTY6popZpump",
-   0.019,
    6.1,
+   ""
+  ],
+  [
+   "GPM ",
+   "6763opCM3DuprLGzzScKWLoMqNDupL7nMPbfArNpump",
+   0.019,
+   5.0,
    ""
   ]
  ]
