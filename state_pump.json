@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 32.47995398578931,
+ "cash": 31.449953985789307,
  "positions": {
   "DDgdXmYseHsLMoGxvPv4L9cLwtJV5dUzFmY4Chwjpump": {
    "sym": "EXCHANGE",
@@ -13,10 +13,10 @@
    "entry_px": 6.02225566725056e-08,
    "entry_fill": 6.679296468840795e-08,
    "opened": 1793288454.128348,
-   "last_px": 1.26619065464028e-07,
+   "last_px": 1.2320898279287137e-07,
    "peak_px": 1.8982409721213043e-07,
-   "last_val": 0.894873341729897,
-   "last_prog": 0.717,
+   "last_val": 0.8695129948697066,
+   "last_prog": 0.708,
    "tp1_done": true,
    "realized": 0.19840459416484324
   },
@@ -29,10 +29,24 @@
    "entry_px": 7.942939907250695e-08,
    "entry_fill": 8.809236564535803e-08,
    "opened": 1793288753.6935158,
-   "last_px": 9.997531569428082e-08,
+   "last_px": 9.084066391063811e-08,
    "peak_px": 1.1172516905505777e-07,
-   "last_val": 1.08164098686467,
-   "last_prog": 0.637
+   "last_val": 0.9782704505188297,
+   "last_prog": 0.602
+  },
+  "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY": {
+   "sym": "SQUADWARS",
+   "bc": "BZ35AZbPhG8xF4SUboBJcx5oX6Fx639QYbiqyWVJPEpz",
+   "tokens": 165511.12728549956,
+   "cost": 1.03,
+   "cost0": 1.03,
+   "entry_px": 5.4623968372119834e-08,
+   "entry_fill": 6.0654108460154e-08,
+   "opened": 1793289664.213021,
+   "last_px": 5.4623968372119834e-08,
+   "peak_px": 5.4623968372119834e-08,
+   "last_val": 0.8278739633880665,
+   "last_prog": 0.385
   }
  },
  "traded": [
@@ -426,7 +440,8 @@
   "DDgdXmYseHsLMoGxvPv4L9cLwtJV5dUzFmY4Chwjpump",
   "27DeU8tj53Q7eBBsUcrz7z5mp89xjj9mXbPqV19Mpump",
   "ph38uMHEs7GLWd4FgPtBwebBK1J9taoEVPphMRApump",
-  "7wByfXDAw9K5LWzqusQJiiUL3dp4yJtkJCssmRGkpump"
+  "7wByfXDAw9K5LWzqusQJiiUL3dp4yJtkJCssmRGkpump",
+  "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY"
  ],
  "equity": [
   [
@@ -6244,81 +6259,85 @@
   [
    "2026-10-29T08:59:58",
    34.46
-  ]
- ],
- "cycles": 1826,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.58644775200001,
- "watching": 255,
- "near": [
-  [
-   "MCDOGE",
-   "Bt26XjKbqVu5bKSL9D8nxtcxaHfq5wLWr1M3WrnGpump",
-   1.0,
-   4.0,
-   "graduated"
   ],
   [
-   "META",
-   "2N9e4qdJAyG5FAqyFLKvc87ebEkKCSm7LJNmNBavpump",
-   0.184,
-   5.3,
-   "buyers=5; top5_hold_most=100%"
+   "2026-10-29T09:01:04",
+   34.13
+  ]
+ ],
+ "cycles": 1827,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.60057733,
+ "watching": 258,
+ "near": [
+  [
+   "McElon",
+   "74hGo15SYb8YcEjrtsUqdP8jaZbTuNtPRoyQ5RaKpump",
+   0.965,
+   2.7,
+   ""
+  ],
+  [
+   "SQUADWARS",
+   "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY",
+   0.385,
+   3.0,
+   "bought"
   ],
   [
    "WILPLATYPUS",
    "tCTRBXGweVUSrkYH9moK7dTgt6c1U36Qgc9Xqxapump",
-   0.159,
-   2.5,
-   "top5_hold_most=92%"
+   0.22,
+   3.6,
+   "top5_hold_most=86%"
   ],
   [
    "HUNCH",
    "CxYKRRYsisS1p2Kif3BpUY31pUR1Ta8dBSkL4vTppump",
    0.122,
-   7.2,
+   8.3,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Elon",
-   "CUkeNgjMdTJUKNGJ7UcYbi32YP7y3d6DMuqbpxwjpump",
-   0.12,
-   2.6,
-   ""
   ],
   [
    "LOUDPAD",
    "2oHnMDuTeEy6kbuvNLfxh7GKDHFRJwkNpy62DDkFpump",
    0.101,
-   4.3,
+   5.4,
    ""
-  ],
-  [
-   "LUCA",
-   "GVHteCsTLjGjMcBqdatjPVQfLiWToNLvmYLd7RKxpump",
-   0.092,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Peet",
    "8zk32WV36DpWsFKQzPZLLWtvN511iBBgCwVFcapCpump",
-   0.074,
-   3.1,
+   0.096,
+   4.2,
    ""
   ],
   [
    "hSOL",
    "9zgYJHmoPqJiCiCScPnzPYqzyRQs69Bb8yr5q6f4pump",
    0.07,
-   4.8,
+   5.9,
    ""
   ],
   [
    "b",
    "67tazfcwTjd9N6ZVVBaCbc8wWfNhfQyYnFCNsCZipump",
    0.063,
-   5.6,
+   6.7,
+   ""
+  ],
+  [
+   "Elon",
+   "CUkeNgjMdTJUKNGJ7UcYbi32YP7y3d6DMuqbpxwjpump",
+   0.062,
+   3.7,
+   ""
+  ],
+  [
+   "HOGE",
+   "EgtcURZffeAHtWsoDhVkbEge7uyAwYqags8M6J17pump",
+   0.062,
+   6.9,
    ""
   ]
  ]
