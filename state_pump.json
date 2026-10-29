@@ -15,7 +15,7 @@
    "opened": 1793267965.1255596,
    "last_px": 3.7440183593811705e-08,
    "peak_px": 1.5816565936981958e-07,
-   "last_val": 0.6742235120877534,
+   "last_val": 0.6738078726925472,
    "last_prog": 0.184,
    "tp1_done": true,
    "realized": 0.6593046300182409
@@ -29,10 +29,10 @@
    "entry_px": 3.4021715680744224e-08,
    "entry_fill": 3.6906346006639015e-08,
    "opened": 1793268145.720429,
-   "last_px": 5.9413926279660515e-08,
+   "last_px": 5.6946275910487994e-08,
    "peak_px": 5.9413926279660515e-08,
-   "last_val": 1.3590262843171184,
-   "last_prog": 0.425,
+   "last_val": 1.2997123680605638,
+   "last_prog": 0.405,
    "tp1_done": true,
    "realized": 0.4340262843171183
   }
@@ -5014,81 +5014,85 @@
   [
    "2026-10-29T03:19:22",
    61.44
+  ],
+  [
+   "2026-10-29T03:20:23",
+   61.38
   ]
  ],
- "cycles": 1486,
+ "cycles": 1487,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.02166047567653,
- "watching": 219,
+ "sol_usd": 99.96,
+ "watching": 213,
  "near": [
   [
-   "TBC",
-   "EAiRXsNwhX6mEQcJ8erQLd7uFtiRDUN9rrFBGZRK8kPY",
-   0.211,
+   "PTABR",
+   "4FUUxF4XuM8LPeLcTJY1CfwakLuJEK93KNgHBczkpump",
+   0.199,
+   2.6,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Ouroborus",
+   "55QhvrbQ5H6NJJ9zittLUjP6cYagYMY6eqZFekNrpump",
+   0.132,
    2.1,
-   "top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
+   "buyers=9; top5_hold_most=98%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "Emmyk ",
    "85EmfWN8xgwNDrdbstQPLRavjUA1dkb4hFa9FPhkpump",
-   0.125,
-   5.6,
+   0.113,
+   6.6,
    "buyers=9; top5_hold_most=96%"
   ],
   [
    "TBC",
    "7LsJBuk9qa9q2VR54ZLwQyWeFget3QiNueV5kn4kpump",
-   0.094,
-   5.2,
+   0.096,
+   6.2,
    ""
   ],
   [
    "DD",
    "5uNWEqve5mbdyokiEzooDaPx6mETWT737yuqdAsXpump",
    0.084,
-   4.8,
+   5.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "TBC",
    "6Hf9iAXLBkezzQRytPEyWvGpvr1dGrga3aUkpo1LKAUU",
-   0.066,
-   3.9,
-   "buyers=4; top5_hold_most=100%"
+   0.07,
+   4.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "TBC",
-   "FQ6kMPDMJBQBfs791aHfz7pNGULXD1ujrXYN1phqyJQD",
-   0.064,
-   2.4,
+   "BJ4NayjoE96dSJdnmSGApQRxEpJuPdae57PaL2E8pump",
+   0.051,
+   3.8,
    ""
   ],
   [
    "TBC",
    "GfWZ4cEbUrd7sRWMtqyGfK5u6sDUoezY4Y6wP7ktC8BK",
    0.047,
-   3.7,
+   4.7,
    ""
   ],
   [
    "TBC",
    "BoxtoaotnShYBz3fDtaJLMr7KqAJrEkCKNgNtKja67yE",
    0.047,
-   3.3,
+   4.3,
    ""
   ],
   [
    "WHALEPEPE",
    "GWaPMwjQLB3wXQsVwYGT8jur8EMn4X4P7zhsE7QRpump",
    0.043,
-   3.7,
-   ""
-  ],
-  [
-   "YO",
-   "Nie4w9ujbqv7QgjXVrp1bFh8ZzuVWgTX5SMjkPSK7vJ",
-   0.035,
-   4.0,
+   4.8,
    ""
   ]
  ]
