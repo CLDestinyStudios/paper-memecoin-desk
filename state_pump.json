@@ -13,10 +13,10 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 9.788342307452551e-08,
+   "last_px": 1.0024922615525694e-07,
    "peak_px": 1.011463125213647e-07,
-   "last_val": 1.0244823559506129,
-   "last_prog": 0.63,
+   "last_val": 1.0512291995834249,
+   "last_prog": 0.638,
    "tp1_done": true,
    "realized": 0.23547084605700674
   }
@@ -5590,81 +5590,85 @@
   [
    "2026-10-29T06:27:26",
    55.05
-  ]
- ],
- "cycles": 1674,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.5660106435,
- "watching": 197,
- "near": [
-  [
-   "CHLOE",
-   "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-   0.969,
-   9.4,
-   ""
   ],
   [
-   "launchpad",
-   "3FwUjzW7Cy1BXqB7ir1qCb72fufv2KbTnLxFnQ7Spump",
-   0.139,
-   3.8,
-   ""
+   "2026-10-29T06:28:22",
+   55.08
+  ]
+ ],
+ "cycles": 1675,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.64,
+ "watching": 201,
+ "near": [
+  [
+   "HYPEBULL",
+   "8CJ6PrdNs87CQoFnSAGLzscXvmwxRnbeYTZLzprxpump",
+   0.671,
+   2.7,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "PP",
    "3PXKpgh4ndaDkvS9qHTJ4d8t9dZaAfsU4LQmBxtTpump",
    0.137,
-   3.7,
+   4.7,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "launchpad",
+   "3FwUjzW7Cy1BXqB7ir1qCb72fufv2KbTnLxFnQ7Spump",
+   0.131,
+   4.7,
+   ""
+  ],
+  [
+   "PAD",
+   "4qPr3bk6vVFDtSj7295uBzd9Vimk6kNLxN8kabKrpump",
+   0.119,
+   2.4,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "STAN",
    "4K7XWvLNaV56NfSPf5KGHfJPg7GpT33FNXttkiUfpump",
    0.119,
-   2.5,
+   3.4,
    ""
   ],
   [
    "Lar",
    "AiDRfSyJJGiPFnUzdgc4siQC3MZJiEb94HCJ2JfPfn9y",
-   0.109,
-   5.9,
+   0.105,
+   6.9,
    ""
   ],
   [
    "sponk",
    "AKtAR5RVUwbeLpb9QbJaMjGjr1mQSefvwZkGYqvvwJ5g",
    0.081,
-   4.7,
-   ""
-  ],
-  [
-   "lauchinu",
-   "8fqY784qCxHVhrcaakqYt5ENeXe54JEsXwVdJ6jdpump",
-   0.074,
-   3.1,
+   5.7,
    ""
   ],
   [
    "BOOKS",
    "GMbmg9G3moYoVHakHJ6RH1WczzpmPcunp7qkRYxSpump",
    0.071,
-   3.6,
+   4.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "LAUNCHPAD",
    "L9ytmSHwxvkoaPRKt2hW1XfbE9Jn4pPuxBTWgBdpump",
    0.064,
-   6.9,
+   7.8,
    ""
   ],
   [
    "INTO",
    "2xdnBBLbkkBobT7Z6PgZkAzPiVyYvCuASSi3yQ1pME2K",
    0.064,
-   2.7,
+   3.7,
    ""
   ]
  ]
