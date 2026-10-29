@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 70.69536012389995,
- "positions": {
-  "AEQQDnUPbHh5QkCzF9XTmNwqUQ7M9q9HmH55BmGTXqEW": {
-   "sym": "Elon",
-   "bc": "9pSGf6SfYT1Qq55fd17UDHEEnUy64sosJGByRzydqBw7",
-   "tokens": 287945.00095436093,
-   "cost": 2.19,
-   "cost0": 2.19,
-   "entry_px": 7.043275421653631e-08,
-   "entry_fill": 7.606557494731993e-08,
-   "opened": 1793262263.8476713,
-   "last_px": 6.667120841263275e-08,
-   "peak_px": 8.657801451206476e-08,
-   "last_val": 1.7672364155699174,
-   "last_prog": 0.477
-  }
- },
+ "cash": 71.47185967174634,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4702,82 +4687,86 @@
   [
    "2026-10-29T01:26:21",
    72.46
+  ],
+  [
+   "2026-10-29T01:27:21",
+   71.47
   ]
  ],
- "cycles": 1373,
+ "cycles": 1374,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.89,
- "watching": 149,
+ "sol_usd": 99.89299430705,
+ "watching": 146,
  "near": [
   [
-   "$RSOCKS",
-   "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump",
-   0.207,
-   7.9,
-   "buyers=6; top5_hold_most=100%"
+   "Cockroach",
+   "3474p27hok8TAWoC7vXdMgEs4MMjVpCqxTTZhVdvpump",
+   0.407,
+   2.7,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "UPVOTE",
    "FB1BpyDvBsrZBDCtFPGiUebLxr7sECmhoBKFy9Xpump",
-   0.2,
-   3.0,
-   "top5_hold_most=91%"
+   0.228,
+   4.0,
+   "top5_hold_most=88%"
   ],
   [
-   "TRAVEL",
-   "3JyTtWhGwQ27kfQqVdizDWKgnGReLo8zYyVN2V5Npump",
-   0.088,
-   9.5,
-   "buyers=4; top5_hold_most=100%"
+   "$RSOCKS",
+   "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump",
+   0.207,
+   8.9,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Dodo",
+   "3YEEdJTj5CjJ15qKsA6ZeqZ2QAhWHNwU6UN6oudApump",
+   0.098,
+   2.5,
+   ""
   ],
   [
    "WW3",
    "9jGLidPxUJ7SxNiB7kaYn2H47K8nJ5qeiMkFYVQMpump",
    0.072,
-   2.4,
+   3.4,
    ""
-  ],
-  [
-   "GC",
-   "H2kg6wrvrgTVg6nQQLVdwF6Thbf4yVUtzAibgjNipump",
-   0.069,
-   2.9,
-   "top5_hold_most=94%"
   ],
   [
    "bob",
    "BeECJUszks6nYL8wwoFuD9UyjCiRPeq3Jh8KPmmficj",
    0.068,
-   6.7,
+   7.7,
    ""
   ],
   [
    "DOOMSDAY",
    "4bHAhMUP9jFU8AYp7QQD7PMBiG2snZegjkjaww5xpump",
-   0.041,
-   2.4,
-   ""
+   0.066,
+   3.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "GC",
+   "H2kg6wrvrgTVg6nQQLVdwF6Thbf4yVUtzAibgjNipump",
+   0.052,
+   3.9,
+   "top5_hold_most=92%"
   ],
   [
    "RIGHT ",
    "5KaJC3q7GKcRbqNYq71137fvEK6GrvhsKUxwQs8ppump",
    0.036,
-   6.1,
+   7.1,
    ""
   ],
   [
-   "Susie",
-   "CvPipD6WdM95wxwCj8w6zqW2YzssJZKeZBeshFMcpump",
-   0.024,
-   3.5,
+   "HEXKIN",
+   "Cy2NXL6UtG5jVkjRZKs2k6GvsbYHpDtgiWapFm49xL6n",
+   0.027,
+   2.4,
    ""
-  ],
-  [
-   "Run Away",
-   "3ywoqEXxqjEHQdNPwJYQ8iqv2onFcbN6ttfub8oHpump",
-   0.016,
-   4.8,
-   "buyers=7; top5_hold_most=95%"
   ]
  ]
 }
