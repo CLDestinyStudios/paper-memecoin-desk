@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 58.38540364522804,
+ "cash": 56.60540364522804,
  "positions": {
   "8CHZri4cE9hmmdPyV6mVy2Z7ujGTs5a5cinKCBQTpump": {
    "sym": "Ascend",
@@ -13,12 +13,26 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.8737870017315907e-07,
+   "last_px": 1.2675445832415185e-07,
    "peak_px": 1.9530944929636606e-07,
-   "last_val": 1.4122904337296192,
-   "last_prog": 0.83,
+   "last_val": 0.939542173721774,
+   "last_prog": 0.718,
    "tp1_done": true,
    "realized": 0.5536022515158651
+  },
+  "B535EuVDiYJpCpX98LhJdAS1RbokiFor1pfiLaCGpump": {
+   "sym": "Hakimi",
+   "bc": "GzeZaRVL44Arfuh1cgPtigB1izmJ1scmCXWpyeLnHMTy",
+   "tokens": 319337.58014785766,
+   "cost": 1.78,
+   "cost0": 1.78,
+   "entry_px": 5.115180366618033e-08,
+   "entry_fill": 5.554597514415277e-08,
+   "opened": 1793274082.4797287,
+   "last_px": 5.115180366618033e-08,
+   "peak_px": 5.115180366618033e-08,
+   "last_val": 1.5031484762131329,
+   "last_prog": 0.353
   }
  },
  "traded": [
@@ -348,7 +362,8 @@
   "EsV85JKvh18KkVzHpSEmz1pUVdD76brS55MLcR6apump",
   "7kTRqwLQwah5f1DjXV5Js23moLx7HP4CgMGbfg2Dpump",
   "P4TycWq2XB3nQvy6MwE365qG5vc7hSxSwns2Rnopump",
-  "8CHZri4cE9hmmdPyV6mVy2Z7ujGTs5a5cinKCBQTpump"
+  "8CHZri4cE9hmmdPyV6mVy2Z7ujGTs5a5cinKCBQTpump",
+  "B535EuVDiYJpCpX98LhJdAS1RbokiFor1pfiLaCGpump"
  ],
  "equity": [
   [
@@ -5266,81 +5281,85 @@
   [
    "2026-10-29T04:40:21",
    59.8
+  ],
+  [
+   "2026-10-29T04:41:22",
+   59.05
   ]
  ],
- "cycles": 1567,
+ "cycles": 1568,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.31,
- "watching": 159,
+ "sol_usd": 100.35000000000001,
+ "watching": 160,
  "near": [
   [
-   "FENRO",
-   "BTRrsdpUqVrKF85MDSDaX2zC3HzhqEPsBsCLWfypump",
-   0.282,
-   2.5,
-   "bundled_launch=5 extra buys in creation block"
+   "Hakimi",
+   "5E4euCZetzTofxUL4yfEpjjNmJjtsWSQFYWcHqkUpump",
+   1.0,
+   2.4,
+   "graduated"
+  ],
+  [
+   "Hakimi",
+   "B535EuVDiYJpCpX98LhJdAS1RbokiFor1pfiLaCGpump",
+   0.353,
+   2.9,
+   "bought"
+  ],
+  [
+   "LOCK",
+   "5vHZibBYXXZxW6RFe1Wth2g4E5Fc3R3c7LGEZ7Bepump",
+   0.14,
+   2.3,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "\uac15\ub3c4\ub9ac",
    "8PAKFK3r4ucon1sUACt5223r8TtEsvjrHKo9p6dgpump",
    0.105,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "Multicat",
-   "8xpsCW8oRseHcNxfwLxGjKnzemJtD9nEFehcfwHxpump",
-   0.077,
-   2.3,
-   "buyers=7; top5_hold_most=97%"
   ],
   [
    "Inflation",
    "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
    0.064,
-   6.4,
+   7.4,
    ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   8.2,
+   9.2,
+   ""
+  ],
+  [
+   "LMAO",
+   "BANpeyguC3GXEj25szJk7P16KdCzLCgEysHMsrscpump",
+   0.028,
+   3.3,
    ""
   ],
   [
    "SPOOKY",
    "GpdfuPqFWfQNZUZAry3D8PedfteVDSZ6u1GDveKbpump",
    0.023,
-   2.1,
+   3.1,
    ""
   ],
   [
    "LARP",
    "3G5FrUsdNFHpY8n4GE98rPHBxFEY2JW4BPJ43PqCpump",
    0.022,
-   6.5,
+   7.5,
    ""
   ],
   [
    "Tucker",
    "2nE2e6iXGDVBk8dBbMuZPtApoDLCbGgz57SFKBtbpump",
    0.022,
-   5.8,
-   ""
-  ],
-  [
-   "GTA67",
-   "9bwwEt8Y78zPWXbXhMBExMR9eobj1mYGQnZqdDgspump",
-   0.016,
-   7.4,
-   ""
-  ],
-  [
-   "LMAO",
-   "BANpeyguC3GXEj25szJk7P16KdCzLCgEysHMsrscpump",
-   0.015,
-   2.3,
+   6.8,
    ""
   ]
  ]
