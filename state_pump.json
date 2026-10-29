@@ -13,10 +13,10 @@
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 5.636412404247106e-08,
-   "peak_px": 5.969221612538378e-08,
-   "last_val": 2.075721833043098,
-   "last_prog": 0.4,
+   "last_px": 6.70189383326815e-08,
+   "peak_px": 6.70189383326815e-08,
+   "last_val": 2.4799618586351295,
+   "last_prog": 0.479,
    "tp1_done": true,
    "realized": 0.5013267413787641
   }
@@ -3569,81 +3569,85 @@
   [
    "2026-10-28T18:24:50",
    114.2
+  ],
+  [
+   "2026-10-28T18:25:50",
+   114.6
   ]
  ],
- "cycles": 952,
+ "cycles": 953,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.422259084,
- "watching": 233,
+ "sol_usd": 101.52,
+ "watching": 236,
  "near": [
   [
    "michael",
    "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
    0.896,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "SLEGO",
-   "8sksfMx1FTyWsaPjBqpqLEPeQQuA2gABdCCDmVjFpump",
-   0.329,
-   2.4,
-   "creator=16.4%; top5_hold_most=93%"
+   "TIMMY",
+   "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
+   0.151,
+   4.4,
+   ""
   ],
   [
-   "POKE",
-   "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
-   0.254,
-   6.0,
-   "top5_hold_most=90%"
-  ],
-  [
-   "PANICPUG",
-   "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
-   0.194,
-   9.5,
-   "creator=15.2%; top5_hold_most=99%"
+   "SQUADS",
+   "HuBoWBTmj5Jm6NVUc7JVaLrKNmpCCGmCVTQMiWHrpump",
+   0.132,
+   2.2,
+   ""
   ],
   [
    "FLIP",
    "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
    0.125,
-   6.2,
-   "buyers=3; top5_hold_most=100%"
+   7.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "TIMMY",
-   "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
-   0.093,
-   3.4,
-   ""
+   "Milly",
+   "7wzabVCAF2ucEVgDnBbP8LLh5nUYBDSUFz3vbsWjpump",
+   0.071,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "YUGE",
    "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
    0.044,
-   6.6,
+   7.6,
    ""
   ],
   [
    "Walkoor",
    "781s7EMGQ84DJ2EmkgC7RbSK8dJKC2jX1V4YRhLzpump",
    0.028,
-   3.8,
+   4.8,
    ""
+  ],
+  [
+   "POKE",
+   "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
+   0.028,
+   7.0,
+   "top5_hold_most=90%"
   ],
   [
    "WOFL",
    "32KgYocqNQruLgoLRoLSAXsCrQhkCxpYkjJLinESpump",
    0.027,
-   2.7,
+   3.7,
    ""
   ],
   [
    "PROLAPSE",
    "7RFiXZtvMisBCajLrFfhVsfNCcshNffYA8rjAEf3pump",
    0.027,
-   2.1,
+   3.1,
    ""
   ]
  ]
