@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 390.97099704293174,
+ "cash": 370.4309970429317,
  "positions": {
   "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP": {
    "sym": "SI",
@@ -12,6 +12,17 @@
    "last": 0.01239,
    "opened": 1793252764.3899968,
    "p_buy": 0.57
+  },
+  "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
+   "sym": "USDF",
+   "qty": 663.0640402357848,
+   "entry": 0.030977400000000002,
+   "mark_entry": 0.03037,
+   "cost": 20.54,
+   "peak": 0.03037,
+   "last": 0.03037,
+   "opened": 1793253786.137508,
+   "p_buy": 0.75
   }
  },
  "watch": {},
@@ -48,7 +59,8 @@
   "27vYy4dtRzKD4iCx4qMjPv3C2o1FgSbCLS1eVbxKpump",
   "HYv2VeLzVpGiGoBPbPmHDjJXNjBWsqz1axvZCv7Qpump",
   "147a97vXeJMM8pgFrEeMVmts4MciKAEEwRN6anYQszec",
-  "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP"
+  "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+  "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump"
  ],
  "equity": [
   [
@@ -3418,8 +3430,12 @@
   [
    "2026-10-28T23:02:07",
    410.73
+  ],
+  [
+   "2026-10-28T23:03:07",
+   409.92
   ]
  ],
- "cycles": 1249,
+ "cycles": 1250,
  "started": "2026-10-28T01:46:56"
 }
