@@ -6510,84 +6510,84 @@
    32.58
   ],
   [
-   "2026-10-29T16:38:20",
+   "2026-10-29T16:39:21",
    32.58
   ]
  ],
- "cycles": 2284,
+ "cycles": 2285,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.1627307554,
- "watching": 282,
+ "sol_usd": 96.11888875340001,
+ "watching": 262,
  "near": [
   [
-   "UHI",
-   "BsuyZLe4SvFU8G4D5N38eygxk8hESLHzspvTx66apump",
-   0.518,
-   4.5,
-   "bundled_launch=3 extra buys in creation block"
+   "beans",
+   "auW4APJuQPbSCX6dUcDJk36AT9iti3QJu9Gk4MJpump",
+   0.326,
+   2.9,
+   ""
   ],
   [
    "fmt+",
    "HnXHzKavtanhs5dsnNd6CuUbN7Xz4HaTT73uvUQMpump",
-   0.391,
-   4.2,
+   0.266,
+   5.3,
    "launch_slot=missing"
   ],
   [
-   "FUN",
-   "9RiC31QrKejcQqeYNEzLDMZ9m3J7F5gccdyzE2LFpump",
-   0.257,
-   2.4,
-   "top5_hold_most=86%; launch_slot=missing"
-  ],
-  [
-   "commotitty",
-   "FkSqhYZmxMa89TM6awaeLjLHdZoDAs2Lm1GvfQM1pump",
-   0.202,
-   9.8,
-   "buyers=9; top5_hold_most=84%; launch_slot=missing"
-  ],
-  [
-   "Frozen",
-   "8DXm9Fna9ENJv3DQezjVxU9b7fh44N8BFhWMG7gNpump",
-   0.18,
-   4.0,
-   ""
+   "$Boochi",
+   "Cd866mVFrp8mq58wYsMsYG1hd6HnfTAvMQ1AUmSMpump",
+   0.201,
+   2.6,
+   "buyers=8; bundled_launch=4 extra buys in creation block"
   ],
   [
    "ZCAT",
    "5aWff5Z9sLRavv5GETupmsYuiVTryZabsrVeTTsJpump",
    0.171,
-   5.1,
+   6.1,
    "buyers=4; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "Frozen",
+   "8DXm9Fna9ENJv3DQezjVxU9b7fh44N8BFhWMG7gNpump",
+   0.171,
+   5.0,
+   ""
   ],
   [
    "BIT",
    "4jqoz1MnkrhSXR2gZV9pwQ9F8yEWhRDweSbdY6hUpump",
    0.136,
-   2.7,
+   3.8,
    "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "DINO",
    "B3xbecRxYahvvJiGBcZUeAygWcjotV5SmzvcesVFpump",
    0.123,
-   3.5,
+   4.5,
    "buyers=6; top5_hold_most=99%; launch_slot=missing"
   ],
   [
    "beans",
    "BCumPokjGCpsp1myFLAo65Vh1R37ZR3vnfXs952Zpump",
    0.123,
-   7.5,
+   8.5,
    ""
   ],
   [
-   "CA",
-   "FGA7pcjY68sbpEWStEEXEtJvem3wtnP9WMHnXDW2sqdy",
-   0.085,
-   8.0,
-   "buyers=7; top5_hold_most=100%; launch_slot=missing"
+   "IMINU",
+   "46vPCNiQsFU4tY5eN5AQT8BeDhYMvDLu18LRkpE8pump",
+   0.094,
+   3.1,
+   "buyers=2; top5_hold_most=100%; bundled_launch=9 extra buys in creation block"
+  ],
+  [
+   "currency",
+   "G3BgcX6XD3g83ZfzXAvaWLjiy2b3epN2byW1XBsdpump",
+   0.084,
+   8.2,
+   ""
   ]
  ]
 }
