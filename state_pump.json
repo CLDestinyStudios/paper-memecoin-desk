@@ -6372,81 +6372,85 @@
   [
    "2026-10-29T11:11:56",
    32.58
+  ],
+  [
+   "2026-10-29T11:12:55",
+   32.58
   ]
  ],
- "cycles": 1958,
+ "cycles": 1959,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.9072291985,
- "watching": 270,
+ "sol_usd": 100.896443403,
+ "watching": 276,
  "near": [
   [
    "WALT",
    "BW8QuaDC1Tw7jRv2Hm5FbkYkitFrgS8itknXy3Avpump",
-   0.413,
-   7.2,
+   0.61,
+   8.1,
    ""
   ],
   [
-   "ADF",
-   "4wXDcYbZCLu1avCNdhCWufz1tZN7ycZC8CxYXFWppump",
-   0.385,
-   9.3,
-   "buyers=2; creator=30.4%; top5_hold_most=100%"
+   "Massimo",
+   "9Af53HxrvUZPVP21ZZdrHH5Gq7RF2q7JRL5N35orpump",
+   0.37,
+   2.4,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "Anakin",
    "4bHw1UDh4PLGWkioCsWbBMSpkAU7DAVKqkkcMKyX6sDq",
-   0.36,
-   3.5,
+   0.278,
+   4.5,
    ""
   ],
   [
    "CallMyCoin",
    "FvRKZrXuED5t6QW2QDma6VugfgntPyr1rL4CBy4sjFKU",
    0.246,
-   2.9,
+   3.8,
    ""
   ],
   [
    "Shroom",
    "8CMPtAWsqfKgAnN5zB8FKoXJi74vk1Z7o1yNPrYB8eVm",
-   0.195,
-   4.8,
+   0.213,
+   5.8,
    ""
   ],
   [
-   "Pua",
-   "DsJfeJ5Vpyf4oEc8e2RDk5SAM4n6kcmcVq1uZfPhzLKA",
-   0.191,
-   9.6,
-   "buyers=1; creator=15.2%; top5_hold_most=100%"
+   "BOSS",
+   "xbkP4iQwBQoJG3bix5G2ChsoKSeK4PwGfMzahiqpump",
+   0.172,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Beachballs",
    "3CkHdvvFXJ6fWGMvn65CNwcNRfqpwuYGxS9xRD3mpump",
    0.135,
-   3.3,
+   4.3,
    "buyers=6; top5_hold_most=98%"
+  ],
+  [
+   "BIRDIE",
+   "4S5jd53hToTVwFWspehVFS8GodgWf62HnSFksntKZETT",
+   0.132,
+   2.7,
+   ""
   ],
   [
    "CtrlTheNar",
    "48yYGLJLdKp1DkeBVTyqtsoyneCK8MYSG2AbSjiMpump",
    0.122,
-   2.7,
+   3.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "pulymarket",
-   "9HAWmKPouKFcKhDMa9gQtRyS6W6tunxxK6dkCxjPJ12B",
-   0.112,
-   6.3,
-   ""
-  ],
-  [
-   "Anakin",
-   "645jnh348UVbctk98AsdATQkwpUARYVvP3WjYuiH6NxE",
-   0.108,
-   6.9,
+   "UNRUGGABLE",
+   "7JRsjGZWqozADmddtePsoouaM5qvXpFhu56ntajpump",
+   0.113,
+   3.0,
    ""
   ]
  ]
