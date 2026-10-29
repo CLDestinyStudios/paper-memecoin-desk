@@ -6382,83 +6382,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:37:54",
+   "2026-10-29T11:38:56",
    32.58
   ]
  ],
- "cycles": 1984,
+ "cycles": 1985,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.48235588099999,
- "watching": 270,
+ "sol_usd": 100.44005651450001,
+ "watching": 265,
  "near": [
   [
    "QSAFE",
    "EL12ZQ4DSg6b4iMRppNxrVoDxTXXCS8cZU1dPDBGpump",
-   0.799,
-   5.3,
+   0.714,
+   6.4,
    ""
   ],
   [
    "Cumbal",
    "ENPKgakbkig5KxRTqHWBLYwycnJi1jbAU5vR5cqVpump",
-   0.288,
-   5.5,
+   0.239,
+   6.5,
    ""
   ],
   [
    "TRIBUTE",
    "5uHsXKcq9JsAaPTvzKsjF9NE2ikXymQ8hjhiHWPopump",
-   0.272,
-   7.9,
-   ""
+   0.189,
+   8.9,
+   "buyers=9; top5_hold_most=93%"
   ],
   [
    "HYPERDIH",
    "5ktmUXarmsgwnboP1Aq8wgE2NNstRtuGfquow81dpump",
-   0.129,
-   4.0,
-   "top5_hold_most=94%"
+   0.143,
+   5.0,
+   "top5_hold_most=90%"
   ],
   [
-   "ROCCO",
-   "4Y8YbNskvWYVh1RT2QLFLNsurg6DvwmEHS2WN8z7pump",
-   0.124,
-   2.8,
-   ""
+   "BloArk",
+   "BHwvNhbNYE6JfY7CeDBGdjUQCbahWYxhVX2nenkKpump",
+   0.115,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "HRT",
    "76dcszLo6nnAquwqzFrAcGqJ3MKRQYyQamRvcUehpump",
    0.089,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "CI",
-   "5eYZhH9Dc5b97hNvEjDJcdwRLUnLxfmVFyxoKEErpump",
-   0.085,
-   6.2,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "ROCCO",
+   "4Y8YbNskvWYVh1RT2QLFLNsurg6DvwmEHS2WN8z7pump",
+   0.08,
+   3.8,
+   ""
+  ],
+  [
+   "Hypergamy",
+   "5YHeLtJVa8MedvLhi5WUkgV4XEL8K2tT18XvXrVfpump",
+   0.074,
+   2.5,
+   ""
   ],
   [
    "Hollow",
    "5XNKbthfmPppAeSEQJ9Sx7Y3t1WsRnoGx6bKNKvipump",
    0.072,
-   6.6,
+   7.6,
    ""
   ],
   [
    "McPok\u00e9mon",
    "ABhStrW8NZsrcS8njWAV2qNKkNvuc8DARj5RrWGmpump",
    0.07,
-   4.9,
-   ""
-  ],
-  [
-   "Qzrool",
-   "EiDeTVh33YKS4A7RCtVUZ5VMXJSsUv19pfkkMgVWpump",
-   0.068,
-   8.6,
+   5.9,
    ""
   ]
  ]
