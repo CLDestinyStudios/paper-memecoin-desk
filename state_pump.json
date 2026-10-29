@@ -3630,84 +3630,84 @@
    124.85
   ],
   [
-   "2026-10-28T18:45:04",
+   "2026-10-28T18:46:02",
    124.85
   ]
  ],
- "cycles": 972,
+ "cycles": 973,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.6008260015,
- "watching": 311,
+ "sol_usd": 100.46,
+ "watching": 296,
  "near": [
+  [
+   "Seed",
+   "3j1LrHLgHTr2nrZgKPYh47VG4EMvZ1Xmqbef6B5Xpump",
+   0.834,
+   2.4,
+   ""
+  ],
   [
    "WALT",
    "B8waeMYUdqHgATyGgdXH6puYpN8wsno9rmGzFhuCpump",
-   0.37,
-   2.8,
-   "launch_slot=missing"
+   0.395,
+   3.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Dawid",
    "4BBGZU3WU4Ei8DAJb5ToXR9KJoEpFU4qxSE5cTE7pump",
-   0.147,
-   3.1,
-   "buyers=8; top5_hold_most=95%; launch_slot=missing"
+   0.157,
+   4.0,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "NOA",
    "ERHeQBpoxcmVaHJMDYFY6CE5CHAr8Tju5jQWRwxbpump",
-   0.134,
-   3.9,
+   0.133,
+   4.9,
    ""
   ],
   [
    "cooked",
    "Ge7VjeTwZgtcrswAzxeAa4jaVQRo73q8syJzH6Frpump",
    0.131,
-   7.1,
+   8.0,
    ""
   ],
   [
    "RIFTMAW",
    "8jouLGvLm41orHCoseTwALZHo43ArLAtrQtWXUj1pump",
    0.108,
-   3.9,
+   4.8,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "e/pump",
-   "2KTpGj5ZRDZ5fX1uVwtaN3qVNuKxWsJ2BEx4pwYbpump",
-   0.102,
-   9.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Aape",
-   "3hZK3X2v1MmR9rrm6ZVo1oP1uCdXjgKGsg4fiEGKpump",
-   0.094,
-   2.7,
-   ""
-  ],
-  [
-   "BCAT",
-   "AXqEbbevkqqYiAsvHJUNNBcpyKkJanD8xhvhMa15dA7e",
-   0.076,
-   3.7,
-   "buyers=6; top5_hold_most=95%"
   ],
   [
    "KNG22",
    "DP1Cb9msa4TsY8hH4iaQkL3zT7bZrt9UpdZugpWKpump",
-   0.074,
-   8.2,
+   0.103,
+   9.2,
    ""
   ],
   [
-   "4SKIN",
-   "EtT7XSB2i23ZSsrdU7hzwkbVe7vXMLRXJErUtiDNpump",
-   0.065,
-   6.7,
-   "buyers=5; top5_hold_most=100%"
+   "Aape",
+   "3hZK3X2v1MmR9rrm6ZVo1oP1uCdXjgKGsg4fiEGKpump",
+   0.092,
+   3.6,
+   ""
+  ],
+  [
+   "MEXIPUMP",
+   "8ai26Qz6txLweMV94BxaM6pLr7wTYTwtxriqdPZrpump",
+   0.071,
+   2.7,
+   ""
+  ],
+  [
+   "Spookinu",
+   "FvD4Ux47TcZ15MfX9fSrkJaqzptNiMJvJp77r6Yepump",
+   0.07,
+   5.4,
+   ""
   ]
  ]
 }
