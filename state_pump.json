@@ -6450,83 +6450,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:09:05",
+   "2026-10-29T14:10:04",
    32.58
   ]
  ],
- "cycles": 2135,
+ "cycles": 2136,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.40698459720001,
- "watching": 345,
+ "sol_usd": 96.52999999999999,
+ "watching": 344,
  "near": [
   [
    "bye",
    "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
-   0.811,
-   4.4,
+   0.823,
+   5.4,
+   ""
+  ],
+  [
+   "Lynk",
+   "4srL5EtGy1iMSmqXJBm5kzNAsMpGP9sHBSEK96z6pump",
+   0.785,
+   2.7,
    ""
   ],
   [
    "BlackSwan",
    "4cN7Nf82MtarpSU6wqNePNtw4oZXLtv6Pp6ZpTiPS3D8",
-   0.775,
-   7.2,
+   0.768,
+   8.1,
    ""
-  ],
-  [
-   "SOLPURR",
-   "BnjB44c8CMeDN1xNv9HkP2NjbFav8svLcm4GdKUypump",
-   0.574,
-   2.8,
-   "bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "DRAINTOBER",
-   "YVKwdWK9tddJjXnP7dXMn188ENueuaHWDQhR7jTpump",
-   0.475,
-   4.0,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "BNB",
    "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
-   0.433,
-   3.7,
+   0.466,
+   4.7,
    ""
   ],
   [
-   "CANDLE",
-   "8Y2FwdLWctsyeSCc7ehFTe6cMxDhWcvKXwhoyFu9ggw8",
-   0.335,
-   8.7,
-   ""
+   "PFSPIT",
+   "FVjNk5bXpeWznYNb52dge6FsTj8u9VEC3rSQDHKWpump",
+   0.465,
+   2.8,
+   "buyers=7; top5_hold_most=83%"
   ],
   [
-   "FI",
-   "Ea3igM4zLn3LMerjsyGRNVhJh4RdJVtD3fw7L2AL9cqw",
-   0.299,
-   2.5,
-   "serial_creator=16 launches/24h"
+   "SAFU",
+   "5dpTgA1yhBbvkBfPCQf79VJEoCg6sB4ug3NauJmNpump",
+   0.375,
+   3.8,
+   ""
   ],
   [
    "\ud83d\udd96",
    "GBESrHMz4zCnTUsWeomRJmW3oDW95kTWB9hcCkbGpump",
    0.268,
-   8.0,
+   9.0,
    "top5_hold_most=87%"
+  ],
+  [
+   "MS",
+   "CfUvExePbJPHT4BJbbX5Cuvo7pzLZczrbttM2Aa7pump",
+   0.264,
+   2.5,
+   "buyers=9; top5_hold_most=96%"
+  ],
+  [
+   "CANDLE",
+   "8Y2FwdLWctsyeSCc7ehFTe6cMxDhWcvKXwhoyFu9ggw8",
+   0.194,
+   9.7,
+   ""
   ],
   [
    "PUMPPAIR",
    "CUG5xQD6Q3ficZTZPqhqHMqokRUuFoiLiiHhubPwTQMV",
-   0.183,
-   9.0,
-   ""
-  ],
-  [
-   "bye",
-   "2DXyqyp1kBM2p2csEGaFgGCfG1zCBzisUqYQP85Ppump",
-   0.164,
-   5.9,
+   0.171,
+   10.0,
    ""
   ]
  ]
