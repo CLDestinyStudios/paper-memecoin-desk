@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 2.1982212378193004e-07,
+   "last_px": 1.8265856898533896e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.5991296550969223,
-   "last_prog": 0.87,
+   "last_val": 1.3205452860615552,
+   "last_prog": 0.824,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5370,81 +5370,85 @@
   [
    "2026-10-29T05:07:22",
    59.35
-  ]
- ],
- "cycles": 1594,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.16,
- "watching": 205,
- "near": [
-  [
-   "dessa",
-   "589aEJDgSk7MzqDfLTMsqTnaUYuQig7dp8GB4mSipump",
-   0.575,
-   6.8,
-   "serial_creator=20 launches/24h"
   ],
   [
-   "WAR",
-   "B6f5RMY2zjJCvJbnwkCjzpWteNNMTWGaUnwP64o3pump",
-   0.284,
-   2.2,
-   "serial_creator=10 launches/24h"
+   "2026-10-29T05:08:22",
+   59.07
+  ]
+ ],
+ "cycles": 1595,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.175869016,
+ "watching": 216,
+ "near": [
+  [
+   "Pedos",
+   "5bMzRaNNMaTbPARgsryRmu6bZCe6C9gq45LETfR8pump",
+   0.148,
+   2.7,
+   "top5_hold_most=87%"
+  ],
+  [
+   "TREAT",
+   "BfLjFqpKhbCzbsM1TP4m8wMyMwuYjDtLZXReK94Spump",
+   0.14,
+   2.1,
+   "buyers=6; top5_hold_most=97%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "CATBOT",
    "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
    0.086,
-   3.7,
+   4.7,
    "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "Antoine",
-   "6g1c44VaHiiQxiXjcREay1FtWVd7epE1T5SY3nNAuocC",
-   0.085,
-   3.7,
-   ""
-  ],
-  [
-   "Niggerfish",
-   "CcnfnAmFABCeyfkXQYuDEH5sz9Jh3jZimUpyvw2Npump",
-   0.074,
-   3.1,
-   ""
   ],
   [
    "MUSIC",
    "3UYdnRHXJnSg5U1AprsVDGq1iDgNEF5onkkGyCompump",
    0.073,
-   8.0,
+   9.0,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "STOCKE",
    "9Jg4x9PQ3U4NEovLFDfepFVSpnW2UNgFN6Dat6sUpump",
    0.064,
-   3.9,
-   ""
-  ],
-  [
-   "Niggerfish",
-   "GDYK9v8PVLDyigAymbW8hPnvZztzYyQ9iYk9iiux434A",
-   0.064,
-   3.9,
-   ""
-  ],
-  [
-   "Niggerfish",
-   "9QgMtbg1uMbaJiqkHXTJ7SSgErJrSjNqSYUrNmyNpump",
-   0.064,
-   4.5,
+   4.9,
    ""
   ],
   [
    "dessa",
    "9HqmwKfM8NKHVaCQCmJ9UQCAxNFoSxbS8pv5bWatmNNV",
    0.051,
-   5.8,
+   6.8,
+   ""
+  ],
+  [
+   "HDGE",
+   "7Z8eUNZZ7yjmwdBG5hcPDScNyRHj7gyBSZ7oC8GWpump",
+   0.04,
+   9.7,
+   ""
+  ],
+  [
+   "Susie",
+   "9xWKDUBSnu3Z6kciQxYPBSr6Qojhm5GKym7NwyFJpump",
+   0.036,
+   4.1,
+   ""
+  ],
+  [
+   "dessa",
+   "9EYYwGHtxrPa3JdUzkc7pAbjD8gSA8Yba4FMDtBxLwYg",
+   0.036,
+   7.3,
+   ""
+  ],
+  [
+   "Warinu",
+   "D5csqgJjbsXXzF8vaE5MC6QyyKKPvgqhTgqhy5nmpump",
+   0.03,
+   2.1,
    ""
   ]
  ]
