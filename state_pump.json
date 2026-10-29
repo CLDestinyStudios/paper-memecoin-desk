@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.198629554864392e-07,
+   "last_px": 1.117274314026926e-07,
    "peak_px": 1.198629554864392e-07,
-   "last_val": 4.811867060548548,
-   "last_prog": 0.7
+   "last_val": 4.481727608425165,
+   "last_prog": 0.676
   }
  },
  "traded": [
@@ -3364,81 +3364,85 @@
   [
    "2026-10-28T17:27:50",
    122.68
+  ],
+  [
+   "2026-10-28T17:28:50",
+   122.35
   ]
  ],
- "cycles": 895,
+ "cycles": 896,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.1845520465,
- "watching": 239,
+ "sol_usd": 102.18000000000002,
+ "watching": 238,
  "near": [
-  [
-   "Tonpad",
-   "pguwjwq1tutYX4LB41dq9ZyfNgN5fNvaMxnCMt6pump",
-   0.469,
-   2.3,
-   "rugcheck=creator history of rugs"
-  ],
   [
    "Unmask",
    "BnvcVvoq8HhrrtSGnBvEEZCbYHchQFVqoZ7kf3k8pump",
    0.455,
-   6.7,
+   7.7,
    ""
   ],
   [
    "WaterWings",
    "7VJh516NjKbMovrzc7qxLJTYaiFo568ukvKrDGrcpump",
-   0.175,
-   2.5,
-   ""
+   0.183,
+   3.5,
+   "buyers=9; top5_hold_most=94%"
   ],
   [
    "WWM",
    "Etc7CZyff3CtGcoADHjp6RuksKZeN2KPG6wNfEjHpump",
-   0.148,
-   5.7,
+   0.153,
+   6.6,
    ""
   ],
   [
    "MANI",
    "Bi4FgBKeVY6DrEmGxi82EgBq4H9rmSc1CZui89BRpump",
    0.096,
-   8.4,
+   9.4,
    "buyers=7; top5_hold_most=100%"
-  ],
-  [
-   "WWM",
-   "4yeueaezf6yc8xpfZ3zNYcAV9HMuctNsRCJ7D6Xqpump",
-   0.073,
-   3.5,
-   ""
   ],
   [
    "PSU",
    "4yfBSBxwNe41MBrXCoPdFUvG1CtzzQDorfLeLF5opump",
    0.068,
-   3.3,
+   4.2,
    ""
   ],
   [
-   "fridge",
-   "X1VD6747ez6ru44J9gnAkVDSrTfxAKoQ11eLwqqpump",
-   0.051,
-   3.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "RUBBISH",
-   "9SJZFwnF6tLs1yQJ84W5fegisfLdnEL8UGHri8ftpump",
-   0.047,
-   9.8,
+   "PEPEWIFHAT",
+   "2rF6uZqAgGEnoxDEPHpreBjBrSSrtfdp9PcTJXA1pump",
+   0.027,
+   3.2,
    ""
   ],
   [
-   "BIO999",
-   "CeQdt5KDQs4kS5kSBJvDEz4vTqo1n5gsyQRzEqZEpump",
-   0.036,
-   9.1,
+   "RSTR",
+   "A5peeCe5LjjzDCEXTD977NXfMi2hwMLzpmD5baNdpump",
+   0.026,
+   6.3,
+   ""
+  ],
+  [
+   "TaterTot",
+   "4yd16DQyLnDvKM5ESLbtVse5dfaEbfDAMgsifzyDpump",
+   0.019,
+   6.7,
+   ""
+  ],
+  [
+   "Grokius",
+   "3r8SaqRjcZPddkW2ChTQFAzCXvvRxtKvqkPub4BXpump",
+   0.019,
+   3.8,
+   ""
+  ],
+  [
+   "BUNKER",
+   "3gTY9cLbcjJNVW6U4tnKS7Lp4DBcUAXNebhTFS46pump",
+   0.017,
+   8.6,
    ""
   ]
  ]
