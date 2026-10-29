@@ -3715,84 +3715,84 @@
    119.01
   ],
   [
-   "2026-10-28T19:27:51",
+   "2026-10-28T19:28:50",
    119.01
   ]
  ],
- "cycles": 1015,
+ "cycles": 1016,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.59054089770002,
- "watching": 221,
+ "sol_usd": 99.49,
+ "watching": 208,
  "near": [
   [
-   "PODCAT",
-   "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
+   "COTUS",
+   "5pKaoFzKaNoVEVqMHuf8pEzDSGLsWYBDsj6NaCUvpump",
    1.0,
-   4.5,
+   2.4,
    "graduated"
   ],
   [
    "PERCS",
    "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
-   0.865,
-   6.1,
+   0.866,
+   7.1,
    ""
+  ],
+  [
+   "Fatfish",
+   "4oQoriyFPWFoEiGGZe3YNpA28YHZF5aSQn2UW8Rgpump",
+   0.359,
+   2.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "CRF",
    "BDC6ittE1x8MwPM7P7ceyLRMgFU4jQjW5X56Yj7Dpump",
    0.314,
-   5.4,
+   6.4,
    ""
   ],
   [
-   "Mcat",
-   "Yn49Jn2GdwBAqBfgE5FkTCegdqAk8sgvvTGHHGepump",
-   0.191,
+   "COTUS",
+   "62pS9xc7R2doenTcS1ynP8Go7HLZYsrHt9yHvfUTpump",
+   0.155,
    2.7,
-   "buyers=9; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "BOO",
-   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
-   0.187,
-   2.2,
    ""
   ],
   [
    "CPI",
    "GPz7229qBUKkbQaDeLDWeuxLBaFoNP9CNbeZkGp1pump",
-   0.128,
-   2.7,
+   0.124,
+   3.7,
+   ""
+  ],
+  [
+   "BOO",
+   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
+   0.109,
+   3.2,
    ""
   ],
   [
    "COTUS",
    "4QfxCnnSyV6esmyADhoTL5rpQmcw6vYLT5q1fXGDpump",
-   0.121,
-   2.0,
+   0.106,
+   3.0,
    ""
-  ],
-  [
-   "CPI",
-   "GCxbe5nnY23SHxU2cVCJ4w7qHfVvg9iVEgnHWSxVpump",
-   0.11,
-   3.4,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Mcat",
    "51DjpRNusN3Homoc2fpferwuNrMxmTNaqzPWbsDZpump",
    0.094,
-   2.9,
+   3.9,
    ""
   ],
   [
-   "PODCAT",
-   "9WQHZQUHeU71dmhXz23MzmEKDCQukdc1ofg54uD9pump",
-   0.089,
-   2.8,
-   "buyers=3; top5_hold_most=100%"
+   "CPI",
+   "GCxbe5nnY23SHxU2cVCJ4w7qHfVvg9iVEgnHWSxVpump",
+   0.088,
+   4.4,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
