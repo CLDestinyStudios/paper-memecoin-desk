@@ -6520,81 +6520,85 @@
   [
    "2026-10-29T16:58:14",
    32.58
+  ],
+  [
+   "2026-10-29T16:59:10",
+   32.58
   ]
  ],
- "cycles": 2304,
+ "cycles": 2305,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.5308488805,
- "watching": 259,
+ "sol_usd": 95.4281501909,
+ "watching": 251,
  "near": [
-  [
-   "Minesweeper",
-   "9ZbCrBJ6WzG2jGHGyJbdtt1dh2ypY1REaLinUspdpump",
-   0.456,
-   2.7,
-   ""
-  ],
   [
    "Hackoor",
    "DLjXf1qA9tyUzqMjn4c3FYPK5T9NqXgT6w7y9xVSpump",
-   0.4,
-   4.8,
+   0.483,
+   5.8,
    ""
   ],
   [
-   "HOSTPAY",
-   "4rhrN9nVsEKznMDNJoFi9HUwPjnNZRn8PDzEKArTpump",
-   0.31,
-   3.8,
-   "top5_hold_most=81%"
+   "TACIT",
+   "CNGqFmqQVe2WCzeayPyTuSjqVn3RWKXpaeucAx8hpump",
+   0.231,
+   2.6,
+   "buyers=9; top5_hold_most=95%"
+  ],
+  [
+   "LI",
+   "E2UsWLjWNg7GbHTUXwSR4FWiNSwpzjhH22ug3g9spump",
+   0.226,
+   2.9,
+   ""
   ],
   [
    "KI",
    "BzmEicfoM6xRBzUZpYyPsnMBM4Nb7x4XDVy1n83vpump",
    0.226,
-   6.1,
+   7.0,
    ""
   ],
   [
-   "Bear",
-   "FYEJtXY8vx9d8MDZugT4LwiAjupJ156zboXn7joSpump",
-   0.136,
-   2.4,
-   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "HOSTPAY",
+   "4rhrN9nVsEKznMDNJoFi9HUwPjnNZRn8PDzEKArTpump",
+   0.207,
+   4.8,
+   "top5_hold_most=81%"
+  ],
+  [
+   "Minesweeper",
+   "9ZbCrBJ6WzG2jGHGyJbdtt1dh2ypY1REaLinUspdpump",
+   0.111,
+   3.7,
+   ""
   ],
   [
    "Hackat",
    "3Vm65X67fpzG2DimwmHFMExoRihxu7cx3VyPXR6opump",
    0.099,
-   4.6,
+   5.5,
    ""
   ],
   [
-   "$HNK",
-   "CoNUBHp9hkWUTaHM2vUcKD6g8QAcbVgAjhBubHX6pump",
-   0.082,
-   3.1,
-   "buyers=1; top5_hold_most=100%"
+   "KMS",
+   "EKERc62MsML9KoCZq5qRVNmfMLaCxvQ6Y7NdNHBxpump",
+   0.089,
+   5.9,
+   ""
   ],
   [
    "Freezer",
    "uLAv9yZJC5Ev97D9NoqvsQUQhrDbborHEr398Bupump",
    0.073,
-   6.0,
+   6.9,
    ""
   ],
   [
    "CLIX",
    "5YmdLAZSnwjafYLN6YNUrc5MwkEo2iKiG2SQdz5ypump",
    0.062,
-   3.0,
-   ""
-  ],
-  [
-   "Hackoor",
-   "Cr6oXXiVoDU8Axa6Uxf8i3trBUMSCcSiX1vS6dJfpump",
-   0.048,
-   5.4,
+   3.9,
    ""
   ]
  ]
