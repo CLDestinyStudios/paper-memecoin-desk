@@ -6394,83 +6394,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:58:58",
+   "2026-10-29T11:59:53",
    32.58
   ]
  ],
- "cycles": 2005,
+ "cycles": 2006,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.567311347,
- "watching": 290,
+ "sol_usd": 100.52117201900002,
+ "watching": 289,
  "near": [
   [
    "FLIP",
    "2c6KepS2pTKbJn7Jx2w3VYAUjbaGqn89WaSmiqt7pump",
-   0.511,
-   8.7,
+   0.533,
+   9.6,
    ""
   ],
   [
    "Satoshi",
    "AB6k5NcqUMzTypjB8WK2qZJhSr44t56rjgtVKPvFpump",
    0.507,
-   7.8,
+   8.7,
    ""
-  ],
-  [
-   "Pillow",
-   "7c7VbfrjZuGPJDU7fE6WCbYp7WibPzfxY54cEP6mi4DT",
-   0.499,
-   9.5,
-   ""
-  ],
-  [
-   "ELONPERPS",
-   "8EG6g4cX2vd2tPhapb8DmwHGKjrg2ELGxJphj5gnpump",
-   0.4,
-   2.6,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "NCM",
    "JA4QjA3VSmKfscwAfgPfecZKu2cZoF19fy3WqCrmpump",
-   0.23,
-   3.2,
-   ""
-  ],
-  [
-   "Ket",
-   "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
-   0.194,
-   3.8,
+   0.227,
+   4.2,
    ""
   ],
   [
    "DIHQUID",
    "BLuUCcY9pjJPQbTBnM4T7Rr4xzfNgMbzcowGDhQZpump",
-   0.072,
-   2.7,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Tofu",
-   "64SQXJMVWuB5hkpe4Qq36xNhjy9LNz6fiZp5q8X8pump",
-   0.072,
-   4.8,
-   ""
+   0.068,
+   3.6,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "crypto",
    "CvNf9Tqpvjr7gbS85gv7N4PuNLiiT2CnjXGE9VNQpump",
-   0.063,
-   8.2,
+   0.067,
+   9.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Aiden",
    "A5gHrRFvwicJcMF8wfWpRBjYzQGQxxoihU5en7m5G8dF",
    0.057,
-   6.9,
+   7.8,
+   ""
+  ],
+  [
+   "DEGEN",
+   "CyGfYvhNYN42QDhB3JqCDZiGm84WCTEH9SHNAcHepump",
+   0.051,
+   8.8,
+   ""
+  ],
+  [
+   "HODLWAR",
+   "GR1XNZ88CsFM1D8kuzK5AZAEHtW2swh7VJc3WePfpump",
+   0.043,
+   2.5,
+   ""
+  ],
+  [
+   "nigga",
+   "Dq25TabP8YjGAXX54HqQgEKtqvt4YJwMcHC97e5QoGfA",
+   0.041,
+   4.4,
+   ""
+  ],
+  [
+   "Ket",
+   "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
+   0.039,
+   4.7,
    ""
   ]
  ]
