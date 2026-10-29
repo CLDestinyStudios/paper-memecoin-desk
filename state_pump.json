@@ -5282,81 +5282,85 @@
   [
    "2026-10-29T04:48:24",
    58.3
+  ],
+  [
+   "2026-10-29T04:49:25",
+   58.3
   ]
  ],
- "cycles": 1575,
+ "cycles": 1576,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3026095425,
- "watching": 156,
+ "sol_usd": 100.32350871099999,
+ "watching": 143,
  "near": [
   [
    "MWEZI",
    "57uaH4JzYtZdfZx8nNixzEjdmvviaGTh5rWGKhnQpump",
-   0.834,
-   7.1,
+   0.804,
+   8.1,
    ""
   ],
   [
    "PINO",
    "57ueCEH1ojWKg4ofMv5XPDtuv41F8oUoHYNMpS1Bpump",
-   0.767,
-   2.8,
-   ""
-  ],
-  [
-   "Ascil",
-   "6dm4mqxMcY8EcJRjL47qodQY36RJNBABiH3yHAqHpump",
-   0.559,
-   2.4,
+   0.655,
+   3.8,
    "bundled_launch=3 extra buys in creation block"
   ],
   [
    "PINO",
    "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
-   0.319,
-   2.8,
+   0.359,
+   3.8,
    ""
   ],
   [
    "VOKIZ",
    "7tR44xoLfhyTCekeUkHfohDwrvd1t1hSFDpbQfHKCvxf",
    0.316,
-   3.5,
+   4.5,
    ""
   ],
   [
    "MWEZI",
    "LLnn2pFGjsgaFpeNnreBzvKmdS89UB1hHXon1pVpump",
    0.109,
-   6.6,
+   7.6,
    ""
+  ],
+  [
+   "TM13",
+   "71XwZCqjXVwmtZTiDNtRgLMxzEacAjFkXngKGfbCpump",
+   0.084,
+   2.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "MWEZI",
+   "GMYQ5KEdcP5GGHZitCUMLPgyKRaYQ4cGymD5hKjRpump",
+   0.083,
+   8.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ZERO-DAY",
+   "4KLYphhGJLsEnPcjwRTKF2furrWPXmcxTnAC8H7vpump",
+   0.08,
+   2.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "EGG",
    "FmXuQjD2EXXkWMDZKwoGGr3QHWymZvi5tteoa3aApump",
    0.079,
-   4.9,
+   5.9,
    ""
   ],
   [
    "MWEZI",
    "AePy9jwgHm64yKzYpDi9k6krqHMyQNfRFTr8tYzdxfgU",
    0.073,
-   4.8,
-   ""
-  ],
-  [
-   "MWEZI",
-   "9P2fWHi3Nz6XUQhbHTM9NRiMVkTeny3ytGzNYedrWxkB",
-   0.053,
-   6.5,
-   ""
-  ],
-  [
-   "OUTSNIPE",
-   "CiXUtggr2rKf9tjSMueF7JThXGcF5oK1w2GKXjppump",
-   0.046,
-   4.0,
+   5.8,
    ""
   ]
  ]
