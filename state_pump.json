@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 105.26055464607798,
+ "cash": 101.86055464607797,
  "positions": {
   "DRaZjTDbfbtHXsJ17zapbi1SfXXPg9bVM6LZaedyT3d8": {
    "sym": "PEPAD",
@@ -13,10 +13,10 @@
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 5.957165037210059e-08,
+   "last_px": 5.9289601234486505e-08,
    "peak_px": 6.724698520042098e-08,
-   "last_val": 2.195103043975964,
-   "last_prog": 0.426,
+   "last_val": 2.1822251805187305,
+   "last_prog": 0.424,
    "tp1_done": true,
    "realized": 0.5013267413787641
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.760836244714777e-08,
    "entry_fill": 5.101389993749803e-08,
    "opened": 1793237331.2551987,
-   "last_px": 4.8923011029972745e-08,
+   "last_px": 4.652747206124718e-08,
    "peak_px": 4.8923011029972745e-08,
-   "last_val": 3.0730623516617364,
-   "last_prog": 0.33
+   "last_val": 2.9171626022230837,
+   "last_prog": 0.304
   },
   "27HrPd7sT8Ui1kVwXhxbsaZok2dZSjTDCo1NpPLKpump": {
    "sym": "Ansem",
@@ -43,10 +43,24 @@
    "entry_px": 3.391227766703437e-08,
    "entry_fill": 3.6346726784704544e-08,
    "opened": 1793237331.4484456,
-   "last_px": 3.4581760680177477e-08,
-   "peak_px": 3.4581760680177477e-08,
-   "last_val": 3.029942014233087,
-   "last_prog": 0.136
+   "last_px": 3.4975103168252305e-08,
+   "peak_px": 3.4975103168252305e-08,
+   "last_val": 3.061811013371732,
+   "last_prog": 0.143
+  },
+  "WS6QokT9a7Ywf3oBW4hXfwzvFhAmqSFgvytCJqwpump": {
+   "sym": "Quarry",
+   "bc": "EG9pLfBu6V23ELvKZwGBwP6Wr3gwzdqek7bUtfbgkuv6",
+   "tokens": 563117.4301615906,
+   "cost": 3.4,
+   "cost0": 3.4,
+   "entry_px": 5.565033743473656e-08,
+   "entry_fill": 5.963611202661114e-08,
+   "opened": 1793237454.0058386,
+   "last_px": 5.565033743473656e-08,
+   "peak_px": 5.565033743473656e-08,
+   "last_val": 2.95493019926672,
+   "last_prog": 0.394
   }
  },
  "traded": [
@@ -285,7 +299,8 @@
   "5En96qU95Xsj9XCwMtFqCawddZ8XCXjfNS9aMhShpump",
   "DRaZjTDbfbtHXsJ17zapbi1SfXXPg9bVM6LZaedyT3d8",
   "BZutpnKFLjLqQ8XRP1Ny7RnVNBvZ4NgoEn4QBAxVpump",
-  "27HrPd7sT8Ui1kVwXhxbsaZok2dZSjTDCo1NpPLKpump"
+  "27HrPd7sT8Ui1kVwXhxbsaZok2dZSjTDCo1NpPLKpump",
+  "WS6QokT9a7Ywf3oBW4hXfwzvFhAmqSFgvytCJqwpump"
  ],
  "equity": [
   [
@@ -3619,82 +3634,86 @@
   [
    "2026-10-28T18:29:50",
    113.56
-  ]
- ],
- "cycles": 957,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 101.34859611,
- "watching": 255,
- "near": [
-  [
-   "michael",
-   "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
-   0.896,
-   9.7,
-   ""
   ],
   [
-   "DOBBY",
-   "C1sLu4MsMo2EdtEy3tBoVzBBz1VnY6i4uzqTYdDgpump",
-   0.608,
-   2.4,
+   "2026-10-28T18:30:54",
+   112.98
+  ]
+ ],
+ "cycles": 958,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 101.24430999199998,
+ "watching": 260,
+ "near": [
+  [
+   "Quarry",
+   "WS6QokT9a7Ywf3oBW4hXfwzvFhAmqSFgvytCJqwpump",
+   0.394,
+   2.8,
+   "bought"
+  ],
+  [
+   "X",
+   "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump",
+   0.368,
+   2.6,
    ""
   ],
   [
    "GENIUS",
    "9if2y2zhACYV8q99Evi8rtbCahedonxAVKW67gBSpump",
-   0.319,
-   5.9,
-   "buyers=5; top5_hold_most=100%"
+   0.341,
+   7.0,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "WORLDPAD",
    "Fb6ebnTdkwjFZ6wPJSjBtNWWjxGcT9gfSzGRm3WKpump",
-   0.223,
-   2.3,
+   0.231,
+   3.4,
    "top5_hold_most=96%"
   ],
   [
-   "SHITHOUSE",
-   "3dDMzQDfCC8cwPpEGEs7UpH49wuaMuUDyL8Kbmz7pump",
-   0.145,
-   2.8,
-   "top5_hold_most=97%"
+   "X",
+   "BAXpuC2zBKJWHdnwNp79fb6qwG9auatnmRpaYxBppump",
+   0.136,
+   5.8,
+   ""
   ],
   [
    "TIMMY",
    "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
    0.135,
-   8.4,
+   9.4,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "X",
-   "BAXpuC2zBKJWHdnwNp79fb6qwG9auatnmRpaYxBppump",
-   0.097,
-   4.7,
-   ""
+   "SHITHOUSE",
+   "3dDMzQDfCC8cwPpEGEs7UpH49wuaMuUDyL8Kbmz7pump",
+   0.094,
+   3.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "GHOST",
-   "BipLmMk4oa2mVxcSaz13CvNCXQ9EiqLvjgKn8q18qyv4",
-   0.088,
-   2.5,
-   ""
-  ],
-  [
-   "gyatt",
-   "FBk8c1AUveQehsfFi1SmtMddBTGQwSuXwRKhtap9pump",
-   0.077,
-   2.2,
+   "DOBBY",
+   "C1sLu4MsMo2EdtEy3tBoVzBBz1VnY6i4uzqTYdDgpump",
+   0.091,
+   3.4,
    ""
   ],
   [
    "QWENPUTER",
    "AJUPYVMBfmvmG1roWWTZewHw5kutkFxKSpGGA5mms8g8",
    0.063,
-   3.5,
+   4.6,
    ""
+  ],
+  [
+   "ST",
+   "95FsXMk1zMjFLd3FgumPWBj6AMg1NqyPZUjFYvcqpump",
+   0.055,
+   6.0,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
