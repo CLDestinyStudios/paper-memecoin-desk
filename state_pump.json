@@ -3460,83 +3460,83 @@
    117.47
   ],
   [
-   "2026-10-28T17:55:14",
+   "2026-10-28T17:56:04",
    117.47
   ]
  ],
- "cycles": 922,
+ "cycles": 923,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.85,
- "watching": 346,
+ "sol_usd": 101.83600000000001,
+ "watching": 371,
  "near": [
   [
    "PVE",
-   "4aUBmtFVpZJQocr51PtPRyvBrVAenWgPGL1GeLEApump",
-   1.0,
-   2.9,
-   "graduated"
-  ],
-  [
-   "PVE",
-   "4zpRkgErTMTHE7XyAPuwY9VdrMXU5RCVz5wMqAP5pump",
-   0.787,
-   4.0,
+   "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
+   0.704,
+   4.8,
    ""
   ],
   [
    "PVE",
    "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
-   0.688,
-   3.7,
+   0.698,
+   4.5,
    ""
+  ],
+  [
+   "PVE",
+   "4zpRkgErTMTHE7XyAPuwY9VdrMXU5RCVz5wMqAP5pump",
+   0.42,
+   4.8,
+   "serial_creator=13 launches/24h"
   ],
   [
    "GTA",
    "HCAp4PjrWKySdbFUTq2XwCpmKcspuaawDjFzbmMBpump",
    0.275,
-   9.4,
+   10.2,
    "top5_hold_most=88%"
-  ],
-  [
-   "PVE",
-   "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
-   0.209,
-   4.0,
-   ""
   ],
   [
    "UPVOTE",
    "574P9b4gp7nPe7oLcRs8jYxpPZmn3PjbHJaYVRx3pump",
-   0.205,
-   2.5,
-   "buyers=7; top5_hold_most=100%"
+   0.223,
+   3.4,
+   "top5_hold_most=94%"
   ],
   [
    "GHOST",
    "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
    0.18,
-   3.7,
-   "buyers=8; top5_hold_most=93%; launch_slot=missing"
+   4.6,
+   "buyers=6; top5_hold_most=99%; launch_slot=missing"
   ],
   [
-   "trencher",
-   "GocQbw1NkTJbymFaWjKnw3CuBSQpnFyUF9vQdS9Hpump",
-   0.129,
-   6.4,
-   "top5_hold_most=95%"
-  ],
-  [
-   "fablesquad",
-   "CQWdNMXnrB9ypWLEbX97m2im3paH5eoVLjwxMra6pump",
-   0.12,
-   2.4,
-   "buyers=2; top5_hold_most=100%"
+   "BNLK",
+   "H2aBGrkSuSYm99cUHtD1SyqpsUJgVFoybYLYxsh1pump",
+   0.161,
+   9.9,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "PVE",
    "AAeGmNxczwAwEjhhYEBdVuZ9wTQNiPBZdocTy9RJpump",
    0.09,
-   3.0,
+   3.8,
+   ""
+  ],
+  [
+   "PVE",
+   "D2e1a5aX63tzwd8WsUFsL89u7oystie9n62uG8mqUEjS",
+   0.082,
+   4.0,
+   ""
+  ],
+  [
+   "PVE",
+   "2NqEWyAHo8GkJNnoFNGn1yBHcW3KY8s6vyLcu9Akpump",
+   0.081,
+   3.7,
    ""
   ]
  ]
