@@ -13,10 +13,10 @@
    "entry_px": 3.7610929740441486e-08,
    "entry_fill": 4.087602122408251e-08,
    "opened": 1793277382.7304814,
-   "last_px": 3.7610929740441486e-08,
+   "last_px": 3.369023688406095e-08,
    "peak_px": 3.7610929740441486e-08,
-   "last_val": 1.4582731091369887,
-   "last_prog": 0.186
+   "last_val": 1.3025512297730284,
+   "last_prog": 0.12
   }
  },
  "traded": [
@@ -5450,82 +5450,86 @@
   [
    "2026-10-29T05:36:22",
    57.31
+  ],
+  [
+   "2026-10-29T05:37:22",
+   57.15
   ]
  ],
- "cycles": 1623,
+ "cycles": 1624,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.14979954899998,
- "watching": 171,
+ "sol_usd": 100.263758787,
+ "watching": 164,
  "near": [
+  [
+   "Wan",
+   "3ttCnAidi9QWUhJRDCR2edGqCzUe7N22RgwsBY8vpump",
+   0.881,
+   2.2,
+   ""
+  ],
   [
    "Q&E",
    "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
-   0.308,
-   2.6,
+   0.288,
+   3.6,
    ""
   ],
   [
    "NICEHAT",
    "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
    0.287,
-   6.2,
+   7.2,
    "top5_hold_most=89%"
-  ],
-  [
-   "TimeCoin",
-   "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump",
-   0.186,
-   2.6,
-   "bought"
   ],
   [
    "BTS",
    "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
-   0.147,
-   3.0,
-   "buyers=8; top5_hold_most=93%"
+   0.132,
+   4.0,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "commando",
+   "3XpEtxi732V2wyWoyfWPzjqzCW5xxyQCdCBxoCripump",
+   0.122,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Pedos",
    "AjG5Zigb1g2WvSH9ue5JReZzZpiU8WQm8gvYWk1Qpump",
-   0.129,
-   2.5,
-   "buyers=7; top5_hold_most=96%"
-  ],
-  [
-   "MHGA",
-   "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
-   0.095,
-   6.7,
-   "buyers=5; top5_hold_most=100%"
+   0.114,
+   3.5,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "EGG",
    "khM5d4p3ik8meK85GunjZhGQbjMA5fzXqzfEEW7pump",
    0.081,
-   5.7,
+   6.7,
    ""
   ],
   [
    "KOVIN",
    "3kBJU2df5tnHTwikRtXch8mei9aMoX7FPynJrfYR8KwR",
    0.078,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "TimeCoin",
-   "CvAEDNxHQJw3iwptLLrE5Frjia54ydRhcYkQjLvVpump",
-   0.073,
-   2.1,
-   "buyers=3; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "Bowen",
    "FAZeyz1KyP15EsksbqVxkdjJh1pxTi2EnWpdGXpfpump",
    0.063,
-   8.0,
+   9.0,
    ""
+  ],
+  [
+   "MHGA",
+   "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
+   0.044,
+   7.7,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
