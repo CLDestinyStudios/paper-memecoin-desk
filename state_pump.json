@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.6296213915617575e-07,
+   "last_px": 1.5706131817891178e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.1731060595883127,
-   "last_prog": 0.793,
+   "last_val": 1.1290945738120965,
+   "last_prog": 0.782,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5418,81 +5418,85 @@
   [
    "2026-10-29T05:19:22",
    58.93
+  ],
+  [
+   "2026-10-29T05:20:22",
+   58.88
   ]
  ],
- "cycles": 1606,
+ "cycles": 1607,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.2054294255,
- "watching": 262,
+ "sol_usd": 100.23,
+ "watching": 239,
  "near": [
   [
    "SAR",
    "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
-   0.477,
-   2.9,
+   0.504,
+   3.9,
    ""
   ],
   [
    "MuCa",
    "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
    0.118,
-   7.1,
+   8.1,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "MEIMEI",
-   "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
-   0.111,
-   9.1,
-   "buyers=8; top5_hold_most=92%"
-  ],
-  [
-   "Elon",
-   "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
-   0.109,
-   5.3,
-   ""
   ],
   [
    "SAR",
    "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
-   0.082,
-   2.1,
+   0.076,
+   3.1,
    ""
   ],
   [
    "PINO",
    "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
-   0.076,
-   9.0,
-   "buyers=9; top5_hold_most=96%"
+   0.07,
+   10.0,
+   "buyers=9; top5_hold_most=95%"
   ],
   [
-   "Neko",
-   "58iiKGRBrf237pxRFnBVw6QBPUZhanE2k2oLgapApump",
-   0.071,
-   2.7,
+   "Elon",
+   "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
+   0.063,
+   6.3,
    ""
-  ],
-  [
-   "BOWEN WAN",
-   "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
-   0.06,
-   2.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "RWAR",
    "7ie2ZkxNSKrkBQ9VkJhpikfakGcyoMcnkXjbsE1wpump",
    0.04,
-   2.4,
+   3.4,
    ""
+  ],
+  [
+   "BTS",
+   "DDE2T4MVNaXKnArmS7CorpfdVi8jNqWDXcXPXdDJpump",
+   0.039,
+   2.3,
+   ""
+  ],
+  [
+   "BOWEN WAN",
+   "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
+   0.029,
+   3.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "nearonpump",
    "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
    0.025,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "TRENCH",
+   "GjUV9nsKWuQUSumUiCM2Q7qyGTwySF5XggRry9m5pump",
+   0.025,
+   8.6,
    ""
   ]
  ]
