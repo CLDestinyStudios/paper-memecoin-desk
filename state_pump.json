@@ -6394,83 +6394,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:03:55",
+   "2026-10-29T12:04:54",
    32.58
   ]
  ],
- "cycles": 2010,
+ "cycles": 2011,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3095908035,
- "watching": 260,
+ "sol_usd": 100.402359918,
+ "watching": 252,
  "near": [
   [
-   "PAGER",
-   "HECjrY2iUGAkrf4YBQdDo4bSJAWXSXxHTfL3yyFipump",
-   1.0,
-   3.0,
-   "graduated"
-  ],
-  [
-   "PRVZ",
-   "8CY9szmdQZddtjB2nC9Eb37bWGN19UDyMJUUenGopump",
-   0.651,
-   2.1,
+   "leaveamsg",
+   "8Q7u7jANEFjAKcdP1U78WdKh7Xmgr1CsZNBiCRG53hAJ",
+   0.637,
+   2.9,
    "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "LUMIO",
-   "FveEZkSipyRR4Va6xT9t9MLwQQxxNVwkPxqBXgpDpump",
-   0.446,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
+   "NOTATO",
+   "Sj36xiTroJ6armTjLbPNwniRPmuKxrdax6Y4fzfpump",
+   0.425,
+   2.0,
+   "top5_hold_most=81%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "NCM",
-   "JA4QjA3VSmKfscwAfgPfecZKu2cZoF19fy3WqCrmpump",
-   0.404,
-   8.2,
-   "bundled_launch=6 extra buys in creation block"
+   "MIAOU",
+   "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
+   0.223,
+   2.6,
+   "buyers=2; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "SENTI",
-   "Ac6KvrUn9jrwSWEikcZEbCUq7cyi4KM3b3gDXsXRpump",
-   0.269,
-   4.2,
-   "serial_creator=46 launches/24h"
-  ],
-  [
-   "HATCH",
-   "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
-   0.114,
-   5.8,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ZD",
-   "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
-   0.092,
-   4.1,
-   "buyers=7; top5_hold_most=95%"
+   "RUGGO ",
+   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
+   0.127,
+   2.3,
+   ""
   ],
   [
    "Sol",
    "CYQJHJinra2bLAnAXz9FhsSvn86hXNDUzxRR1Ahvpump",
    0.09,
-   2.8,
+   3.8,
    ""
+  ],
+  [
+   "ZD",
+   "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
+   0.087,
+   5.1,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Puri",
+   "7Q8KGZQSPNsuXvqUiMSiswo73NkyJ91xnrYt2NNepump",
+   0.085,
+   2.3,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Ket",
    "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
    0.048,
-   8.7,
+   9.7,
    ""
+  ],
+  [
+   "HATCH",
+   "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
+   0.043,
+   6.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "CR7",
    "56Jfs46D3ZBTumjjsrHQ6LSSweVkcnEsy5z7bYp9pump",
    0.043,
-   3.1,
+   4.1,
    ""
   ]
  ]
