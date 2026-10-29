@@ -6494,83 +6494,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:54:09",
+   "2026-10-29T15:55:08",
    32.58
   ]
  ],
- "cycles": 2240,
+ "cycles": 2241,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.69469999999998,
- "watching": 290,
+ "sol_usd": 96.7839659402,
+ "watching": 295,
  "near": [
+  [
+   "ZI",
+   "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
+   0.798,
+   2.3,
+   ""
+  ],
   [
    "CARRIER",
    "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
-   0.708,
-   7.3,
+   0.725,
+   8.3,
    ""
   ],
   [
    "FAG",
    "6Ya1cE1A8Vi42LsUmsT3yEFEnDe8umzee6jjQPuupump",
    0.241,
-   2.3,
+   3.3,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "ZI",
+   "5hhDB3f86BAwCeYiDZXH8m43LicupSyQpd1VTHDqpump",
+   0.225,
+   2.6,
+   "serial_creator=48 launches/24h"
   ],
   [
    "\ud83d\ude4f",
    "14reSxg4wFq1VKhMeVCdxhAhZXQN8WifvrkVtrSTpump",
    0.223,
-   8.2,
+   9.2,
    ""
   ],
   [
    "0DAYFANS",
    "5CGgNqNiRhFvBT23VhepBgAxGXDHuymzns37uHsWpump",
-   0.199,
-   2.6,
+   0.143,
+   3.6,
    ""
   ],
   [
    "ETHEREUM",
    "CBbSTGeCCz2B7bupaNLEDfR2iXP1JKnbmi7hMSjEpump",
-   0.129,
-   3.0,
+   0.126,
+   4.0,
    ""
   ],
   [
-   "Claude",
-   "5DFTEiDCcuSQB2XD6ghNup7MnVQEhof7mBiH6kqcpump",
-   0.083,
-   2.6,
+   "MONKE",
+   "BtFtUN8KdwfR34PvSKNMHXVQm6d8eUzQ5z4NZ5hPBKkk",
+   0.118,
+   2.2,
    ""
   ],
   [
-   "HEDGE",
-   "5poWuxVeYyed9ZxbfWK1LBZ69bnEpqXivhjLVRovpump",
-   0.081,
-   8.1,
-   ""
+   "ZINU",
+   "5px2ciY9SPJVqKrLEb3NEXQDo2BV4E9ZeDZzJWvNGzWy",
+   0.099,
+   2.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "MONKEY",
-   "5EuQ5PQDrx82R4p8jiuEn4Xn53J7izQYefWJmCdZpump",
-   0.078,
-   2.6,
-   ""
-  ],
-  [
-   "SWAN",
-   "EaLBvWMcxSqXox2zukwA6D98tNua329eDbMP6DFspump",
-   0.07,
-   2.3,
-   ""
-  ],
-  [
-   "BOB",
-   "63tdAKBWQ5qo2DLSaefapfUAfY7bwYBsWZ5T2toZpump",
-   0.064,
-   3.8,
+   "everything",
+   "EaBYrUDSTvc9nso6BUCf1h2QDsLmguMVVmr6xrbjpump",
+   0.088,
+   2.7,
    ""
   ]
  ]
