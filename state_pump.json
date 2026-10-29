@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 69.18069909033633,
- "positions": {},
+ "cash": 67.10069909033633,
+ "positions": {
+  "3G8nU4qGNhVLD1jwqyEMBvET5pqbuj6qUYdjWHK6pump": {
+   "sym": "REPINKING",
+   "bc": "EhNnmNSCYcvoniocjLBBCQ8YE8xGoqhrPRDprwpEoBLc",
+   "tokens": 499797.4351116943,
+   "cost": 2.08,
+   "cost0": 2.08,
+   "entry_px": 3.8394873490158223e-08,
+   "entry_fill": 4.152436820149197e-08,
+   "opened": 1793265323.3922448,
+   "last_px": 3.8394873490158223e-08,
+   "peak_px": 3.8394873490158223e-08,
+   "last_val": 1.772125738537218,
+   "last_prog": 0.198
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -307,7 +322,8 @@
   "83Tm7q5rCW6powHdExdSwMsCKDXkE642Hs3C87t1pump",
   "AEQQDnUPbHh5QkCzF9XTmNwqUQ7M9q9HmH55BmGTXqEW",
   "EfEKo74gLotaQB2qnHaJpjzPV8n2vbd9bJZfntBdpump",
-  "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump"
+  "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
+  "3G8nU4qGNhVLD1jwqyEMBvET5pqbuj6qUYdjWHK6pump"
  ],
  "equity": [
   [
@@ -4737,81 +4753,85 @@
   [
    "2026-10-29T02:14:22",
    69.18
+  ],
+  [
+   "2026-10-29T02:15:23",
+   68.87
   ]
  ],
- "cycles": 1421,
+ "cycles": 1422,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.29,
- "watching": 154,
+ "sol_usd": 100.2227415655,
+ "watching": 165,
  "near": [
+  [
+   "\ub9ac\ud540",
+   "6E9mByFQt4CStJg8e1ytZC5X6j2mw6BCSv7LTvbopump",
+   0.859,
+   2.6,
+   ""
+  ],
   [
    "FOMOKING",
    "B9yALCmyoVJREQRjWhe4wYdXY9U1VtEQM7QmjBm3pump",
-   0.245,
-   4.8,
-   "top5_hold_most=90%"
+   0.254,
+   5.9,
+   "top5_hold_most=88%"
+  ],
+  [
+   "REPINKING",
+   "3G8nU4qGNhVLD1jwqyEMBvET5pqbuj6qUYdjWHK6pump",
+   0.198,
+   2.1,
+   "bought"
   ],
   [
    "SIRIUS",
    "6MAD9jGWh69A7diKvGAzUY48gEFUJZamM8Q97cbupump",
    0.133,
-   2.1,
+   3.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "FATINU",
-   "3w6hfxoeDwKdPQSU91myCUWMgaUbmhQxy7TKBEzKpump",
-   0.082,
-   10.0,
-   "buyers=4; top5_hold_most=100%"
+   "\ub9ac\ud540",
+   "7yq8F1wdCd6zUJSmzh3z68N26KCXRVB6hDwqZeGVK21c",
+   0.112,
+   2.8,
+   ""
+  ],
+  [
+   "\ub9ac\ud540",
+   "6xwRoevBye37iajd9yq65eo6fpy5HFP1pgBTgJ8Qzxqr",
+   0.087,
+   2.5,
+   ""
   ],
   [
    "CICAK",
    "Cgu3ktRAsKca6EoZcyVhyqhhbnFUvN2SsNB6RwiUhKG7",
    0.044,
-   2.9,
+   3.9,
    ""
   ],
   [
    "CATTERM",
    "DBgQoPPZJvGg8dtQC5cVHC714jhsSvHC2oRYGYK6pump",
    0.039,
-   3.2,
-   ""
-  ],
-  [
-   "STL",
-   "6g3ziZ6niLVzMF55AHP5zLfqsLd5MbXfmHja3PNwayui",
-   0.036,
-   9.3,
+   4.2,
    ""
   ],
   [
    "ALON",
    "4zbWuLMFdd1ZPhaG1MMKA3RDADpgQEykmxBrAHEipump",
    0.029,
-   3.9,
+   4.9,
    ""
   ],
   [
-   "Abundance ",
-   "CACrNM2MNQZxbTUuEi8BjYxL16nffQo7rGm4KB5Bpump",
-   0.022,
-   5.4,
-   ""
-  ],
-  [
-   "DrawFi",
-   "8kdQXfYwywA3GP2MD6iv7fa83tmwj3VkUFu6sKpNpump",
-   0.017,
-   8.1,
-   ""
-  ],
-  [
-   "ZUKEK",
-   "GcJcBvDNFH9vqNGi8YtsxSarYWDiAA6jGgm9V6hApump",
-   0.011,
-   2.6,
+   "RAPCAT",
+   "FQ11xe8VgQr3B5hnxr5dgYnQo1j5jtK9CGfgQ48epump",
+   0.023,
+   3.0,
    ""
   ]
  ]
