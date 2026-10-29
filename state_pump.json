@@ -2,25 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 57.75253668574496,
- "positions": {
-  "AbkkDdXT2qmpnevBNyeHN3mpxcvrqz9qJtoc8bGvpump": {
-   "sym": "Niggerfish",
-   "bc": "524KVADNDn1JPXz8UdpyTKzoQXbVkQLNGSt5j8cVw1Wt",
-   "tokens": 79029.91197446822,
-   "cost": 0.875,
-   "cost0": 1.75,
-   "entry_px": 1.0182344705141389e-07,
-   "entry_fill": 1.1060352019718659e-07,
-   "opened": 1793275463.610792,
-   "last_px": 9.173184029154664e-08,
-   "peak_px": 2.1982212378193004e-07,
-   "last_val": 0.6386803622040073,
-   "last_prog": 0.606,
-   "tp1_done": true,
-   "realized": 0.27809552055082576
-  }
- },
+ "cash": 58.26316783675069,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -5430,81 +5413,85 @@
   [
    "2026-10-29T05:22:22",
    58.39
+  ],
+  [
+   "2026-10-29T05:23:23",
+   58.26
   ]
  ],
- "cycles": 1609,
+ "cycles": 1610,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.23758615300001,
- "watching": 223,
+ "sol_usd": 100.27197629699998,
+ "watching": 212,
  "near": [
+  [
+   "EPYH",
+   "E6mThKJZuJVAhm9o915btE3c5enqfohuQ6s83AGz28fp",
+   0.679,
+   2.4,
+   "serial_creator=64 launches/24h"
+  ],
+  [
+   "NASU",
+   "Hp7MZqbmzcDqo5gF9TdeHV2vas7k6hCa4wbvi9kqpump",
+   0.631,
+   2.9,
+   "serial_creator=6 launches/24h"
+  ],
   [
    "SAR",
    "2beAVxqVSBmRTkVaD7SL3LDJw8mv8Gmc2ab4ZRTqpump",
-   0.519,
-   5.9,
+   0.589,
+   6.9,
    ""
+  ],
+  [
+   "CELLROOM",
+   "9sXsgRBy3y7byrczBLixpnMdpWovgY9MeoRhuYspump",
+   0.368,
+   2.2,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "Elon",
    "DAGEeiPobfvQW4wRXAL6J3fLq5NcDvXrr1s5jJPepump",
    0.063,
-   8.3,
+   9.3,
    ""
   ],
   [
    "BOOM",
    "5aer69ZarDrZcjdJmB2YZoCc2Kbp6ojtXjk6wRPwpump",
-   0.062,
-   2.4,
-   "buyers=3; top5_hold_most=100%"
+   0.058,
+   3.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BOWEN WAN",
    "91XTb7qyG41CQA8TFuHakEHBJbFsMGC3KErZ2vBGpump",
    0.058,
-   5.7,
+   6.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "HERMES",
    "EsjL8EK9YEaof53fr5sjwwqMdHxgWXsFC4t2CGkpump",
    0.044,
-   2.8,
+   3.9,
    ""
   ],
   [
    "BTS",
    "DDE2T4MVNaXKnArmS7CorpfdVi8jNqWDXcXPXdDJpump",
    0.039,
-   4.3,
+   5.3,
    ""
   ],
   [
    "Stonker",
    "CZ8azHgeun4fUpQZXGHaBCHBoc3B1P8kapvB2fqkpump",
    0.034,
-   3.9,
-   ""
-  ],
-  [
-   "nearonpump",
-   "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
-   0.026,
-   7.5,
-   ""
-  ],
-  [
-   "Pedos",
-   "7WcWFyWHu8CKM4biu3zv3Nidyqhyhww4YwwRxuYXpump",
-   0.025,
-   2.2,
-   ""
-  ],
-  [
-   "SAR",
-   "ELM4TWGobrzYoGXDcGnGnupBU2VAkYYcVQePpJRzKEAc",
-   0.022,
-   5.1,
+   5.0,
    ""
   ]
  ]
