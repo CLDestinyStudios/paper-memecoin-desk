@@ -6498,83 +6498,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:09:21",
+   "2026-10-29T16:10:19",
    32.58
   ]
  ],
- "cycles": 2255,
+ "cycles": 2256,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.20319068710002,
- "watching": 368,
+ "sol_usd": 96.40917416460002,
+ "watching": 359,
  "near": [
   [
    "Bank",
    "5PKtZXys8JDsU2yPqpHy1eHpEfzLRPs1gUAHp1tEpump",
-   0.889,
-   2.5,
-   ""
-  ],
-  [
-   "EI",
-   "JDQGRhgqjXdpMdCWtT8NQSCbcEYVohvu9bisaPbEpump",
-   0.412,
-   5.2,
+   0.977,
+   3.5,
    ""
   ],
   [
    "HACKTOBER",
    "G8HeiPdMGwZnmU35kgFPfhcBdatwmCcqxPUJpgzfpump",
-   0.368,
-   8.1,
+   0.329,
+   9.1,
    ""
   ],
   [
    "usdhc",
    "EWVPJ21fWntVvRbQ8J66rNYvqcwQgQ39oUStgHmzpump",
    0.276,
-   7.0,
+   8.0,
    ""
+  ],
+  [
+   "EI",
+   "JDQGRhgqjXdpMdCWtT8NQSCbcEYVohvu9bisaPbEpump",
+   0.201,
+   6.2,
+   ""
+  ],
+  [
+   "Banker",
+   "9QF8DCnfheSSiGbpf6k3PAqwoAC7trbdr7UFtPmXpump",
+   0.171,
+   3.2,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "\ud83d\ude4f",
    "9FN6tyHB5UJ7MH7bhxnE7cYLyWh3Dpkh5hzpzLHDpump",
    0.166,
-   2.9,
+   3.9,
    "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "AAI",
    "7LFo7KB4Qf1pKAu3Qj3QLq2nhBRXrdKk3L73QiNpump",
    0.128,
-   8.5,
+   9.5,
    ""
   ],
   [
    "AAI",
    "8igjtx5pg61uDU87ndaQF7KFQpqBdd2TB7buuMKGpump",
    0.125,
-   8.1,
+   9.1,
    ""
   ],
   [
    "BNBQ",
    "Hhu8GBL9i2Ty9Xnbhic38tZkh7Ytj1DLxbdQEqCLpump",
-   0.115,
-   2.9,
+   0.116,
+   3.9,
    ""
   ],
   [
    "AAI",
    "49yuGEWZcSqN4jM1LQwupXrfmQBfMp8c1fCExE1epump",
    0.092,
-   5.7,
-   ""
-  ],
-  [
-   "Beaky",
-   "ETsBXuQAkGHYaxufkn2KdKJCvFQaapRwaBa9PHXipump",
-   0.09,
-   4.7,
+   6.7,
    ""
   ]
  ]
