@@ -6382,84 +6382,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:31:54",
+   "2026-10-29T11:32:55",
    32.58
   ]
  ],
- "cycles": 1978,
+ "cycles": 1979,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.330693992,
- "watching": 308,
+ "sol_usd": 100.32,
+ "watching": 302,
  "near": [
   [
    "Doomscroll",
    "57o3fuubsRnT1QVif4Ef8HYRVJwnBrMtiyzKjNepump",
-   0.97,
-   7.1,
+   0.972,
+   8.1,
    ""
+  ],
+  [
+   "HOPE",
+   "7f9LDKYm973ZodqywXV5brkXhmeTbf2oCcsmmJXCmPXY",
+   0.388,
+   2.4,
+   "serial_creator=35 launches/24h"
   ],
   [
    "COTF",
    "zogBpn7eTHdgMnkFhGGjrNGiRFzQn1YXmA2Lvz3pump",
    0.383,
-   4.8,
+   5.8,
    "buyers=1; creator=30.4%; top5_hold_most=100%"
-  ],
-  [
-   "PERPED",
-   "5ZJCtkqFQmmWi3fJwwGS5qccmfHWJ4xgtNLWC5Y6mtU",
-   0.162,
-   3.8,
-   "top5_hold_most=94%"
   ],
   [
    "Anakin",
    "CChWDpVxKkKyUCqyQLevx6M9kBRVQzNibMGLBZ6upump",
    0.139,
-   8.5,
+   9.5,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "MC",
-   "5pULT56oN8qWVpWhWV7zg77z9VUHb7daz2n6ArNFpump",
-   0.109,
-   10.0,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "KALI",
-   "GPfRXRnAiSWTiSBH8MtYY456uspPMm3Fp6u94fA9pump",
-   0.101,
-   6.9,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Percy",
-   "BeYL8HRtHTSVoch3hAB4bTZQCJ8R1DDqPEAu1J1Jpump",
-   0.095,
-   6.3,
-   "top5_hold_most=83%"
-  ],
-  [
-   "SNIFF",
-   "4aQ3p1zvj3DJsuU2Lmi5NgZSSaehEf97uJVzvvEZpump",
-   0.094,
-   9.9,
+   "Hypepe",
+   "FBJnzSvw3du3zHtFYUgAgVUxDBSGCiR75YTdW4TNpump",
+   0.099,
+   2.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "APEX",
    "FXZCVB3625iSG5wxZ41iRmMRVRZgq6aNqcohMmAVpump",
    0.092,
-   4.1,
+   5.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "AC",
    "E81hCDpAkcdPBnweYLLJT1WjunC28pb2tFdC3qLQpump",
    0.091,
-   8.7,
+   9.7,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "KALI",
+   "GPfRXRnAiSWTiSBH8MtYY456uspPMm3Fp6u94fA9pump",
+   0.085,
+   7.9,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Anakin",
+   "8JgRaTNrPxJTLbhLCaYGKjVQYH3S4uHiGWy9Wmgpump",
+   0.076,
+   8.0,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Percy",
+   "BeYL8HRtHTSVoch3hAB4bTZQCJ8R1DDqPEAu1J1Jpump",
+   0.074,
+   7.3,
+   "top5_hold_most=91%"
   ]
  ]
 }
