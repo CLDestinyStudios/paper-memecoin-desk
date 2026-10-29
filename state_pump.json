@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 115.03319904506314,
+ "cash": 111.50319904506314,
  "positions": {
   "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump": {
    "sym": "Calls",
@@ -13,12 +13,26 @@
    "entry_px": 5.898525465389262e-08,
    "entry_fill": 6.317236960461554e-08,
    "opened": 1793241965.2627635,
-   "last_px": 1.1198958419903014e-07,
+   "last_px": 1.0506926752435266e-07,
    "peak_px": 1.1198958419903014e-07,
-   "last_val": 2.882965029683027,
-   "last_prog": 0.677,
+   "last_val": 2.7005895508605713,
+   "last_prog": 0.655,
    "tp1_done": true,
    "realized": 0.8299480854311876
+  },
+  "FCsFxezswzxpJ9mhCY43Pbi9KLPicSvtUZXjuJLHpump": {
+   "sym": "Dodo",
+   "bc": "CxDgGPHid6bP8bh3jDm8MeZ7emGxWKbcaY2ohteSEhn2",
+   "tokens": 631272.6084547805,
+   "cost": 3.53,
+   "cost0": 3.53,
+   "entry_px": 5.232622142568239e-08,
+   "entry_fill": 5.6034801787602936e-08,
+   "opened": 1793242384.6441731,
+   "last_px": 5.232622142568239e-08,
+   "peak_px": 5.232622142568239e-08,
+   "last_val": 3.0725512343477015,
+   "last_prog": 0.364
   }
  },
  "traded": [
@@ -267,7 +281,8 @@
   "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
   "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump",
   "EADux6KA3RcNhPhkSoCRs3xZyTqpkSQqzqzyG5Yipump",
-  "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump"
+  "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump",
+  "FCsFxezswzxpJ9mhCY43Pbi9KLPicSvtUZXjuJLHpump"
  ],
  "equity": [
   [
@@ -3789,81 +3804,85 @@
   [
    "2026-10-28T19:52:03",
    117.92
+  ],
+  [
+   "2026-10-28T19:53:04",
+   117.28
   ]
  ],
- "cycles": 1039,
+ "cycles": 1040,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.83673780885,
- "watching": 257,
+ "sol_usd": 99.79296355649998,
+ "watching": 296,
  "near": [
   [
    "BlackShiba",
    "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.844,
-   4.8,
+   0.821,
+   5.9,
    ""
   ],
   [
-   "YOKO",
-   "Gv47U9VUwSsSrXa2tVDYy2frBEnU7Z9jYy788TVapump",
-   0.153,
-   4.2,
-   ""
+   "Dodo",
+   "FCsFxezswzxpJ9mhCY43Pbi9KLPicSvtUZXjuJLHpump",
+   0.364,
+   2.1,
+   "bought"
+  ],
+  [
+   "HAKIMI",
+   "42xqaCfWcYAfXfSFH8D7ccTm4stYg3cxXnQ6HFmZpump",
+   0.246,
+   2.0,
+   "buyers=8; top5_hold_most=95%"
   ],
   [
    "STARSHIP42",
    "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
    0.074,
-   5.8,
-   ""
-  ],
-  [
-   "HAKIMI",
-   "2DXCjVjGL3KMMv98WBXpzDaCbP2e9piMFHGSDyc3pump",
-   0.071,
-   6.9,
-   ""
-  ],
-  [
-   "HAKIMI1337",
-   "HJJ2iRKyhBi9WGs7Lsg4RU4tc1grB5CVaD9vgDH1pump",
-   0.064,
-   8.2,
+   6.8,
    ""
   ],
   [
    "Cyberpsyc",
    "7KqHx6cA2sVTEwd6ov1woFuiBxykXgHJKj9GxYZwpump",
-   0.058,
-   4.5,
-   "buyers=1; top5_hold_most=100%"
+   0.069,
+   5.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "HAKIMI1337",
+   "HJJ2iRKyhBi9WGs7Lsg4RU4tc1grB5CVaD9vgDH1pump",
+   0.064,
+   9.2,
+   ""
   ],
   [
    "RoboCab",
    "98LqSreaZjyvwkL5Vf5HJJFkvFheFT5CQNKopXaVpump",
-   0.045,
-   8.5,
+   0.048,
+   9.5,
    "buyers=6; top5_hold_most=99%"
   ],
   [
-   "BRAIN",
-   "Em4ZejFom2FUf7Gc5wwhy1rCNndHHvuGtiqVB8aZpump",
-   0.038,
+   "YOKO",
+   "Gv47U9VUwSsSrXa2tVDYy2frBEnU7Z9jYy788TVapump",
+   0.037,
    5.2,
+   ""
+  ],
+  [
+   "ASTOCK",
+   "8XJxxLBGMjvM7BsBMCANDZ51QoWsjz4VNLvM88japump",
+   0.035,
+   2.8,
    ""
   ],
   [
    "SHOPIFY ",
    "DXgw3h55gxDiXeunVSnauM3RDFWfobVX8djhGgoHpump",
    0.027,
-   7.2,
-   ""
-  ],
-  [
-   "LaPerla",
-   "987LWNXLLvc8UhVWyxzUUNPpAZYqCBvgFbBYFKKepump",
-   0.022,
-   6.9,
+   8.2,
    ""
   ]
  ]
