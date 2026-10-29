@@ -13,10 +13,10 @@
    "entry_px": 3.3171122706136434e-08,
    "entry_fill": 3.558041898143387e-08,
    "opened": 1793244724.9294412,
-   "last_px": 3.022620565583423e-08,
+   "last_px": 3.00403138151716e-08,
    "peak_px": 3.3171122706136434e-08,
-   "last_val": 2.5086231023003536,
-   "last_prog": 0.052
+   "last_val": 2.4940348705742132,
+   "last_prog": 0.048
   }
  },
  "traded": [
@@ -3956,81 +3956,85 @@
   [
    "2026-10-28T20:33:03",
    105.21
+  ],
+  [
+   "2026-10-28T20:34:03",
+   105.2
   ]
  ],
- "cycles": 1080,
+ "cycles": 1081,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.46,
- "watching": 200,
+ "sol_usd": 99.5054385371,
+ "watching": 204,
  "near": [
   [
-   "THESIS ",
-   "AToVeRfXVfjNxRigHuRZmP7jL2AtkfdPkPyNK1hnpump",
-   0.238,
-   2.8,
-   "top5_hold_most=98%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "ELON",
-   "9bszpayvohAUPbZkMxhrswxurirdXH5C8E9d29VDjzXx",
-   0.171,
-   7.1,
-   ""
-  ],
-  [
-   "CALLOUT",
-   "BT7TnDCjzM5yed7rADgqVZ3vRqrrSm97rm4DCT4spump",
-   0.107,
-   7.1,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "inu",
-   "JBaQmYWxRS5xETZzbpwBS7kfh4APqns2itugpk4Lpump",
-   0.097,
+   "FOMOCAT",
+   "C1Z2Kn9aPkrM1oBFg3rpwdo3Yog4SYzV4M8cQTnWpump",
+   0.071,
    2.2,
    ""
   ],
   [
-   "AMERICA",
-   "EANLsfxGMdP6UpLs6GcKTDg6AGUmk6WC8phT7Y3Bpump",
-   0.093,
-   4.9,
+   "inu",
+   "JBaQmYWxRS5xETZzbpwBS7kfh4APqns2itugpk4Lpump",
+   0.06,
+   3.2,
    ""
   ],
   [
    "ELON",
-   "2HENW2hN8GgVFpwhy744wYyeypT6nkp7uxcmQ5dzpump",
-   0.089,
-   5.3,
+   "9bszpayvohAUPbZkMxhrswxurirdXH5C8E9d29VDjzXx",
+   0.051,
+   8.1,
    ""
   ],
   [
-   "put\u0435r",
-   "8L7PJfYHPpsBav2mvWqreHWZEHs5TXoYo55keD2Gpump",
-   0.073,
-   3.3,
+   "EARSHOT",
+   "7LrckCQ2DPmAQQTzzjgbafxcjN8ZUbmKVwshcZp1pump",
+   0.027,
+   2.2,
    ""
   ],
   [
-   "NEKO",
-   "ACgJgKFuEtvC3fjjRwwHesd3ycW5FtP1xSeKfoyhpump",
-   0.03,
-   5.0,
+   "Quary",
+   "GdK9iVbQfsXszEZ9zcgSBCRFR1JCuhZkQmVe78s3pump",
+   0.023,
+   4.3,
+   ""
+  ],
+  [
+   "Quarry",
+   "7ADRDuAtAEsVWsiKmeqgy8K8FrTXrA3jjSDPM5BHpump",
+   0.023,
+   6.9,
    ""
   ],
   [
    "ELON",
    "B9YmUVvndfX8YaNvLVKToUNokd82RNKSJVVCBUG3pump",
-   0.024,
-   3.5,
+   0.022,
+   4.5,
    ""
   ],
   [
-   "UOF",
-   "7oCRNofYp72cYhopL6FZA29ohRjJASeKgQmBzRoUpump",
-   0.024,
-   9.6,
+   "AMERICA",
+   "EANLsfxGMdP6UpLs6GcKTDg6AGUmk6WC8phT7Y3Bpump",
+   0.021,
+   5.9,
+   ""
+  ],
+  [
+   "RECEIPT",
+   "HWFREgsMoay4Ki4UjFDW6whuEdU9k5TdFEWn6a8rpump",
+   0.021,
+   5.2,
+   ""
+  ],
+  [
+   "Nihilism",
+   "8qN5YF4kiCaUMJmFyZnwJLmwxeNMfM2pap9oogPEpump",
+   0.014,
+   4.1,
    ""
   ]
  ]
