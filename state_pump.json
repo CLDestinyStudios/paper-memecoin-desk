@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 52.91232994190747,
+ "cash": 54.026860727111334,
  "positions": {
   "76gzrF983TovLhUhY8jt3fwqQLww5qXSQjNeBCYcpump": {
    "sym": "BUILDBID",
@@ -13,26 +13,12 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 8.330274052446338e-08,
+   "last_px": 8.880068234149527e-08,
    "peak_px": 1.011463125213647e-07,
-   "last_val": 0.8640903701023033,
-   "last_prog": 0.569,
+   "last_val": 0.9248879864118702,
+   "last_prog": 0.594,
    "tp1_done": true,
    "realized": 0.23547084605700674
-  },
-  "6LLJ21qHXzkucXLDkedCNyXZS767RWMFifonVgoFpump": {
-   "sym": "SEAT",
-   "bc": "CDCtTrEfQFrcJgzyYyZaU65xTjwEwCUeHFJaeozcq8em",
-   "tokens": 405566.8732266998,
-   "cost": 1.66,
-   "cost0": 1.66,
-   "entry_px": 3.7411638195989555e-08,
-   "entry_fill": 4.0714577362537584e-08,
-   "opened": 1793280264.431501,
-   "last_px": 3.7411638195989555e-08,
-   "peak_px": 3.7411638195989555e-08,
-   "last_val": 1.395119446439821,
-   "last_prog": 0.183
   }
  },
  "traded": [
@@ -5592,81 +5578,85 @@
   [
    "2026-10-29T06:24:24",
    55.17
+  ],
+  [
+   "2026-10-29T06:25:24",
+   54.95
   ]
  ],
- "cycles": 1671,
+ "cycles": 1672,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.53,
- "watching": 192,
+ "sol_usd": 100.5796385025,
+ "watching": 194,
  "near": [
   [
    "CHLOE",
    "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-   0.954,
-   6.4,
-   ""
-  ],
-  [
-   "GROKR",
-   "oJp6jRNGVvywoJjfv6fS8s8P2bmZZeHmF1LyBWWPMcG",
-   0.519,
-   2.3,
+   0.963,
+   7.4,
    ""
   ],
   [
    "PETS",
    "AS8iLMmSJNEgDsv5XkVQn67kCM91hCuCgHc9cxp5pump",
-   0.425,
-   5.6,
+   0.512,
+   6.6,
    ""
   ],
   [
-   "Hexcat",
-   "E9FFDVAz5dyw2gQP51dvJ1LgbKtTgvk4fEY4V9Spump",
-   0.36,
-   2.2,
-   "serial_creator=10 launches/24h"
+   "GROKR",
+   "oJp6jRNGVvywoJjfv6fS8s8P2bmZZeHmF1LyBWWPMcG",
+   0.453,
+   3.3,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "BLAHMA",
    "6SpPE7u6TBiaqyKocjf1PDN8Rb1MH4im7G5MyDoepump",
-   0.222,
-   2.1,
-   "buyers=8; top5_hold_most=97%"
-  ],
-  [
-   "SEAT",
-   "6LLJ21qHXzkucXLDkedCNyXZS767RWMFifonVgoFpump",
-   0.183,
-   2.7,
-   "bought"
+   0.261,
+   3.1,
+   "top5_hold_most=90%"
   ],
   [
    "LAUNCHPAD",
    "L9ytmSHwxvkoaPRKt2hW1XfbE9Jn4pPuxBTWgBdpump",
-   0.158,
-   3.9,
+   0.121,
+   4.9,
    ""
   ],
   [
    "MAX",
    "6sHDEw1tPeY3LJcE4HwzEMzgziszrphwdosJRUsQmrLK",
    0.118,
-   7.7,
+   8.7,
    ""
   ],
   [
    "Lar",
    "AiDRfSyJJGiPFnUzdgc4siQC3MZJiEb94HCJ2JfPfn9y",
    0.109,
-   2.9,
+   3.9,
    ""
   ],
   [
    "PAD",
    "ChonpgaW33A3MC39NJcUv3ZYkr6r3PYZCsUXEgyWpump",
    0.101,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "sponk",
+   "AKtAR5RVUwbeLpb9QbJaMjGjr1mQSefvwZkGYqvvwJ5g",
+   0.084,
+   2.7,
+   ""
+  ],
+  [
+   "HCAT",
+   "5KNHavtPUbMs2WRDC6iBV5Veyca8AdKvYb63PFJQpump",
+   0.07,
+   5.2,
    ""
   ]
  ]
