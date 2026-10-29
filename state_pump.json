@@ -6426,83 +6426,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:17:30",
+   "2026-10-29T13:18:18",
    32.58
   ]
  ],
- "cycles": 2083,
+ "cycles": 2084,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.95999999999998,
- "watching": 312,
+ "sol_usd": 99.01,
+ "watching": 313,
  "near": [
   [
    "HEDGE",
    "74QZS3FPw8sHHiLv2gqjQskrD9pRZcDzGbHeHkdmpump",
-   0.586,
-   5.5,
+   0.657,
+   6.3,
    ""
   ],
   [
    "PARCHA",
    "8yZx9d3W8egv6cWRANgh45KEGBMDHC9pPhjuBJ13gV1A",
    0.328,
-   2.5,
-   "buyers=5; creator=15.2%; top5_hold_most=100%; launch_slot=missing"
+   3.3,
+   "buyers=5; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "before",
-   "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
-   0.111,
-   4.1,
-   "buyers=4; top5_hold_most=100%"
+   "GACHA",
+   "FuHXR69FtkBQVsQFzGa4jQw6kquekJ9zuRnFEMWwpump",
+   0.132,
+   2.5,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "armweak",
    "Cn2eUy9TPPBBPUNX3RL9qBFrKtacyr68kqTLkdPnpump",
-   0.098,
-   3.0,
-   ""
-  ],
-  [
-   "pop",
-   "AWTTKCDUTzsYSwtBFrXtbAHaAqdBZtsQLwSi7Lufpump",
-   0.093,
-   8.6,
-   ""
-  ],
-  [
-   "ruddit",
-   "Az57mEyk73QB621Md8LC8Fj5tHDVqpfq4dBKjtff8hsB",
-   0.085,
-   4.5,
+   0.109,
+   3.8,
    ""
   ],
   [
    "HypDog",
    "GWirZtUjWgMQk33xmC7yi3eoywke3uyg6Tt39x75pump",
-   0.084,
-   3.3,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
+   0.095,
+   4.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "before",
+   "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
+   0.092,
+   4.9,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "ruddit",
+   "Az57mEyk73QB621Md8LC8Fj5tHDVqpfq4dBKjtff8hsB",
+   0.085,
+   5.3,
+   ""
   ],
   [
    "JASON ",
    "8xFUYmYYqUSeajukSJFQwvTWSooVH8Dz4ERFfjsLpump",
    0.083,
-   2.8,
-   "buyers=1; top5_hold_most=100%; launch_slot=missing"
+   3.6,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "SOON",
    "HipG35wkhd4kVbnF8JT4Me7hW4VaHWsbBErbHdSSkf56",
    0.081,
-   3.4,
+   4.2,
    ""
   ],
   [
    "HEDGE",
    "EfQ9h4ZSk2ynjVss2PYMNDHhZPsvWSibBFRpKCehisWq",
    0.08,
-   5.2,
+   6.0,
    ""
   ]
  ]
