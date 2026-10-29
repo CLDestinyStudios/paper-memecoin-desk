@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 389.0255344971265,
+ "cash": 367.2955344971265,
  "positions": {
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "sym": "JOB",
@@ -9,7 +9,7 @@
    "mark_entry": 0.002572,
    "cost": 21.64,
    "peak": 0.002616,
-   "last": 0.002522,
+   "last": 0.002526,
    "opened": 1793230670.62822,
    "p_buy": 0.55
   },
@@ -19,15 +19,24 @@
    "entry": 8.437439999999999e-05,
    "mark_entry": 8.272e-05,
    "cost": 21.55,
-   "peak": 8.272e-05,
-   "last": 8.272e-05,
+   "peak": 0.0001004,
+   "last": 0.0001004,
    "opened": 1793232472.3569777,
    "p_buy": 0.66
+  },
+  "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump": {
+   "sym": "Saturween",
+   "qty": 35091.289027553044,
+   "entry": 0.000619242,
+   "mark_entry": 0.0006071,
+   "cost": 21.73,
+   "peak": 0.0006071,
+   "last": 0.0006071,
+   "opened": 1793232530.7868035,
+   "p_buy": 0.67
   }
  },
- "watch": {
-  "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU": 1793232472.357078
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -54,7 +63,8 @@
   "B8PTCNYFJDrWmjdH8jrBZb9pteBe1AwkrhTKCqtA5ckU",
   "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-  "6pjRwzGg2QS1VSf6Z4TQZwyMxUysrUajkRmbbQ89P6KG"
+  "6pjRwzGg2QS1VSf6Z4TQZwyMxUysrUajkRmbbQ89P6KG",
+  "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump"
  ],
  "equity": [
   [
@@ -2080,8 +2090,12 @@
   [
    "2026-10-28T17:07:52",
    430.12
+  ],
+  [
+   "2026-10-28T17:08:57",
+   433.72
   ]
  ],
- "cycles": 895,
+ "cycles": 896,
  "started": "2026-10-28T01:46:56"
 }
