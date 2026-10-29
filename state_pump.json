@@ -6430,84 +6430,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:21:06",
+   "2026-10-29T13:22:01",
    32.58
   ]
  ],
- "cycles": 2087,
+ "cycles": 2088,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.19121925460001,
- "watching": 292,
+ "sol_usd": 99.1281773164,
+ "watching": 294,
  "near": [
+  [
+   "PRRPS",
+   "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
+   0.831,
+   2.2,
+   ""
+  ],
   [
    "PARCHA",
    "8yZx9d3W8egv6cWRANgh45KEGBMDHC9pPhjuBJ13gV1A",
    0.328,
-   6.1,
+   7.1,
    "buyers=5; creator=15.2%; top5_hold_most=100%"
+  ],
+  [
+   "NIBBLES",
+   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
+   0.226,
+   2.1,
+   ""
+  ],
+  [
+   "VOKIZ",
+   "BXutwwcogogxTCa4cgwVqCchY7Tf5FKQxaizNamVpump",
+   0.176,
+   2.2,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "JASON ",
    "8xFUYmYYqUSeajukSJFQwvTWSooVH8Dz4ERFfjsLpump",
    0.175,
-   6.4,
+   7.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "GACHA",
    "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
-   0.128,
-   3.0,
+   0.153,
+   3.9,
    "buyers=6; top5_hold_most=89%"
+  ],
+  [
+   "SI",
+   "7E6S8uzQ2uhj626wuSPnyjff8j2f6UZ9Md95wtdm5gTn",
+   0.112,
+   2.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "S&C",
    "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
    0.109,
-   3.9,
-   ""
-  ],
-  [
-   "NOTHING",
-   "DFDJ9XXJzCJSt85SgveXsY65TBbqyMFJkm4gnv4Ypump",
-   0.101,
-   3.9,
+   4.8,
    ""
   ],
   [
    "cyber",
    "CYYSXk6niUdRYW9P3maTeA4BVFTDVvBBVJTsSaEipump",
    0.1,
-   4.8,
-   ""
-  ],
-  [
-   "armweak",
-   "Cn2eUy9TPPBBPUNX3RL9qBFrKtacyr68kqTLkdPnpump",
-   0.098,
-   6.6,
+   5.7,
    ""
   ],
   [
    "before",
    "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
    0.086,
-   7.7,
+   8.6,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ruddit",
-   "Az57mEyk73QB621Md8LC8Fj5tHDVqpfq4dBKjtff8hsB",
-   0.085,
-   8.1,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SOON",
-   "HipG35wkhd4kVbnF8JT4Me7hW4VaHWsbBErbHdSSkf56",
-   0.077,
-   7.0,
-   ""
   ]
  ]
 }
