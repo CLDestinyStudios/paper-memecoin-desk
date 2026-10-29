@@ -6506,83 +6506,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:22:08",
+   "2026-10-29T16:23:04",
    32.58
   ]
  ],
- "cycles": 2268,
+ "cycles": 2269,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.55587961549999,
- "watching": 218,
+ "sol_usd": 96.5239885793,
+ "watching": 210,
  "near": [
-  [
-   "longit",
-   "387AKE5T853Me3qaUNYumQAtNSLkiR7rKv5rGbMDpump",
-   0.842,
-   9.2,
-   ""
-  ],
   [
    "HYPEFUN",
    "C4Uj6tm6BR1YveN1mtkE54zuN8QJomXYb5c2jFjuHYPE",
-   0.535,
-   8.7,
+   0.625,
+   9.7,
+   ""
+  ],
+  [
+   "PEPEHOUSE",
+   "6J5t9p8YNyiNnqCBBoUNnRayE8Y7vs7J4fbSG98WzEoQ",
+   0.249,
+   5.1,
    ""
   ],
   [
    "CSI",
    "4ptypRz4wKMzMAN4mhZbkG7c6ierUjSQPT8WvwAUpgWy",
-   0.262,
-   7.0,
+   0.248,
+   7.9,
    "top5_hold_most=94%"
-  ],
-  [
-   "PEPEHOUSE",
-   "6J5t9p8YNyiNnqCBBoUNnRayE8Y7vs7J4fbSG98WzEoQ",
-   0.258,
-   4.1,
-   ""
   ],
   [
    "Hack",
    "7r7QtffhFwQU1dNYdXNYyLSqwWCetxJmLYmXBek9pump",
-   0.149,
-   2.4,
-   ""
-  ],
-  [
-   "ZERODAY",
-   "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump",
-   0.106,
-   3.1,
+   0.112,
+   3.4,
    ""
   ],
   [
    "SGI",
    "BomsbhDMBwFSpoxE4kPRueXWnYMXMgXSBD4J2vzepump",
    0.102,
-   6.0,
+   6.9,
    ""
   ],
   [
-   "pilly",
-   "7CwgH73nPqu91A7n4HXtTUoQUFUz5PtWg3UUQdzNpump",
-   0.079,
-   4.1,
+   "ZERODAY",
+   "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump",
+   0.088,
+   4.0,
    ""
   ],
   [
    "SGI",
    "6mWqc8bWK63K7Q24Droit7fD2qNeMVKqZNELGzLhpump",
    0.079,
-   3.5,
+   4.5,
    ""
   ],
   [
-   "10/29",
-   "2YDN5rEAjwRCMvsWPzBuy9hnjVj7P4L5EXFTVaQdpump",
-   0.073,
-   3.8,
+   "Bottom",
+   "2KPmFKnB6tSsq6PfDrkE5VdDXCtugSAfxDEoh3Yvpump",
+   0.043,
+   3.0,
+   ""
+  ],
+  [
+   "TWAP",
+   "4uGaGY9stVpiH9Wvif1A3v88bVBqV2gmNSYfCCaCpump",
+   0.043,
+   3.7,
+   ""
+  ],
+  [
+   "\ud83d\ude4f",
+   "HyahF9hTq4DEgucUqibTM5u59uY2FRayfh87visgEsaG",
+   0.042,
+   4.9,
    ""
   ]
  ]
