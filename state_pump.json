@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 89.81385150869838,
- "positions": {},
+ "cash": 87.12385150869838,
+ "positions": {
+  "CQCJze893oNs2BHYRJnZSChAsL4nY4AsfbZS6KYGpump": {
+   "sym": "CATTERM",
+   "bc": "2eadmG1NBuGmSaFuP6S7vxDuEFJGrgkJ4S5dvG8fRQWZ",
+   "tokens": 530242.6655155563,
+   "cost": 2.69,
+   "cost0": 2.69,
+   "entry_px": 4.695737012027785e-08,
+   "entry_fill": 5.050912120476393e-08,
+   "opened": 1793251565.6067257,
+   "last_px": 4.695737012027785e-08,
+   "peak_px": 4.695737012027785e-08,
+   "last_val": 2.3190606367368534,
+   "last_prog": 0.309
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -275,7 +290,8 @@
   "34MvAYjRhPfwcimzrnw7axDYC9rnfQvt9PV1YG23Dd37",
   "DcTgjkS9bQjx7wBZi9kfXa7uALMRXYU9znUaQauWpump",
   "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump",
-  "EQX5TcEAdFbPHcMgrebNsXnwk4KBaDwsqkVMTRwbpump"
+  "EQX5TcEAdFbPHcMgrebNsXnwk4KBaDwsqkVMTRwbpump",
+  "CQCJze893oNs2BHYRJnZSChAsL4nY4AsfbZS6KYGpump"
  ],
  "equity": [
   [
@@ -4165,81 +4181,85 @@
   [
    "2026-10-28T22:25:05",
    89.81
+  ],
+  [
+   "2026-10-28T22:26:05",
+   89.44
   ]
  ],
- "cycles": 1192,
+ "cycles": 1193,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.50999999999999,
- "watching": 154,
+ "sol_usd": 100.44025292599999,
+ "watching": 157,
  "near": [
   [
-   "UTILA",
-   "44gYHfmTtKcLozrNEDq7EsUQ4cjto3QCv3rZiyGEpump",
-   0.13,
-   2.8,
-   "bundled_launch=7 extra buys in creation block"
+   "CATTERM",
+   "CQCJze893oNs2BHYRJnZSChAsL4nY4AsfbZS6KYGpump",
+   0.309,
+   2.7,
+   "bought"
   ],
   [
    "PERLA",
    "8XyTLpo2KyEHUATtvTziF1fga1XMoETv4RLS2Jq6pump",
    0.083,
-   2.3,
+   3.3,
    ""
   ],
   [
    "square",
    "583cvsSaMcwKckhojiHhAfbknF3YpjAmcVa2PUivpump",
    0.066,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Cuminu",
-   "DQ8LByw4HYKapuF83Z218wGtxYyJUJb8ajjKsSU2pump",
-   0.066,
-   9.1,
-   ""
   ],
   [
    "MINZYS",
    "FpuJbfCS1QgroUoVVHkRhBcYsAQi8HJyPdDG6iuipump",
    0.044,
-   3.7,
-   ""
-  ],
-  [
-   "SpermRace",
-   "A3wZ1fMb5AhDUrjMTAyYDPxjcC3Z2TfDFU8aRT1upump",
-   0.044,
-   5.3,
+   4.7,
    ""
   ],
   [
    "Quarry",
    "ttdX5kXmeFjBSCiy6c1HtjVtqtgWARQcuNT8kG5pump",
    0.042,
-   2.1,
+   3.1,
    ""
   ],
   [
    "KM",
    "6mVmMcQrPTioqZfWKMmoW5ZCQHA2v3n5h5T4EoZhpump",
-   0.029,
-   2.4,
+   0.024,
+   3.4,
    ""
   ],
   [
    "SUNNY",
    "9AmXwa8QUb61cUd4NJza5m9zo5WJGdQHDoWnid1epump",
    0.014,
-   5.9,
+   6.9,
    ""
   ],
   [
-   "L SHIBA",
-   "F7fa4dSbgSGK2xQv6RBqWJDZQbdVqL6J4Dojkt8kpump",
-   0.013,
-   9.2,
+   "STATE!",
+   "BFwuRgP54ahNf8b1MsBQZ4NHyxLKLjnYwwoxKvGfpump",
+   0.011,
+   8.7,
+   ""
+  ],
+  [
+   "HDR ",
+   "61PXWnE6mqaNu6pxKobZBno9HhEqxLZ4XXGMj2eLpump",
+   0.011,
+   8.1,
+   ""
+  ],
+  [
+   "SPERM",
+   "cu3VaNUobACpMZu2qACvHzEsNieSy1VqM7ar59Npump",
+   0.008,
+   7.9,
    ""
   ]
  ]
