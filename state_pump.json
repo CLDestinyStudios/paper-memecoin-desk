@@ -13,10 +13,10 @@
    "entry_px": 8.430931760075574e-08,
    "entry_fill": 9.027448096830748e-08,
    "opened": 1793234511.3432598,
-   "last_px": 9.172744067306819e-08,
+   "last_px": 7.827220955652831e-08,
    "peak_px": 9.687200618182995e-08,
-   "last_val": 3.4029419054965846,
-   "last_prog": 0.606
+   "last_val": 2.895738118733222,
+   "last_prog": 0.544
   }
  },
  "traded": [
@@ -3457,81 +3457,85 @@
   [
    "2026-10-28T17:50:19",
    118.7
+  ],
+  [
+   "2026-10-28T17:51:33",
+   118.19
   ]
  ],
- "cycles": 917,
+ "cycles": 918,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.91495408200004,
- "watching": 301,
+ "sol_usd": 101.89000000000001,
+ "watching": 302,
  "near": [
   [
    "AGENT",
    "FoRrGzHpDmi5M4EZDaBW2TkNFtj1ELMgQFDCMP3NwVFB",
-   0.741,
-   6.8,
+   0.749,
+   8.0,
    ""
   ],
   [
    "RINU",
    "ECVqx2NbnvPPkfxNmr9hbeAmWub9tA7JJKgpAoQ2pump",
-   0.667,
-   4.5,
-   "launch_slot=missing"
+   0.662,
+   5.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "GOOSY",
    "6qsEW58NiUektwmsx29Ysjy8cjV46aGekg3bb9Bhpump",
-   0.444,
-   4.6,
-   "launch_slot=missing"
-  ],
-  [
-   "Floatato",
-   "AaYxkpUjq2b67BjUaV1qyZ1Xd12ovjSXFNRWxmFTpump",
-   0.312,
-   3.0,
-   "launch_slot=missing"
+   0.381,
+   5.9,
+   "buyers=0; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "GTA",
    "HCAp4PjrWKySdbFUTq2XwCpmKcspuaawDjFzbmMBpump",
    0.275,
-   4.5,
+   5.7,
    "top5_hold_most=88%; launch_slot=missing"
-  ],
-  [
-   "ClydeFrog",
-   "CmnrNDCJruDn6ZhbNRHpqErJzHVqcktbd5sM5BX8pump",
-   0.265,
-   8.5,
-   ""
   ],
   [
    "Unmask",
    "8hFWPVT3PKTKaqpEvXfDYw1Qr1Uh865XMbPsfET2pump",
-   0.226,
-   5.6,
+   0.269,
+   6.8,
    "launch_slot=missing"
+  ],
+  [
+   "ClydeFrog",
+   "CmnrNDCJruDn6ZhbNRHpqErJzHVqcktbd5sM5BX8pump",
+   0.24,
+   9.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "WARCAT",
    "78UP4euSvbSC7EsasNzANXeeakyHgrhMqk9qUL6Cpump",
-   0.203,
-   4.7,
-   ""
+   0.21,
+   5.9,
+   "buyers=9; top5_hold_most=90%; bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "Floatato",
+   "AaYxkpUjq2b67BjUaV1qyZ1Xd12ovjSXFNRWxmFTpump",
+   0.144,
+   4.2,
+   "buyers=8; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "BNLK",
    "H2aBGrkSuSYm99cUHtD1SyqpsUJgVFoybYLYxsh1pump",
    0.108,
-   4.2,
+   5.4,
    "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
-   "Dill",
-   "7X9N8rJ3AsMHHT8jtLs38thybK4Wr2bEx39k4moLpump",
-   0.1,
-   8.5,
+   "DATACENTER",
+   "EEi5EMcmsSDxFWhXRhgLZLFJ3vWtZZKW6EPXUGLCpump",
+   0.08,
+   6.8,
    ""
   ]
  ]
