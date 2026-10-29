@@ -3649,81 +3649,85 @@
   [
    "2026-10-28T18:55:00",
    123.81
+  ],
+  [
+   "2026-10-28T18:55:53",
+   123.81
   ]
  ],
- "cycles": 982,
+ "cycles": 983,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.13,
- "watching": 257,
+ "sol_usd": 100.15040872099999,
+ "watching": 260,
  "near": [
   [
    "BMUS",
    "95GsaK5Ygx3sbA1X6E99i8yaE84VL9Y2qo5id2HSpump",
-   0.962,
-   3.0,
+   1.0,
+   3.9,
+   "graduated"
+  ],
+  [
+   "HANA",
+   "FRSm2WhHMQ3aapZED2w4zxp7pJRC1wDX5gDkr8Jfpump",
+   0.34,
+   2.3,
    ""
   ],
   [
-   "HALOPAD",
-   "B5dJfk6e6fnidagyhqKMZjjSdW36AkZ4C3sJmaiMpump",
-   0.285,
-   4.5,
-   "buyers=8; top5_hold_most=98%"
+   "Sheeped",
+   "8co2Me7XQFsmSWjj5TbM82ivH1ygBjES1FTfVzCbpump",
+   0.316,
+   2.2,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "PEPEYE",
+   "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
+   0.277,
+   8.4,
+   "top5_hold_most=92%; launch_slot=missing"
   ],
   [
    "BAJRANGI",
    "8b1QBg6AqPHb9Ug6zDyrwZB77whth42ECyaJgbykpump",
    0.258,
-   8.7,
+   9.6,
    "top5_hold_most=86%"
   ],
   [
-   "PEPEYE",
-   "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
-   0.252,
-   7.5,
-   "top5_hold_most=92%; launch_slot=missing"
-  ],
-  [
-   "GHOST",
-   "JAecrtGseba9pnLFAti47qc4KZkLpLc9HfJTR4gWmYQ",
-   0.144,
-   7.8,
-   "top5_hold_most=99%"
+   "HALOPAD",
+   "B5dJfk6e6fnidagyhqKMZjjSdW36AkZ4C3sJmaiMpump",
+   0.234,
+   5.4,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "GHOSTDEV",
    "G95bm7QTxj5EeTiZWjDUM4WHjHoQ9XQWTCtQokqv5R8g",
-   0.135,
-   2.9,
-   "buyers=6; top5_hold_most=99%"
+   0.133,
+   3.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "GHOST",
+   "JAecrtGseba9pnLFAti47qc4KZkLpLc9HfJTR4gWmYQ",
+   0.103,
+   8.7,
+   "top5_hold_most=99%"
   ],
   [
    "LUCKY",
    "7oseq6otowi5z59a92mt5QaZDJuy5NVE43NKRFExpump",
    0.069,
-   2.3,
+   3.2,
    ""
   ],
   [
    "PERRO",
    "8Nt16W1fMVif6tETmMFVNpGTTesp3FbNFpiquKT7pump",
-   0.067,
-   6.6,
-   ""
-  ],
-  [
-   "GGOD",
-   "8tKQB3PCVVWgpAXbbQ7t57uPufHqufiRZKit35xipump",
-   0.055,
-   8.7,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "COACH",
-   "78cti5NjDXGN52wt3wu5uj1hWgB93nwsoaxb9wnhpump",
-   0.046,
-   9.8,
+   0.063,
+   7.5,
    ""
   ]
  ]

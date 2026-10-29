@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 380.21071034178954,
+ "cash": 402.378158350807,
  "positions": {
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "sym": "JOB",
@@ -9,23 +9,14 @@
    "mark_entry": 0.002572,
    "cost": 21.64,
    "peak": 0.002901,
-   "last": 0.002739,
+   "last": 0.002788,
    "opened": 1793230670.62822,
    "p_buy": 0.55
-  },
-  "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump": {
-   "sym": "Saturween",
-   "qty": 35091.289027553044,
-   "entry": 0.000619242,
-   "mark_entry": 0.0006071,
-   "cost": 21.73,
-   "peak": 0.0007227,
-   "last": 0.0006586,
-   "opened": 1793232530.7868035,
-   "p_buy": 0.67
   }
  },
- "watch": {},
+ "watch": {
+  "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1793238950.355278
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -2509,8 +2500,12 @@
   [
    "2026-10-28T18:54:50",
    425.0
+  ],
+  [
+   "2026-10-28T18:55:50",
+   424.92
   ]
  ],
- "cycles": 1002,
+ "cycles": 1003,
  "started": "2026-10-28T01:46:56"
 }
