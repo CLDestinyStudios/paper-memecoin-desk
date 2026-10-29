@@ -13,10 +13,10 @@
    "entry_px": 5.76534849047649e-08,
    "entry_fill": 6.263664411034135e-08,
    "opened": 1793274746.1827707,
-   "last_px": 7.008018405717659e-08,
-   "peak_px": 7.008018405717659e-08,
-   "last_val": 1.8033810045435217,
-   "last_prog": 0.498
+   "last_px": 7.049621981883812e-08,
+   "peak_px": 7.049621981883812e-08,
+   "last_val": 1.8144619505145656,
+   "last_prog": 0.501
   }
  },
  "traded": [
@@ -5314,82 +5314,86 @@
   [
    "2026-10-29T04:54:25",
    58.36
+  ],
+  [
+   "2026-10-29T04:55:21",
+   58.37
   ]
  ],
- "cycles": 1581,
+ "cycles": 1582,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.32000000000001,
- "watching": 162,
+ "sol_usd": 100.324397993,
+ "watching": 169,
  "near": [
   [
    "OREN",
    "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump",
-   0.974,
-   4.4,
+   1.0,
+   5.3,
+   "graduated"
+  ],
+  [
+   "Tot",
+   "BeQhiMsZ1PdTkBNg8rdXugukGAhwLnmn45n5vaBipump",
+   0.109,
+   2.3,
    ""
-  ],
-  [
-   "OREN",
-   "FVusFZzECT283rDUkbGaHUQxSAk7ZuUHAS3xnvfQHu1k",
-   0.578,
-   3.5,
-   "serial_creator=57 launches/24h"
-  ],
-  [
-   "OREN",
-   "CbaUqEKw5RVf9da3pGBWjRFmxD4C3o7hhwokd6bF3A3h",
-   0.333,
-   2.8,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "Oren",
-   "FrwYoFL8DZTNv9QFcpPM7inA2AW45TC3Kw3jfC8Xpump",
-   0.101,
-   2.4,
-   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "TM13",
    "71XwZCqjXVwmtZTiDNtRgLMxzEacAjFkXngKGfbCpump",
    0.084,
-   7.3,
+   8.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "PUMPDOGE",
    "GkaQ1JxvbyU2R5HrmpGwBcCLvTPaQmSHvNNv3C62pump",
    0.058,
-   5.8,
+   6.7,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PINO",
    "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
    0.05,
-   8.8,
-   ""
-  ],
-  [
-   "OUTSNIPE",
-   "CiXUtggr2rKf9tjSMueF7JThXGcF5oK1w2GKXjppump",
-   0.046,
-   10.1,
+   9.8,
    ""
   ],
   [
    "OREN",
    "581P5KRb2fJRzVcieey49bLmGTN3R3AoyffTYCFFpump",
    0.037,
-   3.0,
+   4.0,
+   ""
+  ],
+  [
+   "spacex ",
+   "9druXA2jsoNj51Xq1E2YALYJQoxnYputDSUFfRNgpump",
+   0.034,
+   7.4,
    ""
   ],
   [
    "Gnosis",
    "FHqGTaNEZqQm5MdrnX5tQzgWtfhnQMkPHynCKJybpump",
    0.033,
-   5.7,
+   6.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "OREN",
+   "3hhDqxUq3Djm4P3ogJa81MgY4kuZFM14N4x5buaDjtM8",
+   0.025,
+   2.6,
+   ""
+  ],
+  [
+   "GENNY",
+   "75FFhTTps2vjb75VWDBr6anuweJvaGzWee8U3mBzpump",
+   0.022,
+   8.8,
+   ""
   ]
  ]
 }
