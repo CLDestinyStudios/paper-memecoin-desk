@@ -6398,84 +6398,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:11:55",
+   "2026-10-29T12:12:53",
    32.58
   ]
  ],
- "cycles": 2018,
+ "cycles": 2019,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.31671097000002,
- "watching": 245,
+ "sol_usd": 100.30999999999999,
+ "watching": 244,
  "near": [
   [
    "Lily",
    "8PLFUxaRXxzakrMXL7r47b7v3SaP79XVPv4fWXVupump",
-   0.921,
-   4.9,
-   ""
-  ],
-  [
-   "SI",
-   "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
-   0.794,
-   6.1,
+   0.973,
+   5.9,
    ""
   ],
   [
    "CROWD",
    "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
-   0.709,
-   5.1,
+   0.833,
+   6.1,
+   ""
+  ],
+  [
+   "SI",
+   "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
+   0.781,
+   7.1,
    ""
   ],
   [
    "Mali",
    "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
-   0.687,
-   5.8,
+   0.607,
+   6.8,
    ""
-  ],
-  [
-   "MIAOU",
-   "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
-   0.36,
-   9.7,
-   "buyers=4; creator=22.0%; top5_hold_most=100%"
   ],
   [
    "ABDUL",
    "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
    0.122,
-   8.9,
+   9.9,
    "top5_hold_most=100%"
   ],
   [
-   "LLM",
-   "sAUJyF4EeoGMXPz6yL4bpypxNUZnyn5EBECH3peQ67M",
-   0.116,
-   7.2,
-   ""
-  ],
-  [
-   "LilyAI",
-   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
-   0.099,
-   6.4,
-   ""
-  ],
-  [
-   "Mali",
-   "H4SnSwUEBRkPJyBBuGbVnfJ3FA64Z2A2Cir2N5kMxfQD",
-   0.096,
-   2.5,
-   ""
-  ],
-  [
-   "RUGGO ",
-   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
-   0.089,
-   9.3,
+   "SI",
+   "HRFiuhw5gkyGV2z4H29Q9M4o5m1zwqXCf41g1z6opump",
+   0.084,
+   4.9,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "AtlasPad",
+   "4ZYjp7nS7EgtJmy7PxmoVdNS9nTZyVDMgPvBQzP7pump",
+   0.047,
+   5.4,
+   ""
+  ],
+  [
+   "REKT",
+   "34Q8BgSU2VdYSmZCk84aGaMDbuNJq96ey7uiJA3ypump",
+   0.039,
+   3.9,
+   ""
+  ],
+  [
+   "BREAD",
+   "GJQ6iwwgTV5hmJDkjevdWaH3Q2prY1MGbyE9UvKrpump",
+   0.027,
+   9.9,
+   ""
+  ],
+  [
+   "HYPE",
+   "2Xj8sodgEE6aQ2QuyYMjb7TQ6Gp5m2yj3qdL4RZApump",
+   0.024,
+   9.5,
+   ""
   ]
  ]
 }
