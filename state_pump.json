@@ -13,10 +13,10 @@
    "entry_px": 5.62286957306321e-08,
    "entry_fill": 6.115302565292456e-08,
    "opened": 1793277862.587462,
-   "last_px": 7.955691825056927e-08,
+   "last_px": 5.704026070637419e-08,
    "peak_px": 9.170751135496402e-08,
-   "last_val": 0.991496496023049,
-   "last_prog": 0.551,
+   "last_val": 0.6968667391453908,
+   "last_prog": 0.406,
    "tp1_done": true,
    "realized": 0.3063653928460115
   }
@@ -5507,81 +5507,85 @@
   [
    "2026-10-29T05:50:21",
    56.12
+  ],
+  [
+   "2026-10-29T05:51:21",
+   55.83
   ]
  ],
- "cycles": 1637,
+ "cycles": 1638,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.44118132200002,
- "watching": 164,
+ "sol_usd": 100.46688246750756,
+ "watching": 167,
  "near": [
   [
    "boo",
    "4h5pEEBQdgLb5KKs7c5FoKfNbdkZ4iXbjGh64CfTpump",
-   0.911,
-   5.3,
+   0.912,
+   6.3,
    ""
   ],
   [
    "PURR",
    "GjR2aqV9icSefi14uEWGsc5nuZYrwqqRfWDb6WyinF4L",
-   0.325,
-   4.2,
-   ""
-  ],
-  [
-   "MAX",
-   "6B8nJYg2jmWU3HWhr38MY8APiq1RJtkzmCEC3RzKkqGQ",
-   0.146,
-   5.6,
-   "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "PILL",
-   "7Xn48o89y81pZvAQcKcLvx9zdZixZhLEgFrKXUdp5gj9",
-   0.098,
-   3.3,
+   0.353,
+   5.2,
    ""
   ],
   [
    "EGG",
    "4putnt5MAedTmK9Yp1db5H82WZD1tGMSP2DbVa9BQnBD",
    0.093,
-   7.5,
+   8.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "MAX",
+   "6B8nJYg2jmWU3HWhr38MY8APiq1RJtkzmCEC3RzKkqGQ",
+   0.089,
+   6.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Thruput",
    "2MaE9LWts5SAat8An25cbtySAgt2wUCDQA4eaXkdpump",
-   0.037,
-   5.8,
+   0.034,
+   6.8,
    ""
   ],
   [
-   "ALICE",
-   "6XxtrSWAauuCjStD2VPC4sLmSJ4n69jax1aL27Htpump",
-   0.033,
-   4.9,
+   "DOORZ",
+   "G8C8RYkMxcSx3CpcRZ6s65JSxUwXrFbGLSYWxXsfpump",
+   0.031,
+   2.6,
    ""
   ],
   [
-   "Dreamify",
-   "A7Pxwyq7UBZwRePsqMioKamc9DT3TYwSxf3wy85Bpump",
-   0.03,
-   2.2,
+   "mama bear",
+   "GiqxEd7V1U45t1CH8wTKfWaHDTpkHweY95izXq7vpump",
+   0.022,
+   2.7,
+   ""
+  ],
+  [
+   "ZYNEXIS",
+   "81o6zNNitGB28V2CKJ3BauMhVzFTHTV8RijKncYEpump",
+   0.017,
+   2.7,
    ""
   ],
   [
    "PETRI",
    "3remP83a79pk2YUyctus5V3qpqf286g2csTSjGdHpump",
    0.015,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "Susie",
-   "AfkrD41p527eChn7sKy9vLCNT3N8cCxEJiadT46whimZ",
-   0.013,
-   2.7,
+   "PETRI",
+   "829TTntmRkcrkxzZDjeA4T7tyiGS6ZvcDsFUmzQ3pump",
+   0.015,
+   2.4,
    ""
   ]
  ]
