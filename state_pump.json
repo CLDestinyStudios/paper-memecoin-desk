@@ -6346,84 +6346,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:12:58",
+   "2026-10-29T10:13:57",
    32.58
   ]
  ],
- "cycles": 1899,
+ "cycles": 1900,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.58708697600001,
- "watching": 345,
+ "sol_usd": 101.6158963915,
+ "watching": 336,
  "near": [
   [
    "LUMEN",
    "BtAe3p7i1jig8vAAob1QuUkDZwLugqoGGXHrYBEKpump",
-   0.54,
-   5.6,
+   0.63,
+   6.6,
+   ""
+  ],
+  [
+   "MINEBOX",
+   "WMDjfTDgd5HLwJ9bYwyoeWDDVj9tH8TCcMjowLqpump",
+   0.553,
+   2.9,
+   "bundled_launch=9 extra buys in creation block"
+  ],
+  [
+   "MIAOU",
+   "5fSs6Eiig6h9FX366DUbqXxWn94HczA6m1xKArF92y62",
+   0.453,
+   2.7,
+   "buyers=3; creator=26.6%; top5_hold_most=100%"
+  ],
+  [
+   "CNT",
+   "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
+   0.382,
+   6.1,
+   "top5_hold_most=89%"
+  ],
+  [
+   "DOORPRANK",
+   "4Rod5ZMr6nQvrzkFjsQFcyrepLSGNW28Tmne9TAmpump",
+   0.249,
+   2.1,
    ""
   ],
   [
    "USWR",
    "FNkA4NDiNUwZuCwp5J6P7WPtgrZcVRDnvwJ1yrLUpump",
-   0.239,
-   6.8,
+   0.238,
+   7.8,
    "top5_hold_most=84%"
-  ],
-  [
-   "COLUM",
-   "GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ",
-   0.166,
-   5.9,
-   ""
   ],
   [
    "$SWEEP",
    "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
    0.161,
-   6.3,
+   7.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "CNT",
-   "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
-   0.148,
-   5.1,
-   "top5_hold_most=89%"
+   "AI",
+   "9p1JN5tQmwNVKurSV84K6X4XKaCMK4Q6G8JQY6Cgpump",
+   0.161,
+   2.9,
+   ""
   ],
   [
-   "FC",
-   "5TUfEaDXRTuSNVZgPsZdUgxriDKhngewYZUWZhvnpump",
-   0.088,
-   4.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "MASSAGECAT",
-   "ef4scsYTB6xhFDE3vvweTjoyh2wmogz8V8zKpRtpump",
-   0.073,
-   6.0,
+   "COLUM",
+   "GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ",
+   0.157,
+   6.9,
    ""
   ],
   [
    "THUMPER",
    "C3QzwXwtFwKRSGXca2ra5rSiQstUvRrvtAN6RtNYpump",
-   0.064,
-   2.2,
+   0.154,
+   3.2,
    ""
-  ],
-  [
-   "JRE",
-   "gE1yx59gThxj3e7PnUhUW6YSBrpy9U6Xsf1SWFypump",
-   0.064,
-   9.2,
-   ""
-  ],
-  [
-   "TESTONE",
-   "8a44GFzmZG2pNYqkWWjN1aZpMfTcVaGHw161Bi8Dvfe9",
-   0.063,
-   9.3,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
