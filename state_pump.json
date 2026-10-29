@@ -4693,84 +4693,84 @@
    71.47
   ],
   [
-   "2026-10-29T01:30:28",
+   "2026-10-29T01:31:24",
    71.47
   ]
  ],
- "cycles": 1377,
+ "cycles": 1378,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9488699832,
- "watching": 139,
+ "sol_usd": 99.9270066608,
+ "watching": 130,
  "near": [
   [
-   "acc/bio",
-   "3HvochGHMm6Supk9wXBkuvdH94iUGaA3jMH2jHttpump",
-   0.195,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
+   "666",
+   "GWDh6gg32fweANYqqhY7HKCUiuFMibW7EknyTsQtpump",
+   0.19,
+   5.8,
+   ""
+  ],
+  [
+   "PUMPSPIDER",
+   "3FpjQmSX9eja6HxLUFKcmwZcKiFUYLB8iFrLFdv1SAGA",
+   0.136,
+   2.6,
+   "buyers=9; top5_hold_most=91%"
+  ],
+  [
+   "TIDE",
+   "138CZ9FBSPXTTafQshwzRkUEnSDTAJDZgHF8DnCcpump",
+   0.066,
+   2.2,
+   "top5_hold_most=84%"
   ],
   [
    "WBTC",
    "4HNgB2BoGaXc8LRdhvGNa87YEz9mboYvvwTakTjCpump",
-   0.048,
-   3.1,
+   0.05,
+   4.0,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "BabyNuts",
+   "6KiSJe4GB9vLratvfF4Zb91jNQeekE3QCG3BnLzkpump",
+   0.032,
+   2.6,
+   ""
+  ],
+  [
+   "Shalom",
+   "ExvxzddALLT5HwhaKNgQ7s62h2ph5yU796FFUFvcpump",
+   0.029,
+   3.5,
    ""
   ],
   [
    "MEMES",
    "M91raiuvQNHRbKHTEBNWNKpyRxfKgmunbhyUzDvtixn",
    0.027,
-   4.0,
+   5.0,
    ""
   ],
   [
    "HEXKIN",
    "Cy2NXL6UtG5jVkjRZKs2k6GvsbYHpDtgiWapFm49xL6n",
    0.027,
-   5.5,
+   6.4,
+   ""
+  ],
+  [
+   "SPCX50K",
+   "Eajx97Z8We1hvReBcWmCMJ73HtKpQzNoPPSDUmwQpump",
+   0.02,
+   2.9,
    ""
   ],
   [
    "Dodo",
    "3YEEdJTj5CjJ15qKsA6ZeqZ2QAhWHNwU6UN6oudApump",
    0.015,
-   5.6,
+   6.5,
    ""
-  ],
-  [
-   "wrong",
-   "27J5UcJLw1sEbmat3nxejGcV5RC5LX8HZQMT7RBfpump",
-   0.011,
-   7.1,
-   ""
-  ],
-  [
-   "Dr",
-   "5j8PCwtnBecSx6Qx1yKpRe7VKohgaXu2gsk491NQpump",
-   0.011,
-   8.6,
-   ""
-  ],
-  [
-   "HP",
-   "7iTuWxeTWaBbWvRvFn6Dix4WFQTmseGSQVr2cEoNpump",
-   0.009,
-   10.0,
-   ""
-  ],
-  [
-   "Elon",
-   "6EjXzHjHCqzJKJgizRUQDuHpYaZ96LQ3tHmekCH1kfVC",
-   0.007,
-   7.1,
-   ""
-  ],
-  [
-   "Run Away",
-   "3ywoqEXxqjEHQdNPwJYQ8iqv2onFcbN6ttfub8oHpump",
-   0.007,
-   9.0,
-   "buyers=7; top5_hold_most=95%"
   ]
  ]
 }
