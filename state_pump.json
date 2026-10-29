@@ -13,10 +13,10 @@
    "entry_px": 4.199753585286485e-08,
    "entry_fill": 4.52478528958781e-08,
    "opened": 1793256544.5065336,
-   "last_px": 4.199753585286485e-08,
-   "peak_px": 4.199753585286485e-08,
-   "last_val": 2.113307350259539,
-   "last_prog": 0.249
+   "last_px": 5.619292301756273e-08,
+   "peak_px": 5.619292301756273e-08,
+   "last_val": 2.845147939561595,
+   "last_prog": 0.399
   }
  },
  "traded": [
@@ -4389,81 +4389,85 @@
   [
    "2026-10-28T23:49:04",
    81.5
+  ],
+  [
+   "2026-10-28T23:50:05",
+   82.23
   ]
  ],
- "cycles": 1276,
+ "cycles": 1277,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.81000000000002,
- "watching": 209,
+ "sol_usd": 99.84318011894997,
+ "watching": 212,
  "near": [
   [
-   "Fridgecoin",
-   "EdL5zccqwoepD3g5xf6kqQmZjhYzsywjpPG3g4pXN8WZ",
-   0.249,
-   3.1,
-   "bought"
+   "TRUMP",
+   "545g6yKydZiDV9Sfg6YpdbNyubcXYRjgGEoEf8Aopump",
+   0.857,
+   2.2,
+   ""
   ],
   [
    "666",
    "G68CS7oxCze862Wm6tRwUuxX89QckrkvBrhrVzsppump",
-   0.184,
-   6.8,
-   "buyers=2; top5_hold_most=100%"
+   0.22,
+   7.8,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "e/acc",
    "3vXj5HEJjQoiUVCaS5KKANnqQMG53RYUvaKhNvbBpump",
    0.157,
-   8.6,
+   9.6,
+   ""
+  ],
+  [
+   "fridge",
+   "2fSmzXB8WhKEsAZnS2YUXyBwsnDnuv3yfG9eePTbpump",
+   0.133,
+   3.0,
    ""
   ],
   [
    "Toly",
    "53xiTc6xMEKpdsSVfWLZCaC7eFdPPh4PocaUbuZpump",
    0.123,
-   4.8,
+   5.8,
    ""
+  ],
+  [
+   "Toly",
+   "HqAm7YYMEspqa29H9cbxQoaDu2Z31rjETo7Wor8Hnf3P",
+   0.12,
+   9.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Fridgecoin",
    "6XXhidmFmg46pEUjxH7MLGBSTDUqDRyDSqg52djWpump",
    0.09,
-   2.8,
+   3.8,
    ""
   ],
   [
-   "Trump",
-   "FU4GZx8nzKpvocfir8Amq8455f268pgtVafcEUFdpump",
-   0.064,
-   8.0,
-   "buyers=6; top5_hold_most=100%"
+   "fridge",
+   "GhStpeStcmUU5Y3qC9FfZte1PgrGkNiSRHCpdjD7pump",
+   0.085,
+   2.8,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "fridge",
-   "9kY15nNjsRLiqm5oP9otp9jzvPcoATaykfQyTcYnpump",
-   0.064,
-   2.6,
+   "2jcwiBjPE6X5ApP3WVmDXEhRG28u2PQzV8LihJrVpump",
+   0.049,
+   2.1,
    ""
   ],
   [
    "voiceinu",
    "DFcx8HcBiGMAuJpiSh6Ka2HLeqmDWixZyh7Mh9Uhpump",
    0.043,
-   4.1,
-   ""
-  ],
-  [
-   "Fridgecoin",
-   "4W3KjyPHqPVoLo1rdiA4LnFF2Jo816bZjn2UqgWxpump",
-   0.043,
-   2.6,
-   ""
-  ],
-  [
-   "GrokCoin",
-   "EQiEmWAg9K2Ft31QSViZ4Krq97zqitBbAPmnJNxipump",
-   0.043,
-   5.9,
+   5.1,
    ""
   ]
  ]
