@@ -13,10 +13,10 @@
    "entry_px": 7.043275421653631e-08,
    "entry_fill": 7.606557494731993e-08,
    "opened": 1793262263.8476713,
-   "last_px": 8.657801451206476e-08,
+   "last_px": 6.667120841263275e-08,
    "peak_px": 8.657801451206476e-08,
-   "last_val": 2.3102680317640427,
-   "last_prog": 0.584
+   "last_val": 1.7672364155699174,
+   "last_prog": 0.477
   }
  },
  "traded": [
@@ -4698,82 +4698,86 @@
   [
    "2026-10-29T01:25:21",
    73.01
+  ],
+  [
+   "2026-10-29T01:26:21",
+   72.46
   ]
  ],
- "cycles": 1372,
+ "cycles": 1373,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.91555165540002,
- "watching": 156,
+ "sol_usd": 99.89,
+ "watching": 149,
  "near": [
   [
    "$RSOCKS",
    "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump",
    0.207,
-   6.9,
+   7.9,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "Crackhead",
-   "GjFBVP9UK7291z2SWr5oLtAiid6wr8jfMXYVaDukpump",
-   0.139,
-   2.5,
-   "buyers=1; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "UPVOTE",
+   "FB1BpyDvBsrZBDCtFPGiUebLxr7sECmhoBKFy9Xpump",
+   0.2,
+   3.0,
+   "top5_hold_most=91%"
   ],
   [
    "TRAVEL",
    "3JyTtWhGwQ27kfQqVdizDWKgnGReLo8zYyVN2V5Npump",
    0.088,
-   8.5,
+   9.5,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "WW3",
+   "9jGLidPxUJ7SxNiB7kaYn2H47K8nJ5qeiMkFYVQMpump",
+   0.072,
+   2.4,
+   ""
+  ],
+  [
+   "GC",
+   "H2kg6wrvrgTVg6nQQLVdwF6Thbf4yVUtzAibgjNipump",
+   0.069,
+   2.9,
+   "top5_hold_most=94%"
   ],
   [
    "bob",
    "BeECJUszks6nYL8wwoFuD9UyjCiRPeq3Jh8KPmmficj",
    0.068,
-   5.7,
+   6.7,
+   ""
+  ],
+  [
+   "DOOMSDAY",
+   "4bHAhMUP9jFU8AYp7QQD7PMBiG2snZegjkjaww5xpump",
+   0.041,
+   2.4,
+   ""
+  ],
+  [
+   "RIGHT ",
+   "5KaJC3q7GKcRbqNYq71137fvEK6GrvhsKUxwQs8ppump",
+   0.036,
+   6.1,
    ""
   ],
   [
    "Susie",
    "CvPipD6WdM95wxwCj8w6zqW2YzssJZKeZBeshFMcpump",
    0.024,
-   2.5,
-   ""
-  ],
-  [
-   "RIGHT ",
-   "5KaJC3q7GKcRbqNYq71137fvEK6GrvhsKUxwQs8ppump",
-   0.02,
-   5.1,
-   ""
-  ],
-  [
-   "CC",
-   "DrqpBDEA4VbEEAV8SQP7Rhv5uzVNtQ7515eKWMwgpump",
-   0.011,
-   8.2,
-   ""
-  ],
-  [
-   "wrong",
-   "27J5UcJLw1sEbmat3nxejGcV5RC5LX8HZQMT7RBfpump",
-   0.011,
-   2.0,
+   3.5,
    ""
   ],
   [
    "Run Away",
    "3ywoqEXxqjEHQdNPwJYQ8iqv2onFcbN6ttfub8oHpump",
-   0.011,
-   3.8,
+   0.016,
+   4.8,
    "buyers=7; top5_hold_most=95%"
-  ],
-  [
-   "Dr",
-   "5j8PCwtnBecSx6Qx1yKpRe7VKohgaXu2gsk491NQpump",
-   0.011,
-   3.5,
-   ""
   ]
  ]
 }
