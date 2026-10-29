@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.7012113747972122e-07,
+   "last_px": 1.831713239779144e-07,
    "peak_px": 2.1982212378193004e-07,
-   "last_val": 1.225030542497366,
-   "last_prog": 0.804,
+   "last_val": 1.323756666948735,
+   "last_prog": 0.824,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5398,81 +5398,85 @@
   [
    "2026-10-29T05:14:23",
    58.98
+  ],
+  [
+   "2026-10-29T05:15:23",
+   59.08
   ]
  ],
- "cycles": 1601,
+ "cycles": 1602,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.05786346963507,
- "watching": 271,
+ "sol_usd": 100.12777262300001,
+ "watching": 258,
  "near": [
-  [
-   "Belugas",
-   "83MCc2QhWveVTVo9RHGzDXrnfLjahd528DhUGioepump",
-   0.644,
-   3.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "PIRATE",
    "7bXhRSnPu67Pt1drn7mFpiHZEh5mVPUZZtaQ5BMCpump",
    0.161,
-   7.4,
+   8.4,
    "buyers=9; top5_hold_most=96%"
   ],
   [
    "PINO",
    "58AqeW3ZPXGsXiWJvmLfZ1MhJv52YEnVxYvcoaSqpump",
-   0.107,
-   4.0,
+   0.11,
+   5.0,
    ""
   ],
   [
    "EGG",
    "74zGUTncpsXGkPsTXfGifs7ZMud8rTyGNu99EAfApump",
    0.101,
-   3.9,
+   4.9,
    ""
   ],
   [
    "ICECAT",
    "CmfETzZd5zXhubDNjkF2Ra7HxQ9ba5KQAV5qDChBPnFX",
    0.084,
-   6.8,
+   7.8,
    ""
   ],
   [
    "MuCa",
    "BApyqducoBh2GFVyfFyb2eZE7X8PR4Rj5AyvAmAWpump",
    0.083,
-   2.1,
+   3.1,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Chigga ",
+   "8pU5kmfkdgJp5hfwiAT9fWEvZTFefQY1jrPbqHPMY5Tz",
+   0.081,
+   2.6,
+   ""
+  ],
+  [
+   "MEIMEI",
+   "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
+   0.073,
+   5.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Cockfish",
    "BmQpG4PS1jKzBQyCvbNtEvGEXcP5ppiuz54J64pzRkhc",
    0.071,
-   5.5,
+   6.5,
    ""
   ],
   [
    "GTAVI",
    "GowRcDGK8G9MF3bLEgxAXXs6Dzoodpn6NFo6yX86pump",
    0.07,
-   5.7,
+   6.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "MEIMEI",
-   "2u5PAqx3XU4s8VLLcYZcAYGzvRqyAxbxR7mLiAkhpump",
-   0.043,
-   4.1,
-   ""
-  ],
-  [
-   "PINO",
-   "3dZwtcuMZEhu9oJDq4p8PENe8csSAtikrTpxcxWwpump",
-   0.03,
-   2.7,
+   "VEND",
+   "7NHpS4uen1mHCHk4rrNXFLVvS8rriyr9YT2wrx7gpump",
+   0.048,
+   2.2,
    ""
   ]
  ]
