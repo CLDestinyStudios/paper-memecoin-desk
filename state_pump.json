@@ -13,10 +13,10 @@
    "entry_px": 4.760836244714777e-08,
    "entry_fill": 5.101389993749803e-08,
    "opened": 1793237331.2551987,
-   "last_px": 2.141014125636296e-07,
-   "peak_px": 2.141014125636296e-07,
-   "last_val": 6.746174144730361,
-   "last_prog": 0.864,
+   "last_px": 2.1846753638234067e-07,
+   "peak_px": 2.1846753638234067e-07,
+   "last_val": 6.880289849735598,
+   "last_prog": 0.869,
    "tp1_done": true,
    "realized": 1.5458743492985685
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.960050781243944e-08,
    "entry_fill": 5.309912494133871e-08,
    "opened": 1793238013.5230265,
-   "last_px": 4.590637972056518e-08,
+   "last_px": 4.244262768780732e-08,
    "peak_px": 4.960050781243944e-08,
-   "last_val": 2.9444449350011754,
-   "last_prog": 0.297
+   "last_val": 2.7168167158293226,
+   "last_prog": 0.255
   }
  },
  "traded": [
@@ -3651,81 +3651,85 @@
   [
    "2026-10-28T18:41:00",
    122.53
+  ],
+  [
+   "2026-10-28T18:41:49",
+   122.44
   ]
  ],
- "cycles": 968,
+ "cycles": 969,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.779623878,
- "watching": 331,
+ "sol_usd": 100.714851951,
+ "watching": 334,
  "near": [
   [
-   "MEMEAGENTS",
-   "Do9kCSvUPVmBLZUuQqjoXGsNwRYqDWZ863iQsLC2pump",
-   0.157,
-   3.5,
-   "buyers=7; top5_hold_most=98%"
+   "cooked",
+   "Ge7VjeTwZgtcrswAzxeAa4jaVQRo73q8syJzH6Frpump",
+   0.178,
+   3.8,
+   ""
   ],
   [
    "e/pump",
    "2KTpGj5ZRDZ5fX1uVwtaN3qVNuKxWsJ2BEx4pwYbpump",
-   0.124,
-   5.3,
-   "buyers=4; top5_hold_most=100%"
+   0.098,
+   6.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "NPC6",
-   "Bs9JFckvWeEWSfNgCVtg6pvqDN4iBAfMV2Sw6QJupump",
-   0.118,
-   2.4,
-   "buyers=8; top5_hold_most=87%"
-  ],
-  [
-   "cooked",
-   "Ge7VjeTwZgtcrswAzxeAa4jaVQRo73q8syJzH6Frpump",
-   0.094,
-   3.0,
+   "ENVAR",
+   "3PdCP5sHLJHDFVr9oEWrwQVGjytchBEPSRnVckpKpump",
+   0.087,
+   2.5,
    ""
   ],
   [
    "KNG22",
    "DP1Cb9msa4TsY8hH4iaQkL3zT7bZrt9UpdZugpWKpump",
    0.074,
-   4.2,
+   5.0,
    ""
   ],
   [
    "KNG22",
    "4cypL5sgwK4XJMMXjQPpBF8QZ99U3DPjh5QDkZDmpump",
    0.073,
-   3.5,
+   4.3,
+   ""
+  ],
+  [
+   "TEST",
+   "Hy8jGb3iBgj5fi81NEXc7uCQrRDd1NPn3hT2jwB4pump",
+   0.071,
+   2.6,
    ""
   ],
   [
    "Pumpkinu",
    "CZX8yim19RqQxVWb2aeK1RmYM5eT19rGsBoDgDSoySZ5",
    0.07,
-   3.1,
+   3.9,
    ""
   ],
   [
    "UNCLEBEAN",
    "8L9bt6JSntGUfSHdtrSMXPBGnBm55dMXv914ZHkUpump",
    0.07,
-   5.0,
+   5.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "4SKIN",
    "EtT7XSB2i23ZSsrdU7hzwkbVe7vXMLRXJErUtiDNpump",
    0.065,
-   2.7,
-   "buyers=4; top5_hold_most=100%"
+   3.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SPOOKY",
    "2xBUWhABpgTJLnFzgPH3QgnN1rzGmuZcGEazmhoFpump",
    0.055,
-   4.0,
+   4.8,
    ""
   ]
  ]
