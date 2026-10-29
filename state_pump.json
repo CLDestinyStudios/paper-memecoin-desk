@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 74.17729864623489,
- "positions": {},
+ "cash": 71.94729864623488,
+ "positions": {
+  "84zSiXj2TuwAxj5TFbWksxDmKtdGMpuj5YbmDnjHpump": {
+   "sym": "SCRATCH",
+   "bc": "7xVJqsDt3ZfXee6KzAHyMkpbwmtBC5FwDFvNjjT5N6MV",
+   "tokens": 556049.2327249146,
+   "cost": 2.23,
+   "cost0": 2.23,
+   "entry_px": 3.724177790155572e-08,
+   "entry_fill": 4.020826683609043e-08,
+   "opened": 1793261106.8150942,
+   "last_px": 3.724177790155572e-08,
+   "peak_px": 3.724177790155572e-08,
+   "last_val": 1.9070289785240702,
+   "last_prog": 0.181
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -302,7 +317,8 @@
   "J4ujNau8XeUF7AGshZHbd3WbK7Je8jbAuuVAzbQnpump",
   "83UM2ihe4Xbbsq1HCBWbMpow5YEAoUYaCQ1CnrQ9pump",
   "DHG4568vapK2g2j4LQ9rUukZzwHzPaoEGwNaJM1opump",
-  "AVX1TcPXhswZB3qGNiYMXaMK4dayncLPXoB9neubpump"
+  "AVX1TcPXhswZB3qGNiYMXaMK4dayncLPXoB9neubpump",
+  "84zSiXj2TuwAxj5TFbWksxDmKtdGMpuj5YbmDnjHpump"
  ],
  "equity": [
   [
@@ -4636,81 +4652,85 @@
   [
    "2026-10-29T01:04:06",
    74.18
+  ],
+  [
+   "2026-10-29T01:05:06",
+   73.85
   ]
  ],
- "cycles": 1351,
+ "cycles": 1352,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.70239424395,
- "watching": 159,
+ "sol_usd": 99.74158465670001,
+ "watching": 164,
  "near": [
-  [
-   "cat3",
-   "2HhAf32vdmbKWXJcBhTLR4GarkwocJvfJhqBPFv6fkW1",
-   0.923,
-   4.8,
-   ""
-  ],
   [
    "ACT:D",
    "3MRyD7DK84NmyB9KCnZy3CJcU1Q9TVf5m3fK16kqpump",
-   0.911,
-   8.0,
+   0.919,
+   9.0,
    ""
+  ],
+  [
+   "cat3",
+   "2HhAf32vdmbKWXJcBhTLR4GarkwocJvfJhqBPFv6fkW1",
+   0.893,
+   5.8,
+   ""
+  ],
+  [
+   "Cyber",
+   "6uLVLZd9EbUBp32b1mwPd4zHN4dgzpLLgzsCsgdphASM",
+   0.736,
+   2.2,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "NEURA",
+   "GtWhPejZ6mtKFC9MC2kJ1iDkzHDh1yA48gYEdYyhpump",
+   0.25,
+   2.3,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "SCRATCH",
    "84zSiXj2TuwAxj5TFbWksxDmKtdGMpuj5YbmDnjHpump",
-   0.109,
-   2.2,
-   "buyers=6; top5_hold_most=92%"
+   0.181,
+   3.2,
+   "bought"
   ],
   [
-   "Hefty",
-   "6CAbu2CwbFCbDnHST3HwpDQd7dotk7EyxCEzokSCpump",
-   0.077,
-   6.0,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "Jose",
+   "59B2imk8vdTUwDDW5xS2ecXtzZFyEisZ3KMA1p6Mpump",
+   0.12,
+   2.6,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
-   "KIMCHITERM",
-   "F4QPw3F37w7zEBvV9WTmznb3enuTTNwFeawgbNdFpump",
-   0.045,
-   5.0,
+   "Cyber",
+   "H4rURXrwyyLxaAeUH7kjVgsfXCnYxcuaTXWNmnL6pump",
+   0.11,
+   2.6,
    ""
   ],
   [
-   "APIROU",
-   "Cdm9qm9LuyF1DRKJPfjNrF4TUYcimTCw1es366vrpump",
-   0.044,
-   4.5,
-   ""
-  ],
-  [
-   "ACT:D",
-   "H6xpguE1d9KGM7giqFNCEAZafRBcrUDtxPzhJpkopump",
-   0.043,
-   5.2,
+   "\ud83e\udec3",
+   "54UyEPbxZRfeozG3UM6jzAX89jbgGCH42VRCBDLZpump",
+   0.074,
+   2.9,
    ""
   ],
   [
    "cypurr",
    "8dZWzQkdiGvaDyMMU1yd8YiwpwNQuKaYmVRqm3dqpump",
    0.04,
-   3.0,
+   4.0,
    ""
   ],
   [
    "ACT:D",
-   "J1E4Dcd3dSjgC6Qp6SkuQ9D8psR7KvseNGEmDMrSpump",
-   0.037,
-   5.8,
-   ""
-  ],
-  [
-   "cypurr",
-   "6pdm5gP12DiC6tTXF1Ft8Jk34YMCUSiSSeWgNeggHE4E",
-   0.034,
-   2.6,
+   "H6xpguE1d9KGM7giqFNCEAZafRBcrUDtxPzhJpkopump",
+   0.04,
+   6.2,
    ""
   ]
  ]
