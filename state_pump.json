@@ -6466,83 +6466,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:49:04",
+   "2026-10-29T14:50:03",
    32.58
   ]
  ],
- "cycles": 2175,
+ "cycles": 2176,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.98241993570001,
- "watching": 315,
+ "sol_usd": 97.28,
+ "watching": 304,
  "near": [
   [
    "ABC",
    "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
    0.634,
-   5.7,
-   ""
-  ],
-  [
-   "MeiMei",
-   "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump",
-   0.417,
-   2.4,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "CSI",
-   "6qRgKi1KzdknadpCRoyc5siDhSkiUKUs926ZMJD7pump",
-   0.248,
-   9.5,
-   "top5_hold_most=86%"
-  ],
-  [
-   "Cyber",
-   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
-   0.199,
-   8.3,
-   ""
-  ],
-  [
-   "QUANTUM",
-   "abXs3qeKMo1ck4bZ3hf84Ei4WzgX1wDnP7Y4nivpump",
-   0.173,
    6.7,
+   "buyers=2; top10=50.3%; top5_hold_most=100%"
+  ],
+  [
+   "3B",
+   "GoEaM8Aq2LchHqMAvEXmErGu3pNqcNyVcDT5FiEppump",
+   0.409,
+   2.9,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "BNBSCAM",
+   "2AmAkkfVHRFtqToRPJmLtNRYgbkhL46SuYQdd5ZSpump",
+   0.376,
+   2.1,
+   ""
+  ],
+  [
+   "LEVER",
+   "5P2mRTjygr5U3noQQk9mfJbpBGnTSy2Zvbdq9FhRE2eP",
+   0.154,
+   3.5,
    ""
   ],
   [
    "safu",
    "4yGXKiS9XwqGAcqn6yTyYzFZhT9nzwQeBsEELpf9pump",
    0.147,
-   8.5,
+   9.5,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Cyber",
+   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
+   0.13,
+   9.2,
+   ""
   ],
   [
    "hack",
    "9iNL3oEE8uSmbLHLkLVQiLGbMWiDrDD9oKsshjsGpump",
    0.123,
-   7.8,
+   8.8,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "QUANTUM",
+   "abXs3qeKMo1ck4bZ3hf84Ei4WzgX1wDnP7Y4nivpump",
+   0.104,
+   7.7,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "PICARDCOIN",
    "6xNdELzLQVkfs1LcGTKq4AYMz8vE4ENCZyVdqL4Rpump",
    0.103,
-   6.3,
+   7.3,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "HI",
-   "2iy6YoYNpCXSGEVRTRDZD3VgfeACcLUD9Zmr7b4Lr8o6",
-   0.066,
-   8.6,
-   ""
   ],
   [
    "THREADGUY",
    "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
-   0.066,
-   8.0,
+   0.072,
+   8.9,
    ""
   ]
  ]
