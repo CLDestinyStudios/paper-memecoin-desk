@@ -6430,84 +6430,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:22:01",
+   "2026-10-29T13:23:08",
    32.58
   ]
  ],
- "cycles": 2088,
+ "cycles": 2089,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.1281773164,
- "watching": 294,
+ "sol_usd": 99.07,
+ "watching": 287,
  "near": [
   [
    "PRRPS",
    "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
-   0.831,
-   2.2,
+   0.799,
+   3.3,
    ""
   ],
   [
    "PARCHA",
    "8yZx9d3W8egv6cWRANgh45KEGBMDHC9pPhjuBJ13gV1A",
    0.328,
-   7.1,
+   8.2,
    "buyers=5; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "NIBBLES",
-   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
+   "OCCSHELL",
+   "F9bxcvogiCL97dBeq3shBxdZLZn2WT1C5vorEovrpump",
    0.226,
-   2.1,
-   ""
+   3.0,
+   "buyers=8; top5_hold_most=91%"
   ],
   [
-   "VOKIZ",
-   "BXutwwcogogxTCa4cgwVqCchY7Tf5FKQxaizNamVpump",
-   0.176,
-   2.2,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "GACHA",
+   "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
+   0.177,
+   5.0,
+   "buyers=6; top5_hold_most=89%"
   ],
   [
    "JASON ",
    "8xFUYmYYqUSeajukSJFQwvTWSooVH8Dz4ERFfjsLpump",
    0.175,
-   7.3,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "GACHA",
-   "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
-   0.153,
-   3.9,
-   "buyers=6; top5_hold_most=89%"
+   8.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SI",
    "7E6S8uzQ2uhj626wuSPnyjff8j2f6UZ9Md95wtdm5gTn",
    0.112,
-   2.3,
+   3.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "S&C",
-   "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
-   0.109,
-   4.8,
-   ""
-  ],
-  [
-   "cyber",
-   "CYYSXk6niUdRYW9P3maTeA4BVFTDVvBBVJTsSaEipump",
-   0.1,
-   5.7,
+   "NIBBLES",
+   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
+   0.111,
+   3.2,
    ""
   ],
   [
    "before",
    "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
    0.086,
-   8.6,
+   9.8,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "S&C",
+   "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
+   0.078,
+   5.9,
+   ""
+  ],
+  [
+   "Paws o algo",
+   "HFckoGaRF8kyR3rG2wPDFYobhbAH37iQ77zJubDTpump",
+   0.074,
+   3.8,
+   ""
   ]
  ]
 }
