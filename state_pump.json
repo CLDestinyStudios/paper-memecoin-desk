@@ -6494,83 +6494,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:59:03",
+   "2026-10-29T16:00:09",
    32.58
   ]
  ],
- "cycles": 2245,
+ "cycles": 2246,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.82999999999998,
- "watching": 306,
+ "sol_usd": 96.94,
+ "watching": 319,
  "near": [
   [
    "ZI",
    "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
-   0.915,
-   6.2,
+   0.907,
+   7.3,
    ""
   ],
   [
    "FAG",
    "6Ya1cE1A8Vi42LsUmsT3yEFEnDe8umzee6jjQPuupump",
    0.171,
-   7.2,
+   8.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "INUSSY",
+   "GY1xApFUgQtaNpLECkLPJSPkWd1cFT3vFFF5qERapump",
+   0.14,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "PEIRO",
    "GMrJdNq3VjNkfDy44teEusYEbec1eyh8RJYtFEGiR4KX",
-   0.136,
-   3.4,
-   ""
-  ],
-  [
-   "OPSEC",
-   "5stipa3ydYPTxDpSqFgrfrA3GXKchAxiZq7K2vsF3eyh",
-   0.112,
-   4.4,
-   ""
-  ],
-  [
-   "UBC",
-   "F5YmKXVbPEge2Jw1nbfFCaSJRHHtCvCpu299hYSrpump",
-   0.077,
-   4.2,
+   0.134,
+   4.5,
    ""
   ],
   [
    "PEIRO",
    "5hs73pJX2bbrrhVZdhSSYvq2xiHc1vbbsFozAC7jpump",
    0.065,
-   4.2,
+   5.3,
    ""
   ],
   [
-   "ZeroDay",
-   "6o2UqVVdpDtkcQwEBZ2XU71TGzRxXxSNH547Uzbbejy7",
+   "Last",
+   "2ASyN4tchGh1Gebx1eyed1gQTQ2g8d1aruKWQ6ghpump",
    0.064,
-   7.0,
+   3.1,
+   ""
+  ],
+  [
+   "UBC",
+   "F5YmKXVbPEge2Jw1nbfFCaSJRHHtCvCpu299hYSrpump",
+   0.062,
+   5.3,
+   ""
+  ],
+  [
+   "Firedancer",
+   "5hzmQEiSYqFrj4BCpFT2Pb9LqjHi51QtnRYLoatYpump",
+   0.041,
+   2.2,
+   ""
+  ],
+  [
+   "HYPEALL",
+   "8LsUXbdijBJ6UGPUnyCJ9iFurQbk2FGwF2gcPNtB4FYx",
+   0.039,
+   2.8,
    ""
   ],
   [
    "ZERODAY",
    "DjfXJqFZLjxK57JMai6Nz5vVfp1C7LFC18GBND8Wpump",
    0.031,
-   2.2,
-   ""
-  ],
-  [
-   "UBC",
-   "6mfRMVNQADRGL5nY7ofKfYhbFYsRxmri2CDL6KCapump",
-   0.03,
-   3.8,
-   ""
-  ],
-  [
-   "Zero",
-   "4AXok1iRFdtA7GRLeAEvdbmcXnGHACypwXJPeM1Kpump",
-   0.027,
-   5.8,
+   3.3,
    ""
   ]
  ]
