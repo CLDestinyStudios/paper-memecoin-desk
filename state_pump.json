@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 69.82324037272247,
- "positions": {},
+ "cash": 67.73324037272246,
+ "positions": {
+  "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump": {
+   "sym": "POLICE",
+   "bc": "5xsMRhzaEMJnUvztmDT8KNKsPaNA12nbYtvk4kALZ3HE",
+   "tokens": 552669.3497097015,
+   "cost": 2.09,
+   "cost0": 2.09,
+   "entry_px": 3.488566094122119e-08,
+   "entry_fill": 3.772598812455949e-08,
+   "opened": 1793264843.486543,
+   "last_px": 3.488566094122119e-08,
+   "peak_px": 3.488566094122119e-08,
+   "last_val": 1.7809762750456641,
+   "last_prog": 0.142
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -306,7 +321,8 @@
   "84zSiXj2TuwAxj5TFbWksxDmKtdGMpuj5YbmDnjHpump",
   "83Tm7q5rCW6powHdExdSwMsCKDXkE642Hs3C87t1pump",
   "AEQQDnUPbHh5QkCzF9XTmNwqUQ7M9q9HmH55BmGTXqEW",
-  "EfEKo74gLotaQB2qnHaJpjzPV8n2vbd9bJZfntBdpump"
+  "EfEKo74gLotaQB2qnHaJpjzPV8n2vbd9bJZfntBdpump",
+  "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump"
  ],
  "equity": [
   [
@@ -4716,81 +4732,85 @@
   [
    "2026-10-29T02:06:21",
    69.82
+  ],
+  [
+   "2026-10-29T02:07:23",
+   69.51
   ]
  ],
- "cycles": 1413,
+ "cycles": 1414,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.22,
+ "sol_usd": 100.239821019,
  "watching": 116,
  "near": [
   [
-   "Marmot",
-   "ETNAG5j6PkAqmG7cqSNCYunvMrjBxFUVcyiA2F1hAtUW",
-   0.489,
-   2.0,
-   "bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "Sora",
-   "8rZ2spNhiia964xoaxiY7mS9WQqtvU7aocvDsnSJpump",
-   0.142,
-   4.8,
-   ""
-  ],
-  [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
-   0.133,
-   9.0,
-   "buyers=9; top5_hold_most=87%"
+   0.142,
+   10.0,
+   "bought"
   ],
   [
-   "DUB",
-   "8LrS14uN6UysoHkpGsCzugubtnEhnEGBL2w4wFEV5vXG",
-   0.111,
-   2.3,
-   ""
+   "SI",
+   "96yx2Ua2fTWtcEDEjqxA6Ls77RwZQeBw778zzoYupump",
+   0.096,
+   2.1,
+   "top5_hold_most=84%"
   ],
   [
    "luck",
    "J3idAZRE9LxzigQS5CwFyRSVRjMH4S5RAUoYoXytBY7J",
    0.087,
-   5.7,
+   6.7,
    ""
   ],
   [
-   "Mr. Ash",
-   "4MZxEJyfdXowQFBSYCYBPUksX8A8rYe9iq1LMKRVpump",
-   0.083,
-   2.2,
-   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "FATINU",
+   "3w6hfxoeDwKdPQSU91myCUWMgaUbmhQxy7TKBEzKpump",
+   0.082,
+   3.0,
+   ""
   ],
   [
    "LESCAR",
    "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
    0.055,
-   3.9,
+   5.0,
+   ""
+  ],
+  [
+   "SI",
+   "AFxZf2V8ZCuPSb7V8v8TBmRzFK315Sc5YXP9WC3pcvRJ",
+   0.047,
+   2.1,
+   ""
+  ],
+  [
+   "STL",
+   "6g3ziZ6niLVzMF55AHP5zLfqsLd5MbXfmHja3PNwayui",
+   0.044,
+   2.3,
    ""
   ],
   [
    "GREMLIN",
    "9YejnLLhkYbiQGxyhFTtiaB1yJgytqcRoXg4dDmaNxbs",
    0.038,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
    0.034,
-   4.7,
+   5.7,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   6.4,
+   7.4,
    ""
   ]
  ]
