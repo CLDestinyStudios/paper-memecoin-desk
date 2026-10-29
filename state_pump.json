@@ -13,10 +13,10 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 8.880068234149527e-08,
+   "last_px": 8.664233551171571e-08,
    "peak_px": 1.011463125213647e-07,
-   "last_val": 0.9248879864118702,
-   "last_prog": 0.594,
+   "last_val": 0.9007432492831977,
+   "last_prog": 0.584,
    "tp1_done": true,
    "realized": 0.23547084605700674
   }
@@ -5582,81 +5582,85 @@
   [
    "2026-10-29T06:25:24",
    54.95
+  ],
+  [
+   "2026-10-29T06:26:23",
+   54.93
   ]
  ],
- "cycles": 1672,
+ "cycles": 1673,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.5796385025,
- "watching": 194,
+ "sol_usd": 100.53,
+ "watching": 199,
  "near": [
   [
    "CHLOE",
    "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-   0.963,
-   7.4,
+   0.968,
+   8.4,
    ""
   ],
   [
    "PETS",
    "AS8iLMmSJNEgDsv5XkVQn67kCM91hCuCgHc9cxp5pump",
-   0.512,
-   6.6,
-   ""
+   0.64,
+   7.6,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
-   "GROKR",
-   "oJp6jRNGVvywoJjfv6fS8s8P2bmZZeHmF1LyBWWPMcG",
-   0.453,
-   3.3,
-   "bundled_launch=5 extra buys in creation block"
+   "launchpad",
+   "3FwUjzW7Cy1BXqB7ir1qCb72fufv2KbTnLxFnQ7Spump",
+   0.378,
+   2.7,
+   ""
   ],
   [
    "BLAHMA",
    "6SpPE7u6TBiaqyKocjf1PDN8Rb1MH4im7G5MyDoepump",
-   0.261,
-   3.1,
-   "top5_hold_most=90%"
+   0.322,
+   4.1,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
-   "LAUNCHPAD",
-   "L9ytmSHwxvkoaPRKt2hW1XfbE9Jn4pPuxBTWgBdpump",
-   0.121,
-   4.9,
-   ""
+   "PP",
+   "3PXKpgh4ndaDkvS9qHTJ4d8t9dZaAfsU4LQmBxtTpump",
+   0.136,
+   2.7,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "MAX",
    "6sHDEw1tPeY3LJcE4HwzEMzgziszrphwdosJRUsQmrLK",
    0.118,
-   8.7,
+   9.7,
    ""
   ],
   [
    "Lar",
    "AiDRfSyJJGiPFnUzdgc4siQC3MZJiEb94HCJ2JfPfn9y",
    0.109,
-   3.9,
-   ""
-  ],
-  [
-   "PAD",
-   "ChonpgaW33A3MC39NJcUv3ZYkr6r3PYZCsUXEgyWpump",
-   0.101,
-   4.5,
+   4.9,
    ""
   ],
   [
    "sponk",
    "AKtAR5RVUwbeLpb9QbJaMjGjr1mQSefvwZkGYqvvwJ5g",
-   0.084,
-   2.7,
+   0.081,
+   3.7,
    ""
   ],
   [
-   "HCAT",
-   "5KNHavtPUbMs2WRDC6iBV5Veyca8AdKvYb63PFJQpump",
-   0.07,
-   5.2,
+   "BOOKS",
+   "GMbmg9G3moYoVHakHJ6RH1WczzpmPcunp7qkRYxSpump",
+   0.071,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Ulhan",
+   "59tBrea8DL7toL4SGyGqWmhgeaqPwHH9y2XH5L9Qpump",
+   0.064,
+   3.5,
    ""
   ]
  ]
