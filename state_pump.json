@@ -6434,83 +6434,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:30:02",
+   "2026-10-29T13:31:01",
    32.58
   ]
  ],
- "cycles": 2096,
+ "cycles": 2097,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.31833669649998,
- "watching": 324,
+ "sol_usd": 99.3,
+ "watching": 331,
  "near": [
+  [
+   "SI",
+   "GxrsCNhbmfgjhDwC2uKUWz7Hn28SkUDsTQqvYaCipump",
+   1.0,
+   2.7,
+   "graduated"
+  ],
   [
    "Affirm",
    "31qeNEvHp3mC4fVkU4uNrZyQzvCEbcUvDGuijATCpump",
-   0.942,
-   3.4,
+   0.952,
+   4.4,
    ""
-  ],
-  [
-   "HYPERDUEL",
-   "HSRF3VpaF8WN79BWpuN1wzkMXTo54xuTYBwcje8bi7Ae",
-   0.58,
-   4.2,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HYPURR",
-   "3NbHfKzaUVUrAjGMPVCFTDnf9zwxrhWVMqgPJ9btpump",
-   0.269,
-   2.8,
-   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "VAGINA",
    "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
-   0.269,
-   2.2,
+   0.36,
+   3.2,
    ""
   ],
   [
-   "bob",
-   "BB56NJc6LvLehxQ3g39zuKDT6T7nPBWzxMhZ3tkQpump",
-   0.178,
-   3.2,
+   "OZVAG",
+   "2p5sNf1aybm3gY692Kf7WFPiR4tfpRCo2Tc3DtH9pump",
+   0.132,
+   3.0,
+   ""
+  ],
+  [
+   "OZVAG",
+   "4Vh9J4iqGjNz5vDKUEhKGydtZjQjX2k1GhUqtGZ9pump",
+   0.131,
+   3.0,
+   "buyers=3; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "VAGINA",
+   "GSkbjeZRQ35LH6WUFXrmtt4vxsPJLP7H635gT9YKpump",
+   0.099,
+   2.5,
    ""
   ],
   [
    "OZVAG",
    "GufdFANSzb6fpcmRvLsjpxHNovz9P2ak6Nr4DpPSpump",
    0.094,
-   2.1,
+   3.1,
+   ""
+  ],
+  [
+   "OV",
+   "4TCGwxHPmPQGRCoNvKKXoStTMqPosRsy8fhvUaRFYJir",
+   0.092,
+   2.9,
+   ""
+  ],
+  [
+   "Vagina",
+   "3vZE6jpDyzuNeJqtbhJTCdXVcGYZT5kTvVriL6uQrG5z",
+   0.089,
+   2.2,
    ""
   ],
   [
    "VAGINA",
    "5bF5ZJXzVpwoFsLCHrbf5k9aRFNrb2hikr9QXgc8pump",
    0.087,
-   2.3,
-   ""
-  ],
-  [
-   "Vagina",
-   "8tC7QmVXdJ5nGtK9ZhXUphGYEVc4Wibq3V6aQU7Qpump",
-   0.084,
-   2.1,
-   ""
-  ],
-  [
-   "USDC",
-   "EycGADPzEom2ZRdNVADuhqgpoGkQFoGpDxz2v6ohpump",
-   0.082,
-   5.7,
-   ""
-  ],
-  [
-   "vagina",
-   "D6nQcXHwevXjyBitebemVBrJft4oSvNJbMnFGh2pbks4",
-   0.071,
-   2.4,
+   3.3,
    ""
   ]
  ]
