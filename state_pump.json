@@ -3715,84 +3715,84 @@
    119.01
   ],
   [
-   "2026-10-28T19:24:52",
+   "2026-10-28T19:25:54",
    119.01
   ]
  ],
- "cycles": 1012,
+ "cycles": 1013,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.82182489485,
- "watching": 215,
+ "sol_usd": 99.84924794364998,
+ "watching": 218,
  "near": [
   [
-   "PERCS",
-   "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
-   0.812,
-   3.1,
+   "PODCAT",
+   "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
+   0.852,
+   2.5,
    ""
   ],
   [
-   "miccat",
-   "EQk9fYXGy2DqgKwUyCyswNc8oUc4oYrVEL8fDm4jpump",
-   0.69,
-   2.4,
-   "serial_creator=10 launches/24h"
+   "PERCS",
+   "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
+   0.834,
+   4.2,
+   ""
   ],
   [
    "TOKENIZER",
    "5MMVWXWtHKCovkQMqknnM5edJKyTJTg6PeZffUXapump",
-   0.258,
-   8.3,
+   0.272,
+   9.3,
    ""
   ],
   [
    "CRF",
    "BDC6ittE1x8MwPM7P7ceyLRMgFU4jQjW5X56Yj7Dpump",
-   0.22,
-   2.4,
+   0.268,
+   3.5,
    ""
   ],
   [
    "TOKENIZER",
    "eAKhEyDEbQKGcdRxpnxwRTrEY5ZDbqzB9Bh5MCqXFgi",
    0.121,
-   8.4,
+   9.4,
    ""
   ],
   [
    "gyatt",
    "Cs6zgY4CXdXpYAGVvKJH7ZoMoKYEr1b1a7FNtK1Qpump",
    0.103,
-   8.9,
+   10.0,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "TOKENIZOOR",
    "24jZaPCQ52cJwDmt1jSGNDCxcdg4L6ye3rmfVPC5pump",
    0.082,
-   7.6,
+   8.7,
    ""
   ],
   [
    "AVA",
    "Ejm25FiaiPFGrXbuERkgGx6QTNwwQMfWt2YVPJSBpump",
    0.081,
-   3.1,
+   4.1,
    ""
+  ],
+  [
+   "CPELON",
+   "3RraqHfGinFxGfLMu2rRvb4mRz7WGCqfBTmHTyEApump",
+   0.074,
+   2.5,
+   "buyers=7; top5_hold_most=92%"
   ],
   [
    "TOKENIZER",
-   "EQ8bYw1cimFKwiUfjvGidKzYf6zXFn4uqvU21Dcopump",
-   0.061,
-   8.0,
-   ""
-  ],
-  [
-   "SOLZ",
-   "BBLYWRyYNcdoUyPw5HWNqjXnbEMLw38pVxTuCo6epump",
-   0.047,
-   4.0,
-   ""
+   "FoPhfaorkJNZepCYcYqfdZpMi4MJotDmN1GGJCPzpump",
+   0.072,
+   8.6,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
