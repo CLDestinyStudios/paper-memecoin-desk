@@ -4123,81 +4123,85 @@
   [
    "2026-10-28T22:01:04",
    92.94
+  ],
+  [
+   "2026-10-28T22:02:04",
+   92.94
   ]
  ],
- "cycles": 1168,
+ "cycles": 1169,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.025810788,
- "watching": 156,
+ "sol_usd": 100.16,
+ "watching": 162,
  "near": [
   [
    "catday",
    "9U8rq3Moj4vEk7WVkhxwuqfQbj9MJC7F9xSNrkaDpump",
-   0.237,
-   5.3,
+   0.236,
+   6.3,
    "top5_hold_most=87%"
   ],
   [
-   "LIDA",
-   "3ZheEz4a3yRjDYYUxVbuMSrgaLL9EjcEAfufzKUVT6Gp",
-   0.135,
-   4.5,
-   ""
-  ],
-  [
-   "DOM",
-   "4RNe9H8gKVXRh4CtGdpyuV2pZNiib3RTH2vfFmeDEztA",
-   0.091,
-   7.6,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "CLOAK",
-   "5SAs2eZxLCpDCqwqLwERgHNtj9VWohpMXszPz33vpump",
-   0.076,
-   9.6,
-   "buyers=9; top5_hold_most=98%"
-  ],
-  [
-   "SN",
-   "DteCJAx6q1ps2M27SyVeypQK1QyNRG6UT2yiENHnaXUr",
-   0.074,
-   2.5,
-   ""
+   "WHISP",
+   "4oxXbUq22txPcAhKsfX1fpzoEy1baNRWZjHisAaKpump",
+   0.214,
+   2.7,
+   "top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "war",
    "791okMTA5SBYN8eA4A3VejDtR1KFWNFeNrCLYrgtYwar",
    0.072,
-   5.6,
+   6.6,
    ""
   ],
   [
    "neko",
    "Bc92DwCB21TZdkGtXXvq3YPCFuXDjZJunmvFtnC1pump",
    0.068,
-   2.9,
+   3.9,
    ""
   ],
   [
-   "SIM",
-   "3oJU8VmqeSEe5KUVh9mPADi7xBZ4FpPs7Qm9DPSvpump",
-   0.023,
-   5.0,
+   "AISI",
+   "DiJuAPdYcyU6wFnmBUdaQRRhgAJVK7bMah8hujtypump",
+   0.044,
+   2.2,
    ""
+  ],
+  [
+   "DOM",
+   "4RNe9H8gKVXRh4CtGdpyuV2pZNiib3RTH2vfFmeDEztA",
+   0.043,
+   8.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "C",
    "rBXcwBpr9eiGDkjq3pie8sxnKTYp3NTCtD8VcV3pump",
    0.023,
-   7.9,
+   8.9,
    ""
   ],
   [
    "CA IN WEB",
    "Xrnz1aUWJN8RpUBSt4N2E4WfN12nMD9LqSkqpnHpump",
    0.022,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "Peace",
+   "JkMUNNeS7UtKoDF3u3pBvNpfqYma9C5CQ4kDS7Fpump",
+   0.022,
+   9.8,
+   ""
+  ],
+  [
+   "shrimpy",
+   "7t5o3qX2cQJ2WnAtWop1ZF7UNfZv5rrLtqjYK4fDpump",
+   0.022,
+   7.5,
    ""
   ]
  ]
