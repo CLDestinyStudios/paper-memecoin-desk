@@ -2,21 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 84.90860852962292,
+ "cash": 86.77816952328565,
  "positions": {
   "HbUMX9LxnKskkXTZ7QBpQNbEH71Cry8K8RntbWU3pump": {
    "sym": "Quarry",
    "bc": "BpNSUissCVCDvDAvNcUC787fSXmKgbusrgHbozKcPkeU",
-   "tokens": 457169.36983749387,
-   "cost": 2.69,
+   "tokens": 228584.68491874693,
+   "cost": 1.345,
    "cost0": 2.69,
    "entry_px": 5.4466922203276356e-08,
    "entry_fill": 5.858385859944028e-08,
    "opened": 1793251625.5607777,
-   "last_px": 6.938498629904674e-08,
-   "peak_px": 6.938498629904674e-08,
-   "last_val": 2.9690833498435403,
-   "last_prog": 0.494
+   "last_px": 8.818632153710033e-08,
+   "peak_px": 8.818632153710033e-08,
+   "last_val": 1.8695609936627375,
+   "last_prog": 0.591,
+   "tp1_done": true,
+   "realized": 0.5245609936627376
   }
  },
  "traded": [
@@ -4203,81 +4205,85 @@
   [
    "2026-10-28T22:30:04",
    87.88
+  ],
+  [
+   "2026-10-28T22:31:04",
+   88.65
   ]
  ],
- "cycles": 1197,
+ "cycles": 1198,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.47304278050001,
- "watching": 147,
+ "sol_usd": 100.49999999999999,
+ "watching": 153,
  "near": [
-  [
-   "j\u2019ai p\u00e9t",
-   "DKcFicNBG1fg3DmqQDeGdGrAjDBBqefpUVR4WtdRpump",
-   0.096,
-   5.7,
-   ""
-  ],
-  [
-   "HOLYCOIN",
-   "Gqck7ieCpHmQzi9Tgu5HTfyLWTu8MsYZGXpU5Yybpump",
-   0.074,
-   2.9,
-   ""
-  ],
   [
    "BITE",
    "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump",
    0.056,
-   3.9,
+   4.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Quarry",
    "ttdX5kXmeFjBSCiy6c1HtjVtqtgWARQcuNT8kG5pump",
    0.038,
-   7.1,
+   8.1,
    ""
   ],
   [
    "NEKO",
    "6MGXhgWnR3SiCf5P275yWoUsSXjqFj51YPSC3taBpump",
    0.037,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "SQUAD",
-   "Crn6pDQR4E7gqiw6cNreBZGPH2fTQRwmc3dpDX7Bpump",
-   0.027,
-   2.7,
-   ""
-  ],
-  [
-   "HOLY",
-   "Gz4BtQkyD4tTHPnnw7px9g7wzNezJ6GyTNVCZpnFpump",
-   0.026,
-   4.4,
+   "BAGUTTE",
+   "9dNK4KkeFSmJLijbCFD6qjgcm1ovvGuBZqTsiQG2pump",
+   0.036,
+   2.3,
    ""
   ],
   [
    "KM",
    "6mVmMcQrPTioqZfWKMmoW5ZCQHA2v3n5h5T4EoZhpump",
    0.024,
-   7.4,
+   8.4,
    ""
   ],
   [
-   "AGA",
-   "Hz2KS26bZ2twCQX7jjLVNCWQXBn7o5DL7NqvSzHVpump",
-   0.01,
-   5.0,
+   "HOLY",
+   "Gz4BtQkyD4tTHPnnw7px9g7wzNezJ6GyTNVCZpnFpump",
+   0.022,
+   5.4,
+   ""
+  ],
+  [
+   "j\u2019ai p\u00e9t",
+   "DKcFicNBG1fg3DmqQDeGdGrAjDBBqefpUVR4WtdRpump",
+   0.016,
+   6.7,
    ""
   ],
   [
    "cat",
    "3qCYHoawQ86CsmYeiaAaXGTnuTFKtUmYNhsKD3rypump",
    0.006,
-   8.3,
+   9.3,
+   ""
+  ],
+  [
+   "SI WHITE ",
+   "Fjoh3T8NpDFAqNuhhcayiqnJbMzVH7jrPNMkWKXBpump",
+   0.004,
+   4.4,
+   ""
+  ],
+  [
+   "SQUAD",
+   "Crn6pDQR4E7gqiw6cNreBZGPH2fTQRwmc3dpDX7Bpump",
+   0.003,
+   3.7,
    ""
   ]
  ]
