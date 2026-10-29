@@ -6344,81 +6344,85 @@
   [
    "2026-10-29T10:05:03",
    32.58
+  ],
+  [
+   "2026-10-29T10:06:00",
+   32.58
   ]
  ],
- "cycles": 1891,
+ "cycles": 1892,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.67661149499999,
- "watching": 274,
+ "sol_usd": 101.57191842199998,
+ "watching": 273,
  "near": [
   [
    "XRPS",
    "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
    0.742,
-   2.9,
+   3.8,
    "top10=58.9%; top5_hold_most=94%"
-  ],
-  [
-   "UNZEEN",
-   "2cYonJHJZVtNCrcq3ZzhAvMrx5AaayR2YTGeVqnSpump",
-   0.705,
-   9.8,
-   "creator=17.7%"
   ],
   [
    "THK",
    "2K9o2b9hKrJm1JWnoD84ryKCAWgHQTr4p6xruEoTpump",
    0.55,
-   9.1,
+   10.0,
    "top5_hold_most=84%"
   ],
   [
-   "colum",
-   "CfWxQTR8PQDdU7QKYVAWozGp4mfDGw7KwbPwApPgpump",
-   0.42,
-   2.5,
-   "bundled_launch=4 extra buys in creation block"
+   "COLUM",
+   "3SFK79ZtgiCZrz1jf3hnzMJDQyaYPZY6eic8TBdtpump",
+   0.452,
+   3.4,
+   ""
   ],
   [
    "UPKEEP",
    "vCqK7sVh868rpPF3E3LJZ7iH2ofXVoBqJ95nMmcGxrd",
-   0.404,
-   6.7,
-   ""
-  ],
-  [
-   "HWW",
-   "2iwh2EHSF9RYAHJGKtgBzLafSVwGwFJPoXNMADmwpump",
-   0.29,
-   9.4,
+   0.34,
+   7.7,
    ""
   ],
   [
    "COLUM",
    "E6CLWayZ8zdjfmKzMNGrx9B1XKmXVYUqsjtwXyPYpump",
-   0.272,
-   2.7,
+   0.3,
+   3.7,
    ""
+  ],
+  [
+   "JRECOIN",
+   "EU4M7Q5DK9FU1UwXksNnfo3ziYQrgNq6Sz9UFp5opump",
+   0.238,
+   2.5,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "REPPURN",
+   "FAWPCpVp2UHiudjetBm9ps4HLT2yFEvKrFCvb2M4pump",
+   0.233,
+   4.7,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "COLUM",
-   "3SFK79ZtgiCZrz1jf3hnzMJDQyaYPZY6eic8TBdtpump",
-   0.265,
-   2.5,
+   "5FiJ71WJ4jCh6paJwxcgt4PAmJVF3sqdNyB7BTyLpump",
+   0.162,
+   2.6,
    ""
   ],
   [
-   "Anthropic",
-   "AnjUtHiLoT86q7kk1taf2RF9kdBCkNfb3nqvSFGrpump",
-   0.177,
-   2.9,
-   "top5_hold_most=86%"
+   "Colum",
+   "5Y24urDxqUjXRFNfhwqP5A5Snb7d8muk45mJRWLhpump",
+   0.119,
+   3.5,
+   ""
   ],
   [
-   "Colin",
-   "8mGJoc87KADvdUeP8fDuRi4rgw5zbzcZ4miYK3JQfgNY",
-   0.135,
-   2.8,
+   "colum",
+   "CDLizMRdTCofwuJnu5R3zu5yeg5JvWtjvKuse3xckJEJ",
+   0.11,
+   3.6,
    ""
   ]
  ]
