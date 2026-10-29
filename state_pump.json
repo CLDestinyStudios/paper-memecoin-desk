@@ -3460,84 +3460,84 @@
    117.47
   ],
   [
-   "2026-10-28T17:57:05",
+   "2026-10-28T17:58:04",
    117.47
   ]
  ],
- "cycles": 924,
+ "cycles": 925,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.8297534555,
- "watching": 381,
+ "sol_usd": 101.81000000000002,
+ "watching": 357,
  "near": [
   [
    "PVE",
    "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
-   0.849,
-   5.8,
+   1.0,
+   6.8,
+   "graduated"
+  ],
+  [
+   "GRO",
+   "6vM1h4FU7C4rKtDoDkDi6EgrVvwC95DW1LCbfyQwpump",
+   0.926,
+   3.1,
    ""
+  ],
+  [
+   "LGBTQ+",
+   "4gMLiKpRHQoPVGK6PX4xY2tmfeesRQuvr7oPQxWSpump",
+   0.68,
+   3.1,
+   "launch_slot=missing"
   ],
   [
    "PVE",
    "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
-   0.627,
-   5.6,
+   0.65,
+   6.5,
+   ""
+  ],
+  [
+   "WHYETTI",
+   "5rkoXaP8uCe9MzR1C73YsCdqLbpTfvSgEj4yvWJGpump",
+   0.259,
+   3.0,
    ""
   ],
   [
    "UPVOTE",
    "574P9b4gp7nPe7oLcRs8jYxpPZmn3PjbHJaYVRx3pump",
-   0.248,
-   4.4,
-   "top5_hold_most=90%"
-  ],
-  [
-   "EMERGENCY",
-   "7ZMwuamboGpE5a8WGfVmWCVXhcebWjYtLdXKByXspump",
-   0.216,
-   3.5,
-   "top5_hold_most=81%; launch_slot=missing"
+   0.242,
+   5.4,
+   "top5_hold_most=88%"
   ],
   [
    "GHOST",
    "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
    0.18,
-   5.6,
+   6.6,
    "buyers=6; top5_hold_most=99%; launch_slot=missing"
+  ],
+  [
+   "EMERGENCY",
+   "7ZMwuamboGpE5a8WGfVmWCVXhcebWjYtLdXKByXspump",
+   0.146,
+   4.4,
+   "launch_slot=missing"
   ],
   [
    "PVE",
    "AAeGmNxczwAwEjhhYEBdVuZ9wTQNiPBZdocTy9RJpump",
-   0.09,
-   4.8,
+   0.083,
+   5.8,
    ""
   ],
   [
    "PVE",
    "D2e1a5aX63tzwd8WsUFsL89u7oystie9n62uG8mqUEjS",
    0.082,
-   5.0,
+   6.0,
    ""
-  ],
-  [
-   "PVE",
-   "2NqEWyAHo8GkJNnoFNGn1yBHcW3KY8s6vyLcu9Akpump",
-   0.081,
-   4.7,
-   ""
-  ],
-  [
-   "trencher",
-   "GocQbw1NkTJbymFaWjKnw3CuBSQpnFyUF9vQdS9Hpump",
-   0.077,
-   8.3,
-   "top5_hold_most=95%"
-  ],
-  [
-   "SOLdiers",
-   "AgYbmUitpZkR3WVedDh6jfuWVkToNYBb54DautMepump",
-   0.07,
-   3.8,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
