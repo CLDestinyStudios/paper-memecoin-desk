@@ -6514,83 +6514,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:45:35",
+   "2026-10-29T16:46:28",
    32.58
   ]
  ],
- "cycles": 2291,
+ "cycles": 2292,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.0587590383,
- "watching": 218,
+ "sol_usd": 95.8577128368,
+ "watching": 208,
  "near": [
   [
    "cz",
    "7qhCBXrzUDeEYqNgR96twaRf7JLSkJERTqpxjWM2pump",
-   0.898,
-   6.2,
+   0.9,
+   7.0,
    ""
   ],
   [
    "ZCAT",
    "Dn6DzgXkRRJXCR4pGkQFrxWesZJg9k387c2QEsSRpump",
-   0.614,
-   3.9,
+   0.757,
+   4.8,
    ""
-  ],
-  [
-   "HOOK",
-   "6tBFyEXF7LSQVqjvDKqSjfbZuGsutYoVSMpTq5Fppump",
-   0.398,
-   8.3,
-   ""
-  ],
-  [
-   "GEKKO",
-   "GuQk171GNR6L8fDRF7AefcqCB2CW4Dr4rwKXm515pump",
-   0.342,
-   4.3,
-   "serial_creator=10 launches/24h"
   ],
   [
    "COLUM",
    "FWvFKYe2Su5XwJdaeNtc5Ct95cX7p6GiCe97raKYpump",
-   0.293,
-   3.5,
-   "top5_hold_most=88%; launch_slot=missing"
+   0.291,
+   4.4,
+   "top5_hold_most=89%; launch_slot=missing"
+  ],
+  [
+   "1029",
+   "EBrBhrRihbzeKssDuhYzKUBM1aqWFfrBw9y7D6A7pump",
+   0.257,
+   2.9,
+   "launch_slot=missing"
+  ],
+  [
+   "HOOK",
+   "6tBFyEXF7LSQVqjvDKqSjfbZuGsutYoVSMpTq5Fppump",
+   0.189,
+   9.1,
+   ""
   ],
   [
    "SOLHYPE",
    "H6Ag76HDKG6VWxtAHH1fmj3EwvMYK3YYD2zQb1eYpump",
-   0.164,
-   3.7,
+   0.088,
+   4.6,
    ""
   ],
   [
-   "BIT",
-   "4jqoz1MnkrhSXR2gZV9pwQ9F8yEWhRDweSbdY6hUpump",
-   0.136,
+   "1029",
+   "FZ6wCvvzLbzdKqx5tVf2pcMdr39aTATcQUbck7Rtpump",
+   0.083,
+   4.0,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "MIC",
+   "5VfsC4XTksmP6waLgsazDLpJ9Pbv4ow1azizZf1ZP2Rq",
+   0.073,
+   6.5,
+   ""
+  ],
+  [
+   "beans",
+   "auW4APJuQPbSCX6dUcDJk36AT9iti3QJu9Gk4MJpump",
+   0.072,
    10.0,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "DROOL",
-   "6WaifgYVHus9KhuoTxUGtpP9PjVBvmRdt3VnxAy6pump",
-   0.101,
-   4.3,
    ""
   ],
   [
-   "!LAMPS",
-   "6sCiG2wH6RKLuABU2dsbsQNRUGEEfojU7piaZMmxpump",
-   0.093,
-   2.6,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "Changpenguin",
-   "2nt6v6uSxUi6BjNAPfw2afMzR9UoogfxEDQmg8uRpump",
-   0.09,
-   3.0,
+   "Phishing",
+   "AM1KrzVApqLjw9w8Enirrve912Fj24oVMFjCphxqpump",
+   0.072,
+   6.1,
    ""
   ]
  ]
