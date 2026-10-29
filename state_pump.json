@@ -6346,83 +6346,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:13:57",
+   "2026-10-29T10:14:59",
    32.58
   ]
  ],
- "cycles": 1900,
+ "cycles": 1901,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.6158963915,
- "watching": 336,
+ "sol_usd": 101.632466208,
+ "watching": 314,
  "near": [
   [
    "LUMEN",
    "BtAe3p7i1jig8vAAob1QuUkDZwLugqoGGXHrYBEKpump",
-   0.63,
-   6.6,
+   0.797,
+   7.7,
    ""
   ],
   [
-   "MINEBOX",
-   "WMDjfTDgd5HLwJ9bYwyoeWDDVj9tH8TCcMjowLqpump",
-   0.553,
-   2.9,
-   "bundled_launch=9 extra buys in creation block"
+   "AI",
+   "24yCWHZGNmWwyLifVPGTevGwprTTX25DbXeWzj7epump",
+   0.671,
+   2.7,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "CNT",
+   "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
+   0.527,
+   7.1,
+   "top5_hold_most=89%"
   ],
   [
    "MIAOU",
    "5fSs6Eiig6h9FX366DUbqXxWn94HczA6m1xKArF92y62",
    0.453,
-   2.7,
+   3.7,
    "buyers=3; creator=26.6%; top5_hold_most=100%"
-  ],
-  [
-   "CNT",
-   "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
-   0.382,
-   6.1,
-   "top5_hold_most=89%"
   ],
   [
    "DOORPRANK",
    "4Rod5ZMr6nQvrzkFjsQFcyrepLSGNW28Tmne9TAmpump",
-   0.249,
-   2.1,
+   0.242,
+   3.1,
    ""
   ],
   [
    "USWR",
    "FNkA4NDiNUwZuCwp5J6P7WPtgrZcVRDnvwJ1yrLUpump",
    0.238,
-   7.8,
+   8.9,
    "top5_hold_most=84%"
   ],
   [
-   "$SWEEP",
-   "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
-   0.161,
-   7.3,
-   "buyers=4; top5_hold_most=100%"
+   "IDLEPAW",
+   "Aghj1wDYaSc9KG8rRYTYSf93zpx9UHSgpA5DJf9spump",
+   0.214,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "AI",
-   "9p1JN5tQmwNVKurSV84K6X4XKaCMK4Q6G8JQY6Cgpump",
-   0.161,
-   2.9,
+   "BILLION",
+   "7WxwPqJTn2nerj1TRXBWZwaXo5FbsqqPkhiq8qLgpump",
+   0.154,
+   3.0,
+   "buyers=6; top5_hold_most=99%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "PI",
+   "5Fn6G51ySaJsdfMZrz7tn9YAHrsug4oAitt1gYMJpump",
+   0.154,
+   3.7,
    ""
   ],
   [
    "COLUM",
    "GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ",
-   0.157,
-   6.9,
-   ""
-  ],
-  [
-   "THUMPER",
-   "C3QzwXwtFwKRSGXca2ra5rSiQstUvRrvtAN6RtNYpump",
-   0.154,
-   3.2,
+   0.15,
+   7.9,
    ""
   ]
  ]
