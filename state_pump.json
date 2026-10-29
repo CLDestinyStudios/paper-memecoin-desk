@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 57.57785765929416,
- "positions": {},
+ "cash": 55.847857659294164,
+ "positions": {
+  "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump": {
+   "sym": "TimeCoin",
+   "bc": "3KLbtvwzVxSMavcFpuPugENRJqANYjzgaxe72Xbipm8f",
+   "tokens": 422597.96633079526,
+   "cost": 1.73,
+   "cost0": 1.73,
+   "entry_px": 3.7610929740441486e-08,
+   "entry_fill": 4.087602122408251e-08,
+   "opened": 1793277382.7304814,
+   "last_px": 3.7610929740441486e-08,
+   "peak_px": 3.7610929740441486e-08,
+   "last_val": 1.4582731091369887,
+   "last_prog": 0.186
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -336,7 +351,8 @@
   "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump",
   "HNX8tvyefGDArgak3rw6qZUkEK3tnWRkas7zfaSspump",
   "AbkkDdXT2qmpnevBNyeHN3mpxcvrqz9qJtoc8bGvpump",
-  "5N57ao54n7M2WRj1zZyhMPQC6M9KnwtDhxKgxE3apump"
+  "5N57ao54n7M2WRj1zZyhMPQC6M9KnwtDhxKgxE3apump",
+  "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump"
  ],
  "equity": [
   [
@@ -5430,81 +5446,85 @@
   [
    "2026-10-29T05:35:24",
    57.58
+  ],
+  [
+   "2026-10-29T05:36:22",
+   57.31
   ]
  ],
- "cycles": 1622,
+ "cycles": 1623,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.144026946,
+ "sol_usd": 100.14979954899998,
  "watching": 171,
  "near": [
+  [
+   "Q&E",
+   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
+   0.308,
+   2.6,
+   ""
+  ],
   [
    "NICEHAT",
    "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
    0.287,
-   5.2,
+   6.2,
    "top5_hold_most=89%"
   ],
   [
-   "KORILA",
-   "4WVSUSL7Yxo552BeRvzQWkBt92dwqxEhsBQUoJtCUQ3G",
-   0.248,
-   2.7,
-   "bundled_launch=7 extra buys in creation block"
+   "TimeCoin",
+   "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump",
+   0.186,
+   2.6,
+   "bought"
+  ],
+  [
+   "BTS",
+   "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
+   0.147,
+   3.0,
+   "buyers=8; top5_hold_most=93%"
+  ],
+  [
+   "Pedos",
+   "AjG5Zigb1g2WvSH9ue5JReZzZpiU8WQm8gvYWk1Qpump",
+   0.129,
+   2.5,
+   "buyers=7; top5_hold_most=96%"
   ],
   [
    "MHGA",
    "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
    0.095,
-   5.7,
+   6.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "EGG",
    "khM5d4p3ik8meK85GunjZhGQbjMA5fzXqzfEEW7pump",
    0.081,
-   4.7,
+   5.7,
    ""
+  ],
+  [
+   "KOVIN",
+   "3kBJU2df5tnHTwikRtXch8mei9aMoX7FPynJrfYR8KwR",
+   0.078,
+   2.7,
+   ""
+  ],
+  [
+   "TimeCoin",
+   "CvAEDNxHQJw3iwptLLrE5Frjia54ydRhcYkQjLvVpump",
+   0.073,
+   2.1,
+   "buyers=3; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "Bowen",
    "FAZeyz1KyP15EsksbqVxkdjJh1pxTi2EnWpdGXpfpump",
    0.063,
-   7.0,
-   ""
-  ],
-  [
-   "UFP",
-   "GwuJzfey3tuShn6act8HmaDaGnMtAjpbUnEgoGRYpump",
-   0.059,
-   2.9,
-   "buyers=6; top5_hold_most=97%"
-  ],
-  [
-   "LGP",
-   "74RAVptQVBBPEtHnaCwF4tVM2cbF5PRitfQyDDpipaid",
-   0.052,
-   8.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "XPLACE",
-   "FCRfuNVSRGe7vuyDdaY14rVAfahruENqErovuxzg8v7A",
-   0.043,
-   5.3,
-   ""
-  ],
-  [
-   "EGG",
-   "EqguQcXSet9YZPVAC2YWV4m6Ht3VSb2hkgk2nvcfbNhT",
-   0.022,
-   8.3,
-   ""
-  ],
-  [
-   "EGG",
-   "EcnufdZ8gkeFckzdioHMQSqA2G8GFtts6XR1dAEBHzf8",
-   0.022,
-   8.3,
+   8.0,
    ""
   ]
  ]
