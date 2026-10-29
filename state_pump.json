@@ -5500,83 +5500,83 @@
    55.68
   ],
   [
-   "2026-10-29T05:55:31",
+   "2026-10-29T05:56:22",
    55.68
   ]
  ],
- "cycles": 1642,
+ "cycles": 1643,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.36026350900002,
- "watching": 193,
+ "sol_usd": 100.3073821185,
+ "watching": 189,
  "near": [
   [
-   "Pumpkin",
-   "D1rFucFGEi8t1NzA451x14XYGXv85B32fUj1mck2pump",
-   1.0,
-   3.0,
-   "graduated"
-  ],
-  [
-   "BLOCK",
-   "CQb9YU3S51hbHu1nyTVJJZNxqimas7ozuLrgqGrztMJ9",
-   0.64,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "PURR",
-   "GjR2aqV9icSefi14uEWGsc5nuZYrwqqRfWDb6WyinF4L",
-   0.17,
-   9.4,
-   ""
+   "MTP",
+   "7nMt99UVj9MsTh7PnvEgrndawJgZV65Pe2uhiHh5pump",
+   0.183,
+   2.5,
+   "top5_hold_most=97%"
   ],
   [
    "BTS",
    "48J4gczdPaeHnaVvyDWmQSKjxErCnyjtd5EdAgQZpump",
    0.103,
-   5.3,
+   6.2,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "FRENCHIE",
-   "9hC7s79VWpjw3MajP4y1WSaHcfW2zVYaNvrA1vDzpump",
-   0.093,
-   3.0,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "CATO",
    "BqjZT4Kb6tJnP7FPwyuE4KdhVSa7VkEZ2q5cpkkvpump",
    0.087,
-   5.7,
+   6.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Mustafa",
    "HNUw42KsFEqmkAVbmHvgrau5zuM38SXQw1dhnpCapump",
    0.082,
-   2.2,
-   ""
-  ],
-  [
-   "GosWING",
-   "B2nLaUyeKHXMFKB9XvwTdVTTSpv6ihDRTnrVHDkLpump",
-   0.063,
-   2.7,
+   3.0,
    ""
   ],
   [
    "F0B90B",
    "8kKvQMrRNJpBdwm4J14jbrkTLuUUGTgpbDQ3kd3Npump",
    0.051,
-   4.1,
+   4.9,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "DOORZ",
    "G8C8RYkMxcSx3CpcRZ6s65JSxUwXrFbGLSYWxXsfpump",
    0.031,
-   6.7,
+   7.6,
+   ""
+  ],
+  [
+   "TALLY",
+   "F2yRt9zZp9csUeXcp2MVDjug3dvN5NFFtZb5oJMEpump",
+   0.027,
+   6.3,
+   ""
+  ],
+  [
+   "long",
+   "frPHaQEo4wypdU4zabTdFLmNk3vF73qYerbWLXYpump",
+   0.025,
+   4.9,
+   ""
+  ],
+  [
+   "long",
+   "JCTgyUZjiEsEfvj3KT38o2SFhCP1kuHQBLZAbQnqH3QP",
+   0.022,
+   3.8,
+   ""
+  ],
+  [
+   "mama bear",
+   "GiqxEd7V1U45t1CH8wTKfWaHDTpkHweY95izXq7vpump",
+   0.022,
+   7.7,
    ""
   ]
  ]
