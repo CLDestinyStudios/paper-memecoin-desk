@@ -15,7 +15,7 @@
    "opened": 1793236687.4634154,
    "last_px": 5.969221612538378e-08,
    "peak_px": 5.969221612538378e-08,
-   "last_val": 2.201326741378764,
+   "last_val": 2.201640643765112,
    "last_prog": 0.427,
    "tp1_done": true,
    "realized": 0.5013267413787641
@@ -3561,81 +3561,85 @@
   [
    "2026-10-28T18:21:53",
    114.32
+  ],
+  [
+   "2026-10-28T18:22:51",
+   114.32
   ]
  ],
- "cycles": 949,
+ "cycles": 950,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.42598969749999,
- "watching": 210,
+ "sol_usd": 101.44045273000002,
+ "watching": 214,
  "near": [
   [
    "INTERN",
    "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-   0.965,
-   7.9,
+   0.983,
+   8.9,
    ""
+  ],
+  [
+   "michael",
+   "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
+   0.896,
+   2.7,
+   ""
+  ],
+  [
+   "tommie",
+   "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump",
+   0.719,
+   2.2,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "POKE",
    "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
-   0.225,
-   3.0,
-   "top5_hold_most=95%"
+   0.243,
+   4.0,
+   "top5_hold_most=93%"
   ],
   [
    "PANICPUG",
    "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
    0.193,
-   6.5,
-   "buyers=6; creator=15.2%; top5_hold_most=100%"
+   7.5,
+   "buyers=7; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "FLIP",
    "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
    0.125,
-   3.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "TIT",
-   "3bfkzWiyXtWtjEUF8jqV1DJcKNcZUhXfnpLNjUQwpump",
-   0.079,
-   7.9,
-   ""
+   4.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Trenton",
    "B8esujqXRthd7sUKjtuY7qn7pBmKHhBK1Jsdzkzfpump",
    0.067,
-   8.7,
-   ""
-  ],
-  [
-   "RENT",
-   "A9hJAsNV4FAc1VjB2zRscb65zi7PQ6Vjv3znxE53pump",
-   0.061,
-   3.1,
+   9.7,
    ""
   ],
   [
    "Milo&Pixie",
    "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
    0.053,
-   7.6,
+   8.5,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "LONGBOI",
-   "6XdfpX3ctGo9ts26GqYW34WaBxEBFh9v9hta8a3npump",
-   0.045,
-   6.3,
-   ""
   ],
   [
    "YUGE",
    "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
    0.044,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "PVE",
+   "8iD9QfJifGdWkbqhYwBs8c27JactJUb8NGo3Pidkpump",
+   0.025,
+   5.2,
    ""
   ]
  ]
