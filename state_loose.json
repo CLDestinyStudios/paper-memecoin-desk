@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 381.9854920483515,
+ "cash": 408.2205897900278,
  "positions": {
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "sym": "USDF",
@@ -9,7 +9,7 @@
    "mark_entry": 0.03037,
    "cost": 20.54,
    "peak": 0.05104,
-   "last": 0.05104,
+   "last": 0.0508,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -23,17 +23,6 @@
    "last": 0.2884,
    "opened": 1793293376.3352845,
    "p_buy": 0.58
-  },
-  "FaBb6ebRTGbZWchGiC2eSSRaZWVsFYLe9UqvBuiYpump": {
-   "sym": "TOFU",
-   "qty": 228807.75982623702,
-   "entry": 0.000100827,
-   "mark_entry": 9.885e-05,
-   "cost": 23.07,
-   "peak": 0.0001728,
-   "last": 0.0001654,
-   "opened": 1793302689.7117684,
-   "p_buy": 0.57
   }
  },
  "watch": {},
@@ -6606,8 +6595,12 @@
   [
    "2026-10-29T12:44:00",
    475.56
+  ],
+  [
+   "2026-10-29T12:44:59",
+   464.55
   ]
  ],
- "cycles": 2070,
+ "cycles": 2071,
  "started": "2026-10-28T01:46:56"
 }
