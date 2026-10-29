@@ -6334,83 +6334,83 @@
    32.58
   ],
   [
-   "2026-10-29T09:43:58",
+   "2026-10-29T09:44:53",
    32.58
   ]
  ],
- "cycles": 1870,
+ "cycles": 1871,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.95711268,
- "watching": 302,
+ "sol_usd": 101.940472149,
+ "watching": 298,
  "near": [
-  [
-   "LECHONK",
-   "iLVb7MW7cwEbxT3zDu4imJbNwB7kfybY1QtMNgPpump",
-   1.0,
-   2.5,
-   "graduated"
-  ],
   [
    "Peace",
    "9wBdi8JhdsPWZJGYeWQADwz8ArV9pPKjdtayc4XXpump",
-   0.843,
-   2.3,
+   0.903,
+   3.2,
    ""
+  ],
+  [
+   "DRAGONED",
+   "AbNeH5RZizvLJADA4cbR2YrzKKwHZoUgsKtxeEVppump",
+   0.31,
+   6.5,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "$CAPO",
    "6f598vHKdjuUB4toGZqMRxVEwjcJLn3cY7pcpwitpump",
    0.274,
-   6.9,
-   "buyers=8; top5_hold_most=94%"
+   7.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "DRAGONED",
-   "AbNeH5RZizvLJADA4cbR2YrzKKwHZoUgsKtxeEVppump",
-   0.24,
-   5.6,
-   "buyers=6; top5_hold_most=98%"
+   "COPGOLEM",
+   "EsWLQZYMT19jLn1o5AUXep8bBFRB3S1pr5kPTNM7pump",
+   0.143,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PEPEHOUSE",
+   "Bi6NH5vZe3bHB1MLY6KYmrBQgwkqCUq5conUZc3Xpump",
+   0.105,
+   3.6,
+   "buyers=8; top5_hold_most=98%"
   ],
   [
    "WHALE",
    "2qvrogtCPr5BfdcTLVfcErRAmeAA3EpxkDGxo2V1pump",
    0.103,
-   2.8,
+   3.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "HI",
    "1XofCHPdpMtcXAANHFTaGesPFw17BKKw3jDncH6pump",
    0.086,
-   3.6,
+   4.6,
    ""
   ],
   [
-   "MEMEX",
-   "HH6TVFDLqNVmqFkUxejuHKiGiTuTxN4f69wBvtsQpump",
-   0.083,
-   9.6,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "PEPEHOUSE",
-   "Bi6NH5vZe3bHB1MLY6KYmrBQgwkqCUq5conUZc3Xpump",
-   0.079,
-   2.7,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "OFR",
-   "7Cdx5LcmFb29uJfp35n1vFfRjP6ubnKL1XDur9Eqpump",
-   0.075,
-   3.4,
-   "buyers=9; top5_hold_most=92%"
+   "SUHAIL",
+   "4kTbtHAToaGm7n5HmPjUkrGvCLBMiLiSsnEgLWDhpump",
+   0.08,
+   2.4,
+   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "POPPED",
    "4Zz1rL5mwPvriKu8ZG5fqoVTF6pLBRe35SLBJ1Fypump",
    0.043,
-   6.7,
+   7.7,
+   ""
+  ],
+  [
+   "GODMINT",
+   "7cbHTdMTMvYSmEQ3Tvnzy7KPWgWPKzcfMW7fZR8npump",
+   0.039,
+   3.4,
    ""
   ]
  ]
