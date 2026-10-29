@@ -13,10 +13,10 @@
    "entry_px": 4.52783070250601e-08,
    "entry_fill": 4.861074930294353e-08,
    "opened": 1793249046.4014819,
-   "last_px": 4.5168768253064895e-08,
-   "peak_px": 4.52783070250601e-08,
-   "last_val": 2.5820969814384207,
-   "last_prog": 0.288
+   "last_px": 4.558128899956224e-08,
+   "peak_px": 4.558128899956224e-08,
+   "last_val": 2.607892423367108,
+   "last_prog": 0.293
   },
   "GjTYQfNiqJ33BwJVGC7gd1M2QJQ8wY9CTHxhNRrWpump": {
    "sym": "CACHET",
@@ -27,10 +27,10 @@
    "entry_px": 6.283260299138146e-08,
    "entry_fill": 6.745662951163271e-08,
    "opened": 1793249106.5390692,
-   "last_px": 7.661849222009095e-08,
-   "peak_px": 7.661849222009095e-08,
-   "last_val": 3.1462370228091943,
-   "last_prog": 0.536
+   "last_px": 8.534522928124368e-08,
+   "peak_px": 8.534522928124368e-08,
+   "last_val": 3.5125257909770826,
+   "last_prog": 0.579
   }
  },
  "traded": [
@@ -4088,81 +4088,85 @@
   [
    "2026-10-28T21:46:07",
    99.3
+  ],
+  [
+   "2026-10-28T21:47:05",
+   99.69
   ]
  ],
- "cycles": 1153,
+ "cycles": 1154,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.95675204080001,
- "watching": 148,
+ "sol_usd": 100.02448000000001,
+ "watching": 150,
  "near": [
-  [
-   "PvE",
-   "3KcT73eQF7zrDq5jBuTnjR1EFViQweVs7EV7BFdvpump",
-   0.366,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "MEMEPAD",
    "BvU6FAjr381Wpu4sNfrneEHfNY9RxxgXGN8VQdNvpump",
-   0.111,
-   2.6,
+   0.201,
+   3.6,
    "top5_hold_most=90%"
   ],
   [
-   "Blackout",
-   "FDHEZM3uXsAF5MdA9RTnfTo1arLSTFVirSZSXFV2pump",
-   0.074,
-   6.3,
-   ""
+   "DUBBLE",
+   "mHaqPASYhg7WXXa1t9MP9y89xVAaK76X9bF9EFvpump",
+   0.114,
+   2.5,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "SplitTake",
    "71TrrtCpzY1S43UgAaEno7fSQdxjV9L96S3qN7N7pump",
-   0.042,
-   7.5,
+   0.043,
+   8.4,
    ""
   ],
   [
    "YELL",
    "v2J4QxJxR1Qf7BTWid4Phd3uxLdBEEs7JcrZfKMpump",
    0.035,
-   2.5,
+   3.5,
    ""
   ],
   [
    "Drip",
    "C9mJSDag8fkYUDJZFdgg3ASCq6dvXSWdTRNaEz9Wpump",
    0.03,
-   4.9,
+   5.9,
    ""
   ],
   [
    "Drip",
    "4KRo8gjSCUgd3HipuTYvVwz3tLfApCrJxVWQzghLpump",
    0.022,
-   2.8,
-   ""
-  ],
-  [
-   "dodge",
-   "CzY6XrUbgYW3JmR1QZ8R7FJ14JzEtofiPg6v6KKRpump",
-   0.011,
-   10.0,
-   ""
-  ],
-  [
-   "$Luladuro",
-   "3kstPbDv3sNjiQMfjM7tPPpTS1kqXBrY4Vq55b4spump",
-   0.011,
-   9.6,
+   3.7,
    ""
   ],
   [
    "Blackout",
    "G5meMrf6Ma7999o2BeYSQhDQW2SaWbmHiEvdR5Npump",
    0.009,
-   4.6,
+   5.5,
+   ""
+  ],
+  [
+   "Heroshiba",
+   "Hqf9VvSPtXs7DmBP5UHt92mpVNZDCjNJS5Dv8h2dpump",
+   0.009,
+   3.8,
+   ""
+  ],
+  [
+   "LVB",
+   "5B4HJgvLpsBDSM3oyCbGAy1KuWnvUbg9U4vCKgfepump",
+   0.005,
+   4.0,
+   ""
+  ],
+  [
+   "YELICH",
+   "7WxGDbRfeWMQbMwxAFKUAmj7sriKyvkMZE297E7Fpump",
+   0.004,
+   8.5,
    ""
   ]
  ]
