@@ -6492,81 +6492,85 @@
   [
    "2026-10-29T15:51:20",
    32.58
+  ],
+  [
+   "2026-10-29T15:52:16",
+   32.58
   ]
  ],
- "cycles": 2237,
+ "cycles": 2238,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.9253359437,
- "watching": 273,
+ "sol_usd": 96.8468183656,
+ "watching": 267,
  "near": [
   [
-   "CARRIER",
-   "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
-   0.811,
-   4.5,
-   ""
+   "BOB",
+   "6u3yAqTEBERqW8t9knwoBvCnFY5Y8NvbDQBqTAiupump",
+   1.0,
+   2.7,
+   "graduated"
+  ],
+  [
+   "NMP",
+   "Cd4jJoqp7JR2XXn4W37o4fpT5Z5Xa5ZpwNpb1Szvpump",
+   0.731,
+   3.0,
+   "top10=46.0%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "\ud83d\ude4f",
    "14reSxg4wFq1VKhMeVCdxhAhZXQN8WifvrkVtrSTpump",
-   0.605,
+   0.71,
+   6.3,
+   ""
+  ],
+  [
+   "CARRIER",
+   "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
+   0.612,
    5.4,
    ""
   ],
   [
+   "LILY",
+   "5HE5uDVrstu8x2a1TiJ27tvDR6zFpeKoUXAifwavpump",
+   0.3,
+   8.3,
+   "top5_hold_most=92%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
    "Naz",
    "4XCT5E5RCGBAPfqjF8CXZYkieEdHVqnTh9pjpGA1pump",
-   0.307,
-   3.2,
-   "launch_slot=missing"
+   0.294,
+   4.1,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "log-in",
    "BsiKF6TKUFB9XZAqKhe4VpB4uys797p66RdbkS4Dpump",
-   0.185,
-   3.8,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "LILY",
-   "5HE5uDVrstu8x2a1TiJ27tvDR6zFpeKoUXAifwavpump",
-   0.178,
-   7.4,
-   "top5_hold_most=91%; launch_slot=missing"
+   0.182,
+   4.7,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ZERODAY",
    "82qUEAfXvGwjZCnCrviBJA5NFrzEHe95PsxBwGzFpump",
    0.121,
-   7.3,
+   8.2,
    "buyers=9; top5_hold_most=93%"
+  ],
+  [
+   "HEDGE",
+   "5poWuxVeYyed9ZxbfWK1LBZ69bnEpqXivhjLVRovpump",
+   0.102,
+   6.2,
+   ""
   ],
   [
    "ZERODAY",
    "CTxs9soDzDgBn5Exe4B5pudMRxAWW1KshLL4MnJnpump",
    0.089,
-   4.9,
-   ""
-  ],
-  [
-   "BM",
-   "84wkgiEkewENJ1Uuv7BvZcErwLqjuPZhTyMRdCPnpump",
-   0.085,
-   6.0,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CENTED",
-   "E5GoRRogyJ63FH9Nsq9T3BsuyqrSLGA8mdPtUMQtpump",
-   0.072,
-   9.5,
-   ""
-  ],
-  [
-   "BRIPTOE",
-   "HhSAXKiS2Svc9HQRcnXCu5v4SzMT6mwSxPiGonL2pump",
-   0.07,
-   7.3,
+   5.9,
    ""
   ]
  ]
