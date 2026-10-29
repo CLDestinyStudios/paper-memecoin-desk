@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 81.58591237214746,
- "positions": {
-  "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump": {
-   "sym": "VICEBET",
-   "bc": "B41FKhtnM8FYGHGxyAegUQGE4qwrCq1Fs8rXzFQpDaHA",
-   "tokens": 420924.33432804106,
-   "cost": 2.55,
-   "cost0": 2.55,
-   "entry_px": 5.6057106185523136e-08,
-   "entry_fill": 6.035406479049814e-08,
-   "opened": 1793253245.5979853,
-   "last_px": 6.109201401100005e-08,
-   "peak_px": 6.796348431673351e-08,
-   "last_val": 2.392813498421923,
-   "last_prog": 0.438
-  }
- },
+ "cash": 83.2642288294177,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4309,81 +4294,85 @@
   [
    "2026-10-28T22:57:04",
    83.98
+  ],
+  [
+   "2026-10-28T22:58:04",
+   83.26
   ]
  ],
- "cycles": 1224,
+ "cycles": 1225,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.26958678700001,
- "watching": 140,
+ "sol_usd": 100.24281651449999,
+ "watching": 131,
  "near": [
+  [
+   "CREWPAD",
+   "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump",
+   0.22,
+   2.5,
+   ""
+  ],
   [
    "Dill",
    "4PWhGDJhttbnsTTn6bGzb4qHmnt5V4cdjXraxDC3pump",
    0.102,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "CAT",
-   "4ph5DwAHiEnXAXtBpsS6PWDvp1AvVG3oxcoJZuAopump",
-   0.04,
-   5.2,
-   "buyers=4; top5_hold_most=100%"
+   "OIIA",
+   "BjtNN1ogzuWD8iQKFZEZ5sMEuuKa9TzJkunZhFyDpump",
+   0.057,
+   2.1,
+   ""
+  ],
+  [
+   "dogzilla",
+   "BLj7QSiSbRKRuzoMfytD655kLaR4nfVDDPGYHKajpump",
+   0.032,
+   2.5,
+   ""
   ],
   [
    "LEGA",
    "GsSohqi32FwiHTkdA5H3QPcwRjJNhpwg6zv7VB5Spump",
    0.031,
-   2.5,
+   3.5,
    ""
   ],
   [
    "WWHALE",
    "BnRsMkaGjfgjieGocZ29MFdrsFdSw89PVcNTFCbRpump",
    0.03,
-   3.5,
+   4.5,
    ""
   ],
   [
    "MINI",
    "5K9QgF1oAB8dkPj17Ps5SwkEdDYQtp1qzRhbeiNPpump",
    0.027,
-   5.0,
+   6.0,
    ""
   ],
   [
    "Schrodinger",
    "7djDqvtLdXv1dJmqixjDHmy2xbwqGT5XGE9ohH6zpump",
    0.023,
-   2.8,
+   3.8,
    ""
   ],
   [
    "$Hucks",
    "GoH1LLS8k59t5xy245kVYCc7y9RTqjQutMLX55P8pump",
    0.022,
-   8.9,
-   ""
-  ],
-  [
-   "UDTF",
-   "7FPYoe15QRX2qa5ZHAYcn4KBFjNHJWkKwYwk1G77pump",
-   0.019,
-   2.5,
+   9.9,
    ""
   ],
   [
    "AI/SI",
    "8bQQKA1KZBb84Usjv9hzQPWTpksztGgaCQqhGDgWpump",
    0.019,
-   4.1,
-   ""
-  ],
-  [
-   "HOOD ",
-   "5WQQUcewpVGTz5a3JEWgub1y1deMvMpYJ5o36ZUPpump",
-   0.018,
-   5.3,
+   5.1,
    ""
   ]
  ]
