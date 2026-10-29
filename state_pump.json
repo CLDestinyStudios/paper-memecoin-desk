@@ -6494,83 +6494,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:56:03",
+   "2026-10-29T15:57:13",
    32.58
   ]
  ],
- "cycles": 2242,
+ "cycles": 2243,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.85225478329102,
- "watching": 295,
+ "sol_usd": 96.87,
+ "watching": 299,
  "near": [
   [
    "INU",
    "FFUDwJHQkJaCxwfWBP8KBRxabeLbW43xnJDEtpNwpump",
-   0.954,
-   2.0,
+   0.981,
+   3.2,
    ""
   ],
   [
    "ZI",
    "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
-   0.9,
-   3.2,
+   0.859,
+   4.4,
    ""
   ],
   [
-   "CARRIER",
-   "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
-   0.776,
-   9.2,
-   ""
+   "ZI",
+   "8hzaonets84rQdLqKkJnGeJ9HpHYTR7MePSfePWfpump",
+   0.261,
+   3.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "FAG",
    "6Ya1cE1A8Vi42LsUmsT3yEFEnDe8umzee6jjQPuupump",
    0.241,
-   4.2,
-   "buyers=4; top5_hold_most=100%"
+   5.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ZI",
-   "8hzaonets84rQdLqKkJnGeJ9HpHYTR7MePSfePWfpump",
-   0.239,
+   "FEkN7sHGYwFbCopyDHajjAx7NamUMTVyxg2a4Rshpump",
+   0.227,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "\u3164",
+   "8ceiNPQFw9P9HV4FWECyroQVFG9s1Q759c7uWoqspump",
+   0.171,
+   2.7,
+   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "INU",
+   "4EiNoMzCpT4664B7M5GwgVAd9bRTuNaQRYGznzkSpump",
+   0.113,
+   3.4,
+   ""
+  ],
+  [
+   "OPSEC",
+   "5stipa3ydYPTxDpSqFgrfrA3GXKchAxiZq7K2vsF3eyh",
+   0.112,
    2.6,
    ""
   ],
   [
    "ETHEREUM",
    "CBbSTGeCCz2B7bupaNLEDfR2iXP1JKnbmi7hMSjEpump",
-   0.174,
-   4.9,
+   0.092,
+   6.1,
    ""
   ],
   [
-   "MONKE",
-   "BtFtUN8KdwfR34PvSKNMHXVQm6d8eUzQ5z4NZ5hPBKkk",
-   0.118,
-   3.1,
-   ""
-  ],
-  [
-   "INU",
-   "4EiNoMzCpT4664B7M5GwgVAd9bRTuNaQRYGznzkSpump",
-   0.113,
-   2.2,
-   ""
-  ],
-  [
-   "KIM",
-   "HAHkAbU75JgEMjzqCVLEX7gUaq1zvonra33XruNKuG8Y",
-   0.095,
-   2.2,
-   ""
-  ],
-  [
-   "kem",
-   "C1xcG5djK27wjby8pVVyuRCYcEEdrYYZZbTxWUoj9RWj",
-   0.086,
-   2.3,
+   "UBC",
+   "F5YmKXVbPEge2Jw1nbfFCaSJRHHtCvCpu299hYSrpump",
+   0.077,
+   2.4,
    ""
   ]
  ]
