@@ -13,10 +13,10 @@
    "entry_px": 1.38138242199669e-07,
    "entry_fill": 1.4892437961795491e-07,
    "opened": 1793259906.8078072,
-   "last_px": 2.1074657656372102e-07,
+   "last_px": 2.0298799992690372e-07,
    "peak_px": 2.1074657656372102e-07,
-   "last_val": 1.5257716852168928,
-   "last_prog": 0.86,
+   "last_val": 1.4678042734991077,
+   "last_prog": 0.851,
    "tp1_done": true,
    "realized": 0.3507716852168927
   }
@@ -4598,81 +4598,85 @@
   [
    "2026-10-29T00:48:05",
    76.69
+  ],
+  [
+   "2026-10-29T00:49:06",
+   76.63
   ]
  ],
- "cycles": 1335,
+ "cycles": 1336,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.67778980164998,
- "watching": 145,
+ "sol_usd": 99.68,
+ "watching": 148,
  "near": [
   [
-   "QChair",
-   "sPqXX3qdFLNCbmukNWGZtzu6w6N6YjwGuHdG6k2pump",
-   0.726,
-   5.9,
-   ""
+   "LIDA",
+   "fT952tuMioNtSCL1sYcuzoWfQpoU9yRzcpLgHpEpump",
+   0.581,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Metalcoin",
    "HGab8WXssqQ8KrL9iaY8LJNxbAGwv2venr29PLKQpump",
-   0.169,
-   2.6,
-   ""
+   0.466,
+   3.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Manifest",
    "DeZHhE8cKtgb5GPJ1HBqVtcSSeivgCpErRhAGvHwpump",
-   0.145,
-   3.8,
+   0.324,
+   4.8,
    ""
   ],
   [
    "BILLY",
    "EcQPPd9tKtPxiQULnFW3XA3URpebdAzLoVH7pgobo5w4",
    0.131,
-   3.8,
+   4.8,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "CC",
-   "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
-   0.112,
-   3.4,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BHEIST",
    "EyJpeFEqvd3JVm9bPJWBexWHHmhbXP3EAnsMSJcPpump",
-   0.097,
+   0.098,
+   3.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Alligators",
+   "Aa8WPLpYUbqZyVzSWaJ2kJE7yt2XTBp37qFhjH65pump",
+   0.072,
    2.5,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Metalcoin",
-   "77dqf8xDpXBTsZoLy5MCdt4dPQZvcTKpVJvWdbCNpump",
-   0.073,
-   3.1,
    ""
   ],
   [
-   "Daddy",
-   "4tuNLJPrP3svcYW5vGSjU7YevHKm2psUvTtCMDF7pump",
-   0.071,
-   3.7,
-   ""
-  ],
-  [
-   "1WIN",
-   "8Ac3pMhEkgnaSgrHdo6hVBrfbcmMyy4byTPbHHXCpump",
-   0.064,
-   9.8,
-   "buyers=1; top5_hold_most=100%"
+   "CC",
+   "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
+   0.072,
+   4.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "PP",
    "FBjHS2GdeZq9RAUUsbpjvK5p3MLcoSNYdLjtuEappump",
    0.037,
-   4.6,
+   5.7,
+   ""
+  ],
+  [
+   "SPCX30K",
+   "Cz3wjDWCA6aE9VkUZtvuqWWiawZaW6jXvqPitWeBpump",
+   0.03,
+   7.9,
+   ""
+  ],
+  [
+   "lasagna ",
+   "3sa8b1VrGKmNrghktzGV6CxRRd9CMVfcWg6TcpkUpump",
+   0.028,
+   7.9,
    ""
   ]
  ]
