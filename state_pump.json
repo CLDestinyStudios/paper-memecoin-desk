@@ -6346,84 +6346,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:08:01",
+   "2026-10-29T10:08:58",
    32.58
   ]
  ],
- "cycles": 1894,
+ "cycles": 1895,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.618856448,
- "watching": 304,
+ "sol_usd": 101.58999999999999,
+ "watching": 318,
  "near": [
   [
    "XRPS",
    "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
-   0.742,
-   5.8,
+   0.743,
+   6.8,
    "top10=58.9%; top5_hold_most=94%"
-  ],
-  [
-   "COLUM",
-   "3SFK79ZtgiCZrz1jf3hnzMJDQyaYPZY6eic8TBdtpump",
-   0.402,
-   5.4,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "UPKEEP",
-   "vCqK7sVh868rpPF3E3LJZ7iH2ofXVoBqJ95nMmcGxrd",
-   0.34,
-   9.7,
-   ""
   ],
   [
    "COLUM",
    "E6CLWayZ8zdjfmKzMNGrx9B1XKmXVYUqsjtwXyPYpump",
    0.272,
-   5.7,
+   6.6,
    ""
   ],
   [
-   "JRE",
-   "CpoPMAZa1KKNgZs2vneJ5KZtsZdjvSHyNe9gYgHxpump",
-   0.246,
-   4.4,
-   ""
+   "USWR",
+   "FNkA4NDiNUwZuCwp5J6P7WPtgrZcVRDnvwJ1yrLUpump",
+   0.191,
+   2.8,
+   "top5_hold_most=84%"
   ],
   [
    "VOLY",
    "6FhFcdRDNNWLkH6buVLFzRkttUoB5sLEyVCPh4tQpump",
-   0.204,
-   2.5,
+   0.187,
+   3.5,
    ""
   ],
   [
-   "HYPERBOOB",
-   "CjqCFEbtTacZCEpfXJzNAvFrdxj27EHqMTojZqh7pump",
-   0.134,
-   2.8,
-   "top5_hold_most=93%"
+   "$SWEEP",
+   "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
+   0.169,
+   2.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "FRAZZ",
    "5zSsSusnef57GSBv7hNzBzoVs7xYUZMF9NREFKeepump",
    0.108,
-   8.1,
-   ""
-  ],
-  [
-   "COLUM",
-   "GQcQDBNPEpcAyCmbkGeyhDFyPg47y5Zpj1X1Xuw2pump",
-   0.108,
-   2.6,
+   9.1,
    ""
   ],
   [
    "GLASS",
    "Fj8pfWiQFP8aVYMCXt26KCv5NESFGq4WhVsQCymNpump",
    0.107,
-   3.5,
+   4.5,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Colum",
+   "5Y24urDxqUjXRFNfhwqP5A5Snb7d8muk45mJRWLhpump",
+   0.098,
+   6.4,
+   ""
+  ],
+  [
+   "TESTONE",
+   "8a44GFzmZG2pNYqkWWjN1aZpMfTcVaGHw161Bi8Dvfe9",
+   0.063,
+   5.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HN",
+   "27JRWyN5oPFCmPZmG9XN139z4vbsHTHyxKfHiNUcpump",
+   0.062,
+   2.3,
+   ""
   ]
  ]
 }
