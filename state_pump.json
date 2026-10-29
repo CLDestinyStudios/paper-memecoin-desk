@@ -4030,83 +4030,83 @@
    101.36
   ],
   [
-   "2026-10-28T21:33:11",
+   "2026-10-28T21:34:04",
    101.36
   ]
  ],
- "cycles": 1140,
+ "cycles": 1141,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.5882415104,
- "watching": 202,
+ "sol_usd": 99.635011715,
+ "watching": 201,
  "near": [
+  [
+   "PEARL",
+   "HQMkm8KPBoyKEt9fkPp9TWJqd9kq1Q7ZURMqAxnapump",
+   1.0,
+   2.6,
+   "graduated"
+  ],
   [
    "NIKI",
    "9BQ3Yq1Hd7kFTqXyfLj1QZw4Pi3LNuDabXjV9yCzpump",
-   0.727,
-   3.3,
+   0.714,
+   4.2,
    ""
-  ],
-  [
-   "AI/SI",
-   "5jfVktc5iC2i1g5d5U19w8wEgQQLXADXQRd94c1bpump",
-   0.467,
-   2.6,
-   "serial_creator=18 launches/24h"
-  ],
-  [
-   "NIKI",
-   "Beky4t2nAzEBErGwL4qHfGa3n2WPWAYTHRvGmYYipump",
-   0.155,
-   2.1,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "SupplyPad",
-   "3dfQsxwssJLeSueN1Jn7Baby63sS5JYG9tKaEU8xytqV",
-   0.139,
-   2.6,
-   "buyers=7; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "NIKI",
-   "F9iVN4oboA2kQcgZXDQEKiLwSTrcXuoNoWqoDnRJpump",
-   0.139,
-   2.5,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "AI/SI",
    "9zRMeEvxS7M7fYibB8Vh3hPUBUTdCYA9L6TwHiAwpump",
    0.102,
-   6.0,
+   6.9,
    ""
   ],
   [
    "ASI",
    "DZKGKCn2tnSfvLnKeaS5X9J1AmJU2ocSvtYQuEz6pump",
-   0.091,
-   3.8,
+   0.09,
+   4.7,
    ""
   ],
   [
    "SUNBEAR",
    "FCoaCgym3mxNq9v1aWE8HpiUFPEUGj3Y8a3vFMnqpump",
-   0.071,
-   5.6,
+   0.053,
+   6.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "AI/SI",
    "Bqgx345oLoCJEzWMrqCkQ5AhniuzuyPbu88GTox6pump",
    0.041,
-   2.4,
+   3.3,
    ""
   ],
   [
    "OBAURA",
    "7JuybahDjRUPXRG3xvdrfKWTyiKKBycE42C9ZwAEpump",
    0.039,
-   3.9,
+   4.8,
+   ""
+  ],
+  [
+   "DogPoop",
+   "2nQyLzjxn2etQK9z1VTMCmAuQMEejNcTzrPTYjdQpump",
+   0.039,
+   9.7,
+   ""
+  ],
+  [
+   "AI/SI",
+   "fhrBWuMSo9cvuAc5k5XznMLdaMx6791LbMnS6bcpump",
+   0.022,
+   4.9,
+   ""
+  ],
+  [
+   "TRACK",
+   "Ewx1WM2N2XFCGENgg3zn1XGzYBQQYYCwmHDnZJuHpump",
+   0.022,
+   7.9,
    ""
   ]
  ]
