@@ -13,9 +13,9 @@
    "entry_px": 3.8290984952674384e-08,
    "entry_fill": 4.13316453883608e-08,
    "opened": 1793260507.0401247,
-   "last_px": 3.8290984952674384e-08,
-   "peak_px": 3.8290984952674384e-08,
-   "last_val": 1.925081272798414,
+   "last_px": 3.829120085923432e-08,
+   "peak_px": 3.829120085923432e-08,
+   "last_val": 1.9261622433726036,
    "last_prog": 0.197
   }
  },
@@ -4622,81 +4622,85 @@
   [
    "2026-10-29T00:55:07",
    74.82
+  ],
+  [
+   "2026-10-29T00:56:05",
+   74.83
   ]
  ],
- "cycles": 1342,
+ "cycles": 1343,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.64560269540002,
- "watching": 129,
+ "sol_usd": 99.70097909009999,
+ "watching": 126,
  "near": [
   [
    "MAS",
    "AVX1TcPXhswZB3qGNiYMXaMK4dayncLPXoB9neubpump",
-   0.79,
-   3.3,
+   0.775,
+   4.3,
    ""
-  ],
-  [
-   "LIDA",
-   "FZvh4Gd87MnatKz4DfbckZZSAwrXiMP9HWt4FuWgpump",
-   0.362,
-   2.5,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "DOOMSDAY",
-   "38ZKsRCstE4iukSZuADr5VFTPV98W8eG2Yxtoh31pump",
-   0.203,
-   2.7,
+   "8unTXJMQgrbue8xwu16bmPsJGHbhA2HienDFQ9DKpump",
+   0.391,
+   2.2,
    ""
   ],
   [
-   "NOL",
-   "DHG4568vapK2g2j4LQ9rUukZzwHzPaoEGwNaJM1opump",
-   0.197,
-   2.8,
-   "bought"
+   "boocat",
+   "5nUNSshgWqEzjoSxvLpBaBQ9WZ4uXZC17z3e7Ecspump",
+   0.218,
+   2.6,
+   "buyers=8; top5_hold_most=86%"
   ],
   [
    "CROWDCAT",
    "6ge8cKeWqAUtkHftcZrhG3rAyi2MzRqYqwKX5DNSCec5",
    0.167,
-   6.7,
+   7.7,
    "top5_hold_most=94%"
+  ],
+  [
+   "scream",
+   "EhggotQopM1qPBmwXHzQSn6bhyFXJkDzNQxTRDX8pump",
+   0.109,
+   2.1,
+   ""
   ],
   [
    "666",
    "9fkpjfMeTCNx86moCdFAVStyBUihtXHkoKAJMsk9pump",
    0.109,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "COALITION",
+   "2iMh9Ydiym59hJF4MYzwoaj6qdEJSwAGheWQ7rczpump",
+   0.06,
+   2.2,
    ""
   ],
   [
    "NOL",
    "Bkp6kNfnGdFA2u2Fbd61adsc4LuFb1buPo5fCLyQpump",
    0.057,
-   6.1,
+   7.0,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BEEFTV",
+   "7MGbuiLgQchSW8LAf7irUh9T3nxMpn7KH8XYPZ9Spump",
+   0.044,
+   2.2,
+   ""
   ],
   [
    "LIDA",
    "6Qu64EPMYBUYqfQDDbttLD6GvV4ZHq3BcF2AC6Sypump",
    0.033,
-   4.0,
-   ""
-  ],
-  [
-   "MCP",
-   "Cqeq8gpGxptnhcT1MwgyjBGp6y9LVTLFvNuL119Lpump",
-   0.03,
-   3.4,
-   ""
-  ],
-  [
-   "HARMONIA",
-   "2d2CiywxX2u39qxYkU9QnC6bgix1yREF8U3uHh6Zpump",
-   0.024,
-   3.5,
+   5.0,
    ""
   ]
  ]
