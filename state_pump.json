@@ -13,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 9.858006789681234e-08,
+   "last_px": 7.686709758219709e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 1.135691387225655,
-   "last_prog": 0.632,
+   "last_val": 0.8746976666579008,
+   "last_prog": 0.537,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5063,81 +5063,85 @@
   [
    "2026-10-29T03:35:21",
    61.69
+  ],
+  [
+   "2026-10-29T03:36:22",
+   61.43
   ]
  ],
- "cycles": 1502,
+ "cycles": 1503,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.270600039,
- "watching": 172,
+ "sol_usd": 100.28999999999999,
+ "watching": 173,
  "near": [
   [
    "PAD0",
    "5a8afyVbW7iSgFp8fRvgYXBjTHBjqkoTazwB92Qxpump",
-   0.484,
-   5.0,
+   0.571,
+   6.0,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Nasduck",
+   "5rToPpXw4Cs2q5o9pN6zUFmLbYTY4iA2e2sty6rypump",
+   0.377,
+   2.8,
    ""
   ],
   [
    "USOE",
    "5WjiK27JZ2sFqoT5xuW7EcUjWY8SmzkdoCRij3tbpump",
    0.206,
-   6.2,
+   7.2,
    "top5_hold_most=84%"
   ],
   [
    "$LPC",
    "kAa8xUeRowesrsVxpfPnig4AnMVAGXYesBEg1Pxpump",
-   0.138,
-   6.1,
+   0.179,
+   7.1,
+   "buyers=7; top5_hold_most=98%"
+  ],
+  [
+   "SNIFF",
+   "AMQVJ3f7siY22RC3ohh1RY3oCvhVwF2aGEeMt1G2pump",
+   0.077,
+   4.1,
+   ""
+  ],
+  [
+   "SI",
+   "AgqideagHTtPyceoY7atTojKqoNnnWvQo7aYeSKYpump",
+   0.063,
+   2.2,
    ""
   ],
   [
    "Mao",
    "7d1G5tu9NLKo6Dx5aQYv4WZJ3GN3DQxaq6cFM5T9pump",
-   0.072,
-   4.2,
-   ""
-  ],
-  [
-   "SNIFF",
-   "AMQVJ3f7siY22RC3ohh1RY3oCvhVwF2aGEeMt1G2pump",
-   0.071,
-   3.0,
-   ""
-  ],
-  [
-   "HYPE",
-   "E9dYz5v6wRX4K2oEiCZTfxYXWd2orLXszTPafXYnafpi",
-   0.049,
-   2.1,
+   0.062,
+   5.2,
    ""
   ],
   [
    "Pokespin",
    "A7tZMVocY6983DxhpshgTPiYdkShzb4c4szVH7mv8LdZ",
    0.045,
-   8.1,
+   9.1,
    ""
   ],
   [
-   "HALLOWMOON",
-   "GZGmyCr7aYdHzuE1mn9PBP333mYzGP1X4oDQy5Mupump",
-   0.043,
-   9.2,
+   "HYPE",
+   "E9dYz5v6wRX4K2oEiCZTfxYXWd2orLXszTPafXYnafpi",
+   0.044,
+   3.2,
    ""
   ],
   [
    "RABT",
    "H8UDHt5wqz9a2XBRqHcKPMccmuAVq4oD2cssvV2pKc3x",
    0.036,
-   2.8,
-   ""
-  ],
-  [
-   "Pillson",
-   "G2xaz1zhY4dFaNh9daTsqojPAuuD6rdvcDKprjZkpump",
-   0.032,
-   8.2,
+   3.9,
    ""
   ]
  ]
