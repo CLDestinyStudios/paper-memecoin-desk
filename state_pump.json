@@ -13,10 +13,10 @@
    "entry_px": 5.898525465389262e-08,
    "entry_fill": 6.317236960461554e-08,
    "opened": 1793241965.2627635,
-   "last_px": 5.9451714426945035e-08,
-   "peak_px": 5.9451714426945035e-08,
-   "last_val": 3.053585341883699,
-   "last_prog": 0.425
+   "last_px": 7.088136901698216e-08,
+   "peak_px": 7.088136901698216e-08,
+   "last_val": 3.6569503570842907,
+   "last_prog": 0.503
   }
  },
  "traded": [
@@ -3771,81 +3771,85 @@
   [
    "2026-10-28T19:48:04",
    115.52
+  ],
+  [
+   "2026-10-28T19:49:04",
+   116.12
   ]
  ],
- "cycles": 1035,
+ "cycles": 1036,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.52024411610002,
- "watching": 265,
+ "sol_usd": 99.71108690355001,
+ "watching": 267,
  "near": [
   [
    "DUWO",
    "721YiPbruDYcmM66yD2buchdWDwwdbVPqYWitJRopump",
-   0.967,
-   2.3,
-   ""
+   1.0,
+   3.3,
+   "graduated"
   ],
   [
    "ELIEZER",
    "2dvZHR7y9fGqWozSWA7gfHpEBp3YMJNaqSRgdiExpump",
-   0.565,
-   3.5,
+   0.364,
+   4.5,
    ""
   ],
   [
-   "ELIEZER",
-   "DjEmiJqi2vrCmXsaMBKQoDHwDpxfu7Y5V3vFAYQ9pump",
-   0.426,
-   2.2,
-   "bundled_launch=7 extra buys in creation block"
+   "FC",
+   "6nXv5vmEfTivUZamvDnrxq76y8EbE4Ge8MnVmVpKpump",
+   0.284,
+   2.4,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "PERLA",
    "AzKQcL7AK8R7dSG2bqKm9VaGTVm2dsEnTvzh1a78pump",
    0.202,
-   4.3,
+   5.3,
    ""
   ],
   [
    "Cyber",
    "A9gLrKQoRf2cL6utgtRFRkwJVhtVeJAWax3RQWwzpump",
    0.153,
-   7.3,
+   8.3,
    ""
   ],
   [
    "NietzBer",
    "8AQGYqqKXFjdSCFnPrq52eykpnUfbUWsis5uYxPpump",
    0.119,
-   4.8,
+   5.8,
    ""
   ],
   [
    "$BSSPEPE",
    "8PXV7Ne6A6FKMXCuMZrWt61vjZ5z1W9rEcg6b2qHpump",
    0.098,
-   3.5,
+   4.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "spacecat",
-   "HNMqbkDVmkfiXcYpUfZWymiG3LF5mmMPfDPZtazEpump",
-   0.073,
-   5.6,
+   "STARSHIP42",
+   "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
+   0.074,
+   2.8,
+   ""
+  ],
+  [
+   "HAKIMI",
+   "2DXCjVjGL3KMMv98WBXpzDaCbP2e9piMFHGSDyc3pump",
+   0.071,
+   4.0,
    ""
   ],
   [
    "DICTATOR",
    "7diZHj7fi3STKtaajxNwBuRy1iDagk4rcEBxoWXYpump",
    0.071,
-   7.2,
-   ""
-  ],
-  [
-   "HAKIMI1337",
-   "HJJ2iRKyhBi9WGs7Lsg4RU4tc1grB5CVaD9vgDH1pump",
-   0.068,
-   4.2,
+   8.2,
    ""
   ]
  ]
