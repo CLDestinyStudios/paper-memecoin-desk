@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 90.15390771091771,
- "positions": {
-  "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump": {
-   "sym": "HallowGPT",
-   "bc": "CGuQhhciqmyRX5AoCFdmeX7QEvvFE7ercidVMzhV5jk7",
-   "tokens": 426796.0903517532,
-   "cost": 2.79,
-   "cost0": 2.79,
-   "entry_px": 6.064339262530584e-08,
-   "entry_fill": 6.518040204152937e-08,
-   "opened": 1793250366.1651695,
-   "last_px": 6.064339262530584e-08,
-   "peak_px": 6.064339262530584e-08,
-   "last_val": 2.4092284078323067,
-   "last_prog": 0.434
-  }
- },
+ "cash": 91.29406123340685,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4147,81 +4132,85 @@
   [
    "2026-10-28T22:06:06",
    92.56
+  ],
+  [
+   "2026-10-28T22:07:04",
+   91.29
   ]
  ],
- "cycles": 1173,
+ "cycles": 1174,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.29210251399999,
- "watching": 171,
+ "sol_usd": 100.360158819,
+ "watching": 159,
  "near": [
-  [
-   "HallowGPT",
-   "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump",
-   0.434,
-   3.3,
-   "bought"
-  ],
   [
    "BLOOD",
    "DZshNqJkyMYW93h83LbtdfqNZZEJgCgr7ZfCLNmpump",
    0.091,
-   2.5,
+   3.5,
    ""
   ],
   [
    "OPENSPIDER",
    "7qABzHRaKAkRYQjdT8J5C2AXZ6QxXp56jbc7FMevpump",
    0.074,
-   2.6,
-   ""
-  ],
-  [
-   "BLOOD",
-   "HQqDyX64EZuo2ieqVZBWPTN6CtsniHcA2rHoU1tLpump",
-   0.067,
-   2.2,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "UNBOTHERED",
-   "J9spdoiBDYazrSa7uNy4rB1P28PsdeMY1tVhP3q1pump",
-   0.036,
-   9.1,
+   3.5,
    ""
   ],
   [
    "BTS",
    "8ekdCAKhchx3ZEE9xK19eDb5X7gVezLVeT7xNhE7pump",
    0.033,
-   5.9,
+   6.8,
    ""
   ],
   [
    "SPERM",
    "BbgWqzQAUi7DuPQnrMR47dUKyhmgGNs6QW9UtsXNpump",
    0.027,
-   4.5,
+   5.4,
    ""
   ],
   [
    "$",
    "5JiL6Kt6yBgxUHhFZFDEu4pgkV8R5fSw7sbweQ4Zpump",
    0.024,
-   2.9,
+   3.9,
    ""
   ],
   [
    "CA IN WEB",
    "Xrnz1aUWJN8RpUBSt4N2E4WfN12nMD9LqSkqpnHpump",
    0.022,
-   7.9,
+   8.9,
    ""
   ],
   [
    "neko",
    "FceVGd1No246Fmc5fgoAEowq855yZ8WsJgGpvKofpump",
    0.022,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "HELL",
+   "FsdCFg5X7TrfzXFdHrYJy6mkUJDJshCZrkMScdWjpump",
+   0.015,
+   7.1,
+   ""
+  ],
+  [
+   "$",
+   "9ob2be4sncAUZ7ZFL5aeaQXCpZ8oVWTQF8wU5scypump",
+   0.014,
+   2.4,
+   ""
+  ],
+  [
+   "SOAR",
+   "4n9rMp2bTAs4hwqAFCyz2YhXAHyQU5hadcAvmBFdpump",
+   0.014,
+   5.6,
    ""
   ]
  ]
