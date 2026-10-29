@@ -6494,83 +6494,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:58:07",
+   "2026-10-29T15:59:03",
    32.58
   ]
  ],
- "cycles": 2244,
+ "cycles": 2245,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.7158,
- "watching": 297,
+ "sol_usd": 96.82999999999998,
+ "watching": 306,
  "near": [
-  [
-   "INU",
-   "FFUDwJHQkJaCxwfWBP8KBRxabeLbW43xnJDEtpNwpump",
-   1.0,
-   4.1,
-   "graduated"
-  ],
   [
    "ZI",
    "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
    0.915,
-   5.3,
-   ""
-  ],
-  [
-   "SI",
-   "8oYVnbTzoVRGqLtgrPXoQCHmyAavShLgTsC7Yknupump",
-   0.491,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "ETHEREUM",
-   "CBbSTGeCCz2B7bupaNLEDfR2iXP1JKnbmi7hMSjEpump",
-   0.214,
-   7.0,
+   6.2,
    ""
   ],
   [
    "FAG",
    "6Ya1cE1A8Vi42LsUmsT3yEFEnDe8umzee6jjQPuupump",
    0.171,
-   6.2,
+   7.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "PEIRO",
    "GMrJdNq3VjNkfDy44teEusYEbec1eyh8RJYtFEGiR4KX",
-   0.131,
-   2.5,
+   0.136,
+   3.4,
    ""
   ],
   [
    "OPSEC",
    "5stipa3ydYPTxDpSqFgrfrA3GXKchAxiZq7K2vsF3eyh",
    0.112,
-   3.5,
+   4.4,
    ""
   ],
   [
    "UBC",
    "F5YmKXVbPEge2Jw1nbfFCaSJRHHtCvCpu299hYSrpump",
    0.077,
-   3.3,
-   ""
-  ],
-  [
-   "bean",
-   "3g4k7Upw2PJ5wM9oQGA1nYu95wCXoSrFwyb4mkjMX9H7",
-   0.073,
-   3.4,
+   4.2,
    ""
   ],
   [
    "PEIRO",
    "5hs73pJX2bbrrhVZdhSSYvq2xiHc1vbbsFozAC7jpump",
    0.065,
-   3.3,
+   4.2,
+   ""
+  ],
+  [
+   "ZeroDay",
+   "6o2UqVVdpDtkcQwEBZ2XU71TGzRxXxSNH547Uzbbejy7",
+   0.064,
+   7.0,
+   ""
+  ],
+  [
+   "ZERODAY",
+   "DjfXJqFZLjxK57JMai6Nz5vVfp1C7LFC18GBND8Wpump",
+   0.031,
+   2.2,
+   ""
+  ],
+  [
+   "UBC",
+   "6mfRMVNQADRGL5nY7ofKfYhbFYsRxmri2CDL6KCapump",
+   0.03,
+   3.8,
+   ""
+  ],
+  [
+   "Zero",
+   "4AXok1iRFdtA7GRLeAEvdbmcXnGHACypwXJPeM1Kpump",
+   0.027,
+   5.8,
    ""
   ]
  ]
