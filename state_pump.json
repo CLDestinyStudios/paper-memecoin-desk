@@ -4013,84 +4013,84 @@
    102.61
   ],
   [
-   "2026-10-28T21:19:03",
+   "2026-10-28T21:20:03",
    102.61
   ]
  ],
- "cycles": 1126,
+ "cycles": 1127,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.69,
- "watching": 131,
+ "sol_usd": 99.68547838890001,
+ "watching": 133,
  "near": [
   [
    "r/pad",
    "ELqCRsaEPCJijmo2QefeUQy95pTB8FzeECSaTUJLpump",
-   0.525,
-   6.9,
+   0.145,
+   7.9,
+   ""
+  ],
+  [
+   "put\u0435r",
+   "EEQ1PMTJGUPkKyHCvQyEfP15XquPdtRs75efqYhjpump",
+   0.066,
+   2.5,
    ""
   ],
   [
    "HARD",
    "GFKPrwSaC1RTx9kmwLz4NgBiwTmbTd127TVu74Ukpump",
    0.048,
-   2.7,
+   3.7,
    ""
   ],
   [
    "GLADOS",
    "CC8hXq1zMy3ur9Cb8maYpY9iSbuV3xTadhqVXWsjLnSF",
    0.044,
-   7.3,
+   8.3,
+   ""
+  ],
+  [
+   "TW3",
+   "EGXznFfYkfP7bQQUuawHFmpAgxoHU7ktyhm3oWePpump",
+   0.043,
+   2.6,
    ""
   ],
   [
    "PUMPGIRLS",
    "2KtCADkTSkya9CHr2Jut2K9wFrEDK4SmcwRnMPG6pump",
    0.043,
-   7.6,
+   8.6,
+   ""
+  ],
+  [
+   "hammy",
+   "FphxoPuPpgRj8dQHEoJFsx5dnqTH8NRtpKJntyispump",
+   0.038,
+   2.5,
    ""
   ],
   [
    "EWEEN",
    "9vNuRLsbrtcFPQvLK8DE7qBD41XUcur4PhJZmEFpump",
    0.023,
-   2.9,
+   3.9,
    ""
   ],
   [
    "CFLY",
    "nqBbPvEf3WcQp1RqnWLwazm7UhHWRuRBgNUbApzpaid",
    0.022,
-   6.7,
+   7.7,
    ""
   ],
   [
    "WAITER",
    "HWAFPv81Yqja9XAghh96RbhBM9h2NzrpLqXhMxP2pump",
    0.02,
-   3.9,
+   4.9,
    ""
-  ],
-  [
-   "ACT:D",
-   "LKqgSKxj8FhTV6CYqGVHukpMBHdJWX9EBUZW5Gcpump",
-   0.02,
-   5.7,
-   ""
-  ],
-  [
-   "NZTX",
-   "CCcRPGbWUDeRC8GZYqQtLrPhB17f8JkR52eUnWXwpump",
-   0.019,
-   3.3,
-   ""
-  ],
-  [
-   "CATS",
-   "CXkycHXMnGDNk2w81BXuDC7sJKudF6fkudZM2R7Hs5wP",
-   0.014,
-   5.6,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
