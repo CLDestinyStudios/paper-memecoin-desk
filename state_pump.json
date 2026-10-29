@@ -6502,83 +6502,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:16:16",
+   "2026-10-29T16:17:05",
    32.58
   ]
  ],
- "cycles": 2262,
+ "cycles": 2263,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.39960491800001,
- "watching": 286,
+ "sol_usd": 96.5101368493,
+ "watching": 258,
  "near": [
   [
    "1029",
    "4vfDwu14Z6rzX5M95TyaRJn5V3VfT6WmBcd3VNAhfDPs",
-   0.901,
-   7.4,
+   0.889,
+   8.2,
    ""
   ],
   [
    "HYPEFUN",
    "C4Uj6tm6BR1YveN1mtkE54zuN8QJomXYb5c2jFjuHYPE",
-   0.725,
-   2.9,
+   0.704,
+   3.7,
    ""
   ],
   [
    "longit",
    "387AKE5T853Me3qaUNYumQAtNSLkiR7rKv5rGbMDpump",
-   0.675,
-   3.3,
+   0.687,
+   4.1,
    ""
   ],
   [
    "1029",
    "C7hNjGqjSbwK38K2hr8uiKhwQGhJvYtC4inmxMAcpump",
-   0.672,
-   7.0,
-   ""
-  ],
-  [
-   "RABBIT",
-   "6BCurTs1ZdjX7n9jJZMSeDWHki6smgioHthafvzA97LS",
-   0.305,
-   6.0,
-   ""
-  ],
-  [
-   "BNBQ",
-   "Hhu8GBL9i2Ty9Xnbhic38tZkh7Ytj1DLxbdQEqCLpump",
-   0.243,
-   9.9,
-   "launch_slot=missing"
-  ],
-  [
-   "REKTOBER",
-   "8FA3gDDVir7EpFPZcZ3ahPY6Gu6KjvetvuvPbGMDpump",
-   0.24,
-   3.5,
-   "bundled_launch=3 extra buys in creation block"
+   0.651,
+   7.8,
+   "serial_creator=12 launches/24h"
   ],
   [
    "GUC",
    "5iUCgk7z5z7sBfpTCoktoCGhxKSAVExPvzBmyjsUpump",
    0.212,
-   6.3,
+   7.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "HyperBull",
-   "5jtiZBbGModLaDBxtPAMn51rHATmXhbLd986YzXTpump",
-   0.19,
-   2.6,
-   "top5_hold_most=93%; bundled_launch=3 extra buys in creation block"
+   "RABBIT",
+   "6BCurTs1ZdjX7n9jJZMSeDWHki6smgioHthafvzA97LS",
+   0.205,
+   6.8,
+   ""
   ],
   [
    "GUC",
    "AjPpaXiEMyzPuhVctDPHNXAugFvevC6JVRsNXyZ3pump",
-   0.176,
-   7.9,
+   0.193,
+   8.7,
+   ""
+  ],
+  [
+   "Banker",
+   "9QF8DCnfheSSiGbpf6k3PAqwoAC7trbdr7UFtPmXpump",
+   0.171,
+   9.9,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "FREEZE",
+   "AFjTS6WHbX2V1hs7S5KF7x5RojiqdV7jCaYhyy5Rpump",
+   0.151,
+   6.9,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "MGC",
+   "EugZ8TwkraW6DZRMMfxJoiNabgWS6LZCJLfzjLqDpump",
+   0.128,
+   7.1,
    ""
   ]
  ]
