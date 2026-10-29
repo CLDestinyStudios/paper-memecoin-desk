@@ -4733,45 +4733,56 @@
   [
    "2026-10-29T02:10:20",
    69.18
+  ],
+  [
+   "2026-10-29T02:11:21",
+   69.18
   ]
  ],
- "cycles": 1417,
+ "cycles": 1418,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.4,
- "watching": 116,
+ "sol_usd": 100.45591503000001,
+ "watching": 118,
  "near": [
   [
    "Marmot",
    "2U4powQgBviMPvijN8uSXRLxdh5J3cnheavp7VSWpump",
    0.106,
-   3.0,
+   4.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "FATINU",
    "3w6hfxoeDwKdPQSU91myCUWMgaUbmhQxy7TKBEzKpump",
    0.082,
-   5.9,
+   6.9,
    ""
   ],
   [
    "SI",
    "AFxZf2V8ZCuPSb7V8v8TBmRzFK315Sc5YXP9WC3pcvRJ",
-   0.075,
-   5.0,
+   0.071,
+   6.1,
    ""
   ],
   [
    "FATINU",
    "7GCSR9ci8AY5hnb6nR7m1uyB98FawSb48ierTi9opump",
    0.07,
-   3.2,
+   4.2,
    ""
   ],
   [
-   "SMBL",
-   "PFCJDyeNsKNh1F3ybbW29ksuDzZoTX8PsgV2FUZ4Bqp",
-   0.044,
+   "DEEZNS",
+   "45KrziAZSYpiH1jU8KhgWX7WKVWGXfCz6nELcBW9pump",
+   0.067,
+   2.8,
+   ""
+  ],
+  [
+   "bog",
+   "54okPc1KmyWmBGdHm8rhW98h6E6FY7GCpqPRk4Ffpump",
+   0.063,
    2.2,
    ""
   ],
@@ -4779,35 +4790,28 @@
    "STL",
    "6g3ziZ6niLVzMF55AHP5zLfqsLd5MbXfmHja3PNwayui",
    0.036,
-   5.3,
+   6.3,
    ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
    0.034,
-   8.7,
+   9.7,
    ""
   ],
   [
    "LESCAR",
    "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
    0.034,
-   7.9,
+   8.9,
    ""
   ],
   [
-   "AC",
-   "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
-   0.022,
-   9.7,
-   ""
-  ],
-  [
-   "ZET",
-   "GcWpUT5BxTkkKwyKqakGYccgZmeJ5NyVpz3srNmHpump",
-   0.022,
-   5.0,
+   "\ub9ac\ud540",
+   "3GEqVt6Cs8KDyheTP9XcWkQQoq6qxanW379kGca9pump",
+   0.026,
+   2.5,
    ""
   ]
  ]
