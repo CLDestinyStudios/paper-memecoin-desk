@@ -6430,84 +6430,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:27:03",
+   "2026-10-29T13:28:02",
    32.58
   ]
  ],
- "cycles": 2093,
+ "cycles": 2094,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.27,
- "watching": 269,
+ "sol_usd": 99.19960556424786,
+ "watching": 283,
  "near": [
+  [
+   "HYPERDUEL",
+   "HSRF3VpaF8WN79BWpuN1wzkMXTo54xuTYBwcje8bi7Ae",
+   0.787,
+   2.2,
+   ""
+  ],
   [
    "PRRPS",
    "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
-   0.8,
-   7.2,
+   0.781,
+   8.2,
    ""
+  ],
+  [
+   "PVPLESS",
+   "7BwdyE9UHTrSAaH6r8BfeJHWJyfeHNo6CzHrTkZpump",
+   0.424,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "R",
+   "FuHNEf7atrJQVAXrNFFt7Kc6t31AmnsacPRNASmPpump",
+   0.225,
+   6.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "GACHA",
    "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
    0.213,
-   8.9,
+   9.9,
    "buyers=6; top5_hold_most=89%"
   ],
   [
-   "R",
-   "FuHNEf7atrJQVAXrNFFt7Kc6t31AmnsacPRNASmPpump",
-   0.182,
-   5.3,
-   "buyers=4; top5_hold_most=100%"
+   "SHITCOIN",
+   "9atUL37TSZ8E6VpeaP8JVsVVgjjuFPkT3LBDTkVtpump",
+   0.092,
+   2.4,
+   ""
   ],
   [
    "USDC",
    "EycGADPzEom2ZRdNVADuhqgpoGkQFoGpDxz2v6ohpump",
-   0.092,
-   2.7,
+   0.082,
+   3.7,
    ""
   ],
   [
-   "Affirm",
-   "GRr7eCj7FMKFMyLoo58EdZ3w2Nx2JabXKuqHaBVfpump",
-   0.073,
-   4.3,
-   ""
-  ],
-  [
-   "CATGRANDMA",
-   "BwAitYjccPhbUH2KnG2aq2RtfY33eGmCde9NLSQZpump",
-   0.065,
-   5.2,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "ALLIGATORS",
-   "GBcBX8erM4cb5Qrby2cU22vSifMuKsFn4Mim1sbfpump",
-   0.064,
-   3.1,
-   ""
-  ],
-  [
-   "Raja",
-   "FBibYr5JPzVLRUPy5dcogo7qdTWVgz5VpmVS885Wpump",
-   0.064,
-   2.2,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "NVDA",
+   "DaRFAgxKwgYYeqNVjPVUoEL2Evfg62CirD3TpD7yCFHn",
+   0.075,
+   8.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "pepperoni",
    "8wxvvYACComu33AdqKQL1KHFZAY6WNanGv3GtMZgpump",
    0.063,
-   3.0,
+   4.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "S&C",
-   "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
-   0.063,
-   9.8,
-   ""
+   "hypinu",
+   "GBNnhvv7rDhvbzxN2prWMioCjhjjrFxHerhEEjZQpump",
+   0.037,
+   7.0,
+   "top5_hold_most=99%"
   ]
  ]
 }
