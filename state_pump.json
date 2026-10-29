@@ -2,22 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 76.50867701682161,
+ "cash": 78.02946374048747,
  "positions": {
-  "BYmAUQ8KsfCNmBMGBvE5HJJaKNpL5H25VWSh4vGipump": {
-   "sym": "GWJOB",
-   "bc": "A1ZG9yJSK8BLtytn565eXfvBtc6JWzSQWHnV1gZzYvWC",
-   "tokens": 576827.6929094696,
-   "cost": 2.44,
-   "cost0": 2.44,
-   "entry_px": 3.940895382563055e-08,
-   "entry_fill": 4.246509224071007e-08,
-   "opened": 1793258826.8604846,
-   "last_px": 3.950372624378013e-08,
-   "peak_px": 3.950372624378013e-08,
-   "last_val": 2.1005398184421162,
-   "last_prog": 0.215
-  },
   "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump": {
    "sym": "ALMOST",
    "bc": "9saGTGXCnJpqeFA8rzLYn3avtL2RWuZWA2JxvmBVWxyY",
@@ -27,10 +13,10 @@
    "entry_px": 7.143875508542197e-08,
    "entry_fill": 7.697199010237665e-08,
    "opened": 1793258890.5310805,
-   "last_px": 7.143875508542197e-08,
-   "peak_px": 7.143875508542197e-08,
-   "last_val": 2.0872268881159735,
-   "last_prog": 0.507
+   "last_px": 7.598282196354446e-08,
+   "peak_px": 7.598282196354446e-08,
+   "last_val": 2.223112152032963,
+   "last_prog": 0.532
   }
  },
  "traded": [
@@ -4558,81 +4544,85 @@
   [
    "2026-10-29T00:28:10",
    80.7
+  ],
+  [
+   "2026-10-29T00:29:05",
+   80.25
   ]
  ],
- "cycles": 1315,
+ "cycles": 1316,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.6076736565,
- "watching": 131,
+ "sol_usd": 99.6070860711,
+ "watching": 129,
  "near": [
-  [
-   "ALMOST",
-   "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump",
-   0.507,
-   4.6,
-   "bought"
-  ],
-  [
-   "SLOPCASH",
-   "6ZpGvHxE7mTrHq7FQTwyTubAv7nsZLCrHgFadhJRpump",
-   0.229,
-   2.3,
-   "top5_hold_most=82%; bundled_launch=10 extra buys in creation block"
-  ],
   [
    "dose",
    "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
-   0.188,
-   3.6,
+   0.047,
+   4.5,
    "top5_hold_most=93%"
   ],
   [
-   "Nigger",
-   "54J82bBFc2BNWnvM7Wd9akjvWy4iEQDqDLxFxFkopump",
-   0.125,
-   2.6,
-   ""
-  ],
-  [
-   "soluna",
-   "DpFB37oY3x1iNSw2sJfNnXDouEdNhJkJAzMnUw6Apump",
-   0.074,
-   4.2,
+   "$CHNABULL",
+   "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
+   0.044,
+   2.7,
    ""
   ],
   [
    "EXNESS",
    "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
    0.03,
-   6.9,
+   7.8,
    ""
   ],
   [
    "VOICE",
    "3PgPrtKeCdkxYNPe7dRD3t9tyCFBZjqQkAJqobKWpump",
    0.022,
-   4.7,
+   5.6,
    ""
   ],
   [
    "Solana",
    "GZBYW6zwYfkd9G6kvrxu2xwFvMx7WmykxoqhmpjMpump",
    0.011,
-   7.6,
+   8.5,
    ""
   ],
   [
-   "loot.gg",
-   "4yFNYUkgnyHwZTdLuqKs4h2hsPcfCDcXhnuxWUtLpump",
-   0.007,
-   4.2,
+   "Nigger",
+   "54J82bBFc2BNWnvM7Wd9akjvWy4iEQDqDLxFxFkopump",
+   0.005,
+   3.5,
    ""
   ],
   [
    "MONKEY",
    "5EA13y7tyLNDvaPZaoLLsgMHqYe4r9FmvpJ3z4Rupump",
    0.003,
-   9.1,
+   10.0,
+   ""
+  ],
+  [
+   "STEVE",
+   "Ded29XxyhLLDFLWZSoB3F1dv37SLEko85msJcLESpump",
+   0.003,
+   5.2,
+   ""
+  ],
+  [
+   "MSKC",
+   "BEZgeoUQDvR4X3M1fdjArLexDrmsYgvo7HqixcGKpump",
+   0.003,
+   8.5,
+   ""
+  ],
+  [
+   "CRACK",
+   "BsnLb27rHtBoK4mWAxJycH6wynbmWuBxKLDmWhZXpump",
+   0.002,
+   7.9,
    ""
   ]
  ]
