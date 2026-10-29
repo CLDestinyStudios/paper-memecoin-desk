@@ -4515,82 +4515,86 @@
   [
    "2026-10-29T00:23:05",
    81.38
+  ],
+  [
+   "2026-10-29T00:24:06",
+   81.38
   ]
  ],
- "cycles": 1310,
+ "cycles": 1311,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.835669251,
- "watching": 113,
+ "sol_usd": 99.74814165559998,
+ "watching": 117,
  "near": [
   [
    "Moancoin",
    "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
-   0.87,
-   5.7,
-   ""
+   0.537,
+   6.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "TRUMP",
    "DjpFNMu6hrm7oagdrwQZXVFuCjyiHpVXuQeyNpxjpump",
    0.231,
-   7.9,
+   8.9,
    "top5_hold_most=81%"
   ],
   [
    "ELY",
    "2C2EDSzLU3HYmZ4Lm4Q4LUvFSsRM11nR9y5Tm4Yzpump",
-   0.215,
-   7.8,
-   "buyers=4; top5_hold_most=100%"
+   0.231,
+   8.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "FUM",
    "6Uon9LzJMv4pxtukv8dREUb4EHgo8z9T5zfQXfJxpump",
-   0.179,
-   6.9,
+   0.137,
+   7.9,
    ""
   ],
   [
    "derpcats",
    "HrZFABF2XHHEjyHrSsbXiRqzdtUDW67L9agYztrepump",
    0.063,
-   5.7,
+   6.7,
+   ""
+  ],
+  [
+   "Myavlik",
+   "B7bGUDsUZERBK6zBitNeNTceCa74LRa7oopDNFLapump",
+   0.06,
+   2.5,
    ""
   ],
   [
    "TICKTOCK",
    "FEtWqXSYvbuNeYwaNXdej3xyWG82Ce9kTkgkTLPxpump",
-   0.06,
-   7.2,
+   0.054,
+   8.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TRUTH",
    "G7V8AkMep6Ahd5Lx2bY8nbbmFxk1EUTbGmwGE5fipump",
    0.042,
-   6.5,
+   7.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "MOAN",
-   "AGNj7MPanpWpjKvyvBbrGaRjJJ5DwPBGYrgNW43spump",
-   0.031,
-   2.9,
-   ""
   ],
   [
    "SIA",
    "8tw9wDUZyuDRyLASdeE71UbmMJfTHaQxR9iLqMQhpump",
    0.03,
-   8.4,
+   9.4,
    ""
   ],
   [
-   "HOLD",
-   "Ba3AF7p6aYk1E6F1UiDnFrk7zBycDb7e7XNrupLipump",
-   0.023,
-   5.8,
-   "buyers=6; top5_hold_most=100%"
+   "EXNESS",
+   "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
+   0.021,
+   2.9,
+   ""
   ]
  ]
 }
