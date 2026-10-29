@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.0636708093628504e-07,
+   "last_px": 8.817321279170005e-08,
    "peak_px": 1.0636708093628504e-07,
-   "last_val": 1.6101460482705356,
-   "last_prog": 0.659
+   "last_val": 1.326613629311268,
+   "last_prog": 0.591
   }
  },
  "traded": [
@@ -5228,81 +5228,85 @@
   [
    "2026-10-29T04:31:22",
    58.56
+  ],
+  [
+   "2026-10-29T04:32:22",
+   58.28
   ]
  ],
- "cycles": 1558,
+ "cycles": 1559,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.31803700300001,
- "watching": 185,
+ "sol_usd": 100.35,
+ "watching": 186,
  "near": [
   [
-   "BURN",
-   "5y3Yrk2qA526xUxTNoCs9fk9sCj1Jt3UiPoatbShpump",
-   0.142,
-   2.5,
-   "top5_hold_most=92%; bundled_launch=4 extra buys in creation block"
+   "wel",
+   "Bf3g8wXPZPuSAcx7wSLh6DdHzKGKtxRb2xpMYHrPpump",
+   1.0,
+   2.2,
+   "graduated"
   ],
   [
    "trmpxmsk",
    "Af87AMsbEtQmr8FydDT51qwoGbnP5UFx1niXyUYjpump",
    0.124,
-   5.8,
+   6.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "FORKOOPS",
-   "DgEF4uSeAkBFdX9sXoTBtUjdtuF2CvB2rR8MeRAppump",
-   0.115,
-   9.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
    "\u30ca\u30ba\u304f\u3093",
-   "2XFNw272fkyn3JthhpfmRAbubHhpGNUUiZkQak1Gpump",
-   0.078,
-   2.9,
-   "top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "\u30ca\u30ba\u304f\u3093",
-   "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
-   0.072,
-   2.3,
-   ""
+   "26pMfwnmD1XFyoX7cQcYsw9qPFgdM2LTr2LJgHE4pump",
+   0.061,
+   2.0,
+   "buyers=1; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "sheriff",
    "FW5ESViMgLWHtPWQuWP4PhFXmpjj2LKTKbShnTQXpump",
    0.058,
-   6.0,
+   7.0,
    "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "MyMom",
+   "G6wfKmAJz6TtYjpntZ5RVmHDMbr9AgVuorLT9VQ4pump",
+   0.057,
+   3.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "GHOST",
    "A63ubhFJoAJi3RgHMbcV58GjPe3XwDzSDPv6Y7H5SLht",
    0.043,
-   5.3,
+   6.3,
    ""
   ],
   [
    "STRC",
    "9VtHKQSeimkCgRQiYMnRvWKbddaGBUP2ooHSxujLpump",
    0.033,
-   8.5,
+   9.5,
+   ""
+  ],
+  [
+   "\u30ca\u30ba\u304f\u3093",
+   "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
+   0.03,
+   3.3,
    ""
   ],
   [
    "AURA",
    "6bafXYaCz5EEecb53gjzQkPLrkwMfGUAYwR1E4ocxDCk",
    0.022,
-   4.1,
+   5.1,
    ""
   ],
   [
-   "DUNKIN",
-   "3a8zoaepqELixSAaA4neb6PCp156YPjG9j1ggb2Vpump",
-   0.021,
-   2.4,
+   "\u30ca\u30ba\u304f\u3093",
+   "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
+   0.022,
+   2.7,
    ""
   ]
  ]
