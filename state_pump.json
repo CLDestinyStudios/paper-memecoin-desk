@@ -6518,83 +6518,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:53:06",
+   "2026-10-29T16:54:11",
    32.58
   ]
  ],
- "cycles": 2299,
+ "cycles": 2300,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.54749112859999,
- "watching": 238,
+ "sol_usd": 95.54999999999998,
+ "watching": 237,
  "near": [
   [
    "BYENANCE",
    "DSnN1923kwmoPTrq9tWq4KcAk157pad4Zv75RNcspump",
-   0.309,
-   5.8,
+   0.402,
+   6.9,
    ""
   ],
   [
    "1029",
    "66xMLsVAponwfwHj33E4VuaPAU3Uzk23QTdY5xA8pump",
-   0.191,
-   2.1,
-   "buyers=1; creator=15.1%; top5_hold_most=100%; launch_slot=missing"
+   0.22,
+   3.2,
+   "buyers=5; creator=15.1%; top5_hold_most=100%"
   ],
   [
-   "CATMAN",
-   "FWszYVwWo7Vyoyxwm8wAPC7Exp4da5Qh8eMdnGDCxSDy",
-   0.149,
-   6.8,
-   "buyers=6; top5_hold_most=99%; launch_slot=missing"
+   "AI",
+   "6HML5U6dWnxaVGgXbJrdF5VBLuP8gKBXTGkCmn2Qpump",
+   0.175,
+   2.3,
+   "buyers=5; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
-   "BEAR",
-   "CZPF9YuNZH56rPWaS4HD1ER4D6KvcihSduxSCkqWpump",
-   0.115,
-   5.0,
-   ""
+   "Petix",
+   "9emsPHhKbDPrdkoS8bHTbofut7CJhxC3A5Zvhfytpump",
+   0.109,
+   2.9,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "BYENANCE",
    "5ipVowwf9a8FHsYacdk2v3APkkYCk4jdkQ9odUs6pump",
    0.109,
-   5.5,
-   ""
-  ],
-  [
-   "OVER",
-   "4r3ueQ2omNt9yWfs9RxAgGJssm6RdHu21oAzwZ8UZQbH",
-   0.105,
-   7.2,
+   6.6,
    ""
   ],
   [
    "FREEZEGATE",
    "9j3AJZzysJPY4Tsj4DiqHdHYYkWsP5B3ozEApprupump",
    0.103,
-   2.1,
+   3.2,
    ""
   ],
   [
-   "OOF",
-   "Ed2PSZe43z4qn75ZfzCtG5V6Vw4catsr61h5Qb6Kpump",
-   0.088,
-   3.7,
+   "BEAR",
+   "CZPF9YuNZH56rPWaS4HD1ER4D6KvcihSduxSCkqWpump",
+   0.077,
+   6.1,
    ""
   ],
   [
    "FREEZEGATE",
    "Emi4FydZeMfJf9vXPTWcohnnem8KFd3CXHCCoGbppump",
    0.075,
-   3.1,
+   4.2,
    ""
   ],
   [
-   "LIFE",
-   "5CS9X7ae9rN23b1Z1SdYXFoeJS7YDk34UBkVnrpPpump",
-   0.071,
-   3.7,
+   "FI",
+   "FDsS2XJgXWqt9gCSxAP8TydewSoAWpqbCjoS7Npapump",
+   0.074,
+   2.6,
+   ""
+  ],
+  [
+   "BYEnance",
+   "Hrgi2jFQMPHrnPAyJ6aDS1PHc9vm5G3VLWCRHGVepump",
+   0.064,
+   6.9,
    ""
   ]
  ]
