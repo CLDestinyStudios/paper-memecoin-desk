@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 120.10239826565757,
- "positions": {
-  "EHyBBWthnCzVRz5gFjJLP5YKkKeT1Erm4QtbKMvpump": {
-   "sym": "WAR DOGS",
-   "bc": "HyxANkHHYkJSjZHwoyaDCSN46nEsrbfRSxGL9tJW47Jq",
-   "tokens": 614882.3966916275,
-   "cost": 3.71,
-   "cost0": 3.71,
-   "entry_px": 5.640240329589102e-08,
-   "entry_fill": 6.03598551491124e-08,
-   "opened": 1793239377.2377157,
-   "last_px": 5.640240329589102e-08,
-   "peak_px": 5.640240329589102e-08,
-   "last_val": 3.2338314945434226,
-   "last_prog": 0.4
-  }
- },
+ "cash": 122.62715275158475,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -3673,81 +3658,85 @@
   [
    "2026-10-28T19:02:57",
    123.34
+  ],
+  [
+   "2026-10-28T19:03:51",
+   122.63
   ]
  ],
- "cycles": 990,
+ "cycles": 991,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.96170631915,
- "watching": 258,
+ "sol_usd": 99.98999999999998,
+ "watching": 284,
  "near": [
-  [
-   "WAR DOGS",
-   "EHyBBWthnCzVRz5gFjJLP5YKkKeT1Erm4QtbKMvpump",
-   0.4,
-   3.4,
-   "bought"
-  ],
   [
    "50MS",
    "8gsdMXEywK97Hg7LHeMPUi2vfJMupaUXMFqcwXk8pump",
-   0.26,
-   2.9,
-   "buyers=6; top5_hold_most=100%"
+   0.257,
+   3.8,
+   "top5_hold_most=95%"
   ],
   [
-   "RUMPEL3",
-   "CLyFS9rGiSiQ1nBPAFT9iuxdNzCRP3sGz1TPk5TDpump",
-   0.242,
-   4.6,
-   "buyers=0; top5_hold_most=100%"
-  ],
-  [
-   "trenchinu",
-   "D773B4r2UsxJYpzmc3qv3UmAA5sE1KEPATqZgc9Mpump",
-   0.107,
-   2.8,
+   "tobba",
+   "4op1K6HwSLpooQF2qv1eiLmQQ9k2c5Qo2EP712Lrpump",
+   0.152,
+   3.5,
    ""
   ],
   [
    "JOTX",
    "2wqo3cxJxW6zm7ZM3oW64vpaNoiAqjNh24rYi92apump",
-   0.086,
-   4.9,
-   "buyers=4; top5_hold_most=100%"
+   0.123,
+   5.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "DOOMED",
-   "BywwVTiFUZXyhpQUjFcDbEH73RnNdPSWkaJYx6Nfpump",
-   0.074,
-   3.0,
-   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "CSSTR",
+   "EohKGLvdepdKPvAS2zWCWQdh8rBXxUnQYtpHW5dppump",
+   0.089,
+   4.7,
+   "top5_hold_most=84%"
   ],
   [
    "LARPTECH",
    "FJmHW5xrWAGEwm1ztjXkNzEKLyczCxTGVqscLTnCpump",
    0.069,
-   4.2,
+   5.1,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Mochimaru",
+   "RskuZ6RDmEJV3LnginSFzuu2tWR2jRowH8zEFNGpump",
+   0.063,
+   2.6,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Mochimaru",
    "EzSBUYMEQm3fVS3WmvEC4ZoyTXg2cRjzA3aUUrjwpump",
    0.063,
-   5.0,
+   5.9,
    ""
   ],
   [
-   "CSSTR",
-   "EohKGLvdepdKPvAS2zWCWQdh8rBXxUnQYtpHW5dppump",
-   0.053,
-   3.8,
+   "TCC",
+   "6n2jS1WBe1agD3spvUHxhYLFHVw3PA5SJuYfaHZxcijQ",
+   0.052,
+   2.4,
+   ""
+  ],
+  [
+   "FI",
+   "AsF3MavaVoAMC4Qi5VnnEiHu4b96YWFymLYrKHUzpump",
+   0.048,
+   2.2,
    ""
   ],
   [
    "Drip",
    "5XdyqBVdLGuJsHjBuz1N4mPZSXkvdYiyQKtaRybYpump",
-   0.047,
-   7.5,
+   0.044,
+   8.4,
    ""
   ]
  ]
