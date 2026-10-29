@@ -2,24 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 110.35085635557324,
+ "cash": 111.10329165029678,
  "positions": {
-  "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump": {
-   "sym": "Calls",
-   "bc": "9aPV9Zj448yRFXF1mBFDUXE6cLxws5fmGgKuDcY7fY4C",
-   "tokens": 276848.8027823067,
-   "cost": 1.74,
-   "cost0": 3.48,
-   "entry_px": 5.898525465389262e-08,
-   "entry_fill": 6.317236960461554e-08,
-   "opened": 1793241965.2627635,
-   "last_px": 9.575750730984841e-08,
-   "peak_px": 1.1198958419903014e-07,
-   "last_val": 2.4590400042318503,
-   "last_prog": 0.622,
-   "tp1_done": true,
-   "realized": 0.8299480854311876
-  },
   "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH": {
    "sym": "ZKProof",
    "bc": "9NENqLpMf5maw8FLX5bWT6ougrHt3jaz4UsZbksaUVbg",
@@ -31,7 +15,7 @@
    "opened": 1793242507.2344034,
    "last_px": 5.67189796078381e-08,
    "peak_px": 5.67189796078381e-08,
-   "last_val": 3.036839499322546,
+   "last_val": 3.036736240469313,
    "last_prog": 0.403
   }
  },
@@ -3817,81 +3801,85 @@
   [
    "2026-10-28T19:55:07",
    115.85
+  ],
+  [
+   "2026-10-28T19:56:04",
+   114.14
   ]
  ],
- "cycles": 1042,
+ "cycles": 1043,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.8805094039,
- "watching": 286,
+ "sol_usd": 99.87711325903832,
+ "watching": 291,
  "near": [
   [
    "BlackShiba",
    "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.838,
-   7.9,
+   0.825,
+   8.9,
    ""
   ],
   [
    "STAN",
    "51PCBi74iU6ZM6oTrjSstwyC9cRXY6SAj6C3L48Epump",
-   0.752,
-   2.2,
-   ""
-  ],
-  [
-   "ZKProof",
-   "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH",
-   0.403,
-   2.9,
-   "bought"
+   0.667,
+   3.2,
+   "serial_creator=10 launches/24h"
   ],
   [
    "HAKIMI",
    "42xqaCfWcYAfXfSFH8D7ccTm4stYg3cxXnQ6HFmZpump",
    0.268,
-   4.1,
+   5.0,
    "top5_hold_most=87%"
   ],
   [
    "ELON",
    "BLJeh2aVy2FuzdtX1NKTUV9sjGi7o7ECSfXoGtcipump",
    0.148,
-   2.5,
-   "buyers=3; top5_hold_most=100%"
+   3.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Stan",
-   "AKGAgcRfcoutqyysQEbgSp5vQ9TLquRcaNZU5DKUpump",
-   0.124,
-   3.0,
+   "STAN",
+   "Egm7h2YsMLNYnkWiwwqAPep3NYL6qbZENWVujgSppump",
+   0.136,
+   2.2,
+   ""
+  ],
+  [
+   "STAN",
+   "CUNBdAiLnyPVVreP4F9sFjagkkNqpM1LeDV4VjbGpump",
+   0.121,
+   2.1,
+   ""
+  ],
+  [
+   "HAKIMI",
+   "4bTWeV5yYqFfexAdsmxgbmeFqzqn9zsk7ERen7rqpump",
+   0.098,
+   5.5,
    ""
   ],
   [
    "STARSHIP42",
    "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
    0.074,
-   8.8,
+   9.8,
    ""
   ],
   [
    "GM",
    "41hv2jBuPTNMr4MDEuxK1TPpZLBZqxeHvHfRSBdWpump",
    0.073,
-   3.9,
+   4.8,
    ""
   ],
   [
-   "Cyberpsyc",
-   "7KqHx6cA2sVTEwd6ov1woFuiBxykXgHJKj9GxYZwpump",
-   0.069,
-   7.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Cheonsa",
-   "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
+   "CRIMEPUMP",
+   "Fg1kuVMDxPC3yAu8tQYTTRqgi9poi9GGbwPB5YyUpump",
    0.067,
-   3.7,
+   4.4,
    ""
   ]
  ]
