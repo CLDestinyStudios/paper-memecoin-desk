@@ -6334,83 +6334,83 @@
    32.58
   ],
   [
-   "2026-10-29T09:42:57",
+   "2026-10-29T09:43:58",
    32.58
   ]
  ],
- "cycles": 1869,
+ "cycles": 1870,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.924910742,
- "watching": 310,
+ "sol_usd": 101.95711268,
+ "watching": 302,
  "near": [
+  [
+   "LECHONK",
+   "iLVb7MW7cwEbxT3zDu4imJbNwB7kfybY1QtMNgPpump",
+   1.0,
+   2.5,
+   "graduated"
+  ],
+  [
+   "Peace",
+   "9wBdi8JhdsPWZJGYeWQADwz8ArV9pPKjdtayc4XXpump",
+   0.843,
+   2.3,
+   ""
+  ],
   [
    "$CAPO",
    "6f598vHKdjuUB4toGZqMRxVEwjcJLn3cY7pcpwitpump",
-   0.259,
-   5.8,
-   "buyers=7; top5_hold_most=99%"
+   0.274,
+   6.9,
+   "buyers=8; top5_hold_most=94%"
   ],
   [
    "DRAGONED",
    "AbNeH5RZizvLJADA4cbR2YrzKKwHZoUgsKtxeEVppump",
-   0.153,
-   4.6,
+   0.24,
+   5.6,
    "buyers=6; top5_hold_most=98%"
+  ],
+  [
+   "WHALE",
+   "2qvrogtCPr5BfdcTLVfcErRAmeAA3EpxkDGxo2V1pump",
+   0.103,
+   2.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "HI",
    "1XofCHPdpMtcXAANHFTaGesPFw17BKKw3jDncH6pump",
-   0.088,
-   2.6,
+   0.086,
+   3.6,
    ""
   ],
   [
    "MEMEX",
    "HH6TVFDLqNVmqFkUxejuHKiGiTuTxN4f69wBvtsQpump",
    0.083,
-   8.5,
+   9.6,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "PEPEHOUSE",
+   "Bi6NH5vZe3bHB1MLY6KYmrBQgwkqCUq5conUZc3Xpump",
+   0.079,
+   2.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "OFR",
    "7Cdx5LcmFb29uJfp35n1vFfRjP6ubnKL1XDur9Eqpump",
-   0.07,
-   2.4,
-   "buyers=6; top5_hold_most=99%"
+   0.075,
+   3.4,
+   "buyers=9; top5_hold_most=92%"
   ],
   [
    "POPPED",
    "4Zz1rL5mwPvriKu8ZG5fqoVTF6pLBRe35SLBJ1Fypump",
    0.043,
-   5.7,
-   ""
-  ],
-  [
-   "MOUSE",
-   "D3aTMH88qFhbcNWexP8MxVfh6x4a2dGoWCBeQd5Npump",
-   0.025,
-   2.5,
-   ""
-  ],
-  [
-   "KBCH",
-   "GB7Pj7ZTuG2RNiqvAeCwd5jLxxism1rF6CSom7f6pump",
-   0.023,
-   3.9,
-   ""
-  ],
-  [
-   "FX",
-   "5nV8PLPsUtdoNpNH82Lvac97TtM9p9miKhVsPNb3pump",
-   0.022,
-   5.5,
-   ""
-  ],
-  [
-   "DotOS",
-   "AgvmWwMdzxwH2VpeYrjrr1PtXbU7a9yL5JW2xCmwpump",
-   0.02,
-   3.7,
+   6.7,
    ""
   ]
  ]
