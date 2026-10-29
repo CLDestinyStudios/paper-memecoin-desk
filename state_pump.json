@@ -6490,84 +6490,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:50:08",
+   "2026-10-29T15:51:20",
    32.58
   ]
  ],
- "cycles": 2236,
+ "cycles": 2237,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.00614652799999,
- "watching": 297,
+ "sol_usd": 96.9253359437,
+ "watching": 273,
  "near": [
   [
    "CARRIER",
    "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
-   0.809,
-   3.3,
+   0.811,
+   4.5,
    ""
   ],
   [
    "\ud83d\ude4f",
    "14reSxg4wFq1VKhMeVCdxhAhZXQN8WifvrkVtrSTpump",
-   0.712,
-   4.2,
+   0.605,
+   5.4,
    ""
   ],
   [
-   "CARRIER",
-   "56BiAiQ615kQTcxxiUiBoVrgTHrRVfnT2oEPPtqkpump",
-   0.194,
-   2.7,
-   "buyers=7; top5_hold_most=88%"
-  ],
-  [
-   "BRIPTOE",
-   "HhSAXKiS2Svc9HQRcnXCu5v4SzMT6mwSxPiGonL2pump",
-   0.19,
-   6.1,
-   ""
-  ],
-  [
-   "LILY",
-   "5HE5uDVrstu8x2a1TiJ27tvDR6zFpeKoUXAifwavpump",
-   0.18,
-   6.2,
-   ""
-  ],
-  [
-   "ZERODAY",
-   "82qUEAfXvGwjZCnCrviBJA5NFrzEHe95PsxBwGzFpump",
-   0.179,
-   6.1,
-   "buyers=9; top5_hold_most=93%"
+   "Naz",
+   "4XCT5E5RCGBAPfqjF8CXZYkieEdHVqnTh9pjpGA1pump",
+   0.307,
+   3.2,
+   "launch_slot=missing"
   ],
   [
    "log-in",
    "BsiKF6TKUFB9XZAqKhe4VpB4uys797p66RdbkS4Dpump",
-   0.173,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
+   0.185,
+   3.8,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "LILY",
+   "5HE5uDVrstu8x2a1TiJ27tvDR6zFpeKoUXAifwavpump",
+   0.178,
+   7.4,
+   "top5_hold_most=91%; launch_slot=missing"
   ],
   [
    "ZERODAY",
-   "gduXbMJ5KeXSn2ArCrgDWSSkMNwf5pELZv13PgXpump",
-   0.119,
-   3.3,
-   ""
+   "82qUEAfXvGwjZCnCrviBJA5NFrzEHe95PsxBwGzFpump",
+   0.121,
+   7.3,
+   "buyers=9; top5_hold_most=93%"
   ],
   [
    "ZERODAY",
    "CTxs9soDzDgBn5Exe4B5pudMRxAWW1KshLL4MnJnpump",
    0.089,
-   3.7,
+   4.9,
    ""
   ],
   [
    "BM",
    "84wkgiEkewENJ1Uuv7BvZcErwLqjuPZhTyMRdCPnpump",
-   0.086,
-   4.8,
+   0.085,
+   6.0,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "CENTED",
+   "E5GoRRogyJ63FH9Nsq9T3BsuyqrSLGA8mdPtUMQtpump",
+   0.072,
+   9.5,
+   ""
+  ],
+  [
+   "BRIPTOE",
+   "HhSAXKiS2Svc9HQRcnXCu5v4SzMT6mwSxPiGonL2pump",
+   0.07,
+   7.3,
+   ""
   ]
  ]
 }
