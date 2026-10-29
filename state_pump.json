@@ -13,10 +13,10 @@
    "entry_px": 1.049907970391712e-07,
    "entry_fill": 1.1354907915266551e-07,
    "opened": 1793265502.7469976,
-   "last_px": 1.7043384792405996e-07,
+   "last_px": 1.5407748082394972e-07,
    "peak_px": 1.9908972124039844e-07,
-   "last_val": 1.4159088479306143,
-   "last_prog": 0.805,
+   "last_val": 1.2751519979045909,
+   "last_prog": 0.777,
    "tp1_done": true,
    "realized": 0.4925918064339456
   },
@@ -31,7 +31,7 @@
    "opened": 1793265744.045829,
    "last_px": 3.9682300589976176e-08,
    "peak_px": 4.274798112415763e-08,
-   "last_val": 1.6278173505331253,
+   "last_val": 1.6277195501604562,
    "last_prog": 0.217
   }
  },
@@ -4812,81 +4812,85 @@
   [
    "2026-10-29T02:24:22",
    68.05
+  ],
+  [
+   "2026-10-29T02:25:22",
+   67.91
   ]
  ],
- "cycles": 1431,
+ "cycles": 1432,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.25,
- "watching": 151,
+ "sol_usd": 100.24397691187106,
+ "watching": 139,
  "near": [
   [
    "Viclate",
-   "FUTkKnoTGtUVScNKjf2uYowUDNKwGBVV5uE8EXv4pump",
-   0.829,
-   2.5,
-   ""
-  ],
-  [
-   "Viclate",
    "8uW3C4K5wCmtHZTKuyhfXNUyPeBSz3XTXV8R7E5vpump",
-   0.401,
-   3.4,
+   0.372,
+   4.4,
    ""
   ],
   [
    "NPAW",
    "B7n1WqjYnxZKQacvRUf7Y2XPKEp4Hv2Kt5vgqpNtpump",
-   0.192,
-   6.4,
+   0.191,
+   7.4,
    "buyers=2; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "TOM",
    "DWtz24fd5FaH2JNqH168amy3xuEiHRBPJzBbXKcwpump",
    0.157,
-   5.5,
+   6.5,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "KILROY",
-   "2fnk3MephR4gLiaKTDZJJvYRcuaRrWzmv8jBzMn4pump",
-   0.084,
-   4.0,
-   ""
-  ],
-  [
-   "Nina",
-   "FfiWAHWGZ2knJ63SGGAeXiBAdGa7FuwjywxZXKWNLDJK",
-   0.077,
-   3.7,
-   ""
-  ],
-  [
-   "NET1",
-   "Ss14BcUPxEADEMLN9tPHoRcf3eUrHfJQPixG55wXQKL",
-   0.075,
-   8.8,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "derpcats",
-   "5irJwZjWuEXiAXHPRAtySRALSoEaNPX7RNdkmnBLpump",
-   0.063,
+   "MITYA",
+   "eHYYUrbxuT5ax8HKCv8xkMkgzGVamzHVrBqj9xSpump",
+   0.086,
    2.7,
-   ""
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "MOONDOG",
    "9NQ15G71u8y12oTCzvtysQVaCfdT7859ar9FJCEzpump",
    0.049,
-   4.9,
+   5.9,
    ""
   ],
   [
    "Viclate",
    "CLXiZKr9bzZpeEgu6ZTdJkVpQXQszrV6HasXUDXQpump",
    0.037,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "NET1",
+   "Ss14BcUPxEADEMLN9tPHoRcf3eUrHfJQPixG55wXQKL",
+   0.026,
+   9.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Viclate",
+   "AoBYpsmDq6nEVWRN1A3PCyR6wbVsC1U9ho1g9cueSAXR",
+   0.024,
+   3.8,
+   ""
+  ],
+  [
+   "Viclate",
+   "2ubfyhNxVtZF4xd8Z2wRCF5JZhhWvcaaLpobuHGCpump",
+   0.022,
+   3.6,
+   ""
+  ],
+  [
+   "BabyNuts",
+   "E9CrNffrYNV7xEXK4qx4a3URN9MA3s6TPDm1jt1Ppump",
+   0.013,
+   6.7,
    ""
   ]
  ]
