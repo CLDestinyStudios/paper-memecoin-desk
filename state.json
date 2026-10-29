@@ -1,7 +1,19 @@
 {
  "bank_start": 500.0,
- "cash": 521.0187061958001,
- "positions": {},
+ "cash": 479.33870619580006,
+ "positions": {
+  "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump": {
+   "sym": "CATBOT",
+   "qty": 408219.23174864356,
+   "entry": 0.00010210199999999999,
+   "mark_entry": 0.0001001,
+   "cost": 41.68,
+   "peak": 0.0001001,
+   "last": 0.0001001,
+   "opened": 1793300574.0305626,
+   "p_buy": 0.78
+  }
+ },
  "watch": {},
  "traded": [
   "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
@@ -10,7 +22,8 @@
   "AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump",
   "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo",
   "FEXGegqeVm5vZurqyC7qsmkLqWspVV1ACb9bbLvcpump",
-  "HuRqh4ddfRGwcWRD6UaXKGha8ycaDcw6gP6NbFc66uNy"
+  "HuRqh4ddfRGwcWRD6UaXKGha8ycaDcw6gP6NbFc66uNy",
+  "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump"
  ],
  "equity": [
   [
@@ -1468,7 +1481,11 @@
   [
    "2026-10-29T12:01:56",
    521.02
+  ],
+  [
+   "2026-10-29T12:02:55",
+   519.38
   ]
  ],
- "cycles": 2065
+ "cycles": 2066
 }

@@ -6394,83 +6394,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:01:55",
+   "2026-10-29T12:02:54",
    32.58
   ]
  ],
- "cycles": 2008,
+ "cycles": 2009,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.407258436,
- "watching": 278,
+ "sol_usd": 100.355236484,
+ "watching": 248,
  "near": [
   [
    "NCM",
    "JA4QjA3VSmKfscwAfgPfecZKu2cZoF19fy3WqCrmpump",
-   0.342,
-   6.2,
+   0.317,
+   7.2,
    ""
   ],
   [
    "SENTI",
    "Ac6KvrUn9jrwSWEikcZEbCUq7cyi4KM3b3gDXsXRpump",
-   0.23,
-   2.2,
-   "top5_hold_most=90%"
+   0.241,
+   3.2,
+   "top5_hold_most=88%"
   ],
   [
    "HATCH",
    "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
    0.114,
-   3.8,
+   4.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ZD",
    "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
    0.092,
-   2.1,
+   3.1,
    "buyers=7; top5_hold_most=95%"
-  ],
-  [
-   "HYPERPHAN",
-   "GiPZ1JZvvujTUrtixBYWswnWjFZ7rHS8g5gkx8Xipump",
-   0.069,
-   2.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Aiden",
-   "A5gHrRFvwicJcMF8wfWpRBjYzQGQxxoihU5en7m5G8dF",
-   0.057,
-   9.8,
-   ""
   ],
   [
    "Ket",
    "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
-   0.047,
-   6.7,
+   0.048,
+   7.7,
    ""
   ],
   [
    "HODLWAR",
    "GR1XNZ88CsFM1D8kuzK5AZAEHtW2swh7VJc3WePfpump",
    0.043,
-   4.5,
+   5.5,
    ""
   ],
   [
-   "POLYPUMP",
-   "GJ3K4bjLFTQcfaoJAUGb3pTtTU8qoh1XvwvWVaMEpump",
+   "CR7",
+   "56Jfs46D3ZBTumjjsrHQ6LSSweVkcnEsy5z7bYp9pump",
    0.043,
-   3.5,
+   2.1,
    ""
   ],
   [
-   "Leslie",
-   "6zwqYaapbUJ5gq4PTyBU923kAutQjYj6u3rqdECfpump",
-   0.029,
-   3.1,
+   "ELON",
+   "4bMuqLcLoj2QR2chWiwNBAYvrgkCU9WHvqsibNRX6avV",
+   0.028,
+   4.6,
+   ""
+  ],
+  [
+   "MAX",
+   "ATAhsWdDmYewJqL6rDSNcTysAqJyK1RXAEGTXNPFXxLa",
+   0.026,
+   2.4,
+   ""
+  ],
+  [
+   "MATTC",
+   "HtgJyfJuNoVeQcFXvi6ADV1uNAUP9CqGEpkE7ngRpump",
+   0.024,
+   6.5,
    ""
   ]
  ]
