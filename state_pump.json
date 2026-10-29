@@ -4138,83 +4138,83 @@
    91.29
   ],
   [
-   "2026-10-28T22:08:04",
+   "2026-10-28T22:09:04",
    91.29
   ]
  ],
- "cycles": 1175,
+ "cycles": 1176,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3476404188877,
- "watching": 163,
+ "sol_usd": 100.37499319300001,
+ "watching": 164,
  "near": [
-  [
-   "BLOOD",
-   "DZshNqJkyMYW93h83LbtdfqNZZEJgCgr7ZfCLNmpump",
-   0.091,
-   4.5,
-   ""
-  ],
   [
    "OPENSPIDER",
    "7qABzHRaKAkRYQjdT8J5C2AXZ6QxXp56jbc7FMevpump",
    0.074,
-   4.5,
+   5.5,
    ""
   ],
   [
-   "PHIPPO",
-   "DjA6MEnWW4rj88f9qReFTW5kSWxrEh33UgVxDwrQpump",
-   0.073,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
+   "AI/SI",
+   "6jeKTUDrvsJQg4TPdmk5z76ZkqRS93oxhWJvVLdZpump",
+   0.068,
+   2.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BTS",
    "8ekdCAKhchx3ZEE9xK19eDb5X7gVezLVeT7xNhE7pump",
    0.033,
-   7.8,
+   8.8,
    ""
+  ],
+  [
+   "PHIPPO",
+   "DjA6MEnWW4rj88f9qReFTW5kSWxrEh33UgVxDwrQpump",
+   0.032,
+   3.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "$",
    "5JiL6Kt6yBgxUHhFZFDEu4pgkV8R5fSw7sbweQ4Zpump",
    0.024,
-   4.9,
-   ""
-  ],
-  [
-   "CA IN WEB",
-   "Xrnz1aUWJN8RpUBSt4N2E4WfN12nMD9LqSkqpnHpump",
-   0.022,
-   9.9,
+   5.9,
    ""
   ],
   [
    "neko",
    "FceVGd1No246Fmc5fgoAEowq855yZ8WsJgGpvKofpump",
    0.022,
-   6.1,
+   7.1,
+   ""
+  ],
+  [
+   "WARCAT",
+   "EmaTb4Y6QE9F1ZMCUEKCCb3xHq6sdk1Dt4WpsnWHpump",
+   0.017,
+   2.7,
    ""
   ],
   [
    "HELL",
    "FsdCFg5X7TrfzXFdHrYJy6mkUJDJshCZrkMScdWjpump",
    0.015,
-   8.1,
+   9.1,
    ""
   ],
   [
    "$",
    "9ob2be4sncAUZ7ZFL5aeaQXCpZ8oVWTQF8wU5scypump",
    0.014,
-   3.4,
+   4.4,
    ""
   ],
   [
    "SOAR",
    "4n9rMp2bTAs4hwqAFCyz2YhXAHyQU5hadcAvmBFdpump",
    0.014,
-   6.6,
+   7.6,
    ""
   ]
  ]
