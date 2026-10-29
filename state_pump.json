@@ -13,10 +13,10 @@
    "entry_px": 1.38138242199669e-07,
    "entry_fill": 1.4892437961795491e-07,
    "opened": 1793259906.8078072,
-   "last_px": 2.0298799992690372e-07,
-   "peak_px": 2.1074657656372102e-07,
-   "last_val": 1.4678042734991077,
-   "last_prog": 0.851,
+   "last_px": 2.15326460737379e-07,
+   "peak_px": 2.15326460737379e-07,
+   "last_val": 1.5595271841662979,
+   "last_prog": 0.865,
    "tp1_done": true,
    "realized": 0.3507716852168927
   }
@@ -4602,81 +4602,85 @@
   [
    "2026-10-29T00:49:06",
    76.63
+  ],
+  [
+   "2026-10-29T00:50:08",
+   76.72
   ]
  ],
- "cycles": 1336,
+ "cycles": 1337,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.68,
- "watching": 148,
+ "sol_usd": 99.64701150519998,
+ "watching": 145,
  "near": [
-  [
-   "LIDA",
-   "fT952tuMioNtSCL1sYcuzoWfQpoU9yRzcpLgHpEpump",
-   0.581,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Metalcoin",
-   "HGab8WXssqQ8KrL9iaY8LJNxbAGwv2venr29PLKQpump",
-   0.466,
-   3.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "Manifest",
    "DeZHhE8cKtgb5GPJ1HBqVtcSSeivgCpErRhAGvHwpump",
-   0.324,
-   4.8,
-   ""
+   0.543,
+   5.9,
+   "serial_creator=10 launches/24h"
   ],
   [
    "BILLY",
    "EcQPPd9tKtPxiQULnFW3XA3URpebdAzLoVH7pgobo5w4",
    0.131,
-   4.8,
+   5.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "BHEIST",
    "EyJpeFEqvd3JVm9bPJWBexWHHmhbXP3EAnsMSJcPpump",
-   0.098,
-   3.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Alligators",
-   "Aa8WPLpYUbqZyVzSWaJ2kJE7yt2XTBp37qFhjH65pump",
-   0.072,
-   2.5,
-   ""
-  ],
-  [
-   "CC",
-   "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
-   0.072,
-   4.4,
-   "buyers=5; top5_hold_most=100%"
+   0.097,
+   4.5,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PP",
    "FBjHS2GdeZq9RAUUsbpjvK5p3MLcoSNYdLjtuEappump",
-   0.037,
-   5.7,
+   0.085,
+   6.7,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "CC",
+   "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
+   0.073,
+   5.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "BP",
+   "GYSW8Hgc3yH9moLMev9z7Yk6TqidBtNWibB9LXkGpump",
+   0.046,
+   2.6,
+   ""
+  ],
+  [
+   "legend ",
+   "6gRuazTKAvQXyLqRNQHGwModfxsPBgCRuovCHidBpump",
+   0.043,
+   2.9,
    ""
   ],
   [
    "SPCX30K",
    "Cz3wjDWCA6aE9VkUZtvuqWWiawZaW6jXvqPitWeBpump",
    0.03,
-   7.9,
+   9.0,
    ""
   ],
   [
    "lasagna ",
    "3sa8b1VrGKmNrghktzGV6CxRRd9CMVfcWg6TcpkUpump",
-   0.028,
-   7.9,
+   0.029,
+   9.0,
+   ""
+  ],
+  [
+   "Metalcoin",
+   "5Nv4YLFaypRDb1G4c4PAwykPXhVsoeuE9zSh9aQ7pump",
+   0.022,
+   4.5,
    ""
   ]
  ]
