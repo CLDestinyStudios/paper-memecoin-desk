@@ -13,10 +13,10 @@
    "entry_px": 6.72421880411413e-08,
    "entry_fill": 7.195774946281922e-08,
    "opened": 1793239553.8927171,
-   "last_px": 8.135634134196653e-08,
-   "peak_px": 1.019085150866936e-07,
-   "last_val": 1.9227905455334084,
-   "last_prog": 0.56,
+   "last_px": 1.061017634934252e-07,
+   "peak_px": 1.061017634934252e-07,
+   "last_val": 2.5223575611632865,
+   "last_prog": 0.658,
    "tp1_done": true,
    "realized": 0.5851081383012862
   }
@@ -3713,81 +3713,85 @@
   [
    "2026-10-28T19:11:52",
    121.81
+  ],
+  [
+   "2026-10-28T19:12:49",
+   122.4
   ]
  ],
- "cycles": 999,
+ "cycles": 1000,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.5,
- "watching": 308,
+ "sol_usd": 99.49,
+ "watching": 313,
  "near": [
   [
    "SURVIVE",
    "2iwHfeDRGF1sY2o9ckUdDohDoyyRDwkt9ftYxJCMpump",
    0.535,
-   8.6,
+   9.6,
    ""
   ],
   [
    "BURQA",
    "AtAvTigDJacRbKmGdcspKwAaFRdpG5qKXqeTe4j6pump",
-   0.25,
-   2.8,
-   "buyers=5; creator=15.2%; top5_hold_most=100%"
+   0.285,
+   3.8,
+   "buyers=6; creator=15.2%; top5_hold_most=99%"
   ],
   [
    "PSYCHOSIS",
    "G7froZDbx25suxhrucZsLwSkmJoz8T38hbdTj3K9pump",
    0.165,
-   6.5,
+   7.4,
    ""
   ],
   [
    "CYBER",
    "CkiShvnPkSurzYktWm2VEvkAwQR9jXuMvt7Nkg5YNKnx",
    0.138,
-   6.0,
-   ""
-  ],
-  [
-   "CYBER",
-   "2Wpe3F7MJBwm6FEBZkUm67kZFqcMH6whMyhz7gjjpump",
-   0.137,
-   4.5,
+   7.0,
    ""
   ],
   [
    "CybPsy",
    "AJneX7scveba5rPzWp7hpsnczaBGiF1r79GCr76npump",
    0.127,
-   2.3,
+   3.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "CYBERPSYCHOS",
    "6Uqay4jDaxe3BBeWj6TeMCNr41a16CQDc719k6Dxpump",
    0.123,
-   8.5,
+   9.5,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "CYBER",
+   "2Wpe3F7MJBwm6FEBZkUm67kZFqcMH6whMyhz7gjjpump",
+   0.112,
+   5.4,
+   ""
   ],
   [
    "GHOST",
    "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
    0.11,
-   7.0,
+   7.9,
    ""
   ],
   [
-   "CYBER",
-   "C8xyb1GzNDxZorgx1NacW5GPi6KJxyUhNi7tWRzQG9uA",
-   0.081,
-   8.3,
+   "WPM",
+   "2xFNoQXF1sdepFavfpU9viec8iBBb39KxSotjb51pump",
+   0.085,
+   3.3,
    ""
   ],
   [
    "PSYCHOSIS",
    "4zxjayHkAThsmPMD95kExv2Pv8RNvKMMSTjr1SWYpump",
    0.079,
-   2.6,
+   3.6,
    ""
   ]
  ]
