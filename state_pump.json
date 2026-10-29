@@ -6410,84 +6410,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:34:56",
+   "2026-10-29T12:35:56",
    32.58
   ]
  ],
- "cycles": 2041,
+ "cycles": 2042,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.174281151,
- "watching": 275,
+ "sol_usd": 100.1345272203514,
+ "watching": 272,
  "near": [
   [
    "STAN",
    "Zsvphdv4KUi4X6H6P554n6wQJzDzLbX2wZNMF3mpump",
-   0.962,
-   2.8,
-   ""
+   1.0,
+   3.8,
+   "graduated"
   ],
   [
    "SIFT",
    "8J7FWYmDZjM8zUfKYZRyP7DoZcTJrnifWD3i1nkmSiFT",
-   0.638,
-   2.4,
+   0.626,
+   3.4,
    ""
   ],
   [
-   "HATCH",
-   "HEv7SjYsduJ6AFtkoYRwapyttzhDCUt7rEkNxiVcpump",
-   0.339,
-   4.9,
-   ""
+   "Hahaha",
+   "B5Ahhsr4uUsDgiXaugcK9Fw4TeCgdxrhuidKqoEqpump",
+   0.434,
+   2.5,
+   "creator=21.2%; top5_hold_most=85%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "SPUD",
    "4x2e9r8gMsGBq5cqtLhPdauQdN3dUCPyNbRkLBnkpump",
-   0.326,
-   3.6,
-   "buyers=6; top5_hold_most=92%"
+   0.415,
+   4.6,
+   "buyers=6; top5_hold_most=89%"
   ],
   [
-   "PEIPEI",
-   "2KYyBfyzwMYyYiCwryjiHq8LAuSkYyDXwg4vrTenpump",
-   0.185,
-   5.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "HypeBot",
-   "3DL8kHnj7WKhyyVPY8KC8cRKxi23Fc59yjCmVferpump",
-   0.13,
-   4.3,
-   "top5_hold_most=98%"
-  ],
-  [
-   "RICHARD",
-   "kL58zon2xC1sxWWMpUSgtFuAdRW9dYeSWyki34tpump",
-   0.108,
-   5.6,
+   "HATCH",
+   "HEv7SjYsduJ6AFtkoYRwapyttzhDCUt7rEkNxiVcpump",
+   0.392,
+   5.9,
    ""
   ],
   [
    "Hypurri",
    "HSPB1BcLivQnLASptL1YB5nzVgcPmjPPCiPk3N3hpump",
-   0.105,
-   8.7,
+   0.125,
+   9.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "$FOMO",
-   "A1YmgL857kFtPGHABDhF68Ry2W2W2H2QMGAF9EVhpump",
-   0.061,
-   9.4,
-   "buyers=3; top5_hold_most=100%"
+   "RICHARD",
+   "kL58zon2xC1sxWWMpUSgtFuAdRW9dYeSWyki34tpump",
+   0.108,
+   6.6,
+   ""
+  ],
+  [
+   "HypeBot",
+   "3DL8kHnj7WKhyyVPY8KC8cRKxi23Fc59yjCmVferpump",
+   0.094,
+   5.3,
+   "buyers=8; top5_hold_most=100%"
   ],
   [
    "ICE",
    "69F55UJvFeWmPhNitawvepuxy3g99FZyZfUTWbVYpump",
    0.06,
-   3.5,
+   4.5,
    ""
+  ],
+  [
+   "CAPRI",
+   "FzSScykvykWpF6rXKD1nC8ALga6AXG27Bu3iXwT3pump",
+   0.06,
+   6.1,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
