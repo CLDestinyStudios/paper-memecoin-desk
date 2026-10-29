@@ -13,10 +13,10 @@
    "entry_px": 9.239700976405463e-08,
    "entry_fill": 9.950317190166122e-08,
    "opened": 1793253545.577324,
-   "last_px": 9.239700976405463e-08,
-   "peak_px": 9.239700976405463e-08,
-   "last_val": 2.149688893727697,
-   "last_prog": 0.609
+   "last_px": 9.49621551966672e-08,
+   "peak_px": 9.49621551966672e-08,
+   "last_val": 2.2098030193349283,
+   "last_prog": 0.619
   },
   "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump": {
    "sym": "CREWPAD",
@@ -27,10 +27,10 @@
    "entry_px": 5.09634618697615e-08,
    "entry_fill": 5.4895799424943866e-08,
    "opened": 1793253545.7461765,
-   "last_px": 5.09634618697615e-08,
-   "peak_px": 5.09634618697615e-08,
-   "last_val": 2.140062434676555,
-   "last_prog": 0.351
+   "last_px": 5.107920012279586e-08,
+   "peak_px": 5.107920012279586e-08,
+   "last_val": 2.144118790342801,
+   "last_prog": 0.352
   }
  },
  "traded": [
@@ -4333,81 +4333,85 @@
   [
    "2026-10-28T22:59:05",
    82.56
+  ],
+  [
+   "2026-10-28T23:00:04",
+   82.63
   ]
  ],
- "cycles": 1226,
+ "cycles": 1227,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.23999999999998,
- "watching": 130,
+ "sol_usd": 100.19718765600003,
+ "watching": 129,
  "near": [
-  [
-   "Dev",
-   "wxXjeE37ERHEepuQ2rBKHaGJH4uxDyaj5r1zzxVpump",
-   0.609,
-   2.6,
-   "bought"
-  ],
-  [
-   "CREWPAD",
-   "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump",
-   0.351,
-   3.5,
-   "bought"
-  ],
   [
    "GME",
    "4ozD7WDay8Tx3twczV2naM8TsxW7pqexHpZ2YzrHStBj",
    0.164,
-   2.4,
+   3.4,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "BUY",
    "7heqCGr9Ft7SrugGKHRzRMkseRuQC8fyVRwmAhttpump",
-   0.097,
-   2.6,
+   0.089,
+   3.6,
    ""
   ],
   [
    "dogzilla",
    "BLj7QSiSbRKRuzoMfytD655kLaR4nfVDDPGYHKajpump",
-   0.084,
-   3.5,
+   0.081,
+   4.5,
+   ""
+  ],
+  [
+   "WATER",
+   "BSryy1ZQsMpoELEG3dtyxsHQyiXgoGmA1VjYrnkyQfUV",
+   0.08,
+   3.1,
    ""
   ],
   [
    "OIIA",
    "BjtNN1ogzuWD8iQKFZEZ5sMEuuKa9TzJkunZhFyDpump",
    0.057,
-   3.1,
-   ""
-  ],
-  [
-   "WATER",
-   "BSryy1ZQsMpoELEG3dtyxsHQyiXgoGmA1VjYrnkyQfUV",
-   0.051,
-   2.1,
+   4.1,
    ""
   ],
   [
    "GTAC",
    "9vaMjjoU6CVoEuXr3pZikBmWnf9bVd2CBHAPZ1JXpump",
    0.035,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "LEGA",
-   "GsSohqi32FwiHTkdA5H3QPcwRjJNhpwg6zv7VB5Spump",
-   0.031,
-   4.5,
-   ""
-  ],
-  [
-   "MINI",
-   "5K9QgF1oAB8dkPj17Ps5SwkEdDYQtp1qzRhbeiNPpump",
+   "SPERM",
+   "DKymcsDCStmrQ7JHaVFL1XhCHG2REonKr1e8gCRWpump",
    0.027,
-   7.0,
+   2.2,
+   ""
+  ],
+  [
+   "SNIFF",
+   "houFax8aMgoWXev1Xuubm8CisvyovEoXubXsdp1pump",
+   0.023,
+   3.1,
+   ""
+  ],
+  [
+   "HOOD ",
+   "5WQQUcewpVGTz5a3JEWgub1y1deMvMpYJ5o36ZUPpump",
+   0.016,
+   8.3,
+   ""
+  ],
+  [
+   "INKYX",
+   "AAGgE7ztKEd2LFi54uwiXWXsBzpRgEzqqyryXK4Qpump",
+   0.015,
+   6.5,
    ""
   ]
  ]
