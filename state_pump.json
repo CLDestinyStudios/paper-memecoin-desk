@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 78.29856126860992,
+ "cash": 80.02122621297573,
  "positions": {
   "EdL5zccqwoepD3g5xf6kqQmZjhYzsywjpPG3g4pXN8WZ": {
    "sym": "Fridgecoin",
@@ -13,26 +13,12 @@
    "entry_px": 4.199753585286485e-08,
    "entry_fill": 4.52478528958781e-08,
    "opened": 1793256544.5065336,
-   "last_px": 1.1017503956706937e-07,
+   "last_px": 1.0325662950756947e-07,
    "peak_px": 1.192897717127532e-07,
-   "last_val": 2.7926312233995234,
-   "last_prog": 0.671,
+   "last_val": 2.612865098845935,
+   "last_prog": 0.649,
    "tp1_done": true,
    "realized": 0.5840184320710229
-  },
-  "AEr832CFEvZWraCSy3MoWGHyDXEKQNV8giypa1ugpump": {
-   "sym": "STONKTERM",
-   "bc": "9avCPJVaLyXMCQiz2sbmsDttaeTEBgJn5F7f3JjrfPXw",
-   "tokens": 634411.4517315674,
-   "cost": 2.52,
-   "cost0": 2.52,
-   "entry_px": 3.690564436663746e-08,
-   "entry_fill": 3.974570290089201e-08,
-   "opened": 1793257207.0894024,
-   "last_px": 3.265987212564754e-08,
-   "peak_px": 3.690564436663746e-08,
-   "last_val": 1.9125997540145745,
-   "last_prog": 0.101
   }
  },
  "traded": [
@@ -4463,81 +4449,85 @@
   [
    "2026-10-29T00:03:06",
    83.0
+  ],
+  [
+   "2026-10-29T00:04:05",
+   82.63
   ]
  ],
- "cycles": 1290,
+ "cycles": 1291,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.98,
- "watching": 125,
+ "sol_usd": 99.93,
+ "watching": 114,
  "near": [
   [
-   "TOLY",
-   "5vHCPpFx5N9P2hH7P8js3B3yjyTQEEumQfv5RHchMTkJ",
-   0.548,
-   2.4,
-   "serial_creator=15 launches/24h"
+   "VIRL",
+   "G3FJTVWYHkgHdY5KcFURpXggKDAoPMQ2GxEzKwCBpump",
+   0.157,
+   2.2,
+   "top5_hold_most=97%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "YOLO",
    "E6yjcvYcvTQLMEua2spUbmjhPCijWJhsDBSpNKsMGpXP",
    0.077,
-   3.0,
+   4.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "ALON",
    "7RF6sfQChKJCyhjzwusJKwNw78Mgd7NVX4sjrLfCpump",
    0.063,
-   3.6,
+   4.6,
    ""
   ],
   [
-   "SOUND",
-   "CNKvYUdzhbPMYjztDyoyZNVPfR1sULtZV4vx9usWpump",
-   0.054,
-   9.4,
-   "buyers=2; top5_hold_most=100%"
+   "Windup",
+   "GG1B9VS1kt9Bk58HPDeG1dTdCeLx4fk9PMiVQBQypump",
+   0.06,
+   2.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "MAYE",
-   "H3ay8Ctr9nVvSnXog66w3ciiAANq2SKh2GRSuDWApump",
-   0.049,
-   9.2,
-   ""
-  ],
-  [
-   "SOFUU",
-   "4bZKYJ8Y81imR7KpC65pcppKdKfabuSw6R9zpRUXpump",
-   0.046,
-   3.1,
-   ""
+   "GENIUS ",
+   "2PMeE7xEtsLvjTsLRW38zLHEnUkSk23gooEWfJSupump",
+   0.051,
+   2.9,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "YOLO",
    "DdfFdxZbZTHdNQ277vhsKabuLucAHVEwMDcC7gdgpump",
    0.024,
-   2.3,
+   3.3,
    ""
   ],
   [
    "block",
    "G8EU5mCPrCpD4ffsTbm4gbFQ7p8m9gLZp8fKcSQdpump",
    0.022,
-   2.1,
+   3.1,
    ""
   ],
   [
    "e/acc",
    "VHaXCUX7JfCQmdt9v9SPRg5Q2JmiJWmFfkj5dFApump",
    0.02,
-   3.9,
+   4.9,
    ""
   ],
   [
    "YOLO",
    "GjrvWwpbbDGQGT5u3TumyzhXTvzNPCN9Rwd5c8tBpump",
    0.02,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "ELONTOUGNE",
+   "89xh67WCPWeT8MyHzg8AkL4hKLeMzPMqHvQE6bZTpump",
+   0.019,
+   3.4,
    ""
   ]
  ]
