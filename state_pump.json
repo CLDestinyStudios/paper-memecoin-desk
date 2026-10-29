@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 9.833051847252638e-08,
+   "last_px": 9.76098694996297e-08,
    "peak_px": 1.9530944929636606e-07,
-   "last_val": 0.7180094025146141,
-   "last_prog": 0.631,
+   "last_val": 0.7124136460866753,
+   "last_prog": 0.629,
    "tp1_done": true,
    "realized": 0.5536022515158651
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.115180366618033e-08,
    "entry_fill": 5.554597514415277e-08,
    "opened": 1793274082.4797287,
-   "last_px": 4.989124196897158e-08,
+   "last_px": 4.83836984657057e-08,
    "peak_px": 7.27387818175533e-08,
-   "last_val": 1.4656738893484702,
-   "last_prog": 0.34
+   "last_val": 1.4199458228436694,
+   "last_prog": 0.324
   }
  },
  "traded": [
@@ -5293,81 +5293,85 @@
   [
    "2026-10-29T04:43:22",
    58.79
+  ],
+  [
+   "2026-10-29T04:44:21",
+   58.74
   ]
  ],
- "cycles": 1570,
+ "cycles": 1571,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.4046147985,
- "watching": 158,
+ "sol_usd": 100.40939913499999,
+ "watching": 154,
  "near": [
   [
    "MWEZI",
    "57uaH4JzYtZdfZx8nNixzEjdmvviaGTh5rWGKhnQpump",
-   0.786,
-   2.0,
+   0.81,
+   3.0,
+   ""
+  ],
+  [
+   "CHICKEN",
+   "6DUw78xd3Yn48cPgaSR5nKwnERnQ8g2t7Ku8itFdESDz",
+   0.088,
+   2.8,
    ""
   ],
   [
    "\uac15\ub3c4\ub9ac",
    "8PAKFK3r4ucon1sUACt5223r8TtEsvjrHKo9p6dgpump",
    0.084,
-   5.7,
+   6.7,
    ""
   ],
   [
-   "DEER",
-   "93ZNVJb5wf4heG7hjM6mokZiLWDdYrYUWoPv577apump",
-   0.064,
-   3.0,
+   "MWEZI",
+   "2gVjGbGHYhyfcYcfHWRUHQvssniQs7cVddqDHRSepump",
+   0.073,
+   2.1,
    ""
   ],
   [
-   "Inflation",
-   "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
+   "MWEZI",
+   "LLnn2pFGjsgaFpeNnreBzvKmdS89UB1hHXon1pVpump",
+   0.071,
+   2.5,
+   ""
+  ],
+  [
+   "Mwezi",
+   "DR9QYXaoPnEhmAiMh1hE267sHeKFL8XoLoKxC6Xwqw1N",
    0.064,
-   9.4,
+   2.2,
    ""
   ],
   [
    "MWEZI",
    "GMYQ5KEdcP5GGHZitCUMLPgyKRaYQ4cGymD5hKjRpump",
-   0.06,
-   2.1,
+   0.047,
+   3.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Claude ",
-   "4Z53WVjb3sDQZ6CLTUGd8gLfjxoFbHcd6bqqLaDnpump",
-   0.034,
-   2.3,
+   "MWEZI",
+   "9P2fWHi3Nz6XUQhbHTM9NRiMVkTeny3ytGzNYedrWxkB",
+   0.042,
+   2.5,
    ""
   ],
   [
-   "LMAO",
-   "BANpeyguC3GXEj25szJk7P16KdCzLCgEysHMsrscpump",
-   0.028,
-   5.3,
+   "Mwezi",
+   "FKLWUdi32bSBrhFeh27FnVeYK49sDDPaFQntocodEg9R",
+   0.04,
+   2.8,
    ""
   ],
   [
-   "SPOOKY",
-   "GpdfuPqFWfQNZUZAry3D8PedfteVDSZ6u1GDveKbpump",
-   0.023,
-   5.1,
-   ""
-  ],
-  [
-   "LARP",
-   "3G5FrUsdNFHpY8n4GE98rPHBxFEY2JW4BPJ43PqCpump",
-   0.022,
-   9.5,
-   ""
-  ],
-  [
-   "$MBOO",
-   "3nLw2aM7VeHsXt4sJ1L9KyUxusTsHpk6X6JdHpe7pump",
-   0.022,
-   4.6,
+   "JUSTWIN",
+   "Agv843JpY1wRuQpz4fSV8JgEP6aPm67Jjks17wtupump",
+   0.039,
+   2.7,
    ""
   ]
  ]
