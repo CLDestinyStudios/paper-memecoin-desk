@@ -6422,84 +6422,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:07:02",
+   "2026-10-29T13:08:02",
    32.58
   ]
  ],
- "cycles": 2073,
+ "cycles": 2074,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.39,
- "watching": 248,
+ "sol_usd": 98.6184928363,
+ "watching": 274,
  "near": [
   [
    "ASSAY",
    "C5hLhhd5MivJ8m2MTQjB9A2nmuBymRzYhyRpeRMMpump",
-   0.943,
-   8.2,
+   0.962,
+   9.2,
    ""
   ],
   [
-   "HYPECHILL",
-   "CnmEsxtjLVYX3C1o3Y57r5VDwkkH3zdNFSLJ2ccSpump",
-   0.34,
-   9.1,
-   "buyers=3; creator=15.6%; top5_hold_most=100%"
+   "hybot",
+   "GiLUft1oH8L4AJpk8Q6vDHrEAEAq2W99sEFpMEzxxJJv",
+   0.766,
+   2.2,
+   ""
+  ],
+  [
+   "CRUMB",
+   "GT6guWubNu3oshTymH3AuXVU88goEueTGWPoaDrPpump",
+   0.356,
+   2.1,
+   "buyers=7; top5_hold_most=83%"
   ],
   [
    "Titty Inu",
    "J159iEcFXgcGQzxEaVk5e4Y47WbDmVPMMpYzxTcZpump",
    0.303,
-   8.4,
+   9.4,
    "top5_hold_most=89%"
+  ],
+  [
+   "TM",
+   "Aju8UWmWyTSpghVgLXFecWxSCqjmhTa7SVVHwCbteam",
+   0.157,
+   2.2,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
    "JITT",
    "2wRpMAXYnTvi3sNNtHeTW8Vcp2WhNa85bAJB9YoPpump",
    0.134,
-   4.8,
+   5.8,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "GS",
+   "59TxCv46Hf9WoXw8YozeCSbqghFHLbewXGQLDHGUpump",
+   0.131,
+   2.6,
+   ""
+  ],
+  [
+   "HEDGE",
+   "3CNco8TdDRUH8kCgEdG7E6ctMkTiZrmuUiLXkDnZpump",
+   0.097,
+   2.4,
+   ""
+  ],
+  [
+   "HEDGE",
+   "Hr84HPcobXcxaGPn8jPJcN8TQ46pmCn2mQCX34ctpBVL",
+   0.084,
+   3.0,
+   ""
   ],
   [
    "HYPER",
    "7Yt8zVFm4aFPxdC7AwPY2RJHzSpccNsEKAM2P9Jepump",
    0.084,
-   4.7,
+   5.7,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "zeazeaze",
-   "ByauTpQHWuVyEdR53aYCLP81xSSJeTzLgwAotSMVpump",
-   0.072,
-   2.3,
-   ""
-  ],
-  [
-   "$AR",
-   "2ks1E3CgPBPdQWPs68DP3ax4pUZSegNMaxHrUNmdpump",
-   0.067,
-   7.7,
-   ""
-  ],
-  [
-   "HYPERASK",
-   "AznB7mf7dwBrurfs7jDBQy1KJBRroMMerEKiYuFgpump",
-   0.056,
-   2.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "HEDGE",
-   "B3JDU4bX3pxd48vWzQN3vh8UfJrNLN82RtCc3Mfkpump",
-   0.043,
-   2.7,
-   ""
-  ],
-  [
-   "SKHYPE",
-   "37kUw2uoW11GLaciuDQzYX3Z431fog2BEVNWKiHTpump",
-   0.043,
-   2.9,
-   ""
   ]
  ]
 }
