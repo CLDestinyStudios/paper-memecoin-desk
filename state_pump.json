@@ -13,10 +13,10 @@
    "entry_px": 3.8394873490158223e-08,
    "entry_fill": 4.152436820149197e-08,
    "opened": 1793265323.3922448,
-   "last_px": 3.8394873490158223e-08,
+   "last_px": 3.3290430877000523e-08,
    "peak_px": 3.8394873490158223e-08,
-   "last_val": 1.772125738537218,
-   "last_prog": 0.198
+   "last_val": 1.5299247589013516,
+   "last_prog": 0.113
   }
  },
  "traded": [
@@ -4757,73 +4757,77 @@
   [
    "2026-10-29T02:15:23",
    68.87
+  ],
+  [
+   "2026-10-29T02:16:22",
+   68.63
   ]
  ],
- "cycles": 1422,
+ "cycles": 1423,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.2227415655,
- "watching": 165,
+ "sol_usd": 100.222656894,
+ "watching": 174,
  "near": [
   [
    "\ub9ac\ud540",
    "6E9mByFQt4CStJg8e1ytZC5X6j2mw6BCSv7LTvbopump",
-   0.859,
-   2.6,
+   0.784,
+   3.6,
    ""
+  ],
+  [
+   "Screaming",
+   "DtwmcXWWjokAtknRUBzxvogrukpeF6Zmvte6f9gWSoTV",
+   0.711,
+   2.7,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "FOMOKING",
    "B9yALCmyoVJREQRjWhe4wYdXY9U1VtEQM7QmjBm3pump",
-   0.254,
-   5.9,
-   "top5_hold_most=88%"
-  ],
-  [
-   "REPINKING",
-   "3G8nU4qGNhVLD1jwqyEMBvET5pqbuj6qUYdjWHK6pump",
-   0.198,
-   2.1,
-   "bought"
+   0.257,
+   6.8,
+   "top5_hold_most=87%"
   ],
   [
    "SIRIUS",
    "6MAD9jGWh69A7diKvGAzUY48gEFUJZamM8Q97cbupump",
-   0.133,
-   3.1,
-   "buyers=4; top5_hold_most=100%"
+   0.177,
+   4.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "\ub9ac\ud540",
    "7yq8F1wdCd6zUJSmzh3z68N26KCXRVB6hDwqZeGVK21c",
-   0.112,
-   2.8,
+   0.122,
+   3.8,
    ""
   ],
   [
    "\ub9ac\ud540",
    "6xwRoevBye37iajd9yq65eo6fpy5HFP1pgBTgJ8Qzxqr",
    0.087,
-   2.5,
+   3.5,
+   ""
+  ],
+  [
+   "REPINKING",
+   "7NdimK2MUodQ7DAiVHzaj5NUNbwaP44mwdNniurApump",
+   0.056,
+   2.6,
+   ""
+  ],
+  [
+   "SIDEPAD",
+   "A79ja2iNUMcfZksp11jZcfBsRLzCrJrRKgdWBtN2pump",
+   0.045,
+   2.2,
    ""
   ],
   [
    "CICAK",
    "Cgu3ktRAsKca6EoZcyVhyqhhbnFUvN2SsNB6RwiUhKG7",
    0.044,
-   3.9,
-   ""
-  ],
-  [
-   "CATTERM",
-   "DBgQoPPZJvGg8dtQC5cVHC714jhsSvHC2oRYGYK6pump",
-   0.039,
-   4.2,
-   ""
-  ],
-  [
-   "ALON",
-   "4zbWuLMFdd1ZPhaG1MMKA3RDADpgQEykmxBrAHEipump",
-   0.029,
    4.9,
    ""
   ],
@@ -4831,7 +4835,7 @@
    "RAPCAT",
    "FQ11xe8VgQr3B5hnxr5dgYnQo1j5jtK9CGfgQ48epump",
    0.023,
-   3.0,
+   3.9,
    ""
   ]
  ]
