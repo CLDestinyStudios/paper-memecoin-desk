@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 84.96193588484773,
- "positions": {},
+ "cash": 82.41193588484774,
+ "positions": {
+  "E1tzTX19K9BAZazcqjkFPcUsTy8H6yiywfLcNrsPpump": {
+   "sym": "ACAT",
+   "bc": "HUAFYMcXrFmFaCw11onxVTTQzfgybk78sscEjn8YPAb8",
+   "tokens": 530555.9708024597,
+   "cost": 2.55,
+   "cost0": 2.55,
+   "entry_px": 4.4446155437692867e-08,
+   "entry_fill": 4.78570044887984e-08,
+   "opened": 1793252709.6344473,
+   "last_px": 4.4446155437692867e-08,
+   "peak_px": 4.4446155437692867e-08,
+   "last_val": 2.1934940478060185,
+   "last_prog": 0.28
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -281,7 +296,8 @@
   "52iLe7AQL6ATgg1g7aE4HybRPRUt8t8EbA49TJNWpump",
   "6MGXhgWnR3SiCf5P275yWoUsSXjqFj51YPSC3taBpump",
   "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump",
-  "aaZ7R8K4PBXduMx3erRSfRPu6gmFW8bbB8i4ApGHuNp"
+  "aaZ7R8K4PBXduMx3erRSfRPu6gmFW8bbB8i4ApGHuNp",
+  "E1tzTX19K9BAZazcqjkFPcUsTy8H6yiywfLcNrsPpump"
  ],
  "equity": [
   [
@@ -4239,81 +4255,85 @@
   [
    "2026-10-28T22:44:04",
    84.96
+  ],
+  [
+   "2026-10-28T22:45:09",
+   84.61
   ]
  ],
- "cycles": 1211,
+ "cycles": 1212,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.442357423,
- "watching": 181,
+ "sol_usd": 100.43000000000002,
+ "watching": 179,
  "near": [
+  [
+   "ACAT",
+   "E1tzTX19K9BAZazcqjkFPcUsTy8H6yiywfLcNrsPpump",
+   0.28,
+   2.8,
+   "bought"
+  ],
   [
    "neko",
    "3857yfbbCefNhSAVBAjJYzz4VNVuobELRQQbCkKxpump",
-   0.136,
-   2.5,
+   0.121,
+   3.5,
    ""
   ],
   [
-   "garry",
-   "5gJe8jhei6oFKRPmYxz11rZjYXMLa2bDa3pixDDSpump",
-   0.079,
-   3.6,
+   "ket",
+   "5SFPoM86PPierS78mPWumUpMb6SXKxMSoodd55mNpump",
+   0.105,
+   2.2,
+   ""
+  ],
+  [
+   "inu",
+   "AxPBmoY8b7JzVCQA6yJGNipfPzoPAcC1g2mrdSPHpump",
+   0.074,
+   2.3,
    ""
   ],
   [
    "\u02e2\u1d50\u1d52\u02e1",
    "6Ar6oJSSX5PgCYCiUbGfzZDxpsNR9n5wWDSgSUsMpump",
    0.073,
-   7.5,
+   8.6,
    ""
   ],
   [
    "pup",
    "FBGGhfK1s68PFhmt2LHKL67ScGwAXgDPe9GCQWUdpump",
    0.068,
-   3.1,
-   ""
-  ],
-  [
-   "saPuhblo",
-   "Hm3HUkbBqhYSJNKyFRx1ehXiyFdmkoBKTGBBD4wUpump",
-   0.064,
-   4.5,
+   4.2,
    ""
   ],
   [
    "PANF",
    "5LXtsFaHb1dgCj57GPWaNTw9r9qBbJPFL3H45auspump",
    0.033,
-   6.2,
+   7.3,
    ""
   ],
   [
    "ZAZU",
    "GvDMYhdQJ9sPRBN6znGcavicMXUnDqgepNQNyhEpump",
    0.028,
-   7.1,
+   8.2,
    ""
   ],
   [
    "SLEGO",
    "2szTQaE4vNTNk5rL7DFM4ErjNtcqDDjUmWUmSqALpump",
    0.022,
-   8.5,
+   9.6,
    ""
   ],
   [
    "Capri",
    "DJBatCkuEE55ynNXF9hpz94wuFNRDcY7FhrWW1LPpump",
    0.019,
-   2.9,
-   ""
-  ],
-  [
-   "PCAT",
-   "Fu7zQPtjVVfqBGprTNbaZR1vRtV1eEy2n2HYqbDQpump",
-   0.015,
-   3.8,
+   4.0,
    ""
   ]
  ]
