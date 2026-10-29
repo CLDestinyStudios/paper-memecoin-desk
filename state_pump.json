@@ -3988,83 +3988,83 @@
    103.45
   ],
   [
-   "2026-10-28T20:47:03",
+   "2026-10-28T20:48:03",
    103.45
   ]
  ],
- "cycles": 1094,
+ "cycles": 1095,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.50999999999999,
- "watching": 169,
+ "sol_usd": 99.54515742524998,
+ "watching": 172,
  "near": [
+  [
+   "KERNEL",
+   "AvpMymjAonRn36zsijMerEUVQ5mGnQDoUzmj4oUJpump",
+   0.121,
+   2.7,
+   "buyers=7; top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
+  ],
   [
    "BIO/ACC",
    "iaGzHRzPMZY7bWrSJ58sVYZpxFFXDHUCVT8pTePpump",
-   0.102,
-   5.4,
+   0.084,
+   6.4,
+   ""
+  ],
+  [
+   "ket",
+   "GJK6ntaypWNP6HQKwB6NqWe7KMu6WW2dYNCxJM95pump",
+   0.067,
+   2.9,
    ""
   ],
   [
    "Phantom",
    "ALm1iQ6KyjaNjQ48oUbn98ChPKHUF5FwWRVCkcTmpump",
    0.067,
-   7.0,
+   8.0,
    ""
   ],
   [
    "FINAL",
    "CXWu2KbxSii4BDPEK9uk9FeWWachxYvJYjX3WcHSNDn",
    0.064,
-   5.0,
+   6.0,
+   ""
+  ],
+  [
+   "SNIFF",
+   "YQ7XZjQtocepPPAkYzBjegoW7iqBMi1FXyzePqmpump",
+   0.059,
+   2.9,
+   ""
+  ],
+  [
+   "SplitTake",
+   "xKRayPsqLtdEra69TKxYWMmUuBV3hqN4BAXTmLJpump",
+   0.046,
+   3.0,
+   ""
+  ],
+  [
+   "Leida",
+   "HSvL7QzaSHZq8Q42JGLDShyBD12cQiXX5BXEmgS6pump",
+   0.045,
+   6.8,
    ""
   ],
   [
    "$CBOI",
    "HZAqaGSUzGdpMZE6yrZFxA3P9yPWWPEWaUBrAkZxpump",
    0.043,
-   7.7,
-   ""
-  ],
-  [
-   "BIO/ACC",
-   "3fTLq6cPs4X1uKXW6bvHfik4MWfk6sm7jHfQ8fVRpump",
-   0.038,
-   2.8,
+   8.7,
    ""
   ],
   [
    "METEORITE",
    "ezpfvBB7D8KES7QBTXADDhLPrywWpanfqniguyGpump",
    0.026,
-   8.9,
-   ""
-  ],
-  [
-   "METEORITE",
-   "9npaRpRGMjJdJuXd9gBTPy6pnBFFaqst6uWRAz8ppump",
-   0.026,
-   6.5,
-   ""
-  ],
-  [
-   "METEORITE",
-   "2MRhgqF78ASy42viNVmiZvhXfvratY4o1W5yE5kSpump",
-   0.026,
-   7.3,
-   ""
-  ],
-  [
-   "DRIP",
-   "Avys9tj7pFxi8TxTSoaNzW13ZSiWSavRj9YJGnDbpump",
-   0.024,
-   4.7,
-   ""
-  ],
-  [
-   "$FRNKUP",
-   "2y8iF3a6tA6JqQKP9pce1JLtKmorLYHkDfM7Z2Lapump",
-   0.022,
-   3.5,
+   9.9,
    ""
   ]
  ]
