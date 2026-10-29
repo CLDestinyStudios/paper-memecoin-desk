@@ -6474,84 +6474,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:08:02",
+   "2026-10-29T15:09:11",
    32.58
   ]
  ],
- "cycles": 2194,
+ "cycles": 2195,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.5782192552,
- "watching": 323,
+ "sol_usd": 96.95,
+ "watching": 314,
  "near": [
   [
    "autistic",
    "3UCgpS8V4JawHDgzgoZch1iKwp43crv61abtM1dMpump",
-   0.958,
-   3.8,
-   ""
+   1.0,
+   5.0,
+   "graduated"
   ],
   [
    "UP",
    "AjqcVn5Tf6v8wSDXUDErBQT6Ak8ZRqr2S67ZT8FN5PCP",
-   0.551,
-   3.6,
+   0.5,
+   4.8,
+   ""
+  ],
+  [
+   "OPSEC",
+   "2FBYWganrqJCjEtZWG81oZ3Q7VxVM2rFc2azdeMapump",
+   0.468,
+   2.4,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "over",
+   "27pxQPyMV2UiQoTeihixv2J87fvDXYnjzmGkVws4pump",
+   0.214,
+   3.9,
    ""
   ],
   [
    "SAFU",
    "A1amwU73UVc2bwNSLisJpwdVavY4ndcm9xGeZ4Ztpump",
-   0.354,
-   6.4,
-   ""
-  ],
-  [
-   "over",
-   "27pxQPyMV2UiQoTeihixv2J87fvDXYnjzmGkVws4pump",
-   0.203,
-   2.7,
-   ""
-  ],
-  [
-   "SING",
-   "5RejhaBuq2p4pf5RuLatwv7rb1N18rtfXhfxryGSpump",
-   0.146,
-   3.5,
-   "rugcheck=creator history of rugs"
-  ],
-  [
-   "PEPE2",
-   "AFwZiRtHfWokhkeP7NXzN1Zwnq6tMGdT4tXyEDMpump",
-   0.141,
-   4.1,
-   ""
+   0.192,
+   7.6,
+   "top5_hold_most=82%"
   ],
   [
    "Diego",
    "7P3Q2oPoJ9tvpcrWCeaZ8qpveMG4K7zoQTtaQyedpump",
    0.119,
-   8.6,
+   9.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SAFU",
-   "AjRUZTBQM6SrpfNbNz36k8GdCiNrohdFELrnJKTGpump",
-   0.11,
-   2.1,
+   "Hj4CJxF3oBJDZ31qWQ96RVhqeKuMzMEwd3V3MooUpump",
+   0.101,
+   8.4,
    ""
   ],
   [
-   "SAFU",
-   "9kHbgVznazGunbho6LsE2yo3hSbkDjaAtLFWzjpXpump",
-   0.106,
-   2.8,
+   "OPSEC",
+   "HoL3CBGnTYHmh5R22F9fub6sdY6eekUozAvAxL24n6sp",
+   0.089,
+   2.3,
    ""
   ],
   [
    "UNLOCK",
    "B6w17HdX4HiqBTgs2YSc2HkbWkW7Sgn4sKkRSs76pump",
    0.084,
-   6.1,
+   7.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "BOUNTY",
+   "Hb34ZFXGyHB1QzddHyz6s9uYL31f12HjhA3mxtEE89a4",
+   0.083,
+   8.2,
+   ""
   ]
  ]
 }
