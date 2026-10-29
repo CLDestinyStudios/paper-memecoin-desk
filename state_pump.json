@@ -4028,81 +4028,85 @@
   [
    "2026-10-28T21:26:04",
    101.36
+  ],
+  [
+   "2026-10-28T21:27:04",
+   101.36
   ]
  ],
- "cycles": 1133,
+ "cycles": 1134,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.71110387019999,
- "watching": 211,
+ "sol_usd": 99.64855306019994,
+ "watching": 232,
  "near": [
   [
    "AI/SI",
    "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6",
-   0.907,
-   5.9,
+   0.959,
+   6.9,
    ""
   ],
   [
-   "AI/SI",
-   "4EJk1861c5CBhszYf5giwhx1kHYG4cWGsXHojNFVpump",
-   0.627,
-   5.3,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "ASI",
-   "BfnVpEdDoyjszuPt3AjtL1wuschgY8TCyHJXGxwcpump",
-   0.55,
-   2.3,
-   "bundled_launch=7 extra buys in creation block"
+   "GIMODELO",
+   "4SnfWeJBmRi7oHXxnoGiw6YffqQWsWT1Hf5DTnSzpump",
+   0.742,
+   2.2,
+   "creator=55.0%; top10=58.0%; top5_hold_most=96%"
   ],
   [
    "AI/SI",
    "D4rfPxDH1zd2KE2nsByfzzBBAxMJSJW55y6pNwUBpump",
-   0.493,
-   3.2,
+   0.593,
+   4.2,
    ""
   ],
   [
    "AISI",
    "3V6wH1rNAd5cFnr2DARszMXd2ivtTrVkkw48zFq7pump",
-   0.319,
-   5.6,
-   ""
-  ],
-  [
-   "AI/SI",
-   "B5pe3p1QH2eDdZ96UqMMejCTDaedkhRZi7trsAdcL3nM",
-   0.123,
-   5.7,
-   ""
-  ],
-  [
-   "AI",
-   "HhQxLxi3tb9kqjo2SAaamBnaC6WCJFo63qwbJEVCpump",
-   0.121,
-   4.5,
-   ""
-  ],
-  [
-   "AI/SI",
-   "EtxcX7Pt8iVkN6NwvMjBtXuzCU7yPiyF8LwKnFhcpump",
-   0.11,
-   5.4,
-   ""
+   0.277,
+   6.6,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "AISI",
-   "GQkSXEVzRfNffWNN2GoAeHzkUxbTPEh4NmiM6QRVjdPm",
-   0.091,
-   5.0,
+   "7AYNez9tvWeBo3p7JvgydCfJPcmmD5LP8X8PZccgpump",
+   0.149,
+   3.0,
    ""
   ],
   [
-   "AISI",
-   "B6GZ98UUXHTVVYESBborSLykmk6n73WLyPdwFTjjpump",
-   0.082,
-   5.0,
+   "RIVALY",
+   "GNmWjRJWspXyuCCfEt1tTqU6trPCuR5NtLeQrdjjpump",
+   0.126,
+   2.2,
+   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "inu",
+   "DoR1tLa22qzMnEAAHv5VKuMBHUAf44HCZGYT78tZpump",
+   0.067,
+   8.0,
+   ""
+  ],
+  [
+   "put\u0435r",
+   "EEQ1PMTJGUPkKyHCvQyEfP15XquPdtRs75efqYhjpump",
+   0.065,
+   9.6,
+   ""
+  ],
+  [
+   "ber",
+   "7jqCaZiC1WEiP7vumxHNnPMAENf2S59fegGSoNnTpump",
+   0.06,
+   6.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "KUSH",
+   "86epZHvsT9qbuiZZAra3XNaJcn3sDfNssNmXNsvjpump",
+   0.046,
+   5.8,
    ""
   ]
  ]
