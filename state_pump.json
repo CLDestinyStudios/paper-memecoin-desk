@@ -13,10 +13,10 @@
    "entry_px": 3.5692556135273145e-08,
    "entry_fill": 3.824648708147207e-08,
    "opened": 1793243044.532474,
-   "last_px": 3.7980825566411774e-08,
+   "last_px": 3.738732173184452e-08,
    "peak_px": 3.8089192833709105e-08,
-   "last_val": 3.160259070302548,
-   "last_prog": 0.192
+   "last_val": 3.107600743195885,
+   "last_prog": 0.183
   },
   "5qc24MU4dVUzQUH9YmCciSPdAVWf46yNo3duiGZkpump": {
    "sym": "Lingo",
@@ -27,10 +27,10 @@
    "entry_px": 5.543982874490995e-08,
    "entry_fill": 5.9401561489516236e-08,
    "opened": 1793243164.7315204,
-   "last_px": 5.74802161755258e-08,
+   "last_px": 5.7211057020796886e-08,
    "peak_px": 6.194058775383249e-08,
-   "last_val": 3.055246515466343,
-   "last_prog": 0.409
+   "last_val": 3.0382488507530505,
+   "last_prog": 0.407
   }
  },
  "traded": [
@@ -3877,81 +3877,85 @@
   [
    "2026-10-28T20:10:06",
    112.49
+  ],
+  [
+   "2026-10-28T20:11:03",
+   112.42
   ]
  ],
- "cycles": 1057,
+ "cycles": 1058,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.8,
- "watching": 237,
+ "sol_usd": 99.71916420615,
+ "watching": 239,
  "near": [
   [
    "BIO/ACC",
    "CR3WXpY8YQbiLpyxfipYyrf7JpxzSG4nybEesR3Qpump",
-   0.818,
-   7.1,
+   0.692,
+   8.1,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "NBMF",
+   "J2gmPqq56X2c8AMfXo2QchcrdyhMuUNhCLKHMF7ipaid",
+   0.193,
+   7.0,
    ""
   ],
   [
    "BIO/ACC",
    "Dpq5dptoBa2q3Xz5gCDQakDJ7AdYhTB3eJUvmNZ3pump",
-   0.311,
-   8.9,
-   ""
-  ],
-  [
-   "NBMF",
-   "J2gmPqq56X2c8AMfXo2QchcrdyhMuUNhCLKHMF7ipaid",
-   0.262,
-   6.0,
+   0.098,
+   9.8,
    ""
   ],
   [
    "CHILL",
    "6aCMgsfv212xczfkpXTQX7pAMKiMGZB5JifJ8mtLpump",
-   0.087,
-   2.5,
-   "top5_hold_most=93%"
+   0.08,
+   3.5,
+   "buyers=9; top5_hold_most=97%"
   ],
   [
    "e\u02e3/acc",
    "6TWVnBeVRD8zjAuNGjCuqFk4G69tKiWdFUB2yp3mpump",
-   0.062,
-   3.1,
-   ""
-  ],
-  [
-   "STENCH",
-   "Hju3iXoMx4FkTAEzaLErZVDMw6Frv2G5Yt7y23gFpump",
-   0.061,
-   7.2,
+   0.059,
+   4.1,
    ""
   ],
   [
    "CRINGE",
    "52fczyhnZz6ZXAuS6uGdSMAnF5jXaapaVckevXbLpump",
    0.049,
-   7.8,
+   8.7,
    ""
   ],
   [
    "BIO/ACC",
    "7zD5wZJp5UNR4TvyhxthPfmkvURvGKqnYm2Gvv2wftkS",
    0.037,
-   6.2,
+   7.1,
    ""
   ],
   [
    "PluTO$",
    "C87HcLY7dPLVU7LyeyakPPS3Y55Hdi4D5ytQjNApump",
    0.037,
-   4.1,
+   5.1,
    ""
   ],
   [
    "Meshly",
    "5BRhUGxEJMJRvAvknPMMtk8RsNLywSEiKqYuBeyCpump",
    0.028,
-   5.6,
+   6.5,
+   ""
+  ],
+  [
+   "tommie",
+   "5tgR4HjsG1Hd7xKjhiex4UnE723ucZwfTWjUK7HKpump",
+   0.024,
+   3.5,
    ""
   ]
  ]
