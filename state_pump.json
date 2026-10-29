@@ -13,10 +13,10 @@
    "entry_px": 6.02225566725056e-08,
    "entry_fill": 6.679296468840795e-08,
    "opened": 1793288454.128348,
-   "last_px": 9.321850481918738e-08,
+   "last_px": 9.366406171499329e-08,
    "peak_px": 1.8982409721213043e-07,
-   "last_val": 0.6424929486138832,
-   "last_prog": 0.612,
+   "last_val": 0.6455643303107746,
+   "last_prog": 0.614,
    "tp1_done": true,
    "realized": 0.19840459416484324
   },
@@ -31,7 +31,7 @@
    "opened": 1793288753.6935158,
    "last_px": 7.453747012865995e-08,
    "peak_px": 1.1172516905505777e-07,
-   "last_val": 0.7899466513672204,
+   "last_val": 0.7896488939159021,
    "last_prog": 0.524
   }
  },
@@ -6343,81 +6343,85 @@
   [
    "2026-10-29T09:23:58",
    32.72
+  ],
+  [
+   "2026-10-29T09:24:54",
+   32.72
   ]
  ],
- "cycles": 1850,
+ "cycles": 1851,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.14000000000001,
- "watching": 225,
+ "sol_usd": 102.1015,
+ "watching": 230,
  "near": [
   [
    "MARS",
    "BU1uYtBbw9USmDhNkttnm7iGmGfN72USf6exuscApump",
-   0.955,
-   3.0,
+   1.0,
+   3.9,
+   "graduated"
+  ],
+  [
+   "OPC",
+   "5Pt97FZNNpawSQPdHZpmKCL16XkFrLsWTximJac6pump",
+   0.325,
+   5.2,
    ""
   ],
   [
    "DEGENS",
    "9Pp6nueZYYXxkgFkvNNyDJoiDsHDV7CxysdooZvQpump",
-   0.478,
-   3.9,
+   0.299,
+   4.8,
    ""
-  ],
-  [
-   "SCARD",
-   "9gSA8rV2pH7KV9E1wkofvkkdk7u3QRNUHbhed1dApump",
-   0.214,
-   2.7,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "DEVIN",
    "7pUwn8EZGfJLqgxgHW3vG2GbuLokwPghmdLTxYAnq6Cn",
-   0.18,
-   8.5,
+   0.179,
+   9.4,
    ""
   ],
   [
-   "OPC",
-   "5Pt97FZNNpawSQPdHZpmKCL16XkFrLsWTximJac6pump",
-   0.15,
-   4.2,
+   "bright",
+   "Dvvn7qiC92SuNzxZws5enDauTggMPdMpgvop9HyEYFYc",
+   0.124,
+   2.2,
    ""
   ],
   [
-   "BULL",
-   "DjyJEZDtvJjGG9p1WMacAbNvsYg8sngu7ymjvx3Apump",
-   0.103,
-   4.3,
+   "RED",
+   "8beQeTAVAetumndprwHaEZgwJjxC1SRGY8qGX8Yopump",
+   0.1,
+   9.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "RADAR",
+   "CisnoyEG9ssFpLDXtDTHCv6MP3pYuUYfVhsU5gJapump",
+   0.08,
+   2.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "WBTC",
    "Ap59TikA4qJb4WNh3kY6sxto62JTZdSDtzy9qudQpump",
    0.077,
-   3.8,
+   4.8,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "MYCELIUM",
+   "7Jmz5L6ReFyz7NZzUAZbJ9q5WQbvdN4AQS551gkTpump",
+   0.077,
+   7.4,
+   "buyers=9; top5_hold_most=91%"
   ],
   [
    "BTW",
    "3Mxq49jpMtg1e8zT3iDQ2GRFo6MBfLCh5ceAoB3zpump",
    0.074,
-   7.3,
-   ""
-  ],
-  [
-   "ERROR",
-   "AhKovqazRzZKDBKTWQjryLGYvkhggs4cGG1qqq3Dq8Xq",
-   0.071,
-   2.2,
-   ""
-  ],
-  [
-   "PARACHUTE",
-   "BJtKa3Yp2ppMUcmw2K7DPJQooSmM1HSEbwou8WnYDCSC",
-   0.07,
-   5.3,
+   8.2,
    ""
   ]
  ]
