@@ -4889,81 +4889,85 @@
   [
    "2026-10-29T02:57:22",
    61.44
+  ],
+  [
+   "2026-10-29T02:58:21",
+   61.44
   ]
  ],
- "cycles": 1464,
+ "cycles": 1465,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.1766758596683,
- "watching": 182,
+ "sol_usd": 100.19300381985187,
+ "watching": 190,
  "near": [
   [
    "WALT",
    "CjsHariFBsWp4sP4sz4xNy7f1BcWB8W2FPhMTCKEpump",
-   0.874,
-   6.2,
+   0.849,
+   7.2,
    ""
   ],
   [
    "Scam",
-   "3A7HLRMpf1C2asDThwFMKhwwXBTVBGZeeRqDwEhbpump",
-   0.635,
-   2.2,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Scam",
    "2wyCbDAYj12PMxgTwQfUwXBq5xgHHxHfiCc5CEK6tr6K",
-   0.174,
-   2.0,
+   0.755,
+   3.0,
    ""
   ],
   [
    "Avora",
    "F2MA4uds4Ks476RahYZw2QZNMmYJ9NT4KPPGdThaVora",
    0.119,
-   3.8,
+   4.8,
    ""
+  ],
+  [
+   "OPC",
+   "BB5hLzwepVAPBCznSGFuttpcw75soHVQhXnPCfsrpump",
+   0.08,
+   2.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "GAMERA",
    "CW99tLvUWuAi38ZEPpFgpUn5JR7DkXvsBpBrJtfYgPXB",
    0.063,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "Shill",
-   "44FNcwucowtU8hvazB6mvhNgx68F8vjBgYzxjd82pump",
-   0.019,
-   6.5,
-   "top5_hold_most=94%"
+   "VILLA",
+   "Ha4wZy9UWV4y7VdQajEMwK5dpZBZBYokvr8Z6pdKpump",
+   0.051,
+   2.1,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Scam",
+   "CYyBfFz4RygfYLBwJHpM4nUPEC135ksEpCmeM1u1pump",
+   0.022,
+   2.7,
+   ""
   ],
   [
    "WALT",
-   "B4AmBrTtxLNqE3F89wfYTzW2Z4L3hJa9h5XGW5w2Hdqu",
-   0.006,
-   4.6,
-   ""
-  ],
-  [
-   "Ponytail",
-   "5peuhT1tivj2rUoJykdkVzhCC5tEUogkrd7TMbGGpump",
-   0.006,
-   9.7,
-   ""
-  ],
-  [
-   "RENAME",
-   "ueJHuYT6s1uJkb6tSFYJUDLJbcYKRLBo93YGwvzX89i",
-   0.004,
-   9.2,
+   "GqK49wod2o75noucZzX2KgtGP74gLb4EzX8bS5SYpump",
+   0.02,
+   2.7,
    ""
   ],
   [
    "PURPLEXITY",
    "EntHcH2BEAe3wvJbgrGj1SrNMN2M7P34ZfAnt5R6PkAJ",
    0.004,
-   4.3,
+   5.3,
+   ""
+  ],
+  [
+   "Marsupial",
+   "BpWfPP1KwtgzUSGRHMwEVxDFrWDuJun4HpwMZUUipump",
+   0.003,
+   3.4,
    ""
   ]
  ]

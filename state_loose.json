@@ -25,7 +25,9 @@
    "p_buy": 0.75
   }
  },
- "watch": {},
+ "watch": {
+  "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793267902.0259762
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -4329,8 +4331,12 @@
   [
    "2026-10-29T02:57:21",
    426.78
+  ],
+  [
+   "2026-10-29T02:58:22",
+   426.78
   ]
  ],
- "cycles": 1484,
+ "cycles": 1485,
  "started": "2026-10-28T01:46:56"
 }
