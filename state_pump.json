@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 81.37867701682161,
- "positions": {},
+ "cash": 78.93867701682161,
+ "positions": {
+  "BYmAUQ8KsfCNmBMGBvE5HJJaKNpL5H25VWSh4vGipump": {
+   "sym": "GWJOB",
+   "bc": "A1ZG9yJSK8BLtytn565eXfvBtc6JWzSQWHnV1gZzYvWC",
+   "tokens": 576827.6929094696,
+   "cost": 2.44,
+   "cost0": 2.44,
+   "entry_px": 3.940895382563055e-08,
+   "entry_fill": 4.246509224071007e-08,
+   "opened": 1793258826.8604846,
+   "last_px": 3.940895382563055e-08,
+   "peak_px": 3.940895382563055e-08,
+   "last_val": 2.0954735999790444,
+   "last_prog": 0.213
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -293,7 +308,8 @@
   "AEr832CFEvZWraCSy3MoWGHyDXEKQNV8giypa1ugpump",
   "XdwWFFwgeEjajeoU2GiSxf3nq6uS7shLDwUkUpD6Mk5",
   "GG1B9VS1kt9Bk58HPDeG1dTdCeLx4fk9PMiVQBQypump",
-  "6jzcLmTR7XvQinzuRYA26RGXC4TGkH9fNpjSyQywpump"
+  "6jzcLmTR7XvQinzuRYA26RGXC4TGkH9fNpjSyQywpump",
+  "BYmAUQ8KsfCNmBMGBvE5HJJaKNpL5H25VWSh4vGipump"
  ],
  "equity": [
   [
@@ -4519,81 +4535,85 @@
   [
    "2026-10-29T00:26:06",
    81.38
-  ]
- ],
- "cycles": 1313,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 99.64840000000001,
- "watching": 124,
- "near": [
-  [
-   "FARTCOIN",
-   "cM1zPBnpffZPxXni6Gp44fCNgyczLAMZH2eW3dspump",
-   0.708,
-   3.0,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
-   "FUM",
-   "6Uon9LzJMv4pxtukv8dREUb4EHgo8z9T5zfQXfJxpump",
-   0.083,
-   9.9,
-   ""
+   "2026-10-29T00:27:06",
+   81.03
+  ]
+ ],
+ "cycles": 1314,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 99.61199825845,
+ "watching": 127,
+ "near": [
+  [
+   "GWJOB",
+   "BYmAUQ8KsfCNmBMGBvE5HJJaKNpL5H25VWSh4vGipump",
+   0.213,
+   2.5,
+   "bought"
+  ],
+  [
+   "dose",
+   "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
+   0.156,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ALMOST",
+   "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump",
+   0.138,
+   3.5,
+   "buyers=7; top5_hold_most=86%"
   ],
   [
    "soluna",
    "DpFB37oY3x1iNSw2sJfNnXDouEdNhJkJAzMnUw6Apump",
    0.074,
-   2.2,
+   3.2,
    ""
-  ],
-  [
-   "ALMOST",
-   "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump",
-   0.063,
-   2.5,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "EXNESS",
    "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
-   0.029,
-   4.9,
-   ""
-  ],
-  [
-   "Niggercoin",
-   "8XMPqyKkzBNZKRBWCP6jfZFEJ2QR2y5prGsJEmjWpump",
-   0.024,
-   3.4,
+   0.03,
+   5.9,
    ""
   ],
   [
    "VOICE",
    "3PgPrtKeCdkxYNPe7dRD3t9tyCFBZjqQkAJqobKWpump",
    0.022,
-   2.6,
-   ""
-  ],
-  [
-   "FOMO.SI",
-   "Az46YceggSUuAeoSeA4YpLWRA9VfCEkcFUqE7iEEpump",
-   0.016,
-   9.6,
+   3.6,
    ""
   ],
   [
    "HOLD",
    "Ba3AF7p6aYk1E6F1UiDnFrk7zBycDb7e7XNrupLipump",
    0.014,
-   8.8,
+   9.8,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "SAMWISE",
    "J8cRD1ANonEkLL27puDJnERA9q5cA7j1oCGL44vVpump",
    0.012,
-   7.4,
+   8.4,
+   ""
+  ],
+  [
+   "Solana",
+   "GZBYW6zwYfkd9G6kvrxu2xwFvMx7WmykxoqhmpjMpump",
+   0.011,
+   6.6,
+   ""
+  ],
+  [
+   "loot.gg",
+   "4yFNYUkgnyHwZTdLuqKs4h2hsPcfCDcXhnuxWUtLpump",
+   0.007,
+   3.2,
    ""
   ]
  ]
