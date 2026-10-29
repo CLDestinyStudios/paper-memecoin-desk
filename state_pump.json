@@ -6362,83 +6362,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:45:53",
+   "2026-10-29T10:47:03",
    32.58
   ]
  ],
- "cycles": 1932,
+ "cycles": 1933,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.9957964565,
- "watching": 360,
+ "sol_usd": 100.89850062500001,
+ "watching": 386,
  "near": [
   [
-   "TRUMP",
-   "FtvVgitEpHTnz5tZLoHrqaa4KrcvgCb5f2sytB1gpump",
-   0.316,
-   6.8,
+   "VOUCH",
+   "GXQVzSaNGQiSy7Kxpvox3HE4bJujFa666E2wvbrrpump",
+   1.0,
+   3.6,
+   "graduated"
+  ],
+  [
+   "Belief",
+   "9XSR5yQfBfmSJmBNe5xsFnvPS3jt3en8P4FK33Mipump",
+   0.973,
+   3.0,
    ""
   ],
   [
    "IRONY",
    "G1XzJhrFpJFq3uES5uthMjSc6zYnVpVq1qzA4GCche9p",
-   0.268,
-   6.4,
+   0.416,
+   7.5,
    ""
+  ],
+  [
+   "TRUMP",
+   "FtvVgitEpHTnz5tZLoHrqaa4KrcvgCb5f2sytB1gpump",
+   0.271,
+   8.0,
+   ""
+  ],
+  [
+   "Sapijiju",
+   "8Kw8JcTn4RyKrgyRfjWwfwDaJzJsz2roXqxjembipump",
+   0.208,
+   2.2,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "BLOOM",
    "hvA4jC3MGDdMLBvTMfZCKPVEUVSyD4qpUGRaMsNpump",
-   0.166,
-   4.9,
-   "top5_hold_most=95%"
+   0.177,
+   6.1,
+   "top5_hold_most=93%"
   ],
   [
    "HT",
    "FsJkB35Dbo1VTaj9t9a4WvTqpQ7Aqg8CFdzwZMEZpump",
-   0.11,
-   5.9,
+   0.106,
+   7.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "ELON",
    "2mK8WkrowCJAxngd8vpeMyAcLmchFskhZff1wyYhsnjw",
    0.105,
-   5.1,
+   6.3,
    ""
-  ],
-  [
-   "TUNG",
-   "CHh4keirRbR8JeCjqzMZzwfuhLFmTbHiq2CQb1E7pump",
-   0.102,
-   9.1,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Pedos",
    "CU7WA2WMh5eNqMzDx1WpNGUFwocBrgjb8RoiyvHspump",
    0.053,
-   4.6,
+   5.7,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "ICECAT",
-   "8EqTN2FrErX3FmvPfHeym2cTnp4nK6EyB77DNFWpump",
-   0.042,
-   8.2,
-   ""
-  ],
-  [
-   "IRONY",
-   "GsbrjdHRsuyytRKYSW9c6DnmhYSeHqPv4xK1kjBSpump",
-   0.035,
-   7.4,
-   ""
-  ],
-  [
-   "Pi",
-   "G4NqT1td5fTPpfDjErtycw7oQqFEbMKZBJQaWz3mpump",
-   0.031,
-   3.0,
+   "$sheru",
+   "BTQgEs9kzdBfx51EBjrtPbBvUCqrhRpzc6Rnvb9Rpump",
+   0.047,
+   2.6,
    ""
   ]
  ]
