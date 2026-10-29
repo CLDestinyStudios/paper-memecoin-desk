@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 113.84085635557324,
+ "cash": 110.35085635557324,
  "positions": {
   "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump": {
    "sym": "Calls",
@@ -13,12 +13,26 @@
    "entry_px": 5.898525465389262e-08,
    "entry_fill": 6.317236960461554e-08,
    "opened": 1793241965.2627635,
-   "last_px": 1.0588559713601173e-07,
+   "last_px": 9.575750730984841e-08,
    "peak_px": 1.1198958419903014e-07,
-   "last_val": 2.724124560766714,
-   "last_prog": 0.658,
+   "last_val": 2.4590400042318503,
+   "last_prog": 0.622,
    "tp1_done": true,
    "realized": 0.8299480854311876
+  },
+  "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH": {
+   "sym": "ZKProof",
+   "bc": "9NENqLpMf5maw8FLX5bWT6ougrHt3jaz4UsZbksaUVbg",
+   "tokens": 575200.9784921265,
+   "cost": 3.49,
+   "cost0": 3.49,
+   "entry_px": 5.67189796078381e-08,
+   "entry_fill": 6.074703175832617e-08,
+   "opened": 1793242507.2344034,
+   "last_px": 5.67189796078381e-08,
+   "peak_px": 5.67189796078381e-08,
+   "last_val": 3.036839499322546,
+   "last_prog": 0.403
   }
  },
  "traded": [
@@ -268,7 +282,8 @@
   "278EhLbssKyZhivxs4syKrj91vu9WBx5rSiFGZEkpump",
   "EADux6KA3RcNhPhkSoCRs3xZyTqpkSQqzqzyG5Yipump",
   "67jccvJsgjG7iDXh9bDB74DauSAD8BHrXEyAat62pump",
-  "FCsFxezswzxpJ9mhCY43Pbi9KLPicSvtUZXjuJLHpump"
+  "FCsFxezswzxpJ9mhCY43Pbi9KLPicSvtUZXjuJLHpump",
+  "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH"
  ],
  "equity": [
   [
@@ -3798,81 +3813,85 @@
   [
    "2026-10-28T19:54:04",
    116.56
+  ],
+  [
+   "2026-10-28T19:55:07",
+   115.85
   ]
  ],
- "cycles": 1041,
+ "cycles": 1042,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.87254411175,
- "watching": 297,
+ "sol_usd": 99.8805094039,
+ "watching": 286,
  "near": [
   [
    "BlackShiba",
    "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.814,
-   6.9,
+   0.838,
+   7.9,
    ""
   ],
   [
-   "ELON",
-   "7mwtZrdFPzDSm7oeWStunXFuHTZ4N4geo8ZHtW4TcyYn",
-   0.487,
-   2.1,
-   "serial_creator=10 launches/24h"
+   "STAN",
+   "51PCBi74iU6ZM6oTrjSstwyC9cRXY6SAj6C3L48Epump",
+   0.752,
+   2.2,
+   ""
   ],
   [
-   "GODFORGED",
-   "51Gp1r99sdN768G94yC6MibhVnqjdgZYZUU8Hy7apump",
-   0.394,
-   2.7,
-   "bundled_launch=3 extra buys in creation block"
+   "ZKProof",
+   "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH",
+   0.403,
+   2.9,
+   "bought"
   ],
   [
    "HAKIMI",
    "42xqaCfWcYAfXfSFH8D7ccTm4stYg3cxXnQ6HFmZpump",
    0.268,
-   3.0,
+   4.1,
    "top5_hold_most=87%"
   ],
   [
-   "Cheonsa",
-   "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
-   0.134,
-   2.7,
+   "ELON",
+   "BLJeh2aVy2FuzdtX1NKTUV9sjGi7o7ECSfXoGtcipump",
+   0.148,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Stan",
+   "AKGAgcRfcoutqyysQEbgSp5vQ9TLquRcaNZU5DKUpump",
+   0.124,
+   3.0,
    ""
   ],
   [
    "STARSHIP42",
    "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
    0.074,
-   7.8,
+   8.8,
    ""
   ],
   [
    "GM",
    "41hv2jBuPTNMr4MDEuxK1TPpZLBZqxeHvHfRSBdWpump",
    0.073,
-   2.8,
+   3.9,
    ""
   ],
   [
    "Cyberpsyc",
    "7KqHx6cA2sVTEwd6ov1woFuiBxykXgHJKj9GxYZwpump",
    0.069,
-   6.5,
+   7.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "CRIMEPUMP",
-   "Fg1kuVMDxPC3yAu8tQYTTRqgi9poi9GGbwPB5YyUpump",
+   "Cheonsa",
+   "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
    0.067,
-   2.4,
-   ""
-  ],
-  [
-   "YOKO",
-   "Gv47U9VUwSsSrXa2tVDYy2frBEnU7Z9jYy788TVapump",
-   0.035,
-   6.2,
+   3.7,
    ""
   ]
  ]
