@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 8.817321279170005e-08,
+   "last_px": 8.523976630312401e-08,
    "peak_px": 1.0636708093628504e-07,
-   "last_val": 1.326613629311268,
-   "last_prog": 0.591
+   "last_val": 1.279473471380798,
+   "last_prog": 0.578
   }
  },
  "traded": [
@@ -5232,81 +5232,85 @@
   [
    "2026-10-29T04:32:22",
    58.28
+  ],
+  [
+   "2026-10-29T04:33:22",
+   58.23
   ]
  ],
- "cycles": 1559,
+ "cycles": 1560,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.35,
- "watching": 186,
+ "sol_usd": 100.24488312714055,
+ "watching": 181,
  "near": [
-  [
-   "wel",
-   "Bf3g8wXPZPuSAcx7wSLh6DdHzKGKtxRb2xpMYHrPpump",
-   1.0,
-   2.2,
-   "graduated"
-  ],
   [
    "trmpxmsk",
    "Af87AMsbEtQmr8FydDT51qwoGbnP5UFx1niXyUYjpump",
    0.124,
-   6.8,
+   7.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "\u30ca\u30ba\u304f\u3093",
-   "26pMfwnmD1XFyoX7cQcYsw9qPFgdM2LTr2LJgHE4pump",
-   0.061,
-   2.0,
-   "buyers=1; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
+   "KURUKUMA",
+   "EQeNdDH8GDxxdoSfL2tNkGLmnm6Gg7FZg9HqNYSypump",
+   0.072,
+   2.5,
+   "buyers=1; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "KURUKUMA",
+   "B1JMbjk1364dw3rYZehUMRfRk2V2TfHzGYhhXi3wpump",
+   0.062,
+   2.7,
+   ""
   ],
   [
    "sheriff",
    "FW5ESViMgLWHtPWQuWP4PhFXmpjj2LKTKbShnTQXpump",
    0.058,
-   7.0,
+   8.0,
    "buyers=6; top5_hold_most=99%"
   ],
   [
-   "MyMom",
-   "G6wfKmAJz6TtYjpntZ5RVmHDMbr9AgVuorLT9VQ4pump",
-   0.057,
-   3.0,
-   "buyers=4; top5_hold_most=100%"
+   "Absolute",
+   "57bfRCaBGqzWuTfKwh8CQqSw6k8FnrjrKcb3QZsRpump",
+   0.051,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "CART",
+   "Bsw2XytYEnB2qxuTuWobjccJqb4pfxDVXDs4xFUdpump",
+   0.044,
+   2.0,
+   ""
   ],
   [
    "GHOST",
    "A63ubhFJoAJi3RgHMbcV58GjPe3XwDzSDPv6Y7H5SLht",
    0.043,
-   6.3,
-   ""
-  ],
-  [
-   "STRC",
-   "9VtHKQSeimkCgRQiYMnRvWKbddaGBUP2ooHSxujLpump",
-   0.033,
-   9.5,
+   7.3,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
    0.03,
-   3.3,
+   4.3,
    ""
   ],
   [
    "AURA",
    "6bafXYaCz5EEecb53gjzQkPLrkwMfGUAYwR1E4ocxDCk",
    0.022,
-   5.1,
+   6.1,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
    0.022,
-   2.7,
+   3.7,
    ""
   ]
  ]
