@@ -13,10 +13,10 @@
    "entry_px": 5.67189796078381e-08,
    "entry_fill": 6.074703175832617e-08,
    "opened": 1793242507.2344034,
-   "last_px": 5.67189796078381e-08,
-   "peak_px": 5.67189796078381e-08,
-   "last_val": 3.036736240469313,
-   "last_prog": 0.403
+   "last_px": 5.937131901596468e-08,
+   "peak_px": 5.937131901596468e-08,
+   "last_val": 3.1810337642465916,
+   "last_prog": 0.424
   }
  },
  "traded": [
@@ -3805,81 +3805,85 @@
   [
    "2026-10-28T19:56:04",
    114.14
+  ],
+  [
+   "2026-10-28T19:57:03",
+   114.28
   ]
  ],
- "cycles": 1043,
+ "cycles": 1044,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.87711325903832,
- "watching": 291,
+ "sol_usd": 99.8775178131,
+ "watching": 281,
  "near": [
   [
    "BlackShiba",
    "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.825,
-   8.9,
+   0.822,
+   9.8,
    ""
   ],
   [
-   "STAN",
-   "51PCBi74iU6ZM6oTrjSstwyC9cRXY6SAj6C3L48Epump",
-   0.667,
-   3.2,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "HAKIMI",
-   "42xqaCfWcYAfXfSFH8D7ccTm4stYg3cxXnQ6HFmZpump",
-   0.268,
-   5.0,
-   "top5_hold_most=87%"
-  ],
-  [
-   "ELON",
-   "BLJeh2aVy2FuzdtX1NKTUV9sjGi7o7ECSfXoGtcipump",
-   0.148,
-   3.4,
-   "buyers=4; top5_hold_most=100%"
+   "ERNIE",
+   "71YJZxYV2sqeNoxvZm5Gjq2Rs3R9XLiFad2KY54Vpump",
+   0.616,
+   2.3,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "STAN",
    "Egm7h2YsMLNYnkWiwwqAPep3NYL6qbZENWVujgSppump",
-   0.136,
-   2.2,
+   0.127,
+   3.1,
    ""
   ],
   [
    "STAN",
    "CUNBdAiLnyPVVreP4F9sFjagkkNqpM1LeDV4VjbGpump",
    0.121,
-   2.1,
+   3.1,
    ""
+  ],
+  [
+   "STAN",
+   "9vvQ7qjv3AFbmxa7e2az733cjmTDvjkBiLmARgHppump",
+   0.088,
+   2.8,
+   ""
+  ],
+  [
+   "hypur",
+   "AqXNLwYa7qGNH3NSss5Gue1c5fjnhPcNWCRbASMcpump",
+   0.086,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "HAKIMI",
    "4bTWeV5yYqFfexAdsmxgbmeFqzqn9zsk7ERen7rqpump",
-   0.098,
-   5.5,
-   ""
-  ],
-  [
-   "STARSHIP42",
-   "6C4mm6x86TgD1huYeKSrDzheFWsvf3ateMDc5hb7AdkX",
-   0.074,
-   9.8,
-   ""
-  ],
-  [
-   "GM",
-   "41hv2jBuPTNMr4MDEuxK1TPpZLBZqxeHvHfRSBdWpump",
-   0.073,
-   4.8,
+   0.068,
+   6.4,
    ""
   ],
   [
    "CRIMEPUMP",
    "Fg1kuVMDxPC3yAu8tQYTTRqgi9poi9GGbwPB5YyUpump",
    0.067,
-   4.4,
+   5.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Cheonsa",
+   "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
+   0.051,
+   5.7,
+   ""
+  ],
+  [
+   "KNIGHTLON",
+   "57bC6CY3tLjtyn1mppSCpufFaBejBHcSmj5n8Trnpump",
+   0.031,
+   4.5,
    ""
   ]
  ]
