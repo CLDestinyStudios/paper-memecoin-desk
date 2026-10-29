@@ -5284,83 +5284,83 @@
    58.3
   ],
   [
-   "2026-10-29T04:50:21",
+   "2026-10-29T04:51:28",
    58.3
   ]
  ],
- "cycles": 1577,
+ "cycles": 1578,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.4119841005,
- "watching": 154,
+ "sol_usd": 100.396690908,
+ "watching": 158,
  "near": [
-  [
-   "MWEZI",
-   "57uaH4JzYtZdfZx8nNixzEjdmvviaGTh5rWGKhnQpump",
-   0.654,
-   9.0,
-   ""
-  ],
   [
    "VOKIZ",
    "7tR44xoLfhyTCekeUkHfohDwrvd1t1hSFDpbQfHKCvxf",
    0.346,
-   5.5,
-   ""
+   6.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "PINO",
-   "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
-   0.154,
-   4.8,
-   ""
-  ],
-  [
-   "MWEZI",
-   "LLnn2pFGjsgaFpeNnreBzvKmdS89UB1hHXon1pVpump",
-   0.109,
-   8.5,
+   "ZERO-DAY",
+   "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump",
+   0.132,
+   3.1,
    ""
   ],
   [
    "MWEZI",
-   "GMYQ5KEdcP5GGHZitCUMLPgyKRaYQ4cGymD5hKjRpump",
-   0.101,
-   9.1,
-   "buyers=5; top5_hold_most=100%"
+   "AePy9jwgHm64yKzYpDi9k6krqHMyQNfRFTr8tYzdxfgU",
+   0.097,
+   7.9,
+   ""
   ],
   [
    "TM13",
    "71XwZCqjXVwmtZTiDNtRgLMxzEacAjFkXngKGfbCpump",
    0.084,
-   3.3,
+   4.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ZERO-DAY",
    "4KLYphhGJLsEnPcjwRTKF2furrWPXmcxTnAC8H7vpump",
    0.08,
-   3.3,
+   4.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Gnosis",
+   "FHqGTaNEZqQm5MdrnX5tQzgWtfhnQMkPHynCKJybpump",
+   0.078,
+   2.7,
+   "buyers=8; top5_hold_most=96%"
+  ],
+  [
+   "PINO",
+   "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
+   0.05,
+   5.9,
+   ""
   ],
   [
    "OUTSNIPE",
    "CiXUtggr2rKf9tjSMueF7JThXGcF5oK1w2GKXjppump",
    0.046,
-   6.0,
+   7.1,
    ""
   ],
   [
-   "HUSHH",
-   "DYqBWiUuQXcfQdE5zp3Bik3zjdPSiwhtWYyrmUxQpump",
-   0.044,
-   4.1,
+   "Mwezi",
+   "FKLWUdi32bSBrhFeh27FnVeYK49sDDPaFQntocodEg9R",
+   0.039,
+   9.9,
    ""
   ],
   [
-   "MWEZI",
-   "9P2fWHi3Nz6XUQhbHTM9NRiMVkTeny3ytGzNYedrWxkB",
-   0.041,
-   8.5,
+   "GENNY",
+   "75FFhTTps2vjb75VWDBr6anuweJvaGzWee8U3mBzpump",
+   0.022,
+   4.9,
    ""
   ]
  ]
