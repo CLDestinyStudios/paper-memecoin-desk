@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.0578969902910874e-07,
+   "last_px": 1.0164265206292687e-07,
    "peak_px": 1.198629554864392e-07,
-   "last_val": 4.238839138872788,
-   "last_prog": 0.657
+   "last_val": 4.070097474278383,
+   "last_prog": 0.643
   }
  },
  "traded": [
@@ -3381,81 +3381,85 @@
   [
    "2026-10-28T17:31:50",
    121.1
+  ],
+  [
+   "2026-10-28T17:32:51",
+   120.94
   ]
  ],
- "cycles": 899,
+ "cycles": 900,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.129813189,
- "watching": 246,
+ "sol_usd": 102.11386422599999,
+ "watching": 252,
  "near": [
+  [
+   "FWW",
+   "G2Dgjn9wg26LHYip88GjanB2qKADuTbttivBwuK3pump",
+   0.46,
+   2.3,
+   "serial_creator=9 launches/24h"
+  ],
   [
    "GEKKO",
    "AgXnoTNfh7PYYrSLwgjgjcP5AcT5kio6wQzUTsjipump",
-   0.278,
-   3.3,
-   "top5_hold_most=89%"
+   0.281,
+   4.3,
+   "top5_hold_most=88%"
   ],
   [
    "SOLA",
    "GDsapcu4GJXeLF52p2sY3toSmjZn2eirhyhgNoscpump",
    0.237,
-   4.1,
+   5.1,
    "buyers=9"
   ],
   [
-   "WWM",
-   "Etc7CZyff3CtGcoADHjp6RuksKZeN2KPG6wNfEjHpump",
-   0.131,
-   9.7,
-   ""
+   "ALLOUT",
+   "CxdrC6em8FbJoVBEVgjSSUW1kZRV2ESc1M78BDEHpump",
+   0.175,
+   2.8,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
-   "TAPSLAND",
-   "BGzxyYAcpCNv1bd6EjtJrgRMr9p4ML53uaufYuLkgr96",
-   0.075,
-   2.9,
-   ""
+   "Hmm",
+   "D2X8TmStVDDXdGQu3tUEVrCHrXYwXM3uRFw3uGe8pump",
+   0.121,
+   3.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Jim",
-   "9pWMQwhXmw6uS13CMkQ5Wp6iw7vGTipfZ2eVSHTApump",
-   0.072,
-   2.5,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "REKTAB",
+   "CkBDjYUuH4wuDNAnvF6KqXkH1JaUUXqqyT5Ti7HHpump",
+   0.074,
+   2.6,
+   ""
   ],
   [
    "PSU",
    "4yfBSBxwNe41MBrXCoPdFUvG1CtzzQDorfLeLF5opump",
    0.064,
-   7.3,
-   ""
-  ],
-  [
-   "Hmm",
-   "D2X8TmStVDDXdGQu3tUEVrCHrXYwXM3uRFw3uGe8pump",
-   0.049,
-   2.7,
-   ""
-  ],
-  [
-   "WW#",
-   "EJugS2n8SvNzqLjNaJCqpYrXA75i3pkjuyMmchaXpump",
-   0.048,
-   2.2,
+   8.3,
    ""
   ],
   [
    "FAKE",
    "74U4cFiMbxCEFM6eULYFtgqFBmWgFkanDQjtZvGvpump",
    0.045,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "PEPEWIFHAT",
-   "2rF6uZqAgGEnoxDEPHpreBjBrSSrtfdp9PcTJXA1pump",
-   0.027,
-   6.2,
+   "bio\u00b7e/909D",
+   "Bpt9bBezHqvfxAosAQKuJvphH74KjpbdVdbaae8rpump",
+   0.028,
+   2.2,
+   ""
+  ],
+  [
+   "RTROLL",
+   "GL7UuqCSMTmJF2ussFMBpj93kPieybDwTbVGmrNfpump",
+   0.024,
+   2.7,
    ""
   ]
  ]
