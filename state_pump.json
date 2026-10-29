@@ -6490,84 +6490,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:43:10",
+   "2026-10-29T15:44:07",
    32.58
   ]
  ],
- "cycles": 2229,
+ "cycles": 2230,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.37999999999998,
- "watching": 447,
+ "sol_usd": 97.2876802357,
+ "watching": 432,
  "near": [
   [
-   "0",
-   "CNiPXUL7rYSNX5giarfXYQmdYH1PZ5BiQbpiA2Sjpump",
-   0.841,
-   2.5,
+   "\ud83d\ude4f",
+   "Do68hm9wSx6mPjY7Z5gZx6XVab5n9588T1VsLGyMpump",
+   0.697,
+   7.5,
    ""
   ],
   [
    "FINE",
    "4Z1JgXQtaFZhHqKwuLumRsQBcSwwfND2kJzHzgrapump",
-   0.69,
-   3.6,
+   0.522,
+   4.5,
    ""
-  ],
-  [
-   "\ud83d\ude4f",
-   "Do68hm9wSx6mPjY7Z5gZx6XVab5n9588T1VsLGyMpump",
-   0.689,
-   6.6,
-   ""
-  ],
-  [
-   "Trader",
-   "3zzUbFd2Cy6XaZrQYahuMLKcSfP9kJgXFJ6kYz4Hpump",
-   0.365,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "HOODLEGE",
    "2Ugacg8hoPaUmBuPfn1cqPSDyAp6xie1bvPoCUVspump",
-   0.256,
-   4.4,
-   "buyers=7; top5_hold_most=99%"
+   0.222,
+   5.3,
+   "buyers=8; top5_hold_most=99%"
+  ],
+  [
+   "0",
+   "CNiPXUL7rYSNX5giarfXYQmdYH1PZ5BiQbpiA2Sjpump",
+   0.204,
+   3.4,
+   "top5_hold_most=96%"
   ],
   [
    "0",
    "Am8mvxcMq8AcZ7vtYRSdK4K1T6RKBbGgWPqsuDidpump",
    0.162,
-   4.8,
+   5.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "ZERODAY",
-   "5QbvqXka2oWY7VVgwDb94wdknJHQxv8YT2C2uketfRgC",
-   0.152,
-   9.6,
-   ""
+   "CZ AGAIN?",
+   "BVYRTJdxZevg1QfNcyZ4EwkXPqTkShdAEkxgH6fZpump",
+   0.131,
+   5.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ZERODAY",
    "FZP32m4HVCvMQtm7TMy5fTbwMFHhGDNhtAcREXRLpump",
    0.129,
-   9.0,
+   9.9,
    ""
-  ],
-  [
-   "TURNERR",
-   "98MrzuPbcoZ2r8D3wRbJJv1d9HVzcapgN4GXcT5Epump",
-   0.121,
-   4.6,
-   "top5_hold_most=93%"
   ],
   [
    "zero",
    "8wXC2LGdS3zKEWkoWS2cZBSyNG1GWzxLiJdZkHfnR9PJ",
    0.113,
-   4.0,
+   5.0,
    ""
+  ],
+  [
+   "$SCREAM",
+   "EpjHMsNqTvt35hZbnZmGFAhz1QWjsCoM1DrijvGYpump",
+   0.11,
+   2.1,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "TURNERR",
+   "98MrzuPbcoZ2r8D3wRbJJv1d9HVzcapgN4GXcT5Epump",
+   0.095,
+   5.6,
+   "buyers=7; top5_hold_most=98%"
   ]
  ]
 }
