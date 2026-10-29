@@ -13,10 +13,10 @@
    "entry_px": 8.293496241454415e-08,
    "entry_fill": 8.937605796560471e-08,
    "opened": 1793257746.619328,
-   "last_px": 1.8063833953105053e-07,
+   "last_px": 1.6079513668964977e-07,
    "peak_px": 2.2101189353624232e-07,
-   "last_val": 2.256744239100438,
-   "last_prog": 0.821,
+   "last_val": 2.003511238949138,
+   "last_prog": 0.789,
    "tp1_done": true,
    "realized": 0.5971614331703516
   }
@@ -4524,81 +4524,85 @@
   [
    "2026-10-29T00:21:05",
    79.89
+  ],
+  [
+   "2026-10-29T00:22:05",
+   79.63
   ]
  ],
- "cycles": 1308,
+ "cycles": 1309,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.84,
- "watching": 98,
+ "sol_usd": 99.84588116475,
+ "watching": 103,
  "near": [
   [
    "Moancoin",
    "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
-   0.914,
-   3.7,
+   0.904,
+   4.7,
+   ""
+  ],
+  [
+   "FUM",
+   "6Uon9LzJMv4pxtukv8dREUb4EHgo8z9T5zfQXfJxpump",
+   0.287,
+   5.9,
    ""
   ],
   [
    "TRUMP",
    "DjpFNMu6hrm7oagdrwQZXVFuCjyiHpVXuQeyNpxjpump",
    0.231,
-   5.9,
+   6.9,
    "top5_hold_most=81%"
-  ],
-  [
-   "FUM",
-   "6Uon9LzJMv4pxtukv8dREUb4EHgo8z9T5zfQXfJxpump",
-   0.229,
-   4.9,
-   ""
-  ],
-  [
-   "HOLD",
-   "Ba3AF7p6aYk1E6F1UiDnFrk7zBycDb7e7XNrupLipump",
-   0.073,
-   3.8,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "ELY",
    "2C2EDSzLU3HYmZ4Lm4Q4LUvFSsRM11nR9y5Tm4Yzpump",
-   0.064,
-   5.8,
-   "buyers=2; top5_hold_most=100%"
+   0.215,
+   6.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "derpcats",
    "HrZFABF2XHHEjyHrSsbXiRqzdtUDW67L9agYztrepump",
    0.063,
-   3.7,
+   4.7,
    ""
   ],
   [
    "TICKTOCK",
    "FEtWqXSYvbuNeYwaNXdej3xyWG82Ce9kTkgkTLPxpump",
    0.06,
-   5.2,
+   6.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TRUTH",
    "G7V8AkMep6Ahd5Lx2bY8nbbmFxk1EUTbGmwGE5fipump",
    0.042,
-   4.5,
+   5.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SIA",
    "8tw9wDUZyuDRyLASdeE71UbmMJfTHaQxR9iLqMQhpump",
    0.03,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "FOMO.SI",
-   "Az46YceggSUuAeoSeA4YpLWRA9VfCEkcFUqE7iEEpump",
-   0.016,
-   4.6,
+   "HOLD",
+   "Ba3AF7p6aYk1E6F1UiDnFrk7zBycDb7e7XNrupLipump",
+   0.023,
+   4.8,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "CHAMP",
+   "9VV5djU2RFUXjKGrC4KoBPhdPRWLnSoy83DPmf7nexus",
+   0.018,
+   9.2,
    ""
   ]
  ]
