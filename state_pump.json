@@ -15,7 +15,7 @@
    "opened": 1793243044.532474,
    "last_px": 3.7980825566411774e-08,
    "peak_px": 3.8089192833709105e-08,
-   "last_val": 3.1587849906829932,
+   "last_val": 3.160259070302548,
    "last_prog": 0.192
   },
   "5qc24MU4dVUzQUH9YmCciSPdAVWf46yNo3duiGZkpump": {
@@ -27,10 +27,10 @@
    "entry_px": 5.543982874490995e-08,
    "entry_fill": 5.9401561489516236e-08,
    "opened": 1793243164.7315204,
-   "last_px": 6.139268324796002e-08,
+   "last_px": 5.74802161755258e-08,
    "peak_px": 6.194058775383249e-08,
-   "last_val": 3.2649940833833377,
-   "last_prog": 0.44
+   "last_val": 3.055246515466343,
+   "last_prog": 0.409
   }
  },
  "traded": [
@@ -3873,81 +3873,85 @@
   [
    "2026-10-28T20:09:03",
    112.7
+  ],
+  [
+   "2026-10-28T20:10:06",
+   112.49
   ]
  ],
- "cycles": 1056,
+ "cycles": 1057,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7534490234,
- "watching": 238,
+ "sol_usd": 99.8,
+ "watching": 237,
  "near": [
   [
    "BIO/ACC",
    "CR3WXpY8YQbiLpyxfipYyrf7JpxzSG4nybEesR3Qpump",
-   0.775,
-   6.1,
+   0.818,
+   7.1,
    ""
   ],
   [
    "BIO/ACC",
    "Dpq5dptoBa2q3Xz5gCDQakDJ7AdYhTB3eJUvmNZ3pump",
-   0.31,
-   7.8,
+   0.311,
+   8.9,
    ""
   ],
   [
    "NBMF",
    "J2gmPqq56X2c8AMfXo2QchcrdyhMuUNhCLKHMF7ipaid",
-   0.145,
-   5.0,
+   0.262,
+   6.0,
    ""
+  ],
+  [
+   "CHILL",
+   "6aCMgsfv212xczfkpXTQX7pAMKiMGZB5JifJ8mtLpump",
+   0.087,
+   2.5,
+   "top5_hold_most=93%"
   ],
   [
    "e\u02e3/acc",
    "6TWVnBeVRD8zjAuNGjCuqFk4G69tKiWdFUB2yp3mpump",
-   0.078,
-   2.1,
+   0.062,
+   3.1,
+   ""
+  ],
+  [
+   "STENCH",
+   "Hju3iXoMx4FkTAEzaLErZVDMw6Frv2G5Yt7y23gFpump",
+   0.061,
+   7.2,
    ""
   ],
   [
    "CRINGE",
    "52fczyhnZz6ZXAuS6uGdSMAnF5jXaapaVckevXbLpump",
    0.049,
-   6.7,
-   ""
-  ],
-  [
-   "STENCH",
-   "Hju3iXoMx4FkTAEzaLErZVDMw6Frv2G5Yt7y23gFpump",
-   0.044,
-   6.1,
+   7.8,
    ""
   ],
   [
    "BIO/ACC",
    "7zD5wZJp5UNR4TvyhxthPfmkvURvGKqnYm2Gvv2wftkS",
-   0.044,
-   5.1,
-   ""
-  ],
-  [
-   "e\u02e3",
-   "4gDb8xaqxMQzzAGfbw79ZsNv98jxz6YELQBpbedepump",
-   0.042,
-   5.4,
+   0.037,
+   6.2,
    ""
   ],
   [
    "PluTO$",
    "C87HcLY7dPLVU7LyeyakPPS3Y55Hdi4D5ytQjNApump",
    0.037,
-   3.1,
+   4.1,
    ""
   ],
   [
    "Meshly",
    "5BRhUGxEJMJRvAvknPMMtk8RsNLywSEiKqYuBeyCpump",
-   0.03,
-   4.5,
+   0.028,
+   5.6,
    ""
   ]
  ]
