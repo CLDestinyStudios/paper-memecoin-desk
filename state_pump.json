@@ -2,21 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 56.951801393712174,
+ "cash": 58.38540364522804,
  "positions": {
   "8CHZri4cE9hmmdPyV6mVy2Z7ujGTs5a5cinKCBQTpump": {
    "sym": "Ascend",
    "bc": "JEFk2JTkW3pWSLt1iTiNRn32oy5VxHnAoU1ZLzKk9AUM",
-   "tokens": 164180.9951612091,
-   "cost": 1.76,
+   "tokens": 82090.49758060455,
+   "cost": 0.88,
    "cost0": 1.76,
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.3729936042925716e-07,
-   "peak_px": 1.413184636622748e-07,
-   "last_val": 2.094049496612935,
-   "last_prog": 0.742
+   "last_px": 1.900593359440716e-07,
+   "peak_px": 1.900593359440716e-07,
+   "last_val": 1.433602251515865,
+   "last_prog": 0.834,
+   "tp1_done": true,
+   "realized": 0.5536022515158651
   }
  },
  "traded": [
@@ -5248,81 +5250,85 @@
   [
    "2026-10-29T04:36:22",
    59.05
+  ],
+  [
+   "2026-10-29T04:37:21",
+   59.82
   ]
  ],
- "cycles": 1563,
+ "cycles": 1564,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.373751668,
- "watching": 177,
+ "sol_usd": 100.33744980649999,
+ "watching": 176,
  "near": [
   [
-   "SIMULON",
-   "GoB64RCkd3oYRpbC3W4JNJjLNjQYeC8mbQRFvL8tpump",
-   0.198,
-   2.4,
-   "rugcheck=creator history of rugs"
-  ],
-  [
-   "CRINGE",
-   "GcMcLQgUbUwQAf3LdFahrhwzAALzS3ACpQAW797Zpump",
-   0.112,
-   4.3,
-   "top5_hold_most=97%"
-  ],
-  [
-   "POOPCOIN",
-   "2eHJY3enqbGT5PfrNaLoerkC5aTBf4VfV5RspAnkpump",
-   0.1,
-   2.2,
-   "top5_hold_most=97%; bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "Marmot",
-   "EenUMqd9dM3vgyY7DLMVb7WDQ1TRSU5J3MyMbeArpump",
-   0.084,
-   3.6,
-   ""
+   "loan",
+   "H6Fi4dCUH3gdrCNFmMKKng8XjK6i4c7EP3qd6qXJpump",
+   0.715,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "MLAUNC",
    "45XF2dTN5YsptsahLtqrQHwH4ErduLSJkJznJh1qpump",
    0.082,
-   2.5,
+   3.5,
    "buyers=8; top5_hold_most=97%"
-  ],
-  [
-   "Tucker",
-   "J5t2YxemwNnioQT2Qi7mgxSuRzNt5s7MQ2Q6QafEpump",
-   0.072,
-   2.8,
-   ""
   ],
   [
    "Inflation",
    "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
    0.071,
-   2.4,
+   3.4,
    ""
   ],
   [
    "Gulag",
    "9xoRknZ4ttNVWJM7yFmxkKrvxwQoq8FmKZKycGYfwDmV",
    0.064,
-   2.4,
-   ""
-  ],
-  [
-   "BRUZHNUV",
-   "BG6NKtF8CwdBhZfw7PCbSkjttXZ7B4iti5K3fbPHiNVM",
-   0.063,
-   2.4,
+   3.4,
    ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "Tucker",
+   "J5t2YxemwNnioQT2Qi7mgxSuRzNt5s7MQ2Q6QafEpump",
+   0.031,
+   3.8,
+   ""
+  ],
+  [
+   "\u30ca\u30ba\u304f\u3093",
+   "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
+   0.03,
+   8.3,
+   ""
+  ],
+  [
+   "LARP",
+   "3G5FrUsdNFHpY8n4GE98rPHBxFEY2JW4BPJ43PqCpump",
+   0.022,
+   3.5,
+   ""
+  ],
+  [
+   "Tucker",
+   "2nE2e6iXGDVBk8dBbMuZPtApoDLCbGgz57SFKBtbpump",
+   0.022,
+   2.8,
+   ""
+  ],
+  [
+   "\u30ca\u30ba\u304f\u3093",
+   "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
+   0.022,
+   7.7,
    ""
   ]
  ]
