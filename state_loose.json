@@ -1,7 +1,19 @@
 {
  "bank_start": 500.0,
- "cash": 398.32075206522575,
- "positions": {},
+ "cash": 378.40075206522573,
+ "positions": {
+  "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun": {
+   "sym": "SENSE",
+   "qty": 123291.74093879976,
+   "entry": 0.000161568,
+   "mark_entry": 0.0001584,
+   "cost": 19.92,
+   "peak": 0.0001584,
+   "last": 0.0001584,
+   "opened": 1793318164.50366,
+   "p_buy": 0.63
+  }
+ },
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -67,7 +79,8 @@
   "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
   "CNtdYoJq9viwsj5eogkK45Bn9HjMyGKWpU6GB2dwpump",
   "3s4gSTiaV8njPixQt8aeboRDPT871Xcssba75RYspump",
-  "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump"
+  "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
+  "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun"
  ],
  "equity": [
   [
@@ -7541,8 +7554,12 @@
   [
    "2026-10-29T16:55:05",
    398.32
+  ],
+  [
+   "2026-10-29T16:56:04",
+   397.54
   ]
  ],
- "cycles": 2321,
+ "cycles": 2322,
  "started": "2026-10-28T01:46:56"
 }
