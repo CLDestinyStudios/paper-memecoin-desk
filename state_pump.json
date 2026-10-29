@@ -3711,83 +3711,83 @@
    119.01
   ],
   [
-   "2026-10-28T19:22:49",
+   "2026-10-28T19:23:52",
    119.01
   ]
  ],
- "cycles": 1010,
+ "cycles": 1011,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.72648983880002,
- "watching": 222,
+ "sol_usd": 99.7930040577,
+ "watching": 221,
  "near": [
+  [
+   "PERCS",
+   "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
+   0.85,
+   2.1,
+   ""
+  ],
   [
    "TOKENIZER",
    "5MMVWXWtHKCovkQMqknnM5edJKyTJTg6PeZffUXapump",
-   0.213,
-   6.2,
+   0.255,
+   7.3,
+   ""
+  ],
+  [
+   "SOLZ",
+   "BBLYWRyYNcdoUyPw5HWNqjXnbEMLw38pVxTuCo6epump",
+   0.182,
+   3.0,
    ""
   ],
   [
    "ORBIX",
    "EuaBDQ7emUqAogDVX3Qkom9mAtWtYTbwg637H9zhpump",
    0.133,
-   8.6,
+   9.7,
    "buyers=6; top5_hold_most=99%"
   ],
   [
    "TOKENIZER",
    "eAKhEyDEbQKGcdRxpnxwRTrEY5ZDbqzB9Bh5MCqXFgi",
    0.121,
-   6.4,
+   7.4,
    ""
-  ],
-  [
-   "NutBag",
-   "Dek22ZSxfYhEWtx4yUBwp4b9N86vpK1ikrtZKHor7Z1w",
-   0.088,
-   9.4,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "gyatt",
    "Cs6zgY4CXdXpYAGVvKJH7ZoMoKYEr1b1a7FNtK1Qpump",
-   0.084,
-   6.9,
-   ""
+   0.095,
+   7.9,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "TOKENIZOOR",
    "24jZaPCQ52cJwDmt1jSGNDCxcdg4L6ye3rmfVPC5pump",
    0.082,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "AVA",
+   "Ejm25FiaiPFGrXbuERkgGx6QTNwwQMfWt2YVPJSBpump",
+   0.081,
+   2.1,
    ""
   ],
   [
    "TOKENIZER",
    "EQ8bYw1cimFKwiUfjvGidKzYf6zXFn4uqvU21Dcopump",
    0.061,
-   5.9,
+   7.0,
    ""
   ],
   [
    "BITSTREAM",
    "CZGxgf1XyhHQGqsEqT4SEAEcbsMZZJQ3C6xtrJMApump",
    0.046,
-   7.1,
-   ""
-  ],
-  [
-   "TOKENIZER",
-   "3FtY3qEgEHijVwW72czqH41X9iiC1RRbnipefjGgpump",
-   0.045,
-   6.4,
-   ""
-  ],
-  [
-   "ELM",
-   "77WoJSPk3BeVYM7aKGBouwfeXzU7nwU2TtcB2LcPpump",
-   0.045,
-   9.0,
+   8.2,
    ""
   ]
  ]
