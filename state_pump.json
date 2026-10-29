@@ -6506,83 +6506,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:28:38",
+   "2026-10-29T16:29:38",
    32.58
   ]
  ],
- "cycles": 2274,
+ "cycles": 2275,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.46393295642426,
- "watching": 278,
+ "sol_usd": 96.37381111360001,
+ "watching": 279,
  "near": [
+  [
+   "BEANS",
+   "D72WjqzZLGaoT8zSkeDj8BqdCWJVTsxeExX5UddNpump",
+   0.867,
+   3.2,
+   ""
+  ],
   [
    "beans",
    "3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT",
-   0.764,
-   2.7,
+   0.624,
+   3.7,
    ""
   ],
   [
    "SUBX",
    "2EBEELPxBJJn6Yz6ahzLbjsGsj19QkfZz2AwC8W4pump",
-   0.57,
-   3.2,
-   "launch_slot=missing"
+   0.568,
+   4.2,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "LAZARUS",
+   "EoUkoVv6YcvPoRBkiujKygE447E6TsyLRVkPw1Expump",
+   0.204,
+   3.0,
+   "serial_creator=7 launches/24h"
   ],
   [
    "calm",
    "4HSHFbFiKuMvZW7yGiDTab17B63MzBkkhadFKxhkpump",
-   0.186,
-   4.2,
+   0.176,
+   5.2,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "3",
+   "GBGzdkwijqgFMMSwma1cYCC7aK8Stw2TunWMUztKpump",
+   0.154,
+   3.0,
+   "buyers=9; top5_hold_most=98%"
   ],
   [
    "BEANS",
    "HLXpTJRvPnuHTBFZVg3QqbRHDjapWnU68nuq1rk8pump",
    0.122,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "BEANS",
+   "4EyMehZaDMTakgEKPXhvy5bo1ph9Y3fnMewwkQjQpump",
+   0.098,
+   3.0,
    ""
   ],
   [
    "BEAN",
    "BiV94wg73DnQxoZWYWMXnLmHSj5bJ4Ehajvx1Tunpump",
    0.093,
-   3.1,
+   4.1,
    ""
   ],
   [
    "simulation",
    "AHPaeQA9fkvCkGH92xzCb24AxjfTKniTiAPd3VXyWJuc",
    0.087,
-   3.3,
-   ""
-  ],
-  [
-   "01",
-   "3jb5kUPvMdKgPSGMXLv85DyP32NPr9Z69ndKQoMvpump",
-   0.083,
-   5.5,
-   "buyers=0; top5_hold_most=100%"
-  ],
-  [
-   "SGI",
-   "6mWqc8bWK63K7Q24Droit7fD2qNeMVKqZNELGzLhpump",
-   0.083,
-   10.0,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "QVC",
-   "Ck1L8Wa7ix7sYfS6pAXW3pzEr5uh8rz2d1DXCfSXixQC",
-   0.079,
-   2.9,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "CAN",
-   "5ZoxQfT3FKjpx2yBngmXcJ9JfEvPDZbr7URcjjWMGmVH",
-   0.075,
-   2.8,
+   4.3,
    ""
   ]
  ]
