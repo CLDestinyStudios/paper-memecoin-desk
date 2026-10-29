@@ -2,21 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 79.96831818129472,
+ "cash": 81.78358965889667,
  "positions": {
   "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump": {
    "sym": "CREWPAD",
    "bc": "6jU3hkpQnv7yfUed7qpZBycTJv8AUcpFGipPCoYr1GYC",
-   "tokens": 452500.61645553587,
-   "cost": 2.49,
+   "tokens": 226250.30822776794,
+   "cost": 1.245,
    "cost0": 2.49,
    "entry_px": 5.09634618697615e-08,
    "entry_fill": 5.4895799424943866e-08,
    "opened": 1793253545.7461765,
-   "last_px": 6.587281958789934e-08,
-   "peak_px": 6.587281958789934e-08,
-   "last_val": 2.778985439583431,
-   "last_prog": 0.472
+   "last_px": 8.67889478619185e-08,
+   "peak_px": 8.67889478619185e-08,
+   "last_val": 1.8152714776019552,
+   "last_prog": 0.585,
+   "tp1_done": true,
+   "realized": 0.5702714776019551
   }
  },
  "traded": [
@@ -4327,81 +4329,85 @@
   [
    "2026-10-28T23:01:05",
    82.75
+  ],
+  [
+   "2026-10-28T23:02:05",
+   83.6
   ]
  ],
- "cycles": 1228,
+ "cycles": 1229,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.182528516,
- "watching": 132,
+ "sol_usd": 100.24671281000002,
+ "watching": 134,
  "near": [
   [
-   "BULLBRO",
-   "739PLrGxBESsYuw5yPSdnLD6FnfH7H7xFZQDpRqYpump",
-   0.267,
+   "Azathoth",
+   "4ACqCEFeQqM9wnqmUyh2ZvpFXFFzNdNo3rtFzGChpump",
+   0.763,
    3.0,
-   "serial_creator=10 launches/24h"
+   ""
   ],
   [
    "GME",
    "4ozD7WDay8Tx3twczV2naM8TsxW7pqexHpZ2YzrHStBj",
    0.164,
-   4.4,
+   5.4,
    "buyers=7; top5_hold_most=96%"
   ],
   [
-   "BUY",
-   "7heqCGr9Ft7SrugGKHRzRMkseRuQC8fyVRwmAhttpump",
+   "APUL",
+   "4ixpxG1r1WHQw83z3eTTg7VpL1k7gMGKpowVgnQdpump",
    0.089,
-   4.6,
+   2.2,
    ""
+  ],
+  [
+   "Raja",
+   "8BKw6bTPMhbpFEZKZbHkeRxzNqjspFPdP1WtA4aepump",
+   0.075,
+   2.3,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "dogzilla",
    "BLj7QSiSbRKRuzoMfytD655kLaR4nfVDDPGYHKajpump",
    0.058,
-   5.5,
+   6.5,
    ""
   ],
   [
    "OIIA",
    "BjtNN1ogzuWD8iQKFZEZ5sMEuuKa9TzJkunZhFyDpump",
    0.041,
-   5.1,
+   6.1,
    ""
   ],
   [
    "GTAC",
    "9vaMjjoU6CVoEuXr3pZikBmWnf9bVd2CBHAPZ1JXpump",
    0.035,
-   4.4,
+   5.4,
    ""
   ],
   [
    "FORD",
    "7KRZBY2xoyQa1tQsHwdjAJdEjM8JSYoQEXrwqSvfpump",
-   0.033,
-   2.7,
+   0.034,
+   3.7,
    ""
   ],
   [
    "WATER",
    "BSryy1ZQsMpoELEG3dtyxsHQyiXgoGmA1VjYrnkyQfUV",
-   0.032,
-   4.1,
+   0.03,
+   5.1,
    ""
   ],
   [
    "SPERM",
    "DKymcsDCStmrQ7JHaVFL1XhCHG2REonKr1e8gCRWpump",
    0.027,
-   3.2,
-   ""
-  ],
-  [
-   "$MEOW",
-   "6Q2wq3r8oVmTtAyJQ8iGaiWA6k9cBAaz3M9odQ6Xpump",
-   0.024,
-   2.7,
+   4.2,
    ""
   ]
  ]
