@@ -14,7 +14,12 @@
    "p_buy": 0.55
   }
  },
- "watch": {},
+ "watch": {
+  "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump": 1793244305.8840244,
+  "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793244305.886326,
+  "Vbj43iug1XjeuLs1MZAMZ8PYG3QBjxZtfHPEM7zpump": 1793244305.8881297,
+  "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz": 1793244305.8886237
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -2855,8 +2860,12 @@
   [
    "2026-10-28T20:24:03",
    414.2
+  ],
+  [
+   "2026-10-28T20:25:05",
+   414.2
   ]
  ],
- "cycles": 1091,
+ "cycles": 1092,
  "started": "2026-10-28T01:46:56"
 }
