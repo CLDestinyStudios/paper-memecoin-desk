@@ -15,7 +15,7 @@
    "opened": 1793269642.5762103,
    "last_px": 7.294248013643415e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8299854401108956,
+   "last_val": 0.8302170706420824,
    "last_prog": 0.515,
    "tp1_done": true,
    "realized": 0.37633656758851186
@@ -5111,81 +5111,85 @@
   [
    "2026-10-29T03:51:22",
    61.39
+  ],
+  [
+   "2026-10-29T03:52:21",
+   61.39
   ]
  ],
- "cycles": 1518,
+ "cycles": 1519,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.59338475499999,
- "watching": 170,
+ "sol_usd": 100.62145813800001,
+ "watching": 175,
  "near": [
   [
    "MAX",
    "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   0.877,
-   7.9,
+   0.832,
+   8.9,
    ""
   ],
   [
    "HALVE",
    "Cp3z6QaCiLYAsiVycqdLLiCwtfwKXJwrfgbQQh4Ypump",
-   0.367,
-   5.0,
-   "creator=18.6%; top5_hold_most=90%"
-  ],
-  [
-   "PREDICT",
-   "24nzaCipFYaQEQAarSYGecq16bEUZu61BhuFqVRrpump",
-   0.131,
-   10.0,
-   "buyers=2; top5_hold_most=100%"
+   0.398,
+   5.9,
+   "creator=18.6%; top5_hold_most=85%"
   ],
   [
    "SECURITY",
    "AdsvTvuwsMbz6GLA2QSjq8X1mbnPAetpg4S4vpNapump",
    0.105,
-   6.3,
+   7.3,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CLAIM",
-   "CdLgUefbFPVZtvTeAPTqCzEhF1JM8dt5BSjcjL24pump",
-   0.081,
-   2.2,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "GENESIS",
    "4GEWYGfkU6JwVoQ2mncrvTF1F5d1Vgp83YbCgCgfxAvB",
    0.076,
-   2.4,
+   3.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "longooor",
-   "D2D48wCuLhx3TqppURsZ6t7dLqkGxqx7g2yS9Li5pump",
-   0.049,
-   9.3,
-   ""
-  ],
-  [
-   "KYS",
-   "JDDuubY4Mg5VFFu61qyPQXZ5S56zuxaus7ZVjBP9pump",
-   0.044,
-   3.3,
+   "hopecat",
+   "FMgutPcembYxqs1SxVdBVTYFWT44HtZYJMXZ5eCPxHvJ",
+   0.074,
+   2.9,
    ""
   ],
   [
    "ASS BTC",
    "BgtNrjAdG2AzK4UvVtuwgZgzDgqXKhAwWDKb5Sg7pump",
    0.044,
-   3.5,
+   4.4,
    ""
   ],
   [
-   "wifmiccat",
-   "XeDX2ZzGenKQXJmAEzWvxrFnw7DXKWU1YzSbH2ppump",
+   "KYS",
+   "JDDuubY4Mg5VFFu61qyPQXZ5S56zuxaus7ZVjBP9pump",
    0.043,
-   3.5,
+   4.3,
+   ""
+  ],
+  [
+   "NYSE",
+   "DeWzbNZDkF4VuYotnYbddD7LfWwn68JDdi3CyeaLrwZ9",
+   0.042,
+   9.2,
+   ""
+  ],
+  [
+   "HYPERCAT",
+   "69DKCVmykx9jUuZZc8JYqSRtrxrECxJq5ZqW6dcgk5au",
+   0.042,
+   4.8,
+   ""
+  ],
+  [
+   "MAX",
+   "HLh79YsNEzGvZdVtjN2huL3FjMPCzXVQn552dgTJSu1y",
+   0.038,
+   4.0,
    ""
   ]
  ]
