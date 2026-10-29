@@ -4672,83 +4672,83 @@
    72.89
   ],
   [
-   "2026-10-29T01:20:20",
+   "2026-10-29T01:21:21",
    72.89
   ]
  ],
- "cycles": 1367,
+ "cycles": 1368,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.06999999999998,
- "watching": 150,
+ "sol_usd": 100.06,
+ "watching": 153,
  "near": [
   [
    "Chilloween",
    "Ac6PLXgeP3eK1ak9CyNR8actDgA3vxBhRq1Ao1frDajq",
-   0.793,
-   4.0,
-   ""
+   0.743,
+   5.0,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "666",
    "5wGxAMV8DKLtyvHj9vK6BuuJcTmDn1bP985EqVKopump",
-   0.341,
-   8.8,
-   "buyers=7; top5_hold_most=84%"
+   0.34,
+   9.9,
+   "buyers=9"
+  ],
+  [
+   "Simple",
+   "4b4oqC27msGKfhQnvwGapFGjsX5byWsU7tjTWQbcpump",
+   0.258,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "$RSOCKS",
+   "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump",
+   0.207,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "TRAVEL",
    "3JyTtWhGwQ27kfQqVdizDWKgnGReLo8zYyVN2V5Npump",
    0.095,
-   3.5,
+   4.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "OTC",
-   "B3ATfwwNoR2TB7NEEQB4GBkezeuXw7UaSstp1o4Mpump",
-   0.084,
-   4.2,
+   "ween",
+   "3CofbRYN9sHnjmsSDxp8EU11Ji5Ht2s3JkjA2h5dqvvr",
+   0.063,
+   2.4,
    ""
   ],
   [
    "ALLIN",
    "CmsxrvU3MeR6u3UMGn17rDmskDKo2hWcJoaTXDRwpump",
    0.042,
-   8.4,
+   9.4,
    ""
   ],
   [
    "NATURE",
    "299rpq3q4k9s2uPowz1CAUktdEhpgPZUpD5Acz8Spump",
    0.022,
-   8.9,
-   ""
-  ],
-  [
-   "lowkey",
-   "HR25tHtjdWGSfEhW6a3NDRmsa51iVQqWuw65QhfGpump",
-   0.021,
-   4.7,
+   10.0,
    ""
   ],
   [
    "PUMPV2",
    "7McgHdTFF9PpZDfBfwuvQbC86snEbrJKvwzvEir6pump",
    0.019,
-   7.7,
+   8.7,
    ""
   ],
   [
    "CC",
    "DrqpBDEA4VbEEAV8SQP7Rhv5uzVNtQ7515eKWMwgpump",
    0.011,
-   3.2,
-   ""
-  ],
-  [
-   "solana ",
-   "EG2vo48yT3w2oGFA8FVR4TqYwLVx1hKgN7oVJhvZpump",
-   0.011,
-   7.6,
+   4.2,
    ""
   ]
  ]
