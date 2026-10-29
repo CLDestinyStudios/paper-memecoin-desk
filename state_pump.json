@@ -6382,84 +6382,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:35:55",
+   "2026-10-29T11:36:55",
    32.58
   ]
  ],
- "cycles": 1982,
+ "cycles": 1983,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.39896933550001,
- "watching": 285,
+ "sol_usd": 100.36463931849998,
+ "watching": 280,
  "near": [
   [
    "HOPE",
    "WZgKD1NXT2JgeJFDuQuDa4CiYX2mwWWitC1Pgsrpump",
-   0.98,
-   2.3,
-   ""
+   1.0,
+   3.3,
+   "graduated"
   ],
   [
    "QSAFE",
    "EL12ZQ4DSg6b4iMRppNxrVoDxTXXCS8cZU1dPDBGpump",
-   0.751,
-   3.4,
+   0.789,
+   4.4,
    ""
+  ],
+  [
+   "GHOST",
+   "BenYMkURk3J99FoWGMJouqjDUkGfx3P4FRP67Lvjpump",
+   0.547,
+   2.0,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "COTF",
    "zogBpn7eTHdgMnkFhGGjrNGiRFzQn1YXmA2Lvz3pump",
    0.383,
-   8.8,
+   9.8,
    "buyers=1; creator=30.4%; top5_hold_most=100%"
-  ],
-  [
-   "Percy",
-   "B44XXE2v8NUip4YNTUh5KGStCo8KNU4FBGWDT6GLpump",
-   0.35,
-   2.3,
-   "buyers=9; creator=24.5%; top5_hold_most=99%"
-  ],
-  [
-   "CAT",
-   "HXuh7MCcpBS56LQ3mr9hTcZ1omkZ3TKoA4jYqXhmpump",
-   0.223,
-   2.3,
-   "buyers=7; top5_hold_most=99%"
   ],
   [
    "Cumbal",
    "ENPKgakbkig5KxRTqHWBLYwycnJi1jbAU5vR5cqVpump",
-   0.17,
-   3.5,
+   0.319,
+   4.5,
    ""
   ],
   [
-   "CATPOOP",
-   "E5U5udY3zvgrtEWvRBjUmcHD59pcfkxrEM55MAQHpump",
-   0.129,
-   4.8,
-   "top5_hold_most=99%"
+   "CAT",
+   "HXuh7MCcpBS56LQ3mr9hTcZ1omkZ3TKoA4jYqXhmpump",
+   0.312,
+   3.3,
+   "top5_hold_most=85%"
+  ],
+  [
+   "HYPERDIH",
+   "5ktmUXarmsgwnboP1Aq8wgE2NNstRtuGfquow81dpump",
+   0.132,
+   3.0,
+   "buyers=8; top5_hold_most=97%"
+  ],
+  [
+   "HRT",
+   "76dcszLo6nnAquwqzFrAcGqJ3MKRQYyQamRvcUehpump",
+   0.089,
+   2.1,
+   ""
   ],
   [
    "2",
    "GoYYc3X21AzHskQTrDJagQTFaPWMGBg6P1XehQLzpump",
-   0.103,
-   4.4,
-   "buyers=6; top5_hold_most=100%"
+   0.087,
+   5.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "McPok\u00e9mon",
-   "ABhStrW8NZsrcS8njWAV2qNKkNvuc8DARj5RrWGmpump",
-   0.069,
-   2.9,
-   ""
-  ],
-  [
-   "Qzrool",
-   "EiDeTVh33YKS4A7RCtVUZ5VMXJSsUv19pfkkMgVWpump",
-   0.068,
-   6.7,
-   ""
+   "Percy",
+   "B44XXE2v8NUip4YNTUh5KGStCo8KNU4FBGWDT6GLpump",
+   0.077,
+   3.3,
+   "buyers=8; top5_hold_most=97%"
   ]
  ]
 }
