@@ -13,10 +13,10 @@
    "entry_px": 9.201955196335029e-08,
    "entry_fill": 1.0196605738270175e-07,
    "opened": 1793288164.687394,
-   "last_px": 8.79981083668604e-08,
+   "last_px": 9.184614304086045e-08,
    "peak_px": 9.201955196335029e-08,
-   "last_val": 0.823208340374936,
-   "last_prog": 0.59
+   "last_val": 0.8609958429987112,
+   "last_prog": 0.606
   }
  },
  "traded": [
@@ -6130,81 +6130,85 @@
   [
    "2026-10-29T08:36:53",
    35.27
+  ],
+  [
+   "2026-10-29T08:37:53",
+   35.31
   ]
  ],
- "cycles": 1803,
+ "cycles": 1804,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.34742388,
- "watching": 237,
+ "sol_usd": 102.29459354200002,
+ "watching": 243,
  "near": [
   [
-   "$BRXT",
-   "Dp9v22YR3uNvk4TyaQ5onKq5QCXrJ57Rz8EsCbYypump",
-   0.129,
-   5.0,
-   "buyers=4; top5_hold_most=100%"
+   "CALLOO",
+   "G4Swoz9GDpTQWxCxXrpKThKsqUX38pgkQNdDntT5pump",
+   1.0,
+   2.9,
+   "graduated"
+  ],
+  [
+   "XLIQUID",
+   "2iAFCUAzaZ5g23KDtApKejjVoLd5quZzA2MPPh21x8hY",
+   0.421,
+   9.0,
+   ""
+  ],
+  [
+   "$GYMRAT",
+   "F5xJbbuH9mr8YQaC4kQyyyoWLvKESqrszFYDF95pump",
+   0.157,
+   4.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "SEASAL",
    "9zMCwF4NYhBTQkLhrw9Sw5FYnWF5nREzP4Lq2g5Cpump",
-   0.127,
-   3.0,
-   "buyers=6; top5_hold_most=96%"
+   0.146,
+   4.0,
+   "buyers=8; top5_hold_most=84%"
+  ],
+  [
+   "$BRXT",
+   "Dp9v22YR3uNvk4TyaQ5onKq5QCXrJ57Rz8EsCbYypump",
+   0.138,
+   6.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "ELOOONG",
    "DdP81SbePjtdj1sm9m3n4SQRVwzzPymYwFi7VDpfko3h",
    0.122,
-   2.3,
+   3.3,
    ""
-  ],
-  [
-   "XLIQUID",
-   "Dh128xBVJHeqEfspzwunjfYC19sZkDmFrCtKGnau85sS",
-   0.12,
-   3.0,
-   "top5_hold_most=81%"
-  ],
-  [
-   "$GYMRAT",
-   "F5xJbbuH9mr8YQaC4kQyyyoWLvKESqrszFYDF95pump",
-   0.114,
-   3.1,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Hype\u00b2",
    "BimDbKHHxbp285iRDioAagPPSr2KPEQMbgX7hgBbpump",
    0.111,
-   6.1,
-   ""
-  ],
-  [
-   "XLIQUID",
-   "2iAFCUAzaZ5g23KDtApKejjVoLd5quZzA2MPPh21x8hY",
-   0.111,
-   8.0,
+   7.1,
    ""
   ],
   [
    "ICE",
    "D5ccxDbsohucTB2pxwouTMc661KPK3HmnQ79E4FTpump",
-   0.103,
-   3.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "musks",
-   "7Qjj4EYEnoLPSKT5hyrLukQr6wmZpcA6bDyMXbCyv4B2",
    0.092,
-   4.7,
-   ""
+   4.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "XLIQUID",
    "3ATeWSbVYEKyoXU9Hte8zPTeyhNjEUAo552fjhu3pump",
    0.083,
-   7.6,
+   8.6,
+   ""
+  ],
+  [
+   "BACKR",
+   "8yjkh1HnBUQs2C6i3P1u5Chrp38yyp2mWmAkJgTKpump",
+   0.079,
+   7.3,
    ""
   ]
  ]
