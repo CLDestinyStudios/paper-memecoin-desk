@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.3389182145875024e-07,
+   "last_px": 1.2841588182253164e-07,
    "peak_px": 1.3476550002450232e-07,
-   "last_val": 2.6615679114363755,
-   "last_prog": 0.735,
+   "last_val": 2.550088578087005,
+   "last_prog": 0.722,
    "tp1_done": true,
    "realized": 0.7659854280569913
   }
@@ -3413,81 +3413,85 @@
   [
    "2026-10-28T17:38:50",
    119.78
+  ],
+  [
+   "2026-10-28T17:39:50",
+   119.67
   ]
  ],
- "cycles": 906,
+ "cycles": 907,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.014469467,
- "watching": 376,
+ "sol_usd": 101.9919618005,
+ "watching": 377,
  "near": [
+  [
+   "BIO",
+   "BTEHUraCwKz3tj14fsKppQV9prit2b7p2dgf8Jd3pump",
+   1.0,
+   2.3,
+   "graduated"
+  ],
   [
    "DUBBLE",
    "BGpPt4AbeNmhfat4FmvB79v9dV8aHomyfzXmwNzypump",
-   0.75,
-   5.6,
+   0.798,
+   6.6,
    ""
   ],
   [
    "RAREINU",
    "CnNjfFCTDdfBAwKBAMNMLeGpiespWi14womBB8iBpump",
-   0.545,
-   3.6,
-   ""
+   0.621,
+   4.6,
+   "bundled_launch=11 extra buys in creation block"
   ],
   [
-   "LEMON",
-   "4bJmvxBBBTU1ZhSTksHq1ULx35yq5FTUpWMpoQ6Hpump",
-   0.319,
-   2.9,
-   "top5_hold_most=81%; bundled_launch=5 extra buys in creation block"
+   "bio\u00b7\u03b5/909",
+   "DbsW9FSQbBpLLGJrZ4tgePY4VFejMTj1noCESS9ppump",
+   0.401,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "CLYDEFROG",
    "4iPJyvV4PcFtoWHuy6MLo2ynrQ8GkxqvMoehKzVFKhDJ",
-   0.181,
-   5.8,
+   0.237,
+   6.8,
    ""
-  ],
-  [
-   "Hmm",
-   "D2X8TmStVDDXdGQu3tUEVrCHrXYwXM3uRFw3uGe8pump",
-   0.162,
-   9.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Clinefrog",
    "7bnnAkmCrMC2HU8ZXrs7hRXzvxvbuiZy8UkZrJzxkioi",
    0.105,
-   2.5,
-   ""
-  ],
-  [
-   "BIO",
-   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
-   0.088,
-   2.6,
+   3.5,
    ""
   ],
   [
    "RAREINU",
    "H2LYW1SQP9pe4oAt4mptkoamxyEZPansnU2V7ztrpump",
    0.084,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "SCAM",
+   "4yvS85XnT4YAJ6uPNLPifgg6Z6ZMrHvHCZSiNik9pump",
+   0.071,
+   4.0,
    ""
   ],
   [
    "CLYDEFROG",
    "4Q6ZMgNSwupZAPSWTLLekYKCuS4DrqWvcx2sLCP5pump",
-   0.08,
-   3.0,
+   0.071,
+   4.0,
    ""
   ],
   [
-   "Klinefrog",
-   "E4Vo7tNg2Ws3rh1G9ZocA6UyTzN2Sn7b6Vc4KeGPpump",
-   0.077,
-   4.1,
+   "SCAM",
+   "HpdTQQ8bJzZ992ErUo8TfkWX5uAZ6mSpPhoqsVsipump",
+   0.068,
+   7.2,
    ""
   ]
  ]
