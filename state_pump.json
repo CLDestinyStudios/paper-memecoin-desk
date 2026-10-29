@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 82.63215666074571,
- "positions": {},
+ "cash": 80.1521566607457,
+ "positions": {
+  "HjB6d9yQ2bJVNE9pPzJnwebRnd3Tj1vimpJ3YHvPpump": {
+   "sym": "NIBBLE",
+   "bc": "Gtn2jPVdBPEyF45Wca6YX4u7R7NxgiEsMyrDsnRsDb7g",
+   "tokens": 398854.72310199734,
+   "cost": 2.48,
+   "cost0": 2.48,
+   "entry_px": 5.773012393893153e-08,
+   "entry_fill": 6.218424607117458e-08,
+   "opened": 1793255167.137406,
+   "last_px": 5.773012393893153e-08,
+   "peak_px": 5.773012393893153e-08,
+   "last_val": 2.13147991041431,
+   "last_prog": 0.411
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -286,7 +301,8 @@
   "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump",
   "8wqM2ZkW2YyMFSP9ebya8DHShsYfPPqHkDnJjnHupump",
   "wxXjeE37ERHEepuQ2rBKHaGJH4uxDyaj5r1zzxVpump",
-  "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump"
+  "9FZAwfpGA2JezWBci2B1cRNR7Hs4HC4ZtzJuTndopump",
+  "HjB6d9yQ2bJVNE9pPzJnwebRnd3Tj1vimpJ3YHvPpump"
  ],
  "equity": [
   [
@@ -4344,81 +4360,85 @@
   [
    "2026-10-28T23:25:05",
    82.63
+  ],
+  [
+   "2026-10-28T23:26:07",
+   82.28
   ]
  ],
- "cycles": 1252,
+ "cycles": 1253,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.8900045816,
+ "sol_usd": 99.99,
  "watching": 107,
  "near": [
   [
-   "CLUDIA",
-   "Eo3LZPuMceVvcbaAAZiVvwqgWZzLQtvz54MtRH1upump",
-   0.541,
-   2.2,
-   "serial_creator=10 launches/24h"
+   "50",
+   "8inEnLNkuiWMrumwDYBxqMGhiEQj1Yd5iTKfiNNhpump",
+   0.67,
+   2.1,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "NIBBLE",
+   "HjB6d9yQ2bJVNE9pPzJnwebRnd3Tj1vimpJ3YHvPpump",
+   0.411,
+   2.7,
+   "bought"
   ],
   [
    "MAXBTC",
    "856fuhEY6ei7djSG8ukafirc5CLmf6EP5aU7BBwspump",
-   0.201,
-   4.8,
+   0.139,
+   5.9,
+   ""
+  ],
+  [
+   "neko",
+   "5GxNPatZJmvcf1LGXRCweFPR6saQUBXQS22G2xtTpump",
+   0.074,
+   2.4,
    ""
   ],
   [
    "SHUNBUM",
    "DQd6HquQExPEkDscwVc9F67pkJPLhizd3Sw2sxGqpump",
    0.063,
-   2.1,
+   3.1,
    ""
   ],
   [
    "Bitcoin",
    "53X9QZUaAxP9WLiEirMLi8bRisosweKCtKQ38n6gpump",
    0.049,
-   2.3,
+   3.3,
    ""
   ],
   [
    "MARVIN",
    "4X1DpwhpcA8EutSzSpp6p9SLVmqMPnL9vP1tQeEUpump",
    0.047,
-   2.5,
+   3.5,
+   ""
+  ],
+  [
+   "50",
+   "GzFcjezuXHamnxKJsd2PcPnGBK2aYXyNNd3gC3k5pump",
+   0.034,
+   2.9,
    ""
   ],
   [
    "MODELG",
    "HJ9ygwvcVQRdWGPo6U6T3QVUP6MaFVTLuTp4pMspump",
-   0.028,
-   2.9,
+   0.029,
+   3.9,
    ""
   ],
   [
    "SI",
    "4xubLd6WSf7Y79gCiCkzSUjCrHKPp6wjpJ52SJbSkLtn",
    0.027,
-   4.3,
-   ""
-  ],
-  [
-   "ZIGZAG",
-   "6Ahamc348Q2hqd6Kg5UD7QfgHp7ytGSjTVtfAM6Ppump",
-   0.022,
-   3.8,
-   ""
-  ],
-  [
-   "PUB",
-   "Bwv9PeZ8k4pfLP9S2GvjPQQtGiFZtpcDWhJrZ1wspump",
-   0.014,
-   2.7,
-   ""
-  ],
-  [
-   "BBC",
-   "3KJJCaawXDZvbgitkb69BaRnySAJNyPYw34z8qdYpump",
-   0.011,
-   5.7,
+   5.3,
    ""
   ]
  ]
