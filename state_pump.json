@@ -13,10 +13,10 @@
    "entry_px": 4.760836244714777e-08,
    "entry_fill": 5.101389993749803e-08,
    "opened": 1793237331.2551987,
-   "last_px": 1.0419598019529694e-07,
+   "last_px": 9.518851982154123e-08,
    "peak_px": 1.0419598019529694e-07,
-   "last_val": 3.2658743492985685,
-   "last_prog": 0.652,
+   "last_val": 2.9789180868242955,
+   "last_prog": 0.62,
    "tp1_done": true,
    "realized": 1.5458743492985685
   }
@@ -3624,81 +3624,85 @@
   [
    "2026-10-28T18:37:53",
    119.77
+  ],
+  [
+   "2026-10-28T18:39:00",
+   119.48
   ]
  ],
- "cycles": 965,
+ "cycles": 966,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.01925304800001,
+ "sol_usd": 101.007591482,
  "watching": 338,
  "near": [
-  [
-   "Pumpkinu",
-   "7wjapUkhKcwx8ZEbSkvePusbh4UwKmhiUszwaR5Lpump",
-   0.65,
-   3.0,
-   "serial_creator=29 launches/24h"
-  ],
   [
    "RUMPEL",
    "FTWcGWMw7qXGBMthYAdXePp3g5QejNcBepaGGmVbpump",
    0.201,
-   3.9,
+   5.1,
    ""
-  ],
-  [
-   "Pumpkinu",
-   "Btm8PFEmvR91sEgjDA1dFC3A5qaLVis3tytDzbgipump",
-   0.144,
-   2.8,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "e/pump",
    "2KTpGj5ZRDZ5fX1uVwtaN3qVNuKxWsJ2BEx4pwYbpump",
-   0.122,
-   2.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SPOOKY",
-   "FwuE8YMtvDjZ9YGK1Uo5ag9rbUr4DwXfFtz1NsBHpump",
-   0.115,
-   3.0,
-   "top5_hold_most=89%; bundled_launch=3 extra buys in creation block"
+   0.123,
+   3.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Bezzy",
    "DENvovR1RqYCxv9fPCSP8A6msELs9fqqQhLnaSj7pump",
    0.086,
-   6.1,
+   7.2,
    ""
+  ],
+  [
+   "UNCLEBEAN",
+   "8L9bt6JSntGUfSHdtrSMXPBGnBm55dMXv914ZHkUpump",
+   0.07,
+   3.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "HamUnc",
    "91JM8FwarmcXXk4zvHMFRHJSyW8vD9ys6y4PJujnpump",
    0.064,
-   6.0,
+   7.2,
    ""
   ],
   [
    "fatcat",
    "5P6zpa9Cm2haHxM6ohiPPb8fGuCUdGyRqRJiMMgtpump",
    0.044,
-   4.4,
+   5.5,
    ""
   ],
   [
-   "HOLLOWROT",
-   "BmNZr9h6UfAy74jGY2EfUSGyVzNdrnB3rDzeYBhDpump",
-   0.038,
-   5.1,
+   "BAR",
+   "BmhPmJKiLQBqG5X1ewVVztVfKC7y8mxQ2Rug2tMApump",
+   0.043,
+   2.9,
+   ""
+  ],
+  [
+   "unc",
+   "9GfFnUMF1KWgKcwSGsYEsxaocCH8frrBLkE1RKjfpump",
+   0.043,
+   7.7,
    ""
   ],
   [
    "DIS",
    "7uNZgoJrtYFaDsxR7zAHgyGVjsC5mCeYhAmdMLUEpump",
    0.037,
-   5.8,
+   6.9,
+   ""
+  ],
+  [
+   "SPOOKY",
+   "GquHfBxBb35itmV6r2cFTS8SbhmmBXiYSdXaBquMKNbz",
+   0.032,
+   2.6,
    ""
   ]
  ]
