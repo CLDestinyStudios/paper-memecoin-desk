@@ -3715,83 +3715,83 @@
    119.01
   ],
   [
-   "2026-10-28T19:28:50",
+   "2026-10-28T19:29:50",
    119.01
   ]
  ],
- "cycles": 1016,
+ "cycles": 1017,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.49,
- "watching": 208,
+ "sol_usd": 99.50297854920001,
+ "watching": 209,
  "near": [
-  [
-   "COTUS",
-   "5pKaoFzKaNoVEVqMHuf8pEzDSGLsWYBDsj6NaCUvpump",
-   1.0,
-   2.4,
-   "graduated"
-  ],
   [
    "PERCS",
    "EUpo3XyMwkXkqtceeUtCswaGquBeRmvbupKihTefpump",
-   0.866,
-   7.1,
+   0.847,
+   8.1,
    ""
-  ],
-  [
-   "Fatfish",
-   "4oQoriyFPWFoEiGGZe3YNpA28YHZF5aSQn2UW8Rgpump",
-   0.359,
-   2.3,
-   "serial_creator=10 launches/24h"
   ],
   [
    "CRF",
    "BDC6ittE1x8MwPM7P7ceyLRMgFU4jQjW5X56Yj7Dpump",
-   0.314,
-   6.4,
+   0.232,
+   7.4,
    ""
+  ],
+  [
+   "CRF",
+   "eZqk6TrAAvXfiEXNdgiGzNpeYxgCUTAQZLLinX5pump",
+   0.185,
+   2.3,
+   "buyers=9; top5_hold_most=85%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "COTUS",
    "62pS9xc7R2doenTcS1ynP8Go7HLZYsrHt9yHvfUTpump",
-   0.155,
-   2.7,
+   0.134,
+   3.7,
+   ""
+  ],
+  [
+   "FATFISH",
+   "DmnSGb8kG434TtAVKNvXGureRNR1GkkF8QbCcQUYpump",
+   0.101,
+   2.3,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "PODCAT",
+   "9WQHZQUHeU71dmhXz23MzmEKDCQukdc1ofg54uD9pump",
+   0.1,
+   4.8,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "BOO",
+   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
+   0.094,
+   4.2,
+   ""
+  ],
+  [
+   "batcat",
+   "DXjBR9zzRXLyqW37nBbAdU6ceoWMmfkhUGFpsCoepump",
+   0.089,
+   2.8,
    ""
   ],
   [
    "CPI",
    "GPz7229qBUKkbQaDeLDWeuxLBaFoNP9CNbeZkGp1pump",
-   0.124,
-   3.7,
-   ""
-  ],
-  [
-   "BOO",
-   "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
-   0.109,
-   3.2,
-   ""
-  ],
-  [
-   "COTUS",
-   "4QfxCnnSyV6esmyADhoTL5rpQmcw6vYLT5q1fXGDpump",
-   0.106,
-   3.0,
-   ""
-  ],
-  [
-   "Mcat",
-   "51DjpRNusN3Homoc2fpferwuNrMxmTNaqzPWbsDZpump",
-   0.094,
-   3.9,
+   0.087,
+   4.7,
    ""
   ],
   [
    "CPI",
    "GCxbe5nnY23SHxU2cVCJ4w7qHfVvg9iVEgnHWSxVpump",
-   0.088,
-   4.4,
+   0.084,
+   5.4,
    "buyers=5; top5_hold_most=100%"
   ]
  ]
