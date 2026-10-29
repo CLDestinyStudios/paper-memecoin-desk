@@ -15,7 +15,7 @@
    "opened": 1793244724.9294412,
    "last_px": 3.00403138151716e-08,
    "peak_px": 3.3171122706136434e-08,
-   "last_val": 2.4940348705742132,
+   "last_val": 2.494650486623401,
    "last_prog": 0.048
   }
  },
@@ -3960,81 +3960,85 @@
   [
    "2026-10-28T20:34:03",
    105.2
+  ],
+  [
+   "2026-10-28T20:35:04",
+   105.2
   ]
  ],
- "cycles": 1081,
+ "cycles": 1082,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.5054385371,
- "watching": 204,
+ "sol_usd": 99.53,
+ "watching": 212,
  "near": [
+  [
+   "WARDOG",
+   "2V3MiMAKeJPtbfCZFxDirUqbhLyMFneNv6ak3NMzpump",
+   0.804,
+   2.5,
+   ""
+  ],
+  [
+   "SplitOtake",
+   "Ebg5MUmE5aeL2JZHbwXAC3TsKwu38e1aNRu8UkK6pump",
+   0.158,
+   2.4,
+   "buyers=7; top5_hold_most=96%"
+  ],
+  [
+   "GROTTI",
+   "7Qb39N2p6fsVi3cZUFySHo2rfvTp5vCVSHqvtUvspump",
+   0.143,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
+  ],
   [
    "FOMOCAT",
    "C1Z2Kn9aPkrM1oBFg3rpwdo3Yog4SYzV4M8cQTnWpump",
    0.071,
+   3.2,
+   ""
+  ],
+  [
+   "Jack",
+   "46joBdcDSS6A49uDPZKptLztAZ8XAgKJcdK7jyjcpump",
+   0.065,
    2.2,
    ""
   ],
   [
-   "inu",
-   "JBaQmYWxRS5xETZzbpwBS7kfh4APqns2itugpk4Lpump",
-   0.06,
-   3.2,
+   "SI",
+   "8vB4RhnMem3P5tUJxijGQ4xPLpLMx3KmyK33QWPtpump",
+   0.059,
+   3.1,
    ""
   ],
   [
    "ELON",
    "9bszpayvohAUPbZkMxhrswxurirdXH5C8E9d29VDjzXx",
-   0.051,
-   8.1,
+   0.042,
+   9.1,
+   ""
+  ],
+  [
+   "ELON",
+   "B9YmUVvndfX8YaNvLVKToUNokd82RNKSJVVCBUG3pump",
+   0.041,
+   5.5,
+   ""
+  ],
+  [
+   "RICO",
+   "EmUwTzS2MWXX3Ugt4Wzy7yf395Y32KSurSoSVtT9pump",
+   0.027,
+   2.5,
    ""
   ],
   [
    "EARSHOT",
    "7LrckCQ2DPmAQQTzzjgbafxcjN8ZUbmKVwshcZp1pump",
    0.027,
-   2.2,
-   ""
-  ],
-  [
-   "Quary",
-   "GdK9iVbQfsXszEZ9zcgSBCRFR1JCuhZkQmVe78s3pump",
-   0.023,
-   4.3,
-   ""
-  ],
-  [
-   "Quarry",
-   "7ADRDuAtAEsVWsiKmeqgy8K8FrTXrA3jjSDPM5BHpump",
-   0.023,
-   6.9,
-   ""
-  ],
-  [
-   "ELON",
-   "B9YmUVvndfX8YaNvLVKToUNokd82RNKSJVVCBUG3pump",
-   0.022,
-   4.5,
-   ""
-  ],
-  [
-   "AMERICA",
-   "EANLsfxGMdP6UpLs6GcKTDg6AGUmk6WC8phT7Y3Bpump",
-   0.021,
-   5.9,
-   ""
-  ],
-  [
-   "RECEIPT",
-   "HWFREgsMoay4Ki4UjFDW6whuEdU9k5TdFEWn6a8rpump",
-   0.021,
-   5.2,
-   ""
-  ],
-  [
-   "Nihilism",
-   "8qN5YF4kiCaUMJmFyZnwJLmwxeNMfM2pap9oogPEpump",
-   0.014,
-   4.1,
+   3.2,
    ""
   ]
  ]
