@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 56.28620598665025,
- "positions": {},
+ "cash": 54.596205986650254,
+ "positions": {
+  "4uwVtfuEGKxHnK31vC2i33uYhhDWDAdsqEpYNXTFM9oe": {
+   "sym": "EGG",
+   "bc": "CDgWKAXSAxWBQcURTmwLGRBCjUZTmQy1uZc1mjF6eZrz",
+   "tokens": 275090.49285690306,
+   "cost": 1.69,
+   "cost0": 1.69,
+   "entry_px": 5.62286957306321e-08,
+   "entry_fill": 6.115302565292456e-08,
+   "opened": 1793277862.587462,
+   "last_px": 5.62286957306321e-08,
+   "peak_px": 5.62286957306321e-08,
+   "last_val": 1.4223443533215663,
+   "last_prog": 0.399
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -338,7 +353,8 @@
   "AbkkDdXT2qmpnevBNyeHN3mpxcvrqz9qJtoc8bGvpump",
   "5N57ao54n7M2WRj1zZyhMPQC6M9KnwtDhxKgxE3apump",
   "8zxQt16Q7QY98J4FWddWnh3EDHkcF4KrpJpMkebwpump",
-  "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump"
+  "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
+  "4uwVtfuEGKxHnK31vC2i33uYhhDWDAdsqEpYNXTFM9oe"
  ],
  "equity": [
   [
@@ -5460,81 +5476,85 @@
   [
    "2026-10-29T05:43:21",
    56.29
+  ],
+  [
+   "2026-10-29T05:44:22",
+   56.02
   ]
  ],
- "cycles": 1630,
+ "cycles": 1631,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.4546298275,
- "watching": 137,
+ "sol_usd": 100.46,
+ "watching": 136,
  "near": [
   [
    "Susie",
    "ANdPhuEpk2AzoBiAg1Z1hzUeX98NLKysxoDLGR2ypump",
    0.951,
-   6.5,
+   7.6,
    ""
+  ],
+  [
+   "BOO!",
+   "HD2MNmzSzXZnmmdo4JDD26H22gLjmi97XL7ZW7nEpump",
+   0.857,
+   2.6,
+   ""
+  ],
+  [
+   "boo",
+   "F7J51epbe9KovwEzecHtG5XAVnJTUpdceQ4SC3XJpump",
+   0.81,
+   2.7,
+   ""
+  ],
+  [
+   "EGG",
+   "4uwVtfuEGKxHnK31vC2i33uYhhDWDAdsqEpYNXTFM9oe",
+   0.399,
+   2.4,
+   "bought"
   ],
   [
    "Persona",
    "AMSy4NWD43EBfjTE5C7ZyQptJanGNQXUkVZkVjPQPPAD",
-   0.356,
-   4.0,
+   0.335,
+   5.0,
    ""
   ],
   [
-   "Q&E",
-   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
-   0.102,
-   9.6,
+   "BOO",
+   "7jL1pRpX6ueHKTkBKnrK1woNfMTyeMshqNYa2tmppump",
+   0.108,
+   2.7,
+   ""
+  ],
+  [
+   "Puptides+",
+   "BUP5Q36KHW8Zn4hJHZfRHhhzTXpRKQDsTqXsukfW22zW",
+   0.07,
+   2.5,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "dogboy",
+   "9ovtKBKbhqRHywGTPB8ay1JhmiXLTTzRgf8iMZ2Dpump",
+   0.031,
+   3.0,
+   ""
+  ],
+  [
+   "[bracat]",
+   "HsH4H2YdZrsNkiCcN4zjgDRrqwto5Fz3AbjMHHaBpump",
+   0.028,
+   2.9,
    ""
   ],
   [
    "PETER",
    "AQL7awq8rM3AaNAjdnNrHdQnZptdwybRCUbc9Yjypump",
    0.019,
-   5.3,
-   ""
-  ],
-  [
-   "doge",
-   "GrkNM599vY6vV8LLy2tsogayC8b12fy4FuYCWdCipump",
-   0.017,
-   6.5,
-   ""
-  ],
-  [
-   "CSINDEXES",
-   "Ewg1VrSpKAkv99jBVzF4rEhvSvNYXT4BrhE4Zwtrpump",
-   0.015,
-   6.9,
-   ""
-  ],
-  [
-   "CHALOWEEN",
-   "DzZ1U4y6WyazymWDvnGDXexsvw8QBs18KRkTM591pump",
-   0.015,
-   9.2,
-   ""
-  ],
-  [
-   "AMMU",
-   "5SmoQy57T2GM7PPjHBHGsKN3bDwRUrhzsPc3nsmZpump",
-   0.013,
-   8.9,
-   ""
-  ],
-  [
-   "EXIT",
-   "DmG4DSKjLkN2EfB5pnkjeiwcWVNZ5bx3SfWmyJTqpump",
-   0.011,
-   9.9,
-   ""
-  ],
-  [
-   "RIVET",
-   "BYxqfm7ViwD7vywdqaHcU5rtM1gD1mkVdxV5tg1kpump",
-   0.009,
-   4.9,
+   6.4,
    ""
   ]
  ]
