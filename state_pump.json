@@ -5537,83 +5537,83 @@
    55.16
   ],
   [
-   "2026-10-29T06:14:22",
+   "2026-10-29T06:15:24",
    55.16
   ]
  ],
- "cycles": 1661,
+ "cycles": 1662,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.49307316800001,
- "watching": 166,
+ "sol_usd": 100.53322129299998,
+ "watching": 156,
  "near": [
   [
    "GOONER",
    "7e215FBxgyJgjPqEWjXyXoXC3cWkK6X7XWFRYusspump",
-   0.911,
-   4.3,
+   0.794,
+   5.4,
    ""
+  ],
+  [
+   "Peace",
+   "2XsndWNWR1ucv6WXjcquwML5HUFMquDkGiSKH7eYpump",
+   0.718,
+   2.8,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Neko",
+   "b9uu3aTx5ShWreX53X1JZY547xj7NmFJdwnR2ozpump",
+   0.667,
+   2.2,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "JUMP",
    "GhpFv8T1DcgFH2Wj7rMRxqjNHpWMQShVQEVdZDFzpump",
-   0.164,
-   3.7,
+   0.162,
+   4.7,
    "top5_hold_most=99%"
+  ],
+  [
+   "NEKO",
+   "6fdd4XvHZwFTVT9u6SMvikzbBoTCSd2dWaCDmtKT2mnA",
+   0.119,
+   2.4,
+   ""
   ],
   [
    "BUILDBID",
    "44e26H5AnAfvRPj7eXmfjP6we5Bob3s4gQsYsDNJpump",
    0.08,
-   4.3,
+   5.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "$BUNZOR",
    "54aYWkYRD6NKpbmy9VwJYutVLJV8NbXJCLuYmD6Lpump",
    0.064,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "Cat",
+   "74KbpguSmfa7y3X8V11vuxA2p1GNySCJrCWCDJQpump",
+   0.043,
+   2.2,
    ""
   ],
   [
    "ULTRACAT",
    "EFe8LFY8FWCUiXYKsJghTFmMaFRtLZjiPKXnET22pump",
-   0.044,
-   3.5,
+   0.043,
+   4.5,
    ""
   ],
   [
    "BANKFROG",
    "6PZF5NEHEQ9PAeFv8j7jcsMrjTVWKUUueCmGRVtFpump",
    0.043,
-   5.8,
-   ""
-  ],
-  [
-   "Salute",
-   "34muJaJckaiuZKXe5iktuAYJX3ZAW9MYoVG8sApXpump",
-   0.038,
-   3.8,
-   ""
-  ],
-  [
-   "PL",
-   "44s32SRTzf41F4SUopACkaDSZoUKfnRwnZKx1BGDZkxo",
-   0.028,
-   5.0,
-   ""
-  ],
-  [
-   "HISSCAP",
-   "gbHN29EgeoT7cdFe6sURvGy1J55XhPrKMM4zZHTpump",
-   0.026,
-   5.1,
-   ""
-  ],
-  [
-   "PILL",
-   "9NVfibPSY7hY98jQH3nDunQTjxW8inEypKgLdSq9pump",
-   0.017,
-   4.5,
+   6.9,
    ""
   ]
  ]
