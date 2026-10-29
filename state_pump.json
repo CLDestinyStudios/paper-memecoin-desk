@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 31.55385350229822,
+ "cash": 30.54385350229822,
  "positions": {
   "DDgdXmYseHsLMoGxvPv4L9cLwtJV5dUzFmY4Chwjpump": {
    "sym": "EXCHANGE",
@@ -13,10 +13,10 @@
    "entry_px": 6.02225566725056e-08,
    "entry_fill": 6.679296468840795e-08,
    "opened": 1793288454.128348,
-   "last_px": 9.222818533715995e-08,
+   "last_px": 9.257612787985762e-08,
    "peak_px": 1.8982409721213043e-07,
-   "last_val": 0.6392936101829971,
-   "last_prog": 0.608,
+   "last_val": 0.6412479965390417,
+   "last_prog": 0.609,
    "tp1_done": true,
    "realized": 0.19840459416484324
   },
@@ -29,10 +29,10 @@
    "entry_px": 7.942939907250695e-08,
    "entry_fill": 8.809236564535803e-08,
    "opened": 1793288753.6935158,
-   "last_px": 8.115050586068614e-08,
+   "last_px": 8.629017649954859e-08,
    "peak_px": 1.1172516905505777e-07,
-   "last_val": 0.8702295051790635,
-   "last_prog": 0.559
+   "last_val": 0.9276535821506408,
+   "last_prog": 0.583
   },
   "8fNrj8xAkuprP6cKLcTeZ2ECfxepnoqpDyh6pxLxpump": {
    "sym": "CLOAKD",
@@ -43,12 +43,26 @@
    "entry_px": 4.539708158804662e-08,
    "entry_fill": 5.0431074233439045e-08,
    "opened": 1793289842.776288,
-   "last_px": 5.899851460499303e-08,
+   "last_px": 4.9934292190003164e-08,
    "peak_px": 1.063721362177208e-07,
-   "last_val": 0.5162407449633483,
-   "last_prog": 0.422,
+   "last_val": 0.42860049312323806,
+   "last_prog": 0.341,
    "tp1_done": true,
    "realized": 0.18133701695755122
+  },
+  "Fqt79NM3P5T8j2M6xQYD13QHp9TpVAPBa9NoftFHpump": {
+   "sym": "HYPER",
+   "bc": "5YPMtgX81JLtiUf1HQDBHcRSfoYkDNH4xWxgEiRVrT9S",
+   "tokens": 139713.1954801941,
+   "cost": 1.01,
+   "cost0": 1.01,
+   "entry_px": 6.33205882447219e-08,
+   "entry_fill": 7.03862660051823e-08,
+   "opened": 1793290320.4686759,
+   "last_px": 6.33205882447219e-08,
+   "peak_px": 6.33205882447219e-08,
+   "last_val": 0.8098422398856526,
+   "last_prog": 0.454
   }
  },
  "traded": [
@@ -444,7 +458,8 @@
   "ph38uMHEs7GLWd4FgPtBwebBK1J9taoEVPphMRApump",
   "7wByfXDAw9K5LWzqusQJiiUL3dp4yJtkJCssmRGkpump",
   "RiY9tQAphG8xZs7o6oFvc8ELniJvEkknkdjuVE5PRUY",
-  "8fNrj8xAkuprP6cKLcTeZ2ECfxepnoqpDyh6pxLxpump"
+  "8fNrj8xAkuprP6cKLcTeZ2ECfxepnoqpDyh6pxLxpump",
+  "Fqt79NM3P5T8j2M6xQYD13QHp9TpVAPBa9NoftFHpump"
  ],
  "equity": [
   [
@@ -6306,82 +6321,86 @@
   [
    "2026-10-29T09:10:57",
    33.58
+  ],
+  [
+   "2026-10-29T09:12:00",
+   33.35
   ]
  ],
- "cycles": 1837,
+ "cycles": 1838,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.81034755600001,
- "watching": 375,
+ "sol_usd": 102.706048722,
+ "watching": 377,
  "near": [
-  [
-   "ELON",
-   "6t4yA7ffeeYKJU2a5N3ErRCctNMyzJ6dPGcC7L4tjzeM",
-   0.573,
-   7.2,
-   "top5_hold_most=87%; bundled_launch=4 extra buys in creation block"
-  ],
   [
    "MUSKCATT",
    "AHVuvs1ZJNJGTdkkB5heGGTMG9ocHpp34Ec38kCzpump",
    0.538,
-   5.9,
+   7.0,
    ""
   ],
   [
-   "MM",
-   "CJpP99LWzKs7UAGXmkf4imnANjTukDNhr9DB3Y6Ppump",
-   0.312,
-   9.5,
-   ""
+   "HYPER",
+   "Fqt79NM3P5T8j2M6xQYD13QHp9TpVAPBa9NoftFHpump",
+   0.454,
+   2.8,
+   "bought"
   ],
   [
    "OIL",
    "5jCaDgzEP25xg3pz8rzw8gGD8QRUZvGeemMWyz5spump",
-   0.269,
-   5.8,
+   0.267,
+   6.8,
    "top5_hold_most=86%"
   ],
   [
    "PEET",
    "G8px66qvS7aJpRK21S86NZuhMNntQSNLDL1PjxAHG9w1",
-   0.181,
-   8.0,
-   ""
-  ],
-  [
-   "ICECAT",
-   "A6t2GRq2jCSWvFeGgDrk4eV8oFvCHNASBCJmG6X7pump",
-   0.177,
-   5.3,
+   0.148,
+   9.0,
    ""
   ],
   [
    "CRAWLF",
    "Ga24RCpQrhA1rWvYaCST98yq9TPkaFSVyjMK6c5fpump",
    0.143,
-   3.2,
+   4.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "MERNERH",
-   "EGtkncwbjxkVTVgeG7Mzg9KsfB2yKjvpSnxt2d5qpump",
-   0.093,
-   9.3,
+   "ICECAT",
+   "A6t2GRq2jCSWvFeGgDrk4eV8oFvCHNASBCJmG6X7pump",
+   0.122,
+   6.3,
    ""
+  ],
+  [
+   "$TAMAGOTCH",
+   "552cYEkVYaRgueoBo2eRvDtB5dbGKfKk8vH7cYPFpump",
+   0.088,
+   8.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Nyota",
    "4ZeJwCkMZMSzxx7C9HCw4rQGqJ2gCqQ8PqkCCkmupump",
    0.087,
-   4.3,
+   5.4,
    ""
   ],
   [
    "UNSANTA",
    "EEeBpvGPuqBxS8ZBKUzJZ3T3Qm2mjsNV2xFHYPNmpump",
    0.076,
-   2.2,
+   3.2,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "REV",
+   "9N8fbc99dxsekbHMz4KSjiUAuGhWPJb2moz2osXgpump",
+   0.066,
+   7.7,
+   ""
   ]
  ]
 }
