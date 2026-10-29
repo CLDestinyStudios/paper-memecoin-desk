@@ -6362,83 +6362,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:52:55",
+   "2026-10-29T10:53:56",
    32.58
   ]
  ],
- "cycles": 1939,
+ "cycles": 1940,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.72000000000001,
- "watching": 327,
+ "sol_usd": 100.74386697300001,
+ "watching": 307,
  "near": [
   [
    "pulymerket",
    "3y8Re2Lchr4Q92smmRSg6w3KwTKWrYZDGbfHQcWepump",
-   0.973,
-   3.6,
-   ""
+   1.0,
+   4.7,
+   "graduated"
   ],
   [
    "pulymerket",
    "DJBpBpFJ87LNbVBTXTjSvLGzeVmyzQzJvtPjqMqzN5qD",
-   0.767,
-   4.1,
+   0.492,
+   5.1,
    ""
   ],
   [
-   "HYPEX",
-   "HqXVcyHuEipupZ19tEm3Z1gcwhSf2C2nVhk2b3FoapB4",
-   0.472,
-   4.7,
-   "bundled_launch=3 extra buys in creation block"
+   "PUMPL",
+   "BQxUZes3PTPLFdNHjv2YghZjVKxiy59HRHUffRxzsGNV",
+   0.384,
+   2.4,
+   ""
+  ],
+  [
+   "Hal",
+   "DNHw1TZ2YP8Qxt2AauDYPH3zDTQhbzLhsQu9YeMFpump",
+   0.227,
+   2.4,
+   ""
   ],
   [
    "LADYBILL",
    "EzXEA9Ht2MyA4TzqWq6aqVxNioNavWmWdqd1Ngj8pump",
    0.153,
-   7.3,
+   8.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "pulymerket",
-   "GUieb4RF8gnsjovoEWmLzND3k8BycTSiLXEW8qY4pump",
-   0.107,
-   4.2,
-   ""
+   "DERP",
+   "8r3ZGjize1PvtTHxnefcJDuoFM9Jeo8s95UWPpWvpump",
+   0.103,
+   2.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "JFB",
-   "3nhjL2aZ6DhWcMjJqX9QXqnhp6prAnfj2g924AgSpump",
-   0.088,
-   6.9,
-   "buyers=4; top5_hold_most=100%"
+   "ponzimarket",
+   "GUXZZcQjvMcC94bnbg6CE9uxY9A9C31iqkNqLmopump",
+   0.099,
+   2.5,
+   ""
   ],
   [
    "UER",
    "EgdFwEXGhtQaSEC43H5hq5rg8pQBgHy1kdP3bDQ8pump",
    0.084,
-   3.9,
+   4.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "HSHIB",
-   "7XVotkNyrtQ2rrhWQjtBksPmS1AeaTiD5UuKs52mpump",
-   0.052,
-   4.5,
-   "buyers=2; top5_hold_most=100%"
+   "JFB",
+   "3nhjL2aZ6DhWcMjJqX9QXqnhp6prAnfj2g924AgSpump",
+   0.082,
+   8.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "UNRUGGABLE",
-   "6J74byhS4ub7ufeke1vF8DkDoXoxAe2ztyHtuaNnpump",
-   0.049,
-   4.9,
-   ""
-  ],
-  [
-   "STAN",
-   "8hz4YFUWYyoiEbs5oufakVvemu6hBMTvcYGndq5avcc",
-   0.042,
-   2.7,
+   "TRANNIE",
+   "CqA5yvheGLbd1SpY9Z9Wu66rwL46FPoabcUT4UPMJVyD",
+   0.063,
+   2.1,
    ""
   ]
  ]
