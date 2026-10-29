@@ -3460,84 +3460,84 @@
    117.47
   ],
   [
-   "2026-10-28T17:56:04",
+   "2026-10-28T17:57:05",
    117.47
   ]
  ],
- "cycles": 923,
+ "cycles": 924,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.83600000000001,
- "watching": 371,
+ "sol_usd": 101.8297534555,
+ "watching": 381,
  "near": [
   [
    "PVE",
    "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
-   0.704,
-   4.8,
+   0.849,
+   5.8,
    ""
   ],
   [
    "PVE",
    "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
-   0.698,
-   4.5,
+   0.627,
+   5.6,
    ""
-  ],
-  [
-   "PVE",
-   "4zpRkgErTMTHE7XyAPuwY9VdrMXU5RCVz5wMqAP5pump",
-   0.42,
-   4.8,
-   "serial_creator=13 launches/24h"
-  ],
-  [
-   "GTA",
-   "HCAp4PjrWKySdbFUTq2XwCpmKcspuaawDjFzbmMBpump",
-   0.275,
-   10.2,
-   "top5_hold_most=88%"
   ],
   [
    "UPVOTE",
    "574P9b4gp7nPe7oLcRs8jYxpPZmn3PjbHJaYVRx3pump",
-   0.223,
-   3.4,
-   "top5_hold_most=94%"
+   0.248,
+   4.4,
+   "top5_hold_most=90%"
+  ],
+  [
+   "EMERGENCY",
+   "7ZMwuamboGpE5a8WGfVmWCVXhcebWjYtLdXKByXspump",
+   0.216,
+   3.5,
+   "top5_hold_most=81%; launch_slot=missing"
   ],
   [
    "GHOST",
    "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
    0.18,
-   4.6,
+   5.6,
    "buyers=6; top5_hold_most=99%; launch_slot=missing"
-  ],
-  [
-   "BNLK",
-   "H2aBGrkSuSYm99cUHtD1SyqpsUJgVFoybYLYxsh1pump",
-   0.161,
-   9.9,
-   "buyers=6; top5_hold_most=98%"
   ],
   [
    "PVE",
    "AAeGmNxczwAwEjhhYEBdVuZ9wTQNiPBZdocTy9RJpump",
    0.09,
-   3.8,
+   4.8,
    ""
   ],
   [
    "PVE",
    "D2e1a5aX63tzwd8WsUFsL89u7oystie9n62uG8mqUEjS",
    0.082,
-   4.0,
+   5.0,
    ""
   ],
   [
    "PVE",
    "2NqEWyAHo8GkJNnoFNGn1yBHcW3KY8s6vyLcu9Akpump",
    0.081,
-   3.7,
+   4.7,
    ""
+  ],
+  [
+   "trencher",
+   "GocQbw1NkTJbymFaWjKnw3CuBSQpnFyUF9vQdS9Hpump",
+   0.077,
+   8.3,
+   "top5_hold_most=95%"
+  ],
+  [
+   "SOLdiers",
+   "AgYbmUitpZkR3WVedDh6jfuWVkToNYBb54DautMepump",
+   0.07,
+   3.8,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
