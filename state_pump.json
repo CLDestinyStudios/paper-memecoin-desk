@@ -13,10 +13,10 @@
    "entry_px": 7.813507584991298e-08,
    "entry_fill": 8.52666050811702e-08,
    "opened": 1793282453.9495773,
-   "last_px": 9.757300096546978e-08,
+   "last_px": 9.808609313097405e-08,
    "peak_px": 1.0176286885671271e-07,
-   "last_val": 1.6184959786987565,
-   "last_prog": 0.629
+   "last_val": 1.6252512921267517,
+   "last_prog": 0.631
   },
   "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump": {
    "sym": "DogBoy",
@@ -27,10 +27,10 @@
    "entry_px": 5.257128747104219e-08,
    "entry_fill": 5.7399492248563355e-08,
    "opened": 1793283417.2122974,
-   "last_px": 1.0662616037032388e-07,
+   "last_px": 1.0742549080308172e-07,
    "peak_px": 1.360486237351691e-07,
-   "last_val": 1.2860774139446123,
-   "last_prog": 0.66,
+   "last_val": 1.2944886884895095,
+   "last_prog": 0.663,
    "tp1_done": true,
    "realized": 0.4171173148812155
   },
@@ -43,10 +43,10 @@
    "entry_px": 6.078159921800983e-08,
    "entry_fill": 6.65730524936855e-08,
    "opened": 1793284763.417196,
-   "last_px": 5.695507296545413e-08,
+   "last_px": 5.518669265404288e-08,
    "peak_px": 6.078159921800983e-08,
-   "last_val": 1.076750116658139,
-   "last_prog": 0.405
+   "last_val": 1.0404467355007239,
+   "last_prog": 0.39
   },
   "8d8RBDjyXeSq8WyXpD8jJr2ce9rBAS5UvxPGVybSpump": {
    "sym": "ZELVIAN",
@@ -57,10 +57,10 @@
    "entry_px": 5.327167673559085e-08,
    "entry_fill": 5.841532010593303e-08,
    "opened": 1793284815.9940975,
-   "last_px": 5.327167673559085e-08,
-   "peak_px": 5.327167673559085e-08,
-   "last_val": 1.1158229011993899,
-   "last_prog": 0.373
+   "last_px": 5.558463894317586e-08,
+   "peak_px": 5.558463894317586e-08,
+   "last_val": 1.1650247946774401,
+   "last_prog": 0.393
   }
  },
  "traded": [
@@ -5944,82 +5944,86 @@
   [
    "2026-10-29T07:40:15",
    44.73
+  ],
+  [
+   "2026-10-29T07:40:51",
+   44.76
   ]
  ],
- "cycles": 1746,
+ "cycles": 1747,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.892901858,
- "watching": 273,
+ "sol_usd": 101.76628233088857,
+ "watching": 262,
  "near": [
   [
    "DEADGUY",
    "FGGwUpqPHTxwLDdtoY37KBJ6tQxfY5N1JLTXEs2ppump",
-   0.736,
-   3.1,
+   0.709,
+   3.7,
    "top10=46.5%"
-  ],
-  [
-   "SI",
-   "EviTiE2KMLHXBJwcKGognmT6iSH3B6QMfzRmoBgNpump",
-   0.558,
-   2.5,
-   "serial_creator=7 launches/24h"
-  ],
-  [
-   "ZELVIAN",
-   "8d8RBDjyXeSq8WyXpD8jJr2ce9rBAS5UvxPGVybSpump",
-   0.373,
-   9.3,
-   "bought"
   ],
   [
    "STRATUM",
    "3j3PgDdVWxM5ZiUpo3MBBC5yYDQ7BdvHK3wwXBktpump",
-   0.12,
-   6.3,
+   0.084,
+   6.9,
    ""
-  ],
-  [
-   "HAPYMICHI",
-   "Cm4dDLahaXpG41Y3qLzu1PJpuhs8EPrmbETiQ4Ujpump",
-   0.115,
-   4.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Multi cat",
-   "HGD9rirsJKA9Xjwd55UMc7bV7ddNQLjztteAQiSypump",
-   0.113,
-   5.2,
-   "top5_hold_most=94%"
-  ],
-  [
-   "marshall coi",
-   "AcG2KxG87rv2Cpj6yGdrFyYozXfWhijUeRkWuzr2pump",
-   0.097,
-   2.7,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "AI",
    "5Cq7WgUvtb6UnTunPypeSuLVcjFsw4dSXdrTyAG8pump",
    0.083,
-   4.1,
+   4.7,
    ""
+  ],
+  [
+   "marshall coi",
+   "AcG2KxG87rv2Cpj6yGdrFyYozXfWhijUeRkWuzr2pump",
+   0.083,
+   3.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "CATLANA",
    "5TTsvKFycoTdkmxdA92SiDanMDG9yiNa6L2Bduzbpump",
-   0.083,
-   2.7,
+   0.081,
+   3.3,
    "buyers=7; top5_hold_most=99%"
   ],
   [
    "TMTK",
    "E4fDznotbC3gWS7BAqTRsmjVrzbKrEEau7R8WmyApump",
    0.073,
-   4.7,
+   5.3,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "LLRA",
+   "3GJBrDHqaK2uJHdUuhaQpxvoMacMi8NeCYSpunP5pump",
+   0.07,
+   3.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "PIDGECOIN",
+   "Fpx2FXaQuEWTAKeqsVhPwbw5CiXoEnRZttvccs7qpump",
+   0.07,
+   4.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HAPYMICHI",
+   "Cm4dDLahaXpG41Y3qLzu1PJpuhs8EPrmbETiQ4Ujpump",
+   0.045,
+   4.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "neko",
+   "ANF27twnaWbPfRRLETfbZVpZ41XUAkJPrTkBgq5Kpump",
+   0.028,
+   2.8,
+   ""
   ]
  ]
 }
