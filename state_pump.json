@@ -13,10 +13,10 @@
    "entry_px": 3.7548993129400736e-08,
    "entry_fill": 4.026826840100282e-08,
    "opened": 1793244607.7312348,
-   "last_px": 3.7548993129400736e-08,
-   "peak_px": 3.7548993129400736e-08,
-   "last_val": 2.7853969869887085,
-   "last_prog": 0.185
+   "last_px": 3.776099436459969e-08,
+   "peak_px": 3.776099436459969e-08,
+   "last_val": 2.800867236640164,
+   "last_prog": 0.189
   }
  },
  "traded": [
@@ -3943,81 +3943,85 @@
   [
    "2026-10-28T20:30:07",
    106.56
+  ],
+  [
+   "2026-10-28T20:31:08",
+   106.57
   ]
  ],
- "cycles": 1077,
+ "cycles": 1078,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.46575934885,
- "watching": 204,
+ "sol_usd": 99.44694434880002,
+ "watching": 200,
  "near": [
   [
    "ELON",
    "9bszpayvohAUPbZkMxhrswxurirdXH5C8E9d29VDjzXx",
-   0.368,
-   4.1,
+   0.29,
+   5.1,
    ""
-  ],
-  [
-   "ELON",
-   "9fC4TcEXDRpwynwmf19GXK7zCXdkbB36MEYBpnXApump",
-   0.189,
-   2.6,
-   "serial_creator=7 launches/24h"
-  ],
-  [
-   "DUWO",
-   "415XC5JBy4qZcAFGtozb3UFxAADL5XrB1YVEAcYMpump",
-   0.185,
-   3.2,
-   "bought"
   ],
   [
    "CALLOUT",
    "BT7TnDCjzM5yed7rADgqVZ3vRqrrSm97rm4DCT4spump",
    0.144,
-   4.2,
+   5.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "ELON",
    "2HENW2hN8GgVFpwhy744wYyeypT6nkp7uxcmQ5dzpump",
-   0.097,
-   2.4,
+   0.089,
+   3.4,
    ""
   ],
   [
-   "MHGA",
-   "3dkfKXUnr7ypXdQPtsV8gu6AnbMBcjV81dqYywvKpump",
-   0.065,
-   2.2,
-   "buyers=8; top5_hold_most=98%"
-  ],
-  [
-   "NPC",
-   "AAR4mi8LCSEEQBUztRZUDCFLeEkM9Sowfi1vsJWXpump",
-   0.063,
-   7.2,
+   "AMERICA",
+   "EANLsfxGMdP6UpLs6GcKTDg6AGUmk6WC8phT7Y3Bpump",
+   0.061,
+   2.9,
    ""
   ],
   [
    "STU",
    "Hh3dTwY7a8r2NCHvgjqYxm7v9GFaPTrp2rsGfXUcpump",
-   0.047,
-   7.1,
-   ""
-  ],
-  [
-   "Quarry",
-   "7ADRDuAtAEsVWsiKmeqgy8K8FrTXrA3jjSDPM5BHpump",
-   0.039,
-   3.0,
+   0.04,
+   8.2,
    ""
   ],
   [
    "America",
    "CaJDbcQQoHgeXz3mbu7wkVACLmVjSCUkaz38nQvcpump",
    0.032,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "NEKO",
+   "ACgJgKFuEtvC3fjjRwwHesd3ycW5FtP1xSeKfoyhpump",
+   0.03,
+   3.1,
+   ""
+  ],
+  [
+   "Quarry",
+   "7ADRDuAtAEsVWsiKmeqgy8K8FrTXrA3jjSDPM5BHpump",
+   0.023,
+   4.0,
+   ""
+  ],
+  [
+   "UOF",
+   "7oCRNofYp72cYhopL6FZA29ohRjJASeKgQmBzRoUpump",
+   0.022,
+   7.7,
+   ""
+  ],
+  [
+   "RECEIPT",
+   "HWFREgsMoay4Ki4UjFDW6whuEdU9k5TdFEWn6a8rpump",
+   0.021,
+   2.2,
    ""
   ]
  ]
