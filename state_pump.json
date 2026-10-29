@@ -13,10 +13,10 @@
    "entry_px": 6.16778647967548e-08,
    "entry_fill": 6.599456412859896e-08,
    "opened": 1793238721.834229,
-   "last_px": 6.311994148249764e-08,
+   "last_px": 5.4799200860330025e-08,
    "peak_px": 6.311994148249764e-08,
-   "last_val": 3.345186937537837,
-   "last_prog": 0.452
+   "last_val": 2.9007485198904512,
+   "last_prog": 0.387
   }
  },
  "traded": [
@@ -3656,81 +3656,85 @@
   [
    "2026-10-28T18:53:17",
    124.44
+  ],
+  [
+   "2026-10-28T18:54:03",
+   124.0
   ]
  ],
- "cycles": 980,
+ "cycles": 981,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9629086629,
- "watching": 267,
+ "sol_usd": 100.065270246,
+ "watching": 264,
  "near": [
   [
-   "Seed",
-   "3j1LrHLgHTr2nrZgKPYh47VG4EMvZ1Xmqbef6B5Xpump",
-   0.776,
-   9.7,
-   "launch_slot=missing"
+   "PEPEYE",
+   "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
+   0.272,
+   6.6,
+   "top5_hold_most=92%; launch_slot=missing"
   ],
   [
    "BAJRANGI",
    "8b1QBg6AqPHb9Ug6zDyrwZB77whth42ECyaJgbykpump",
    0.258,
-   7.0,
+   7.7,
    "top5_hold_most=86%"
   ],
   [
    "GHOST",
    "JAecrtGseba9pnLFAti47qc4KZkLpLc9HfJTR4gWmYQ",
    0.154,
-   6.1,
+   6.8,
    "top5_hold_most=99%"
   ],
   [
    "HALOPAD",
    "B5dJfk6e6fnidagyhqKMZjjSdW36AkZ4C3sJmaiMpump",
-   0.127,
-   2.8,
-   "buyers=7; top5_hold_most=99%; launch_slot=missing"
-  ],
-  [
-   "PEPEYE",
-   "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
-   0.123,
-   5.8,
-   "top5_hold_most=92%; launch_slot=missing"
+   0.125,
+   3.6,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "FI",
    "26gQhcwfcxpauRaPgT6QAgPgae8TMyA3k4n7hohCXggZ",
    0.098,
-   9.1,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
+   9.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PERRO",
    "8Nt16W1fMVif6tETmMFVNpGTTesp3FbNFpiquKT7pump",
    0.067,
-   4.9,
+   5.7,
    ""
   ],
   [
    "GGOD",
    "8tKQB3PCVVWgpAXbbQ7t57uPufHqufiRZKit35xipump",
    0.055,
-   6.9,
+   7.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "COACH",
    "78cti5NjDXGN52wt3wu5uj1hWgB93nwsoaxb9wnhpump",
    0.046,
-   8.1,
+   8.8,
    ""
   ],
   [
-   "spacecat",
-   "45A8XrFdh26a5KzNHYZxoZemVyxjbLYymucKfE8Ypump",
+   "LOOPD",
+   "258nGUiTZg6zQodh31Cw76cTF1bc5k3VZAVr7n2Wpump",
    0.042,
-   6.3,
+   3.7,
+   ""
+  ],
+  [
+   "BLACKTOBER",
+   "D4hUSeTZyxSgUPFKwnf96B1z4nL2DFSdoUEbuwNXpump",
+   0.031,
+   4.4,
    ""
   ]
  ]
