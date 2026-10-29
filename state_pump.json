@@ -6462,83 +6462,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:42:10",
+   "2026-10-29T14:43:03",
    32.58
   ]
  ],
- "cycles": 2168,
+ "cycles": 2169,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.48728868739998,
- "watching": 327,
+ "sol_usd": 97.38999999999999,
+ "watching": 340,
  "near": [
   [
    "Cyber",
    "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump",
-   0.926,
-   3.7,
+   0.979,
+   4.6,
    ""
   ],
   [
-   "BLOCK",
-   "Dn92rPP9oocDfMDfm8J3WriNhQkjaaFmUwySgdWULtS3",
-   0.42,
-   3.0,
+   "Cyber",
+   "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
+   0.808,
+   2.2,
    ""
+  ],
+  [
+   "HI",
+   "DnwdZVJ4Do5BevocjrRRpFqoos2bptT9mxNgMSZ5pump",
+   0.771,
+   2.2,
+   ""
+  ],
+  [
+   "HI",
+   "HBD7DGsdCqmDkbUmwBwWEnxrHDybTzHyjtTpszGGpump",
+   0.723,
+   2.3,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "CSI",
    "5eg61x17hcq1nNg1CrREbot5ii9PZ7QX6KiUDkpqpump",
-   0.389,
-   4.7,
+   0.299,
+   5.6,
    ""
-  ],
-  [
-   "Hackoor",
-   "7eSDUHWbMYDv2FPF3BXcBrmGE7svKsdDTxzVQq1Dpump",
-   0.119,
-   4.0,
-   ""
-  ],
-  [
-   "Hack",
-   "Byh11yTSPtYqAChJv3eaNjpTLVyWLbb7gYcrQw2bpump",
-   0.107,
-   6.9,
-   "buyers=8; top5_hold_most=99%"
   ],
   [
    "CSI",
    "6qRgKi1KzdknadpCRoyc5siDhSkiUKUs926ZMJD7pump",
-   0.096,
-   2.6,
-   "top5_hold_most=99%"
+   0.224,
+   3.5,
+   "top5_hold_most=94%"
   ],
   [
-   "Kooncoin",
-   "BK7EFeujnhbU9aZVPsfBYhGiUrkVLr88kJskDRRjpump",
-   0.089,
-   7.3,
-   "buyers=2; top5_hold_most=100%"
+   "safu",
+   "4yGXKiS9XwqGAcqn6yTyYzFZhT9nzwQeBsEELpf9pump",
+   0.167,
+   2.5,
+   "buyers=8; top5_hold_most=90%"
+  ],
+  [
+   "ABYSS",
+   "6f1CUnKYLGymFXWaMGrR6QMdkZ6XodeJC4s4PGSQpump",
+   0.111,
+   2.7,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BLOCK",
+   "Dn92rPP9oocDfMDfm8J3WriNhQkjaaFmUwySgdWULtS3",
+   0.073,
+   3.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "OPSEC",
    "BDzUrLX89PjwD34d3sgVbgfdzS4yXMFpYSP4ALB5pump",
    0.073,
-   9.0,
-   ""
-  ],
-  [
-   "PAOLO",
-   "EhkQ6dcgWV6mpZuzDAC3Fa9zjtJhw86uLqEXR2NmMZo6",
-   0.064,
-   9.4,
-   ""
-  ],
-  [
-   "CSI",
-   "CkDd4pGzyNgPTXP2D8UGkx5PnqDJohqCitz3uyUoudqu",
-   0.064,
-   3.1,
+   9.9,
    ""
   ]
  ]
