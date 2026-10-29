@@ -6446,83 +6446,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:02:06",
+   "2026-10-29T14:03:08",
    32.58
   ]
  ],
- "cycles": 2128,
+ "cycles": 2129,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.3187997278,
- "watching": 302,
+ "sol_usd": 96.19,
+ "watching": 306,
  "near": [
+  [
+   "ORBI",
+   "EvczWwNBvYNrP6gUbzMPXdwhDAN7ReHs58cT1SECpump",
+   0.622,
+   2.3,
+   "buyers=6; creator=48.4%; top10=49.3%; top5_hold_most=100%"
+  ],
+  [
+   "CANDLE",
+   "8Y2FwdLWctsyeSCc7ehFTe6cMxDhWcvKXwhoyFu9ggw8",
+   0.545,
+   2.8,
+   ""
+  ],
   [
    "Drip",
    "FEcVLGn8A7EMg8PVbo8HwP6VRfcFFpRv7ih3cRLhpump",
-   0.391,
-   4.7,
+   0.387,
+   5.7,
    ""
   ],
   [
    "HYPERASK",
    "3GAuxV8dcKMV5wwLyPZj5Q5KvJpzbqj7Z1rA4oo5e88E",
    0.305,
-   7.0,
+   8.0,
+   ""
+  ],
+  [
+   "PUMPPAIR",
+   "CUG5xQD6Q3ficZTZPqhqHMqokRUuFoiLiiHhubPwTQMV",
+   0.248,
+   3.0,
+   ""
+  ],
+  [
+   "MANDATE",
+   "HT7LSgKTNH85zbTh7cef3PfcfG6hPjfmEfgCs6zJpump",
+   0.214,
+   2.9,
    ""
   ],
   [
    "CYBER",
    "5UfGdz4QMYyqD1FeeTYKD6kxyokPLFxsPAEUqiiJpump",
    0.187,
-   7.9,
+   8.9,
    "buyers=6; top5_hold_most=94%"
   ],
   [
-   "SI",
-   "Egqx8zm2fxa13stjTJ2HkQZSWa2ZKVM6JTbv1VM3djgS",
-   0.105,
-   3.2,
+   "RED",
+   "BoaW7CZQojruYQVvhamr4ud9N7dqXhYGY46C8pCipump",
+   0.139,
+   2.2,
    ""
   ],
   [
-   "offchain",
-   "3RYeNfQeogkxqHWP6jF9NTCEk3d7gT3qSP63xYyCpump",
-   0.102,
-   8.7,
-   ""
+   "THW",
+   "GchJ7cEHc3tvcbWt4TgCfMtqYkLhCFELrzpMavPBpump",
+   0.119,
+   2.3,
+   "top5_hold_most=95%"
   ],
   [
-   "WOFL",
-   "CcfPHEdP8vrN26Xi8VdGxytMBcQJWsMV56N6ah6Npump",
-   0.083,
-   3.6,
-   ""
-  ],
-  [
-   "imtired",
-   "46e1LyBSwfUVY6pr3tkekDF66PYmpjZKsKr4mY6fpump",
-   0.073,
-   8.2,
-   ""
-  ],
-  [
-   "BNC",
-   "puEpNudZZVpMvJKcY9SdE4E931W8ZYmuCHVSacmpump",
-   0.072,
-   2.8,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "FTX2.0",
-   "5qTBm6SXbrT76nRpu6Jtgtq1eU4CeCTknsXQRe3Wpump",
-   0.072,
-   6.7,
-   ""
-  ],
-  [
-   "offchain",
-   "HLHDJub577EXChGXrAjxzH1p2NRYz6sX2gMDcyyfpump",
-   0.072,
-   9.1,
+   "RED",
+   "5dbMjSQ36dVUq4Qv1UfNRFM7NhRsP9ZBauE3A1Z2pump",
+   0.112,
+   2.6,
    ""
   ]
  ]
