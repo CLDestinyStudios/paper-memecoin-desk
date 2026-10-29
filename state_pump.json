@@ -13,10 +13,10 @@
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 5.965123613105583e-08,
+   "last_px": 5.636412404247106e-08,
    "peak_px": 5.969221612538378e-08,
-   "last_val": 2.2001696331604275,
-   "last_prog": 0.427,
+   "last_val": 2.075721833043098,
+   "last_prog": 0.4,
    "tp1_done": true,
    "realized": 0.5013267413787641
   }
@@ -3565,81 +3565,85 @@
   [
    "2026-10-28T18:23:49",
    114.32
+  ],
+  [
+   "2026-10-28T18:24:50",
+   114.2
   ]
  ],
- "cycles": 951,
+ "cycles": 952,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.44390482300001,
- "watching": 220,
+ "sol_usd": 101.422259084,
+ "watching": 233,
  "near": [
-  [
-   "INTERN",
-   "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-   1.0,
-   9.9,
-   "graduated"
-  ],
   [
    "michael",
    "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
    0.896,
-   3.7,
+   4.7,
    ""
+  ],
+  [
+   "SLEGO",
+   "8sksfMx1FTyWsaPjBqpqLEPeQQuA2gABdCCDmVjFpump",
+   0.329,
+   2.4,
+   "creator=16.4%; top5_hold_most=93%"
   ],
   [
    "POKE",
    "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
-   0.245,
-   4.9,
-   "top5_hold_most=93%"
+   0.254,
+   6.0,
+   "top5_hold_most=90%"
   ],
   [
    "PANICPUG",
    "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
    0.194,
-   8.4,
-   "buyers=8; creator=15.2%; top5_hold_most=100%"
+   9.5,
+   "creator=15.2%; top5_hold_most=99%"
   ],
   [
    "FLIP",
    "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
    0.125,
-   5.2,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "TIMMY",
    "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
-   0.089,
-   2.3,
+   0.093,
+   3.4,
    ""
-  ],
-  [
-   "Milo&Pixie",
-   "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
-   0.053,
-   9.5,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "YUGE",
    "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
    0.044,
-   5.6,
+   6.6,
    ""
   ],
   [
    "Walkoor",
    "781s7EMGQ84DJ2EmkgC7RbSK8dJKC2jX1V4YRhLzpump",
    0.028,
-   2.8,
+   3.8,
    ""
   ],
   [
-   "PVE",
-   "8iD9QfJifGdWkbqhYwBs8c27JactJUb8NGo3Pidkpump",
-   0.025,
-   6.2,
+   "WOFL",
+   "32KgYocqNQruLgoLRoLSAXsCrQhkCxpYkjJLinESpump",
+   0.027,
+   2.7,
+   ""
+  ],
+  [
+   "PROLAPSE",
+   "7RFiXZtvMisBCajLrFfhVsfNCcshNffYA8rjAEf3pump",
+   0.027,
+   2.1,
    ""
   ]
  ]
