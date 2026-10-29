@@ -4714,83 +4714,83 @@
    69.82
   ],
   [
-   "2026-10-29T02:05:21",
+   "2026-10-29T02:06:21",
    69.82
   ]
  ],
- "cycles": 1412,
+ "cycles": 1413,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.17790684099998,
+ "sol_usd": 100.22,
  "watching": 116,
  "near": [
   [
+   "Marmot",
+   "ETNAG5j6PkAqmG7cqSNCYunvMrjBxFUVcyiA2F1hAtUW",
+   0.489,
+   2.0,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
    "Sora",
    "8rZ2spNhiia964xoaxiY7mS9WQqtvU7aocvDsnSJpump",
-   0.197,
-   3.8,
+   0.142,
+   4.8,
    ""
   ],
   [
    "POLICE",
    "9XdBMYV2VgNMQaYh3SUhxujmbZTHnbBTeGuKfYjopump",
-   0.114,
-   8.0,
-   "buyers=9; top5_hold_most=90%"
+   0.133,
+   9.0,
+   "buyers=9; top5_hold_most=87%"
+  ],
+  [
+   "DUB",
+   "8LrS14uN6UysoHkpGsCzugubtnEhnEGBL2w4wFEV5vXG",
+   0.111,
+   2.3,
+   ""
   ],
   [
    "luck",
    "J3idAZRE9LxzigQS5CwFyRSVRjMH4S5RAUoYoXytBY7J",
    0.087,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "SIRIUS",
-   "G9o9n7jcoSb1xzrC16oMVo1hhxj8cmP7fvHSCZfYpump",
-   0.076,
-   9.7,
-   "buyers=4; top5_hold_most=100%"
+   "Mr. Ash",
+   "4MZxEJyfdXowQFBSYCYBPUksX8A8rYe9iq1LMKRVpump",
+   0.083,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "LESCAR",
    "CWGqvkck7Do4LgouXHnjZ2qswWm9ErGmf2YiQ7Kmpump",
    0.055,
-   2.9,
+   3.9,
    ""
-  ],
-  [
-   "GL",
-   "7EoboMPnrF9jZ2reaWogbQyWHVfSyNvK8Q4c4eorpump",
-   0.049,
-   3.1,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "GREMLIN",
    "9YejnLLhkYbiQGxyhFTtiaB1yJgytqcRoXg4dDmaNxbs",
    0.038,
-   2.3,
+   3.3,
    ""
   ],
   [
    "Mewkin",
    "DyUhNV2qpyakopyeEP8PLfCu5CrE118GEn3wRRkbpump",
    0.034,
-   3.7,
+   4.7,
    ""
   ],
   [
    "MEAT",
    "FbNkXc26iKX12jAyYeczSDgXPXau1nHDAy2ZsPuDpump",
    0.024,
-   5.4,
-   ""
-  ],
-  [
-   "AC",
-   "9R2U4fB9QLsFexpbuMeXH8ifFdBEAQLKyrKDLX33pump",
-   0.022,
-   4.8,
+   6.4,
    ""
   ]
  ]
