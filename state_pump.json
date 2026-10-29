@@ -2,22 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 79.55414325578239,
+ "cash": 81.44496900850098,
  "positions": {
-  "6MGXhgWnR3SiCf5P275yWoUsSXjqFj51YPSC3taBpump": {
-   "sym": "NEKO",
-   "bc": "51YBcJREp4cQs7VZA4YLH7LrMbz3GQQ3VigzKmReBQ92",
-   "tokens": 404278.8214339828,
-   "cost": 2.62,
-   "cost0": 2.62,
-   "entry_px": 5.992804462291747e-08,
-   "entry_fill": 6.448835139674546e-08,
-   "opened": 1793251986.6136727,
-   "last_px": 5.334369100378579e-08,
-   "peak_px": 6.791093615561529e-08,
-   "last_val": 2.0035334295366733,
-   "last_prog": 0.373
-  },
   "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump": {
    "sym": "BITE",
    "bc": "FDqgAT9RXbdDwngWvwTt8FqTRHr5HxQyEjRZNqzXcxJu",
@@ -29,7 +15,7 @@
    "opened": 1793252106.096096,
    "last_px": 3.8776214329495014e-08,
    "peak_px": 3.890070811186877e-08,
-   "last_val": 2.3783328941145974,
+   "last_val": 2.379083051128476,
    "last_prog": 0.204
   },
   "aaZ7R8K4PBXduMx3erRSfRPu6gmFW8bbB8i4ApGHuNp": {
@@ -41,10 +27,10 @@
    "entry_px": 5.629393869323307e-08,
    "entry_fill": 6.058799959348837e-08,
    "opened": 1793252287.9717305,
-   "last_px": 7.338236113744867e-08,
-   "peak_px": 7.338236113744867e-08,
-   "last_val": 2.932676317179394,
-   "last_prog": 0.518
+   "last_px": 7.893127487483902e-08,
+   "peak_px": 7.893127487483902e-08,
+   "last_val": 3.15915441059376,
+   "last_prog": 0.548
   }
  },
  "traded": [
@@ -4270,81 +4256,85 @@
   [
    "2026-10-28T22:39:05",
    86.87
+  ],
+  [
+   "2026-10-28T22:40:05",
+   86.98
   ]
  ],
- "cycles": 1206,
+ "cycles": 1207,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.51,
- "watching": 176,
+ "sol_usd": 100.54170215643552,
+ "watching": 196,
  "near": [
+  [
+   "WALERT",
+   "7nammcvTRYs234gTk9XT5VnmYYh1nJcugKugwVzipump",
+   0.231,
+   2.0,
+   "bundled_launch=6 extra buys in creation block"
+  ],
   [
    "ZAZU",
    "GvDMYhdQJ9sPRBN6znGcavicMXUnDqgepNQNyhEpump",
    0.128,
-   2.1,
+   3.1,
    ""
-  ],
-  [
-   "spermy",
-   "3U6EZdNLKEwHogXEfheu6xh2TnnU5iFT5NS7fri7pump",
-   0.093,
-   4.2,
-   ""
-  ],
-  [
-   "cummies",
-   "P2HBwHbLxhNLMZsZjdkaT4FoaMXVucXsSJGYafCpump",
-   0.084,
-   2.3,
-   "buyers=7; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "GCAT",
    "6pM9iz9B2yurZMApaUWMrh8Bvap5DWQRASQuGz3YAWMt",
    0.083,
-   3.1,
+   4.1,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Nutcoin",
-   "ArUseh3pSyQ2J2Hjoh6knDXMVQrj7KDLVm2QWJuwpump",
-   0.077,
-   2.1,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "\u02e2\u1d50\u1d52\u02e1",
    "6Ar6oJSSX5PgCYCiUbGfzZDxpsNR9n5wWDSgSUsMpump",
    0.073,
-   2.5,
+   3.5,
+   ""
+  ],
+  [
+   "Nutcoin",
+   "ArUseh3pSyQ2J2Hjoh6knDXMVQrj7KDLVm2QWJuwpump",
+   0.033,
+   3.1,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "PANF",
+   "5LXtsFaHb1dgCj57GPWaNTw9r9qBbJPFL3H45auspump",
+   0.033,
+   2.2,
+   ""
+  ],
+  [
+   "KEN",
+   "3rzt9sxoL6xAFTYvwH4dgJRqpjvoWDfBjsmk42S8pump",
+   0.024,
+   4.2,
    ""
   ],
   [
    "AI",
    "uXUxD9cjhHU4EtCQdgMfTSFWfKZnn168n4H1j6Apump",
    0.023,
-   8.2,
-   ""
-  ],
-  [
-   "SLEGO",
-   "9XhCTgQzFpTSDbqbF6sJqUfVA8b76YxVB59DATUepump",
-   0.023,
-   9.0,
+   9.2,
    ""
   ],
   [
    "SLEGO",
    "2szTQaE4vNTNk5rL7DFM4ErjNtcqDDjUmWUmSqALpump",
    0.022,
-   3.6,
+   4.6,
    ""
   ],
   [
    "SLEGO",
    "2dBzmd653KFfX1UroqtGQSTtcBmbX3fgPKSLgARKpump",
    0.022,
-   6.5,
+   7.5,
    ""
   ]
  ]
