@@ -6430,84 +6430,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:28:02",
+   "2026-10-29T13:29:00",
    32.58
   ]
  ],
- "cycles": 2094,
+ "cycles": 2095,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.19960556424786,
- "watching": 283,
+ "sol_usd": 99.23432036910002,
+ "watching": 310,
  "near": [
+  [
+   "Affirm",
+   "31qeNEvHp3mC4fVkU4uNrZyQzvCEbcUvDGuijATCpump",
+   0.887,
+   2.4,
+   ""
+  ],
   [
    "HYPERDUEL",
    "HSRF3VpaF8WN79BWpuN1wzkMXTo54xuTYBwcje8bi7Ae",
-   0.787,
-   2.2,
+   0.757,
+   3.1,
    ""
   ],
   [
    "PRRPS",
    "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
-   0.781,
-   8.2,
+   0.726,
+   9.2,
    ""
   ],
   [
-   "PVPLESS",
-   "7BwdyE9UHTrSAaH6r8BfeJHWJyfeHNo6CzHrTkZpump",
-   0.424,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "R",
-   "FuHNEf7atrJQVAXrNFFt7Kc6t31AmnsacPRNASmPpump",
-   0.225,
-   6.3,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "GACHA",
-   "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
-   0.213,
-   9.9,
-   "buyers=6; top5_hold_most=89%"
+   "bob",
+   "BB56NJc6LvLehxQ3g39zuKDT6T7nPBWzxMhZ3tkQpump",
+   0.18,
+   2.2,
+   ""
   ],
   [
    "SHITCOIN",
    "9atUL37TSZ8E6VpeaP8JVsVVgjjuFPkT3LBDTkVtpump",
    0.092,
-   2.4,
+   3.3,
    ""
   ],
   [
    "USDC",
    "EycGADPzEom2ZRdNVADuhqgpoGkQFoGpDxz2v6ohpump",
    0.082,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "NVDA",
-   "DaRFAgxKwgYYeqNVjPVUoEL2Evfg62CirD3TpD7yCFHn",
-   0.075,
-   8.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "pepperoni",
-   "8wxvvYACComu33AdqKQL1KHFZAY6WNanGv3GtMZgpump",
-   0.063,
-   4.0,
-   "buyers=2; top5_hold_most=100%"
+   "bob",
+   "GApgU8ZUn9SkRzVpSgK25E3h3qtxDSeEMvSupkBNaM4z",
+   0.071,
+   2.8,
+   ""
   ],
   [
    "hypinu",
    "GBNnhvv7rDhvbzxN2prWMioCjhjjrFxHerhEEjZQpump",
    0.037,
-   7.0,
+   7.9,
    "top5_hold_most=99%"
+  ],
+  [
+   "NIBBLES",
+   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
+   0.033,
+   9.0,
+   ""
+  ],
+  [
+   "INU",
+   "C1gwHkrLW8cF6UMzZJ1yo3epdckZqc9Jm7tFsREtWPco",
+   0.025,
+   2.7,
+   ""
   ]
  ]
 }
