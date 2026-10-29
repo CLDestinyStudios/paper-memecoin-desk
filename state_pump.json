@@ -6374,83 +6374,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:13:58",
+   "2026-10-29T11:14:56",
    32.58
   ]
  ],
- "cycles": 1960,
+ "cycles": 1961,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.85000000000001,
- "watching": 287,
+ "sol_usd": 100.96319810458141,
+ "watching": 307,
  "near": [
-  [
-   "HYPESTYLE",
-   "GFXQh2Ktmpi3WEJg6SJoaj2U9dz9Z6oUG2zcxKsUpump",
-   0.53,
-   3.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "WALT",
-   "BW8QuaDC1Tw7jRv2Hm5FbkYkitFrgS8itknXy3Avpump",
-   0.504,
-   9.2,
-   ""
-  ],
-  [
-   "SHELLSVC",
-   "FuoQgTVi4sZr8GEPW4jS4SSHWyWVMC5iHatkCAwtpump",
-   0.406,
-   2.3,
-   "buyers=8"
-  ],
   [
    "Anakin",
    "4bHw1UDh4PLGWkioCsWbBMSpkAU7DAVKqkkcMKyX6sDq",
    0.281,
-   5.5,
+   6.5,
    ""
   ],
   [
    "CallMyCoin",
    "FvRKZrXuED5t6QW2QDma6VugfgntPyr1rL4CBy4sjFKU",
    0.246,
-   4.9,
+   5.9,
    ""
   ],
   [
    "Beachballs",
    "3CkHdvvFXJ6fWGMvn65CNwcNRfqpwuYGxS9xRD3mpump",
    0.135,
-   5.4,
+   6.3,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "BIRDIE",
    "4S5jd53hToTVwFWspehVFS8GodgWf62HnSFksntKZETT",
    0.132,
-   3.7,
+   4.7,
    ""
   ],
   [
    "CtrlTheNar",
    "48yYGLJLdKp1DkeBVTyqtsoyneCK8MYSG2AbSjiMpump",
    0.122,
-   4.7,
+   5.7,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "X",
+   "5dNHaaYFqj2rw38Gj79JmmG3z5bcod2Wzion4t44pump",
+   0.121,
+   2.7,
+   "top5_hold_most=99%"
   ],
   [
    "pulymarket",
    "9HAWmKPouKFcKhDMa9gQtRyS6W6tunxxK6dkCxjPJ12B",
    0.112,
-   8.3,
+   9.3,
    ""
   ],
   [
    "Anakin",
    "645jnh348UVbctk98AsdATQkwpUARYVvP3WjYuiH6NxE",
    0.108,
-   9.0,
+   9.9,
+   ""
+  ],
+  [
+   "h/acc",
+   "7EL2twMfZ5RfguXx7b2vvk5932HpgTr9fPeqL2MRpump",
+   0.068,
+   3.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "coin",
+   "2nvQ3ZAKPRtcEXs19AeppmTnqWbaEqWYp6Wx1j9Hpump",
+   0.061,
+   4.8,
    ""
   ]
  ]
