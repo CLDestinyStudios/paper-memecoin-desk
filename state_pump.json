@@ -6510,84 +6510,84 @@
    32.58
   ],
   [
-   "2026-10-29T16:36:20",
+   "2026-10-29T16:37:40",
    32.58
   ]
  ],
- "cycles": 2282,
+ "cycles": 2283,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.26,
- "watching": 298,
+ "sol_usd": 96.3189204732,
+ "watching": 283,
  "near": [
   [
    "UHI",
    "BsuyZLe4SvFU8G4D5N38eygxk8hESLHzspvTx66apump",
-   0.522,
-   2.5,
+   0.518,
+   3.8,
+   "launch_slot=missing"
+  ],
+  [
+   "fmt+",
+   "HnXHzKavtanhs5dsnNd6CuUbN7Xz4HaTT73uvUQMpump",
+   0.485,
+   3.6,
    "launch_slot=missing"
   ],
   [
    "cat",
    "5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump",
-   0.345,
-   8.8,
+   0.45,
+   10.2,
    "buyers=9; top5_hold_most=80%"
+  ],
+  [
+   "Frozen",
+   "8DXm9Fna9ENJv3DQezjVxU9b7fh44N8BFhWMG7gNpump",
+   0.368,
+   3.3,
+   ""
+  ],
+  [
+   "ZCAT",
+   "HTYCK6a3DFS8S5piGH7jpj7AnNJhPMfrvcALCHDKpump",
+   0.253,
+   2.9,
+   "serial_creator=10 launches/24h"
   ],
   [
    "commotitty",
    "FkSqhYZmxMa89TM6awaeLjLHdZoDAs2Lm1GvfQM1pump",
    0.202,
-   7.8,
-   ""
+   9.2,
+   "buyers=9; top5_hold_most=84%; launch_slot=missing"
   ],
   [
    "ZCAT",
    "5aWff5Z9sLRavv5GETupmsYuiVTryZabsrVeTTsJpump",
-   0.172,
-   3.1,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   0.171,
+   4.4,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "DINO",
+   "B3xbecRxYahvvJiGBcZUeAygWcjotV5SmzvcesVFpump",
+   0.123,
+   2.9,
+   "buyers=6; top5_hold_most=99%; launch_slot=missing"
   ],
   [
    "beans",
    "BCumPokjGCpsp1myFLAo65Vh1R37ZR3vnfXs952Zpump",
    0.123,
-   5.5,
+   6.8,
    ""
   ],
   [
    "CA",
    "FGA7pcjY68sbpEWStEEXEtJvem3wtnP9WMHnXDW2sqdy",
-   0.116,
-   6.0,
-   "buyers=6; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "currency",
-   "G3BgcX6XD3g83ZfzXAvaWLjiy2b3epN2byW1XBsdpump",
-   0.108,
-   5.2,
-   ""
-  ],
-  [
-   "beans",
-   "HdCLqAtuHnzw9SwK1VvmvKfu6Hst7xW1W4C6B9Jpump",
-   0.083,
-   10.2,
-   ""
-  ],
-  [
-   "MBA",
-   "3Czras4RNb9151EpoKZwr2rRbVqVY4jtXiom5cGfpump",
-   0.083,
-   3.3,
-   ""
-  ],
-  [
-   "proof",
-   "FSPaXgTGRC4tHRZGCmEuEGTbg5CaZRJ4BTYD36iZpump",
-   0.079,
-   4.3,
-   ""
+   0.085,
+   7.3,
+   "buyers=7; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
