@@ -6350,84 +6350,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:17:55",
+   "2026-10-29T10:18:56",
    32.58
   ]
  ],
- "cycles": 1904,
+ "cycles": 1905,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.49116081200002,
- "watching": 348,
+ "sol_usd": 101.51352595399999,
+ "watching": 337,
  "near": [
   [
    "X",
-   "6RxDziVi7BY52xvbbCL9necM4h612z4ZiyPH4DeXpump",
-   1.0,
-   2.1,
-   "graduated"
+   "FkdKocLVj1cHzvzG1Kr4ieY2Z4Fi4iuWmzthCsTbpump",
+   0.866,
+   2.2,
+   ""
   ],
   [
    "\ud835\udd4f",
    "BjPcTtQiY8ausqUvQvbxwb75rvmge3D9DvXKSXVApump",
-   0.921,
-   2.4,
+   0.693,
+   3.4,
    ""
+  ],
+  [
+   "EARLY",
+   "FmnwCMZjB4k9aquC5b9JpC9HPBDnuLzJL1mn9mgFpump",
+   0.407,
+   2.6,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "MIAOU",
    "5fSs6Eiig6h9FX366DUbqXxWn94HczA6m1xKArF92y62",
    0.335,
-   6.7,
+   7.7,
    "buyers=3; creator=26.6%; top5_hold_most=100%"
   ],
   [
-   "DOORPRANK",
-   "4Rod5ZMr6nQvrzkFjsQFcyrepLSGNW28Tmne9TAmpump",
-   0.195,
-   6.1,
+   "CallMyCoin",
+   "84GKtit9FAvsHKchUeX4noKcnCxLCyUgeBE9JoVB2Mkq",
+   0.279,
+   2.9,
+   ""
+  ],
+  [
+   "X",
+   "G8BKwHsbPVBsg1eGthPoGyhiA5qyr2hgwWHk4Vzapump",
+   0.187,
+   2.1,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "\ud835\udd4f",
+   "FUTaAEfEqMzpPNHL6nDc5r5ULPTVv1YumoMLDk2Zpump",
+   0.184,
+   2.6,
+   ""
+  ],
+  [
+   "X",
+   "H8VspvMmHNNXSs7FN5dfmPEeegadSM9WhHj5ZEtSpump",
+   0.177,
+   2.3,
    ""
   ],
   [
    "AI",
    "9p1JN5tQmwNVKurSV84K6X4XKaCMK4Q6G8JQY6Cgpump",
-   0.134,
-   6.9,
+   0.167,
+   7.9,
    ""
   ],
   [
-   "PI",
-   "5Fn6G51ySaJsdfMZrz7tn9YAHrsug4oAitt1gYMJpump",
-   0.129,
-   6.6,
+   "DOORPRANK",
+   "4Rod5ZMr6nQvrzkFjsQFcyrepLSGNW28Tmne9TAmpump",
+   0.161,
+   7.1,
    ""
-  ],
-  [
-   "AI",
-   "DoFkDmvZrV73tC9KU4JSr2TARvahHDgGpz9ZsB3mc4Hv",
-   0.105,
-   6.4,
-   ""
-  ],
-  [
-   "X",
-   "2TST9E7HE9WMkt3iYKBo9nEDPTeWBqXGbELiYS86pump",
-   0.1,
-   2.2,
-   ""
-  ],
-  [
-   "FC",
-   "5TUfEaDXRTuSNVZgPsZdUgxriDKhngewYZUWZhvnpump",
-   0.087,
-   9.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ZEROPAD",
-   "FMpwy3XzhDTD3ydCbHnC9AGtsE1yDMQ7NaFHMfcrpump",
-   0.08,
-   4.5,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
