@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 92.94390771091771,
- "positions": {},
+ "cash": 90.15390771091771,
+ "positions": {
+  "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump": {
+   "sym": "HallowGPT",
+   "bc": "CGuQhhciqmyRX5AoCFdmeX7QEvvFE7ercidVMzhV5jk7",
+   "tokens": 426796.0903517532,
+   "cost": 2.79,
+   "cost0": 2.79,
+   "entry_px": 6.064339262530584e-08,
+   "entry_fill": 6.518040204152937e-08,
+   "opened": 1793250366.1651695,
+   "last_px": 6.064339262530584e-08,
+   "peak_px": 6.064339262530584e-08,
+   "last_val": 2.4092284078323067,
+   "last_prog": 0.434
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -273,7 +288,8 @@
   "67zSN8g1gNdFrV1EdvRKJZV9AuHPV13mzEX6GEhUpump",
   "H28TfbAmJJhmohKPSt8mnbJWNCJEEXrysqyQaYdtpump",
   "34MvAYjRhPfwcimzrnw7axDYC9rnfQvt9PV1YG23Dd37",
-  "DcTgjkS9bQjx7wBZi9kfXa7uALMRXYU9znUaQauWpump"
+  "DcTgjkS9bQjx7wBZi9kfXa7uALMRXYU9znUaQauWpump",
+  "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump"
  ],
  "equity": [
   [
@@ -4127,81 +4143,85 @@
   [
    "2026-10-28T22:05:04",
    92.94
+  ],
+  [
+   "2026-10-28T22:06:06",
+   92.56
   ]
  ],
- "cycles": 1172,
+ "cycles": 1173,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.21000000000001,
- "watching": 167,
+ "sol_usd": 100.29210251399999,
+ "watching": 171,
  "near": [
   [
    "HallowGPT",
    "EH5V85h2PD6hj1GrsCmaDPaPUKcNZYiYU7vGwMEUpump",
-   0.482,
-   2.3,
+   0.434,
+   3.3,
+   "bought"
+  ],
+  [
+   "BLOOD",
+   "DZshNqJkyMYW93h83LbtdfqNZZEJgCgr7ZfCLNmpump",
+   0.091,
+   2.5,
    ""
   ],
   [
-   "catday",
-   "9U8rq3Moj4vEk7WVkhxwuqfQbj9MJC7F9xSNrkaDpump",
-   0.11,
-   9.3,
-   "top5_hold_most=87%"
-  ],
-  [
-   "LOOK",
-   "F3GiqeBG1f2eFGYGkhtXWpfzqWKanDRUGwRtYRhppump",
-   0.086,
-   3.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "war",
-   "791okMTA5SBYN8eA4A3VejDtR1KFWNFeNrCLYrgtYwar",
-   0.072,
-   9.6,
+   "OPENSPIDER",
+   "7qABzHRaKAkRYQjdT8J5C2AXZ6QxXp56jbc7FMevpump",
+   0.074,
+   2.6,
    ""
   ],
   [
-   "AISI",
-   "DiJuAPdYcyU6wFnmBUdaQRRhgAJVK7bMah8hujtypump",
-   0.044,
-   5.2,
-   ""
+   "BLOOD",
+   "HQqDyX64EZuo2ieqVZBWPTN6CtsniHcA2rHoU1tLpump",
+   0.067,
+   2.2,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "UNBOTHERED",
    "J9spdoiBDYazrSa7uNy4rB1P28PsdeMY1tVhP3q1pump",
    0.036,
-   8.1,
+   9.1,
    ""
   ],
   [
    "BTS",
    "8ekdCAKhchx3ZEE9xK19eDb5X7gVezLVeT7xNhE7pump",
    0.033,
-   4.8,
+   5.9,
    ""
   ],
   [
    "SPERM",
    "BbgWqzQAUi7DuPQnrMR47dUKyhmgGNs6QW9UtsXNpump",
    0.027,
-   3.4,
+   4.5,
+   ""
+  ],
+  [
+   "$",
+   "5JiL6Kt6yBgxUHhFZFDEu4pgkV8R5fSw7sbweQ4Zpump",
+   0.024,
+   2.9,
    ""
   ],
   [
    "CA IN WEB",
    "Xrnz1aUWJN8RpUBSt4N2E4WfN12nMD9LqSkqpnHpump",
    0.022,
-   6.9,
+   7.9,
    ""
   ],
   [
    "neko",
    "FceVGd1No246Fmc5fgoAEowq855yZ8WsJgGpvKofpump",
    0.022,
-   3.1,
+   4.1,
    ""
   ]
  ]
