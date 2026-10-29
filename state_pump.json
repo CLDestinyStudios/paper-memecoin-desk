@@ -6422,83 +6422,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:04:04",
+   "2026-10-29T13:05:01",
    32.58
   ]
  ],
- "cycles": 2070,
+ "cycles": 2071,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.1862975706,
- "watching": 258,
+ "sol_usd": 99.05,
+ "watching": 257,
  "near": [
   [
    "ASSAY",
    "C5hLhhd5MivJ8m2MTQjB9A2nmuBymRzYhyRpeRMMpump",
-   0.819,
-   5.3,
+   0.857,
+   6.2,
    ""
   ],
   [
    "HYPECHILL",
    "CnmEsxtjLVYX3C1o3Y57r5VDwkkH3zdNFSLJ2ccSpump",
    0.34,
-   6.1,
+   7.1,
    "buyers=3; creator=15.6%; top5_hold_most=100%"
   ],
   [
    "Titty Inu",
    "J159iEcFXgcGQzxEaVk5e4Y47WbDmVPMMpYzxTcZpump",
    0.303,
-   5.4,
+   6.4,
    "top5_hold_most=89%"
   ],
   [
-   "TRDXYZ",
-   "2xQG7hWuAizqjPaQF1HHPWWhkypCHLZZMdRyRBQ5pump",
-   0.102,
-   3.0,
-   "buyers=3; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "$WARLUS",
+   "A7x2TNdD81yjuQiyMJeSSVPccxhJL5KiNuMDBeQ7pump",
+   0.226,
+   2.1,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "JITT",
+   "2wRpMAXYnTvi3sNNtHeTW8Vcp2WhNa85bAJB9YoPpump",
+   0.134,
+   2.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "HYPER",
+   "7Yt8zVFm4aFPxdC7AwPY2RJHzSpccNsEKAM2P9Jepump",
+   0.084,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Facepalm",
    "BicfEgZGpVjXbNBK4G4RdQh21p83NLMH4X4ddwytpump",
    0.072,
-   3.5,
+   4.4,
    ""
   ],
   [
    "$AR",
    "2ks1E3CgPBPdQWPs68DP3ax4pUZSegNMaxHrUNmdpump",
    0.067,
-   4.8,
-   ""
-  ],
-  [
-   "ORDINARY",
-   "BFavhBPcxn1unCBokyYFLwiCLZXACyLc1cv9jSNkD7vo",
-   0.038,
-   3.2,
+   5.7,
    ""
   ],
   [
    "ALIEND",
    "HyEngwGXWnn98mjwzawPeqM2GV8dL3q96vSc4cqZpump",
-   0.037,
-   5.4,
+   0.04,
+   6.4,
    ""
   ],
   [
    "PROVA",
    "EvJqarwCecZ4DZTzqkGKG9CGi3yuQYu5cJs8v4kpgzUW",
    0.036,
-   3.0,
-   ""
-  ],
-  [
-   "HH",
-   "49D73iJpbQk6SR6kSJ7stki6AQD1YjyMWTK1qcSdpump",
-   0.032,
-   4.3,
+   4.0,
    ""
   ]
  ]
