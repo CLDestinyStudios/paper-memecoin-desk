@@ -4693,83 +4693,83 @@
    71.47
   ],
   [
-   "2026-10-29T01:33:20",
+   "2026-10-29T01:34:21",
    71.47
   ]
  ],
- "cycles": 1380,
+ "cycles": 1381,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.90110765550001,
- "watching": 121,
+ "sol_usd": 100.0281897466,
+ "watching": 116,
  "near": [
+  [
+   "TRADITION",
+   "2vU46Bnhns264nWGLRPuayLyyX1xWtCxCFdkCCABpump",
+   0.621,
+   2.6,
+   "bundled_launch=10 extra buys in creation block"
+  ],
   [
    "SELLICON",
    "DrxqBz6e6MnQx9qt9hQQwiWdPutpeJYwiDPLB3jXpump",
    0.123,
-   3.3,
+   4.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "PUMPSPIDER",
    "3FpjQmSX9eja6HxLUFKcmwZcKiFUYLB8iFrLFdv1SAGA",
    0.102,
-   4.6,
+   5.6,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "WBTC",
    "4HNgB2BoGaXc8LRdhvGNa87YEz9mboYvvwTakTjCpump",
    0.052,
-   6.0,
+   7.0,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    " ",
    "5yE8yqHwUy1mQQvTm2k2wkCzDUWY9jXgCJA183Gcpump",
    0.044,
-   3.2,
+   4.2,
    ""
   ],
   [
    "DFuncaged",
    "DdBGdVqXSr8NPZu1Utcf7i6kKnnhGw7vsHKdwjCypump",
    0.034,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Shalom",
    "ExvxzddALLT5HwhaKNgQ7s62h2ph5yU796FFUFvcpump",
    0.029,
-   5.4,
+   6.4,
+   ""
+  ],
+  [
+   "$TITTY",
+   "CGxKHAioZ3cer9F8A8PYtCzXFWQhUPzufXRHkYfipump",
+   0.029,
+   2.0,
    ""
   ],
   [
    "HEXKIN",
    "Cy2NXL6UtG5jVkjRZKs2k6GvsbYHpDtgiWapFm49xL6n",
    0.027,
-   8.4,
+   9.4,
    ""
   ],
   [
    "BabyNuts",
    "6KiSJe4GB9vLratvfF4Zb91jNQeekE3QCG3BnLzkpump",
    0.024,
-   4.5,
-   ""
-  ],
-  [
-   "SPCX50K",
-   "Eajx97Z8We1hvReBcWmCMJ73HtKpQzNoPPSDUmwQpump",
-   0.02,
-   4.8,
-   ""
-  ],
-  [
-   "Dodo",
-   "3YEEdJTj5CjJ15qKsA6ZeqZ2QAhWHNwU6UN6oudApump",
-   0.015,
-   8.5,
+   5.5,
    ""
   ]
  ]
