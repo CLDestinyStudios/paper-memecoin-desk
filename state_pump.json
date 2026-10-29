@@ -13,10 +13,10 @@
    "entry_px": 1.002563758486657e-07,
    "entry_fill": 1.0869827210573366e-07,
    "opened": 1793267062.3539429,
-   "last_px": 9.875352345215548e-08,
-   "peak_px": 1.002563758486657e-07,
-   "last_val": 1.5597802818942041,
-   "last_prog": 0.633
+   "last_px": 1.0336952755778341e-07,
+   "peak_px": 1.0336952755778341e-07,
+   "last_val": 1.634670960804756,
+   "last_prog": 0.649
   }
  },
  "traded": [
@@ -4888,82 +4888,86 @@
   [
    "2026-10-29T02:45:22",
    61.88
+  ],
+  [
+   "2026-10-29T02:46:21",
+   61.95
   ]
  ],
- "cycles": 1452,
+ "cycles": 1453,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.08,
- "watching": 165,
+ "sol_usd": 100.05888760600001,
+ "watching": 168,
  "near": [
   [
    "peldier",
    "3baT8fBaQK9uW7VpiSkMMxdr83kbcBMK2Mq1Ktsbpump",
    0.241,
-   3.8,
-   "top5_hold_most=83%"
-  ],
-  [
-   "cat",
-   "J3brBMuWyGthD2heUynu8yznfsvhBHTxbHX7P6xopump",
-   0.14,
    4.7,
-   "buyers=7; top5_hold_most=99%"
+   "top5_hold_most=83%"
   ],
   [
    "BABYSITT",
    "GVvMeGLP9gudWzqfSAz8FDeFK3mpDGz9DMGFHrz6pump",
    0.126,
-   7.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Spycat",
-   "32pe38X4154MCnNJBHmggJgMGRa9t5UaTwPphouxpump",
-   0.101,
-   2.8,
-   "top5_hold_most=95%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "DCAT",
-   "AZX2feKjZ3WUsqphxhiHxg3Hx49Z2gV3CKeRyEDFpump",
-   0.093,
-   5.0,
+   8.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "CLOiD",
    "6hn3Fkz9MgkPFeYqk6N6o4PkxqJpF1dRXwVFyMRo4niE",
    0.083,
-   3.1,
+   4.1,
    ""
+  ],
+  [
+   "cat",
+   "J3brBMuWyGthD2heUynu8yznfsvhBHTxbHX7P6xopump",
+   0.081,
+   5.7,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "SP1NZ",
    "2UoviAvgoL8nyEbpeXAxheZpwWSCEhjGaEerdJnXpump",
    0.072,
-   6.3,
+   7.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "GAGCAT",
    "Cr9DESRQQxWRkHEDx1BYjBbBueTZQ78u8hRuggwsqqYp",
    0.068,
-   5.9,
+   6.9,
    ""
   ],
   [
    "Scream",
    "9aLn7xBgXVEm33ByJoafig1RNkorLFh2RgYWvLCupump",
    0.064,
-   6.6,
+   7.5,
    ""
+  ],
+  [
+   "DCAT",
+   "AZX2feKjZ3WUsqphxhiHxg3Hx49Z2gV3CKeRyEDFpump",
+   0.064,
+   6.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "NNN",
    "7Wf1Wp4iozJHzdeQmK519DA2CJLy3CoXTMjFkRZMpump",
    0.027,
-   8.5,
+   9.5,
    "buyers=8; top5_hold_most=99%"
+  ],
+  [
+   "CARBON",
+   "BHSsMtbW4SR7t6CZhBmegzuzgGhuWM3ydgGRYba3pump",
+   0.025,
+   5.8,
+   ""
   ]
  ]
 }
