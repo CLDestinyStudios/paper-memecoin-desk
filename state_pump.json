@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 98.32279259997283,
- "positions": {
-  "9wraW6pCpW9hAqkoYSua2iREHKGKr7KFqNX8rFL9pump": {
-   "sym": "Drip",
-   "bc": "2gtNrYbSTnuHK1Ec4BFqGJtbGmw8xfGGQ7J8opK4Y8sv",
-   "tokens": 434499.59798812866,
-   "cost": 3.04,
-   "cost0": 3.04,
-   "entry_px": 6.536713775931052e-08,
-   "entry_fill": 7.01479269044939e-08,
-   "opened": 1793248565.9343119,
-   "last_px": 6.536713775931052e-08,
-   "peak_px": 6.536713775931052e-08,
-   "last_val": 2.6339768570956865,
-   "last_prog": 0.468
-  }
- },
+ "cash": 99.53053780353781,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4052,81 +4037,85 @@
   [
    "2026-10-28T21:36:05",
    100.96
+  ],
+  [
+   "2026-10-28T21:37:05",
+   99.53
   ]
  ],
- "cycles": 1143,
+ "cycles": 1144,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.74,
- "watching": 184,
+ "sol_usd": 99.73627026435,
+ "watching": 181,
  "near": [
-  [
-   "GIMODELO",
-   "BQzjsnGStaYJbYQL2U2Y6QQNgYnTqhByW23N8u3Gpump",
-   1.0,
-   2.7,
-   "graduated"
-  ],
   [
    "NIKI",
    "9BQ3Yq1Hd7kFTqXyfLj1QZw4Pi3LNuDabXjV9yCzpump",
-   0.766,
-   6.2,
+   0.865,
+   7.2,
    ""
   ],
   [
-   "Drip",
-   "9wraW6pCpW9hAqkoYSua2iREHKGKr7KFqNX8rFL9pump",
-   0.468,
-   2.6,
-   "bought"
+   "OS",
+   "FhqFMS1TuUe5d4CwecDCkFB7rJPnjAeEsecu496Qpump",
+   0.648,
+   2.4,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "PEARL",
+   "9yzzz2hYqacwryRVMXyhuygenqWvKiafdkJw9BRqpump",
+   0.324,
+   2.8,
+   "top5_hold_most=90%"
   ],
   [
    "NIKI",
    "Cb9v7inHVcz2tiTnsk65sFBbrf4a94EcdvfTesFLpump",
-   0.136,
-   3.9,
-   ""
-  ],
-  [
-   "BEARISH",
-   "AmzAQrCYaYQngMZ7zPRtfja9SZ4hbsUYBLyp6B7npump",
    0.129,
-   3.5,
+   4.9,
    ""
   ],
   [
    "SUNBEAR",
    "FCoaCgym3mxNq9v1aWE8HpiUFPEUGj3Y8a3vFMnqpump",
-   0.121,
-   8.5,
-   "buyers=6; top5_hold_most=98%"
+   0.119,
+   9.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "OG",
-   "HMHNXeJ7ziVJF9vHwALrQcBpr4yiuYrpv55MToKxABVN",
-   0.099,
-   2.0,
+   "BOWEN",
+   "2sm9KsLrGvYEY5JYCmwoc6F6sFYBEPkv3akHBv1tEDBT",
+   0.064,
+   2.3,
    ""
   ],
   [
    "VTOAT",
    "EnPkecBXCGJAHLcHKg9Tb3C4HV2CLcrGXXW6CJYEpump",
    0.043,
-   3.1,
+   4.1,
+   ""
+  ],
+  [
+   "BEARISH",
+   "AmzAQrCYaYQngMZ7zPRtfja9SZ4hbsUYBLyp6B7npump",
+   0.038,
+   4.5,
    ""
   ],
   [
    "AI/SI",
    "EnNmDKo8bssdJe23myrzJATcVTxzsjQEvDcAAZoWpump",
    0.024,
-   2.8,
+   3.8,
    ""
   ],
   [
    "OBAURA",
    "7JuybahDjRUPXRG3xvdrfKWTyiKKBycE42C9ZwAEpump",
    0.022,
-   6.8,
+   7.8,
    ""
   ]
  ]
