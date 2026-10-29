@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 58.04989985744121,
+ "cash": 59.40892614175833,
  "positions": {
   "AUVMr4t1SiagiosoXX3R7GTKqbK4XE6msC7JvmEwpump": {
    "sym": "GARAGECOIN",
@@ -15,7 +15,7 @@
    "opened": 1793267965.1255596,
    "last_px": 3.7440183593811705e-08,
    "peak_px": 1.5816565936981958e-07,
-   "last_val": 0.6740257824012439,
+   "last_val": 0.6742235120877534,
    "last_prog": 0.184,
    "tp1_done": true,
    "realized": 0.6593046300182409
@@ -23,16 +23,18 @@
   "Gt3jUwbYV6k3Z7atNk3HvAT2tGHKmqPCQnoFpTmopump": {
    "sym": "BOUNCER",
    "bc": "9Zqhs3yYrH49n4KJ7qCdSndYR5ArJP5pWARVLw362MgY",
-   "tokens": 500390.8660201263,
-   "cost": 1.85,
+   "tokens": 250195.43301006316,
+   "cost": 0.925,
    "cost0": 1.85,
    "entry_px": 3.4021715680744224e-08,
    "entry_fill": 3.6906346006639015e-08,
    "opened": 1793268145.720429,
-   "last_px": 4.3208957494639034e-08,
-   "peak_px": 4.379178412394622e-08,
-   "last_val": 1.9983646952117444,
-   "last_prog": 0.265
+   "last_px": 5.9413926279660515e-08,
+   "peak_px": 5.9413926279660515e-08,
+   "last_val": 1.3590262843171184,
+   "last_prog": 0.425,
+   "tp1_done": true,
+   "realized": 0.4340262843171183
   }
  },
  "traded": [
@@ -5008,81 +5010,85 @@
   [
    "2026-10-29T03:18:22",
    60.72
+  ],
+  [
+   "2026-10-29T03:19:22",
+   61.44
   ]
  ],
- "cycles": 1485,
+ "cycles": 1486,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9923271,
- "watching": 226,
+ "sol_usd": 100.02166047567653,
+ "watching": 219,
  "near": [
   [
    "TBC",
-   "5F3FdYqQkNiMmjcju45MKma7xrz3TE2goM4jYCbJ2heE",
-   0.149,
-   3.3,
-   "top5_hold_most=85%; bundled_launch=7 extra buys in creation block"
+   "EAiRXsNwhX6mEQcJ8erQLd7uFtiRDUN9rrFBGZRK8kPY",
+   0.211,
+   2.1,
+   "top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Emmyk ",
    "85EmfWN8xgwNDrdbstQPLRavjUA1dkb4hFa9FPhkpump",
-   0.121,
-   4.6,
-   "top5_hold_most=98%"
+   0.125,
+   5.6,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "TBC",
    "7LsJBuk9qa9q2VR54ZLwQyWeFget3QiNueV5kn4kpump",
-   0.112,
-   4.2,
+   0.094,
+   5.2,
    ""
   ],
   [
    "DD",
    "5uNWEqve5mbdyokiEzooDaPx6mETWT737yuqdAsXpump",
-   0.081,
-   3.8,
-   "buyers=4; top5_hold_most=100%"
+   0.084,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "TBC",
    "6Hf9iAXLBkezzQRytPEyWvGpvr1dGrga3aUkpo1LKAUU",
+   0.066,
+   3.9,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "TBC",
+   "FQ6kMPDMJBQBfs791aHfz7pNGULXD1ujrXYN1phqyJQD",
    0.064,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
+   2.4,
+   ""
   ],
   [
    "TBC",
    "GfWZ4cEbUrd7sRWMtqyGfK5u6sDUoezY4Y6wP7ktC8BK",
    0.047,
-   2.7,
+   3.7,
    ""
   ],
   [
    "TBC",
    "BoxtoaotnShYBz3fDtaJLMr7KqAJrEkCKNgNtKja67yE",
    0.047,
-   2.3,
-   ""
-  ],
-  [
-   "TBC",
-   "8nxEWEsybkmJou5nPeiPU59qsZhARYVZ4KFqH5NFpump",
-   0.044,
-   3.6,
+   3.3,
    ""
   ],
   [
    "WHALEPEPE",
    "GWaPMwjQLB3wXQsVwYGT8jur8EMn4X4P7zhsE7QRpump",
    0.043,
-   2.7,
+   3.7,
    ""
   ],
   [
-   "LG",
-   "Afzaqra3AqGZ7rNnTeHWj8VqrWaH3Cn4nZdcazrapump",
+   "YO",
+   "Nie4w9ujbqv7QgjXVrp1bFh8ZzuVWgTX5SMjkPSK7vJ",
    0.035,
-   6.6,
+   4.0,
    ""
   ]
  ]
