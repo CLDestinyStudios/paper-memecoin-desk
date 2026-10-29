@@ -15,7 +15,7 @@
    "opened": 1793232232.2706861,
    "last_px": 9.5116072806714e-08,
    "peak_px": 9.61818945040114e-08,
-   "last_val": 3.8110137639550237,
+   "last_val": 3.8093785829826596,
    "last_prog": 0.619
   },
   "5c1mh74gg3YfeEZo2N6hBoest9tUXUzhgff3ea2ueNfo": {
@@ -29,7 +29,7 @@
    "opened": 1793233192.1483417,
    "last_px": 4.872346904210678e-08,
    "peak_px": 5.23304017442201e-08,
-   "last_val": 3.021209677505267,
+   "last_val": 3.0199133755540895,
    "last_prog": 0.328
   }
  },
@@ -3349,81 +3349,85 @@
   [
    "2026-10-28T17:20:52",
    123.71
-  ]
- ],
- "cycles": 888,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 102.26,
- "watching": 249,
- "near": [
-  [
-   "BIO",
-   "7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump",
-   1.0,
-   2.5,
-   "graduated"
   ],
   [
-   "DESK",
-   "EAcUXj6Ux37BoZjxtJZ24Yiu3sVmKRdxd1vVnsTrpump",
-   0.849,
-   9.5,
+   "2026-10-28T17:21:51",
+   123.71
+  ]
+ ],
+ "cycles": 889,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 102.216123589,
+ "watching": 252,
+ "near": [
+  [
+   "GAS",
+   "AVAqFD8btEDBvwcEUCshJssReAwfws2ZPemBMmbUpump",
+   0.633,
+   2.8,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "REX",
+   "Agm8w4bG7gEgHkb6FANeXUPs6xMqps5ypkuiLMeGpump",
+   0.334,
+   3.7,
    ""
   ],
   [
    "WAR",
    "8Bxa9jj8EY3tZaNJMbsRDfvYC4AF2z5VbyNAn4eupump",
-   0.359,
-   7.0,
-   ""
-  ],
-  [
-   "BIO999",
-   "CeQdt5KDQs4kS5kSBJvDEz4vTqo1n5gsyQRzEqZEpump",
-   0.311,
-   2.2,
-   ""
-  ],
-  [
-   "REX",
-   "Agm8w4bG7gEgHkb6FANeXUPs6xMqps5ypkuiLMeGpump",
-   0.273,
-   2.7,
+   0.295,
+   8.0,
    ""
   ],
   [
    "BNDY",
    "Deg6Mj4QdHhG2mnaoWUEMB2iS6iu8LjfzRzxygTQpump",
-   0.207,
-   2.5,
-   "buyers=4; top5_hold_most=100%"
+   0.21,
+   3.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "fablesquad",
    "93A8578wwzaT3djUTEKgoUPox9vJCPeAVup1jDa8pump",
    0.205,
-   3.4,
+   4.4,
    ""
+  ],
+  [
+   "MAXI",
+   "98Rs31eaE77VxNe49QEwBoNFRxH8Pir9xaksz2pxpump",
+   0.132,
+   3.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "WARINU",
    "53KQbSPVvZqweLJDxtByftrH7MjmNVZ8qs26JFiHKVS5",
    0.129,
-   3.5,
+   4.4,
    ""
   ],
   [
-   "WW3",
-   "E4tpK231J5rVmAtELbzPjX3WCjvBQ3SgWbi4f5ippump",
-   0.124,
-   3.3,
-   ""
+   "MANI",
+   "Bi4FgBKeVY6DrEmGxi82EgBq4H9rmSc1CZui89BRpump",
+   0.12,
+   2.4,
+   "top5_hold_most=94%"
   ],
   [
    "WAR",
    "AGjxYLtPxsj3hGr2Xcw1yu8BXty7cNSogeHnCK6Fpump",
    0.118,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "BIO999",
+   "CeQdt5KDQs4kS5kSBJvDEz4vTqo1n5gsyQRzEqZEpump",
+   0.1,
+   3.1,
    ""
   ]
  ]
