@@ -4697,84 +4697,84 @@
    71.47
   ],
   [
-   "2026-10-29T01:42:29",
+   "2026-10-29T01:43:21",
    71.47
   ]
  ],
- "cycles": 1389,
+ "cycles": 1390,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.88,
- "watching": 122,
+ "sol_usd": 99.86000000000001,
+ "watching": 117,
  "near": [
   [
-   "T-REX",
-   "2F9MCZMZc6g3Af31tGdF4ypepNpfSTSkvMSPR5DsaKEq",
-   0.721,
-   2.7,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "JERRY",
-   "GSCDrS7R85KGevshX3uk7URnHqnGT5iNoub4hNqQpump",
-   0.677,
-   3.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "LOVEINU",
-   "Gm5n8SZoh2yDFFQgv57ycb9AyGBwTTkAYpHXvXnpump",
-   0.446,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
+   "CLAUDE",
+   "D58Rkiauq8H5MuNuPu8vuKEp8LJyepLCbxaa7BwDpump",
+   1.0,
+   2.6,
+   "graduated"
   ],
   [
    "COHERENCE",
    "2x28tR1LbjFNKaRVUcDr3qPHSUKzWXoJoAweAsEXiP34",
    0.157,
-   4.1,
+   4.9,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "GMODE",
+   "3KEm2k1Dfr8vT2cLXKfRNrEnBhskePzAAyLUJzFwpump",
+   0.151,
+   2.3,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "retire ",
    "BLBFPyjPgEUNfbnEDLU14cAZp5mRN9LnzK1uAf2spump",
-   0.09,
-   2.7,
-   "buyers=3; top5_hold_most=100%"
+   0.098,
+   3.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Shopify",
-   "Q9ac8BdEFavJ3FMZKqqmeVoVyEtJokso8Fg8RaTpump",
-   0.073,
-   2.9,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   "DFuncaged",
+   "89Gr3hPJUYyzXqqHcmbDLK5xoRGLc2BhVPxL7jb5pump",
+   0.091,
+   2.2,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "SC",
    "4KSN9QDw4LuW7MeX7QNbsdw8CB6QV3onsGJ68woXpump",
    0.071,
-   8.6,
+   9.5,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "T-REX",
-   "yFtmDbUoievNTQzqcT3qPazagPF6NYM368gZdq9pump",
-   0.062,
-   10.1,
-   ""
   ],
   [
    "Jerry",
    "6ibey2m8wGHYeb8UK6S4mWHnH27TFtRoZBZKgFeUsuxh",
    0.032,
-   4.8,
+   5.7,
    ""
   ],
   [
-   "BabyNuts",
-   "C7CKxbcnVKvYML4Zq3U7ozBocMW9CRLNgoRFzvJdpump",
-   0.028,
-   9.8,
+   "BLMP",
+   "AaqG3RtUy4P11FrsJfy62QWtVjjBE8QtSDsqvtiSpump",
+   0.025,
+   7.5,
    ""
+  ],
+  [
+   "T-REX",
+   "F9VbUk9WkWVFp3fxehmdogz3FagigocQzyhrRz1tpump",
+   0.024,
+   4.1,
+   ""
+  ],
+  [
+   "Shopify",
+   "Q9ac8BdEFavJ3FMZKqqmeVoVyEtJokso8Fg8RaTpump",
+   0.02,
+   3.8,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
