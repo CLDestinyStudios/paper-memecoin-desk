@@ -6470,84 +6470,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:00:05",
+   "2026-10-29T15:01:02",
    32.58
   ]
  ],
- "cycles": 2186,
+ "cycles": 2187,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.4031880266,
- "watching": 294,
+ "sol_usd": 97.2764812431,
+ "watching": 323,
  "near": [
   [
    "Vortex",
    "GYA6eeoXubyuwxDT7cAK9eCKobnziKvALPPbbq7Hpump",
    0.952,
-   4.0,
+   5.0,
    ""
   ],
   [
-   "fud",
-   "UQWxggx4DEpmUH4f68mk4tumesGP2mJs7iBgCk4pump",
-   0.479,
-   3.1,
-   "bundled_launch=4 extra buys in creation block"
+   "DPRK",
+   "3atWTj3yLg1n8emVJLWqCtZYbCKxYtJFQM7ZuBz4pump",
+   0.596,
+   7.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "USDUT",
-   "DvU4tkxHm4RfR4Kj1cdwUtv9eCvZGWnG3kVgAj38pump",
-   0.313,
-   2.2,
-   "serial_creator=13 launches/24h"
+   "REPAD",
+   "FKzywwjGvzKWynqNR3A7bUN4x83pHwwEsPguHSc1pump",
+   0.178,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CUHCOIN",
    "GiYcQeT6s27SRaEcPZJWVbTMpZH8kk7kn8MzaXGzpump",
-   0.148,
-   3.5,
+   0.147,
+   4.5,
    ""
   ],
   [
    "FI",
    "4f7UoHzZ1XPkPKp5p4Y9mNztGizyo2MpjN7ZiCGHpump",
    0.109,
-   6.6,
+   7.6,
    ""
-  ],
-  [
-   "TIT",
-   "EWrjMSKkCzNcoeVKqUxa6AS8ArhXHDDkLCFthhqspump",
-   0.102,
-   8.7,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Fearful",
    "BDDW7U4Z5vSuhPgYPGVs7GTy3uxiaAs3EFQCdZKEpump",
    0.098,
-   2.5,
+   3.4,
    ""
   ],
   [
-   "FREEZE",
-   "CWDAciNyAEPo9BDrj1i8kYCVvDqzELgF5nYZBmi5pump",
-   0.087,
-   2.8,
-   "buyers=3; top5_hold_most=100%"
+   "TIT",
+   "EWrjMSKkCzNcoeVKqUxa6AS8ArhXHDDkLCFthhqspump",
+   0.073,
+   9.7,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
-   "PEPE",
-   "5zH5dLzmYZ4y8cBfisvJ86gRG6G8WHFeAHY1jWprFzze",
-   0.084,
-   6.6,
+   "Fearless",
+   "8dtL3pi5BaWyoCRnW5NJqeDkyLjTZ8DAxEg8yDxFG653",
+   0.066,
+   3.3,
    ""
   ],
   [
-   "DPRK",
-   "3atWTj3yLg1n8emVJLWqCtZYbCKxYtJFQM7ZuBz4pump",
-   0.068,
-   6.7,
-   "buyers=2; top5_hold_most=100%"
+   "2,5B",
+   "496L3Z94Q57MihXXRoqW3mQvzXyVh3JvNXxoQZT5pump",
+   0.041,
+   3.4,
+   ""
+  ],
+  [
+   "SAFU",
+   "7XCCDWDRhknAh2agRiHetCpPkiV73WPczPDAdaq7pump",
+   0.039,
+   8.2,
+   ""
   ]
  ]
 }
