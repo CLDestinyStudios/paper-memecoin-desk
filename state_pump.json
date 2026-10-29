@@ -13,10 +13,10 @@
    "entry_px": 1.2683624005893516e-07,
    "entry_fill": 1.3582491559744502e-07,
    "opened": 1793235778.3935692,
-   "last_px": 1.4874391991362117e-07,
+   "last_px": 1.4159033360727527e-07,
    "peak_px": 2.2719451826055238e-07,
-   "last_val": 1.7705342282489958,
-   "last_prog": 0.766,
+   "last_val": 1.6832492616673975,
+   "last_prog": 0.752,
    "tp1_done": true,
    "realized": 0.7774303610825484
   },
@@ -31,7 +31,7 @@
    "opened": 1793235907.3880217,
    "last_px": 4.6335763973499624e-08,
    "peak_px": 5.284588202843093e-08,
-   "last_val": 2.839462383824206,
+   "last_val": 2.839953196912962,
    "last_prog": 0.302
   }
  },
@@ -3534,81 +3534,85 @@
   [
    "2026-10-28T18:10:49",
    113.92
+  ],
+  [
+   "2026-10-28T18:12:04",
+   113.84
   ]
  ],
- "cycles": 938,
+ "cycles": 939,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.327958993,
- "watching": 246,
+ "sol_usd": 101.3454739595,
+ "watching": 241,
  "near": [
+  [
+   "PFRAME",
+   "dMT8ii9SfTHfZnxzDzh6g9XFziT1uKf4Qh3ZjEopump",
+   0.818,
+   3.0,
+   ""
+  ],
   [
    "BLM",
    "AXaLwSsxk5GdrG3BUqgAfkiLtrt6aDkaQ8CrzY77pump",
-   0.234,
-   5.7,
+   0.294,
+   7.0,
    ""
   ],
   [
    "BLCK",
    "E3BHYUqo7Qe9YkUP34nF7XzYmJPKqhaFLHkpaq86pump",
-   0.207,
-   5.9,
+   0.197,
+   7.1,
    "buyers=6; top5_hold_most=95%"
+  ],
+  [
+   "GIFT",
+   "GwehfEHy7esNj9aSk8P3xBRjfoWY38Hxvz31J8zBpump",
+   0.123,
+   2.4,
+   ""
   ],
   [
    "j\u2019ai p\u00e9t",
    "3p2zDUNsoTNyrMWsZUGvhSkDTVKe7QzRJSX4Wusepump",
    0.084,
-   5.8,
+   7.1,
+   ""
+  ],
+  [
+   "HVAI",
+   "DymSS8L1LpDB8UwPtWw48cK16qV2TwXPH1TAi9PUpump",
+   0.062,
+   2.5,
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "Gooner",
+   "DitkJB9aR83Peq61hptinMFfkmdPvqLWist8oXvApump",
+   0.062,
+   2.5,
+   ""
+  ],
+  [
+   "GIF",
+   "CyFbq4Mw8MvfgHWmuBpBiZSvRVByeqZhGMpdnFw9pump",
+   0.043,
+   2.7,
    ""
   ],
   [
    "LOOOOOOOOOON",
    "AZ9n6v14YXWMEhE6pXQ4nTUvhmnFvadyU9NdHjpFpump",
    0.041,
-   3.9,
+   5.1,
    ""
   ],
   [
-   "PETER",
-   "BSMGW3gs3GkJYjjZdbwwG4oExChtBtTXxDy935Tvpump",
-   0.039,
-   2.4,
-   ""
-  ],
-  [
-   "Stu",
-   "5vb5rYJYcvSHgTMxc2YzADSq2HJ5mM6HUeZduNajpump",
-   0.039,
-   2.1,
-   ""
-  ],
-  [
-   "SONEIUM",
-   "GsNUuEpyuAjMBP7ZFyAKUMvEKchHqWNDe6LPDCSkpump",
-   0.034,
-   2.5,
-   ""
-  ],
-  [
-   "Vigil",
-   "7uRBvDzG5mLAbiHyacQ1sH1juz5TxMA86v4Bxnmgpump",
-   0.029,
-   5.6,
-   ""
-  ],
-  [
-   "BLOCK",
-   "DdszcFZC7JUJPxokmGszTvQy9pPxHzSZPZkxMKpjpump",
-   0.023,
-   3.2,
-   ""
-  ],
-  [
-   "NASDUCK",
-   "8U1s2SxmhvhyXaATo3QXpsfvB3LnEcXbpjt6uerXpump",
-   0.021,
-   8.5,
+   "PDTEC",
+   "8ZqChHsk9jD5whG6GSN4NTB5txf7Bs3o4wrLBZRpump",
+   0.033,
+   3.0,
    ""
   ]
  ]
