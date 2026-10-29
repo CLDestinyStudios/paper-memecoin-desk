@@ -3630,84 +3630,84 @@
    124.85
   ],
   [
-   "2026-10-28T18:47:50",
+   "2026-10-28T18:48:58",
    124.85
   ]
  ],
- "cycles": 975,
+ "cycles": 976,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.52999999999999,
- "watching": 282,
+ "sol_usd": 100.12837173799998,
+ "watching": 262,
  "near": [
   [
    "Seed",
    "3j1LrHLgHTr2nrZgKPYh47VG4EMvZ1Xmqbef6B5Xpump",
-   0.858,
-   4.2,
+   0.79,
+   5.3,
    ""
   ],
   [
-   "Dawid",
-   "4BBGZU3WU4Ei8DAJb5ToXR9KJoEpFU4qxSE5cTE7pump",
-   0.172,
-   5.8,
-   "buyers=6; top5_hold_most=98%"
+   "BAJRANGI",
+   "8b1QBg6AqPHb9Ug6zDyrwZB77whth42ECyaJgbykpump",
+   0.221,
+   2.6,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "NOA",
    "ERHeQBpoxcmVaHJMDYFY6CE5CHAr8Tju5jQWRwxbpump",
    0.133,
-   6.7,
-   ""
-  ],
-  [
-   "\u30de\u30e1",
-   "596WbHUVQtfGAje8tPTnoVXhUbEict7LbnHzfky1pump",
-   0.12,
-   2.3,
+   7.8,
    ""
   ],
   [
    "Aape",
    "3hZK3X2v1MmR9rrm6ZVo1oP1uCdXjgKGsg4fiEGKpump",
    0.092,
-   5.4,
-   ""
-  ],
-  [
-   "Nola",
-   "8t8cHK6QnwbTY4ukFfYgAFXNdcDAnrp92Q8pPr8hpump",
-   0.072,
-   2.7,
+   6.6,
    ""
   ],
   [
    "jalen",
    "EXvn1ZEQ1yuFFJ7GB3vtZW119fhPVfYDTNMib1MTpump",
    0.072,
-   3.2,
-   ""
-  ],
-  [
-   "MEXIPUMP",
-   "8ai26Qz6txLweMV94BxaM6pLr7wTYTwtxriqdPZrpump",
-   0.071,
-   4.5,
+   4.4,
    ""
   ],
   [
    "Spookinu",
    "FvD4Ux47TcZ15MfX9fSrkJaqzptNiMJvJp77r6Yepump",
    0.07,
-   7.2,
+   8.3,
    ""
   ],
   [
    "BCAT",
    "AXqEbbevkqqYiAsvHJUNNBcpyKkJanD8xhvhMa15dA7e",
    0.05,
-   6.5,
+   7.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "COACH",
+   "78cti5NjDXGN52wt3wu5uj1hWgB93nwsoaxb9wnhpump",
+   0.046,
+   3.8,
+   ""
+  ],
+  [
+   "FI",
+   "26gQhcwfcxpauRaPgT6QAgPgae8TMyA3k4n7hohCXggZ",
+   0.044,
+   4.7,
+   ""
+  ],
+  [
+   "SPOOKINU",
+   "Avh3W8sKJoMHXtMFpwiuoEpduE4KYf4jrKGq1fbtpump",
+   0.043,
+   7.6,
+   ""
   ]
  ]
 }
