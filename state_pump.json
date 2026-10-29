@@ -4543,83 +4543,83 @@
    79.96
   ],
   [
-   "2026-10-29T00:35:05",
+   "2026-10-29T00:36:06",
    79.96
   ]
  ],
- "cycles": 1322,
+ "cycles": 1323,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.68331201800001,
- "watching": 138,
+ "sol_usd": 99.67287932765,
+ "watching": 140,
  "near": [
-  [
-   "BTS",
-   "4TvRzrSPg2CFBE3TBfGw7JqFNX8F1mekw2bvTndzpump",
-   1.0,
-   3.2,
-   "graduated"
-  ],
   [
    "CACHET",
    "FAhEzTWLnqocLu355bfPmmFJy5UceyFv4jbxEBLRpump",
-   0.143,
-   2.2,
-   "buyers=3; top5_hold_most=100%"
+   0.151,
+   3.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "AIRO",
    "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
-   0.139,
-   5.6,
-   "buyers=4; top5_hold_most=100%"
+   0.143,
+   6.6,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "KONY",
    "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
    0.115,
-   5.6,
+   6.6,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "SHIBAVN",
+   "7mvxLdtUnNo9RYesgwMP9mGHeBoipzMoN61cJUzzpump",
+   0.064,
+   2.8,
+   "buyers=7; top5_hold_most=99%"
+  ],
+  [
+   "MOANCOIN",
+   "RykmA7i5xLxwCDTnu3xGPmaGzjk7iVSLqZLevb3pump",
+   0.064,
+   2.0,
+   "buyers=8; top5_hold_most=86%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.061,
-   8.7,
+   9.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "BABYFURY",
    "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
    0.058,
-   6.8,
+   7.8,
    "top5_hold_most=95%"
   ],
   [
    "MARCEL",
    "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
    0.044,
-   5.6,
+   6.6,
    ""
   ],
   [
    "SSP",
    "HLT9VXgeSPwCPeE8cUbY53sks6wb7dRYNX9y36YGpump",
    0.033,
-   4.6,
+   5.6,
    ""
   ],
   [
    "VOPE",
    "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
    0.025,
-   6.2,
-   ""
-  ],
-  [
-   "Solana ",
-   "EL7vbn4MbuyMzkfdK1uTAiwyQ7zQC2vwmKWzJKHqpump",
-   0.025,
-   4.2,
+   7.3,
    ""
   ]
  ]
