@@ -6464,81 +6464,85 @@
   [
    "2026-10-29T14:45:02",
    32.58
+  ],
+  [
+   "2026-10-29T14:46:06",
+   32.58
   ]
  ],
- "cycles": 2171,
+ "cycles": 2172,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.21618234309999,
- "watching": 344,
+ "sol_usd": 97.19,
+ "watching": 349,
  "near": [
+  [
+   "tap",
+   "WZmyn34NHJcL8csv3hB6MeJe3MNZdU8yc4H7GPspump",
+   0.66,
+   2.7,
+   "bundled_launch=4 extra buys in creation block"
+  ],
   [
    "Sakura",
    "H76vRpPL2SbicJHv49GdhcbTzgWrTiVyCyDAHkcUpump",
-   0.691,
-   3.8,
+   0.596,
+   4.8,
    ""
   ],
   [
    "Cyber",
    "FWU5G6GKgv3nkG6SCo8ctTWznPKS9rYvyWUacRhLLaFG",
-   0.64,
-   4.2,
+   0.255,
+   5.3,
+   ""
+  ],
+  [
+   "ABC",
+   "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
+   0.252,
+   2.7,
    ""
   ],
   [
    "CSI",
    "6qRgKi1KzdknadpCRoyc5siDhSkiUKUs926ZMJD7pump",
    0.248,
-   5.5,
+   6.5,
    "top5_hold_most=86%"
   ],
   [
    "THREADGUY",
    "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
-   0.182,
-   3.9,
+   0.152,
+   5.0,
    ""
-  ],
-  [
-   "SAFU",
-   "HnnvfsHs7eo9Ngd3T5zXqE1XBo6p4sg41TZMpd2qpump",
-   0.161,
-   2.2,
-   "serial_creator=8 launches/24h"
   ],
   [
    "safu",
    "4yGXKiS9XwqGAcqn6yTyYzFZhT9nzwQeBsEELpf9pump",
    0.126,
-   4.5,
+   5.5,
    "buyers=8; top5_hold_most=90%"
   ],
   [
    "hack",
    "9iNL3oEE8uSmbLHLkLVQiLGbMWiDrDD9oKsshjsGpump",
    0.123,
-   3.8,
+   4.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SBANK",
    "61Mj5SfUCgWbaVsMzgfC6Qs3x5VrLVLuAh9ndSsYpump",
    0.122,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "HI",
-   "AxKYdLd28ArHhkdPsgr633bKm7bZ3PkFoZLqnsrzxcQv",
-   0.118,
-   3.2,
-   ""
+   3.7,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "PICARDCOIN",
    "6xNdELzLQVkfs1LcGTKq4AYMz8vE4ENCZyVdqL4Rpump",
    0.103,
-   2.3,
+   3.3,
    "buyers=3; top5_hold_most=100%"
   ]
  ]
