@@ -6482,83 +6482,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:30:12",
+   "2026-10-29T15:31:10",
    32.58
   ]
  ],
- "cycles": 2216,
+ "cycles": 2217,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.99,
- "watching": 260,
+ "sol_usd": 97.1250520951,
+ "watching": 264,
  "near": [
   [
-   "AURA",
-   "8cxHRwJMcw7jrfZz3GdZE9C6RNfEQQtNqhGCw6J4pump",
-   1.0,
-   4.5,
-   "graduated"
+   "NULL",
+   "HFrri95vJf2pEeCi5Db1Cqtw52V5vhsRUgcAVgSYpump",
+   0.713,
+   2.8,
+   ""
+  ],
+  [
+   "SGI",
+   "5kXpYH9sXXkzBV35HkjBtmHWjAf2umCp8iAxXZDApump",
+   0.633,
+   2.3,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "WUMPUS",
    "5gQ6poQcmYHti4qdtfmC5163zTCncVeXM8jfjwDKpump",
-   0.85,
-   6.5,
+   0.513,
+   7.5,
    ""
-  ],
-  [
-   "VBUCKS",
-   "7ApZfz98ReEpSJpRSURLzfNpLHjyWdCT4m7A4uvQpump",
-   0.616,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "calm",
    "DXQGgvHf8qFGcuVh9t6gRLA7bm1PKwhzWkS883F9pump",
-   0.487,
-   8.1,
+   0.243,
+   9.0,
    ""
   ],
   [
    "Elon",
    "5gcSUJPCE3xkSX5GAvFxQdFwTaW7C4Gnwc6WDEHMpump",
    0.226,
-   2.6,
+   3.6,
    ""
   ],
   [
    "Lazarus",
    "G4T7FQiz2AWfbTHn1RaRAyLKPvZfdYyTwfcBuPh2pump",
    0.185,
-   5.3,
+   6.2,
    "top5_hold_most=82%"
   ],
   [
    "rock",
    "HWT7oJAKMUAQNBfsPMXfJXKtS8Qpoj1ssMRbJeVDpump",
    0.159,
-   7.5,
+   8.5,
    ""
+  ],
+  [
+   "V-BUCKS",
+   "9GsuSbo3C6irbytEJBtZb5s54zrGegz7F1Kqu7Uxpump",
+   0.151,
+   2.4,
+   "buyers=8; top5_hold_most=84%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "GOONCOIN",
    "ErYzQRejkT4CDoN6hFQuneZ44SGB9Hoz1ZmGnfSivt6v",
-   0.142,
-   5.0,
+   0.113,
+   6.0,
    ""
-  ],
-  [
-   "Bottom ",
-   "HtKYu26d4EvqbMT9FMXDdwca6PPWJLPUux8Z2Ysfpump",
-   0.118,
-   10.0,
-   "buyers=6; top5_hold_most=99%"
   ],
   [
    "!LAMPs",
    "9wnWC3y6YyMc6jWb2wa4WgfHANL4wG1HFhuAmfvHpump",
-   0.089,
-   6.9,
+   0.088,
+   7.9,
    "buyers=5; top5_hold_most=100%"
   ]
  ]
