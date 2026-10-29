@@ -4332,81 +4332,85 @@
   [
    "2026-10-28T23:06:04",
    82.63
+  ],
+  [
+   "2026-10-28T23:07:05",
+   82.63
   ]
  ],
- "cycles": 1233,
+ "cycles": 1234,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.307458748,
- "watching": 151,
+ "sol_usd": 100.276854535,
+ "watching": 158,
  "near": [
   [
-   "GME",
-   "4ozD7WDay8Tx3twczV2naM8TsxW7pqexHpZ2YzrHStBj",
-   0.164,
-   9.4,
-   "buyers=7; top5_hold_most=96%"
+   "test",
+   "5RH1or8mjdv4rCotdyxJZCWg9qY8iWyxxxQXXrXQ8fCm",
+   0.076,
+   2.4,
+   "buyers=6; top5_hold_most=83%"
   ],
   [
    "Miu",
    "AdVRxehuvByLBAshdon72Bg6LHqhyujgQ7MdGUdWpump",
    0.06,
-   4.1,
+   5.1,
    ""
   ],
   [
    "BIO",
    "T9ahicxd1ZGenWjxohfueq4nB3WK7zfPYZsD7i6pump",
-   0.058,
-   5.4,
-   "buyers=6; top5_hold_most=99%"
+   0.056,
+   6.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "GTAC",
-   "9vaMjjoU6CVoEuXr3pZikBmWnf9bVd2CBHAPZ1JXpump",
-   0.035,
-   9.4,
+   "SOCIAL",
+   "5bX2kGszUPGDstNavZWtfzKb9VhSKQtZEM8AEcXkpump",
+   0.026,
+   2.7,
    ""
   ],
   [
    "FORD",
    "7KRZBY2xoyQa1tQsHwdjAJdEjM8JSYoQEXrwqSvfpump",
-   0.028,
-   7.7,
-   ""
-  ],
-  [
-   "GRUMPY",
-   "535RDaJbhUsRgyK6bV7t6G8bim2245weULao9CzZpump",
-   0.024,
-   2.1,
-   ""
-  ],
-  [
-   "BULLFROG",
-   "4o15FcSFDSiBCrYmVQVGPfcLQmyCUeDDSEuzVuTMpump",
-   0.024,
-   5.9,
-   ""
-  ],
-  [
-   "KITTY",
-   "5vnRQzMHPo2MqJsUw1pEs9oLah8qwtdPrrBLzvMrpump",
-   0.022,
-   3.8,
+   0.019,
+   8.7,
    ""
   ],
   [
    "FX",
    "8M9j7NYuZGokVr5LRCZgp475oWmk2emxTXGw5Hcepump",
    0.011,
-   2.0,
+   3.0,
    ""
   ],
   [
    "Rapport",
    "ZE8nutXm5SpaykbYW9PLZk7LVtwR4MBaUhhwzXgpump",
    0.008,
-   3.3,
+   4.3,
+   ""
+  ],
+  [
+   "SUPERCAT",
+   "CRGRUoNQW6nATaEYaTVD6S8ZpDz3mnrfBajCzcEfpump",
+   0.006,
+   3.1,
+   ""
+  ],
+  [
+   "squadpad",
+   "fZd3pLgmqX3wCLFMWyjcyTs51f62XTa65wfbJrFpump",
+   0.004,
+   8.7,
+   ""
+  ],
+  [
+   "Elon",
+   "5HHDmyzsm6c9hUYtfFLUA7uCwVsmTd9oTXtbRT2d3eBF",
+   0.003,
+   2.5,
    ""
   ]
  ]
