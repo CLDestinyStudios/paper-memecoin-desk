@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 58.301685080580235,
- "positions": {},
+ "cash": 56.551685080580235,
+ "positions": {
+  "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump": {
+   "sym": "ZERO-DAY",
+   "bc": "54UixM3kjRznmLrfiFhyifGpLCfSijAuxvTfnLgfFpmU",
+   "tokens": 278220.64314594265,
+   "cost": 1.75,
+   "cost0": 1.75,
+   "entry_px": 5.76534849047649e-08,
+   "entry_fill": 6.263664411034135e-08,
+   "opened": 1793274746.1827707,
+   "last_px": 5.76534849047649e-08,
+   "peak_px": 5.76534849047649e-08,
+   "last_val": 1.476237220436116,
+   "last_prog": 0.411
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -332,7 +347,8 @@
   "7kTRqwLQwah5f1DjXV5Js23moLx7HP4CgMGbfg2Dpump",
   "P4TycWq2XB3nQvy6MwE365qG5vc7hSxSwns2Rnopump",
   "8CHZri4cE9hmmdPyV6mVy2Z7ujGTs5a5cinKCBQTpump",
-  "B535EuVDiYJpCpX98LhJdAS1RbokiFor1pfiLaCGpump"
+  "B535EuVDiYJpCpX98LhJdAS1RbokiFor1pfiLaCGpump",
+  "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump"
  ],
  "equity": [
   [
@@ -5286,81 +5302,85 @@
   [
    "2026-10-29T04:51:28",
    58.3
+  ],
+  [
+   "2026-10-29T04:52:26",
+   58.03
   ]
  ],
- "cycles": 1578,
+ "cycles": 1579,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.396690908,
- "watching": 158,
+ "sol_usd": 100.42,
+ "watching": 160,
  "near": [
   [
-   "VOKIZ",
-   "7tR44xoLfhyTCekeUkHfohDwrvd1t1hSFDpbQfHKCvxf",
-   0.346,
-   6.6,
+   "OREN",
+   "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump",
+   0.803,
+   2.4,
+   ""
+  ],
+  [
+   "OREN",
+   "7N5eFPXYFStTEPL27xwp9qEmQgxLifhAA5zYmfKVEukV",
+   0.732,
+   2.8,
    "bundled_launch=3 extra buys in creation block"
   ],
   [
    "ZERO-DAY",
    "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump",
-   0.132,
-   3.1,
-   ""
+   0.411,
+   4.1,
+   "bought"
   ],
   [
    "MWEZI",
    "AePy9jwgHm64yKzYpDi9k6krqHMyQNfRFTr8tYzdxfgU",
    0.097,
-   7.9,
-   ""
+   8.9,
+   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "TM13",
    "71XwZCqjXVwmtZTiDNtRgLMxzEacAjFkXngKGfbCpump",
    0.084,
-   4.4,
+   5.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "ZERO-DAY",
-   "4KLYphhGJLsEnPcjwRTKF2furrWPXmcxTnAC8H7vpump",
-   0.08,
-   4.5,
-   "buyers=3; top5_hold_most=100%"
+   "OREN",
+   "CL8JZ3h9bXKmucySCnYr1VJqzTCRBURWjEw6CZNhVZzJ",
+   0.06,
+   2.8,
+   ""
   ],
   [
    "Gnosis",
    "FHqGTaNEZqQm5MdrnX5tQzgWtfhnQMkPHynCKJybpump",
-   0.078,
-   2.7,
-   "buyers=8; top5_hold_most=96%"
+   0.056,
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "PINO",
    "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
    0.05,
-   5.9,
+   6.9,
    ""
   ],
   [
    "OUTSNIPE",
    "CiXUtggr2rKf9tjSMueF7JThXGcF5oK1w2GKXjppump",
    0.046,
-   7.1,
+   8.1,
    ""
   ],
   [
-   "Mwezi",
-   "FKLWUdi32bSBrhFeh27FnVeYK49sDDPaFQntocodEg9R",
-   0.039,
-   9.9,
-   ""
-  ],
-  [
-   "GENNY",
-   "75FFhTTps2vjb75VWDBr6anuweJvaGzWee8U3mBzpump",
-   0.022,
-   4.9,
+   "MCHA",
+   "xQHJxuYWnvNV1A5eYKqcZ5jyEv3oPKCNRM7VLHqpump",
+   0.037,
+   2.9,
    ""
   ]
  ]
