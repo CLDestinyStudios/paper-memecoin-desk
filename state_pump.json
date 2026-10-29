@@ -6442,83 +6442,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:56:08",
+   "2026-10-29T13:57:02",
    32.58
   ]
  ],
- "cycles": 2122,
+ "cycles": 2123,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.60954796164755,
- "watching": 282,
+ "sol_usd": 96.5307931603,
+ "watching": 280,
  "near": [
   [
    "OREN",
    "CQwTUCSNWmpWUZ1CmWHt2qZg3gPUxRntMXBLVUVQQUSf",
    0.611,
-   5.5,
+   6.4,
    "buyers=1; creator=48.4%; top10=48.4%; top5_hold_most=100%"
   ],
   [
-   "offchain",
-   "9jrymsK4ozsFBZ9pNgBdXa7emg4vCToj8qsVpJiaxajb",
-   0.598,
-   3.2,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "BINHACK",
-   "43Mi4KHYAE7EHWZPqrjaSdqEicY8dqqf1f6cJn5Qpump",
-   0.368,
-   2.4,
+   "NEURALINK",
+   "EmeUdroVTaJjcBzu4jp2qeD8jHgGz8GzeAdBYRFpump",
+   0.504,
+   3.0,
    "bundled_launch=3 extra buys in creation block"
   ],
   [
    "AKASHA",
    "7uKxeyBZce83KcYz4orVR8BCTZjUqKMMiTcSphZRpump",
-   0.313,
-   8.1,
+   0.306,
+   9.0,
    "buyers=8; top5_hold_most=94%"
   ],
   [
    "POLY",
    "G1VdeURiEkRJsZgWMEHXdUXseNGnvJLrE6RHQy2dpump",
-   0.275,
-   7.9,
+   0.236,
+   8.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BEAR",
-   "27uCD72VSsLTiwT293V9yVU7nNgRr6g5FQWLs41Jpump",
-   0.189,
-   4.3,
-   ""
+   "CYBER",
+   "5UfGdz4QMYyqD1FeeTYKD6kxyokPLFxsPAEUqiiJpump",
+   0.187,
+   2.8,
+   "buyers=6; top5_hold_most=94%"
   ],
   [
    "OVER",
    "D1KugXegBk7JNsiSLuoZt9fmd5AKR1NbhVJ3Gksspump",
-   0.156,
-   3.8,
+   0.138,
+   4.7,
    ""
   ],
   [
    "offline",
    "Gvxa7n9Diio1r86W3ydJ1GjUngLZQsjxLgxwKJ5vpump",
    0.117,
-   2.8,
+   3.7,
    ""
   ],
   [
    "Down",
    "DWaEpMUq1mtpBZCtsLSXsNpXHgFx1UV8ZkHGRctQpump",
    0.107,
-   3.7,
+   4.6,
    ""
   ],
   [
    "offline",
    "5d3XWRVCKJVgC36GBr9fnM9cxXcnatpMjEPs15TDpump",
    0.106,
-   2.7,
+   3.6,
+   ""
+  ],
+  [
+   "MSI",
+   "2vQ6bp15dd5o6iWmTdefo7wfz2HTa121mcnCrqnppump",
+   0.083,
+   5.6,
    ""
   ]
  ]
