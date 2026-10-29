@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 391.8427460349176,
+ "cash": 350.54274603491757,
  "positions": {
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "sym": "JOB",
@@ -9,14 +9,34 @@
    "mark_entry": 0.002572,
    "cost": 21.64,
    "peak": 0.002901,
-   "last": 0.002678,
+   "last": 0.002676,
    "opened": 1793230670.62822,
+   "p_buy": 0.55
+  },
+  "HYv2VeLzVpGiGoBPbPmHDjJXNjBWsqz1axvZCv7Qpump": {
+   "sym": "SLEGO",
+   "qty": 108657.94038795144,
+   "entry": 0.00019023,
+   "mark_entry": 0.0001865,
+   "cost": 20.67,
+   "peak": 0.0001865,
+   "last": 0.0001865,
+   "opened": 1793246404.085848,
+   "p_buy": 0.56
+  },
+  "147a97vXeJMM8pgFrEeMVmts4MciKAEEwRN6anYQszec": {
+   "sym": "0",
+   "qty": 275176.73736161133,
+   "entry": 7.497e-05,
+   "mark_entry": 7.35e-05,
+   "cost": 20.63,
+   "peak": 7.35e-05,
+   "last": 7.35e-05,
+   "opened": 1793246404.0859814,
    "p_buy": 0.55
   }
  },
- "watch": {
-  "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump": 1793246344.7842324
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -47,7 +67,9 @@
   "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump",
   "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo",
   "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-  "27vYy4dtRzKD4iCx4qMjPv3C2o1FgSbCLS1eVbxKpump"
+  "27vYy4dtRzKD4iCx4qMjPv3C2o1FgSbCLS1eVbxKpump",
+  "HYv2VeLzVpGiGoBPbPmHDjJXNjBWsqz1axvZCv7Qpump",
+  "147a97vXeJMM8pgFrEeMVmts4MciKAEEwRN6anYQszec"
  ],
  "equity": [
   [
@@ -2973,8 +2995,12 @@
   [
    "2026-10-28T20:59:04",
    413.49
+  ],
+  [
+   "2026-10-28T21:00:04",
+   411.86
   ]
  ],
- "cycles": 1126,
+ "cycles": 1127,
  "started": "2026-10-28T01:46:56"
 }
