@@ -2,21 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 78.02946374048747,
+ "cash": 79.58422277558527,
  "positions": {
   "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump": {
    "sym": "ALMOST",
    "bc": "9saGTGXCnJpqeFA8rzLYn3avtL2RWuZWA2JxvmBVWxyY",
-   "tokens": 316942.70562194823,
-   "cost": 2.43,
+   "tokens": 158471.35281097412,
+   "cost": 1.215,
    "cost0": 2.43,
    "entry_px": 7.143875508542197e-08,
    "entry_fill": 7.697199010237665e-08,
    "opened": 1793258890.5310805,
-   "last_px": 7.598282196354446e-08,
-   "peak_px": 7.598282196354446e-08,
-   "last_val": 2.223112152032963,
-   "last_prog": 0.532
+   "last_px": 1.0725575892918536e-07,
+   "peak_px": 1.0725575892918536e-07,
+   "last_val": 1.554759035097797,
+   "last_prog": 0.662,
+   "tp1_done": true,
+   "realized": 0.3397590350977968
   }
  },
  "traded": [
@@ -4548,81 +4550,85 @@
   [
    "2026-10-29T00:29:05",
    80.25
+  ],
+  [
+   "2026-10-29T00:30:07",
+   81.14
   ]
  ],
- "cycles": 1316,
+ "cycles": 1317,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.6070860711,
- "watching": 129,
+ "sol_usd": 99.61,
+ "watching": 139,
  "near": [
   [
-   "dose",
-   "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
-   0.047,
-   4.5,
-   "top5_hold_most=93%"
+   "ripr",
+   "DAB823T4F6DJjCjSecKTq5TLS3bchSTyqDp3AdEYpump",
+   0.743,
+   2.5,
+   "top10=53.2%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.044,
-   2.7,
+   3.7,
    ""
+  ],
+  [
+   "dose",
+   "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
+   0.036,
+   5.5,
+   "top5_hold_most=93%"
   ],
   [
    "EXNESS",
    "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
    0.03,
-   7.8,
+   8.9,
+   ""
+  ],
+  [
+   "VC",
+   "27J2M42yDJ36svqpxqp1ML2cP1mg4XF1Q1h1kbpkpump",
+   0.024,
+   2.1,
+   ""
+  ],
+  [
+   "67coin",
+   "HpjUhQmLVDKx2CVo4wdd2AFQmjVDdCVocHxmmqtxpump",
+   0.023,
+   2.4,
    ""
   ],
   [
    "VOICE",
    "3PgPrtKeCdkxYNPe7dRD3t9tyCFBZjqQkAJqobKWpump",
    0.022,
-   5.6,
+   6.6,
    ""
   ],
   [
-   "Solana",
-   "GZBYW6zwYfkd9G6kvrxu2xwFvMx7WmykxoqhmpjMpump",
-   0.011,
-   8.5,
+   "VS",
+   "AFf4cwq74KRyd79h18TNQzHiz2cA2rR33LGEnUcKpump",
+   0.022,
+   2.4,
+   ""
+  ],
+  [
+   "Voice Note",
+   "D2Xhpd3poBsLxwb6vZxpC7uuDDhSDyw7b1swRvvkpump",
+   0.016,
+   2.1,
    ""
   ],
   [
    "Nigger",
    "54J82bBFc2BNWnvM7Wd9akjvWy4iEQDqDLxFxFkopump",
    0.005,
-   3.5,
-   ""
-  ],
-  [
-   "MONKEY",
-   "5EA13y7tyLNDvaPZaoLLsgMHqYe4r9FmvpJ3z4Rupump",
-   0.003,
-   10.0,
-   ""
-  ],
-  [
-   "STEVE",
-   "Ded29XxyhLLDFLWZSoB3F1dv37SLEko85msJcLESpump",
-   0.003,
-   5.2,
-   ""
-  ],
-  [
-   "MSKC",
-   "BEZgeoUQDvR4X3M1fdjArLexDrmsYgvo7HqixcGKpump",
-   0.003,
-   8.5,
-   ""
-  ],
-  [
-   "CRACK",
-   "BsnLb27rHtBoK4mWAxJycH6wynbmWuBxKLDmWhZXpump",
-   0.002,
-   7.9,
+   4.6,
    ""
   ]
  ]
