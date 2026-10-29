@@ -6390,83 +6390,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:54:57",
+   "2026-10-29T11:55:57",
    32.58
   ]
  ],
- "cycles": 2001,
+ "cycles": 2002,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.61731588599999,
+ "sol_usd": 100.616918571,
  "watching": 286,
  "near": [
   [
    "pup",
    "6ntwmKwMejKLCmn79HvHtybHJL8wtwYZnruscgehpump",
-   0.953,
-   3.7,
+   0.967,
+   4.7,
    ""
   ],
   [
    "FLIP",
    "2c6KepS2pTKbJn7Jx2w3VYAUjbaGqn89WaSmiqt7pump",
-   0.505,
-   4.7,
+   0.495,
+   5.7,
    ""
+  ],
+  [
+   "LONGCAT",
+   "PppEmwXAtST9BhPzV8Vaj7rCWUq53kKCmqkK1bRpump",
+   0.491,
+   2.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Satoshi",
    "AB6k5NcqUMzTypjB8WK2qZJhSr44t56rjgtVKPvFpump",
-   0.455,
-   3.7,
+   0.458,
+   4.7,
    ""
   ],
   [
    "Pillow",
    "7c7VbfrjZuGPJDU7fE6WCbYp7WibPzfxY54cEP6mi4DT",
-   0.441,
-   5.5,
+   0.438,
+   6.5,
    ""
   ],
   [
    "Doink",
    "CnXfNyjksXHpPkBb2bJZFXR9So7rWWjsysEi5e3Jpump",
-   0.284,
-   8.8,
+   0.241,
+   9.8,
    ""
-  ],
-  [
-   "Jonston",
-   "HtVdWNr9B8nTWYYkjGAANYhMkaXit9s6o7EmeB4vpump",
-   0.24,
-   9.2,
-   "top5_hold_most=86%"
   ],
   [
    "DUNEUSSY",
    "3dt66pVTd2oJdKGUpFcLGcfr6RuHFjdjJujTMH2Jpump",
    0.225,
-   9.0,
+   10.0,
    ""
   ],
   [
    "POORGOAT",
    "HGXrEjdSAEofw1zUu5aTmuFQqVnvxExecoGyTmsyeiFC",
    0.19,
-   6.5,
+   7.5,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "STAN",
    "WUbKV1KrtHCw5D6a6FEiJxfd5eQz6iD1smrgY4Epump",
-   0.178,
-   8.6,
+   0.15,
+   9.6,
    ""
   ],
   [
    "DUNEUSSY",
    "Hop66h8zr5y9b7oC2CRRUkxPhrx1u4UGzkA6D4Mgpump",
    0.109,
-   8.5,
+   9.5,
    "buyers=4; top5_hold_most=100%"
   ]
  ]
