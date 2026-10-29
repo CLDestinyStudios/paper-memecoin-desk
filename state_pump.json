@@ -6408,82 +6408,86 @@
   [
    "2026-10-29T12:34:06",
    32.58
+  ],
+  [
+   "2026-10-29T12:34:56",
+   32.58
   ]
  ],
- "cycles": 2040,
+ "cycles": 2041,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.20589556799999,
- "watching": 284,
+ "sol_usd": 100.174281151,
+ "watching": 275,
  "near": [
+  [
+   "STAN",
+   "Zsvphdv4KUi4X6H6P554n6wQJzDzLbX2wZNMF3mpump",
+   0.962,
+   2.8,
+   ""
+  ],
+  [
+   "SIFT",
+   "8J7FWYmDZjM8zUfKYZRyP7DoZcTJrnifWD3i1nkmSiFT",
+   0.638,
+   2.4,
+   ""
+  ],
   [
    "HATCH",
    "HEv7SjYsduJ6AFtkoYRwapyttzhDCUt7rEkNxiVcpump",
-   0.553,
-   4.1,
+   0.339,
+   4.9,
    ""
   ],
   [
    "SPUD",
    "4x2e9r8gMsGBq5cqtLhPdauQdN3dUCPyNbRkLBnkpump",
-   0.422,
-   2.8,
-   "buyers=8"
-  ],
-  [
-   "Tigger",
-   "7QLfa1v43ynKz21tfyy3m83py5XfEjGoEtNKMffKpump",
-   0.195,
-   2.9,
-   "top5_hold_most=87%; bundled_launch=5 extra buys in creation block"
+   0.326,
+   3.6,
+   "buyers=6; top5_hold_most=92%"
   ],
   [
    "PEIPEI",
    "2KYyBfyzwMYyYiCwryjiHq8LAuSkYyDXwg4vrTenpump",
    0.185,
-   4.4,
+   5.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "HypeBot",
    "3DL8kHnj7WKhyyVPY8KC8cRKxi23Fc59yjCmVferpump",
    0.13,
-   3.5,
+   4.3,
    "top5_hold_most=98%"
-  ],
-  [
-   "ICAT",
-   "GLsmZnEZfzRKn6KYNjMfYFqP4UKzyRqdXo8qww7HwAoG",
-   0.122,
-   9.2,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "RICHARD",
    "kL58zon2xC1sxWWMpUSgtFuAdRW9dYeSWyki34tpump",
    0.108,
-   4.7,
+   5.6,
    ""
   ],
   [
    "Hypurri",
    "HSPB1BcLivQnLASptL1YB5nzVgcPmjPPCiPk3N3hpump",
-   0.104,
-   7.8,
+   0.105,
+   8.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "HYPEMILK",
-   "C9hbVXoKZ8z9NXPsPGTFMdfEZ4ueJSyCJe2BVw1kpump",
-   0.095,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
+   "$FOMO",
+   "A1YmgL857kFtPGHABDhF68Ry2W2W2H2QMGAF9EVhpump",
+   0.061,
+   9.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "trenchkid",
-   "7jRRdptRp1wKP1REu3fvJeUKU6FeZpiCq91AGDESpump",
-   0.09,
-   9.3,
-   "buyers=5; top5_hold_most=100%"
+   "ICE",
+   "69F55UJvFeWmPhNitawvepuxy3g99FZyZfUTWbVYpump",
+   0.06,
+   3.5,
+   ""
   ]
  ]
 }
