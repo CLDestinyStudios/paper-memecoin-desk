@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 74.69254228534561,
- "positions": {
-  "83UM2ihe4Xbbsq1HCBWbMpow5YEAoUYaCQ1CnrQ9pump": {
-   "sym": "Buster",
-   "bc": "C1mkHopErgdqSiJB1YdUivpjsKKAfH76Gr5xJVciTiKL",
-   "tokens": 187935.75247673033,
-   "cost": 2.31,
-   "cost0": 2.31,
-   "entry_px": 1.1430441076349969e-07,
-   "entry_fill": 1.2327925294239696e-07,
-   "opened": 1793260271.6881924,
-   "last_px": 1.1430441076349969e-07,
-   "peak_px": 1.1430441076349969e-07,
-   "last_val": 1.9798839171577216,
-   "last_prog": 0.684
-  }
- },
+ "cash": 75.14973725092847,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4609,81 +4594,85 @@
   [
    "2026-10-29T00:51:11",
    76.67
+  ],
+  [
+   "2026-10-29T00:52:05",
+   75.15
   ]
  ],
- "cycles": 1338,
+ "cycles": 1339,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7039992569,
- "watching": 142,
+ "sol_usd": 99.71448907400001,
+ "watching": 144,
  "near": [
-  [
-   "Buster",
-   "83UM2ihe4Xbbsq1HCBWbMpow5YEAoUYaCQ1CnrQ9pump",
-   0.684,
-   2.5,
-   "bought"
-  ],
-  [
-   "Flappy/PP",
-   "H8E4hLVfggW3wUTHBZsvd8kFPEdKtXRFdtk7eWW3pump",
-   0.459,
-   2.9,
-   "rugcheck=creator history of rugs"
-  ],
   [
    "CROWDCAT",
    "6ge8cKeWqAUtkHftcZrhG3rAyi2MzRqYqwKX5DNSCec5",
-   0.163,
-   2.8,
-   "buyers=9; top5_hold_most=96%"
+   0.167,
+   3.7,
+   "top5_hold_most=94%"
   ],
   [
    "BILLY",
    "EcQPPd9tKtPxiQULnFW3XA3URpebdAzLoVH7pgobo5w4",
    0.131,
-   6.9,
+   7.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "NOL",
    "Bkp6kNfnGdFA2u2Fbd61adsc4LuFb1buPo5fCLyQpump",
    0.122,
-   2.1,
+   3.0,
    "buyers=7; top5_hold_most=96%"
   ],
   [
-   "Buster",
-   "j8wd1wT22Fq17TEwwuPYVGKTNQAJE73gwFFfoqCpump",
-   0.101,
-   2.6,
-   ""
+   "Metalcoin",
+   "GQcGZppMKiQoLY3eie8BrKnt72XUT17X8Um4XqG1pump",
+   0.107,
+   2.3,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "NODIT",
+   "cLSLoCNsCsuSFpV4bYXrt7cATYTF8YDxR56NyRNpump",
+   0.095,
+   3.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "PP",
    "FBjHS2GdeZq9RAUUsbpjvK5p3MLcoSNYdLjtuEappump",
    0.085,
-   7.7,
+   8.6,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Metalcoin",
    "Brc9DUVDfjTp6ezeCjaKyhHyfmeJcaDxxE24Npgbpump",
    0.063,
-   2.5,
+   3.4,
    ""
   ],
   [
    "CC",
    "CRvjtHyc49xpwhZrLbGb1p1RkcLMSCwnenB3f8UFpump",
    0.053,
-   6.5,
-   "buyers=3; top5_hold_most=100%"
+   7.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BP",
    "GYSW8Hgc3yH9moLMev9z7Yk6TqidBtNWibB9LXkGpump",
    0.046,
-   3.6,
+   4.5,
+   ""
+  ],
+  [
+   "Metalcoin",
+   "5Nv4YLFaypRDb1G4c4PAwykPXhVsoeuE9zSh9aQ7pump",
+   0.022,
+   6.5,
    ""
   ]
  ]
