@@ -4007,81 +4007,85 @@
   [
    "2026-10-28T21:07:03",
    102.61
+  ],
+  [
+   "2026-10-28T21:08:03",
+   102.61
   ]
  ],
- "cycles": 1114,
+ "cycles": 1115,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.38,
- "watching": 172,
+ "sol_usd": 99.3785185278,
+ "watching": 165,
  "near": [
   [
    "neko",
    "FVdztTzHhVcGbRBpTsHQGhtqU2cuqVPPVuy6FQHpump",
-   0.605,
-   5.6,
+   0.572,
+   6.6,
    ""
   ],
   [
    "neko",
    "GmqpVKhqUP9wsZeHKbajdK7Sf1wBtHGWQQ6sDr6Ppump",
    0.128,
-   4.7,
+   5.7,
    ""
   ],
   [
    "INU",
    "5SZYfxSaHfDyus5xPeUgCitKdTNsPrPv2yb4XgRGpump",
    0.127,
-   7.2,
-   "top5_hold_most=91%"
+   8.2,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "KAM",
    "Bni6WJXtnFPY2ut417QXfQ83NtgHyf5eeRybLfLgpump",
-   0.117,
-   3.7,
+   0.09,
+   4.7,
    ""
   ],
   [
    "INU",
    "528wnhjBGUDrAjPWbft6y6WDXvJjPVrtxmeYXAbCpump",
    0.083,
-   3.2,
+   4.2,
    ""
   ],
   [
    "Twenchur",
    "5xPJ7wzFCBF45UftghvB8WNQHWft28HJsoAYR3popump",
    0.076,
-   2.4,
-   ""
-  ],
-  [
-   "inu",
-   "99PvnVpwrfWBiam6Eu5B27MhxzPmoQCy4TiRiJ4gpump",
-   0.072,
-   2.9,
+   3.4,
    ""
   ],
   [
    "Owl",
    "4rNFy4j2V3AKWvpzPYXhmkRTR4u1oyh13bF5fdvHpump",
    0.07,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "LSHIBA",
-   "CkuwYrjYzYx1sHR8n5QGv2VVEUnpNsgrixPJ3Yydpump",
+   "Christine",
+   "9WcD1wFAhaFZGCBYksYwYUFzHFnmHPNUjNgFJGG8pump",
+   0.062,
+   2.8,
+   ""
+  ],
+  [
+   "bird",
+   "93dokA8mFSuiFkWdDKo8R5hvDSFx9CrGvSKSRS8zpump",
    0.023,
-   9.9,
+   2.6,
    ""
   ],
   [
    "NUTELLAS",
    "GDMxZw6i6KxGcqC42XZayxpZNU9uXMLkYqUAahgspump",
    0.022,
-   5.3,
+   6.3,
    ""
   ]
  ]
