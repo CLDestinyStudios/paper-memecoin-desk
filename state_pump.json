@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.2914317359450114e-07,
-   "peak_px": 1.2914317359450114e-07,
-   "last_val": 1.9642682740922837,
-   "last_prog": 0.723
+   "last_px": 1.413184636622748e-07,
+   "peak_px": 1.413184636622748e-07,
+   "last_val": 2.1544876766945875,
+   "last_prog": 0.751
   }
  },
  "traded": [
@@ -5240,81 +5240,85 @@
   [
    "2026-10-29T04:34:22",
    58.92
+  ],
+  [
+   "2026-10-29T04:35:21",
+   59.11
   ]
  ],
- "cycles": 1561,
+ "cycles": 1562,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.25,
+ "sol_usd": 100.265865572,
  "watching": 180,
  "near": [
   [
-   "ShuBao",
-   "vRJNbvpdcv4TzcXTEuHkdPWsQKGXn6VEyatQKU2pump",
-   0.489,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
    "CRINGE",
    "GcMcLQgUbUwQAf3LdFahrhwzAALzS3ACpQAW797Zpump",
-   0.137,
-   2.3,
-   "top5_hold_most=84%"
+   0.134,
+   3.3,
+   "top5_hold_most=86%"
   ],
   [
    "trmpxmsk",
    "Af87AMsbEtQmr8FydDT51qwoGbnP5UFx1niXyUYjpump",
    0.124,
-   8.8,
+   9.8,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Marmot",
+   "EenUMqd9dM3vgyY7DLMVb7WDQ1TRSU5J3MyMbeArpump",
+   0.084,
+   2.6,
+   ""
   ],
   [
    "sheriff",
    "FW5ESViMgLWHtPWQuWP4PhFXmpjj2LKTKbShnTQXpump",
    0.058,
-   9.0,
+   10.0,
    "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "Absolute",
-   "57bfRCaBGqzWuTfKwh8CQqSw6k8FnrjrKcb3QZsRpump",
-   0.051,
-   3.9,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "CART",
-   "Bsw2XytYEnB2qxuTuWobjccJqb4pfxDVXDs4xFUdpump",
-   0.044,
-   3.0,
-   ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   2.2,
-   ""
-  ],
-  [
-   "GHOST",
-   "A63ubhFJoAJi3RgHMbcV58GjPe3XwDzSDPv6Y7H5SLht",
-   0.043,
-   8.3,
+   3.2,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "AC7knmXXrzB3wSMURr2KvKDM2iQapC6E4LEhCUSepump",
    0.03,
-   5.3,
+   6.3,
    ""
   ],
   [
    "Boat coin",
    "D8zTJzH8oUMQ8rTjTo7C1A8W3ojD49yvtbtvmBEUpump",
    0.027,
-   5.8,
+   6.8,
+   ""
+  ],
+  [
+   "AURA",
+   "6bafXYaCz5EEecb53gjzQkPLrkwMfGUAYwR1E4ocxDCk",
+   0.022,
+   8.1,
+   ""
+  ],
+  [
+   "\u30ca\u30ba\u304f\u3093",
+   "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
+   0.022,
+   5.7,
+   ""
+  ],
+  [
+   "GTA67",
+   "9bwwEt8Y78zPWXbXhMBExMR9eobj1mYGQnZqdDgspump",
+   0.016,
+   2.4,
    ""
   ]
  ]

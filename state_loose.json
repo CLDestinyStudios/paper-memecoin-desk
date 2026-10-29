@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 363.72556637556175,
+ "cash": 417.3485482516734,
  "positions": {
   "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP": {
    "sym": "SI",
@@ -23,17 +23,6 @@
    "last": 0.03389,
    "opened": 1793253786.137508,
    "p_buy": 0.75
-  },
-  "GZFiR672hbnK29jUZpbUXGHe3xFFrYCbUQw8dguKpump": {
-   "sym": "NICEHAT",
-   "qty": 583216.0354403309,
-   "entry": 3.6658799999999995e-05,
-   "mark_entry": 3.594e-05,
-   "cost": 21.38,
-   "peak": 0.000158,
-   "last": 0.000158,
-   "opened": 1793273363.1839268,
-   "p_buy": 0.55
   }
  },
  "watch": {},
@@ -4689,8 +4678,12 @@
   [
    "2026-10-29T04:34:24",
    496.42
+  ],
+  [
+   "2026-10-29T04:35:21",
+   459.73
   ]
  ],
- "cycles": 1581,
+ "cycles": 1582,
  "started": "2026-10-28T01:46:56"
 }
