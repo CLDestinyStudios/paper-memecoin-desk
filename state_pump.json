@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 69.33185967174634,
- "positions": {
-  "EfEKo74gLotaQB2qnHaJpjzPV8n2vbd9bJZfntBdpump": {
-   "sym": "CI",
-   "bc": "AYoRtU3wdcmkB9ZpiDM9xh1GWqBVT7p6BhDhmsWJ3gLD",
-   "tokens": 197045.8103710556,
-   "cost": 2.14,
-   "cost0": 2.14,
-   "entry_px": 1.006724469001316e-07,
-   "entry_fill": 1.0877060645978874e-07,
-   "opened": 1793263584.900272,
-   "last_px": 1.006724469001316e-07,
-   "peak_px": 1.006724469001316e-07,
-   "last_val": 1.8271007099784942,
-   "last_prog": 0.64
-  }
- },
+ "cash": 69.82324037272247,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4719,82 +4704,86 @@
   [
    "2026-10-29T01:46:24",
    71.16
+  ],
+  [
+   "2026-10-29T01:47:20",
+   69.82
   ]
  ],
- "cycles": 1393,
+ "cycles": 1394,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.8469994298,
- "watching": 130,
+ "sol_usd": 99.82460628884998,
+ "watching": 127,
  "near": [
-  [
-   "CI",
-   "EfEKo74gLotaQB2qnHaJpjzPV8n2vbd9bJZfntBdpump",
-   0.64,
-   2.8,
-   "bought"
-  ],
   [
    "COHERENCE",
    "2x28tR1LbjFNKaRVUcDr3qPHSUKzWXoJoAweAsEXiP34",
    0.157,
-   8.0,
+   8.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "PERCENT",
    "B55mCL1QBskAzQfrTKY1DvLpDYogTjsvzna2jPKspump",
    0.053,
-   3.3,
+   4.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "AUN",
+   "AduvZugTHr8p4cWJm2VUnPwh7nU78EyKXLUWvUuypump",
+   0.042,
+   2.8,
+   ""
   ],
   [
    "NumberK",
    "F9bie1xsP8G4N42vFk77tefN1sgv8yNpfqhgxwRgpump",
    0.04,
-   3.0,
+   3.9,
    ""
   ],
   [
    "GOLDENR",
    "868thv3iUvPxEf6SftQcLUrFmzNjbx8t2yTvNNWjpump",
    0.039,
-   2.3,
+   3.2,
+   ""
+  ],
+  [
+   "GATEKEY",
+   "EDPEicLN8svqfNB8tzzR2bCCZc9kG17MNSxTe3yXmkey",
+   0.031,
+   2.7,
    ""
   ],
   [
    "T-REX",
    "F9VbUk9WkWVFp3fxehmdogz3FagigocQzyhrRz1tpump",
    0.024,
-   7.2,
+   8.1,
+   ""
+  ],
+  [
+   "BTC",
+   "ATfBW2oTimwkoWqbxG5sKmcajFJz1fMCEWKBFfk3pump",
+   0.022,
+   2.4,
    ""
   ],
   [
    "MCC",
    "77Ri4GuwZDDEvSpjmUL9LGwAgrw3KDmBsrRjCwxzpump",
    0.018,
-   3.1,
+   4.0,
    ""
   ],
   [
-   "BabyNuts",
-   "CXs6fcWJktzHQTyBv9WcsDaATRGcLS8ZhP7egbXapump",
-   0.014,
-   9.6,
+   "FatDog",
+   "C6F5JPBvZRarYVVSeDuUkUq2fMU2NAdGfDg3hJSapump",
+   0.011,
+   2.0,
    ""
-  ],
-  [
-   "crown",
-   "F98DLgFE74vcnVRmBBDnKq7zLkvvpkW6ik7GcdXKpump",
-   0.013,
-   8.8,
-   ""
-  ],
-  [
-   "retire ",
-   "BLBFPyjPgEUNfbnEDLU14cAZp5mRN9LnzK1uAf2spump",
-   0.013,
-   6.7,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
