@@ -6416,81 +6416,85 @@
   [
    "2026-10-29T12:53:00",
    32.58
+  ],
+  [
+   "2026-10-29T12:54:03",
+   32.58
   ]
  ],
- "cycles": 2059,
+ "cycles": 2060,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.97055739284998,
- "watching": 311,
+ "sol_usd": 99.95279538335001,
+ "watching": 314,
  "near": [
   [
    "Titty Inu",
    "GszgWYRKeexxSY2uN76dv5THcnYtTseA4iMuvWUipump",
-   0.953,
-   4.0,
-   ""
+   1.0,
+   5.0,
+   "graduated"
   ],
   [
    "FACEPALM",
    "7EUi3ik83wNqATuAB3UyXUMnf1ffigse7vzuy6dBu5Cc",
-   0.914,
-   3.1,
-   ""
-  ],
-  [
-   "\ud83d\udd96",
-   "DwQuPCkcRBVBQW6obQ1JaexbDQHfV1RPEf4nGc2Rpump",
-   0.649,
-   2.1,
-   ""
-  ],
-  [
-   "SHADE",
-   "2cLgMDZYCbs9YqZDaNHFFHrUXwTDJnyGkPwYUeLtpump",
-   0.598,
-   2.9,
-   ""
+   1.0,
+   4.1,
+   "graduated"
   ],
   [
    "Rise",
    "2kmgncQcaHj1y2Av8YwFq8mMT2923Sae4rjVNhPppump",
-   0.56,
-   2.1,
-   "creator=39.8%; top5_hold_most=98%"
-  ],
-  [
-   "MLC",
-   "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
-   0.224,
-   8.2,
-   ""
+   0.577,
+   3.2,
+   "creator=41.2%; top10=45.4%; top5_hold_most=98%"
   ],
   [
    "FACEPALM",
    "DGvJEgCYAnP145toV5jPCptEDewqs4dGTCqQiHScpump",
    0.223,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "\ud83d\udd96",
+   "DwQuPCkcRBVBQW6obQ1JaexbDQHfV1RPEf4nGc2Rpump",
+   0.198,
+   3.2,
    ""
   ],
   [
    "Fine",
    "DDXDWfEirJ9xnvW2LkN2JqHK4v64xaXkxXgvpc5Jpump",
-   0.198,
+   0.19,
+   3.5,
+   "buyers=8; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "GIND",
+   "EXTjq9enkwey8bVorqUgrg238Y6trPupsjBU1Eszpump",
+   0.152,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "MLC",
+   "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
+   0.136,
+   9.3,
+   ""
+  ],
+  [
+   "FACEPALM",
+   "6MmuMvj73k4myBjbXgoCnF3HQmVSwA4D551U7A7rpump",
+   0.118,
    2.4,
    ""
   ],
   [
-   "\ud83d\udd96",
-   "4nXscHGg4Mw4AgE3pG6vSShcT7hzkDAJYaLibekTVTKD",
-   0.157,
-   2.1,
-   ""
-  ],
-  [
-   "X",
-   "GMjMftyfS9hgXUjUPaFUUJR3PzVduMh6xBi6g9JApump",
-   0.154,
-   4.1,
+   "bro",
+   "57o8ziS8jg1apqvFmKDf2X28LvbPpMGFRkN4fRximjAd",
+   0.096,
+   3.8,
    ""
   ]
  ]
