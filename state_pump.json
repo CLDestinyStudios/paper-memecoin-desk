@@ -4163,83 +4163,83 @@
    89.81
   ],
   [
-   "2026-10-28T22:23:05",
+   "2026-10-28T22:24:05",
    89.81
   ]
  ],
- "cycles": 1190,
+ "cycles": 1191,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.50587928000002,
- "watching": 155,
+ "sol_usd": 100.497467977,
+ "watching": 151,
  "near": [
-  [
-   "incum",
-   "2ZVXye2dzK7ZMRZvSJKJJKCSh6bgniHoB9FQ6QJxpump",
-   0.076,
-   2.5,
-   "top5_hold_most=83%; bundled_launch=3 extra buys in creation block"
-  ],
   [
    "CIP",
    "yUGkAJMJH23jzdMVnzAeRJgLdh6Yq78QikzSh2bpump",
    0.075,
-   4.9,
+   5.9,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Cuminu",
-   "DQ8LByw4HYKapuF83Z218wGtxYyJUJb8ajjKsSU2pump",
-   0.068,
-   7.1,
-   ""
   ],
   [
    "square",
    "583cvsSaMcwKckhojiHhAfbknF3YpjAmcVa2PUivpump",
    0.066,
-   6.4,
+   7.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Cuminu",
+   "DQ8LByw4HYKapuF83Z218wGtxYyJUJb8ajjKsSU2pump",
+   0.066,
+   8.1,
+   ""
+  ],
+  [
+   "MINZYS",
+   "FpuJbfCS1QgroUoVVHkRhBcYsAQi8HJyPdDG6iuipump",
+   0.044,
+   2.7,
+   ""
   ],
   [
    "SpermRace",
    "A3wZ1fMb5AhDUrjMTAyYDPxjcC3Z2TfDFU8aRT1upump",
    0.044,
-   3.3,
-   ""
-  ],
-  [
-   "BLUE",
-   "6r6fPQ9DZKEGbkTZ2keR4Y129RSG2xqEht5i5S1pump",
-   0.043,
-   9.9,
+   4.3,
    ""
   ],
   [
    "SUNNY",
    "9AmXwa8QUb61cUd4NJza5m9zo5WJGdQHDoWnid1epump",
    0.014,
-   3.9,
+   4.9,
    ""
   ],
   [
    "L SHIBA",
    "F7fa4dSbgSGK2xQv6RBqWJDZQbdVqL6J4Dojkt8kpump",
    0.013,
-   7.2,
+   8.2,
    ""
   ],
   [
    "Kirkyworm",
    "BmEBdhUnQ5bMwTTRDeda6dFdxPMD4X4t6qQvAzsCpump",
    0.012,
-   8.8,
+   9.8,
    ""
   ],
   [
    "PRILILI",
    "84AUMRTe8ZesABYybyJaKH22DqZF8y7CANzgtmi8pump",
    0.011,
-   8.1,
+   9.1,
+   ""
+  ],
+  [
+   "STATE!",
+   "BFwuRgP54ahNf8b1MsBQZ4NHyxLKLjnYwwoxKvGfpump",
+   0.011,
+   6.7,
    ""
   ]
  ]
