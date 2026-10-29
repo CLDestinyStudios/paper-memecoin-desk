@@ -15,7 +15,7 @@
    "opened": 1793236687.4634154,
    "last_px": 3.9772915672211174e-08,
    "peak_px": 3.9772915672211174e-08,
-   "last_val": 2.953800313805806,
+   "last_val": 2.9513613165281436,
    "last_prog": 0.219
   }
  },
@@ -3543,81 +3543,85 @@
   [
    "2026-10-28T18:18:07",
    112.87
+  ],
+  [
+   "2026-10-28T18:19:05",
+   112.87
   ]
  ],
- "cycles": 945,
+ "cycles": 946,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.57935634850001,
- "watching": 227,
+ "sol_usd": 101.4954807485,
+ "watching": 226,
  "near": [
   [
    "INTERN",
    "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-   0.9,
-   4.2,
+   0.911,
+   5.1,
    ""
   ],
   [
    "PFRAME",
    "dMT8ii9SfTHfZnxzDzh6g9XFziT1uKf4Qh3ZjEopump",
-   0.864,
-   9.0,
+   0.86,
+   10.0,
    ""
-  ],
-  [
-   "PEPAD",
-   "DRaZjTDbfbtHXsJ17zapbi1SfXXPg9bVM6LZaedyT3d8",
-   0.219,
-   2.7,
-   "bought"
   ],
   [
    "TryPostit",
    "8FwMn9LQEQh2DYJytERwaTxsrm7st1MH4apJrG3Kpump",
    0.199,
-   8.2,
+   9.2,
    "buyers=8; top5_hold_most=90%"
+  ],
+  [
+   "TRENCHD",
+   "62cdmdeWsU8uJUUPWDLvaN9npBAXXbNZhuJN3LLqpump",
+   0.194,
+   7.3,
+   "buyers=9; top5_hold_most=99%"
   ],
   [
    "PANICPUG",
    "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
-   0.191,
-   2.7,
-   "buyers=1; creator=15.2%; top5_hold_most=100%"
+   0.192,
+   3.7,
+   "buyers=3; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "Milo&Pixie",
    "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
    0.145,
-   3.8,
+   4.8,
    "buyers=8; top5_hold_most=89%"
   ],
   [
-   "PVE",
-   "9bRND6iLew8zytC2Dfqk9CzL7CTmKfD6abUZXxQi2VVp",
-   0.084,
-   3.6,
+   "Walkoor",
+   "3JfHsAiWYoDj2SXmZWYFKppCeS1PwNKSEtixZnZxpump",
+   0.125,
+   2.4,
    ""
-  ],
-  [
-   "PERLA",
-   "42DGQK6K7hxaqHfrSqyPB2rndQ3YPj3ZRoSA83nLpump",
-   0.081,
-   2.8,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "TIT",
    "3bfkzWiyXtWtjEUF8jqV1DJcKNcZUhXfnpLNjUQwpump",
    0.079,
-   4.1,
+   5.1,
    ""
+  ],
+  [
+   "Milo&Pixie",
+   "Hcn3Qu3DQW6Zv4xjM2KhSqYZ2E5S5uwwM9rz5gDQpump",
+   0.074,
+   3.7,
+   "top5_hold_most=98%; launch_slot=missing"
   ],
   [
    "Trenton",
    "B8esujqXRthd7sUKjtuY7qn7pBmKHhBK1Jsdzkzfpump",
    0.067,
-   4.9,
+   5.9,
    ""
   ]
  ]
