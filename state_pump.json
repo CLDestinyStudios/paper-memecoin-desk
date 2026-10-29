@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 9.76098694996297e-08,
+   "last_px": 1.0074565642174513e-07,
    "peak_px": 1.9530944929636606e-07,
-   "last_val": 0.7124136460866753,
-   "last_prog": 0.629,
+   "last_val": 0.7364434446654005,
+   "last_prog": 0.64,
    "tp1_done": true,
    "realized": 0.5536022515158651
   },
@@ -29,10 +29,10 @@
    "entry_px": 5.115180366618033e-08,
    "entry_fill": 5.554597514415277e-08,
    "opened": 1793274082.4797287,
-   "last_px": 4.83836984657057e-08,
+   "last_px": 4.807400424739141e-08,
    "peak_px": 7.27387818175533e-08,
-   "last_val": 1.4199458228436694,
-   "last_prog": 0.324
+   "last_val": 1.409641580525211,
+   "last_prog": 0.321
   }
  },
  "traded": [
@@ -5297,81 +5297,85 @@
   [
    "2026-10-29T04:44:21",
    58.74
+  ],
+  [
+   "2026-10-29T04:45:24",
+   58.75
   ]
  ],
- "cycles": 1571,
+ "cycles": 1572,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.40939913499999,
- "watching": 154,
+ "sol_usd": 100.34562145199999,
+ "watching": 151,
  "near": [
   [
    "MWEZI",
    "57uaH4JzYtZdfZx8nNixzEjdmvviaGTh5rWGKhnQpump",
-   0.81,
-   3.0,
+   0.8,
+   4.1,
    ""
   ],
   [
-   "CHICKEN",
-   "6DUw78xd3Yn48cPgaSR5nKwnERnQ8g2t7Ku8itFdESDz",
-   0.088,
-   2.8,
-   ""
+   "MCAT",
+   "GU6ENg9tUM23fHkgN6SLHj8K2y1pMWavc1tKwMBepump",
+   0.135,
+   2.3,
+   "top5_hold_most=82%"
   ],
   [
    "\uac15\ub3c4\ub9ac",
    "8PAKFK3r4ucon1sUACt5223r8TtEsvjrHKo9p6dgpump",
    0.084,
-   6.7,
+   7.7,
    ""
   ],
   [
    "MWEZI",
    "2gVjGbGHYhyfcYcfHWRUHQvssniQs7cVddqDHRSepump",
    0.073,
-   2.1,
-   ""
-  ],
-  [
-   "MWEZI",
-   "LLnn2pFGjsgaFpeNnreBzvKmdS89UB1hHXon1pVpump",
-   0.071,
-   2.5,
+   3.1,
    ""
   ],
   [
    "Mwezi",
    "DR9QYXaoPnEhmAiMh1hE267sHeKFL8XoLoKxC6Xwqw1N",
    0.064,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "MWEZI",
+   "LLnn2pFGjsgaFpeNnreBzvKmdS89UB1hHXon1pVpump",
+   0.048,
+   3.6,
    ""
   ],
   [
    "MWEZI",
    "GMYQ5KEdcP5GGHZitCUMLPgyKRaYQ4cGymD5hKjRpump",
-   0.047,
-   3.1,
+   0.043,
+   4.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "MWEZI",
    "9P2fWHi3Nz6XUQhbHTM9NRiMVkTeny3ytGzNYedrWxkB",
    0.042,
-   2.5,
+   3.5,
    ""
   ],
   [
    "Mwezi",
    "FKLWUdi32bSBrhFeh27FnVeYK49sDDPaFQntocodEg9R",
    0.04,
-   2.8,
+   3.8,
    ""
   ],
   [
    "JUSTWIN",
    "Agv843JpY1wRuQpz4fSV8JgEP6aPm67Jjks17wtupump",
    0.039,
-   2.7,
+   3.7,
    ""
   ]
  ]
