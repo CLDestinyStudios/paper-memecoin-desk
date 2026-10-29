@@ -4336,81 +4336,85 @@
   [
    "2026-10-28T23:15:04",
    82.63
+  ],
+  [
+   "2026-10-28T23:16:05",
+   82.63
   ]
  ],
- "cycles": 1242,
+ "cycles": 1243,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.0322872815,
+ "sol_usd": 100.04000000000002,
  "watching": 193,
  "near": [
-  [
-   "SIA",
-   "7vxpTyP7PaPR8D12AB8BFQKbguuuU66RfCRDVP4qxUdp",
-   0.387,
-   9.7,
-   ""
-  ],
   [
    "STEVE",
    "DbtJ4e34phkWYWUb2pvdyFcZg8LdEjPfedqpJ6P5pump",
    0.224,
-   3.5,
+   4.5,
    "top5_hold_most=86%"
   ],
   [
    "STEVE",
    "C61zMGR1awYCzpWuxtMn1VX9SVZK6oz7HKLZJrdciMTA",
    0.124,
-   7.6,
+   8.6,
    ""
   ],
   [
    "SPCX30K",
    "JBYFvy3USivwxVrU5RFKbf6md2jrg8D7HXTsBC6Upump",
    0.121,
-   4.6,
+   5.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "STEVE",
    "2YjzghCESF3sxWyuABwRvw54YwvYPQBvHr86yEnppump",
    0.072,
-   2.0,
+   3.0,
    ""
   ],
   [
    "STEVE",
-   "ydfMrrN4cEFWf95yxt7ZrViCsaFxgtgBhH23pwzQYNt",
-   0.041,
-   6.3,
+   "9ykML2vHKLvQ6TPhhXoZjYaGR2UwuHghxW2MrFu2pump",
+   0.059,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SIA",
+   "8RUcQjRH416er3uK8BaJoAjG7VwLmamtZiaR6gaMpump",
+   0.043,
+   5.3,
    ""
   ],
   [
    "Steve",
    "4N3enYZuNL5GQUmFupVsQ8qnarjVcUUtBwzKyY8rpump",
    0.03,
-   2.3,
-   ""
-  ],
-  [
-   "Steve",
-   "CAf75ctKZPLmRoVJqTDUEEbNJd3DTc1hqAU6B8Hnpump",
-   0.03,
-   5.5,
+   3.3,
    ""
   ],
   [
    "CASHBACK",
    "39LLM31dnUiLRyd1utw1tx3v8ATtGhZk5o73Vukvpump",
    0.028,
-   6.4,
+   7.5,
    ""
   ],
   [
    "SIA",
    "DKUYJ9ko3AvuhB9xahpvM4jn6jRT922aHH5QPvEipump",
    0.024,
-   4.0,
+   5.1,
+   ""
+  ],
+  [
+   "SIA",
+   "J8Tf5zLXZAifAyCeAH5HAADm6aGU7hqSyKLSExAdktxe",
+   0.022,
+   9.8,
    ""
   ]
  ]
