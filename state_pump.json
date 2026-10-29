@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 31.907391871076687,
- "positions": {
-  "27DeU8tj53Q7eBBsUcrz7z5mp89xjj9mXbPqV19Mpump": {
-   "sym": "RedApes",
-   "bc": "6TuYbVVm2kfzqvdQfZdghU4cUn2HKqmPaA9f4kX93LND",
-   "tokens": 116547.44853916168,
-   "cost": 1.05,
-   "cost0": 1.05,
-   "entry_px": 7.942939907250695e-08,
-   "entry_fill": 8.809236564535803e-08,
-   "opened": 1793288753.6935158,
-   "last_px": 6.911079325794355e-08,
-   "peak_px": 1.1172516905505777e-07,
-   "last_val": 0.7292863393634914,
-   "last_prog": 0.492
-  }
- },
+ "cash": 32.58097663013986,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -6339,81 +6324,85 @@
   [
    "2026-10-29T09:26:53",
    32.64
+  ],
+  [
+   "2026-10-29T09:27:53",
+   32.58
   ]
  ],
- "cycles": 1853,
+ "cycles": 1854,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.21912354700001,
- "watching": 234,
+ "sol_usd": 102.162758886,
+ "watching": 251,
  "near": [
-  [
-   "KATT",
-   "FWsS6gh2DcQUq9kgQskB7EMFXR5oK4sqeYEnF7ggpump",
-   0.906,
-   2.9,
-   ""
-  ],
   [
    "bright",
    "8ZZ8z349rrZG8VoJBBRpmgV5HFw2reESviaSoLoDpump",
-   0.854,
-   3.5,
+   0.868,
+   4.5,
+   ""
+  ],
+  [
+   "KATT",
+   "FWsS6gh2DcQUq9kgQskB7EMFXR5oK4sqeYEnF7ggpump",
+   0.788,
+   3.9,
+   ""
+  ],
+  [
+   "MAG6",
+   "E9WJnHpE86MhFsdSELqNkMieoXUTY4oqd6Yks91Upump",
+   0.343,
+   2.2,
    ""
   ],
   [
    "RADAR",
    "CisnoyEG9ssFpLDXtDTHCv6MP3pYuUYfVhsU5gJapump",
-   0.213,
-   4.1,
+   0.271,
+   5.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "bright",
-   "Dvvn7qiC92SuNzxZws5enDauTggMPdMpgvop9HyEYFYc",
-   0.123,
-   4.2,
+   "$MIRAGE",
+   "2HTwPJ86AB7tdTdhzqWLqMk3LADcqmqDBKg5QPeYpump",
+   0.159,
+   3.0,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "SIX",
+   "3PSjEwVjNTWHsXfvdRCpD4XjcHf4vyqUXVuHXAw5pump",
+   0.138,
+   2.4,
    ""
   ],
   [
    "MEMECONOMY",
    "2vxxZSnznPvG4rqqo8PWvm2R8gVR7a3QYTCHzYHopump",
-   0.098,
+   0.119,
+   3.6,
+   ""
+  ],
+  [
+   "BAGWORK",
+   "84mbVR4PMjN8rPeDfovi9ECukE4xNtLhw3rSPeEAng1k",
+   0.099,
    2.6,
    ""
   ],
   [
-   "DEGENS",
-   "9Pp6nueZYYXxkgFkvNNyDJoiDsHDV7CxysdooZvQpump",
-   0.076,
-   6.8,
+   "Open",
+   "3V37L624hoPMYP3s5oBBE4R8LJJsBQYkbK5SZsnppump",
+   0.071,
+   2.8,
    ""
-  ],
-  [
-   "MYCELIUM",
-   "7Jmz5L6ReFyz7NZzUAZbJ9q5WQbvdN4AQS551gkTpump",
-   0.075,
-   9.3,
-   "buyers=9; top5_hold_most=91%"
   ],
   [
    "KATT",
    "Btruch95182CGbZ7Y4n38rdhTDDQnVVLCcrwFrEYpump",
    0.064,
-   2.2,
-   ""
-  ],
-  [
-   "FERRIS",
-   "59YsYKeGyatJiVSDibFxb3tCYeky34iWXyY93UH8pump",
-   0.064,
-   7.3,
-   ""
-  ],
-  [
-   "GATE",
-   "9QLpv5A4QcgzaJsghPgmYYKk8UDVCQYB4efvzoC2pump",
-   0.043,
-   3.5,
+   3.2,
    ""
   ]
  ]
