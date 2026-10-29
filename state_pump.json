@@ -13,10 +13,10 @@
    "entry_px": 1.108585851110699e-07,
    "entry_fill": 1.185603182392527e-07,
    "opened": 1793232111.715238,
-   "last_px": 1.4350239703779413e-07,
+   "last_px": 1.3074779073602243e-07,
    "peak_px": 1.4375120587390025e-07,
-   "last_val": 4.4425949818095996,
-   "last_prog": 0.756
+   "last_val": 4.046230117624812,
+   "last_prog": 0.727
   },
   "CAX6NZNJfe37SKNbYy6yYU6xAcYhiz4HUjAebnx9pump": {
    "sym": "PaperPump",
@@ -27,10 +27,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 8.653713380502835e-08,
+   "last_px": 8.604943647052123e-08,
    "peak_px": 9.61818945040114e-08,
-   "last_val": 3.465027703609223,
-   "last_prog": 0.584
+   "last_val": 3.447703787054206,
+   "last_prog": 0.582
   }
  },
  "traded": [
@@ -3303,81 +3303,85 @@
   [
    "2026-10-28T17:09:53",
    125.73
+  ],
+  [
+   "2026-10-28T17:10:49",
+   125.32
   ]
  ],
- "cycles": 877,
+ "cycles": 878,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.32617821400001,
- "watching": 243,
+ "sol_usd": 102.39999999999999,
+ "watching": 245,
  "near": [
   [
    "ROOMS",
    "CwRvaRr1AEfAaFqaFHcniyjMZ7X7e6eZnMpmU4otpump",
-   0.869,
-   4.2,
+   0.898,
+   5.2,
+   ""
+  ],
+  [
+   "11/17",
+   "9VszzCtpzb3RtSYGc51kfxKF7vL9DWimJgsmVjfVpump",
+   0.883,
+   2.3,
    ""
   ],
   [
    "Pedos",
    "6EpA82fNTLFy1czykWKJFk497AbqFtSYPJJgknzQpump",
-   0.801,
-   3.7,
+   0.814,
+   4.6,
    ""
-  ],
-  [
-   "11/17",
-   "9riHSfDq2bojnhgE7mKXKQS4U3V8h9yANd9FY8ctpump",
-   0.666,
-   2.1,
-   "serial_creator=15 launches/24h"
   ],
   [
    "$PBOT",
    "6huE6c5VaAcqND2wWtGBuwppgsqFt2vsSbx1pe7apump",
-   0.566,
-   7.3,
-   "buyers=2; top5_hold_most=100%"
+   0.595,
+   8.2,
+   "buyers=4; top10=47.1%; top5_hold_most=100%"
+  ],
+  [
+   "11/17",
+   "7yTH8ru582vbf6Yw9rNj5M14TTztGVyctCv9MzkKpump",
+   0.384,
+   2.1,
+   ""
   ],
   [
    "11/17",
    "7trV1VxeNu4DCtYqm4WchXmmJKv6NCtk783SX9pWpump",
-   0.251,
-   2.5,
+   0.336,
+   3.4,
    ""
   ],
   [
    "MDECOR",
    "Hw12kd6dvho8UhGQuissyrcErG64gYJtK6dwn66Gpump",
-   0.163,
-   4.0,
+   0.167,
+   4.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "CatGPT",
-   "7gpu395P2szHrJ546uCFinCsmQ5MN4j7km5Q9AHkpump",
-   0.146,
-   5.0,
-   ""
-  ],
-  [
-   "Micromeme",
-   "FU8zdn1LoS5LN4C82Wf2A7mioTvmoATeoH32o6vGpump",
-   0.109,
-   3.2,
+   "11/17",
+   "4eREMzxNRBYj8QPPdhxQcXEsEdrnA4mzNXtjnFGToZY5",
+   0.154,
+   2.8,
    ""
   ],
   [
    "Micromeme",
    "2zN3vq6iaoDqpew4TGPhfsaxDDnWVq2Mbk3vtdDupump",
-   0.1,
-   2.4,
+   0.079,
+   3.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "END",
-   "89LV4XGxfVBgeDKQRRJEj2trMtxd8ZxCZsyw1btZpump",
-   0.079,
-   4.5,
+   "CatGPT",
+   "7gpu395P2szHrJ546uCFinCsmQ5MN4j7km5Q9AHkpump",
+   0.078,
+   6.0,
    ""
   ]
  ]
