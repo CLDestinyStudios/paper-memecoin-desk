@@ -6414,83 +6414,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:46:05",
+   "2026-10-29T12:47:07",
    32.58
   ]
  ],
- "cycles": 2052,
+ "cycles": 2053,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.0,
- "watching": 238,
+ "sol_usd": 99.9926442101,
+ "watching": 252,
  "near": [
+  [
+   "MLC",
+   "9qVfZ99NwDyDDuQDdj2Lk4d3faZkc1yFAgNjpCfBpump",
+   0.866,
+   2.4,
+   ""
+  ],
   [
    "10XHYPE",
    "7Rv5zwxHGhbHJeHjHp7GxHsw417uMoqc7vxoaEGQpump",
-   0.809,
-   9.0,
+   0.786,
+   10.0,
    ""
   ],
   [
    "MEWMEW",
    "E7awV4WLjwJWFDDvDeHDe29swqQpZusEgf3Dmyvtpump",
-   0.394,
-   3.3,
+   0.487,
+   4.4,
    ""
+  ],
+  [
+   "Calf",
+   "AKJAi1YxU8e9FFwpMTdnWbGEWnhLWaptQk7hbsTrZwBS",
+   0.445,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "GRAB",
    "8q2dTGhcrZNf1X4k5P7Szi6PjTnq2sJojBwnwjDFpump",
-   0.176,
-   3.5,
+   0.195,
+   4.6,
    "buyers=9; top5_hold_most=98%"
   ],
   [
    "PS5",
    "7FAvsmF6osVimxRGyrJMrgfA5mbEh7y8HLkSM1mqpump",
-   0.175,
-   4.0,
-   "buyers=8"
-  ],
-  [
-   "NOTCH",
-   "J9ojmpgkazf9vEJEfwEf572MfTxtWnQPShotGsm8pump",
-   0.168,
-   2.9,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Solanah",
-   "ADpHDbLBDabUA7eu15YNc9ENEtkM9JdLVY22wBWhpump",
-   0.162,
-   3.1,
-   ""
+   0.151,
+   5.0,
+   "buyers=6; top5_hold_most=88%"
   ],
   [
    "MORE",
    "BY88mjVqg6i6i4XS84Tby1HXhzHpP1pVwV5ShStMpump",
-   0.145,
-   3.7,
-   "buyers=8; top5_hold_most=96%"
-  ],
-  [
-   "ARAIL",
-   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
-   0.087,
-   5.6,
-   "top5_hold_most=90%"
+   0.123,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "ODYSSEE",
    "BuDqBg6wSNM2D6P6FjWt5uASZErk9oCwqj2FC9yTpump",
    0.086,
-   5.0,
+   6.0,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "ARAIL",
+   "F3PCH2rAhbbz9TuopLaLgMU8uuB7WBFSGVrA81FXpump",
+   0.08,
+   6.7,
+   "top5_hold_most=85%"
   ],
   [
    "Jutsu",
    "7GU5e1S5c7yrTWeumrC6azWCoJx6GFwZ9FPH3z28pump",
    0.052,
-   3.9,
+   4.9,
    ""
   ]
  ]
