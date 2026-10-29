@@ -4041,81 +4041,85 @@
   [
    "2026-10-28T21:37:05",
    99.53
+  ],
+  [
+   "2026-10-28T21:38:05",
+   99.53
   ]
  ],
- "cycles": 1144,
+ "cycles": 1145,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.73627026435,
- "watching": 181,
+ "sol_usd": 99.79,
+ "watching": 166,
  "near": [
   [
    "NIKI",
    "9BQ3Yq1Hd7kFTqXyfLj1QZw4Pi3LNuDabXjV9yCzpump",
-   0.865,
-   7.2,
+   0.823,
+   8.2,
    ""
-  ],
-  [
-   "OS",
-   "FhqFMS1TuUe5d4CwecDCkFB7rJPnjAeEsecu496Qpump",
-   0.648,
-   2.4,
-   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "PEARL",
    "9yzzz2hYqacwryRVMXyhuygenqWvKiafdkJw9BRqpump",
    0.324,
-   2.8,
+   3.8,
    "top5_hold_most=90%"
+  ],
+  [
+   "CarbGuy",
+   "Ew9yyns1wMCU8gbMnJRJD7KhBAi4hTMrZ6SzaZb2cY42",
+   0.253,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "NIKI",
    "Cb9v7inHVcz2tiTnsk65sFBbrf4a94EcdvfTesFLpump",
-   0.129,
-   4.9,
+   0.127,
+   5.9,
    ""
-  ],
-  [
-   "SUNBEAR",
-   "FCoaCgym3mxNq9v1aWE8HpiUFPEUGj3Y8a3vFMnqpump",
-   0.119,
-   9.5,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "BOWEN",
    "2sm9KsLrGvYEY5JYCmwoc6F6sFYBEPkv3akHBv1tEDBT",
    0.064,
-   2.3,
+   3.3,
+   ""
+  ],
+  [
+   "AI",
+   "3yKNU2LKNZ5ezxRUonG8VB2JEadu62F4C2bEnYbmEUuR",
+   0.053,
+   2.2,
+   ""
+  ],
+  [
+   "AI/SI",
+   "6J4n5hm9ZpiBT8JbdYpREmVD8QNthuzCheudb5QNUSYp",
+   0.045,
+   2.4,
    ""
   ],
   [
    "VTOAT",
    "EnPkecBXCGJAHLcHKg9Tb3C4HV2CLcrGXXW6CJYEpump",
    0.043,
-   4.1,
-   ""
-  ],
-  [
-   "BEARISH",
-   "AmzAQrCYaYQngMZ7zPRtfja9SZ4hbsUYBLyp6B7npump",
-   0.038,
-   4.5,
+   5.1,
    ""
   ],
   [
    "AI/SI",
    "EnNmDKo8bssdJe23myrzJATcVTxzsjQEvDcAAZoWpump",
    0.024,
-   3.8,
+   4.8,
    ""
   ],
   [
-   "OBAURA",
-   "7JuybahDjRUPXRG3xvdrfKWTyiKKBycE42C9ZwAEpump",
-   0.022,
-   7.8,
+   "2006",
+   "3RJFvi8XiuKbqfo7Jdmivk3wPDiQ5oCWUJ78FVBJpump",
+   0.023,
+   9.1,
    ""
   ]
  ]
