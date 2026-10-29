@@ -13,10 +13,10 @@
    "entry_px": 1.2469710039959966e-07,
    "entry_fill": 1.3772411506376159e-07,
    "opened": 1793287554.5370135,
-   "last_px": 1.2469710039959966e-07,
+   "last_px": 1.2206861359736298e-07,
    "peak_px": 1.2469710039959966e-07,
-   "last_val": 0.9273089023974078,
-   "last_prog": 0.712
+   "last_val": 0.9064615562783712,
+   "last_prog": 0.705
   },
   "8NkKBGidemfPLL2itGafvqKhKoTa68ygTq3cPQ6ZSpet": {
    "sym": "LAUNCHPET",
@@ -27,10 +27,10 @@
    "entry_px": 5.068720246160103e-08,
    "entry_fill": 5.601084338071863e-08,
    "opened": 1793287554.8303697,
-   "last_px": 5.068720246160103e-08,
+   "last_px": 5.031648613593103e-08,
    "peak_px": 5.068720246160103e-08,
-   "last_val": 0.918149814043044,
-   "last_prog": 0.348
+   "last_val": 0.9108346447106934,
+   "last_prog": 0.344
   },
   "Cki13shbi8KvkekmHv18Du6m6LSKw6ejkvNNsaCApump": {
    "sym": "Elvara",
@@ -41,10 +41,10 @@
    "entry_px": 4.0496824179828746e-08,
    "entry_fill": 4.477033651743502e-08,
    "opened": 1793287557.8442621,
-   "last_px": 4.0496824179828746e-08,
-   "peak_px": 4.0496824179828746e-08,
-   "last_val": 0.9091146316183739,
-   "last_prog": 0.229
+   "last_px": 4.423760956711825e-08,
+   "peak_px": 4.423760956711825e-08,
+   "last_val": 0.9975432777666923,
+   "last_prog": 0.277
   },
   "3N3oxjekM9eQtjRimSfpTsMBm66LkrNgkH4uPQfppump": {
    "sym": "MINTLAB",
@@ -55,10 +55,10 @@
    "entry_px": 4.017472201516627e-08,
    "entry_fill": 4.4414294732079946e-08,
    "opened": 1793287558.113632,
-   "last_px": 4.017472201516627e-08,
+   "last_px": 3.9124519545364383e-08,
    "peak_px": 4.017472201516627e-08,
-   "last_val": 0.9091124761105439,
-   "last_prog": 0.224
+   "last_val": 0.8837959721958729,
+   "last_prog": 0.209
   }
  },
  "traded": [
@@ -6126,81 +6126,85 @@
   [
    "2026-10-29T08:25:58",
    37.07
+  ],
+  [
+   "2026-10-29T08:26:52",
+   37.1
   ]
  ],
- "cycles": 1792,
+ "cycles": 1793,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.06411387500002,
- "watching": 303,
+ "sol_usd": 102.03861236516948,
+ "watching": 315,
  "near": [
   [
-   "WANTED",
-   "8Lgivur5fsuYUvG7bJkryjfuvQwCkLDTcFcWJ9A9pump",
-   0.712,
-   3.1,
-   "bought"
-  ],
-  [
-   "LAUNCHPET",
-   "8NkKBGidemfPLL2itGafvqKhKoTa68ygTq3cPQ6ZSpet",
-   0.348,
-   3.0,
-   "bought"
-  ],
-  [
-   "$NOBRAIN",
-   "AjwzApbubHuaowExXsTSSBs9475ejVrVhirvMaU1pump",
-   0.243,
-   4.3,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Elvara",
-   "Cki13shbi8KvkekmHv18Du6m6LSKw6ejkvNNsaCApump",
-   0.229,
-   2.5,
-   "bought"
-  ],
-  [
-   "MINTLAB",
-   "3N3oxjekM9eQtjRimSfpTsMBm66LkrNgkH4uPQfppump",
-   0.224,
-   2.1,
-   "bought"
-  ],
-  [
-   "sol",
-   "4qWTP8wpLibr2j9ryAhJirPBYJ85Hx5HC5zYwz1gpump",
-   0.112,
-   9.6,
-   "buyers=2; top5_hold_most=100%"
+   "ELON",
+   "4X1saUXfCcXzKuFFFrVUKAZWCrcTgHs5dnCrdBiRpump",
+   0.141,
+   2.6,
+   "top5_hold_most=99%"
   ],
   [
    "CONK",
    "4E6Vz6mma5dghD6czikY8zP5M7VJuVHF3VKr5JRihTeJ",
    0.112,
-   8.0,
+   8.9,
    ""
   ],
   [
    "Dussy",
    "27JMubn7poVGSHLEDqxQyetQDKNW6E2VRhBm2uCqpump",
    0.1,
-   6.3,
+   7.2,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "Eloong",
    "39a7kE2wr7HZbuRhZh8moPQGA6UMuxPofgJka9Tepump",
-   0.099,
-   2.6,
-   "buyers=9; top5_hold_most=95%"
+   0.086,
+   3.5,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "SA",
+   "5BBjDEXY2r8oCGirahtiKhJKUQgMQVWn3Ev1XPapump",
+   0.063,
+   2.8,
+   ""
   ],
   [
    "STANLOOONG",
    "DRzgWKb2NK5T91w3n3xdy3wcXSZHRkm29GUXEQmCvdgg",
    0.062,
-   3.6,
+   4.5,
+   ""
+  ],
+  [
+   "STANLOOONG",
+   "F8dxHKJQ93iYgiax432RUEvYqwuq7iWpKat5rzLuxHQu",
+   0.045,
+   4.3,
+   ""
+  ],
+  [
+   "Float",
+   "B5xuZ62fYXbrGN5FjUicc1HxZddHz2DeZtwFUNb56myu",
+   0.043,
+   8.1,
+   ""
+  ],
+  [
+   "El purr",
+   "8kaCp6qrR2LppH6A6AJRPNhDGhufys1f5cXooadipump",
+   0.038,
+   6.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "HYPE ",
+   "9KkpZxc3GAHDszQd7N9CUs12Vhx1jCwkTqywz9bzpump",
+   0.025,
+   4.5,
    ""
   ]
  ]
