@@ -13,10 +13,10 @@
    "entry_px": 6.626554961460786e-08,
    "entry_fill": 7.141927176729541e-08,
    "opened": 1793259546.5690951,
-   "last_px": 6.626554961460786e-08,
-   "peak_px": 6.626554961460786e-08,
-   "last_val": 2.060139819535589,
-   "last_prog": 0.474
+   "last_px": 8.369927559157903e-08,
+   "peak_px": 8.369927559157903e-08,
+   "last_val": 2.615029497510624,
+   "last_prog": 0.571
   }
  },
  "traded": [
@@ -4565,81 +4565,85 @@
   [
    "2026-10-29T00:39:06",
    79.62
+  ],
+  [
+   "2026-10-29T00:40:06",
+   80.17
   ]
  ],
- "cycles": 1326,
+ "cycles": 1327,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7161995078,
- "watching": 138,
+ "sol_usd": 99.7136192395,
+ "watching": 140,
  "near": [
-  [
-   "TT",
-   "CWEcFMJrvuSBWD4UB87PZACL4JHgSGCuvNgcvGLSpump",
-   0.474,
-   4.2,
-   "bought"
-  ],
   [
    "666",
    "8ErB5UDCLAJKr67xDaUH5HF3aHsSbZcAzurUMFGopump",
-   0.316,
-   2.5,
-   "buyers=9; top5_hold_most=93%"
-  ],
-  [
-   "KONY",
-   "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
-   0.115,
-   9.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "AIRO",
-   "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
-   0.083,
-   9.6,
-   "buyers=5; top5_hold_most=100%"
+   0.232,
+   3.5,
+   "buyers=9; top5_hold_most=92%"
   ],
   [
    "GIBBERISH",
    "BSSUo5J5Aoift8CkTPYLbTpvFQLZDc6woQLWJCY2pump",
    0.052,
-   3.5,
-   ""
-  ],
-  [
-   "MARCEL",
-   "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
-   0.044,
-   9.6,
+   4.5,
    ""
   ],
   [
    "Solana ",
    "EL7vbn4MbuyMzkfdK1uTAiwyQ7zQC2vwmKWzJKHqpump",
    0.025,
-   8.2,
+   9.2,
    ""
   ],
   [
    "MEOW",
    "F9pYidTw5QfA8vseFmdVpMrSdme398Y9Ta5EhptZpump",
    0.022,
-   8.1,
+   9.1,
    ""
   ],
   [
    "Monty",
    "HuZoSXi8xaScqNt7t9KEM2tNnAUJaYGff67ySrbhpump",
    0.022,
-   6.9,
+   7.9,
    ""
   ],
   [
    "NUGG",
    "7ZszMakZaLRRoeYEN2bg3B24a9EXWi1ekbazNgRqyEqz",
    0.01,
-   7.1,
+   8.1,
+   ""
+  ],
+  [
+   "SSP",
+   "HLT9VXgeSPwCPeE8cUbY53sks6wb7dRYNX9y36YGpump",
+   0.009,
+   9.6,
+   ""
+  ],
+  [
+   "test",
+   "8ozGqnJygRZ9RYESep44eoro2CfWx5shPTZfHsUvCSgY",
+   0.008,
+   3.2,
+   ""
+  ],
+  [
+   "LEZBOS",
+   "4YAf1CJQT4mofg1d9mZ8kvysK4yeBJLja3TZw3z5pump",
+   0.007,
+   8.7,
+   ""
+  ],
+  [
+   "STKD",
+   "GUvtAP5uCmreUF6v7ivcQx8qcNRECqhfMgYL58Phpump",
+   0.006,
+   7.5,
    ""
   ]
  ]
