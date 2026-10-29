@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 381.138158350807,
+ "cash": 391.8427460349176,
  "positions": {
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "sym": "JOB",
@@ -9,20 +9,9 @@
    "mark_entry": 0.002572,
    "cost": 21.64,
    "peak": 0.002901,
-   "last": 0.002783,
+   "last": 0.002785,
    "opened": 1793230670.62822,
    "p_buy": 0.55
-  },
-  "27vYy4dtRzKD4iCx4qMjPv3C2o1FgSbCLS1eVbxKpump": {
-   "sym": "Meshly",
-   "qty": 361331.4143981382,
-   "entry": 5.87826e-05,
-   "mark_entry": 5.763e-05,
-   "cost": 21.24,
-   "peak": 5.763e-05,
-   "last": 5.763e-05,
-   "opened": 1793243044.6848896,
-   "p_buy": 0.56
   }
  },
  "watch": {},
@@ -2786,8 +2775,12 @@
   [
    "2026-10-28T20:04:05",
    424.04
+  ],
+  [
+   "2026-10-28T20:05:04",
+   414.36
   ]
  ],
- "cycles": 1071,
+ "cycles": 1072,
  "started": "2026-10-28T01:46:56"
 }

@@ -2,22 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 107.68329165029678,
+ "cash": 109.6682405139294,
  "positions": {
-  "3jeaNEWgQCjq9BXD2J2zyQrWoJ42Q9TNbnJWw9yssMvH": {
-   "sym": "ZKProof",
-   "bc": "9NENqLpMf5maw8FLX5bWT6ougrHt3jaz4UsZbksaUVbg",
-   "tokens": 575200.9784921265,
-   "cost": 3.49,
-   "cost0": 3.49,
-   "entry_px": 5.67189796078381e-08,
-   "entry_fill": 6.074703175832617e-08,
-   "opened": 1793242507.2344034,
-   "last_px": 5.49230216248855e-08,
-   "peak_px": 5.990690279724228e-08,
-   "last_val": 2.942581664296721,
-   "last_prog": 0.388
-  },
   "BwLeVPf4wQF7ucdgK7Av3AohzZouHy6K7i5FkAEBpump": {
    "sym": "STARVE",
    "bc": "F6s4Pdx2skprvbjCp8Kt3mrW6L5vxpiX8z2dXMSarsqX",
@@ -29,7 +15,7 @@
    "opened": 1793243044.532474,
    "last_px": 3.5692556135273145e-08,
    "peak_px": 3.5692556135273145e-08,
-   "last_val": 2.9728177842617276,
+   "last_val": 2.9724536389466265,
    "last_prog": 0.156
   }
  },
@@ -3852,81 +3838,85 @@
   [
    "2026-10-28T20:04:04",
    113.6
+  ],
+  [
+   "2026-10-28T20:05:03",
+   112.64
   ]
  ],
- "cycles": 1051,
+ "cycles": 1052,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.9976150242,
- "watching": 241,
+ "sol_usd": 99.98536615270001,
+ "watching": 237,
  "near": [
   [
-   "Meshly",
-   "27vYy4dtRzKD4iCx4qMjPv3C2o1FgSbCLS1eVbxKpump",
-   1.0,
-   2.2,
-   "graduated"
+   "BIO/ACC",
+   "CR3WXpY8YQbiLpyxfipYyrf7JpxzSG4nybEesR3Qpump",
+   0.301,
+   2.1,
+   ""
   ],
   [
    "BIO/ACC",
    "Dpq5dptoBa2q3Xz5gCDQakDJ7AdYhTB3eJUvmNZ3pump",
-   0.542,
-   2.9,
+   0.249,
+   3.8,
    ""
   ],
   [
-   "STARVE",
-   "BwLeVPf4wQF7ucdgK7Av3AohzZouHy6K7i5FkAEBpump",
-   0.156,
-   7.4,
-   "bought"
+   "CRINGE",
+   "52fczyhnZz6ZXAuS6uGdSMAnF5jXaapaVckevXbLpump",
+   0.173,
+   2.7,
+   ""
   ],
   [
    "BIO/ACC",
    "HppcNutjrJg8HYK7e9d4WzJcLnepZCNdaMmWnPrpump",
    0.072,
-   2.6,
+   3.5,
    ""
   ],
   [
-   "chrome",
-   "7MayQA2AwaoSxqpVLXoj2shYQPoDKqyoqkoLL5WPpump",
-   0.044,
-   5.3,
+   "STENCH",
+   "Hju3iXoMx4FkTAEzaLErZVDMw6Frv2G5Yt7y23gFpump",
+   0.071,
+   2.1,
+   ""
+  ],
+  [
+   "SUPERHUMAN",
+   "Atjp5HadzrPxmoc2LGGZp4NLaK3vRkHgxj9h8DyPpump",
+   0.054,
+   3.3,
    ""
   ],
   [
    "j\u2019ai p\u00e9t",
    "DNuwPsxosuFHVmUtNJD4twgJkKZSttt6KhTSzLpwpump",
-   0.041,
-   6.1,
+   0.052,
+   7.1,
    ""
   ],
   [
-   "HAKIMI",
-   "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump",
-   0.035,
-   5.9,
+   "chrome",
+   "7MayQA2AwaoSxqpVLXoj2shYQPoDKqyoqkoLL5WPpump",
+   0.043,
+   6.3,
    ""
   ],
   [
-   "NIKITA",
-   "G5Must3Z4mzN3mKnFQoeFbJT5hDzus4X2wGdpG7rKU6J",
-   0.028,
-   8.5,
+   "BABA",
+   "2u7wZVZR856K33j98r93pWRy7XtqneZ9e3BYmHMLnnFW",
+   0.04,
+   2.5,
    ""
   ],
   [
-   "One",
-   "oChGPaSvvYzWRZnue3AtNqd6Mt3qkh4RBFyuouypump",
-   0.028,
-   6.1,
-   ""
-  ],
-  [
-   "PERCS",
-   "75TEKgvZMQp5ZvTWacS6XhuhnhH72tfFxvoTywaEpump",
-   0.023,
-   3.0,
+   "BIO",
+   "4uQUPNEErNfLJL7AEKDFJ6nMx4jMZ85q7QGN9Szgpump",
+   0.038,
+   2.3,
    ""
   ]
  ]
