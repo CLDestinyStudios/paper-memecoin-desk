@@ -6398,84 +6398,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:09:54",
+   "2026-10-29T12:10:57",
    32.58
   ]
  ],
- "cycles": 2016,
+ "cycles": 2017,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.25391889852487,
- "watching": 249,
+ "sol_usd": 100.29,
+ "watching": 244,
  "near": [
-  [
-   "Doink",
-   "LfZjr2CYtu4vqpGAeKa9zDBLQe7jc71RJCn29kBpump",
-   1.0,
-   5.9,
-   "graduated"
-  ],
   [
    "Lily",
    "8PLFUxaRXxzakrMXL7r47b7v3SaP79XVPv4fWXVupump",
-   0.869,
-   2.9,
-   ""
-  ],
-  [
-   "Mali",
-   "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
-   0.822,
-   3.8,
+   0.836,
+   3.9,
    ""
   ],
   [
    "SI",
    "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
-   0.769,
-   4.1,
+   0.796,
+   5.2,
    ""
   ],
   [
    "CROWD",
    "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
-   0.642,
-   3.1,
+   0.79,
+   4.1,
+   ""
+  ],
+  [
+   "Mali",
+   "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
+   0.733,
+   4.8,
    ""
   ],
   [
    "MIAOU",
    "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
    0.36,
-   7.6,
+   8.7,
    "buyers=4; creator=22.0%; top5_hold_most=100%"
   ],
   [
-   "LilyAI",
-   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
-   0.122,
-   4.4,
+   "Lily",
+   "6UXb21zaayGa9FSxRMaJq7zZjQgDS8pnfK7DeH5Apump",
+   0.23,
+   5.6,
    ""
   ],
   [
    "ABDUL",
    "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
    0.122,
-   6.9,
+   8.0,
    "top5_hold_most=100%"
   ],
   [
    "LLM",
    "sAUJyF4EeoGMXPz6yL4bpypxNUZnyn5EBECH3peQ67M",
    0.116,
-   5.2,
+   6.3,
    ""
   ],
   [
-   "RUGGO ",
-   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
-   0.092,
-   7.3,
+   "LilyAI",
+   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
+   0.105,
+   5.4,
    ""
+  ],
+  [
+   "SI",
+   "HRFiuhw5gkyGV2z4H29Q9M4o5m1zwqXCf41g1z6opump",
+   0.1,
+   3.0,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
