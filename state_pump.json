@@ -4340,81 +4340,85 @@
   [
    "2026-10-28T23:24:06",
    82.63
+  ],
+  [
+   "2026-10-28T23:25:05",
+   82.63
   ]
  ],
- "cycles": 1251,
+ "cycles": 1252,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.7981105452,
+ "sol_usd": 99.8900045816,
  "watching": 107,
  "near": [
   [
-   "VoiceMemos",
-   "9b1sz9HKXjKgPNT6fkRmiz8qEawLejvcjTPfNErapump",
-   0.501,
-   3.0,
-   "serial_creator=23 launches/24h"
+   "CLUDIA",
+   "Eo3LZPuMceVvcbaAAZiVvwqgWZzLQtvz54MtRH1upump",
+   0.541,
+   2.2,
+   "serial_creator=10 launches/24h"
   ],
   [
    "MAXBTC",
    "856fuhEY6ei7djSG8ukafirc5CLmf6EP5aU7BBwspump",
-   0.349,
-   3.9,
+   0.201,
+   4.8,
    ""
   ],
   [
-   "HIRED",
-   "FiCWmJvcMgrtKuPFiZgYqXwESZygAE9AX7UZDvmPkRSN",
-   0.082,
-   3.8,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "SALIM",
-   "89sBCKJxbUJ6Zj6iHrjQcRz1nyMwVTmSwN8Wyh27KrLx",
-   0.043,
-   2.4,
+   "SHUNBUM",
+   "DQd6HquQExPEkDscwVc9F67pkJPLhizd3Sw2sxGqpump",
+   0.063,
+   2.1,
    ""
   ],
   [
-   "BIO/ACC",
-   "53W8z3SDALXYoZNjXoVt63BJJ5BQ7utcLWiFC5Y1pump",
+   "Bitcoin",
+   "53X9QZUaAxP9WLiEirMLi8bRisosweKCtKQ38n6gpump",
+   0.049,
+   2.3,
+   ""
+  ],
+  [
+   "MARVIN",
+   "4X1DpwhpcA8EutSzSpp6p9SLVmqMPnL9vP1tQeEUpump",
+   0.047,
+   2.5,
+   ""
+  ],
+  [
+   "MODELG",
+   "HJ9ygwvcVQRdWGPo6U6T3QVUP6MaFVTLuTp4pMspump",
    0.028,
-   6.0,
+   2.9,
    ""
   ],
   [
    "SI",
    "4xubLd6WSf7Y79gCiCkzSUjCrHKPp6wjpJ52SJbSkLtn",
    0.027,
-   3.3,
+   4.3,
    ""
   ],
   [
    "ZIGZAG",
    "6Ahamc348Q2hqd6Kg5UD7QfgHp7ytGSjTVtfAM6Ppump",
    0.022,
-   2.9,
+   3.8,
+   ""
+  ],
+  [
+   "PUB",
+   "Bwv9PeZ8k4pfLP9S2GvjPQQtGiFZtpcDWhJrZ1wspump",
+   0.014,
+   2.7,
    ""
   ],
   [
    "BBC",
    "3KJJCaawXDZvbgitkb69BaRnySAJNyPYw34z8qdYpump",
    0.011,
-   4.7,
-   ""
-  ],
-  [
-   "SALIM",
-   "AeK4ky7uugdNfBTb9JHinh3sTK8h4NBoJtDb1qKSxEJb",
-   0.004,
-   2.5,
-   ""
-  ],
-  [
-   "COPY",
-   "bcDEFec2t1xpmPhY4rMEFQj5SUx52VuQfg3mze8pump",
-   0.004,
-   2.4,
+   5.7,
    ""
   ]
  ]
