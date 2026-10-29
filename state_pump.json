@@ -6486,83 +6486,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:36:12",
+   "2026-10-29T15:37:18",
    32.58
   ]
  ],
- "cycles": 2222,
+ "cycles": 2223,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.2443311885,
+ "sol_usd": 97.34,
  "watching": 415,
  "near": [
   [
-   "ZERODAY",
-   "CQG3nVqKMquWsV5h1jzPrZZKm2DroQcHg6Y42Znhpump",
-   1.0,
-   2.4,
-   "graduated"
+   "0",
+   "P4YNomnv8iGyWT2AVN5bHAdAEWZkVwCiUuR8Fmgpump",
+   0.976,
+   2.5,
+   ""
+  ],
+  [
+   "0",
+   "nL7pKFTrYeBdNk69Uz1eGp5hxhV75gH49DjeN8Cpump",
+   0.882,
+   2.5,
+   ""
+  ],
+  [
+   "BB",
+   "ERcLTrHvxqCq9G2o89NpSyvFA6PUUBRMZnvyuvcwpump",
+   0.31,
+   3.2,
+   "top5_hold_most=94%"
   ],
   [
    "ZERODAY",
-   "AJvBnYDtMtY69TQyDnLW98nT6vb3ngaqqNRjRfdTpump",
-   1.0,
+   "GaLDkvXf6eFCTpvorrfJ8Xr5TDqA19mMmwCEgFRdpump",
+   0.235,
    2.4,
-   "graduated"
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "ZERODAY",
+   "5h16o1M5nNtGNQXcTWUU9HeLaMwGsoXBQDqjeLW4pump",
+   0.207,
+   3.0,
+   "buyers=1; creator=16.4%; top5_hold_most=100%"
   ],
   [
    "ZERO",
    "7jve7W967Ub8kAKqsn2RiJzKsXDYWvE8kMq8Uyqjpump",
-   0.238,
-   2.7,
+   0.194,
+   3.8,
    ""
   ],
   [
    "ZERODAY",
    "5QbvqXka2oWY7VVgwDb94wdknJHQxv8YT2C2uketfRgC",
    0.152,
+   3.7,
+   ""
+  ],
+  [
+   "0",
+   "5h72RtYkbZN3iFcwSD5QTQQB1GPNKx6RJ7mhSJdZpump",
+   0.14,
    2.6,
    ""
   ],
   [
-   "HACKCRYPTOUP",
-   "GoVUcoZ6YrjeMhwGP5f8Ptm97pYEG3si4p4Upm6cpump",
-   0.128,
-   2.8,
-   "buyers=6; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "0",
+   "5h52BAc2t24djjv1pc1oAsEEpGwUf8o6TZpA1nsfpump",
+   0.14,
+   2.9,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "ZERODAY",
    "8enQ4rMhndsi8tvUy2hZq2KQmoySRhTXtqgt1oxAmQYH",
    0.121,
-   2.7,
-   ""
-  ],
-  [
-   "ZERODAY",
-   "5CU636XznBaHu1x9eWDLCEQ1HRYr6cNhdKSZUNTQpump",
-   0.118,
-   2.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=10 extra buys in creation block"
-  ],
-  [
-   "ZERODAY",
-   "DosTRTr5Fot2izXjoRYxUKc9oyUzpdBeq76ENdzWpump",
-   0.118,
-   2.4,
-   "buyers=3; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "FINE",
-   "38c3iyXzwm9hUKEXMHJY6ZgHdTkZtBMpcc4VYxWepump",
-   0.11,
-   4.9,
-   ""
-  ],
-  [
-   "ZERODAY",
-   "2PPrrJu1ZwLDS6h3Pf7VqMs96gxpP4bdVhFcFwmCpump",
-   0.103,
-   2.2,
+   3.8,
    ""
   ]
  ]
