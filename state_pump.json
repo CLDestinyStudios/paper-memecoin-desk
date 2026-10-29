@@ -6426,83 +6426,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:19:05",
+   "2026-10-29T13:19:59",
    32.58
   ]
  ],
- "cycles": 2085,
+ "cycles": 2086,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.9791057476,
- "watching": 284,
+ "sol_usd": 99.03078869939999,
+ "watching": 289,
  "near": [
   [
-   "SATCOIN",
-   "Ao9sHtM6irrHayddpvmYed3zdZ4kS1qjmb5BsBSDpump",
-   1.0,
-   2.3,
-   "graduated"
-  ],
-  [
-   "HEDGE",
-   "74QZS3FPw8sHHiLv2gqjQskrD9pRZcDzGbHeHkdmpump",
-   0.681,
-   7.1,
-   "serial_creator=10 launches/24h"
+   "desk",
+   "5aoMYSrLdyuuazVXjrTJekcuf5SFZh5uFoP4runXpump",
+   0.361,
+   2.6,
+   ""
   ],
   [
    "PARCHA",
    "8yZx9d3W8egv6cWRANgh45KEGBMDHC9pPhjuBJ13gV1A",
    0.328,
-   4.1,
+   5.0,
    "buyers=5; creator=15.2%; top5_hold_most=100%"
   ],
   [
-   "GACHA",
-   "FuHXR69FtkBQVsQFzGa4jQw6kquekJ9zuRnFEMWwpump",
-   0.151,
-   3.3,
-   "buyers=6; top5_hold_most=99%"
+   "S&C",
+   "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
+   0.109,
+   2.7,
+   ""
+  ],
+  [
+   "NOTHING",
+   "DFDJ9XXJzCJSt85SgveXsY65TBbqyMFJkm4gnv4Ypump",
+   0.101,
+   2.8,
+   ""
   ],
   [
    "cyber",
    "CYYSXk6niUdRYW9P3maTeA4BVFTDVvBBVJTsSaEipump",
    0.1,
-   2.8,
+   3.7,
    ""
   ],
   [
    "armweak",
    "Cn2eUy9TPPBBPUNX3RL9qBFrKtacyr68kqTLkdPnpump",
    0.098,
-   4.6,
+   5.5,
    ""
-  ],
-  [
-   "HypDog",
-   "GWirZtUjWgMQk33xmC7yi3eoywke3uyg6Tt39x75pump",
-   0.096,
-   4.9,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "before",
    "9cL88GVXLq2g8D4DKMVt6CzLnLCy1kJCNrwLpuDwpump",
    0.086,
-   5.7,
+   6.6,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HypDog",
+   "GWirZtUjWgMQk33xmC7yi3eoywke3uyg6Tt39x75pump",
+   0.085,
+   5.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ruddit",
    "Az57mEyk73QB621Md8LC8Fj5tHDVqpfq4dBKjtff8hsB",
    0.085,
-   6.1,
+   7.0,
    ""
   ],
   [
    "JASON ",
    "8xFUYmYYqUSeajukSJFQwvTWSooVH8Dz4ERFfjsLpump",
    0.083,
-   4.4,
+   5.3,
    "buyers=1; top5_hold_most=100%"
   ]
  ]
