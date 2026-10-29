@@ -6350,84 +6350,84 @@
    32.58
   ],
   [
-   "2026-10-29T10:22:54",
+   "2026-10-29T10:23:56",
    32.58
   ]
  ],
- "cycles": 1909,
+ "cycles": 1910,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.65073452550001,
+ "sol_usd": 101.63708774499999,
  "watching": 322,
  "near": [
   [
    "\ud835\udd4f",
    "BjPcTtQiY8ausqUvQvbxwb75rvmge3D9DvXKSXVApump",
-   0.469,
-   7.4,
+   0.491,
+   8.4,
    ""
   ],
   [
    "WWHALE",
    "GGjXQ4KQbz5Ma7sqNnFTSFzUmDnQxvUe4AHLabRepump",
    0.259,
-   3.6,
+   4.7,
    "buyers=9"
   ],
   [
    "\ud835\udd4f",
    "FUTaAEfEqMzpPNHL6nDc5r5ULPTVv1YumoMLDk2Zpump",
    0.184,
-   6.6,
+   7.6,
+   "buyers=6; top5_hold_most=100%; bundled_launch=12 extra buys in creation block"
+  ],
+  [
+   "X",
+   "3T2HQFuWyHhdeNZkrTLRx8X5b4Li8Gg1LVdHGrZbsWuA",
+   0.167,
+   6.4,
    ""
   ],
   [
    "X",
    "8J8vRWtyKHkvTjUY8Mk1gaLoJNzkMcSYNV82zah7pump",
    0.165,
-   6.7,
+   7.8,
+   ""
+  ],
+  [
+   "X",
+   "8q8nBo7zhKk9UzCPszPVaRc5SzpjCL7GyiNHxs1Uw2YW",
+   0.152,
+   7.5,
    ""
   ],
   [
    "X",
    "6YbbVpEL6J7KmCEekX3sD5Hu8wmk7x6dsAFQa5wjpump",
-   0.152,
-   2.5,
-   ""
-  ],
-  [
-   "X",
-   "3T2HQFuWyHhdeNZkrTLRx8X5b4Li8Gg1LVdHGrZbsWuA",
-   0.15,
-   5.3,
+   0.142,
+   3.5,
    ""
   ],
   [
    "TRENTON",
    "8fvTFdtQAF47FWRMyS3T6QWcY2aJ5s1VdD1BfVE5pump",
-   0.128,
-   2.1,
+   0.141,
+   3.1,
    ""
   ],
   [
    "X",
    "2qJnm69XKChyo8RPCmAthYfmPMpHVnw5jgc6GpDBUSUL",
    0.125,
-   5.6,
+   6.6,
    ""
   ],
   [
    "X",
-   "8q8nBo7zhKk9UzCPszPVaRc5SzpjCL7GyiNHxs1Uw2YW",
-   0.104,
-   6.5,
+   "6BHYcokZmC7wDrYzhR5rsvF3nXggP1aF1CN9AaNupump",
+   0.12,
+   7.7,
    ""
-  ],
-  [
-   "HI",
-   "2Qvhh9BNfYjvyHycHgVW1zLb6WQQ2sokEm88vYv4pump",
-   0.103,
-   3.2,
-   "buyers=9; top5_hold_most=93%"
   ]
  ]
 }
