@@ -6474,83 +6474,83 @@
    32.58
   ],
   [
-   "2026-10-29T15:11:08",
+   "2026-10-29T15:12:06",
    32.58
   ]
  ],
- "cycles": 2197,
+ "cycles": 2198,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.8271879742,
- "watching": 312,
+ "sol_usd": 97.18,
+ "watching": 294,
  "near": [
   [
    "SAFU",
    "2PyGfzGVPC1PpUx7sexxGDNtSuABMpwJuKodG4LjWNjL",
    0.419,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "SPREAD",
+   "5fm7jQuAW4wV5ZyvTjtyD2jRHyazTLw5HAMp13ocpump",
+   0.405,
+   2.4,
+   ""
+  ],
+  [
+   "October",
+   "2Cp9wsuj4bzyfRiybY9TrRdGTuZHPH4csHiPPXWPpump",
+   0.358,
+   2.9,
+   ""
+  ],
+  [
+   "ONEROAD",
+   "FiSsnXfZ3wvjzn8nAGw6jJCZNcY7HEsZfxyaSgg74rn8",
+   0.157,
+   4.6,
+   ""
+  ],
+  [
+   "Buttcheeks",
+   "2tXUQwMPg1HU7PfaFWGAfMj6tcBtJusgapPaS3aenqu5",
+   0.141,
+   2.3,
    ""
   ],
   [
    "UP",
    "AjqcVn5Tf6v8wSDXUDErBQT6Ak8ZRqr2S67ZT8FN5PCP",
-   0.287,
-   6.7,
+   0.127,
+   7.7,
    ""
   ],
   [
-   "LILJ",
-   "DirupAVLi5YMvAGAGeFu6XFKesJTf3MgJwVokiEnpump",
-   0.272,
-   2.5,
-   "buyers=9; top5_hold_most=92%"
-  ],
-  [
-   "over",
-   "27pxQPyMV2UiQoTeihixv2J87fvDXYnjzmGkVws4pump",
-   0.211,
-   5.8,
+   "UP",
+   "878e7NxSMp4bAQ6LMayXvEnTfbd4GQ2DduPJKDippump",
+   0.119,
+   2.2,
    ""
   ],
   [
-   "$3B hack",
-   "BFGN1n2HaCuyPB3biQqsxbnaouyfnvQB2aa8rCYNpump",
-   0.201,
-   3.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "SAFU",
-   "A1amwU73UVc2bwNSLisJpwdVavY4ndcm9xGeZ4Ztpump",
-   0.192,
-   9.5,
-   "top5_hold_most=82%"
-  ],
-  [
-   "RADBRO",
-   "2EhCCQSM7uo7wqbUPQ9WzgmJABXHR7AuwZe64TLspump",
-   0.159,
-   3.5,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "UNLOCK",
-   "B6w17HdX4HiqBTgs2YSc2HkbWkW7Sgn4sKkRSs76pump",
-   0.084,
-   9.2,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "FEELSBAD",
-   "8DYsG9G6XqqNYDLCsWTASoyDJfmyjFKt7vtTdjt7pump",
-   0.084,
-   3.2,
+   "Buttcheeks",
+   "H8HUfzhqRVAZrMHCvAzPedpzxRohiTzq2fVV8UGJE54i",
+   0.083,
+   2.3,
    ""
   ],
   [
    "CZ",
    "DHkAsrXjSfLfChM3PcgQDHMfre1Vw11BpFZktHtTpump",
    0.073,
-   3.7,
+   4.7,
+   ""
+  ],
+  [
+   "peace",
+   "6Bza7s5Z79mu5Q2gxokscrtFA4q4vpxNnZGajdd7Yjuw",
+   0.072,
+   2.6,
    ""
   ]
  ]
