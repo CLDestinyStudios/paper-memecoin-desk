@@ -13,10 +13,10 @@
    "entry_px": 5.67189796078381e-08,
    "entry_fill": 6.074703175832617e-08,
    "opened": 1793242507.2344034,
-   "last_px": 5.937131901596468e-08,
-   "peak_px": 5.937131901596468e-08,
-   "last_val": 3.1810337642465916,
-   "last_prog": 0.424
+   "last_px": 5.990690279724228e-08,
+   "peak_px": 5.990690279724228e-08,
+   "last_val": 3.2122515786647123,
+   "last_prog": 0.429
   }
  },
  "traded": [
@@ -3809,81 +3809,85 @@
   [
    "2026-10-28T19:57:03",
    114.28
-  ]
- ],
- "cycles": 1044,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 99.8775178131,
- "watching": 281,
- "near": [
-  [
-   "BlackShiba",
-   "GckqmG44Mro5YueuALkySD1b5x8WP8gWeXGojePopump",
-   0.822,
-   9.8,
-   ""
   ],
   [
-   "ERNIE",
-   "71YJZxYV2sqeNoxvZm5Gjq2Rs3R9XLiFad2KY54Vpump",
-   0.616,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
+   "2026-10-28T19:58:04",
+   114.32
+  ]
+ ],
+ "cycles": 1045,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 99.9423236962,
+ "watching": 264,
+ "near": [
+  [
+   "NIKITA",
+   "G5Must3Z4mzN3mKnFQoeFbJT5hDzus4X2wGdpG7rKU6J",
+   0.208,
+   2.5,
+   ""
   ],
   [
    "STAN",
    "Egm7h2YsMLNYnkWiwwqAPep3NYL6qbZENWVujgSppump",
    0.127,
-   3.1,
-   ""
-  ],
-  [
-   "STAN",
-   "CUNBdAiLnyPVVreP4F9sFjagkkNqpM1LeDV4VjbGpump",
-   0.121,
-   3.1,
+   4.2,
    ""
   ],
   [
    "STAN",
    "9vvQ7qjv3AFbmxa7e2az733cjmTDvjkBiLmARgHppump",
    0.088,
-   2.8,
+   3.9,
    ""
   ],
   [
    "hypur",
    "AqXNLwYa7qGNH3NSss5Gue1c5fjnhPcNWCRbASMcpump",
    0.086,
-   2.7,
-   "buyers=4; top5_hold_most=100%"
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "HAKIMI",
-   "4bTWeV5yYqFfexAdsmxgbmeFqzqn9zsk7ERen7rqpump",
-   0.068,
-   6.4,
+   "yad4Hi37TJMDE58eJUqenkuB5KdJ5FM3hHfrWAspump",
+   0.085,
+   2.9,
+   ""
+  ],
+  [
+   "ELON",
+   "H45xxMg68oyhUfPL8Yt4waZnwrM4jqw3mKRUzAqfpump",
+   0.084,
+   5.9,
    ""
   ],
   [
    "CRIMEPUMP",
    "Fg1kuVMDxPC3yAu8tQYTTRqgi9poi9GGbwPB5YyUpump",
    0.067,
-   5.4,
+   6.4,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Nikita",
+   "HkXANr5Y2dB2nhNA89L7iWprGUtKPFhvMW5fwUsapump",
+   0.062,
+   2.6,
+   ""
   ],
   [
    "Cheonsa",
    "51HmYMUeenRbbPKJZANbJR7R2svBSiap3XH6Sri6pump",
    0.051,
-   5.7,
+   6.7,
    ""
   ],
   [
    "KNIGHTLON",
    "57bC6CY3tLjtyn1mppSCpufFaBejBHcSmj5n8Trnpump",
-   0.031,
-   4.5,
+   0.034,
+   5.5,
    ""
   ]
  ]
