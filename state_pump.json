@@ -15,7 +15,7 @@
    "opened": 1793261106.8150942,
    "last_px": 4.22105562373859e-08,
    "peak_px": 4.22105562373859e-08,
-   "last_val": 2.1744529700592943,
+   "last_val": 2.1718323947878937,
    "last_prog": 0.252
   }
  },
@@ -4674,83 +4674,83 @@
    74.12
   ],
   [
-   "2026-10-29T01:12:05",
+   "2026-10-29T01:13:05",
    74.12
   ]
  ],
- "cycles": 1359,
+ "cycles": 1360,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.03699243700001,
- "watching": 156,
+ "sol_usd": 99.91643132475,
+ "watching": 154,
  "near": [
-  [
-   "PI",
-   "CdoxWmwrQcmKfmf8C7ZQhzFDypZA6C6BgsiDRrNhpump",
-   0.537,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "DEER",
    "9t1LTuwBrGK7QwPQp5KwppMDoGpCgCSpKCY1vdWtpump",
-   0.34,
-   3.4,
+   0.365,
+   4.4,
    ""
   ],
   [
    "404",
    "5zYqxHrNDunLg8LGhLGfHJYUXKem93Z8doenMD55pump",
    0.121,
-   3.2,
+   4.2,
    ""
   ],
   [
    "NIKKI",
    "6cXK3Lg1VpW3pJrHG3XwdFpVsNHwxTeirVeat2jTpump",
    0.07,
-   8.3,
+   9.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "QFLIP",
    "EJa9YSKBnjb82mESTvSzxVWELM4b94ZqvTPaiHZBpump",
    0.064,
-   2.9,
+   3.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "ECAT",
    "6WTna7SqrPMCWPctPEnGkuBGK9upjFMKV3svYEU9pump",
    0.035,
-   2.6,
+   3.6,
    ""
   ],
   [
    "XPAD",
    "eWVKXvXp3NHG5V9VDdgHNUCAVvwVYMP1XwvVztUpump",
    0.031,
-   8.6,
+   9.6,
    ""
   ],
   [
    "AI",
    "8XUp5aX7btiPdiHj2Xe4e4roJS7HroTkSAcJYowJpump",
    0.028,
-   7.6,
+   8.6,
    ""
   ],
   [
    "PI",
    "CZN6NGPeL5Vqx3Tnj1LusCwyzxA8W1SUvDwhB9CHpump",
    0.022,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "SGM",
+   "2WtUSCz98a1HJ1mWFqUEpa6gv6qxAhwJQNwxzrZKpump",
+   0.022,
+   3.0,
    ""
   ],
   [
    "404",
    "7V9LqxSU16vvzLWZ3knArccibixXwNyFbbiHR12vpump",
    0.02,
-   5.8,
+   6.8,
    ""
   ]
  ]
