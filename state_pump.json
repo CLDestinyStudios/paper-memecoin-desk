@@ -3711,19 +3711,26 @@
    119.01
   ],
   [
-   "2026-10-28T19:17:52",
+   "2026-10-28T19:18:52",
    119.01
   ]
  ],
- "cycles": 1005,
+ "cycles": 1006,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.50744402169998,
- "watching": 251,
+ "sol_usd": 99.68244629305,
+ "watching": 242,
  "near": [
   [
    "sootpaw",
    "8UhhXkqJJAZdjfYdqpkd4QojSN9NHM4aBFFthYhZpump",
-   0.964,
+   1.0,
+   3.3,
+   "graduated"
+  ],
+  [
+   "TOKENIZER",
+   "5MMVWXWtHKCovkQMqknnM5edJKyTJTg6PeZffUXapump",
+   0.576,
    2.3,
    ""
   ],
@@ -3731,63 +3738,56 @@
    "BURQA",
    "AtAvTigDJacRbKmGdcspKwAaFRdpG5qKXqeTe4j6pump",
    0.282,
-   8.8,
+   9.8,
    "buyers=6; creator=15.2%; top5_hold_most=99%"
   ],
   [
-   "ORBIX",
-   "EuaBDQ7emUqAogDVX3Qkom9mAtWtYTbwg637H9zhpump",
-   0.115,
-   3.7,
-   "buyers=5; top5_hold_most=100%"
+   "IT",
+   "2RDd7j3hpiccPmG7RUPYKZaVNzBJHbXMiuw313oppump",
+   0.147,
+   2.1,
+   ""
+  ],
+  [
+   "CPC",
+   "B4Zkc6oFct9QKDXpfegqoa8Y5W5H5rKSpyfrCZ78pump",
+   0.14,
+   3.0,
+   "serial_creator=7 launches/24h"
+  ],
+  [
+   "TOKENIZER",
+   "3FtY3qEgEHijVwW72czqH41X9iiC1RRbnipefjGgpump",
+   0.098,
+   2.4,
+   ""
   ],
   [
    "THICC",
    "6n47fWKJLNCFNkE4yK7eTHjSZsYgmuHNAJTeERv6TH1C",
-   0.108,
-   2.9,
-   "top5_hold_most=98%"
+   0.092,
+   3.9,
+   "top5_hold_most=97%"
+  ],
+  [
+   "ORBIX",
+   "EuaBDQ7emUqAogDVX3Qkom9mAtWtYTbwg637H9zhpump",
+   0.092,
+   4.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "NutBag",
    "Dek22ZSxfYhEWtx4yUBwp4b9N86vpK1ikrtZKHor7Z1w",
    0.088,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Meowteor",
-   "7j9fnzsXwEa8Gs81CpV2BfFs3Q5yGkLDgxFFsGUNpump",
-   0.086,
-   3.4,
-   ""
-  ],
-  [
-   "choom",
-   "BFFzoe6hCQnzWAmuhx4YFZSkvDyCQGpk7NiCGJy1pump",
-   0.057,
-   5.7,
-   ""
-  ],
-  [
-   "BITSTREAM",
-   "CZGxgf1XyhHQGqsEqT4SEAEcbsMZZJQ3C6xtrJMApump",
-   0.046,
-   2.2,
-   ""
-  ],
-  [
-   "CYBERPSYCHOS",
-   "EqE8qLAPRtPL9Qf4nnNTvz5nGZjptxCumpU733ncpump",
-   0.044,
-   7.9,
-   ""
-  ],
-  [
-   "TERRY",
-   "QEwssWMWfswFV822kJdZEdcTRL1yzTXkeKwoh6ypump",
-   0.043,
-   5.8,
+   "gyatt",
+   "Cs6zgY4CXdXpYAGVvKJH7ZoMoKYEr1b1a7FNtK1Qpump",
+   0.084,
+   2.9,
    ""
   ]
  ]
