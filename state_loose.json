@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 370.4309970429317,
+ "cash": 349.91099704293174,
  "positions": {
   "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP": {
    "sym": "SI",
@@ -19,10 +19,21 @@
    "entry": 0.030977400000000002,
    "mark_entry": 0.03037,
    "cost": 20.54,
-   "peak": 0.03083,
-   "last": 0.03083,
+   "peak": 0.03084,
+   "last": 0.03084,
    "opened": 1793253786.137508,
    "p_buy": 0.75
+  },
+  "CxzxZDuo3igCYpqfBfMTsJHFsFXwsLLStphSEgAiq4kA": {
+   "sym": "AISI",
+   "qty": 316116.38998779905,
+   "entry": 6.491279999999999e-05,
+   "mark_entry": 6.364e-05,
+   "cost": 20.52,
+   "peak": 6.364e-05,
+   "last": 6.364e-05,
+   "opened": 1793256544.750216,
+   "p_buy": 0.55
   }
  },
  "watch": {},
@@ -60,7 +71,8 @@
   "HYv2VeLzVpGiGoBPbPmHDjJXNjBWsqz1axvZCv7Qpump",
   "147a97vXeJMM8pgFrEeMVmts4MciKAEEwRN6anYQszec",
   "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
-  "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump"
+  "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump",
+  "CxzxZDuo3igCYpqfBfMTsJHFsFXwsLLStphSEgAiq4kA"
  ],
  "equity": [
   [
@@ -3602,8 +3614,12 @@
   [
    "2026-10-28T23:48:04",
    410.33
+  ],
+  [
+   "2026-10-28T23:49:04",
+   409.53
   ]
  ],
- "cycles": 1295,
+ "cycles": 1296,
  "started": "2026-10-28T01:46:56"
 }
