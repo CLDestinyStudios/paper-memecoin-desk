@@ -6488,82 +6488,86 @@
   [
    "2026-10-29T15:41:25",
    32.58
+  ],
+  [
+   "2026-10-29T15:42:13",
+   32.58
   ]
  ],
- "cycles": 2227,
+ "cycles": 2228,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.3114850278,
- "watching": 461,
+ "sol_usd": 97.3775238331,
+ "watching": 458,
  "near": [
   [
    "\ud83d\ude4f",
    "Do68hm9wSx6mPjY7Z5gZx6XVab5n9588T1VsLGyMpump",
-   0.686,
-   4.8,
+   0.72,
+   5.6,
    ""
   ],
   [
-   "ZERODAY",
-   "5h16o1M5nNtGNQXcTWUU9HeLaMwGsoXBQDqjeLW4pump",
-   0.207,
-   7.2,
-   "buyers=1; creator=16.4%; top5_hold_most=100%"
-  ],
-  [
-   "ZERODAY",
-   "5QbvqXka2oWY7VVgwDb94wdknJHQxv8YT2C2uketfRgC",
-   0.152,
-   7.8,
+   "FINE",
+   "4Z1JgXQtaFZhHqKwuLumRsQBcSwwfND2kJzHzgrapump",
+   0.656,
+   2.6,
    ""
   ],
   [
    "HOODLEGE",
    "2Ugacg8hoPaUmBuPfn1cqPSDyAp6xie1bvPoCUVspump",
-   0.14,
-   2.6,
-   "buyers=2; top5_hold_most=100%"
+   0.194,
+   3.4,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "0",
-   "5h72RtYkbZN3iFcwSD5QTQQB1GPNKx6RJ7mhSJdZpump",
-   0.14,
-   6.7,
+   "Am8mvxcMq8AcZ7vtYRSdK4K1T6RKBbGgWPqsuDidpump",
+   0.162,
+   3.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ZERODAY",
+   "5QbvqXka2oWY7VVgwDb94wdknJHQxv8YT2C2uketfRgC",
+   0.152,
+   8.6,
    ""
   ],
   [
-   "0",
-   "5h52BAc2t24djjv1pc1oAsEEpGwUf8o6TZpA1nsfpump",
-   0.14,
-   7.0,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "FINE",
-   "38c3iyXzwm9hUKEXMHJY6ZgHdTkZtBMpcc4VYxWepump",
-   0.137,
-   10.2,
-   ""
+   "CZ AGAIN?",
+   "BVYRTJdxZevg1QfNcyZ4EwkXPqTkShdAEkxgH6fZpump",
+   0.136,
+   3.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ZERODAY",
    "FZP32m4HVCvMQtm7TMy5fTbwMFHhGDNhtAcREXRLpump",
    0.129,
-   7.2,
+   8.0,
    ""
   ],
   [
    "TURNERR",
    "98MrzuPbcoZ2r8D3wRbJJv1d9HVzcapgN4GXcT5Epump",
-   0.117,
-   2.9,
-   "top5_hold_most=95%"
+   0.121,
+   3.7,
+   "top5_hold_most=93%"
   ],
   [
-   "CZ AGAIN?",
-   "BVYRTJdxZevg1QfNcyZ4EwkXPqTkShdAEkxgH6fZpump",
-   0.106,
-   2.9,
-   "buyers=3; top5_hold_most=100%"
+   "zero",
+   "8wXC2LGdS3zKEWkoWS2cZBSyNG1GWzxLiJdZkHfnR9PJ",
+   0.113,
+   3.1,
+   ""
+  ],
+  [
+   "OVER",
+   "E7cifnSrzd6cK6JaB3PgUK8gcEY5o2ymtnnrH4sRMP5U",
+   0.09,
+   9.1,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
