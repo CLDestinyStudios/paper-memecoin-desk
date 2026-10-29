@@ -6434,83 +6434,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:36:01",
+   "2026-10-29T13:37:03",
    32.58
   ]
  ],
- "cycles": 2102,
+ "cycles": 2103,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.55,
- "watching": 336,
+ "sol_usd": 98.8,
+ "watching": 347,
  "near": [
-  [
-   "Affirm",
-   "31qeNEvHp3mC4fVkU4uNrZyQzvCEbcUvDGuijATCpump",
-   1.0,
-   9.4,
-   "graduated"
-  ],
-  [
-   "BUNANCE",
-   "4iNPyYAnJuAgdT3bpuaAfh67kBCGDzuL77DmLziXpump",
-   0.85,
-   2.1,
-   ""
-  ],
   [
    "Surgeon",
    "5VWd2CTKSnvzyZkLKmaJsuB9rX2ZR1haePgzDKXcpump",
-   0.705,
-   3.0,
+   0.557,
+   4.0,
    ""
   ],
   [
    "NOCTO",
    "2WpzJcqjhxyNuXF5Pb5z1N6q5t3tEpZTteX1METuEVkC",
-   0.619,
-   2.1,
+   0.54,
+   3.1,
    ""
+  ],
+  [
+   "AlArab",
+   "5nneAWLVDnHHvnDQvEEdnVQKDf1CKdo8b8f9ht2jpump",
+   0.217,
+   2.3,
+   "top5_hold_most=84%"
   ],
   [
    "OZVAG",
    "2TN65HobeBDdk9M4dZddSmmEoQ9AahEryAis2en437cu",
    0.163,
-   6.3,
+   7.3,
+   ""
+  ],
+  [
+   "HP",
+   "DEgJZDpWfaDjwVXHr8kiGeHs6C7hnH2YAwfkqAZ2pump",
+   0.162,
+   5.1,
    ""
   ],
   [
    "DK",
    "3em12Qpg4SaY5Yqj1vixpeVusrRboJCk2sKStUxspump",
-   0.132,
-   3.1,
+   0.142,
+   4.2,
    "buyers=9; top5_hold_most=81%"
   ],
   [
-   "VAGINA",
-   "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
-   0.107,
-   8.2,
-   ""
-  ],
-  [
-   "arc",
-   "nhnNBL9rDjg8JLCdQbiLFX5GyWsTVfC8JAy1eRCpump",
-   0.094,
-   5.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "BUNANCE",
+   "5bagm12y19GYdHMVvRd9uufwfw59PcrnhaZCjLctpump",
+   0.14,
+   2.1,
+   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "Invest",
    "GzRwdjt2EKm5Td5QNtwcqqSvUxtJmQ8CKEKkibyDpump",
-   0.093,
-   2.2,
+   0.131,
+   3.2,
    ""
   ],
   [
-   "Vagina",
-   "3vZE6jpDyzuNeJqtbhJTCdXVcGYZT5kTvVriL6uQrG5z",
-   0.088,
-   7.2,
+   "BUNANCE",
+   "4iNPyYAnJuAgdT3bpuaAfh67kBCGDzuL77DmLziXpump",
+   0.126,
+   3.1,
+   ""
+  ],
+  [
+   "Inuvest",
+   "F54iE7GYjYQrN4HcVvdqFM8JvCS1vWkRYEpGcLRJpump",
+   0.099,
+   2.3,
    ""
   ]
  ]
