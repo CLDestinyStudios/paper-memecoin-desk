@@ -2,23 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 91.82754199047963,
- "positions": {
-  "67zSN8g1gNdFrV1EdvRKJZV9AuHPV13mzEX6GEhUpump": {
-   "sym": "Drip",
-   "bc": "5UZpsDhVsEvSbSzPdLDttudYrAyttksJjgnDv7Q5J69m",
-   "tokens": 427514.17506626126,
-   "cost": 2.94,
-   "cost0": 2.94,
-   "entry_px": 6.39978126846851e-08,
-   "entry_fill": 6.872020921215597e-08,
-   "opened": 1793249405.8091965,
-   "last_px": 8.950036213918368e-08,
-   "peak_px": 8.950036213918368e-08,
-   "last_val": 3.575446147462308,
-   "last_prog": 0.597
-  }
- },
+ "cash": 92.94390771091771,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4134,81 +4119,85 @@
   [
    "2026-10-28T22:00:05",
    95.4
+  ],
+  [
+   "2026-10-28T22:01:04",
+   92.94
   ]
  ],
- "cycles": 1167,
+ "cycles": 1168,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.02038220099999,
- "watching": 157,
+ "sol_usd": 100.025810788,
+ "watching": 156,
  "near": [
   [
    "catday",
    "9U8rq3Moj4vEk7WVkhxwuqfQbj9MJC7F9xSNrkaDpump",
-   0.272,
-   4.3,
+   0.237,
+   5.3,
    "top5_hold_most=87%"
-  ],
-  [
-   "TrustBase",
-   "XfQZ4dsBXQQjrrJnh7vUSiiFktemiSvzT95WY6Lpump",
-   0.254,
-   2.2,
-   "bundled_launch=9 extra buys in creation block"
-  ],
-  [
-   "DOM",
-   "4RNe9H8gKVXRh4CtGdpyuV2pZNiib3RTH2vfFmeDEztA",
-   0.233,
-   6.6,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "LIDA",
    "3ZheEz4a3yRjDYYUxVbuMSrgaLL9EjcEAfufzKUVT6Gp",
    0.135,
-   3.5,
+   4.5,
    ""
   ],
   [
-   "END",
-   "F5M7nx2ZScBs7cDexaAsNyXR35voLz6yVSLd2mLHpump",
-   0.13,
-   2.8,
-   ""
+   "DOM",
+   "4RNe9H8gKVXRh4CtGdpyuV2pZNiib3RTH2vfFmeDEztA",
+   0.091,
+   7.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "CLOAK",
    "5SAs2eZxLCpDCqwqLwERgHNtj9VWohpMXszPz33vpump",
    0.076,
-   8.6,
+   9.6,
    "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "SN",
+   "DteCJAx6q1ps2M27SyVeypQK1QyNRG6UT2yiENHnaXUr",
+   0.074,
+   2.5,
+   ""
   ],
   [
    "war",
    "791okMTA5SBYN8eA4A3VejDtR1KFWNFeNrCLYrgtYwar",
    0.072,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "UNBOTHERED",
-   "J9spdoiBDYazrSa7uNy4rB1P28PsdeMY1tVhP3q1pump",
-   0.06,
-   3.1,
+   "neko",
+   "Bc92DwCB21TZdkGtXXvq3YPCFuXDjZJunmvFtnC1pump",
+   0.068,
+   2.9,
    ""
   ],
   [
    "SIM",
    "3oJU8VmqeSEe5KUVh9mPADi7xBZ4FpPs7Qm9DPSvpump",
    0.023,
-   4.0,
+   5.0,
    ""
   ],
   [
    "C",
    "rBXcwBpr9eiGDkjq3pie8sxnKTYp3NTCtD8VcV3pump",
    0.023,
-   6.9,
+   7.9,
+   ""
+  ],
+  [
+   "CA IN WEB",
+   "Xrnz1aUWJN8RpUBSt4N2E4WfN12nMD9LqSkqpnHpump",
+   0.022,
+   2.9,
    ""
   ]
  ]
