@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.2841588182253164e-07,
+   "last_px": 1.2076856186181284e-07,
    "peak_px": 1.3476550002450232e-07,
-   "last_val": 2.550088578087005,
-   "last_prog": 0.722,
+   "last_val": 2.39376667682346,
+   "last_prog": 0.702,
    "tp1_done": true,
    "realized": 0.7659854280569913
   }
@@ -3417,81 +3417,85 @@
   [
    "2026-10-28T17:39:50",
    119.67
+  ],
+  [
+   "2026-10-28T17:40:49",
+   119.51
   ]
  ],
- "cycles": 907,
+ "cycles": 908,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.9919618005,
- "watching": 377,
+ "sol_usd": 101.92999999999999,
+ "watching": 373,
  "near": [
-  [
-   "BIO",
-   "BTEHUraCwKz3tj14fsKppQV9prit2b7p2dgf8Jd3pump",
-   1.0,
-   2.3,
-   "graduated"
-  ],
   [
    "DUBBLE",
    "BGpPt4AbeNmhfat4FmvB79v9dV8aHomyfzXmwNzypump",
-   0.798,
-   6.6,
+   0.773,
+   7.6,
    ""
   ],
   [
-   "RAREINU",
-   "CnNjfFCTDdfBAwKBAMNMLeGpiespWi14womBB8iBpump",
-   0.621,
-   4.6,
-   "bundled_launch=11 extra buys in creation block"
-  ],
-  [
-   "bio\u00b7\u03b5/909",
-   "DbsW9FSQbBpLLGJrZ4tgePY4VFejMTj1noCESS9ppump",
-   0.401,
-   2.7,
-   "serial_creator=10 launches/24h"
+   "CLAPCAT",
+   "4vAzkUPBcXk7vQhRsroX1hFeUBSJVUSVsR29q8Phpump",
+   0.322,
+   2.5,
+   ""
   ],
   [
    "CLYDEFROG",
    "4iPJyvV4PcFtoWHuy6MLo2ynrQ8GkxqvMoehKzVFKhDJ",
-   0.237,
-   6.8,
-   ""
-  ],
-  [
-   "Clinefrog",
-   "7bnnAkmCrMC2HU8ZXrs7hRXzvxvbuiZy8UkZrJzxkioi",
-   0.105,
-   3.5,
-   ""
-  ],
-  [
-   "RAREINU",
-   "H2LYW1SQP9pe4oAt4mptkoamxyEZPansnU2V7ztrpump",
-   0.084,
-   5.2,
-   ""
-  ],
-  [
-   "SCAM",
-   "4yvS85XnT4YAJ6uPNLPifgg6Z6ZMrHvHCZSiNik9pump",
-   0.071,
-   4.0,
+   0.141,
+   7.8,
    ""
   ],
   [
    "CLYDEFROG",
    "4Q6ZMgNSwupZAPSWTLLekYKCuS4DrqWvcx2sLCP5pump",
    0.071,
-   4.0,
+   5.0,
+   ""
+  ],
+  [
+   "BIO",
+   "4z92bFvV1UaSrKayMPbGE8orEaNkU63ZjwJ75XFdpump",
+   0.066,
+   4.7,
+   ""
+  ],
+  [
+   "BIO",
+   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
+   0.048,
+   4.6,
    ""
   ],
   [
    "SCAM",
    "HpdTQQ8bJzZ992ErUo8TfkWX5uAZ6mSpPhoqsVsipump",
-   0.068,
-   7.2,
+   0.046,
+   8.2,
+   ""
+  ],
+  [
+   "BIO",
+   "ArisyS7rZxdAoYekbG2nB9PM9jrEtr1p5xaWBabHpump",
+   0.045,
+   3.8,
+   ""
+  ],
+  [
+   "DRAKKAN",
+   "CY52udK7XooR14JaDoajdy4QWkx9hicH9ZpPxAF7pump",
+   0.04,
+   3.5,
+   ""
+  ],
+  [
+   "bio999",
+   "CR8cmwXCrb8xVmm9CQGXjRPp7RjAe7PsRjxqfnN8pump",
+   0.03,
+   4.5,
    ""
   ]
  ]
