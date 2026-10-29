@@ -3988,83 +3988,83 @@
    103.45
   ],
   [
-   "2026-10-28T20:51:05",
+   "2026-10-28T20:52:04",
    103.45
   ]
  ],
- "cycles": 1098,
+ "cycles": 1099,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.55,
- "watching": 201,
+ "sol_usd": 99.50727329035,
+ "watching": 209,
  "near": [
+  [
+   "url",
+   "3qyPwRwSGkE8y9J12JKZeNAXPzmKE4KfGoWQor5vpump",
+   0.758,
+   2.1,
+   ""
+  ],
   [
    "FEAR",
    "Gxsm5N7NRkwJ72JQP5tKnovFWgovV3SBXdVm15jNpump",
-   0.469,
-   2.5,
+   0.537,
+   3.5,
    ""
   ],
   [
    "BP",
    "9xEve1zZ6ZpBpM9JULiSNSQZ8DuMw4RteLhSWZGKpump",
    0.271,
-   4.2,
+   5.2,
    "top5_hold_most=88%"
-  ],
-  [
-   "FEAR",
-   "7uASEThVXLQcLQfY9qM953eGRs4ktkwWmm44QsnLpump",
-   0.222,
-   2.1,
-   ""
   ],
   [
    "RAFTPAD",
    "4Pxtu6VVxCAicX1DdWh4fGbM6kxEdT3dzgunGK59pump",
-   0.177,
-   3.4,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "21e8core",
-   "8za24bHuo8NjuEuw8GMv1dehoMZpSefN5KHGu24qpump",
-   0.172,
-   2.7,
-   "rugcheck=creator history of rugs"
+   0.182,
+   4.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "REKT",
    "CtmZgCZWv7zhEwjJQ9sR97qjexoFvXjTyfqqbxo7pump",
-   0.122,
-   3.0,
+   0.12,
+   4.0,
    ""
   ],
   [
-   "CRUMB",
-   "6VENDEBo1xswKXzrMD3jfrXri5QDHu6TdE9Zi23atzdR",
-   0.075,
-   3.5,
+   "FEAR",
+   "7uASEThVXLQcLQfY9qM953eGRs4ktkwWmm44QsnLpump",
+   0.078,
+   3.1,
    ""
   ],
   [
    "ket",
    "GJK6ntaypWNP6HQKwB6NqWe7KMu6WW2dYNCxJM95pump",
    0.067,
-   5.9,
-   ""
-  ],
-  [
-   "BIO/ACC",
-   "iaGzHRzPMZY7bWrSJ58sVYZpxFFXDHUCVT8pTePpump",
-   0.065,
-   9.4,
+   6.9,
    ""
   ],
   [
    "SplitTake",
    "xKRayPsqLtdEra69TKxYWMmUuBV3hqN4BAXTmLJpump",
    0.046,
-   6.0,
+   7.0,
+   ""
+  ],
+  [
+   "url",
+   "HTADXtRpGsBrYdihEsXLeueuYihQ7ARuMjgGLKcypump",
+   0.041,
+   2.3,
+   ""
+  ],
+  [
+   "$FRNKUP",
+   "2y8iF3a6tA6JqQKP9pce1JLtKmorLYHkDfM7Z2Lapump",
+   0.022,
+   8.6,
    ""
   ]
  ]
