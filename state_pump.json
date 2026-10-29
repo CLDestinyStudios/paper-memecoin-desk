@@ -6402,84 +6402,84 @@
    32.58
   ],
   [
-   "2026-10-29T12:23:59",
+   "2026-10-29T12:24:54",
    32.58
   ]
  ],
- "cycles": 2030,
+ "cycles": 2031,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.29000000000002,
- "watching": 264,
+ "sol_usd": 100.3145636925,
+ "watching": 259,
  "near": [
   [
    "INSTA",
    "AnNxAekjNfLx3H4GXPoHAtv2iBToSfKK7fZWxPXZDRMi",
-   0.91,
-   6.5,
+   0.917,
+   7.4,
    ""
   ],
   [
-   "NOKOL",
-   "KoLRNN3MEZKpLQFRSRYy12u9g9PjMwrHgaVasnEaWEm",
-   0.431,
-   2.2,
-   "bundled_launch=8 extra buys in creation block"
+   "PERPMINDS",
+   "DHtvQ6y24m7un9L8vSZHDvMbiL5PAS674PhFntp7pump",
+   0.895,
+   3.0,
+   ""
+  ],
+  [
+   "HYPERSQUAD",
+   "8ZvkstZNozUNbeuBd3zfQBAHZoWw7iJXyifhzVzNRfdi",
+   0.417,
+   2.9,
+   ""
   ],
   [
    "Hyperjak",
    "21D8UZNvkuWeQqBNMXJtGeDabJzjNg5CupTM1fgzpump",
    0.333,
-   6.3,
+   7.2,
    "top5_hold_most=90%"
-  ],
-  [
-   "GEKKO",
-   "9EG8vEmZHJWrnjwgymzmdu1G7w4Y6noXw9ohGZkfpump",
-   0.23,
-   2.6,
-   "serial_creator=10 launches/24h"
   ],
   [
    "BEAMBOT",
    "7BN9BGXD1wjgMD1wCz9kSuj4nuUmkyJtJzCCk96Apump",
-   0.144,
-   5.9,
-   "buyers=6; top5_hold_most=100%"
+   0.122,
+   6.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "QVR",
+   "DmKEE6AKn7SgP8fNpKR1kFai8B3MsP2D9ZguPkuapump",
+   0.121,
+   2.7,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "LONG",
+   "9v4UAGVF2N7ZkMeg85HcvuunKxmdLEXTpG5HuK7Kpump",
+   0.106,
+   5.5,
+   ""
   ],
   [
    "grok",
    "4dUHovZqLYzsNiaJNXkWwy5XwRDYFL1FXtjZe8PApump",
    0.098,
-   4.2,
+   5.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "HypPuffy",
    "9bhSxVtJwZR7ULTTxkMAhdE8hDhwjTYiPMA28Snhpump",
    0.086,
-   5.2,
+   6.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "LONG",
-   "9v4UAGVF2N7ZkMeg85HcvuunKxmdLEXTpG5HuK7Kpump",
-   0.075,
-   4.5,
+   "AERA",
+   "GPnu3ZVGtUreGZFNmFqiexNYxapiTwEJT53hpW9ZqWQ8",
+   0.043,
+   3.2,
    ""
-  ],
-  [
-   "POLYPAD",
-   "6Sm6pjfjxdMJN6xp9a8eh2x6GVtmrKCHrSzcpYFLpump",
-   0.068,
-   9.5,
-   "buyers=9; top5_hold_most=93%"
-  ],
-  [
-   "DUMOCRATS",
-   "2zCXLth7dLZDJXxptsmXNXiJJ5YRjK8hhGNZLSZjpump",
-   0.053,
-   2.2,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
