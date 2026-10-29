@@ -4011,81 +4011,85 @@
   [
    "2026-10-28T21:16:04",
    102.61
+  ],
+  [
+   "2026-10-28T21:17:04",
+   102.61
   ]
  ],
- "cycles": 1123,
+ "cycles": 1124,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.57,
- "watching": 130,
+ "sol_usd": 99.5376914637,
+ "watching": 131,
  "near": [
+  [
+   "Goybob",
+   "6xijWRtNzqSGYNtY7UDUk2Nb8YrFNSS9pieGdg8mpump",
+   0.575,
+   4.5,
+   "rugcheck=creator history of rugs"
+  ],
   [
    "r/pad",
    "ELqCRsaEPCJijmo2QefeUQy95pTB8FzeECSaTUJLpump",
-   0.535,
-   3.9,
+   0.564,
+   4.9,
+   ""
+  ],
+  [
+   "NIKI",
+   "AjxciGma79aKHMWxZP4Tn6jLVjGHHyojufZJzChNpump",
+   0.153,
+   2.4,
    ""
   ],
   [
    "TiboPoteto",
    "CeaiyZV9zFBNrzxYeguF9D6bqNCMhF6FkK7ca1g5pump",
-   0.16,
-   7.3,
-   ""
-  ],
-  [
-   "ACT:D",
-   "LKqgSKxj8FhTV6CYqGVHukpMBHdJWX9EBUZW5Gcpump",
-   0.139,
-   2.7,
+   0.141,
+   8.3,
    ""
   ],
   [
    "POOP",
    "SF8veYUvb5CoNSWzskobuJQGB8GMeSGhHzXLBQvpump",
    0.122,
-   6.0,
+   7.0,
    "buyers=9; top5_hold_most=87%"
+  ],
+  [
+   "ACT:D",
+   "LKqgSKxj8FhTV6CYqGVHukpMBHdJWX9EBUZW5Gcpump",
+   0.098,
+   3.7,
+   ""
   ],
   [
    "CATS",
    "CXkycHXMnGDNk2w81BXuDC7sJKudF6fkudZM2R7Hs5wP",
-   0.108,
-   2.6,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Goybob",
-   "6xijWRtNzqSGYNtY7UDUk2Nb8YrFNSS9pieGdg8mpump",
-   0.098,
-   3.5,
-   ""
+   0.057,
+   3.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BART",
    "Befuwk6uxSd3QkVmqWfGxsyntcAMFxYxZvg3hNpfpump",
    0.05,
-   8.7,
+   9.7,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "PEPA",
    "3c5RF1pxfLx7keF6JnEGsoVUTHsVHKaxCXgfs96Dpump",
    0.047,
-   8.1,
+   9.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "GLADOS",
    "CC8hXq1zMy3ur9Cb8maYpY9iSbuV3xTadhqVXWsjLnSF",
    0.044,
-   4.4,
-   ""
-  ],
-  [
-   "PUMPGIRLS",
-   "2KtCADkTSkya9CHr2Jut2K9wFrEDK4SmcwRnMPG6pump",
-   0.043,
-   4.6,
+   5.4,
    ""
   ]
  ]
