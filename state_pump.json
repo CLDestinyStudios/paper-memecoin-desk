@@ -6466,83 +6466,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:51:03",
+   "2026-10-29T14:51:59",
    32.58
   ]
  ],
- "cycles": 2177,
+ "cycles": 2178,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.518592094,
- "watching": 301,
+ "sol_usd": 97.31999999999998,
+ "watching": 312,
  "near": [
   [
    "ABC",
    "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
    0.634,
-   7.7,
+   8.6,
    "buyers=2; top10=50.3%; top5_hold_most=100%"
   ],
   [
    "BNBSCAM",
    "2AmAkkfVHRFtqToRPJmLtNRYgbkhL46SuYQdd5ZSpump",
-   0.399,
-   3.1,
+   0.408,
+   4.1,
    ""
-  ],
-  [
-   "LEVER",
-   "5P2mRTjygr5U3noQQk9mfJbpBGnTSy2Zvbdq9FhRE2eP",
-   0.182,
-   4.5,
-   "top5_hold_most=90%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "hack",
-   "9iNL3oEE8uSmbLHLkLVQiLGbMWiDrDD9oKsshjsGpump",
-   0.123,
-   9.8,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "QUANTUM",
    "abXs3qeKMo1ck4bZ3hf84Ei4WzgX1wDnP7Y4nivpump",
    0.106,
-   8.7,
+   9.6,
    "buyers=7; top5_hold_most=98%"
   ],
   [
    "PICARDCOIN",
    "6xNdELzLQVkfs1LcGTKq4AYMz8vE4ENCZyVdqL4Rpump",
    0.103,
-   8.3,
+   9.2,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "THREADGUY",
-   "6zdJppsbBR5s9qCpAgoau9Qgv9cDiKfgDQ5q6EJypump",
-   0.072,
-   9.9,
-   ""
   ],
   [
    "UNSAFU",
    "Bxrpgn18WgkCdPs3jJb82XgoGGmBTMZJedSSoaF1pump",
    0.045,
-   6.8,
+   7.7,
    ""
   ],
   [
    "SINU",
    "Ej632gc5hKGjn6KYoZVGDnN85usvsR2Wobd7s6DWpump",
    0.044,
-   5.7,
+   6.6,
    ""
   ],
   [
    "CYBER",
    "B49pnZJ9JkAKdPmZAkG4MPFmuaN5RU36rRPgBaRTpump",
    0.042,
-   6.6,
+   7.6,
+   ""
+  ],
+  [
+   "CYBERCURRENC",
+   "84EcrMRWycn6Y9HPG7FPZcL3maqt3DnMqaVJ7s9epump",
+   0.032,
+   7.9,
+   ""
+  ],
+  [
+   "Naked",
+   "FbxvGYquHxGzMxHdtCUJNMK94CEy4osMaCvQAA5Zpump",
+   0.032,
+   5.2,
+   ""
+  ],
+  [
+   "HACKERMAN",
+   "E7LUXCVPCeA3WVbY33gdhfBEpA1SD27WdF77BvDapump",
+   0.028,
+   3.8,
    ""
   ]
  ]
