@@ -13,10 +13,10 @@
    "entry_px": 6.118744393348291e-08,
    "entry_fill": 6.578879815643211e-08,
    "opened": 1793250845.4542043,
-   "last_px": 7.01304983773134e-08,
-   "peak_px": 7.01304983773134e-08,
-   "last_val": 2.7170162552118664,
-   "last_prog": 0.499
+   "last_px": 8.432296025869128e-08,
+   "peak_px": 8.432296025869128e-08,
+   "last_val": 3.277532352360786,
+   "last_prog": 0.574
   }
  },
  "traded": [
@@ -4168,81 +4168,85 @@
   [
    "2026-10-28T22:16:05",
    91.27
+  ],
+  [
+   "2026-10-28T22:17:04",
+   91.83
   ]
  ],
- "cycles": 1183,
+ "cycles": 1184,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.510801814,
- "watching": 143,
+ "sol_usd": 100.53207677450001,
+ "watching": 147,
  "near": [
-  [
-   "Cuminu",
-   "3E3X3j3XAfbCJZHVH15nS1yEeW9wXMWWemU98h1Upump",
-   0.395,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
-  ],
   [
    "gyatt",
    "BFyQpzvqV4XiirRfvBXcVdFXDj3jnXRCNnhTGPJ9pump",
    0.074,
-   2.6,
+   3.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "BLUE",
    "6r6fPQ9DZKEGbkTZ2keR4Y129RSG2xqEht5i5S1pump",
    0.043,
-   2.9,
+   3.9,
    ""
   ],
   [
    "BOOO",
    "CWBkQxS4f4S8bS9ZihaVFFNDaBtBXrbXnciKubfnpump",
    0.023,
-   4.3,
+   5.3,
    ""
   ],
   [
    "PASTA",
    "8x2H98PVMVPUTGngRwybsxuSYmFvBPf4q2SenQgipump",
    0.016,
-   4.4,
+   5.3,
    ""
   ],
   [
    "The French",
    "9mhLav6nx2ve5Fo5VYAzYax6jwBdmXw9FatWhGSfpump",
    0.015,
-   3.7,
+   4.7,
    ""
   ],
   [
    "PUMIO",
    "2WqHXDWduas3DKZNC3VTUTKUMrZ89MVbaUP4thz7pump",
    0.015,
-   8.8,
+   9.8,
    "top5_hold_most=86%"
   ],
   [
-   "AI/SI",
-   "6jeKTUDrvsJQg4TPdmk5z76ZkqRS93oxhWJvVLdZpump",
-   0.005,
-   9.9,
-   "buyers=3; top5_hold_most=100%"
+   "PRILILI",
+   "84AUMRTe8ZesABYybyJaKH22DqZF8y7CANzgtmi8pump",
+   0.014,
+   2.1,
+   ""
+  ],
+  [
+   "Kirkyworm",
+   "BmEBdhUnQ5bMwTTRDeda6dFdxPMD4X4t6qQvAzsCpump",
+   0.012,
+   2.8,
+   ""
   ],
   [
    "HEDG",
    "CWfb3wM37VmXLmeSXh1M3VnwGRwuPP2BN2ZqHnQvpump",
    0.004,
-   5.7,
+   6.7,
    ""
   ],
   [
    "gyatt",
    "4KasRSPSUHkpzUcurjsMnJMjRrTuuFrbvyN2wZhDpump",
    0.004,
-   2.4,
+   3.3,
    ""
   ]
  ]
