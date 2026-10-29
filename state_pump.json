@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 103.44973167349008,
- "positions": {},
+ "cash": 100.34973167349008,
+ "positions": {
+  "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump": {
+   "sym": "PEACE",
+   "bc": "GtdEzrcYzpkjDQrpeaWEshnJCRXYXkq63Ez9zzSuDNRx",
+   "tokens": 774803.0482638931,
+   "cost": 3.1,
+   "cost0": 3.1,
+   "entry_px": 3.7472302997349965e-08,
+   "entry_fill": 4.0207521537934804e-08,
+   "opened": 1793246224.7735991,
+   "last_px": 3.7472302997349965e-08,
+   "peak_px": 3.7472302997349965e-08,
+   "last_val": 2.6868384167637798,
+   "last_prog": 0.184
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -264,7 +279,8 @@
   "CsNcmuXuD4PgtECMvS3Te2LrGV37sfkoThePV4cmpump",
   "415XC5JBy4qZcAFGtozb3UFxAADL5XrB1YVEAcYMpump",
   "HhswM3oAco7CQgMZtCPJxDUKCZoFkPmKFGdGXvVBpump",
-  "BYVkngw2muudeMVepb5XsX6fjzxKtJGzRjaY8E6Mpump"
+  "BYVkngw2muudeMVepb5XsX6fjzxKtJGzRjaY8E6Mpump",
+  "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump"
  ],
  "equity": [
   [
@@ -3994,82 +4010,86 @@
   [
    "2026-10-28T20:56:03",
    103.45
+  ],
+  [
+   "2026-10-28T20:57:04",
+   103.04
   ]
  ],
- "cycles": 1103,
+ "cycles": 1104,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.47753825895002,
- "watching": 222,
+ "sol_usd": 99.50916222755001,
+ "watching": 223,
  "near": [
-  [
-   "STUMP",
-   "G5d9WXrYr2zf5U9auBJYuvrkiG4qwaRHpeczbn2Fpump",
-   1.0,
-   3.5,
-   "graduated"
-  ],
-  [
-   "PEACE",
-   "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump",
-   0.606,
-   2.9,
-   ""
-  ],
-  [
-   "HDF",
-   "Bw3ZBSd4oLHAEtvGdyfvyUXn2kALZZ25AzwsgXDFpump",
-   0.353,
-   2.3,
-   "bundled_launch=8 extra buys in creation block"
-  ],
   [
    "PEACE",
    "2257x2D6sMBkjscwHWFr7JEnyWt4x5dRrKeR2UeWpump",
-   0.341,
-   3.8,
+   0.349,
+   4.8,
    ""
   ],
   [
-   "BP",
-   "9xEve1zZ6ZpBpM9JULiSNSQZ8DuMw4RteLhSWZGKpump",
-   0.271,
-   9.2,
-   "top5_hold_most=88%"
+   "BIO/ACC",
+   "CSoMruWbXTywAcAd3R5NWPE1eXM2pPm1RFPqbxqcpump",
+   0.346,
+   2.6,
+   ""
+  ],
+  [
+   "BIO/ACC",
+   "HELVQ9ro9oqSVfSJfSqdDcWZEzafZX8YmbjXjc5qpump",
+   0.31,
+   2.6,
+   "buyers=4; creator=15.3%; top5_hold_most=100%; bundled_launch=10 extra buys in creation block"
   ],
   [
    "Moralfagging",
    "GB2egeuZ75H5EBqCS2K45qkwHLsbbngYvJ8vXZ5upump",
-   0.259,
-   2.2,
+   0.302,
+   3.2,
    ""
   ],
   [
-   "FEAR",
-   "7uASEThVXLQcLQfY9qM953eGRs4ktkwWmm44QsnLpump",
-   0.216,
-   7.1,
-   ""
+   "PEACE",
+   "GstnvNwbxQjjFW68WpxQbpR3oN3Z81sF1n4brWBXpump",
+   0.184,
+   3.9,
+   "bought"
   ],
   [
    "LOOONG",
    "EDvLLmT44BLsoxud35qTzez4toRTgTkTqsWgDbeppump",
-   0.145,
-   2.1,
+   0.126,
+   3.2,
    ""
   ],
   [
-   "REKT",
-   "CtmZgCZWv7zhEwjJQ9sR97qjexoFvXjTyfqqbxo7pump",
-   0.12,
-   7.9,
-   ""
+   "X CARD",
+   "AgfwcchQW9QEYDr9jCm6hAy7PB2rijLvMVmMRW47pump",
+   0.107,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ber",
    "7B8zBdyu5kb3cWy3DssNanrQ769Z36L1K9sk54prpump",
    0.078,
-   4.7,
+   5.7,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "RAFTPAD",
+   "4Pxtu6VVxCAicX1DdWh4fGbM6kxEdT3dzgunGK59pump",
+   0.068,
+   9.4,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "FRAFO",
+   "Dpcq7eX61bqHs7SWyiEqEExpTDCmSke1H6NnUsespump",
+   0.046,
+   3.0,
+   ""
   ]
  ]
 }
