@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 114.89791762002733,
+ "cash": 117.1179817864786,
  "positions": {
   "CAX6NZNJfe37SKNbYy6yYU6xAcYhiz4HUjAebnx9pump": {
    "sym": "PaperPump",
@@ -15,24 +15,10 @@
    "opened": 1793232232.2706861,
    "last_px": 1.3389182145875024e-07,
    "peak_px": 1.3476550002450232e-07,
-   "last_val": 2.6622175218541972,
+   "last_val": 2.6615679114363755,
    "last_prog": 0.735,
    "tp1_done": true,
    "realized": 0.7659854280569913
-  },
-  "HE8NpCJR84V3V2SrCDECL488Mh2oqCWtmQHzmXMjpump": {
-   "sym": "GAGE",
-   "bc": "4yieG742dyDqwffebqbKy8QBQnQWC4JfEfLjezhNU2NA",
-   "tokens": 527644.1718978882,
-   "cost": 3.64,
-   "cost0": 3.64,
-   "entry_px": 6.314457711175701e-08,
-   "entry_fill": 6.760712645404543e-08,
-   "opened": 1793234271.1469615,
-   "last_px": 6.314457711175701e-08,
-   "peak_px": 6.314457711175701e-08,
-   "last_val": 3.1695483245208282,
-   "last_prog": 0.453
   }
  },
  "traded": [
@@ -3423,81 +3409,85 @@
   [
    "2026-10-28T17:37:51",
    120.73
+  ],
+  [
+   "2026-10-28T17:38:50",
+   119.78
   ]
  ],
- "cycles": 905,
+ "cycles": 906,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.0393681975,
- "watching": 373,
+ "sol_usd": 102.014469467,
+ "watching": 376,
  "near": [
   [
    "DUBBLE",
    "BGpPt4AbeNmhfat4FmvB79v9dV8aHomyfzXmwNzypump",
-   0.754,
-   4.6,
+   0.75,
+   5.6,
    ""
-  ],
-  [
-   "GAGE",
-   "HE8NpCJR84V3V2SrCDECL488Mh2oqCWtmQHzmXMjpump",
-   0.453,
-   2.3,
-   "bought"
   ],
   [
    "RAREINU",
    "CnNjfFCTDdfBAwKBAMNMLeGpiespWi14womBB8iBpump",
-   0.397,
-   2.6,
+   0.545,
+   3.6,
    ""
   ],
   [
-   "SCAM",
-   "HpdTQQ8bJzZ992ErUo8TfkWX5uAZ6mSpPhoqsVsipump",
-   0.335,
-   5.2,
-   ""
+   "LEMON",
+   "4bJmvxBBBTU1ZhSTksHq1ULx35yq5FTUpWMpoQ6Hpump",
+   0.319,
+   2.9,
+   "top5_hold_most=81%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "CLYDEFROG",
    "4iPJyvV4PcFtoWHuy6MLo2ynrQ8GkxqvMoehKzVFKhDJ",
-   0.195,
-   4.8,
+   0.181,
+   5.8,
    ""
   ],
   [
    "Hmm",
    "D2X8TmStVDDXdGQu3tUEVrCHrXYwXM3uRFw3uGe8pump",
    0.162,
-   8.8,
+   9.7,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Clinefrog",
+   "7bnnAkmCrMC2HU8ZXrs7hRXzvxvbuiZy8UkZrJzxkioi",
+   0.105,
+   2.5,
+   ""
+  ],
+  [
+   "BIO",
+   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
+   0.088,
+   2.6,
+   ""
   ],
   [
    "RAREINU",
    "H2LYW1SQP9pe4oAt4mptkoamxyEZPansnU2V7ztrpump",
-   0.118,
-   3.2,
-   ""
-  ],
-  [
-   "CLEINFROG",
-   "AruqeoagXbhXPtFTGZWxa4xU7ci7hKXDxG3Qd8UZCgii",
-   0.098,
-   3.2,
-   ""
-  ],
-  [
-   "CLINEFROG",
-   "9rzxLnAwPt4ivZDVmdHR5AUJjt7BkUSRWAWaqX8bpump",
    0.084,
-   2.7,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   4.2,
+   ""
+  ],
+  [
+   "CLYDEFROG",
+   "4Q6ZMgNSwupZAPSWTLLekYKCuS4DrqWvcx2sLCP5pump",
+   0.08,
+   3.0,
+   ""
   ],
   [
    "Klinefrog",
-   "v9cMQq4vsG6NYfW5PS624Lnm6rF3EZvg2HQkRCmpump",
-   0.084,
-   2.2,
+   "E4Vo7tNg2Ws3rh1G9ZocA6UyTzN2Sn7b6Vc4KeGPpump",
+   0.077,
+   4.1,
    ""
   ]
  ]
