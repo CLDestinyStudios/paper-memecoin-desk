@@ -5500,83 +5500,83 @@
    55.68
   ],
   [
-   "2026-10-29T05:57:21",
+   "2026-10-29T05:58:24",
    55.68
   ]
  ],
- "cycles": 1644,
+ "cycles": 1645,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.31441499900001,
- "watching": 192,
+ "sol_usd": 100.38999999999999,
+ "watching": 191,
  "near": [
-  [
-   "HYPE",
-   "CDVQ26jB4ma5kVfjmWof6ebaCmxq6QAt7F55FpUdpump",
-   0.534,
-   2.4,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "EPYH",
-   "4nnfdg4uNZ1k9HVAA1GA1HyLvRPzaXLiXLLWP17zpump",
-   0.491,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "MTP",
    "7nMt99UVj9MsTh7PnvEgrndawJgZV65Pe2uhiHh5pump",
    0.183,
-   3.5,
-   "top5_hold_most=97%"
+   4.5,
+   "top5_hold_most=98%"
+  ],
+  [
+   "TALLY",
+   "F2yRt9zZp9csUeXcp2MVDjug3dvN5NFFtZb5oJMEpump",
+   0.108,
+   8.3,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "CATO",
    "BqjZT4Kb6tJnP7FPwyuE4KdhVSa7VkEZ2q5cpkkvpump",
    0.088,
-   7.5,
-   "buyers=2; top5_hold_most=100%"
+   8.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "TERM",
+   "3mBEitGPL1RkbPxpcVLszoTSzLZHFUbTWWwKYVJVpump",
+   0.06,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "F0B90B",
    "8kKvQMrRNJpBdwm4J14jbrkTLuUUGTgpbDQ3kd3Npump",
-   0.051,
-   5.9,
-   "buyers=1; top5_hold_most=100%"
+   0.06,
+   7.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "DOORZ",
    "G8C8RYkMxcSx3CpcRZ6s65JSxUwXrFbGLSYWxXsfpump",
    0.031,
-   8.6,
-   ""
-  ],
-  [
-   "TALLY",
-   "F2yRt9zZp9csUeXcp2MVDjug3dvN5NFFtZb5oJMEpump",
-   0.027,
-   7.2,
+   9.6,
    ""
   ],
   [
    "BTS",
    "48J4gczdPaeHnaVvyDWmQSKjxErCnyjtd5EdAgQZpump",
    0.025,
-   7.2,
+   8.2,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "long",
-   "JCTgyUZjiEsEfvj3KT38o2SFhCP1kuHQBLZAbQnqH3QP",
-   0.022,
-   4.8,
-   ""
   ],
   [
    "mama bear",
    "GiqxEd7V1U45t1CH8wTKfWaHDTpkHweY95izXq7vpump",
    0.022,
-   8.7,
+   9.8,
+   ""
+  ],
+  [
+   "PETRI",
+   "829TTntmRkcrkxzZDjeA4T7tyiGS6ZvcDsFUmzQ3pump",
+   0.015,
+   9.4,
+   ""
+  ],
+  [
+   "boo",
+   "F9xWt3cYaFyRgevzKiaXD5eMdF4hKneiCFCd5qsnpump",
+   0.012,
+   5.9,
    ""
   ]
  ]
