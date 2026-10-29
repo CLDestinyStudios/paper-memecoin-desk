@@ -6506,84 +6506,84 @@
    32.58
   ],
   [
-   "2026-10-29T16:26:20",
+   "2026-10-29T16:27:24",
    32.58
   ]
  ],
- "cycles": 2272,
+ "cycles": 2273,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.5980737061,
- "watching": 251,
+ "sol_usd": 96.5175283249,
+ "watching": 259,
  "near": [
   [
    "cop",
    "GE3qKrtuVodNTmGAUqPyEvwc1kD6kAYVLyskQWkqpump",
-   0.8,
-   3.8,
-   ""
-  ],
-  [
-   "1029",
-   "HqrsdBczW78CoHcACeKXg9DkReMnHVT7kVV3HSihpump",
-   0.736,
-   3.4,
-   ""
+   0.678,
+   4.9,
+   "serial_creator=10 launches/24h"
   ],
   [
    "PEPEHOUSE",
    "6J5t9p8YNyiNnqCBBoUNnRayE8Y7vs7J4fbSG98WzEoQ",
-   0.229,
-   8.3,
+   0.27,
+   9.4,
    ""
   ],
   [
-   "Hack",
-   "7r7QtffhFwQU1dNYdXNYyLSqwWCetxJmLYmXBek9pump",
-   0.133,
-   6.6,
-   ""
-  ],
-  [
-   "Fortnite",
-   "CvtWiFrsspDxqthQeFoDAo3KREfrWCNpVpQTsUiipump",
-   0.102,
-   4.8,
-   ""
-  ],
-  [
-   "SGI",
-   "BomsbhDMBwFSpoxE4kPRueXWnYMXMgXSBD4J2vzepump",
-   0.102,
-   10.2,
-   ""
+   "calm",
+   "4HSHFbFiKuMvZW7yGiDTab17B63MzBkkhadFKxhkpump",
+   0.242,
+   3.0,
+   "buyers=7; top5_hold_most=99%; launch_slot=missing"
   ],
   [
    "01",
    "3jb5kUPvMdKgPSGMXLv85DyP32NPr9Z69ndKQoMvpump",
    0.083,
-   3.2,
+   4.3,
    "buyers=1; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "SGI",
    "6mWqc8bWK63K7Q24Droit7fD2qNeMVKqZNELGzLhpump",
    0.083,
-   7.7,
+   8.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "2.5B",
    "351VidwJY1FQ41kjdaLSAANA3f8fBqFR6Ufz9jyvKSL2",
-   0.067,
-   3.1,
+   0.065,
+   4.1,
    ""
   ],
   [
    "DROOL",
    "41UHzezej5dEJnRjenoQYrMaWmqse5rc5NGtP3o8pump",
    0.062,
-   2.9,
-   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+   3.9,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "HI6900",
+   "3jLKnVUfpo57seqVJruSWw45sf2pZ1fzqjotiZ9Dpump",
+   0.052,
+   4.1,
+   ""
+  ],
+  [
+   "DROOL",
+   "J6S1ZENQvaMf346BBbxhHmACAS7HLQoe8doiELzgpump",
+   0.041,
+   4.2,
+   ""
+  ],
+  [
+   "\ud83d\ude4f",
+   "HyahF9hTq4DEgucUqibTM5u59uY2FRayfh87visgEsaG",
+   0.041,
+   9.2,
+   ""
   ]
  ]
 }
