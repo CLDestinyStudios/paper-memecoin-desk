@@ -6474,84 +6474,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:07:06",
+   "2026-10-29T15:08:02",
    32.58
   ]
  ],
- "cycles": 2193,
+ "cycles": 2194,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.54593686039999,
- "watching": 318,
+ "sol_usd": 96.5782192552,
+ "watching": 323,
  "near": [
   [
    "autistic",
    "3UCgpS8V4JawHDgzgoZch1iKwp43crv61abtM1dMpump",
-   0.915,
-   2.9,
+   0.958,
+   3.8,
    ""
   ],
   [
    "UP",
    "AjqcVn5Tf6v8wSDXUDErBQT6Ak8ZRqr2S67ZT8FN5PCP",
-   0.44,
-   2.7,
-   ""
-  ],
-  [
-   "PEPE2",
-   "AFwZiRtHfWokhkeP7NXzN1Zwnq6tMGdT4tXyEDMpump",
-   0.24,
-   3.1,
+   0.551,
+   3.6,
    ""
   ],
   [
    "SAFU",
    "A1amwU73UVc2bwNSLisJpwdVavY4ndcm9xGeZ4Ztpump",
-   0.144,
-   5.5,
-   ""
-  ],
-  [
-   "SAFU",
-   "43xury93Bs8aMELf27Tv85duDMyzc1rF4PVyvvaFpump",
-   0.142,
-   2.6,
-   ""
-  ],
-  [
-   "SAFU",
-   "2iJoxHFkyQeFMLSMKUQ1E1HCSkxnUUZ7ZZvY2t2ywZDw",
-   0.13,
-   6.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "$3 B",
-   "BMhoSmV33uqdeybL58kbGa2AKPZ7SDbSzUZN6ziqpump",
-   0.125,
-   2.8,
-   "top5_hold_most=83%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Diego",
-   "7P3Q2oPoJ9tvpcrWCeaZ8qpveMG4K7zoQTtaQyedpump",
-   0.119,
-   7.7,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SAFU",
-   "Hj4CJxF3oBJDZ31qWQ96RVhqeKuMzMEwd3V3MooUpump",
-   0.11,
+   0.354,
    6.4,
+   ""
+  ],
+  [
+   "over",
+   "27pxQPyMV2UiQoTeihixv2J87fvDXYnjzmGkVws4pump",
+   0.203,
+   2.7,
    ""
   ],
   [
    "SING",
    "5RejhaBuq2p4pf5RuLatwv7rb1N18rtfXhfxryGSpump",
-   0.092,
-   2.5,
-   "buyers=8; top5_hold_most=89%"
+   0.146,
+   3.5,
+   "rugcheck=creator history of rugs"
+  ],
+  [
+   "PEPE2",
+   "AFwZiRtHfWokhkeP7NXzN1Zwnq6tMGdT4tXyEDMpump",
+   0.141,
+   4.1,
+   ""
+  ],
+  [
+   "Diego",
+   "7P3Q2oPoJ9tvpcrWCeaZ8qpveMG4K7zoQTtaQyedpump",
+   0.119,
+   8.6,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "SAFU",
+   "AjRUZTBQM6SrpfNbNz36k8GdCiNrohdFELrnJKTGpump",
+   0.11,
+   2.1,
+   ""
+  ],
+  [
+   "SAFU",
+   "9kHbgVznazGunbho6LsE2yo3hSbkDjaAtLFWzjpXpump",
+   0.106,
+   2.8,
+   ""
+  ],
+  [
+   "UNLOCK",
+   "B6w17HdX4HiqBTgs2YSc2HkbWkW7Sgn4sKkRSs76pump",
+   0.084,
+   6.1,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
