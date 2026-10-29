@@ -13,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 7.413060312842232e-08,
+   "last_px": 7.429569587542406e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8439583795952207,
-   "last_prog": 0.522,
+   "last_val": 0.8455169823612297,
+   "last_prog": 0.523,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5105,84 +5105,84 @@
    61.4
   ],
   [
-   "2026-10-29T03:47:22",
+   "2026-10-29T03:48:22",
    61.4
   ]
  ],
- "cycles": 1514,
+ "cycles": 1515,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.55000000000001,
- "watching": 169,
+ "sol_usd": 100.498567828,
+ "watching": 177,
  "near": [
   [
    "MAX",
    "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   0.931,
-   3.9,
+   0.923,
+   4.9,
    ""
   ],
   [
-   "Robotron",
-   "95QcRCwKmHHzgKuAsbdToomRqzfiUetNuepbGsSNpump",
-   0.285,
+   "HYPE",
+   "BygM4RJBA6bjK1EdeMKKKhiGBioHvMJ5BCbNqSFkApRU",
+   0.272,
    2.4,
-   "serial_creator=10 launches/24h"
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "HOLDER",
    "rJtsNKg1T9d6sUUsyEd1QZX6GeMT1C5uZRezg4vpump",
    0.263,
-   6.9,
+   7.9,
    "top5_hold_most=87%"
   ],
   [
    "MAX",
    "55w6WZtCTkBEN1xHJ35Um3V4qPUJPKjs7uKUivpbpump",
-   0.245,
-   8.9,
+   0.199,
+   9.9,
    ""
   ],
   [
    "PREDICT",
    "24nzaCipFYaQEQAarSYGecq16bEUZu61BhuFqVRrpump",
    0.131,
-   6.0,
+   7.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SECURITY",
    "AdsvTvuwsMbz6GLA2QSjq8X1mbnPAetpg4S4vpNapump",
-   0.098,
-   2.3,
+   0.106,
+   3.3,
    "buyers=8; top5_hold_most=100%"
+  ],
+  [
+   "ARIANE",
+   "CktR6S3ynFTxPFaAhvHCJ7iopx3qtkuFcyeQRQzzpump",
+   0.095,
+   2.4,
+   ""
+  ],
+  [
+   "IT MATTER?",
+   "567pkaTv4BizYw3feUQJjq8hv1rbrmKAsbQGrxHZpump",
+   0.075,
+   2.7,
+   ""
+  ],
+  [
+   "word",
+   "7FFvAr7hQmKtYonz9LHjtZpvJBpFVPWacoQuuEiQpump",
+   0.064,
+   2.8,
+   ""
   ],
   [
    "HYPE",
    "J91YrnzdtxQuqhZpK4dnPocgeKaFLQ1STb5PuqsYVPpv",
    0.064,
-   7.9,
+   8.9,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Cock",
-   "GC57Wr7Gn6qDTkQ4zPLifgip5P7dHzsDv5UXaXs4HSSa",
-   0.053,
-   6.1,
-   ""
-  ],
-  [
-   "longooor",
-   "D2D48wCuLhx3TqppURsZ6t7dLqkGxqx7g2yS9Li5pump",
-   0.049,
-   5.3,
-   ""
-  ],
-  [
-   "MaxLev",
-   "H4StD9yKHuMVeg1hDdb1USeVXAsrdYEPaCoG88H32sU2",
-   0.044,
-   8.7,
-   "buyers=6; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
