@@ -6394,83 +6394,83 @@
    32.58
   ],
   [
-   "2026-10-29T11:59:53",
+   "2026-10-29T12:00:54",
    32.58
   ]
  ],
- "cycles": 2006,
+ "cycles": 2007,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.52117201900002,
- "watching": 289,
+ "sol_usd": 100.48054377099999,
+ "watching": 282,
  "near": [
-  [
-   "FLIP",
-   "2c6KepS2pTKbJn7Jx2w3VYAUjbaGqn89WaSmiqt7pump",
-   0.533,
-   9.6,
-   ""
-  ],
   [
    "Satoshi",
    "AB6k5NcqUMzTypjB8WK2qZJhSr44t56rjgtVKPvFpump",
-   0.507,
-   8.7,
+   0.51,
+   9.7,
    ""
+  ],
+  [
+   "Funassyi",
+   "ChgsUVu9LMGggvTJHcHpMKY4qoR3kdy7Ns1NF2g1pump",
+   0.267,
+   2.1,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "NCM",
    "JA4QjA3VSmKfscwAfgPfecZKu2cZoF19fy3WqCrmpump",
-   0.227,
-   4.2,
+   0.218,
+   5.2,
    ""
   ],
   [
-   "DIHQUID",
-   "BLuUCcY9pjJPQbTBnM4T7Rr4xzfNgMbzcowGDhQZpump",
-   0.068,
-   3.6,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "crypto",
-   "CvNf9Tqpvjr7gbS85gv7N4PuNLiiT2CnjXGE9VNQpump",
-   0.067,
-   9.1,
+   "HATCH",
+   "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
+   0.114,
+   2.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Aiden",
    "A5gHrRFvwicJcMF8wfWpRBjYzQGQxxoihU5en7m5G8dF",
    0.057,
-   7.8,
+   8.8,
    ""
   ],
   [
    "DEGEN",
    "CyGfYvhNYN42QDhB3JqCDZiGm84WCTEH9SHNAcHepump",
    0.051,
-   8.8,
+   9.8,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Ket",
+   "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
+   0.049,
+   5.7,
    ""
   ],
   [
    "HODLWAR",
    "GR1XNZ88CsFM1D8kuzK5AZAEHtW2swh7VJc3WePfpump",
    0.043,
+   3.5,
+   ""
+  ],
+  [
+   "POLYPUMP",
+   "GJ3K4bjLFTQcfaoJAUGb3pTtTU8qoh1XvwvWVaMEpump",
+   0.043,
    2.5,
    ""
   ],
   [
-   "nigga",
-   "Dq25TabP8YjGAXX54HqQgEKtqvt4YJwMcHC97e5QoGfA",
-   0.041,
+   "CLAW",
+   "FzgivmsemMroBfGHrPFzdFACVpajEhhGGazLpShfNwGx",
+   0.034,
    4.4,
-   ""
-  ],
-  [
-   "Ket",
-   "7pHNy1oToChTJd4V1aUG5jJAyR45bTBn1ubfwfStpump",
-   0.039,
-   4.7,
    ""
   ]
  ]
