@@ -13,10 +13,10 @@
    "entry_px": 3.7610929740441486e-08,
    "entry_fill": 4.087602122408251e-08,
    "opened": 1793277382.7304814,
-   "last_px": 3.369023688406095e-08,
+   "last_px": 3.357940476511299e-08,
    "peak_px": 3.7610929740441486e-08,
-   "last_val": 1.3025512297730284,
-   "last_prog": 0.12
+   "last_val": 1.2990201220844908,
+   "last_prog": 0.118
   }
  },
  "traded": [
@@ -5454,82 +5454,86 @@
   [
    "2026-10-29T05:37:22",
    57.15
-  ]
- ],
- "cycles": 1624,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.263758787,
- "watching": 164,
- "near": [
-  [
-   "Wan",
-   "3ttCnAidi9QWUhJRDCR2edGqCzUe7N22RgwsBY8vpump",
-   0.881,
-   2.2,
-   ""
   ],
   [
-   "Q&E",
-   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
-   0.288,
-   3.6,
-   ""
+   "2026-10-29T05:38:22",
+   57.15
+  ]
+ ],
+ "cycles": 1625,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.33465689600001,
+ "watching": 146,
+ "near": [
+  [
+   "Beamish",
+   "BCU9agqgxJMnjEGaFJjzhb4DeFcgci4gQQQcBgsJpump",
+   0.484,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "NICEHAT",
    "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
    0.287,
-   7.2,
+   8.2,
    "top5_hold_most=89%"
-  ],
-  [
-   "BTS",
-   "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
-   0.132,
-   4.0,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "commando",
    "3XpEtxi732V2wyWoyfWPzjqzCW5xxyQCdCBxoCripump",
-   0.122,
-   2.9,
+   0.202,
+   3.9,
+   "top5_hold_most=83%"
+  ],
+  [
+   "Q&E",
+   "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
+   0.126,
+   4.6,
+   ""
+  ],
+  [
+   "BTS",
+   "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
+   0.118,
+   5.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Pedos",
    "AjG5Zigb1g2WvSH9ue5JReZzZpiU8WQm8gvYWk1Qpump",
    0.114,
-   3.5,
+   4.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "EGG",
-   "khM5d4p3ik8meK85GunjZhGQbjMA5fzXqzfEEW7pump",
-   0.081,
-   6.7,
-   ""
-  ],
-  [
-   "KOVIN",
-   "3kBJU2df5tnHTwikRtXch8mei9aMoX7FPynJrfYR8KwR",
-   0.078,
-   3.7,
-   ""
-  ],
-  [
-   "Bowen",
-   "FAZeyz1KyP15EsksbqVxkdjJh1pxTi2EnWpdGXpfpump",
-   0.063,
-   9.0,
-   ""
   ],
   [
    "MHGA",
    "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
    0.044,
-   7.7,
+   8.7,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "HAIL",
+   "HiRSfSfeZre7mnKE8aJi3B1hqX3NTB4E8BmLVZZcpump",
+   0.044,
+   2.5,
+   ""
+  ],
+  [
+   "Wan",
+   "3ttCnAidi9QWUhJRDCR2edGqCzUe7N22RgwsBY8vpump",
+   0.028,
+   3.2,
+   ""
+  ],
+  [
+   "CHALOWEEN",
+   "DzZ1U4y6WyazymWDvnGDXexsvw8QBs18KRkTM591pump",
+   0.015,
+   4.2,
+   ""
   ]
  ]
 }
