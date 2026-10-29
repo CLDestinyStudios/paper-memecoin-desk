@@ -13,10 +13,10 @@
    "entry_px": 5.6471090600832834e-08,
    "entry_fill": 6.05656203665727e-08,
    "opened": 1793244970.9116685,
-   "last_px": 5.774936705239515e-08,
+   "last_px": 5.396490990450275e-08,
    "peak_px": 5.9279986572110915e-08,
-   "last_val": 2.8037868945386974,
-   "last_prog": 0.412
+   "last_val": 2.617263890467677,
+   "last_prog": 0.379
   }
  },
  "traded": [
@@ -3977,81 +3977,85 @@
   [
    "2026-10-28T20:38:03",
    104.84
+  ],
+  [
+   "2026-10-28T20:39:04",
+   104.65
   ]
  ],
- "cycles": 1085,
+ "cycles": 1086,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.50425638269999,
- "watching": 202,
+ "sol_usd": 99.52,
+ "watching": 189,
  "near": [
+  [
+   "LiquidPump",
+   "hhp3Zypkj51s6N5cFWxy3X2vavJq8aXi9kY3zMEpump",
+   0.577,
+   2.1,
+   ""
+  ],
   [
    "SplitOtake",
    "Ebg5MUmE5aeL2JZHbwXAC3TsKwu38e1aNRu8UkK6pump",
    0.134,
-   5.4,
+   6.4,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "GROTTI",
    "7Qb39N2p6fsVi3cZUFySHo2rfvTp5vCVSHqvtUvspump",
    0.115,
-   5.4,
+   6.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "OFRON",
    "5F5ACbgxDpyCNiGTSA5LuERgmecUtDHW5NYKNhtGpump",
-   0.103,
-   4.0,
+   0.104,
+   5.0,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "123",
-   "Gwc1FqBS87SwodqZ1NnB98FRxFcLyf9JG1S6pf88NpC4",
-   0.087,
-   3.7,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "UFP",
    "51gTSyRTq3Xc3fe2BrmUbgSgNUvk1oLTqNEmwYWQpump",
    0.074,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "UFP",
+   "G7hg6MLpsNDff531NMjNqbaMuwS19BdA4B3DKNqpD4Lf",
+   0.065,
+   3.2,
    ""
   ],
   [
    "BUILDER",
    "7BJcHBb7UZ46b8dF26xJZtJ3ukfJ5dBrpsm8p2Pgpump",
    0.046,
-   2.7,
+   3.7,
    ""
   ],
   [
    "Jack",
    "46joBdcDSS6A49uDPZKptLztAZ8XAgKJcdK7jyjcpump",
-   0.037,
-   5.2,
+   0.036,
+   6.2,
    ""
   ],
   [
    "RICO",
    "EmUwTzS2MWXX3Ugt4Wzy7yf395Y32KSurSoSVtT9pump",
-   0.027,
-   5.4,
+   0.028,
+   6.5,
    ""
   ],
   [
    "moca",
    "8z1Y6ChUrtfQhcFqMDVLLuQLvjRojcfxJ5jrBjPRpump",
    0.023,
-   4.1,
-   ""
-  ],
-  [
-   "UFP",
-   "G7hg6MLpsNDff531NMjNqbaMuwS19BdA4B3DKNqpD4Lf",
-   0.023,
-   2.1,
+   5.1,
    ""
   ]
  ]
