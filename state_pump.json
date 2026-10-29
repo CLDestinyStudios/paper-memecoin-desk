@@ -6442,83 +6442,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:50:04",
+   "2026-10-29T13:51:03",
    32.58
   ]
  ],
- "cycles": 2116,
+ "cycles": 2117,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.1939619997,
- "watching": 311,
+ "sol_usd": 96.82724869320002,
+ "watching": 295,
  "near": [
   [
-   "dca",
-   "DCA8Y187z5idPn95BQhra13W4Ca6iyJ44JnSmT5NkHs",
-   0.612,
-   8.8,
+   "Shadow",
+   "Eb4SxWgieZGqSW12pNpxJQinV5w5nfUeWG8mgEmCpump",
+   0.794,
+   2.9,
    ""
   ],
   [
-   "ZERO",
-   "DxbKekHj7uUiFKKnXvegpKcLR2HWsuA4nudBWJcvpump",
-   0.569,
-   2.4,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "OVER",
-   "7khyBFLKXEXx2p2LWaDHMtxSferkpCR75Wh3SK6Tpump",
-   0.51,
-   2.5,
+   "dca",
+   "DCA8Y187z5idPn95BQhra13W4Ca6iyJ44JnSmT5NkHs",
+   0.737,
+   9.7,
    ""
   ],
   [
    "VIKO",
    "6RtzFwnJq9XddYioHiZS34C6N4mQ4ooBS896NshDpump",
-   0.296,
-   4.5,
+   0.233,
+   5.4,
+   "top5_hold_most=81%"
+  ],
+  [
+   "OVER",
+   "7khyBFLKXEXx2p2LWaDHMtxSferkpCR75Wh3SK6Tpump",
+   0.187,
+   3.5,
    ""
   ],
   [
-   "10/29",
-   "7tpPx2Ar1FgdAxaAr25Hy5PNnCYVWu2Gmas83Pw1npg1",
-   0.112,
-   2.6,
+   "ape",
+   "FsnYGV3H72kD2A4eipFu9mqytjHYmZ7bSeSXrNjopump",
+   0.175,
+   2.2,
    ""
+  ],
+  [
+   "CRYPTOCRASH",
+   "BcHjP2ZePDUYnPCknzooeDnWFNqEemFqLqmRom7Npump",
+   0.129,
+   2.1,
+   "buyers=7; top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "B",
+   "4AMATXSgWevGDhWnH4YzMyrJSShHWKvmyrcS8xLspump",
+   0.114,
+   2.2,
+   "buyers=9; bundled_launch=5 extra buys in creation block"
   ],
   [
    "WORLD",
    "A7eHgSu8WoDaisaaRV842CnkXKQUm2DLEEJweVXEpump",
    0.106,
-   4.4,
+   5.3,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "ceezee",
-   "GdMEqt4TSGWsuZpNYaanGJajE7F5r94p6yuDqmBXpump",
-   0.106,
-   9.2,
-   ""
   ],
   [
    "UNSAFU",
    "B8M6aq2DJTdS1fXzRXa1C9jqpJeW3LUqx9qkJT3rpump",
    0.1,
-   5.1,
+   6.0,
    ""
   ],
   [
-   "10/29",
-   "CS5CXJrFTxH5unadA7wden3Z5hTnYcyCdBrFzjg6pump",
-   0.099,
-   6.6,
-   ""
-  ],
-  [
-   "10/29",
-   "HSiPbbeDTqk9hh2mCA2MnXCxrfGPt9pq55ihtmoXpump",
-   0.084,
-   2.5,
+   "REDTOBER",
+   "G4qfj6ecSA3ycXtsXQZr31YmdywNtFdTwT8nhJx1pump",
+   0.1,
+   2.3,
    ""
   ]
  ]
