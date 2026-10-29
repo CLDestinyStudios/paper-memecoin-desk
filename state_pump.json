@@ -15,7 +15,7 @@
    "opened": 1793269642.5762103,
    "last_px": 7.382215935343211e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8398608368476002,
+   "last_val": 0.8404886880855286,
    "last_prog": 0.52,
    "tp1_done": true,
    "realized": 0.37633656758851186
@@ -5105,84 +5105,84 @@
    61.4
   ],
   [
-   "2026-10-29T03:49:22",
+   "2026-10-29T03:50:21",
    61.4
   ]
  ],
- "cycles": 1516,
+ "cycles": 1517,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.50486599950001,
- "watching": 183,
+ "sol_usd": 100.57999999999998,
+ "watching": 168,
  "near": [
   [
    "MAX",
    "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   0.823,
-   5.9,
+   0.883,
+   6.9,
    ""
   ],
   [
    "HALVE",
    "Cp3z6QaCiLYAsiVycqdLLiCwtfwKXJwrfgbQQh4Ypump",
    0.314,
-   3.0,
-   "buyers=7; creator=18.6%; top5_hold_most=100%"
+   3.9,
+   "buyers=8; creator=18.6%; top5_hold_most=100%"
   ],
   [
    "HOLDER",
    "rJtsNKg1T9d6sUUsyEd1QZX6GeMT1C5uZRezg4vpump",
    0.263,
-   8.9,
+   9.9,
    "top5_hold_most=87%"
-  ],
-  [
-   "HYPERCAT",
-   "6CbcyqLgJu9DC1vjVWYiuZi9Yu6ZKCtxnaEqH8mzU5Wk",
-   0.243,
-   2.1,
-   "serial_creator=40 launches/24h"
   ],
   [
    "PREDICT",
    "24nzaCipFYaQEQAarSYGecq16bEUZu61BhuFqVRrpump",
    0.131,
-   8.0,
+   9.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SECURITY",
    "AdsvTvuwsMbz6GLA2QSjq8X1mbnPAetpg4S4vpNapump",
-   0.106,
-   4.3,
-   "buyers=8; top5_hold_most=100%"
+   0.105,
+   5.3,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "ARIANE",
    "CktR6S3ynFTxPFaAhvHCJ7iopx3qtkuFcyeQRQzzpump",
    0.095,
-   3.4,
+   4.3,
    ""
   ],
   [
-   "IT MATTER?",
-   "567pkaTv4BizYw3feUQJjq8hv1rbrmKAsbQGrxHZpump",
-   0.075,
-   3.7,
+   "BWA",
+   "AbnXPbz7nNBZGMk6m5JwyEoQ7UEt7ELB6B346FLJpump",
+   0.063,
+   2.4,
    ""
   ],
   [
-   "word",
-   "7FFvAr7hQmKtYonz9LHjtZpvJBpFVPWacoQuuEiQpump",
-   0.064,
-   3.8,
+   "longooor",
+   "D2D48wCuLhx3TqppURsZ6t7dLqkGxqx7g2yS9Li5pump",
+   0.049,
+   8.3,
    ""
   ],
   [
-   "HYPE",
-   "J91YrnzdtxQuqhZpK4dnPocgeKaFLQ1STb5PuqsYVPpv",
-   0.064,
-   9.9,
-   "buyers=2; top5_hold_most=100%"
+   "KYS",
+   "JDDuubY4Mg5VFFu61qyPQXZ5S56zuxaus7ZVjBP9pump",
+   0.047,
+   2.3,
+   ""
+  ],
+  [
+   "ASS BTC",
+   "BgtNrjAdG2AzK4UvVtuwgZgzDgqXKhAwWDKb5Sg7pump",
+   0.044,
+   2.4,
+   ""
   ]
  ]
 }
