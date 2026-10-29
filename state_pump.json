@@ -13,10 +13,10 @@
    "entry_px": 5.992804462291747e-08,
    "entry_fill": 6.448835139674546e-08,
    "opened": 1793251986.6136727,
-   "last_px": 5.992804462291747e-08,
-   "peak_px": 5.992804462291747e-08,
-   "last_val": 2.2566010484072985,
-   "last_prog": 0.429
+   "last_px": 6.620908327974621e-08,
+   "peak_px": 6.620908327974621e-08,
+   "last_val": 2.4974355771456973,
+   "last_prog": 0.474
   }
  },
  "traded": [
@@ -4216,73 +4216,63 @@
   [
    "2026-10-28T22:33:06",
    87.03
+  ],
+  [
+   "2026-10-28T22:34:04",
+   87.27
   ]
  ],
- "cycles": 1200,
+ "cycles": 1201,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.493743795,
- "watching": 153,
+ "sol_usd": 100.4586016175,
+ "watching": 151,
  "near": [
   [
    "GWJOB",
    "HetAqVWRX2rt94LnUsVWv5fo89kqr1NsVJYZrjD4pump",
-   0.97,
-   2.8,
-   ""
-  ],
-  [
-   "Mortgage",
-   "CWknWefxzAuVFm81mAGgGLKEoqNpkpExbstvUdMFpump",
-   0.603,
-   2.3,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "C4T",
-   "HzaGpHjUA8oTbmUx2hRLzh1bPSQrwGT32UCZhyKXpump",
-   0.458,
-   2.6,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "NEKO",
-   "6MGXhgWnR3SiCf5P275yWoUsSXjqFj51YPSC3taBpump",
-   0.429,
-   5.2,
-   "bought"
-  ],
-  [
-   "SpermSword",
-   "Dswqp3ZHFL1ogbHcWJSSbyJ3StwfaANSUtM4NgJvpump",
-   0.102,
-   2.9,
-   "buyers=7; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   1.0,
+   3.7,
+   "graduated"
   ],
   [
    "BITE",
    "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump",
-   0.09,
-   6.9,
-   "buyers=5; top5_hold_most=100%"
+   0.119,
+   7.9,
+   "top5_hold_most=85%"
   ],
   [
    "GENNY",
    "5Jz9jGfd2QYJHEeyRxkXS4GAFxaiFrfDBT9ymhU8pump",
-   0.08,
-   3.0,
+   0.082,
+   4.0,
+   ""
+  ],
+  [
+   "SCM",
+   "3LSqwWRABsLTAaQnrBMnQF4L1M9eXHDvidnyeaVEpump",
+   0.043,
+   2.4,
    ""
   ],
   [
    "BAGUTTE",
    "9dNK4KkeFSmJLijbCFD6qjgcm1ovvGuBZqTsiQG2pump",
-   0.036,
-   4.3,
+   0.026,
+   5.3,
    ""
   ],
   [
    "AI",
    "uXUxD9cjhHU4EtCQdgMfTSFWfKZnn168n4H1j6Apump",
    0.025,
+   3.2,
+   ""
+  ],
+  [
+   "EA",
+   "Ftmk4JyAxEjaT95cgo3Pdevu482B2udgvNZEbzbhXe2Q",
+   0.024,
    2.2,
    ""
   ],
@@ -4290,7 +4280,21 @@
    "SLEGO",
    "9XhCTgQzFpTSDbqbF6sJqUfVA8b76YxVB59DATUepump",
    0.023,
-   3.1,
+   4.0,
+   ""
+  ],
+  [
+   "HOLY",
+   "Gz4BtQkyD4tTHPnnw7px9g7wzNezJ6GyTNVCZpnFpump",
+   0.022,
+   8.4,
+   ""
+  ],
+  [
+   "JBYY",
+   "AsF1zrdruE3QJvpc2L4EpncQZMYp722f6s2tUxmPpump",
+   0.021,
+   4.0,
    ""
   ]
  ]
