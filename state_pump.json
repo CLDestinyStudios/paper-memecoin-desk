@@ -6334,83 +6334,83 @@
    32.58
   ],
   [
-   "2026-10-29T09:40:55",
+   "2026-10-29T09:41:52",
    32.58
   ]
  ],
- "cycles": 1867,
+ "cycles": 1868,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.03512059,
- "watching": 330,
+ "sol_usd": 101.91999999999999,
+ "watching": 332,
  "near": [
   [
-   "Pizzarat",
-   "CAcwAPk9rcyN961BdyvhFafyDq693tRWS3UjWZZRpump",
-   0.364,
-   9.8,
-   "top5_hold_most=86%"
+   "$CAPO",
+   "6f598vHKdjuUB4toGZqMRxVEwjcJLn3cY7pcpwitpump",
+   0.2,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "DRAGONED",
    "AbNeH5RZizvLJADA4cbR2YrzKKwHZoUgsKtxeEVppump",
-   0.172,
-   2.5,
-   "buyers=8; top5_hold_most=87%"
-  ],
-  [
-   "$CAPO",
-   "6f598vHKdjuUB4toGZqMRxVEwjcJLn3cY7pcpwitpump",
-   0.145,
-   3.8,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "hypfck",
-   "DBYhrUe6sLKnJqgyjz7mophUPDkkhTz96qgbCAUopump",
-   0.122,
-   9.4,
-   "buyers=1; top5_hold_most=100%"
+   0.153,
+   3.5,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "MEMEX",
    "HH6TVFDLqNVmqFkUxejuHKiGiTuTxN4f69wBvtsQpump",
    0.083,
-   6.5,
+   7.5,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "KATT",
-   "2ACx9ozvMo4MZRuRadKLuvQCxBq9fVFpPybxmznmpump",
-   0.071,
-   7.0,
-   ""
   ],
   [
    "BLACKBOX",
    "FBERdPu4RY4rFiKzmPo3kDqtihYCEbhQcvwfHRvCpump",
    0.062,
-   8.5,
-   ""
-  ],
-  [
-   "COVER",
-   "ANFPqhQWARpycMpqsgd1iBGwWm7EeTqgy9YpGU9xVzew",
-   0.044,
-   3.2,
+   9.5,
    ""
   ],
   [
    "POPPED",
    "4Zz1rL5mwPvriKu8ZG5fqoVTF6pLBRe35SLBJ1Fypump",
    0.043,
-   3.7,
+   4.6,
+   ""
+  ],
+  [
+   "KBCH",
+   "GB7Pj7ZTuG2RNiqvAeCwd5jLxxism1rF6CSom7f6pump",
+   0.023,
+   2.8,
    ""
   ],
   [
    "FX",
    "5nV8PLPsUtdoNpNH82Lvac97TtM9p9miKhVsPNb3pump",
    0.022,
-   3.5,
+   4.4,
+   ""
+  ],
+  [
+   "DotOS",
+   "AgvmWwMdzxwH2VpeYrjrr1PtXbU7a9yL5JW2xCmwpump",
+   0.02,
+   2.6,
+   ""
+  ],
+  [
+   "FROG",
+   "9yndAAv9LcPxnjvQAM2NWmTKkT25Q74saCcuphrhpump",
+   0.02,
+   2.8,
+   ""
+  ],
+  [
+   "DRUCK",
+   "3gzwcR6jzv17suGLabTECUrNyvDJWubCS6rghETsLZFE",
+   0.013,
+   5.5,
    ""
   ]
  ]
