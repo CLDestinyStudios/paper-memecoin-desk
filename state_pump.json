@@ -6366,83 +6366,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:56:57",
+   "2026-10-29T10:57:55",
    32.58
   ]
  ],
- "cycles": 1943,
+ "cycles": 1944,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.84000000000002,
- "watching": 308,
+ "sol_usd": 100.87993506699999,
+ "watching": 285,
  "near": [
+  [
+   "PEPEYE",
+   "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump",
+   0.943,
+   2.1,
+   ""
+  ],
+  [
+   "SOLOFWAR",
+   "4KdB5zg8VuuUKJEk4DvkVZnrT9DJQxvWbjfDRF4cpump",
+   0.742,
+   2.9,
+   ""
+  ],
+  [
+   "Unrug",
+   "9vesgFhixrd2SpuRRUMmuzNbTFzJr7mRozoXfxDYpump",
+   0.593,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
+  ],
   [
    "pulymerket",
    "DJBpBpFJ87LNbVBTXTjSvLGzeVmyzQzJvtPjqMqzN5qD",
-   0.619,
-   8.1,
+   0.481,
+   9.1,
    ""
   ],
   [
    "PUMPL",
    "BQxUZes3PTPLFdNHjv2YghZjVKxiy59HRHUffRxzsGNV",
-   0.424,
-   5.4,
+   0.356,
+   6.3,
    ""
   ],
   [
-   "POLYHACKED",
-   "6FvMhHrcDiogqHxB3D1CHzXcShTTyu7xZ2t5Sy4Xpump",
-   0.26,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
+   "CallMyCoin",
+   "GZhFAT4zEqjZfatzdYgT6Kgg9GUfCm5M9YFjZRuuhu5u",
+   0.307,
+   2.9,
+   ""
   ],
   [
    "Hal",
    "DNHw1TZ2YP8Qxt2AauDYPH3zDTQhbzLhsQu9YeMFpump",
-   0.233,
-   5.4,
+   0.295,
+   6.3,
    ""
-  ],
-  [
-   "KORAN",
-   "5uQXnsvK6Wnx3dpVrfyjLsksS5k2s4x4Lz4V7tTKpump",
-   0.086,
-   2.4,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BERNIE",
    "G5wCUq3wUK6s2DjSZTi5qg6CzHajB36xCQqqJ8WFpump",
    0.062,
-   2.7,
+   3.6,
    ""
   ],
   [
    "HSHIB",
    "7XVotkNyrtQ2rrhWQjtBksPmS1AeaTiD5UuKs52mpump",
    0.053,
-   8.5,
+   9.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "IRONYMAN",
    "D6MkZmw8L4V1ZZ5PcKTmRLsUQBPHXN1aZX2z8dNRpump",
    0.046,
-   4.5,
-   ""
-  ],
-  [
-   "UNRUGGABLE",
-   "6J74byhS4ub7ufeke1vF8DkDoXoxAe2ztyHtuaNnpump",
-   0.043,
-   8.9,
-   ""
-  ],
-  [
-   "STAN",
-   "8hz4YFUWYyoiEbs5oufakVvemu6hBMTvcYGndq5avcc",
-   0.042,
-   6.8,
+   5.5,
    ""
   ]
  ]
