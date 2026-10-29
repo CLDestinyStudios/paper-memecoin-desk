@@ -6402,83 +6402,83 @@
    32.58
   ],
   [
-   "2026-10-29T12:16:54",
+   "2026-10-29T12:17:57",
    32.58
   ]
  ],
- "cycles": 2023,
+ "cycles": 2024,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.42616814600001,
- "watching": 242,
+ "sol_usd": 100.1190917735,
+ "watching": 232,
  "near": [
-  [
-   "Hyperjak",
-   "22joeTJq1puubi5Ugkw9c4gDfwMkWkADQdeEPdyKpump",
-   1.0,
-   2.7,
-   "graduated"
-  ],
   [
    "Rise",
    "ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump",
-   0.618,
-   5.0,
-   ""
-  ],
-  [
-   "BOB",
-   "Bqj2dj39Y1iczuweaCKUNuPsVC42ERJkHWf8YtzTpump",
-   0.204,
-   2.8,
-   "top5_hold_most=85%; bundled_launch=3 extra buys in creation block"
+   0.651,
+   6.0,
+   "creator=47.3%; top10=51.4%; top5_hold_most=99%"
   ],
   [
    "POLYPAD",
    "6Sm6pjfjxdMJN6xp9a8eh2x6GVtmrKCHrSzcpYFLpump",
-   0.191,
-   2.5,
+   0.216,
+   3.5,
    "top5_hold_most=87%"
-  ],
-  [
-   "BOX",
-   "DwRuPn1m6cozCpRZDSMhFJNtZNQnAKWqkmJiHrzwpump",
-   0.106,
-   2.4,
-   "buyers=6; top5_hold_most=97%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "EEN",
    "5YgDK5iSKPpQEK92v6Goqjc35fEeW6vDWsSyvkpjpump",
    0.086,
-   2.9,
+   4.0,
    ""
   ],
   [
    "SI",
    "HRFiuhw5gkyGV2z4H29Q9M4o5m1zwqXCf41g1z6opump",
    0.084,
-   8.9,
+   10.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Verse",
    "AA2SN88MPhMk1pUv2SJrm3yDDpNv86qzRUXH5vphpump",
    0.056,
-   3.9,
+   4.9,
    ""
   ],
   [
    "SQUADWAGER",
    "3sKbyST7TB6HyFs7UWww9pqTBFCNqKpqmHmAt6hcpump",
    0.043,
-   2.7,
+   3.7,
    ""
   ],
   [
    "SQUADWAGER",
    "84R6bX7M6oMEUQQPi69FiTr2AYhQYwTmkv6UaHJRpump",
    0.042,
-   3.4,
+   4.5,
+   ""
+  ],
+  [
+   "REKT",
+   "34Q8BgSU2VdYSmZCk84aGaMDbuNJq96ey7uiJA3ypump",
+   0.039,
+   8.9,
+   ""
+  ],
+  [
+   "elon.x",
+   "A7rWWckFqzE8RVJt2KyfsBHGALurnHqh2GKMakydpump",
+   0.035,
+   5.5,
+   ""
+  ],
+  [
+   "JOHN",
+   "E3u4K5UGGJBabNALVf6a2fo6ob4cVvwbrqSgYjbSpump",
+   0.031,
+   2.8,
    ""
   ]
  ]
