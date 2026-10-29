@@ -6490,84 +6490,84 @@
    32.58
   ],
   [
-   "2026-10-29T15:49:07",
+   "2026-10-29T15:50:08",
    32.58
   ]
  ],
- "cycles": 2235,
+ "cycles": 2236,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.98052281010001,
- "watching": 300,
+ "sol_usd": 97.00614652799999,
+ "watching": 297,
  "near": [
   [
    "CARRIER",
    "GuE5TSVg5sA6fJnXyFbqqJrDthxzED6z8YYpj1s4pump",
-   0.699,
-   2.3,
+   0.809,
+   3.3,
    ""
   ],
   [
    "\ud83d\ude4f",
    "14reSxg4wFq1VKhMeVCdxhAhZXQN8WifvrkVtrSTpump",
-   0.686,
-   3.1,
+   0.712,
+   4.2,
    ""
   ],
   [
-   "BAILEY",
-   "4h57JPp2pM8NEtTMgxHzrrgocNMurYcvyPA5adrFpump",
-   0.627,
-   3.0,
-   "serial_creator=6 launches/24h"
+   "CARRIER",
+   "56BiAiQ615kQTcxxiUiBoVrgTHrRVfnT2oEPPtqkpump",
+   0.194,
+   2.7,
+   "buyers=7; top5_hold_most=88%"
   ],
   [
    "BRIPTOE",
    "HhSAXKiS2Svc9HQRcnXCu5v4SzMT6mwSxPiGonL2pump",
-   0.283,
-   5.1,
-   ""
-  ],
-  [
-   "ZERODAY",
-   "82qUEAfXvGwjZCnCrviBJA5NFrzEHe95PsxBwGzFpump",
-   0.245,
-   5.1,
-   "top5_hold_most=88%"
-  ],
-  [
-   "FINE",
-   "4Z1JgXQtaFZhHqKwuLumRsQBcSwwfND2kJzHzgrapump",
-   0.175,
-   9.5,
+   0.19,
+   6.1,
    ""
   ],
   [
    "LILY",
    "5HE5uDVrstu8x2a1TiJ27tvDR6zFpeKoUXAifwavpump",
-   0.174,
-   5.1,
+   0.18,
+   6.2,
    ""
   ],
   [
    "ZERODAY",
-   "CTxs9soDzDgBn5Exe4B5pudMRxAWW1KshLL4MnJnpump",
-   0.132,
-   2.7,
-   ""
+   "82qUEAfXvGwjZCnCrviBJA5NFrzEHe95PsxBwGzFpump",
+   0.179,
+   6.1,
+   "buyers=9; top5_hold_most=93%"
   ],
   [
-   "ZERODAY",
-   "3QqsxwxrNYEcQtS8T6E7Q1JqaggcUznp6n4Xwv48pump",
-   0.121,
-   3.8,
-   ""
+   "log-in",
+   "BsiKF6TKUFB9XZAqKhe4VpB4uys797p66RdbkS4Dpump",
+   0.173,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "ZERODAY",
    "gduXbMJ5KeXSn2ArCrgDWSSkMNwf5pELZv13PgXpump",
    0.119,
-   2.3,
+   3.3,
    ""
+  ],
+  [
+   "ZERODAY",
+   "CTxs9soDzDgBn5Exe4B5pudMRxAWW1KshLL4MnJnpump",
+   0.089,
+   3.7,
+   ""
+  ],
+  [
+   "BM",
+   "84wkgiEkewENJ1Uuv7BvZcErwLqjuPZhTyMRdCPnpump",
+   0.086,
+   4.8,
+   "buyers=6; top5_hold_most=100%"
   ]
  ]
 }
