@@ -13,10 +13,10 @@
    "entry_px": 6.118744393348291e-08,
    "entry_fill": 6.578879815643211e-08,
    "opened": 1793250845.4542043,
-   "last_px": 6.555847448053226e-08,
-   "peak_px": 6.555847448053226e-08,
-   "last_val": 2.5372823095390244,
-   "last_prog": 0.469
+   "last_px": 7.01304983773134e-08,
+   "peak_px": 7.01304983773134e-08,
+   "last_val": 2.7170162552118664,
+   "last_prog": 0.499
   }
  },
  "traded": [
@@ -4164,81 +4164,85 @@
   [
    "2026-10-28T22:15:04",
    91.09
-  ]
- ],
- "cycles": 1182,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 100.535393311,
- "watching": 132,
- "near": [
-  [
-   "UNREPOST",
-   "GeM5JTPsciAwH8itR8hFEUaFXbjutLACDtyyJU6vpump",
-   0.332,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "The French",
-   "9mhLav6nx2ve5Fo5VYAzYax6jwBdmXw9FatWhGSfpump",
-   0.024,
-   2.7,
+   "2026-10-28T22:16:05",
+   91.27
+  ]
+ ],
+ "cycles": 1183,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 100.510801814,
+ "watching": 143,
+ "near": [
+  [
+   "Cuminu",
+   "3E3X3j3XAfbCJZHVH15nS1yEeW9wXMWWemU98h1Upump",
+   0.395,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "gyatt",
+   "BFyQpzvqV4XiirRfvBXcVdFXDj3jnXRCNnhTGPJ9pump",
+   0.074,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "BLUE",
+   "6r6fPQ9DZKEGbkTZ2keR4Y129RSG2xqEht5i5S1pump",
+   0.043,
+   2.9,
    ""
   ],
   [
    "BOOO",
    "CWBkQxS4f4S8bS9ZihaVFFNDaBtBXrbXnciKubfnpump",
    0.023,
-   3.3,
+   4.3,
    ""
   ],
   [
    "PASTA",
    "8x2H98PVMVPUTGngRwybsxuSYmFvBPf4q2SenQgipump",
    0.016,
-   3.3,
+   4.4,
    ""
   ],
   [
-   "CAVIAR",
-   "7iiErGVWvPiodRLzn6udQkdrbf75GgcFccWP2bitpump",
+   "The French",
+   "9mhLav6nx2ve5Fo5VYAzYax6jwBdmXw9FatWhGSfpump",
    0.015,
-   4.1,
+   3.7,
    ""
   ],
   [
    "PUMIO",
    "2WqHXDWduas3DKZNC3VTUTKUMrZ89MVbaUP4thz7pump",
    0.015,
-   7.8,
+   8.8,
    "top5_hold_most=86%"
   ],
   [
    "AI/SI",
    "6jeKTUDrvsJQg4TPdmk5z76ZkqRS93oxhWJvVLdZpump",
    0.005,
-   8.8,
+   9.9,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "NOPEKIN",
-   "8HuPV2x1V92oQVgUdu5S8iMW6MYp61UWbmQZhUfipump",
-   0.004,
-   9.7,
-   ""
   ],
   [
    "HEDG",
    "CWfb3wM37VmXLmeSXh1M3VnwGRwuPP2BN2ZqHnQvpump",
    0.004,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "Boond",
-   "2vJMEfGPN1KRVRYayZCqjkfuMBpVUdWJwsp49Ed5pump",
+   "gyatt",
+   "4KasRSPSUHkpzUcurjsMnJMjRrTuuFrbvyN2wZhDpump",
    0.004,
-   8.1,
+   2.4,
    ""
   ]
  ]
