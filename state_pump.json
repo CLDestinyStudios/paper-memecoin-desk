@@ -13,10 +13,10 @@
    "entry_px": 6.702071321205572e-08,
    "entry_fill": 7.269898576793188e-08,
    "opened": 1793269642.5762103,
-   "last_px": 7.574602097953627e-08,
+   "last_px": 7.553968970250256e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.861203014960831,
-   "last_prog": 0.531,
+   "last_val": 0.8586425961259828,
+   "last_prog": 0.53,
    "tp1_done": true,
    "realized": 0.37633656758851186
   }
@@ -5087,81 +5087,85 @@
   [
    "2026-10-29T03:42:22",
    61.42
+  ],
+  [
+   "2026-10-29T03:43:21",
+   61.42
   ]
  ],
- "cycles": 1509,
+ "cycles": 1510,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.28912812600001,
- "watching": 170,
+ "sol_usd": 100.28000000000002,
+ "watching": 163,
  "near": [
   [
    "MAX",
    "55w6WZtCTkBEN1xHJ35Um3V4qPUJPKjs7uKUivpbpump",
-   0.812,
-   3.9,
+   0.792,
+   4.9,
    ""
   ],
   [
    "Purrps",
    "CMaSuodfJJ6FWTyU9Hi3GhGqgWi5rVo7fgLki7KmBXxH",
-   0.665,
-   6.6,
+   0.615,
+   7.6,
    ""
   ],
   [
-   "Holder",
-   "41gsfnAVJgUjvJyGvVAMXXgv12cdAoyPdwZCj9Qqpump",
-   0.135,
-   2.0,
-   "top5_hold_most=81%; bundled_launch=7 extra buys in creation block"
+   "HOLDER",
+   "rJtsNKg1T9d6sUUsyEd1QZX6GeMT1C5uZRezg4vpump",
+   0.263,
+   2.9,
+   "top5_hold_most=87%"
   ],
   [
-   "Purps",
-   "GNB58Da4JsHQR7LcvQ79GS77aNAfi9p5kTwJ4qBopump",
-   0.124,
-   7.6,
+   "MOORIN",
+   "HypYmZSQmpd4SAQnAvWBw5uNJcVXB64MLwyTivuopump",
+   0.164,
+   2.5,
    ""
   ],
   [
    "$ELYSIUM",
    "CTdpj5RWR8YF4Jje7LEi6cUkv4uaptzFwqGYgxpxpump",
-   0.098,
-   7.9,
-   "buyers=6; top5_hold_most=100%"
+   0.1,
+   8.9,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CROCS",
    "EbpBpL12Q35ZHeQbLSTPhbKASiPmXKHpYexnSMG3pump",
    0.088,
-   5.4,
-   ""
-  ],
-  [
-   "NYSE",
-   "3RWiGaHd2PJ43dwYmZneVsP9KkXiB9kn6595F7ri5LbP",
-   0.087,
-   5.2,
+   6.4,
    ""
   ],
   [
    "Purrps",
    "2F3rApoXvKsUf9B5hrgugqMhiZpwEpMjuS37J3CGdtaJ",
    0.068,
-   6.1,
+   7.1,
    ""
   ],
   [
    "Hypurr",
    "55qEch81iHzbwtj25dAbER5snL1iWtfGtbqmuLPApump",
    0.067,
-   4.9,
+   5.9,
    ""
   ],
   [
    "MAX",
    "BM3LQWy5yeLkJgqRK8KSgG29GRZvc3cRgR5tV669rpVT",
    0.066,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "NYSE",
+   "3RWiGaHd2PJ43dwYmZneVsP9KkXiB9kn6595F7ri5LbP",
+   0.065,
+   6.2,
    ""
   ]
  ]
