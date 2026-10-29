@@ -3630,83 +3630,83 @@
    124.85
   ],
   [
-   "2026-10-28T18:50:04",
+   "2026-10-28T18:51:05",
    124.85
   ]
  ],
- "cycles": 977,
+ "cycles": 978,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.94039730779554,
- "watching": 260,
+ "sol_usd": 100.06627463649998,
+ "watching": 268,
  "near": [
   [
    "PEPEYE",
    "F3eD9rFvHaZhos2mwwcqxQ9pXc6Qz7nB8UiVy2ZPpump",
-   0.916,
-   2.6,
+   0.925,
+   3.6,
    ""
   ],
   [
    "Seed",
    "3j1LrHLgHTr2nrZgKPYh47VG4EMvZ1Xmqbef6B5Xpump",
-   0.795,
-   6.4,
+   0.712,
+   7.5,
+   "launch_slot=missing"
+  ],
+  [
+   "LOOPD",
+   "2jRDLCc78AYFfXCdaYYMqz1qbvLv9U7qnX8Jq18Dpump",
+   0.325,
+   2.8,
    ""
   ],
   [
    "BAJRANGI",
    "8b1QBg6AqPHb9Ug6zDyrwZB77whth42ECyaJgbykpump",
    0.258,
-   3.7,
+   4.8,
    "top5_hold_most=86%"
-  ],
-  [
-   "LPAD",
-   "A4wgTP3P9KbFmnBmZFukNvXPmrjnVzvrxp4h9Ufupump",
-   0.233,
-   2.8,
-   "top5_hold_most=98%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "GHOST",
    "JAecrtGseba9pnLFAti47qc4KZkLpLc9HfJTR4gWmYQ",
-   0.173,
-   2.8,
+   0.166,
+   3.9,
    "top5_hold_most=99%"
+  ],
+  [
+   "RUMPEL2",
+   "4VkDKD6YrAbqe2tgQ2re36p7CCheMtH4vMdAtQHwpump",
+   0.116,
+   3.2,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "PERRO",
+   "8Nt16W1fMVif6tETmMFVNpGTTesp3FbNFpiquKT7pump",
+   0.067,
+   2.7,
+   ""
   ],
   [
    "BCAT",
    "AXqEbbevkqqYiAsvHJUNNBcpyKkJanD8xhvhMa15dA7e",
    0.05,
-   8.7,
+   9.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "COACH",
    "78cti5NjDXGN52wt3wu5uj1hWgB93nwsoaxb9wnhpump",
    0.046,
-   4.9,
+   5.9,
    ""
   ],
   [
    "FI",
    "26gQhcwfcxpauRaPgT6QAgPgae8TMyA3k4n7hohCXggZ",
    0.044,
-   5.8,
-   ""
-  ],
-  [
-   "SPOOKINU",
-   "Avh3W8sKJoMHXtMFpwiuoEpduE4KYf4jrKGq1fbtpump",
-   0.043,
-   8.7,
-   ""
-  ],
-  [
-   "spacecat",
-   "45A8XrFdh26a5KzNHYZxoZemVyxjbLYymucKfE8Ypump",
-   0.042,
-   3.0,
+   6.9,
    ""
   ]
  ]
