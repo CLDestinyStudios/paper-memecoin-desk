@@ -6342,84 +6342,84 @@
    32.58
   ],
   [
-   "2026-10-29T09:56:55",
+   "2026-10-29T09:57:57",
    32.58
   ]
  ],
- "cycles": 1883,
+ "cycles": 1884,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.7979436675,
- "watching": 411,
+ "sol_usd": 101.732430803,
+ "watching": 401,
  "near": [
+  [
+   "UNZEEN",
+   "2cYonJHJZVtNCrcq3ZzhAvMrx5AaayR2YTGeVqnSpump",
+   0.705,
+   2.7,
+   "creator=17.7%"
+  ],
   [
    "KINO",
    "6qTjDGbRPMMJRTV2YgcZPaaDvYoXcckcRGTAvhZQpump",
-   0.539,
-   2.4,
+   0.681,
+   3.5,
    ""
   ],
   [
-   "XL",
-   "DsbSGiCk2ZFqtdsRHdMFtWSQKmT9PH95q1wbiEkUpump",
-   0.255,
-   2.5,
-   "serial_creator=10 launches/24h"
+   "HWW",
+   "2iwh2EHSF9RYAHJGKtgBzLafSVwGwFJPoXNMADmwpump",
+   0.26,
+   2.3,
+   ""
+  ],
+  [
+   "HYPERX",
+   "8MeTdQX5Vvg7j4qT6CjKWZsk3X5Hm46HYHASwJL2pump",
+   0.122,
+   4.3,
+   ""
   ],
   [
    "HYPE INU",
    "DLtRAjakoZpbAR1gRumCXrqqWoX1fVicmYk22oH8pump",
    0.121,
-   3.1,
+   4.1,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HYPERX",
-   "8MeTdQX5Vvg7j4qT6CjKWZsk3X5Hm46HYHASwJL2pump",
-   0.116,
-   3.3,
-   ""
-  ],
-  [
-   "$THEONE",
-   "J7Yphx8f7JvgaAFB19HGaknEu8BdaTubZ4my2B7dpump",
-   0.115,
-   8.1,
-   "buyers=6; top5_hold_most=96%"
   ],
   [
    "HYPPO",
    "23mCAhPpKYY2jaM4VpVMskRd3AWnjBLtTrG6cBsJpump",
    0.097,
-   2.1,
-   ""
-  ],
-  [
-   "XL",
-   "3v2yYzU35MCSBRgxGsbLj7uxyWJ1gEhJ9waY8yRVwUkd",
-   0.097,
-   2.2,
+   3.2,
    ""
   ],
   [
    "XLIQUID",
    "33NmNxrUNNDJZnPGQwhPafDQtXDGLikfVEjKwMH3pump",
    0.084,
-   3.2,
+   4.2,
    ""
   ],
   [
    "OFR",
    "GRd8RgvTQ8TzrbX5FKsfWjqqXv2xSeqC5V8xZihtpump",
    0.083,
-   4.1,
+   5.2,
    ""
   ],
   [
    "meme",
    "FkR24gydSj3ue8vsxuXG5c4bcbfDtuPpuJBFceCwpump",
    0.073,
-   4.2,
+   5.3,
    ""
+  ],
+  [
+   "$THEONE",
+   "J7Yphx8f7JvgaAFB19HGaknEu8BdaTubZ4my2B7dpump",
+   0.055,
+   9.2,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
