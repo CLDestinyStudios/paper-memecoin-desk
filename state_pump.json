@@ -2,8 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 84.98696455377706,
- "positions": {},
+ "cash": 82.43696455377706,
+ "positions": {
+  "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump": {
+   "sym": "VICEBET",
+   "bc": "B41FKhtnM8FYGHGxyAegUQGE4qwrCq1Fs8rXzFQpDaHA",
+   "tokens": 420924.33432804106,
+   "cost": 2.55,
+   "cost0": 2.55,
+   "entry_px": 5.6057106185523136e-08,
+   "entry_fill": 6.035406479049814e-08,
+   "opened": 1793253245.5979853,
+   "last_px": 5.6057106185523136e-08,
+   "peak_px": 5.6057106185523136e-08,
+   "last_val": 2.1938567016372024,
+   "last_prog": 0.397
+  }
+ },
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -282,7 +297,8 @@
   "6MGXhgWnR3SiCf5P275yWoUsSXjqFj51YPSC3taBpump",
   "2pwW5YuMNpKTCEBFvLaS3ajfD8GpnCkHGuJt8JnNpump",
   "aaZ7R8K4PBXduMx3erRSfRPu6gmFW8bbB8i4ApGHuNp",
-  "E1tzTX19K9BAZazcqjkFPcUsTy8H6yiywfLcNrsPpump"
+  "E1tzTX19K9BAZazcqjkFPcUsTy8H6yiywfLcNrsPpump",
+  "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump"
  ],
  "equity": [
   [
@@ -4276,81 +4292,85 @@
   [
    "2026-10-28T22:53:04",
    84.99
+  ],
+  [
+   "2026-10-28T22:54:05",
+   84.63
   ]
  ],
- "cycles": 1220,
+ "cycles": 1221,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.37,
- "watching": 142,
+ "sol_usd": 100.375939202,
+ "watching": 131,
  "near": [
   [
-   "Narrative",
-   "narrDo8DeBddFMkS2LyckN7ek7P7rxbFFQ6jRj1kpFv",
-   0.092,
-   5.4,
-   ""
+   "SubPad",
+   "GQ2j7wDCLL1VJafbvCLdsE3jTwEQ48Xbay2b95137SUB",
+   0.699,
+   2.6,
+   "bundled_launch=17 extra buys in creation block"
+  ],
+  [
+   "VICEBET",
+   "9GwLk11SW5wpSzCvWtKH2P3yXSY6iCErnfA3rCyxpump",
+   0.397,
+   3.0,
+   "bought"
+  ],
+  [
+   "CAT",
+   "4ph5DwAHiEnXAXtBpsS6PWDvp1AvVG3oxcoJZuAopump",
+   0.088,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SRS",
    "7P7MFVBVwxtz6FnoWyW6BQWrGVdZ9yUzYihU8vxdpump",
    0.083,
-   7.3,
+   8.3,
    "buyers=8; top5_hold_most=91%"
+  ],
+  [
+   "Narrative",
+   "narrDo8DeBddFMkS2LyckN7ek7P7rxbFFQ6jRj1kpFv",
+   0.039,
+   6.4,
+   ""
   ],
   [
    "hamm",
    "7cn84n7Ss8h4BT9DTLrSbkZs8g2ZPyZnpPF7MFD2pump",
    0.038,
-   2.7,
+   3.7,
    ""
   ],
   [
    "MODEL3",
    "52y5JMwq9kQxh54K6QRWKpRzKb2bApEQwKSbX2PYpump",
    0.034,
-   6.2,
+   7.2,
    ""
   ],
   [
    "CAT",
    "GdUuAXxAPqwJuBhb4pPut1hwNa6oJdg2MUA2a3itpump",
    0.03,
-   3.8,
+   4.8,
    ""
   ],
   [
    "$Hucks",
    "GoH1LLS8k59t5xy245kVYCc7y9RTqjQutMLX55P8pump",
    0.022,
-   4.9,
+   5.9,
    ""
   ],
   [
-   "SOL",
-   "5JG79aHy3PUGknrPH61VtgVPU7n7GRXWpjbhyYqEpump",
-   0.017,
-   4.9,
-   ""
-  ],
-  [
-   "MIDAS",
-   "422yWbJHfjMSMNwUCvtLKZR3qcMix9BQuvL7Yzarpump",
-   0.016,
-   5.1,
-   ""
-  ],
-  [
-   "TSNAKE",
-   "4RwMdtcxyuCrQT1AwCxGieL9wYi6gXrduqGTudmEpump",
-   0.009,
-   5.1,
-   ""
-  ],
-  [
-   "Coindom",
-   "AxfSXs5Zbb8j6agkphaM6FR4aRQEKWiSe2mpZSzUFPpv",
-   0.009,
-   6.6,
+   "HOOD ",
+   "5WQQUcewpVGTz5a3JEWgub1y1deMvMpYJ5o36ZUPpump",
+   0.018,
+   2.3,
    ""
   ]
  ]
