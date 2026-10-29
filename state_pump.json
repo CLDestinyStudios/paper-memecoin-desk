@@ -6388,82 +6388,86 @@
   [
    "2026-10-29T11:47:58",
    32.58
+  ],
+  [
+   "2026-10-29T11:49:00",
+   32.58
   ]
  ],
- "cycles": 1994,
+ "cycles": 1995,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.26,
- "watching": 256,
+ "sol_usd": 100.37,
+ "watching": 257,
  "near": [
   [
    "SA",
    "3PsVQfRUCX9fWSPxmLNhu39P8ZP2A2DytxtsKr6opump",
-   0.776,
-   4.3,
+   0.801,
+   5.4,
+   ""
+  ],
+  [
+   "Doink",
+   "CnXfNyjksXHpPkBb2bJZFXR9So7rWWjsysEi5e3Jpump",
+   0.643,
+   2.8,
    ""
   ],
   [
    "Percy",
    "5RycDAPULwQNBXUQvWPu6vPbjr7cdiSb4Gv63Tsepump",
    0.344,
-   5.0,
+   6.0,
    "buyers=8; creator=24.5%; top5_hold_most=99%"
   ],
   [
-   "MEMORA",
-   "ENb44rXoYTTMbKdcMg4y4JksubCtM7qXWUpFV6vHpump",
-   0.122,
-   3.7,
+   "BENJO",
+   "GFv3UPyxex1wQiUiTWK7bYdR7dpWGqpcFqbDPnwQpump",
+   0.228,
+   2.4,
+   "top5_hold_most=91%"
+  ],
+  [
+   "DUNEUSSY",
+   "3dt66pVTd2oJdKGUpFcLGcfr6RuHFjdjJujTMH2Jpump",
+   0.228,
+   3.1,
+   ""
+  ],
+  [
+   "STAN",
+   "WUbKV1KrtHCw5D6a6FEiJxfd5eQz6iD1smrgY4Epump",
+   0.159,
+   2.6,
    ""
   ],
   [
    "Jonston",
    "HtVdWNr9B8nTWYYkjGAANYhMkaXit9s6o7EmeB4vpump",
-   0.09,
-   2.2,
+   0.148,
+   3.2,
    "top5_hold_most=99%"
   ],
   [
-   "HYPERLIST",
-   "Ch6io2aibteEbk7gwjvrBnR6PsnAiZBs19fZ7Nu3kMYo",
-   0.079,
-   9.6,
-   "buyers=4; top5_hold_most=100%"
+   "DUNEUSSY",
+   "Hop66h8zr5y9b7oC2CRRUkxPhrx1u4UGzkA6D4Mgpump",
+   0.121,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Eggcoin",
-   "4GFvJxg2WGVQnd2628ukK5WsEkCz69RsVV61Wybfpump",
-   0.066,
-   9.6,
+   "Huggy",
+   "8SyMJGnDHiZAXo5VMZUhsb11gQN6vt83W5ghM2QEpump",
+   0.064,
+   2.7,
    ""
   ],
   [
    "Satoshi",
    "4RVTR5DbxhtBt2QdcEMt1M3sBFCi1CbCkzAQ5DaSpump",
    0.057,
-   4.1,
+   5.1,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Satoshi",
-   "ru1cR64sDkQCXe3VHQ7dzqt4yv1Fxsg5pX8fgMKpump",
-   0.056,
-   6.2,
-   "buyers=7; top5_hold_most=91%"
-  ],
-  [
-   "Satoshi",
-   "FUxEWggp6ddW5Ug8729yin4Rref5qX7s8Ndfj71Cpump",
-   0.052,
-   2.7,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Anakin",
-   "4zmcPJrAWCWASsyjvJCLgFFdYPKWeAfC6nraDyHbpump",
-   0.051,
-   6.9,
-   ""
   ]
  ]
 }
