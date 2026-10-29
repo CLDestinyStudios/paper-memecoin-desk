@@ -15,7 +15,7 @@
    "opened": 1793269642.5762103,
    "last_px": 7.413060312842232e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.843251653632397,
+   "last_val": 0.8439583795952207,
    "last_prog": 0.522,
    "tp1_done": true,
    "realized": 0.37633656758851186
@@ -5103,81 +5103,85 @@
   [
    "2026-10-29T03:46:22",
    61.4
+  ],
+  [
+   "2026-10-29T03:47:22",
+   61.4
   ]
  ],
- "cycles": 1513,
+ "cycles": 1514,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.4658,
+ "sol_usd": 100.55000000000001,
  "watching": 169,
  "near": [
   [
    "MAX",
    "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   0.88,
-   2.9,
+   0.931,
+   3.9,
    ""
   ],
   [
-   "MAX",
-   "55w6WZtCTkBEN1xHJ35Um3V4qPUJPKjs7uKUivpbpump",
-   0.385,
-   7.9,
-   ""
-  ],
-  [
-   "COCKROACH",
-   "A5eMxGsBqLDriR2u1CMnxgEqBzUzPf3t5rxBuvpXpump",
-   0.357,
-   2.5,
-   "bundled_launch=4 extra buys in creation block"
+   "Robotron",
+   "95QcRCwKmHHzgKuAsbdToomRqzfiUetNuepbGsSNpump",
+   0.285,
+   2.4,
+   "serial_creator=10 launches/24h"
   ],
   [
    "HOLDER",
    "rJtsNKg1T9d6sUUsyEd1QZX6GeMT1C5uZRezg4vpump",
    0.263,
-   5.9,
+   6.9,
    "top5_hold_most=87%"
+  ],
+  [
+   "MAX",
+   "55w6WZtCTkBEN1xHJ35Um3V4qPUJPKjs7uKUivpbpump",
+   0.245,
+   8.9,
+   ""
   ],
   [
    "PREDICT",
    "24nzaCipFYaQEQAarSYGecq16bEUZu61BhuFqVRrpump",
    0.131,
-   5.0,
+   6.0,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "MOORIN",
-   "HypYmZSQmpd4SAQnAvWBw5uNJcVXB64MLwyTivuopump",
-   0.12,
-   5.5,
+   "SECURITY",
+   "AdsvTvuwsMbz6GLA2QSjq8X1mbnPAetpg4S4vpNapump",
+   0.098,
+   2.3,
+   "buyers=8; top5_hold_most=100%"
+  ],
+  [
+   "HYPE",
+   "J91YrnzdtxQuqhZpK4dnPocgeKaFLQ1STb5PuqsYVPpv",
+   0.064,
+   7.9,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Cock",
+   "GC57Wr7Gn6qDTkQ4zPLifgip5P7dHzsDv5UXaXs4HSSa",
+   0.053,
+   6.1,
    ""
   ],
   [
-   "CROCS",
-   "EbpBpL12Q35ZHeQbLSTPhbKASiPmXKHpYexnSMG3pump",
-   0.088,
-   9.4,
-   ""
-  ],
-  [
-   "Hypurr",
-   "55qEch81iHzbwtj25dAbER5snL1iWtfGtbqmuLPApump",
-   0.067,
-   8.9,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "NYSE",
-   "3RWiGaHd2PJ43dwYmZneVsP9KkXiB9kn6595F7ri5LbP",
-   0.065,
-   9.2,
+   "longooor",
+   "D2D48wCuLhx3TqppURsZ6t7dLqkGxqx7g2yS9Li5pump",
+   0.049,
+   5.3,
    ""
   ],
   [
    "MaxLev",
    "H4StD9yKHuMVeg1hDdb1USeVXAsrdYEPaCoG88H32sU2",
-   0.064,
-   7.7,
+   0.044,
+   8.7,
    "buyers=6; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
