@@ -6450,84 +6450,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:08:03",
+   "2026-10-29T14:09:05",
    32.58
   ]
  ],
- "cycles": 2134,
+ "cycles": 2135,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.17582297300001,
+ "sol_usd": 96.40698459720001,
  "watching": 345,
  "near": [
   [
-   "BlackSwan",
-   "4cN7Nf82MtarpSU6wqNePNtw4oZXLtv6Pp6ZpTiPS3D8",
-   0.787,
-   6.1,
+   "bye",
+   "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
+   0.811,
+   4.4,
    ""
   ],
   [
-   "bye",
-   "46ofhBatX8U23rFGMEPq3JTs5ExNG5FR3r3FczFspump",
-   0.748,
-   3.3,
+   "BlackSwan",
+   "4cN7Nf82MtarpSU6wqNePNtw4oZXLtv6Pp6ZpTiPS3D8",
+   0.775,
+   7.2,
    ""
+  ],
+  [
+   "SOLPURR",
+   "BnjB44c8CMeDN1xNv9HkP2NjbFav8svLcm4GdKUypump",
+   0.574,
+   2.8,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "DRAINTOBER",
    "YVKwdWK9tddJjXnP7dXMn188ENueuaHWDQhR7jTpump",
-   0.423,
-   3.0,
-   ""
+   0.475,
+   4.0,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "BNB",
    "8fKwuo4akwz6saE6SAn7JtkM3pvfyAEp9a9bQoECpump",
-   0.39,
-   2.7,
+   0.433,
+   3.7,
    ""
   ],
   [
    "CANDLE",
    "8Y2FwdLWctsyeSCc7ehFTe6cMxDhWcvKXwhoyFu9ggw8",
-   0.27,
-   7.7,
+   0.335,
+   8.7,
    ""
+  ],
+  [
+   "FI",
+   "Ea3igM4zLn3LMerjsyGRNVhJh4RdJVtD3fw7L2AL9cqw",
+   0.299,
+   2.5,
+   "serial_creator=16 launches/24h"
   ],
   [
    "\ud83d\udd96",
    "GBESrHMz4zCnTUsWeomRJmW3oDW95kTWB9hcCkbGpump",
    0.268,
-   7.0,
+   8.0,
    "top5_hold_most=87%"
   ],
   [
    "PUMPPAIR",
    "CUG5xQD6Q3ficZTZPqhqHMqokRUuFoiLiiHhubPwTQMV",
-   0.209,
-   8.0,
+   0.183,
+   9.0,
    ""
-  ],
-  [
-   "bye",
-   "J8R89z3bqbifprJhPLYZvpEw2BhW9uDwedwsPQkmpump",
-   0.205,
-   2.2,
-   "top5_hold_most=88%"
   ],
   [
    "bye",
    "2DXyqyp1kBM2p2csEGaFgGCfG1zCBzisUqYQP85Ppump",
    0.164,
-   4.9,
+   5.9,
    ""
-  ],
-  [
-   "ORBI",
-   "EvczWwNBvYNrP6gUbzMPXdwhDAN7ReHs58cT1SECpump",
-   0.159,
-   7.2,
-   "rugcheck=creator history of rugs"
   ]
  ]
 }
