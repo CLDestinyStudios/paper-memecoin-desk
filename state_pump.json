@@ -13,10 +13,10 @@
    "entry_px": 1.0182344705141389e-07,
    "entry_fill": 1.1060352019718659e-07,
    "opened": 1793275463.610792,
-   "last_px": 1.985791019718506e-07,
-   "peak_px": 1.985791019718506e-07,
-   "last_val": 1.4390354754754429,
-   "last_prog": 0.845,
+   "last_px": 2.1982212378193004e-07,
+   "peak_px": 2.1982212378193004e-07,
+   "last_val": 1.5991296550969223,
+   "last_prog": 0.87,
    "tp1_done": true,
    "realized": 0.27809552055082576
   }
@@ -5366,81 +5366,85 @@
   [
    "2026-10-29T05:06:22",
    59.19
+  ],
+  [
+   "2026-10-29T05:07:22",
+   59.35
   ]
  ],
- "cycles": 1593,
+ "cycles": 1594,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.10892321800002,
- "watching": 197,
+ "sol_usd": 100.16,
+ "watching": 205,
  "near": [
   [
    "dessa",
    "589aEJDgSk7MzqDfLTMsqTnaUYuQig7dp8GB4mSipump",
-   0.506,
-   5.8,
-   ""
+   0.575,
+   6.8,
+   "serial_creator=20 launches/24h"
   ],
   [
-   "CLAPCAT",
-   "6qCL9XktXUdbf1TfJdyaBZxuXwhrA3zTFFnVC7oTpump",
-   0.297,
-   9.6,
-   "top5_hold_most=89%"
+   "WAR",
+   "B6f5RMY2zjJCvJbnwkCjzpWteNNMTWGaUnwP64o3pump",
+   0.284,
+   2.2,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "MUSIC",
-   "3UYdnRHXJnSg5U1AprsVDGq1iDgNEF5onkkGyCompump",
-   0.154,
-   7.0,
-   "buyers=7; top5_hold_most=96%"
+   "CATBOT",
+   "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
+   0.086,
+   3.7,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "Antoine",
    "6g1c44VaHiiQxiXjcREay1FtWVd7epE1T5SY3nNAuocC",
    0.085,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "CATBOT",
-   "DtgNmmzgftJm7zjzmxEXK5f5waDvbFdBCnCbSegDpump",
-   0.079,
-   2.7,
-   "buyers=7; top5_hold_most=97%"
   ],
   [
    "Niggerfish",
    "CcnfnAmFABCeyfkXQYuDEH5sz9Jh3jZimUpyvw2Npump",
    0.074,
-   2.1,
+   3.1,
    ""
   ],
   [
-   "Niggerfish",
-   "5kSbGZi86DtzTPWCqL2XFYKzZrsnLATUnTCCDfegpump",
+   "MUSIC",
+   "3UYdnRHXJnSg5U1AprsVDGq1iDgNEF5onkkGyCompump",
    0.073,
-   2.7,
-   ""
-  ],
-  [
-   "Hyper dog",
-   "8PF792q8Dzu2utjiGmczVZskrnLuzkWuxRn7UomCpump",
-   0.073,
-   3.6,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Niggerfish",
-   "BnrjGVGU3UcxZKFzVoQsBCxZa1sHFmD7H4enmyvp3cyj",
-   0.07,
-   3.4,
-   "buyers=1; top5_hold_most=100%"
+   8.0,
+   "buyers=7; top5_hold_most=96%"
   ],
   [
    "STOCKE",
    "9Jg4x9PQ3U4NEovLFDfepFVSpnW2UNgFN6Dat6sUpump",
    0.064,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "Niggerfish",
+   "GDYK9v8PVLDyigAymbW8hPnvZztzYyQ9iYk9iiux434A",
+   0.064,
+   3.9,
+   ""
+  ],
+  [
+   "Niggerfish",
+   "9QgMtbg1uMbaJiqkHXTJ7SSgErJrSjNqSYUrNmyNpump",
+   0.064,
+   4.5,
+   ""
+  ],
+  [
+   "dessa",
+   "9HqmwKfM8NKHVaCQCmJ9UQCAxNFoSxbS8pv5bWatmNNV",
+   0.051,
+   5.8,
    ""
   ]
  ]
