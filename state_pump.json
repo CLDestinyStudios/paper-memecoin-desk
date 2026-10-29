@@ -6430,83 +6430,83 @@
    32.58
   ],
   [
-   "2026-10-29T13:24:06",
+   "2026-10-29T13:25:04",
    32.58
   ]
  ],
- "cycles": 2090,
+ "cycles": 2091,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.1831,
- "watching": 277,
+ "sol_usd": 99.24228090060001,
+ "watching": 271,
  "near": [
   [
-   "PRRPS",
-   "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
-   0.811,
-   4.3,
+   "Affirm",
+   "HkgtiSFUtXh7RuQHnfjEZf7HRkyZwM7ABiEH6EaJpump",
+   0.894,
+   2.1,
    ""
   ],
   [
-   "PARCHA",
-   "8yZx9d3W8egv6cWRANgh45KEGBMDHC9pPhjuBJ13gV1A",
-   0.328,
-   9.1,
-   "buyers=5; creator=15.2%; top5_hold_most=100%"
-  ],
-  [
-   "CATGRANDMA",
-   "BwAitYjccPhbUH2KnG2aq2RtfY33eGmCde9NLSQZpump",
-   0.302,
-   2.3,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "GONE",
-   "7ejEc6es9MDQEvE7xQDW8UQQ6kpeJC4VTsqdXP9jpump",
-   0.239,
-   2.6,
-   "bundled_launch=5 extra buys in creation block"
+   "PRRPS",
+   "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
+   0.816,
+   5.3,
+   ""
   ],
   [
    "GACHA",
    "2AZcdqScdj2fJ3sy4Z6ZN2QTpdAKdqSsyj2hUx6cpump",
-   0.202,
-   6.0,
+   0.219,
+   7.0,
    "buyers=6; top5_hold_most=89%"
-  ],
-  [
-   "JASON ",
-   "8xFUYmYYqUSeajukSJFQwvTWSooVH8Dz4ERFfjsLpump",
-   0.175,
-   9.4,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "R",
    "FuHNEf7atrJQVAXrNFFt7Kc6t31AmnsacPRNASmPpump",
    0.152,
-   2.4,
+   3.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "hypinu",
    "GBNnhvv7rDhvbzxN2prWMioCjhjjrFxHerhEEjZQpump",
-   0.117,
-   3.0,
-   "buyers=8; top5_hold_most=98%"
+   0.101,
+   4.0,
+   "top5_hold_most=99%"
+  ],
+  [
+   "Affirm",
+   "GRr7eCj7FMKFMyLoo58EdZ3w2Nx2JabXKuqHaBVfpump",
+   0.073,
+   2.3,
+   ""
+  ],
+  [
+   "CATGRANDMA",
+   "BwAitYjccPhbUH2KnG2aq2RtfY33eGmCde9NLSQZpump",
+   0.065,
+   3.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "S&C",
    "Bu81RC3xazbmwAAheFJnYnHFAq2Zyu8YahD5Xh3Spump",
    0.063,
-   6.9,
+   7.8,
    ""
   ],
   [
    "crocks",
    "CWiz4uCPgc7KYFY5ucGWAMGtputXga7BeJAdfiBNpump",
    0.062,
-   4.0,
+   4.9,
+   ""
+  ],
+  [
+   "NIBBLES",
+   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
+   0.058,
+   5.1,
    ""
   ]
  ]
