@@ -2,21 +2,23 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 109.91922790469921,
+ "cash": 112.12055464607798,
  "positions": {
   "DRaZjTDbfbtHXsJ17zapbi1SfXXPg9bVM6LZaedyT3d8": {
    "sym": "PEPAD",
    "bc": "JAd7koPLeCoq3Krph5tifN5N6jbq75Se2nzvDaQ8Dc8K",
-   "tokens": 785168.4921868515,
-   "cost": 3.4,
+   "tokens": 392584.2460934257,
+   "cost": 1.7,
    "cost0": 3.4,
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 5.951478504801638e-08,
-   "peak_px": 5.951478504801638e-08,
-   "last_val": 4.438210387760571,
-   "last_prog": 0.426
+   "last_px": 5.969221612538378e-08,
+   "peak_px": 5.969221612538378e-08,
+   "last_val": 2.201326741378764,
+   "last_prog": 0.427,
+   "tp1_done": true,
+   "realized": 0.5013267413787641
   }
  },
  "traded": [
@@ -3555,81 +3557,85 @@
   [
    "2026-10-28T18:20:58",
    114.36
+  ],
+  [
+   "2026-10-28T18:21:53",
+   114.32
   ]
  ],
- "cycles": 948,
+ "cycles": 949,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.440229605,
- "watching": 213,
+ "sol_usd": 101.42598969749999,
+ "watching": 210,
  "near": [
   [
    "INTERN",
    "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-   0.961,
-   7.0,
+   0.965,
+   7.9,
    ""
   ],
   [
-   "TRENCHD",
-   "62cdmdeWsU8uJUUPWDLvaN9npBAXXbNZhuJN3LLqpump",
-   0.242,
-   9.2,
-   "buyers=9; top5_hold_most=99%"
+   "POKE",
+   "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
+   0.225,
+   3.0,
+   "top5_hold_most=95%"
   ],
   [
    "PANICPUG",
    "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
-   0.192,
-   5.6,
-   "buyers=4; creator=15.2%; top5_hold_most=100%"
-  ],
-  [
-   "Milo&Pixie",
-   "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
-   0.145,
-   6.6,
-   "buyers=8; top5_hold_most=89%"
+   0.193,
+   6.5,
+   "buyers=6; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "FLIP",
    "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
    0.125,
-   2.4,
+   3.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TIT",
    "3bfkzWiyXtWtjEUF8jqV1DJcKNcZUhXfnpLNjUQwpump",
    0.079,
-   7.0,
+   7.9,
    ""
   ],
   [
    "Trenton",
    "B8esujqXRthd7sUKjtuY7qn7pBmKHhBK1Jsdzkzfpump",
    0.067,
-   7.8,
+   8.7,
    ""
   ],
   [
    "RENT",
    "A9hJAsNV4FAc1VjB2zRscb65zi7PQ6Vjv3znxE53pump",
    0.061,
-   2.2,
+   3.1,
    ""
   ],
   [
-   "BACKED",
-   "3eFWFPwVCUPaheJ9FRNhsdhNdXpgdSEULrgU1xR7DARf",
-   0.047,
-   2.4,
+   "Milo&Pixie",
+   "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
+   0.053,
+   7.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "LONGBOI",
+   "6XdfpX3ctGo9ts26GqYW34WaBxEBFh9v9hta8a3npump",
+   0.045,
+   6.3,
    ""
   ],
   [
    "YUGE",
    "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
    0.044,
-   2.7,
+   3.6,
    ""
   ]
  ]
