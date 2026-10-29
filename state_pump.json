@@ -4541,81 +4541,85 @@
   [
    "2026-10-29T00:31:06",
    79.96
+  ],
+  [
+   "2026-10-29T00:32:06",
+   79.96
   ]
  ],
- "cycles": 1318,
+ "cycles": 1319,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.66823411945,
- "watching": 144,
+ "sol_usd": 99.74000000000001,
+ "watching": 141,
  "near": [
+  [
+   "KONY",
+   "8HqFBBAbahtGjnGp9zrZfXyNYpf85NVD2EWJ7i97pump",
+   0.161,
+   2.6,
+   "buyers=5; top5_hold_most=100%"
+  ],
   [
    "BABYFURY",
    "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
-   0.122,
-   2.8,
-   "buyers=4; top5_hold_most=100%"
+   0.135,
+   3.8,
+   "buyers=9; top5_hold_most=98%"
   ],
   [
    "PSYOP",
    "GRzGoLNkQAcUnRoGFU6hFNaAB4eu1oqFvUBhYsU4pump",
    0.073,
-   2.0,
+   3.0,
    ""
   ],
   [
-   "VC",
-   "27J2M42yDJ36svqpxqp1ML2cP1mg4XF1Q1h1kbpkpump",
-   0.064,
-   3.1,
-   ""
+   "AIRO",
+   "GMazEdRRdbYCfDK9AWc2wpYqLoYygUvDEewP5N86pump",
+   0.066,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.044,
-   4.7,
+   5.7,
+   ""
+  ],
+  [
+   "TRENDI",
+   "AHuicBRzvWjgXetmF5FNmeBc5YsSnJzSyZWTez2wpump",
+   0.044,
+   2.5,
+   ""
+  ],
+  [
+   "MARCEL",
+   "4V5LmBFAQW6XZtTNm4XGVk6Q4XV3XGJwF6Q7PiCqpump",
+   0.044,
+   2.6,
    ""
   ],
   [
    "dose",
    "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
    0.036,
-   6.5,
+   7.5,
    "top5_hold_most=93%"
   ],
   [
-   "EXNESS",
-   "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
-   0.03,
-   9.8,
+   "VOPE",
+   "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
+   0.025,
+   3.3,
    ""
   ],
   [
    "67coin",
    "HpjUhQmLVDKx2CVo4wdd2AFQmjVDdCVocHxmmqtxpump",
    0.022,
-   3.4,
-   ""
-  ],
-  [
-   "VOICE",
-   "3PgPrtKeCdkxYNPe7dRD3t9tyCFBZjqQkAJqobKWpump",
-   0.022,
-   7.6,
-   ""
-  ],
-  [
-   "VOPE",
-   "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
-   0.022,
-   2.2,
-   ""
-  ],
-  [
-   "VS",
-   "AFf4cwq74KRyd79h18TNQzHiz2cA2rR33LGEnUcKpump",
-   0.022,
-   3.4,
+   4.4,
    ""
   ]
  ]
