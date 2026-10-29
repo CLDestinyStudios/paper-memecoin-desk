@@ -3715,83 +3715,83 @@
    119.01
   ],
   [
-   "2026-10-28T19:32:49",
+   "2026-10-28T19:33:50",
    119.01
   ]
  ],
- "cycles": 1020,
+ "cycles": 1021,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.42966471790001,
- "watching": 204,
+ "sol_usd": 99.50999999999999,
+ "watching": 206,
  "near": [
-  [
-   "EXCHANGE",
-   "AWEFTBAXUkkbmUtRd5VhPucvfHgWzTdLHygaqPeEpump",
-   1.0,
-   3.8,
-   "graduated"
-  ],
   [
    "LOOT",
    "8AsrRCe47vm6PESQ1AT94asYXsgT3H1n7aYsBV7epump",
-   0.881,
-   2.7,
+   0.875,
+   3.7,
    ""
   ],
   [
    "Fatfish",
    "Hxd1iJUyeA6oDjhUxHqDtR86UFGZFPreKkazrc8Dpump",
-   0.815,
-   5.0,
+   0.764,
+   6.0,
    ""
   ],
   [
-   "FATFISH",
-   "DmnSGb8kG434TtAVKNvXGureRNR1GkkF8QbCcQUYpump",
-   0.101,
-   5.3,
-   "buyers=6; top5_hold_most=100%"
+   "Survival",
+   "BzRqqacSDzDM5KFqwwNv7uWQK8Z5eSBqKwMQ3EcBpump",
+   0.543,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "BOO",
    "DGWMC9Mp6Wo729zSU1XpBaYuXG4SnnLohN61F7Wnpump",
    0.092,
-   7.2,
+   8.2,
    ""
   ],
   [
    "COTUS",
    "BT746R99tvULSh6jDsc5BF16kXrE17Gr8LkQ2Pxmpump",
    0.082,
-   6.2,
+   7.2,
    ""
   ],
   [
    "batcat",
    "DXjBR9zzRXLyqW37nBbAdU6ceoWMmfkhUGFpsCoepump",
    0.07,
-   5.8,
+   6.8,
    ""
-  ],
-  [
-   "COTUS",
-   "57HzhmfYHj7LyYuNZA9trxEatejcQyBPTgRCDsaEpump",
-   0.06,
-   4.4,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "\u5927\u80a5\u9c7c",
    "FNegZGCW6QsruzmZBv54wCP7wAEx3LqQ4adJ5Mp6pump",
    0.043,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "$NOTHING",
-   "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
-   0.028,
-   2.6,
+   "COTUS",
+   "57HzhmfYHj7LyYuNZA9trxEatejcQyBPTgRCDsaEpump",
+   0.032,
+   5.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Mcat",
+   "51DjpRNusN3Homoc2fpferwuNrMxmTNaqzPWbsDZpump",
+   0.023,
+   8.9,
+   ""
+  ],
+  [
+   "Purrcast",
+   "Disu6eChUFA9znQyvXsrK27Eh9iioqFHeVR92e7hpump",
+   0.022,
+   7.0,
    ""
   ]
  ]
