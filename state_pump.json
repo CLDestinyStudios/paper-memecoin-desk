@@ -3739,81 +3739,85 @@
   [
    "2026-10-28T19:40:05",
    115.94
+  ],
+  [
+   "2026-10-28T19:41:04",
+   115.94
   ]
  ],
- "cycles": 1027,
+ "cycles": 1028,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.32984989962726,
- "watching": 184,
+ "sol_usd": 99.2873685346,
+ "watching": 188,
  "near": [
   [
-   "HAKIMI",
-   "5R1bGExGsfh1kbF9bLza3TubonFMjks6nupwifehpump",
-   0.329,
-   2.9,
-   "serial_creator=10 launches/24h"
+   "PIKA",
+   "5u5X9b3FAuPt6UNiCAu9rfq7m1L22DP4df7aqFTFpump",
+   0.623,
+   2.1,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Inuween",
+   "9SWzLxV5uWdGUYAqw7nMojNPrRdhS2zpWi8zThvxpump",
+   0.52,
+   2.1,
+   ""
   ],
   [
    "Survival",
    "BzRqqacSDzDM5KFqwwNv7uWQK8Z5eSBqKwMQ3EcBpump",
-   0.183,
-   9.0,
+   0.129,
+   10.0,
    ""
   ],
   [
-   "FRANKIE",
-   "6nwUzyg4JRumLQ44wpyvMsRcCiwGohC4U5UHKbQhpump",
-   0.118,
-   2.9,
+   "42",
+   "8R2eDVCyjv7z2XbeyvXKpz1QgKpBHVn9ScyrbrB1pump",
+   0.119,
+   2.5,
    ""
   ],
   [
    "PONZI",
    "74eE9A2TByKwh5D4a6JPM8SvaAP76hyZm9qh2bbBpump",
-   0.078,
-   6.5,
+   0.08,
+   7.5,
    ""
   ],
   [
-   "FRANKIE",
-   "GveQTEyA3V7cb1eLjQCG88jAATQTeCXj4P7aHZQysaos",
-   0.072,
-   3.0,
+   "GSTAR",
+   "64V4TkVhC7ncCt2aMcPyoyHXyBKSm22P7axZsduDpump",
+   0.074,
+   2.1,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MEOW2028",
+   "CAGVr37x9LvSK3cPWxxQ8gYMZ7oynzw2ixbKnN5dpump",
+   0.073,
+   2.7,
    ""
   ],
   [
-   "Stonker",
-   "Ffg1dWg9h5eieGr9Z16GYP3xq7JGYDgrk7ocTSPYpump",
-   0.057,
-   3.0,
-   "buyers=2; top5_hold_most=100%"
+   "SHIP",
+   "FeWH6BRTh6CRVHJrPgWKQgDz14428t6Rw6r2FokzFx8D",
+   0.064,
+   2.2,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "GHOSTCAT",
    "FUsU3nh3uVLhFCGp8nCzZbTRbiX4LS174j1Kvn6ipump",
    0.043,
-   5.7,
+   6.7,
    ""
   ],
   [
-   "FRANKIE",
-   "6na2DkzyqcLMMbi5nQ7BCPVi5YrhGsnG9cza1CHVpump",
-   0.033,
-   2.9,
-   ""
-  ],
-  [
-   "FRANKIE",
-   "3Ye9kCkJ9SVYsejZSnrcFG8ewSWVtPkYrvqskRF6pump",
-   0.026,
-   3.2,
-   ""
-  ],
-  [
-   "Blackout",
-   "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
-   0.022,
-   10.0,
+   "42",
+   "8iNVTPYqPxiGBr2Ds6ccL3rCMK1bYMRSJ51ju5TDpump",
+   0.043,
+   2.6,
    ""
   ]
  ]
