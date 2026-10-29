@@ -6470,84 +6470,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:58:04",
+   "2026-10-29T14:59:02",
    32.58
   ]
  ],
- "cycles": 2184,
+ "cycles": 2185,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.5012134127,
- "watching": 276,
+ "sol_usd": 97.6235654315,
+ "watching": 292,
  "near": [
   [
-   "STKD",
-   "HDEKF6jBMo7gDXKkCr752qRnSty9JdsEdMgc5ZHqSTKD",
-   0.512,
-   2.8,
-   "bundled_launch=6 extra buys in creation block"
+   "Vortex",
+   "GYA6eeoXubyuwxDT7cAK9eCKobnziKvALPPbbq7Hpump",
+   0.958,
+   3.0,
+   ""
+  ],
+  [
+   "fud",
+   "UQWxggx4DEpmUH4f68mk4tumesGP2mJs7iBgCk4pump",
+   0.41,
+   2.1,
+   ""
   ],
   [
    "WOFL",
    "4rWXz6LcChtjFwg3dyi9b2rvgd5TAKQ9Xsentn6Upump",
-   0.19,
-   3.4,
+   0.17,
+   4.4,
+   ""
+  ],
+  [
+   "CUHCOIN",
+   "GiYcQeT6s27SRaEcPZJWVbTMpZH8kk7kn8MzaXGzpump",
+   0.168,
+   2.5,
+   ""
+  ],
+  [
+   "TIT",
+   "EWrjMSKkCzNcoeVKqUxa6AS8ArhXHDDkLCFthhqspump",
+   0.146,
+   7.7,
    ""
   ],
   [
    "FI",
    "4f7UoHzZ1XPkPKp5p4Y9mNztGizyo2MpjN7ZiCGHpump",
-   0.117,
-   4.6,
+   0.109,
+   5.6,
    ""
   ],
   [
    "PEPE",
    "5zH5dLzmYZ4y8cBfisvJ86gRG6G8WHFeAHY1jWprFzze",
    0.091,
-   4.5,
+   5.5,
    ""
   ],
   [
    "DEVS?",
    "9egyX31n3fdP3BX5DvKywDRq9dhBztjdWyhDD94Dpump",
    0.076,
-   2.5,
-   ""
-  ],
-  [
-   "AFO",
-   "EWd2Q494CVinq8f3zsmk8ki652c4KmtKArrdx39WCVhP",
-   0.072,
-   2.9,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HEIST",
-   "8hdabuyoJHoZpaTsC5aErErJ84zK37rmHcfLexSYRxNp",
-   0.071,
-   9.6,
+   3.5,
    ""
   ],
   [
    "DPRK",
    "3atWTj3yLg1n8emVJLWqCtZYbCKxYtJFQM7ZuBz4pump",
    0.068,
-   4.7,
+   5.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ASCII",
    "A77GhgV36rAHgk3bC7gUyCSoGkw754D9TFiKa6qfF1ga",
    0.063,
-   5.5,
+   6.4,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "SAFU",
-   "7XCCDWDRhknAh2agRiHetCpPkiV73WPczPDAdaq7pump",
-   0.039,
-   5.3,
-   ""
   ]
  ]
 }
