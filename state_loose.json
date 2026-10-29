@@ -8,8 +8,8 @@
    "entry": 0.030977400000000002,
    "mark_entry": 0.03037,
    "cost": 20.54,
-   "peak": 0.04544,
-   "last": 0.04544,
+   "peak": 0.04547,
+   "last": 0.04547,
    "opened": 1793253786.137508,
    "p_buy": 0.75
   },
@@ -20,23 +20,12 @@
    "mark_entry": 0.0005999,
    "cost": 22.4,
    "peak": 0.0005999,
-   "last": 0.0005842,
+   "last": 0.0005845,
    "opened": 1793283222.3393202,
    "p_buy": 0.55
   }
  },
- "watch": {
-  "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793284194.94971,
-  "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793284197.4151936,
-  "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": 1793284198.4525084,
-  "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1793284202.3832412,
-  "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz": 1793284204.334789,
-  "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1793284204.7409337,
-  "8RNUw4N655VSrZKuhGdywhbSMDTrheguFPfxbpE2NZHQ": 1793284208.2450953,
-  "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump": 1793284208.6512904,
-  "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump": 1793284209.4630785,
-  "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793284210.0252457
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -5347,8 +5336,12 @@
   [
    "2026-10-29T07:30:10",
    446.75
+  ],
+  [
+   "2026-10-29T07:30:45",
+   446.78
   ]
  ],
- "cycles": 1756,
+ "cycles": 1757,
  "started": "2026-10-28T01:46:56"
 }
