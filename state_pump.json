@@ -4691,81 +4691,85 @@
   [
    "2026-10-29T01:27:21",
    71.47
+  ],
+  [
+   "2026-10-29T01:28:22",
+   71.47
   ]
  ],
- "cycles": 1374,
+ "cycles": 1375,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.89299430705,
- "watching": 146,
+ "sol_usd": 99.9052128649,
+ "watching": 144,
  "near": [
-  [
-   "Cockroach",
-   "3474p27hok8TAWoC7vXdMgEs4MMjVpCqxTTZhVdvpump",
-   0.407,
-   2.7,
-   "bundled_launch=8 extra buys in creation block"
-  ],
   [
    "UPVOTE",
    "FB1BpyDvBsrZBDCtFPGiUebLxr7sECmhoBKFy9Xpump",
-   0.228,
-   4.0,
-   "top5_hold_most=88%"
+   0.261,
+   5.0,
+   "top5_hold_most=83%"
+  ],
+  [
+   "GC",
+   "H2kg6wrvrgTVg6nQQLVdwF6Thbf4yVUtzAibgjNipump",
+   0.219,
+   4.9,
+   "rugcheck=creator history of rugs"
   ],
   [
    "$RSOCKS",
    "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump",
    0.207,
-   8.9,
+   9.9,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "Dodo",
-   "3YEEdJTj5CjJ15qKsA6ZeqZ2QAhWHNwU6UN6oudApump",
-   0.098,
-   2.5,
-   ""
   ],
   [
    "WW3",
    "9jGLidPxUJ7SxNiB7kaYn2H47K8nJ5qeiMkFYVQMpump",
    0.072,
-   3.4,
+   4.4,
    ""
   ],
   [
    "bob",
    "BeECJUszks6nYL8wwoFuD9UyjCiRPeq3Jh8KPmmficj",
    0.068,
-   7.7,
+   8.7,
    ""
   ],
   [
-   "DOOMSDAY",
-   "4bHAhMUP9jFU8AYp7QQD7PMBiG2snZegjkjaww5xpump",
-   0.066,
-   3.4,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "GC",
-   "H2kg6wrvrgTVg6nQQLVdwF6Thbf4yVUtzAibgjNipump",
-   0.052,
-   3.9,
-   "top5_hold_most=92%"
+   "AGENTI",
+   "Cr49dbiUJCHXMKpieD7jMaNMTzsnhZdKJqKXUz7Spump",
+   0.044,
+   2.3,
+   ""
   ],
   [
    "RIGHT ",
    "5KaJC3q7GKcRbqNYq71137fvEK6GrvhsKUxwQs8ppump",
    0.036,
-   7.1,
+   8.1,
    ""
   ],
   [
    "HEXKIN",
    "Cy2NXL6UtG5jVkjRZKs2k6GvsbYHpDtgiWapFm49xL6n",
    0.027,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "Susie",
+   "CvPipD6WdM95wxwCj8w6zqW2YzssJZKeZBeshFMcpump",
+   0.024,
+   5.5,
+   ""
+  ],
+  [
+   "Dodo",
+   "3YEEdJTj5CjJ15qKsA6ZeqZ2QAhWHNwU6UN6oudApump",
+   0.015,
+   3.5,
    ""
   ]
  ]
