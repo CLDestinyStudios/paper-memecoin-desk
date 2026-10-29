@@ -2,25 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 79.58422277558527,
- "positions": {
-  "6RQt9BsWfn8LrpfLB14uDbetUXHDKJbUWL1wqRfvpump": {
-   "sym": "ALMOST",
-   "bc": "9saGTGXCnJpqeFA8rzLYn3avtL2RWuZWA2JxvmBVWxyY",
-   "tokens": 158471.35281097412,
-   "cost": 1.215,
-   "cost0": 2.43,
-   "entry_px": 7.143875508542197e-08,
-   "entry_fill": 7.697199010237665e-08,
-   "opened": 1793258890.5310805,
-   "last_px": 1.0725575892918536e-07,
-   "peak_px": 1.0725575892918536e-07,
-   "last_val": 1.554759035097797,
-   "last_prog": 0.662,
-   "tp1_done": true,
-   "realized": 0.3397590350977968
-  }
- },
+ "cash": 79.95933113045389,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -4554,81 +4537,85 @@
   [
    "2026-10-29T00:30:07",
    81.14
+  ],
+  [
+   "2026-10-29T00:31:06",
+   79.96
   ]
  ],
- "cycles": 1317,
+ "cycles": 1318,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.61,
- "watching": 139,
+ "sol_usd": 99.66823411945,
+ "watching": 144,
  "near": [
   [
-   "ripr",
-   "DAB823T4F6DJjCjSecKTq5TLS3bchSTyqDp3AdEYpump",
-   0.743,
-   2.5,
-   "top10=53.2%; bundled_launch=3 extra buys in creation block"
+   "BABYFURY",
+   "5ABoKZmshKrp535mwgpXWoD4MJ481hih26QSNYEZpump",
+   0.122,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PSYOP",
+   "GRzGoLNkQAcUnRoGFU6hFNaAB4eu1oqFvUBhYsU4pump",
+   0.073,
+   2.0,
+   ""
+  ],
+  [
+   "VC",
+   "27J2M42yDJ36svqpxqp1ML2cP1mg4XF1Q1h1kbpkpump",
+   0.064,
+   3.1,
+   ""
   ],
   [
    "$CHNABULL",
    "AeKaCJSNovAP653Y8H3bheEQPEbF3SM2HVqhhcjPpump",
    0.044,
-   3.7,
+   4.7,
    ""
   ],
   [
    "dose",
    "BCR2zhu68ENfkkoWBprnGHy3rKkDXBfhN4zBU2Vipump",
    0.036,
-   5.5,
+   6.5,
    "top5_hold_most=93%"
   ],
   [
    "EXNESS",
    "AJAqsBcfSkHior5EDeFv3RvaEKhEmdqUUnDeqRXFpump",
    0.03,
-   8.9,
-   ""
-  ],
-  [
-   "VC",
-   "27J2M42yDJ36svqpxqp1ML2cP1mg4XF1Q1h1kbpkpump",
-   0.024,
-   2.1,
+   9.8,
    ""
   ],
   [
    "67coin",
    "HpjUhQmLVDKx2CVo4wdd2AFQmjVDdCVocHxmmqtxpump",
-   0.023,
-   2.4,
+   0.022,
+   3.4,
    ""
   ],
   [
    "VOICE",
    "3PgPrtKeCdkxYNPe7dRD3t9tyCFBZjqQkAJqobKWpump",
    0.022,
-   6.6,
+   7.6,
+   ""
+  ],
+  [
+   "VOPE",
+   "2V3MjjMG72khLVDdXwhZuET8bMu2TjaFZg6BihuCpump",
+   0.022,
+   2.2,
    ""
   ],
   [
    "VS",
    "AFf4cwq74KRyd79h18TNQzHiz2cA2rR33LGEnUcKpump",
    0.022,
-   2.4,
-   ""
-  ],
-  [
-   "Voice Note",
-   "D2Xhpd3poBsLxwb6vZxpC7uuDDhSDyw7b1swRvvkpump",
-   0.016,
-   2.1,
-   ""
-  ],
-  [
-   "Nigger",
-   "54J82bBFc2BNWnvM7Wd9akjvWy4iEQDqDLxFxFkopump",
-   0.005,
-   4.6,
+   3.4,
    ""
   ]
  ]
