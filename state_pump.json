@@ -13,10 +13,10 @@
    "entry_px": 3.7610929740441486e-08,
    "entry_fill": 4.087602122408251e-08,
    "opened": 1793277382.7304814,
-   "last_px": 3.357940476511299e-08,
+   "last_px": 3.2449841276872295e-08,
    "peak_px": 3.7610929740441486e-08,
-   "last_val": 1.2998606796765646,
-   "last_prog": 0.118
+   "last_val": 1.254570966379209,
+   "last_prog": 0.097
   }
  },
  "traded": [
@@ -5458,81 +5458,85 @@
   [
    "2026-10-29T05:39:22",
    57.15
+  ],
+  [
+   "2026-10-29T05:40:23",
+   57.1
   ]
  ],
- "cycles": 1626,
+ "cycles": 1627,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.39958049199998,
- "watching": 146,
+ "sol_usd": 100.408772875,
+ "watching": 138,
  "near": [
   [
    "Susie",
    "ANdPhuEpk2AzoBiAg1Z1hzUeX98NLKysxoDLGR2ypump",
-   0.941,
-   2.6,
+   0.864,
+   3.6,
    ""
-  ],
-  [
-   "NICEHAT",
-   "FqcXbgWPRdbz9D44he2z2rPHsAQxHma89TZZ2NjWpump",
-   0.287,
-   9.2,
-   "top5_hold_most=89%"
-  ],
-  [
-   "Absorb",
-   "9Af63ao21KjuPS6SHNYFekq5GcT3tEsWSpBFnKh2pump",
-   0.209,
-   2.9,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "commando",
    "3XpEtxi732V2wyWoyfWPzjqzCW5xxyQCdCBxoCripump",
-   0.193,
-   4.9,
-   "top5_hold_most=87%"
+   0.229,
+   5.9,
+   "serial_creator=7 launches/24h"
   ],
   [
    "BTS",
    "3NDa9757kfphK7WB8YgvaLKcpwmmKrbLWEgCLz37pump",
-   0.118,
-   6.0,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Pedos",
-   "AjG5Zigb1g2WvSH9ue5JReZzZpiU8WQm8gvYWk1Qpump",
-   0.114,
-   5.5,
+   0.211,
+   7.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Q&E",
    "58qEnk7E6TcPE9Db8ecrN8Pa59rZupCP231KnU1ppump",
    0.102,
-   5.6,
+   6.7,
+   ""
+  ],
+  [
+   "DEFLOCK",
+   "CWstwreg7gyDDUKBJ3sqhQgSqkFC2gDdKLcHz5iipump",
+   0.084,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=11 extra buys in creation block"
+  ],
+  [
+   "PETER",
+   "AQL7awq8rM3AaNAjdnNrHdQnZptdwybRCUbc9Yjypump",
+   0.052,
+   2.4,
    ""
   ],
   [
    "HAIL",
    "HiRSfSfeZre7mnKE8aJi3B1hqX3NTB4E8BmLVZZcpump",
    0.044,
-   3.5,
+   4.5,
    ""
-  ],
-  [
-   "MHGA",
-   "HUnGeBPRa3TK8NhRUPSAz4pDvGwFeD4EStPScUc6pump",
-   0.043,
-   9.7,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Susie",
    "D65CyJtqTntgB4tC9uvbvj7vH8ngwM7t3K53BVdgpump",
    0.038,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "doge",
+   "GrkNM599vY6vV8LLy2tsogayC8b12fy4FuYCWdCipump",
+   0.016,
+   3.5,
+   ""
+  ],
+  [
+   "CSINDEXES",
+   "Ewg1VrSpKAkv99jBVzF4rEhvSvNYXT4BrhE4Zwtrpump",
+   0.015,
+   3.9,
    ""
   ]
  ]
