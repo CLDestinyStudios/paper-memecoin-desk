@@ -2,7 +2,7 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 60.55698367126186,
+ "cash": 58.71698367126186,
  "positions": {
   "4NvUYybmPynmbkCbeN6wkxss5nArP9WDJ9QW2aSXpump": {
    "sym": "ai-chs",
@@ -15,10 +15,24 @@
    "opened": 1793269642.5762103,
    "last_px": 7.294248013643415e-08,
    "peak_px": 1.1210749421736646e-07,
-   "last_val": 0.8302170706420824,
+   "last_val": 0.8306175844412153,
    "last_prog": 0.515,
    "tp1_done": true,
    "realized": 0.37633656758851186
+  },
+  "Cp3z6QaCiLYAsiVycqdLLiCwtfwKXJwrfgbQQh4Ypump": {
+   "sym": "HALVE",
+   "bc": "F8mTQoBxRJhKae3UTGgENgZaPJ8LD9JByrqF7kouuYyb",
+   "tokens": 329544.59187732695,
+   "cost": 1.84,
+   "cost0": 1.84,
+   "entry_px": 5.111847800799861e-08,
+   "entry_fill": 5.5463026641310846e-08,
+   "opened": 1793271202.7240314,
+   "last_px": 5.111847800799861e-08,
+   "peak_px": 5.111847800799861e-08,
+   "last_val": 1.5566809694250228,
+   "last_prog": 0.352
   }
  },
  "traded": [
@@ -341,7 +355,8 @@
   "9WLCXNYfCaEfWcMXZ5qnaS41RZ1MnH33PwwGj6Krpump",
   "Gt3jUwbYV6k3Z7atNk3HvAT2tGHKmqPCQnoFpTmopump",
   "EvRZxxUvNgHeE6bgL8LBGZQbmKXPmkQRJ4CoCHG1pump",
-  "4NvUYybmPynmbkCbeN6wkxss5nArP9WDJ9QW2aSXpump"
+  "4NvUYybmPynmbkCbeN6wkxss5nArP9WDJ9QW2aSXpump",
+  "Cp3z6QaCiLYAsiVycqdLLiCwtfwKXJwrfgbQQh4Ypump"
  ],
  "equity": [
   [
@@ -5115,81 +5130,85 @@
   [
    "2026-10-29T03:52:21",
    61.39
+  ],
+  [
+   "2026-10-29T03:53:22",
+   61.1
   ]
  ],
- "cycles": 1519,
+ "cycles": 1520,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.62145813800001,
- "watching": 175,
+ "sol_usd": 100.67,
+ "watching": 166,
  "near": [
   [
    "MAX",
    "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   0.832,
-   8.9,
+   0.84,
+   9.9,
    ""
+  ],
+  [
+   "OTC",
+   "Fu6qyLGXvrX9YqjKStZawHAY4hNu9NXNg13qBoxabWHP",
+   0.448,
+   2.7,
+   "serial_creator=26 launches/24h"
   ],
   [
    "HALVE",
    "Cp3z6QaCiLYAsiVycqdLLiCwtfwKXJwrfgbQQh4Ypump",
-   0.398,
-   5.9,
-   "creator=18.6%; top5_hold_most=85%"
+   0.352,
+   7.0,
+   "bought"
   ],
   [
    "SECURITY",
    "AdsvTvuwsMbz6GLA2QSjq8X1mbnPAetpg4S4vpNapump",
    0.105,
-   7.3,
+   8.3,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Vampurr",
+   "FhAYHqFpHAC9gGovoS5aeNT5uwg6JNHeuV7N4kmJpump",
+   0.077,
+   2.2,
+   ""
   ],
   [
    "GENESIS",
    "4GEWYGfkU6JwVoQ2mncrvTF1F5d1Vgp83YbCgCgfxAvB",
    0.076,
-   3.4,
+   4.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "hopecat",
    "FMgutPcembYxqs1SxVdBVTYFWT44HtZYJMXZ5eCPxHvJ",
    0.074,
-   2.9,
+   3.9,
    ""
   ],
   [
    "ASS BTC",
    "BgtNrjAdG2AzK4UvVtuwgZgzDgqXKhAwWDKb5Sg7pump",
    0.044,
-   4.4,
+   5.5,
    ""
   ],
   [
    "KYS",
    "JDDuubY4Mg5VFFu61qyPQXZ5S56zuxaus7ZVjBP9pump",
    0.043,
-   4.3,
-   ""
-  ],
-  [
-   "NYSE",
-   "DeWzbNZDkF4VuYotnYbddD7LfWwn68JDdi3CyeaLrwZ9",
-   0.042,
-   9.2,
+   5.3,
    ""
   ],
   [
    "HYPERCAT",
    "69DKCVmykx9jUuZZc8JYqSRtrxrECxJq5ZqW6dcgk5au",
    0.042,
-   4.8,
-   ""
-  ],
-  [
-   "MAX",
-   "HLh79YsNEzGvZdVtjN2huL3FjMPCzXVQn552dgTJSu1y",
-   0.038,
-   4.0,
+   5.8,
    ""
   ]
  ]
