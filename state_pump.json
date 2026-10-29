@@ -13,10 +13,10 @@
    "entry_px": 6.02225566725056e-08,
    "entry_fill": 6.679296468840795e-08,
    "opened": 1793288454.128348,
-   "last_px": 9.101780477276755e-08,
+   "last_px": 8.213419136419576e-08,
    "peak_px": 1.8982409721213043e-07,
-   "last_val": 0.6295531959352905,
-   "last_prog": 0.603,
+   "last_val": 0.5635693927161,
+   "last_prog": 0.564,
    "tp1_done": true,
    "realized": 0.19840459416484324
   },
@@ -29,10 +29,10 @@
    "entry_px": 7.942939907250695e-08,
    "entry_fill": 8.809236564535803e-08,
    "opened": 1793288753.6935158,
-   "last_px": 7.705662267094243e-08,
+   "last_px": 7.9728692482387e-08,
    "peak_px": 1.1172516905505777e-07,
-   "last_val": 0.8228548590897528,
-   "last_prog": 0.538
+   "last_val": 0.853879372291151,
+   "last_prog": 0.552
   },
   "8fNrj8xAkuprP6cKLcTeZ2ECfxepnoqpDyh6pxLxpump": {
    "sym": "CLOAKD",
@@ -43,10 +43,10 @@
    "entry_px": 4.539708158804662e-08,
    "entry_fill": 5.0431074233439045e-08,
    "opened": 1793289842.776288,
-   "last_px": 6.998126451086838e-08,
-   "peak_px": 7.731095606140136e-08,
-   "last_val": 0.6212342174911392,
-   "last_prog": 0.498,
+   "last_px": 8.122547216420904e-08,
+   "peak_px": 8.122547216420904e-08,
+   "last_val": 0.7299018729512751,
+   "last_prog": 0.559,
    "tp1_done": true,
    "realized": 0.18133701695755122
   }
@@ -6290,81 +6290,85 @@
   [
    "2026-10-29T09:06:53",
    33.63
+  ],
+  [
+   "2026-10-29T09:08:01",
+   33.7
   ]
  ],
- "cycles": 1833,
+ "cycles": 1834,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.7,
- "watching": 381,
+ "sol_usd": 102.7858,
+ "watching": 382,
  "near": [
-  [
-   "MM",
-   "5GhJwUw4VMCvikGkgEvd6SFezcsWdLBiBtJWJgNspump",
-   1.0,
-   5.1,
-   "graduated"
-  ],
   [
    "McElon",
    "74hGo15SYb8YcEjrtsUqdP8jaZbTuNtPRoyQ5RaKpump",
-   0.972,
-   8.5,
+   0.973,
+   9.6,
+   ""
+  ],
+  [
+   "ZAIO",
+   "ENrmkhvA2nMrwiMYScbHPhjnJwv8aXJ3jKfskxiCpump",
+   0.727,
+   2.9,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "MUSKCATT",
+   "AHVuvs1ZJNJGTdkkB5heGGTMG9ocHpp34Ec38kCzpump",
+   0.592,
+   3.0,
    ""
   ],
   [
    "PEET",
    "G8px66qvS7aJpRK21S86NZuhMNntQSNLDL1PjxAHG9w1",
-   0.469,
-   3.9,
+   0.517,
+   5.1,
    ""
   ],
   [
    "MM",
    "CJpP99LWzKs7UAGXmkf4imnANjTukDNhr9DB3Y6Ppump",
    0.312,
-   5.4,
+   6.6,
+   ""
+  ],
+  [
+   "ICECAT",
+   "A6t2GRq2jCSWvFeGgDrk4eV8oFvCHNASBCJmG6X7pump",
+   0.22,
+   2.4,
    ""
   ],
   [
    "Bowen",
    "5hoGq7KYkZYZX4Zwj8Dcy8fVRbGrvbQ3TXEme9cqpump",
-   0.241,
-   2.8,
+   0.21,
+   3.9,
    ""
   ],
   [
-   "Bowen",
-   "4MBgjjxVk2D9D4WThLMHVhReTjW92udnyhJ6uwtcpump",
-   0.139,
-   3.5,
+   "OIL",
+   "5jCaDgzEP25xg3pz8rzw8gGD8QRUZvGeemMWyz5spump",
+   0.119,
+   2.8,
+   "top5_hold_most=99%"
+  ],
+  [
+   "zerebrain",
+   "5F85PPU7MCVmshc5fHdM68uhFR7sr8kvxiVcsU1Xpump",
+   0.108,
+   2.3,
    ""
   ],
   [
    "MERNERH",
    "EGtkncwbjxkVTVgeG7Mzg9KsfB2yKjvpSnxt2d5qpump",
    0.094,
-   5.2,
-   ""
-  ],
-  [
-   "PIKAT",
-   "A7Z8KGx23PzpbHaYYPVU8voCh8TJtG5rEukqJsZsKGsJ",
-   0.086,
-   3.6,
-   ""
-  ],
-  [
-   "REV",
-   "9N8fbc99dxsekbHMz4KSjiUAuGhWPJb2moz2osXgpump",
-   0.066,
-   2.6,
-   ""
-  ],
-  [
-   "MARMOT",
-   "AdSfdqvQa3dEneR8aMKPSAdpx6bxy3hoja5PLm1SPEAy",
-   0.065,
-   2.1,
+   6.3,
    ""
   ]
  ]
