@@ -6057,81 +6057,85 @@
   [
    "2026-10-29T08:18:53",
    37.91
+  ],
+  [
+   "2026-10-29T08:19:55",
+   37.91
   ]
  ],
- "cycles": 1785,
+ "cycles": 1786,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 102.0169483895,
- "watching": 215,
+ "sol_usd": 101.95000000000002,
+ "watching": 230,
  "near": [
   [
    "ELOOONG",
-   "ACVeHgMRkDEtxBgzzZhopCUWzbS6Xb9knTuMqPLYpump",
-   1.0,
-   2.8,
-   "graduated"
-  ],
-  [
-   "XYZ100",
-   "5DX3MN4s4GskZiPb9rnkNmJwMpdx6w92xJVT2Rxopump",
-   0.694,
-   2.7,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "ELOOONG",
    "BN2YrT3WUcQYzzYJnmwoXG88LwXhXTWrNjZLa2vpump",
-   0.226,
-   5.5,
+   0.203,
+   6.5,
    ""
   ],
   [
-   "ALICE",
-   "3A4gWNyAGHwPTd46UfM7JYCwqS1BYLwqkUdnZussnLYb",
-   0.084,
-   7.5,
-   "buyers=1; top5_hold_most=100%"
+   "LOGAN",
+   "2r1GwSSNVHdhWbtRtag48VY5ZKBxeY1tonBeUjmNpump",
+   0.185,
+   3.0,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "ELOOONG",
+   "3MWjsCc4yYJaRg3jvwrvZTFM3JfVGL6sdbdEC63Vpump",
+   0.133,
+   6.9,
+   ""
   ],
   [
    "sol",
    "4qWTP8wpLibr2j9ryAhJirPBYJ85Hx5HC5zYwz1gpump",
    0.08,
-   2.5,
-   ""
+   3.5,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "ZOPZI",
    "DdYWxX9ahP6xUjZJNxAwnBeE2YUGyy5X2aATpmzPpump",
    0.076,
-   3.6,
+   4.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "DRUCKENMILON",
    "EbkNpTgjYyQMKe9vGyDA4n9kizMxR7QTQj6gqMnApump",
    0.055,
-   7.9,
-   ""
-  ],
-  [
-   "ELOOONG",
-   "5DV8k2qFV3XQdrf3BakPg7P1MgGNnq8zUjjuEoNapump",
-   0.048,
-   4.7,
+   9.0,
    ""
   ],
   [
    "Chill",
    "AMRHQ4zdD8ApE4bNvwV2P6efVf7QBZz4b6396oaCGCpm",
    0.044,
-   2.5,
+   3.5,
    ""
   ],
   [
-   "HYPE^HYPE",
-   "EjC5V1mQEMeHFrHnxb6iWtFEKyTAnYzseu4VLcwicAPM",
+   "ELOOONG",
+   "8a4dNo8VRt714suNdej3bjWnY1bi3R21GvGmi7Fcpump",
    0.043,
-   7.8,
+   9.9,
+   ""
+  ],
+  [
+   "ELOOONG",
+   "5DV8k2qFV3XQdrf3BakPg7P1MgGNnq8zUjjuEoNapump",
+   0.042,
+   5.7,
+   ""
+  ],
+  [
+   "ELOOONG",
+   "ED6GdVtMkjNYQKNhancdkDjGtbfowNzBpQiPRoMWZ9Jj",
+   0.042,
+   7.3,
    ""
   ]
  ]
