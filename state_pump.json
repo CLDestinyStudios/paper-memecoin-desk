@@ -6346,83 +6346,83 @@
    32.58
   ],
   [
-   "2026-10-29T10:08:58",
+   "2026-10-29T10:09:57",
    32.58
   ]
  ],
- "cycles": 1895,
+ "cycles": 1896,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.58999999999999,
- "watching": 318,
+ "sol_usd": 101.61616304300001,
+ "watching": 327,
  "near": [
   [
    "XRPS",
    "6oxVdrnPbBBeeDzXSZYenJeqtUWRkHZ9GKqyiXxmpump",
    0.743,
-   6.8,
+   7.8,
    "top10=58.9%; top5_hold_most=94%"
+  ],
+  [
+   "LUMEN",
+   "BtAe3p7i1jig8vAAob1QuUkDZwLugqoGGXHrYBEKpump",
+   0.692,
+   2.6,
+   ""
+  ],
+  [
+   "COLUM",
+   "GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ",
+   0.605,
+   2.9,
+   ""
+  ],
+  [
+   "MASSAGECAT",
+   "ef4scsYTB6xhFDE3vvweTjoyh2wmogz8V8zKpRtpump",
+   0.353,
+   3.0,
+   ""
   ],
   [
    "COLUM",
    "E6CLWayZ8zdjfmKzMNGrx9B1XKmXVYUqsjtwXyPYpump",
    0.272,
-   6.6,
+   7.6,
    ""
   ],
   [
    "USWR",
    "FNkA4NDiNUwZuCwp5J6P7WPtgrZcVRDnvwJ1yrLUpump",
    0.191,
-   2.8,
-   "top5_hold_most=84%"
+   3.8,
+   "top5_hold_most=83%"
+  ],
+  [
+   "$SWEEP",
+   "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
+   0.189,
+   3.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "VOLY",
    "6FhFcdRDNNWLkH6buVLFzRkttUoB5sLEyVCPh4tQpump",
    0.187,
-   3.5,
+   4.4,
    ""
   ],
   [
-   "$SWEEP",
-   "Cgo1jLeYsAE14RV9VCcVNYuMkZP8iA4joVbzVTtipump",
-   0.169,
-   2.3,
-   "buyers=5; top5_hold_most=100%"
+   "CNT",
+   "FMKnrEJsgFXgsnU4vNnqZR9n2EFKdeRGjp6Vruj1pump",
+   0.156,
+   2.1,
+   "top5_hold_most=91%"
   ],
   [
-   "FRAZZ",
-   "5zSsSusnef57GSBv7hNzBzoVs7xYUZMF9NREFKeepump",
-   0.108,
-   9.1,
-   ""
-  ],
-  [
-   "GLASS",
-   "Fj8pfWiQFP8aVYMCXt26KCv5NESFGq4WhVsQCymNpump",
-   0.107,
-   4.5,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "Colum",
-   "5Y24urDxqUjXRFNfhwqP5A5Snb7d8muk45mJRWLhpump",
-   0.098,
-   6.4,
-   ""
-  ],
-  [
-   "TESTONE",
-   "8a44GFzmZG2pNYqkWWjN1aZpMfTcVaGHw161Bi8Dvfe9",
-   0.063,
-   5.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "HN",
-   "27JRWyN5oPFCmPZmG9XN139z4vbsHTHyxKfHiNUcpump",
-   0.062,
-   2.3,
+   "JRE",
+   "gE1yx59gThxj3e7PnUhUW6YSBrpy9U6Xsf1SWFypump",
+   0.064,
+   6.1,
    ""
   ]
  ]
