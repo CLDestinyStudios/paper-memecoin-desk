@@ -5148,81 +5148,85 @@
   [
    "2026-10-29T04:07:26",
    60.82
+  ],
+  [
+   "2026-10-29T04:08:21",
+   60.82
   ]
  ],
- "cycles": 1534,
+ "cycles": 1535,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.377689712,
- "watching": 194,
+ "sol_usd": 100.37712767300002,
+ "watching": 196,
  "near": [
   [
    "Rise",
    "3MMmMJXDr9EJKAP4sKMAszb5CnJKSZ6n3NA3MizTpump",
-   0.484,
-   2.5,
-   "creator=32.0%; top5_hold_most=98%"
+   0.543,
+   3.4,
+   "creator=36.2%; top5_hold_most=98%"
+  ],
+  [
+   "HYPURR",
+   "9VXBCdUj2b6EiLFiUiwQXbfatW3BmMFHLYLd5QS5mPo7",
+   0.358,
+   2.7,
+   ""
+  ],
+  [
+   "HYPURR",
+   "ENh37XmhTkH22sT7TDaUFKEwsqGFgV6HyNhTKx5qpump",
+   0.227,
+   3.0,
+   ""
   ],
   [
    "$ALERT",
    "BtSFemKcGXNPbvvH9DWfLiqEMEevtgh1j4J6nVSrpump",
    0.132,
-   5.9,
-   "buyers=1; top5_hold_most=100%"
+   6.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "HYPURR",
    "FMBnoJWeEyL1WBkuMdcQPuqhap7wre2rbCMNRuTNpump",
    0.084,
-   2.5,
-   ""
-  ],
-  [
-   "NINA",
-   "56mkKNC6RZZXrrAj589QgeENZ3YedB1vN9PyBDPDpump",
-   0.074,
-   2.7,
+   3.5,
    ""
   ],
   [
    "BUY",
    "Bj5w8y87Kr6ZK4t6Z6RRmNKVi1GDnrWoZ6VE9cp6pump",
    0.047,
-   3.6,
+   4.5,
    ""
   ],
   [
    "ASS BTC",
    "4cTpGNS6x7df2Wgcd6MvW2aRRepbFoKtKv7zWH1ipump",
    0.043,
-   5.6,
+   6.5,
    ""
   ],
   [
    "HYPERCAT",
    "9thjDAqrxJ8QcD4HpxAZjWzoci1RWDU1J5a5QL6po42n",
    0.024,
-   2.7,
+   3.6,
    ""
   ],
   [
-   "oswald",
-   "HCXTnagWzoaAznxud8YwBwVErUj2shSQWezxhy3Dpump",
-   0.022,
-   4.7,
+   "UNIPCS",
+   "6ELcKAJMwPQbKowqN2QidBUQMJdeQGCdDdiNDZqMpump",
+   0.024,
+   2.8,
    ""
   ],
   [
-   "Caillie",
-   "5Q6tkz6MYGqMmsYXgsHw4Vs3drNLjG98mtWnnV1NFBvB",
-   0.022,
-   6.7,
-   ""
-  ],
-  [
-   "poocoin",
-   "J4ekSthD7wzwJKBRpcBqY84psyYF8zfFfPpCe7ASYYbj",
-   0.022,
-   7.3,
+   "CACHELOAF",
+   "4kCPFSsdxGgQxBQuDaUo9S4aP8NaPetMss56XUv5pump",
+   0.023,
+   2.2,
    ""
   ]
  ]
