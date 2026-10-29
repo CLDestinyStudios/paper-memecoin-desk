@@ -13,10 +13,10 @@
    "entry_px": 5.62286957306321e-08,
    "entry_fill": 6.115302565292456e-08,
    "opened": 1793277862.587462,
-   "last_px": 5.62286957306321e-08,
-   "peak_px": 5.62286957306321e-08,
-   "last_val": 1.4223443533215663,
-   "last_prog": 0.399
+   "last_px": 8.099641575016318e-08,
+   "peak_px": 8.099641575016318e-08,
+   "last_val": 2.07080601218299,
+   "last_prog": 0.558
   }
  },
  "traded": [
@@ -5480,81 +5480,85 @@
   [
    "2026-10-29T05:44:22",
    56.02
+  ],
+  [
+   "2026-10-29T05:45:22",
+   56.67
   ]
  ],
- "cycles": 1631,
+ "cycles": 1632,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.46,
- "watching": 136,
+ "sol_usd": 100.4587247475,
+ "watching": 137,
  "near": [
   [
    "Susie",
    "ANdPhuEpk2AzoBiAg1Z1hzUeX98NLKysxoDLGR2ypump",
-   0.951,
-   7.6,
-   ""
+   1.0,
+   8.6,
+   "graduated"
   ],
   [
    "BOO!",
    "HD2MNmzSzXZnmmdo4JDD26H22gLjmi97XL7ZW7nEpump",
-   0.857,
-   2.6,
+   0.927,
+   3.6,
    ""
-  ],
-  [
-   "boo",
-   "F7J51epbe9KovwEzecHtG5XAVnJTUpdceQ4SC3XJpump",
-   0.81,
-   2.7,
-   ""
-  ],
-  [
-   "EGG",
-   "4uwVtfuEGKxHnK31vC2i33uYhhDWDAdsqEpYNXTFM9oe",
-   0.399,
-   2.4,
-   "bought"
   ],
   [
    "Persona",
    "AMSy4NWD43EBfjTE5C7ZyQptJanGNQXUkVZkVjPQPPAD",
-   0.335,
-   5.0,
+   0.447,
+   6.0,
    ""
   ],
   [
-   "BOO",
-   "7jL1pRpX6ueHKTkBKnrK1woNfMTyeMshqNYa2tmppump",
-   0.108,
+   "DOH",
+   "58BwFmd6oZWsCfdXzofXLNebcBFj1VgiLqgyQjXZpump",
+   0.249,
+   6.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "TARD",
+   "DdJdDqhBhD1nppj44rh4Ak7DqYWzMw4MLiHG1GrCpump",
+   0.116,
    2.7,
-   ""
-  ],
-  [
-   "Puptides+",
-   "BUP5Q36KHW8Zn4hJHZfRHhhzTXpRKQDsTqXsukfW22zW",
-   0.07,
-   2.5,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "buyers=6; top5_hold_most=98%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "dogboy",
    "9ovtKBKbhqRHywGTPB8ay1JhmiXLTTzRgf8iMZ2Dpump",
    0.031,
-   3.0,
-   ""
-  ],
-  [
-   "[bracat]",
-   "HsH4H2YdZrsNkiCcN4zjgDRrqwto5Fz3AbjMHHaBpump",
-   0.028,
-   2.9,
+   4.0,
    ""
   ],
   [
    "PETER",
    "AQL7awq8rM3AaNAjdnNrHdQnZptdwybRCUbc9Yjypump",
    0.019,
-   6.4,
+   7.4,
+   ""
+  ],
+  [
+   "Susie",
+   "6ygWiohXF1hVdwXhVoAQdLJ8thCdFKQvmeKzyqJNpump",
+   0.018,
+   2.6,
+   ""
+  ],
+  [
+   "doge",
+   "GrkNM599vY6vV8LLy2tsogayC8b12fy4FuYCWdCipump",
+   0.016,
+   8.5,
+   ""
+  ],
+  [
+   "CSINDEXES",
+   "Ewg1VrSpKAkv99jBVzF4rEhvSvNYXT4BrhE4Zwtrpump",
+   0.015,
+   8.9,
    ""
   ]
  ]
