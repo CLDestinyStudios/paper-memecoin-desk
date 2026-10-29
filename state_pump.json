@@ -4708,81 +4708,85 @@
   [
    "2026-10-29T01:47:20",
    69.82
+  ],
+  [
+   "2026-10-29T01:48:20",
+   69.82
   ]
  ],
- "cycles": 1394,
+ "cycles": 1395,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.82460628884998,
- "watching": 127,
+ "sol_usd": 99.83,
+ "watching": 132,
  "near": [
   [
    "COHERENCE",
    "2x28tR1LbjFNKaRVUcDr3qPHSUKzWXoJoAweAsEXiP34",
    0.157,
-   8.9,
+   9.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "PERCENT",
    "B55mCL1QBskAzQfrTKY1DvLpDYogTjsvzna2jPKspump",
-   0.053,
-   4.3,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "AUN",
-   "AduvZugTHr8p4cWJm2VUnPwh7nU78EyKXLUWvUuypump",
-   0.042,
-   2.8,
-   ""
+   0.051,
+   5.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "NumberK",
    "F9bie1xsP8G4N42vFk77tefN1sgv8yNpfqhgxwRgpump",
    0.04,
-   3.9,
-   ""
-  ],
-  [
-   "GOLDENR",
-   "868thv3iUvPxEf6SftQcLUrFmzNjbx8t2yTvNNWjpump",
-   0.039,
-   3.2,
+   4.9,
    ""
   ],
   [
    "GATEKEY",
    "EDPEicLN8svqfNB8tzzR2bCCZc9kG17MNSxTe3yXmkey",
    0.031,
-   2.7,
+   3.7,
+   ""
+  ],
+  [
+   "AUN",
+   "AduvZugTHr8p4cWJm2VUnPwh7nU78EyKXLUWvUuypump",
+   0.03,
+   3.8,
+   ""
+  ],
+  [
+   "BabyNuts",
+   "9uCfUT85S6AC5ugVPTBnFswq6LhgYXdYCqTRcjpipump",
+   0.026,
+   2.5,
    ""
   ],
   [
    "T-REX",
    "F9VbUk9WkWVFp3fxehmdogz3FagigocQzyhrRz1tpump",
    0.024,
-   8.1,
+   9.1,
    ""
   ],
   [
    "BTC",
    "ATfBW2oTimwkoWqbxG5sKmcajFJz1fMCEWKBFfk3pump",
    0.022,
-   2.4,
+   3.4,
    ""
   ],
   [
    "MCC",
    "77Ri4GuwZDDEvSpjmUL9LGwAgrw3KDmBsrRjCwxzpump",
    0.018,
-   4.0,
+   5.0,
    ""
   ],
   [
    "FatDog",
    "C6F5JPBvZRarYVVSeDuUkUq2fMU2NAdGfDg3hJSapump",
    0.011,
-   2.0,
+   3.0,
    ""
   ]
  ]
