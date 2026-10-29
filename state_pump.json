@@ -13,10 +13,10 @@
    "entry_px": 8.348849853974908e-08,
    "entry_fill": 8.932288615075706e-08,
    "opened": 1793232232.2706861,
-   "last_px": 1.3014765391092456e-07,
-   "peak_px": 1.3476550002450232e-07,
-   "last_val": 2.584643860423015,
-   "last_prog": 0.726,
+   "last_px": 1.3722046198148403e-07,
+   "peak_px": 1.3722046198148403e-07,
+   "last_val": 2.7282407039920558,
+   "last_prog": 0.742,
    "tp1_done": true,
    "realized": 0.7659854280569913
   },
@@ -29,10 +29,10 @@
    "entry_px": 8.430931760075574e-08,
    "entry_fill": 9.027448096830748e-08,
    "opened": 1793234511.3432598,
-   "last_px": 8.430931760075574e-08,
+   "last_px": 8.090378291368249e-08,
    "peak_px": 8.430931760075574e-08,
-   "last_val": 3.1254445782072313,
-   "last_prog": 0.574
+   "last_val": 2.997612583771562,
+   "last_prog": 0.558
   }
  },
  "traded": [
@@ -3440,81 +3440,85 @@
   [
    "2026-10-28T17:41:51",
    119.24
+  ],
+  [
+   "2026-10-28T17:42:49",
+   119.25
   ]
  ],
- "cycles": 909,
+ "cycles": 910,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.97165815150413,
- "watching": 365,
+ "sol_usd": 101.98647155,
+ "watching": 353,
  "near": [
   [
    "DUBBLE",
    "BGpPt4AbeNmhfat4FmvB79v9dV8aHomyfzXmwNzypump",
-   0.774,
-   8.6,
+   0.764,
+   9.6,
    ""
   ],
   [
-   "ELEVEN",
-   "6ufeVaW78uhhTVRgk16ruB7GbPJn7X4Tzdi9487ppump",
-   0.574,
-   2.5,
-   "bought"
+   "\ud835\udd4f CARD",
+   "VYyDWCKx3eaZFZYCbJzTHuPatWV6gFQDNd68ermpump",
+   0.278,
+   3.0,
+   "serial_creator=16 launches/24h"
   ],
   [
-   "CLAPCAT",
-   "4vAzkUPBcXk7vQhRsroX1hFeUBSJVUSVsR29q8Phpump",
-   0.243,
-   3.5,
-   "serial_creator=6 launches/24h"
+   "Dill",
+   "Hwmh6JDgAZMZ7LvibNM9QLRhAY6ndz3WogK7LSVHpump",
+   0.144,
+   2.8,
+   ""
   ],
   [
    "ACC",
    "79uZNmJRMiZcKftXXWe4paJpXXf6iSaidicWri7Npump",
-   0.102,
-   2.2,
+   0.111,
+   3.2,
    ""
   ],
   [
    "CLYDEFROG",
    "4iPJyvV4PcFtoWHuy6MLo2ynrQ8GkxqvMoehKzVFKhDJ",
-   0.073,
-   8.8,
+   0.086,
+   9.8,
    ""
   ],
   [
    "Dill",
    "JUWHVUPdfkqpDN5vm4d5zRCiXicrJEv1jJfvGVdpump",
    0.057,
-   2.1,
+   3.1,
    ""
   ],
   [
    "DRAKKAN",
    "CY52udK7XooR14JaDoajdy4QWkx9hicH9ZpPxAF7pump",
-   0.052,
-   4.5,
+   0.054,
+   5.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "SCAM",
-   "HpdTQQ8bJzZ992ErUo8TfkWX5uAZ6mSpPhoqsVsipump",
-   0.046,
-   9.2,
-   ""
-  ],
-  [
-   "BIO",
-   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
-   0.045,
-   5.7,
-   ""
   ],
   [
    "BIO",
    "ArisyS7rZxdAoYekbG2nB9PM9jrEtr1p5xaWBabHpump",
    0.045,
-   4.8,
+   5.8,
+   ""
+  ],
+  [
+   "BIO",
+   "65ov5wP2SCsh69uXXh343q7oT5u23fSEL9yBQjCSpump",
+   0.029,
+   6.6,
+   ""
+  ],
+  [
+   "DEGEN",
+   "4Dr8dF9xXKRChmMeZQxUjWGVPazGgCqDwo4C6dabpump",
+   0.028,
+   2.1,
    ""
   ]
  ]
