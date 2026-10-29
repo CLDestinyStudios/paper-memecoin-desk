@@ -13,10 +13,10 @@
    "entry_px": 9.838368955375396e-08,
    "entry_fill": 1.0685672097540687e-07,
    "opened": 1793273363.5286238,
-   "last_px": 1.9530944929636606e-07,
+   "last_px": 1.8737870017315907e-07,
    "peak_px": 1.9530944929636606e-07,
-   "last_val": 1.4747240894104923,
-   "last_prog": 0.841,
+   "last_val": 1.4122904337296192,
+   "last_prog": 0.83,
    "tp1_done": true,
    "realized": 0.5536022515158651
   }
@@ -5262,82 +5262,86 @@
   [
    "2026-10-29T04:39:21",
    59.86
+  ],
+  [
+   "2026-10-29T04:40:21",
+   59.8
   ]
  ],
- "cycles": 1566,
+ "cycles": 1567,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.3469072565,
- "watching": 169,
+ "sol_usd": 100.31,
+ "watching": 159,
  "near": [
   [
-   "BREZHNEV",
-   "2R6KWoFdc2fpHx1eXeDKrxVApAGCeFgDwtm1gkwWpump",
-   0.065,
-   2.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "FENRO",
+   "BTRrsdpUqVrKF85MDSDaX2zC3HzhqEPsBsCLWfypump",
+   0.282,
+   2.5,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "\uac15\ub3c4\ub9ac",
+   "8PAKFK3r4ucon1sUACt5223r8TtEsvjrHKo9p6dgpump",
+   0.105,
+   2.7,
+   ""
+  ],
+  [
+   "Multicat",
+   "8xpsCW8oRseHcNxfwLxGjKnzemJtD9nEFehcfwHxpump",
+   0.077,
+   2.3,
+   "buyers=7; top5_hold_most=97%"
   ],
   [
    "Inflation",
    "6dmynXaVHqqsHhXPVPTvb1UrisuUfG2kgC659cuepump",
    0.064,
-   5.4,
+   6.4,
    ""
   ],
   [
    "RUL",
    "4gx7cVnD3nn8YCcEaovNcFR7NLhojywGVo1KUZ2Lpump",
    0.043,
-   7.2,
+   8.2,
+   ""
+  ],
+  [
+   "SPOOKY",
+   "GpdfuPqFWfQNZUZAry3D8PedfteVDSZ6u1GDveKbpump",
+   0.023,
+   2.1,
    ""
   ],
   [
    "LARP",
    "3G5FrUsdNFHpY8n4GE98rPHBxFEY2JW4BPJ43PqCpump",
    0.022,
-   5.5,
+   6.5,
    ""
   ],
   [
    "Tucker",
    "2nE2e6iXGDVBk8dBbMuZPtApoDLCbGgz57SFKBtbpump",
    0.022,
-   4.8,
-   ""
-  ],
-  [
-   "\u30ca\u30ba\u304f\u3093",
-   "BNmFn423t6ziZjtXwsUf2Li5P8ri3mR1F73rjxyJpump",
-   0.022,
-   9.7,
+   5.8,
    ""
   ],
   [
    "GTA67",
    "9bwwEt8Y78zPWXbXhMBExMR9eobj1mYGQnZqdDgspump",
    0.016,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "S",
-   "4JmtcxUznbUGHjsyj4p134FeWvenUGVKFL4ckfcEpump",
-   0.013,
-   7.5,
+   "LMAO",
+   "BANpeyguC3GXEj25szJk7P16KdCzLCgEysHMsrscpump",
+   0.015,
+   2.3,
    ""
-  ],
-  [
-   "FLINT",
-   "8j8QMCMQBBq6JwkJynWWrxYBP6SGME8seM1J4NAdpump",
-   0.011,
-   7.5,
-   ""
-  ],
-  [
-   "MLAUNC",
-   "45XF2dTN5YsptsahLtqrQHwH4ErduLSJkJznJh1qpump",
-   0.01,
-   5.5,
-   "buyers=8; top5_hold_most=97%"
   ]
  ]
 }
