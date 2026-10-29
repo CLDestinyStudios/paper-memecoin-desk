@@ -6400,81 +6400,85 @@
   [
    "2026-10-29T12:15:55",
    32.58
+  ],
+  [
+   "2026-10-29T12:16:54",
+   32.58
   ]
  ],
- "cycles": 2022,
+ "cycles": 2023,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.22999999999999,
- "watching": 243,
+ "sol_usd": 100.42616814600001,
+ "watching": 242,
  "near": [
   [
-   "CROWD",
-   "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
+   "Hyperjak",
+   "22joeTJq1puubi5Ugkw9c4gDfwMkWkADQdeEPdyKpump",
    1.0,
-   9.1,
+   2.7,
    "graduated"
   ],
   [
    "Rise",
    "ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump",
-   0.588,
-   4.0,
+   0.618,
+   5.0,
    ""
   ],
   [
-   "Mali",
-   "3SBWHridtVpsWXMT25kpLvgrS7VSjk7XEuHXLoLmWYC3",
-   0.299,
-   9.8,
-   ""
-  ],
-  [
-   "HYPERPEPE",
-   "EZFda58w3y2oWgh1v1YnQ9PUz7zjsdUw6YtN69MLpump",
-   0.094,
+   "BOB",
+   "Bqj2dj39Y1iczuweaCKUNuPsVC42ERJkHWf8YtzTpump",
+   0.204,
    2.8,
-   "buyers=5; top5_hold_most=100%"
+   "top5_hold_most=85%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "POLYPAD",
+   "6Sm6pjfjxdMJN6xp9a8eh2x6GVtmrKCHrSzcpYFLpump",
+   0.191,
+   2.5,
+   "top5_hold_most=87%"
+  ],
+  [
+   "BOX",
+   "DwRuPn1m6cozCpRZDSMhFJNtZNQnAKWqkmJiHrzwpump",
+   0.106,
+   2.4,
+   "buyers=6; top5_hold_most=97%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "EEN",
+   "5YgDK5iSKPpQEK92v6Goqjc35fEeW6vDWsSyvkpjpump",
+   0.086,
+   2.9,
+   ""
   ],
   [
    "SI",
    "HRFiuhw5gkyGV2z4H29Q9M4o5m1zwqXCf41g1z6opump",
    0.084,
-   8.0,
+   8.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Verse",
    "AA2SN88MPhMk1pUv2SJrm3yDDpNv86qzRUXH5vphpump",
    0.056,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "SQUADWAGER",
+   "3sKbyST7TB6HyFs7UWww9pqTBFCNqKpqmHmAt6hcpump",
+   0.043,
+   2.7,
    ""
   ],
   [
    "SQUADWAGER",
    "84R6bX7M6oMEUQQPi69FiTr2AYhQYwTmkv6UaHJRpump",
    0.042,
-   2.4,
-   ""
-  ],
-  [
-   "REKT",
-   "34Q8BgSU2VdYSmZCk84aGaMDbuNJq96ey7uiJA3ypump",
-   0.039,
-   6.9,
-   ""
-  ],
-  [
-   "elon.x",
-   "A7rWWckFqzE8RVJt2KyfsBHGALurnHqh2GKMakydpump",
-   0.035,
    3.4,
-   ""
-  ],
-  [
-   "Sol",
-   "QBs2BkCnkQhDtnYnAm1JWkH1GSWisStt35SknDFpump",
-   0.017,
-   4.2,
    ""
   ]
  ]
