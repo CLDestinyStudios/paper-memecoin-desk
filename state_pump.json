@@ -6438,84 +6438,84 @@
    32.58
   ],
   [
-   "2026-10-29T13:40:07",
+   "2026-10-29T13:41:08",
    32.58
   ]
  ],
- "cycles": 2106,
+ "cycles": 2107,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.3276337947,
- "watching": 346,
+ "sol_usd": 98.09647657980001,
+ "watching": 343,
  "near": [
   [
    "UNSAFU",
    "2wqFMU5pgKe1uiQKtqHBXM1dAVmhpNbTcw2ZcDmfpump",
-   0.807,
-   3.0,
+   0.751,
+   4.0,
+   ""
+  ],
+  [
+   "RIVAL",
+   "2Yn5A16bCBJnRk97BnchAveW72YwY9KpN6MiPjQDiTt8",
+   0.683,
+   2.7,
    ""
   ],
   [
    "Surgeon",
    "5VWd2CTKSnvzyZkLKmaJsuB9rX2ZR1haePgzDKXcpump",
-   0.518,
-   7.1,
-   ""
-  ],
-  [
-   "NOCTO",
-   "2WpzJcqjhxyNuXF5Pb5z1N6q5t3tEpZTteX1METuEVkC",
-   0.331,
-   6.2,
+   0.64,
+   8.1,
    ""
   ],
   [
    "Unsafu",
-   "GcPRpq23wyvtDxzxeA1hfFQN7G3FA5KqK2rU5zqcpump",
-   0.316,
-   3.9,
+   "3DpbiYnGo7cPzeU9QaUkd4NH1JEiipF4Tuntgbc7pump",
+   0.548,
+   2.5,
    ""
   ],
   [
-   "UNSAFU",
-   "5bwZLaJbLz7RF21nxPjuUqrRZqBTuUcf1X69E8mPpump",
-   0.235,
-   2.7,
-   "buyers=3; top5_hold_most=100%"
+   "BNB",
+   "A84HuWKLPWVNKLLvUxG1SE8bKRUXAzcX7caLEfSCNqnW",
+   0.366,
+   2.5,
+   "serial_creator=13 launches/24h"
   ],
   [
-   "4",
-   "5biVGnUKQf3eiPByD5vDAgH48rZvnSRQFw3oAYqJpump",
-   0.235,
-   3.1,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "DK",
-   "3em12Qpg4SaY5Yqj1vixpeVusrRboJCk2sKStUxspump",
-   0.197,
+   "NOCTO",
+   "2WpzJcqjhxyNuXF5Pb5z1N6q5t3tEpZTteX1METuEVkC",
+   0.33,
    7.2,
-   "buyers=9; top5_hold_most=81%"
+   ""
   ],
   [
-   "AlArab",
-   "5nneAWLVDnHHvnDQvEEdnVQKDf1CKdo8b8f9ht2jpump",
-   0.167,
-   5.3,
-   "top5_hold_most=84%"
+   "Pepe",
+   "FowZxtCnEPuW5cdRXfi5Ww6dnVgkm56v8Mz4ih3Qpump",
+   0.32,
+   2.7,
+   "creator=22.3%; top5_hold_most=98%"
   ],
   [
-   "HP",
-   "DEgJZDpWfaDjwVXHr8kiGeHs6C7hnH2YAwfkqAZ2pump",
-   0.162,
-   8.1,
-   "buyers=3; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
+   "ABC",
+   "683j5beHNZKbfVrrzqi5Za1xCKhz91RGvhE3HFbiwa1K",
+   0.312,
+   3.1,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
-   "$TRENCHMAS",
-   "HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump",
-   0.143,
-   9.9,
-   "buyers=4; top5_hold_most=100%"
+   "Unsafu",
+   "GcPRpq23wyvtDxzxeA1hfFQN7G3FA5KqK2rU5zqcpump",
+   0.304,
+   4.9,
+   ""
+  ],
+  [
+   "HypeBike",
+   "CZNhF5Q9U3HebNRVyfPv7do7v1NHFpZgAwUjm65Mpump",
+   0.258,
+   2.5,
+   "serial_creator=10 launches/24h"
   ]
  ]
 }
