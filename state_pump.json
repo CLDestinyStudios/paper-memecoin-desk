@@ -4334,83 +4334,83 @@
    82.63
   ],
   [
-   "2026-10-28T23:10:07",
+   "2026-10-28T23:11:05",
    82.63
   ]
  ],
- "cycles": 1237,
+ "cycles": 1238,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.1509,
- "watching": 187,
+ "sol_usd": 100.10699245349998,
+ "watching": 192,
  "near": [
   [
    "STEVE",
    "FMzQfjhqGnMTB56Z6ie9Muz2BzSKbGUwB2wwS4Dqex4C",
-   0.75,
-   3.3,
+   0.961,
+   4.3,
    ""
   ],
   [
-   "STEVE",
-   "AaeNFmHBfZUMSeF5k5morV1L97e3f98Sd7m5f21Jpump",
-   0.134,
-   2.9,
-   "buyers=2; top5_hold_most=100%"
+   "Steve",
+   "53T5eUZqFJf6dpTwGSXQqUAfA2Cf1H1EmMYvPPCZpump",
+   0.361,
+   2.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "STEVE",
-   "3ccmrshAFFNJhXRGDc8Fs64ZPBnt1MJtBmRSnnSTpump",
-   0.121,
-   3.2,
+   "BUXsDog7Ci2aXhHnRbW81WDmAmLjD8zeWRBA5z1Lpump",
+   0.288,
+   2.1,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "STEVE",
+   "2qRwR3Rp14XwGmxNmkurigd5dNceB6fNk6k7qtjApump",
+   0.141,
+   2.6,
    ""
   ],
   [
    "STEVE",
    "C61zMGR1awYCzpWuxtMn1VX9SVZK6oz7HKLZJrdciMTA",
-   0.079,
-   2.6,
+   0.124,
+   3.6,
    ""
   ],
   [
-   "BIO/ACC",
-   "ACPUGXGn4jZggo16nRSJyv3Fw9xcN9X5oAhoykCwpump",
-   0.078,
-   2.4,
-   "buyers=3; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "Steve",
+   "339a8BceC5T3agAni3aSS784srYpyyCqC6mDmJiPpump",
+   0.114,
+   2.3,
+   ""
+  ],
+  [
+   "STEVE",
+   "4h8qbDEfdtBZffnaG2j18aAXJW48m6pSaQbLzVHYpump",
+   0.083,
+   2.8,
+   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "STEVE",
    "9YZi6cS2NVGRu9fg9D3DnCxnV18tj7qLmGBtFsiFpump",
    0.072,
-   2.4,
+   3.4,
    ""
   ],
   [
    "STEVE",
-   "Az6r1ugoxdZvbBNWnhpyG8SnMFUH9VdKH3Dt3cjDpump",
+   "FP3DWqAfwnM73csG7x1AWvLSRdXVbwgEkAGu8KcNpump",
+   0.071,
+   2.6,
+   ""
+  ],
+  [
+   "STEVE",
+   "ydfMrrN4cEFWf95yxt7ZrViCsaFxgtgBhH23pwzQYNt",
    0.064,
-   3.0,
-   ""
-  ],
-  [
-   "SIA",
-   "7HRgqgQ1tAvv52fViL47K94CymwyuaZzdHNy52Ebpump",
-   0.061,
-   3.8,
-   ""
-  ],
-  [
-   "SIA",
-   "GfhQUX2KV1WasPUS7gCsyPjENWoBcKabpD2STG4Kpump",
-   0.06,
-   4.1,
-   ""
-  ],
-  [
-   "SIA",
-   "8yqA1FdxdBxTSuMUt5tG2nv1PsBHWBVL5tkzwVXQpump",
-   0.058,
-   4.1,
+   2.3,
    ""
   ]
  ]
