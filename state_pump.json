@@ -6396,82 +6396,86 @@
   [
    "2026-10-29T12:06:54",
    32.58
+  ],
+  [
+   "2026-10-29T12:07:59",
+   32.58
   ]
  ],
- "cycles": 2013,
+ "cycles": 2014,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.330844449,
- "watching": 276,
+ "sol_usd": 100.303864261,
+ "watching": 263,
  "near": [
   [
    "Doink",
    "LfZjr2CYtu4vqpGAeKa9zDBLQe7jc71RJCn29kBpump",
-   0.919,
-   2.9,
+   0.946,
+   4.0,
    ""
   ],
   [
-   "ELONMOON",
-   "6aW8rHPHqmJ34fpszEiFNKa7JNmEyNsCgje2XrDgpump",
-   0.345,
-   2.3,
+   "SI",
+   "Fdhz9a6f4aFVhHPp5kKiNjAvazneUCbym24A4QNnpump",
+   0.391,
+   2.2,
+   ""
+  ],
+  [
+   "LilyAI",
+   "Gnot4o684E6aWwgrdRsQmF8kDWvpAJSbQqwBQKKdpump",
+   0.361,
+   2.5,
    ""
   ],
   [
    "MIAOU",
    "69ghKejsXjiVZYNMDxvdtw9TW26hZoKZoYPwtWU2RxdQ",
-   0.309,
-   4.6,
-   "buyers=2; creator=22.0%; top5_hold_most=100%"
+   0.36,
+   5.7,
+   "buyers=3; creator=22.0%; top5_hold_most=100%"
   ],
   [
-   "ABDUL",
-   "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
-   0.122,
-   3.9,
-   "top5_hold_most=100%"
-  ],
-  [
-   "LLM",
-   "sAUJyF4EeoGMXPz6yL4bpypxNUZnyn5EBECH3peQ67M",
-   0.117,
-   2.2,
+   "ELONMOON",
+   "6aW8rHPHqmJ34fpszEiFNKa7JNmEyNsCgje2XrDgpump",
+   0.292,
+   3.4,
    ""
   ],
   [
-   "Repair",
-   "8SHX8aUba5X4qiGC487dcSdXd7tqkUgTKzRR4PVipump",
-   0.08,
-   8.5,
+   "RUGGO ",
+   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
+   0.149,
+   5.4,
+   ""
+  ],
+  [
+   "SI",
+   "BUQaen7BL7BpByMXYP1Hws6FuDcUqcmzxWzfjFcpump",
+   0.147,
+   2.9,
    ""
   ],
   [
    "ZD",
    "12CCWDkA9TztYqtYQQu2rsfGFzW1aCnabq44GnJYpump",
-   0.07,
-   7.1,
+   0.125,
+   8.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "RUGGO ",
-   "Hobs1PwZ77EmYGsb6WJvKebkK2YR5GRH6Yrk32r3pump",
-   0.065,
-   4.3,
+   "Repair",
+   "8SHX8aUba5X4qiGC487dcSdXd7tqkUgTKzRR4PVipump",
+   0.124,
+   9.5,
    ""
   ],
   [
-   "HATCH",
-   "HEpvUfLuXGxMd7mWH8hs7JrqJGe6S9hJCZZQpvxipump",
-   0.043,
-   8.8,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "LilyAI",
-   "9M4gJyFXnxzHF6zph39gP5GpaXN45xRygSpTH6uJ6c3a",
-   0.043,
-   2.1,
-   ""
+   "ABDUL",
+   "2sy6q8BuoScRQ7FqWwPKYFoT5zEDz5YkqQoMu1yWpump",
+   0.122,
+   5.0,
+   "top5_hold_most=100%"
   ]
  ]
 }
