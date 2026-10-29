@@ -6458,84 +6458,84 @@
    32.58
   ],
   [
-   "2026-10-29T14:30:06",
+   "2026-10-29T14:31:02",
    32.58
   ]
  ],
- "cycles": 2156,
+ "cycles": 2157,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.29230984279998,
- "watching": 397,
+ "sol_usd": 97.47,
+ "watching": 387,
  "near": [
   [
    "HASH",
    "AidGuStzEAzh9GxpSMvguz4egFhRNP67ZX3fy8vrpump",
-   0.514,
-   4.0,
+   0.487,
+   4.9,
    ""
   ],
   [
    "SCAM",
    "Ah5HXGPVi4H1hWFNQgxz4vJtuNVGZVzBbtbsCdHppump",
-   0.485,
-   6.8,
-   "buyers=5; creator=30.1%; top5_hold_most=100%"
-  ],
-  [
-   "Trunoest",
-   "DQQQ6epoDu8YMZezTj3aEa5JJEkGT3v67qHv2LEApump",
-   0.273,
-   9.0,
-   ""
+   0.484,
+   7.8,
+   "buyers=5; creator=29.9%; top5_hold_most=100%"
   ],
   [
    "commotitty",
    "9GEEthkyuuESdsmXTqbKpCvwyPaWNotQVYEmrhdFpump",
-   0.27,
-   7.4,
+   0.257,
+   8.3,
    ""
+  ],
+  [
+   "Trunoest",
+   "DQQQ6epoDu8YMZezTj3aEa5JJEkGT3v67qHv2LEApump",
+   0.245,
+   9.9,
+   "top5_hold_most=93%"
   ],
   [
    "CRL",
    "3TENsrRkyA96MYPrvwT5irx2E1mqfypzkh6H556kpump",
-   0.261,
-   3.8,
-   ""
-  ],
-  [
-   "KSLAY",
-   "DF88Kav9LYXuHHs5bHJejKamBWNNwKPe9pjZAKdkpump",
-   0.209,
-   4.1,
-   ""
-  ],
-  [
-   "CI",
-   "ATxt8A4EhkXyn2vYWYNttbkY14nK4oomSm2H1LjKpump",
-   0.115,
-   9.0,
+   0.201,
+   4.7,
    ""
   ],
   [
    "BOTTOM",
    "5ixzNp3xhH8RZ8aCSLrkJp34yparohTGH2RkypCC3ont",
-   0.108,
-   4.2,
+   0.138,
+   5.1,
+   ""
+  ],
+  [
+   "CI",
+   "ATxt8A4EhkXyn2vYWYNttbkY14nK4oomSm2H1LjKpump",
+   0.113,
+   9.9,
    ""
   ],
   [
    "LEDGER",
    "EBXt38MB9EiLLrJhYkNm1GfpFVaZokPhYK5Xwphepump",
    0.084,
-   4.1,
+   5.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
+   "BI",
+   "Fhf5hSfETP6RyYH88vjYCfNQqiE33SipQKUb8QUvpump",
+   0.084,
+   2.1,
+   ""
+  ],
+  [
    "CumBal",
-   "Gya1L5VsWdjFKYQRE2upCx33XwmJuT4nXgi2MdzRpump",
-   0.08,
-   3.0,
-   "buyers=7; top5_hold_most=100%"
+   "49xLcNoQf8CpsAH67baHCHTv1w9Fj3FRULNecLmaJ6Wv",
+   0.071,
+   4.2,
+   ""
   ]
  ]
 }
