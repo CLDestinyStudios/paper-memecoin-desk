@@ -6390,84 +6390,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:50:54",
+   "2026-10-29T11:51:57",
    32.58
   ]
  ],
- "cycles": 1997,
+ "cycles": 1998,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.44904197449999,
- "watching": 255,
+ "sol_usd": 100.5389640395,
+ "watching": 282,
  "near": [
   [
    "SA",
    "3PsVQfRUCX9fWSPxmLNhu39P8ZP2A2DytxtsKr6opump",
-   0.925,
-   7.3,
+   0.963,
+   8.3,
+   ""
+  ],
+  [
+   "Pillow",
+   "7c7VbfrjZuGPJDU7fE6WCbYp7WibPzfxY54cEP6mi4DT",
+   0.493,
+   2.5,
    ""
   ],
   [
    "Doink",
    "CnXfNyjksXHpPkBb2bJZFXR9So7rWWjsysEi5e3Jpump",
-   0.49,
-   4.7,
+   0.409,
+   5.7,
    ""
   ],
   [
    "Percy",
    "5RycDAPULwQNBXUQvWPu6vPbjr7cdiSb4Gv63Tsepump",
-   0.345,
-   7.9,
-   "creator=24.5%; top5_hold_most=99%"
+   0.351,
+   9.0,
+   "creator=24.5%; top5_hold_most=98%"
   ],
   [
    "BENJO",
    "GFv3UPyxex1wQiUiTWK7bYdR7dpWGqpcFqbDPnwQpump",
-   0.331,
-   4.3,
-   "top5_hold_most=84%"
+   0.328,
+   5.3,
+   "top5_hold_most=85%"
   ],
   [
    "DUNEUSSY",
    "3dt66pVTd2oJdKGUpFcLGcfr6RuHFjdjJujTMH2Jpump",
-   0.291,
-   5.0,
+   0.285,
+   6.0,
    ""
+  ],
+  [
+   "Puri",
+   "9w5kM7d9NGNZE3vQV57Eaxr8U4QKBNwmGSx6gNS8pump",
+   0.254,
+   2.3,
+   "top5_hold_most=83%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Jonston",
    "HtVdWNr9B8nTWYYkjGAANYhMkaXit9s6o7EmeB4vpump",
    0.24,
-   5.1,
+   6.2,
    "top5_hold_most=86%"
+  ],
+  [
+   "POORGOAT",
+   "HGXrEjdSAEofw1zUu5aTmuFQqVnvxExecoGyTmsyeiFC",
+   0.19,
+   3.5,
+   ""
   ],
   [
    "DUNEUSSY",
    "Hop66h8zr5y9b7oC2CRRUkxPhrx1u4UGzkA6D4Mgpump",
    0.121,
-   4.4,
+   5.5,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "STAN",
-   "WUbKV1KrtHCw5D6a6FEiJxfd5eQz6iD1smrgY4Epump",
-   0.121,
-   4.5,
-   ""
-  ],
-  [
-   "Aiden",
-   "BPEZxKwYbtRnCwu6PCA5M4UCTgULD4KkdUMqjzV7x1JL",
-   0.084,
-   2.0,
-   ""
-  ],
-  [
-   "Biberty",
-   "LntWLknKUyzCcBkhHDsVnCsc7p5UogVtUdYgxcqapqB",
-   0.073,
-   2.2,
-   ""
   ]
  ]
 }
