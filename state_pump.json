@@ -6476,81 +6476,85 @@
   [
    "2026-10-29T15:13:07",
    32.58
+  ],
+  [
+   "2026-10-29T15:14:16",
+   32.58
   ]
  ],
- "cycles": 2199,
+ "cycles": 2200,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.56,
- "watching": 271,
+ "sol_usd": 97.31,
+ "watching": 269,
  "near": [
-  [
-   "SPREAD",
-   "5fm7jQuAW4wV5ZyvTjtyD2jRHyazTLw5HAMp13ocpump",
-   0.508,
-   3.4,
-   ""
-  ],
   [
    "SAFU",
    "2PyGfzGVPC1PpUx7sexxGDNtSuABMpwJuKodG4LjWNjL",
-   0.455,
-   6.1,
-   ""
+   0.574,
+   7.3,
+   "launch_slot=missing"
   ],
   [
    "FEELSBAD",
    "EUiyU19WJq1Q3XXb7B9GR9fWcNFoDJD5AiyTWTz2pump",
-   0.397,
-   2.3,
+   0.348,
+   3.5,
    ""
   ],
   [
-   "ONEROAD",
-   "FiSsnXfZ3wvjzn8nAGw6jJCZNcY7HEsZfxyaSgg74rn8",
-   0.193,
-   5.6,
+   "SPREAD",
+   "5fm7jQuAW4wV5ZyvTjtyD2jRHyazTLw5HAMp13ocpump",
+   0.294,
+   4.6,
    ""
   ],
   [
    "October",
    "2Cp9wsuj4bzyfRiybY9TrRdGTuZHPH4csHiPPXWPpump",
-   0.172,
-   4.0,
+   0.2,
+   5.1,
    ""
   ],
   [
-   "UP",
-   "AjqcVn5Tf6v8wSDXUDErBQT6Ak8ZRqr2S67ZT8FN5PCP",
-   0.12,
-   8.7,
+   "ONEROAD",
+   "FiSsnXfZ3wvjzn8nAGw6jJCZNcY7HEsZfxyaSgg74rn8",
+   0.187,
+   6.7,
    ""
   ],
   [
-   "crime",
-   "BbPo7CgkvAj76aRMLbX9LSnFf1xPTsi3JcY4GwiXpump",
-   0.12,
-   2.5,
-   "buyers=6; top5_hold_most=100%"
+   "SCREAM",
+   "3Sqt5Arw4ZngdLGcdEsYTFKRL91arBDKBVyAuZWqpump",
+   0.123,
+   3.0,
+   ""
   ],
   [
    "UP",
    "878e7NxSMp4bAQ6LMayXvEnTfbd4GQ2DduPJKDippump",
    0.112,
-   3.2,
+   4.4,
+   ""
+  ],
+  [
+   "PROFIT",
+   "4s8KTyPksnK719PQrdpiq4abdveTajt77yUKnyQfpump",
+   0.099,
+   2.4,
+   ""
+  ],
+  [
+   "UP",
+   "AjqcVn5Tf6v8wSDXUDErBQT6Ak8ZRqr2S67ZT8FN5PCP",
+   0.096,
+   9.9,
    ""
   ],
   [
    "Buttcheeks",
    "2tXUQwMPg1HU7PfaFWGAfMj6tcBtJusgapPaS3aenqu5",
-   0.088,
-   3.3,
-   ""
-  ],
-  [
-   "just chill",
-   "FenCoCmUhjcAQ69k2XaQSes9eUtqZ2xniDJufdvrpump",
-   0.078,
-   2.8,
+   0.087,
+   4.5,
    ""
   ]
  ]
