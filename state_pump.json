@@ -13,10 +13,10 @@
    "entry_px": 4.199753585286485e-08,
    "entry_fill": 4.52478528958781e-08,
    "opened": 1793256544.5065336,
-   "last_px": 6.328589386910452e-08,
-   "peak_px": 7.227560828397198e-08,
-   "last_val": 1.5824160975996038,
-   "last_prog": 0.454,
+   "last_px": 1.0041520342578907e-07,
+   "peak_px": 1.0041520342578907e-07,
+   "last_val": 2.5403147717902645,
+   "last_prog": 0.639,
    "tp1_done": true,
    "realized": 0.5840184320710229
   },
@@ -31,7 +31,7 @@
    "opened": 1793256727.2341022,
    "last_px": 3.650422487239368e-08,
    "peak_px": 3.696857645555942e-08,
-   "last_val": 2.0782075671084197,
+   "last_val": 2.078574047895801,
    "last_prog": 0.169
   }
  },
@@ -4430,81 +4430,85 @@
   [
    "2026-10-28T23:55:06",
    82.41
+  ],
+  [
+   "2026-10-28T23:56:06",
+   83.37
   ]
  ],
- "cycles": 1282,
+ "cycles": 1283,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.94024279119999,
- "watching": 183,
+ "sol_usd": 99.9578667184,
+ "watching": 174,
  "near": [
-  [
-   "KIRK",
-   "62JAWjHNZx4fV6jpySWpXfdvmcDJKgpHKyrzFuPppump",
-   0.608,
-   2.6,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "SNACKS",
-   "11mZkcqStGriDxtpB7NV4AYoPCR5vaTSSCfrL9xAVtU",
-   0.453,
-   3.0,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "LEMON",
    "CzXdCNrvAHvfXNXoatAT1EBRhjaU1ZAWkaryc5X9pump",
-   0.257,
-   3.1,
-   "top5_hold_most=83%"
+   0.245,
+   4.1,
+   "top5_hold_most=85%"
+  ],
+  [
+   "mic",
+   "FtCZzTi7Qd6UxJwQhtFccGLuH4JPMmxUU3jxmoMWpump",
+   0.231,
+   2.6,
+   "serial_creator=12 launches/24h"
   ],
   [
    "TRUMP",
    "FY5PQU39xcbDw7oXnXpyCMZStj9bBoJbUqiiKPWapmsh",
    0.198,
-   4.6,
+   5.6,
    ""
   ],
   [
    "URANUS",
    "6MkuENCLoD7sGu6HRQimNQpx19W67kC94uFRwLbJpump",
-   0.16,
-   2.2,
-   "top5_hold_most=83%"
+   0.174,
+   3.2,
+   "top5_hold_most=84%"
   ],
   [
-   "Zeronym",
-   "4SQVX3KwF7eaNw3XG9Nrv89LVw43BVquUvr32w2qpump",
-   0.082,
-   2.7,
+   "pomp",
+   "A7N7p5p17woEmmtu5kDYFCvmfFBZP7a7ZS645h1npump",
+   0.086,
+   2.5,
+   ""
+  ],
+  [
+   "SOUND",
+   "CNKvYUdzhbPMYjztDyoyZNVPfR1sULtZV4vx9usWpump",
+   0.076,
+   2.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Glider",
-   "DBF2T326i6gnRoPWfNVbEpGYtNF2XeZwC5FbUX9Apump",
-   0.064,
-   2.6,
+   "LARP",
+   "543kiJPjQDHk4KgGHSF1xsHcUA56rgKisMHnrczWpump",
+   0.067,
+   8.9,
+   ""
+  ],
+  [
+   "MAYE",
+   "H3ay8Ctr9nVvSnXog66w3ciiAANq2SKh2GRSuDWApump",
+   0.049,
+   2.2,
    ""
   ],
   [
    "fridge",
    "2fSmzXB8WhKEsAZnS2YUXyBwsnDnuv3yfG9eePTbpump",
    0.039,
-   8.0,
+   9.0,
    ""
   ],
   [
    "YMB",
    "CjNvbEXdaevZYH9XD5LyFQyh67u6uPimS9y2TtzLpump",
    0.026,
-   3.0,
-   ""
-  ],
-  [
-   "Elonu",
-   "Fy3ZduLPqfpuLbtTGPmUev3PCb3W5CphSdo51HDPpump",
-   0.025,
-   3.8,
+   4.0,
    ""
   ]
  ]
