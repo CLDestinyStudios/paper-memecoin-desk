@@ -13,10 +13,10 @@
    "entry_px": 5.111847800799861e-08,
    "entry_fill": 5.5463026641310846e-08,
    "opened": 1793271202.7240314,
-   "last_px": 6.02329749515629e-08,
+   "last_px": 5.996611397049551e-08,
    "peak_px": 6.02329749515629e-08,
-   "last_val": 1.837837437914784,
-   "last_prog": 0.431
+   "last_val": 1.8298045274883046,
+   "last_prog": 0.429
   }
  },
  "traded": [
@@ -5134,81 +5134,85 @@
   [
    "2026-10-29T03:58:21",
    61.39
+  ],
+  [
+   "2026-10-29T03:59:22",
+   61.38
   ]
  ],
- "cycles": 1525,
+ "cycles": 1526,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.38000000000001,
- "watching": 154,
+ "sol_usd": 100.39811083499998,
+ "watching": 149,
  "near": [
   [
    "Purrrps",
    "82Pi34RzXHrD2LqMppRa3rCw8RdX3ABQ1YmaeYfppump",
    0.255,
-   5.7,
+   6.8,
    "buyers=9"
   ],
   [
    "XTO",
    "BPcZ8VvspRBxyLAGSiVA6tPghLKKa2yisEfjMpcjpump",
    0.206,
-   8.1,
+   9.2,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "Caillie",
-   "HDQw9ejtNfcuNPuyXjEFaVt2w4FoatBP75jmX7vmpump",
-   0.107,
-   3.2,
+   "CLM",
+   "56dCrRWJ1gNMNHDpM854douJLYRHn7BsEHcmVt1Epump",
+   0.124,
+   2.1,
    ""
   ],
   [
    "MEIMEI",
    "598YRYDeUP8gpBbJtkA6GgjDxkxPQc2G1spJvufVpump",
    0.104,
-   5.8,
+   6.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "POCKET",
    "3oVacbk2y2hpDq3QgVQ2CzYZDVpZDh1tLKdAaP1jpump",
    0.079,
-   6.7,
+   7.8,
    "buyers=7; top5_hold_most=98%"
   ],
   [
-   "GENESIS",
-   "4GEWYGfkU6JwVoQ2mncrvTF1F5d1Vgp83YbCgCgfxAvB",
-   0.076,
-   9.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "ETH",
-   "P6YcMF52HPjNyh9JK52dcf8M4xRsy2HPoBCKCkkpump",
-   0.054,
-   5.6,
+   "KIMBAP",
+   "GRUmkawUG9mfrsA5BWrCv4NEbVFhtUhcADZBWM3hpump",
+   0.068,
+   2.5,
    ""
   ],
   [
    "sawyer",
    "6Z5ehVwDM2P1iTqp9gAYKamBr2skLGRf5Qy3d3Jpump",
    0.036,
-   7.4,
+   8.4,
    ""
   ],
   [
-   "$RAGETAT",
-   "6Z1vj4bGDjwfXciJn3YoRkR73y2qJAiuTkVQaupXpump",
+   "Taste",
+   "56gsQAVAfHoHov1Szfd1uCYxxyTfbiGTTpUbwNbmpump",
    0.025,
-   7.0,
+   2.0,
    ""
   ],
   [
    "DOGPOOP",
    "3eXQGWLEbXnVzxqYBs9dZtX1M8PAm1XA11MopSqQpump",
    0.022,
-   3.4,
+   4.4,
+   ""
+  ],
+  [
+   "OTC",
+   "F4nrKKb9pYP16rZYN5d4Z6ksyzuQBLtn4su62pirYRMv",
+   0.022,
+   8.5,
    ""
   ]
  ]
