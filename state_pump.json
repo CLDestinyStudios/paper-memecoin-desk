@@ -13,9 +13,9 @@
    "entry_px": 3.9772915672211174e-08,
    "entry_fill": 4.262953513845855e-08,
    "opened": 1793236687.4634154,
-   "last_px": 5.969221612538378e-08,
+   "last_px": 5.965123613105583e-08,
    "peak_px": 5.969221612538378e-08,
-   "last_val": 2.201640643765112,
+   "last_val": 2.2001696331604275,
    "last_prog": 0.427,
    "tp1_done": true,
    "realized": 0.5013267413787641
@@ -3563,83 +3563,83 @@
    114.32
   ],
   [
-   "2026-10-28T18:22:51",
+   "2026-10-28T18:23:49",
    114.32
   ]
  ],
- "cycles": 950,
+ "cycles": 951,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.44045273000002,
- "watching": 214,
+ "sol_usd": 101.44390482300001,
+ "watching": 220,
  "near": [
   [
    "INTERN",
    "7wDeqqMMj1bSE2jz6iiwBnVGmL5pNqRnqEpCELjMpump",
-   0.983,
-   8.9,
-   ""
+   1.0,
+   9.9,
+   "graduated"
   ],
   [
    "michael",
    "6sXZFqhirrmC3xA8JsJ8of6mfqSpY1hVxqrEzFZipump",
    0.896,
-   2.7,
+   3.7,
    ""
-  ],
-  [
-   "tommie",
-   "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump",
-   0.719,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "POKE",
    "6wPFfv34atqSVALtTsU7PHaZcLE3ELeHPHvkoBAPpump",
-   0.243,
-   4.0,
+   0.245,
+   4.9,
    "top5_hold_most=93%"
   ],
   [
    "PANICPUG",
    "4PJixb45TYU4MuodhaFb2xEpTLCwf71gifWDTuLTpump",
-   0.193,
-   7.5,
-   "buyers=7; creator=15.2%; top5_hold_most=100%"
+   0.194,
+   8.4,
+   "buyers=8; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "FLIP",
    "7zLp4ys3DH4rwXfFxRJmzkNv4puxT4QSimgUMGiupump",
    0.125,
-   4.2,
+   5.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Trenton",
-   "B8esujqXRthd7sUKjtuY7qn7pBmKHhBK1Jsdzkzfpump",
-   0.067,
-   9.7,
+   "TIMMY",
+   "3L2K6ocqhKTvdAvVqbAdf6V12nnEHAS4Ym8EQURFpump",
+   0.089,
+   2.3,
    ""
   ],
   [
    "Milo&Pixie",
    "EJYH9DCT6oRMcxMPmKd4VMd3FNLw2hLn3k7T1Hqxpump",
    0.053,
-   8.5,
+   9.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "YUGE",
    "DMEdmTgUmPHrTBfYrP2CUF4ZYFGQrfzxzdPQsUynpump",
    0.044,
-   4.6,
+   5.6,
+   ""
+  ],
+  [
+   "Walkoor",
+   "781s7EMGQ84DJ2EmkgC7RbSK8dJKC2jX1V4YRhLzpump",
+   0.028,
+   2.8,
    ""
   ],
   [
    "PVE",
    "8iD9QfJifGdWkbqhYwBs8c27JactJUb8NGo3Pidkpump",
    0.025,
-   5.2,
+   6.2,
    ""
   ]
  ]
