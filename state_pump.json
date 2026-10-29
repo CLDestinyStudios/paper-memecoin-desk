@@ -13,10 +13,10 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 8.039584765648119e-08,
+   "last_px": 7.804078342489985e-08,
    "peak_px": 1.0490706483993984e-07,
-   "last_val": 0.8299142893863481,
-   "last_prog": 0.555,
+   "last_val": 0.804173039777935,
+   "last_prog": 0.543,
    "tp1_done": true,
    "realized": 0.23547084605700674
   },
@@ -29,10 +29,10 @@
    "entry_px": 4.6387731609782184e-08,
    "entry_fill": 5.04918529266908e-08,
    "opened": 1793280564.3861618,
-   "last_px": 7.092624793620178e-08,
-   "peak_px": 7.092624793620178e-08,
-   "last_val": 1.0440889409831626,
-   "last_prog": 0.503,
+   "last_px": 7.679150536682998e-08,
+   "peak_px": 7.679150536682998e-08,
+   "last_val": 1.1346143680029865,
+   "last_prog": 0.537,
    "tp1_done": true,
    "realized": 0.21908894098316267
   }
@@ -5644,81 +5644,85 @@
   [
    "2026-10-29T06:36:22",
    54.64
+  ],
+  [
+   "2026-10-29T06:37:25",
+   54.71
   ]
  ],
- "cycles": 1683,
+ "cycles": 1684,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.25553144011442,
- "watching": 197,
+ "sol_usd": 100.26,
+ "watching": 199,
  "near": [
   [
-   "Chloe",
-   "9B5uDwoTPkXXb67vaHiqWmyvWuUEDBMSU6ssZH1Zpump",
+   "SOLCAT",
+   "D5VqgrRmerKNiY8jmHKJkY9QyYD1QNmjqCoy4etspump",
    1.0,
-   2.5,
+   2.2,
    "graduated"
   ],
   [
    "NUVRA",
    "6d71EMwbAKbZZ889oi1HQiaBDgbiPYaU9Uhw8D6mpump",
-   0.311,
-   3.3,
-   "buyers=2; creator=24.5%; top5_hold_most=100%"
+   0.309,
+   4.4,
+   "buyers=1; creator=24.5%; top5_hold_most=100%"
   ],
   [
    "KIM",
    "BubfYQcfdGGCCZWKUqfKvgbTpzANrH6rb6jSWwuYpump",
    0.111,
-   7.7,
+   8.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Andy",
    "C615ADX7EVvEfz3qVbLhmLPnLLEUdbEDgTwfyymnpump",
    0.101,
-   4.4,
+   5.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PUMPOWEEN",
    "3avwrYNbup5s85y6Y5urcwKLiA7RGjDqPXAr2rRppump",
-   0.095,
-   2.5,
+   0.094,
+   3.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PIZZAGATE",
    "9RihvQXyoNmeBVL6brT1TnRtayD4xEa4QzJynDf7pump",
    0.076,
-   6.0,
-   ""
-  ],
-  [
-   "4Chan",
-   "Axz7gsBFRLvtzUfN8WfAfEixR1Nj7UjK54wEaLqCpump",
-   0.067,
-   2.6,
+   7.1,
    ""
   ],
   [
    "HMM",
    "8CihMHgLYxwNBoyebsSdG8T4skzQ2Pt5DUW4C1XVpump",
    0.063,
-   8.1,
+   9.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "SOLCAT",
-   "HqzzuCSKHbAh9dqniNUdiNZqgj4UCqgFmSLQ1dP5pump",
-   0.063,
-   2.6,
+   "HwpxHxvm1AZtwPdEt6E4rgjQqZu8xCDWZzbiwffqhy7q",
+   0.058,
+   2.7,
    ""
   ],
   [
-   "4plebs",
-   "D5VxeU7rdKk1725tVQ5pUtkvg7L647zNB4f5oQT9gdnz",
-   0.062,
-   2.2,
+   "4Chan",
+   "Axz7gsBFRLvtzUfN8WfAfEixR1Nj7UjK54wEaLqCpump",
+   0.055,
+   3.7,
+   ""
+  ],
+  [
+   "HYPE",
+   "HpJXQnK16UcXrdKdVZfkTatTbEThWZRJbAmbxgobpump",
+   0.045,
+   6.0,
    ""
   ]
  ]
