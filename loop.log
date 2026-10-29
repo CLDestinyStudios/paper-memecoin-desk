@@ -1,10 +1,3 @@
-CYCLE STRICT 1201 2026-10-28T21:37:04 | leads 12 (deferred 0) | RISK killed 12 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 0 | equity $526.48 | 1s
-CYCLE LOOSE 1164 2026-10-28T21:37:04 | leads 12 (deferred 0) | RISK killed 11 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/1 | exits 0 (W0/L0) | open 1 | equity $411.61 | 1s
-CYCLE PUMP 1144 2026-10-28T21:37:05 | via pumpfun_api new 14 | watching 181 | 2-10min 66 | 5%-75% curve 5 | deep 3 | rejects {'progress_low': 54, 'progress_high': 1, 'mayhem_mode': 6, 'buy_sell_ratio': 2, 'bundled_launch': 1, 'top5_hold_most': 1, 'buyers': 1} | entries 0 exits 1 (W0/L1) | open 0 | equity $99.53 | http 10 calls, 429s 0 {}, errors 0 | 1s
-CYCLE_SECS 1.3
-loop wall 3s
-=== Wed Oct 28 21:38:04 PDT 2026 [actions] ===
-SCOUT 2026-10-28T21:38:07 | pool 160 unique mints {'ds_profiles': 27, 'ds_boosts_top': 20, 'ds_boosts': 20, 'gt_trending': 19, 'ds_ads': 14, 'ds_search': 44, 'ds_cto': 8, 'gt_new': 37} | due 42 | RugCheck fresh 5 cached 0 | http 24 calls, 429s 0 {} | scout 0.6s
 CYCLE STRICT 1202 2026-10-28T21:38:07 | leads 39 (deferred 0) | RISK killed 38 | ANALYST killed 1 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 0 | equity $526.48 | 3s
 CYCLE LOOSE 1165 2026-10-28T21:38:07 | leads 40 (deferred 0) | RISK killed 39 | ANALYST killed 1 | JUDGE buy/watch/pass 0/0/0 | exits 0 (W0/L0) | open 1 | equity $411.21 | 3s
 CYCLE PUMP 1145 2026-10-28T21:38:05 | via pumpfun_api new 14 | watching 166 | 2-10min 64 | 5%-75% curve 5 | deep 2 | rejects {'progress_low': 53, 'progress_high': 1, 'mayhem_mode': 5, 'buy_sell_ratio': 3, 'buyers': 1, 'top5_hold_most': 1} | entries 0 exits 0 (W0/L0) | open 0 | equity $99.53 | http 7 calls, 429s 0 {}, errors 0 | 1s
@@ -1998,3 +1991,10 @@ CYCLE LOOSE 1449 2026-10-29T02:22:24 | leads 20 (deferred 0) | RISK killed 14 | 
 CYCLE PUMP 1429 2026-10-29T02:22:24 | via pumpfun_api new 8 | watching 172 | 2-10min 81 | 5%-75% curve 6 | deep 6 | rejects {'progress_low': 68, 'mayhem_mode': 7, 'top5_hold_most': 1, 'buyers': 4} | entries 1 exits 0 (W0/L0) | open 2 | equity $68.18 | http 15 calls, 429s 0 {}, errors 0 | 3s
 CYCLE_SECS 4.3
 loop wall 6s
+=== Thu Oct 29 02:23:20 PDT 2026 [actions] ===
+SCOUT 2026-10-29T02:23:23 | pool 152 unique mints {'ds_profiles': 21, 'ds_boosts': 18, 'ds_search': 43, 'ds_cto': 8, 'ds_boosts_top': 19, 'gt_trending': 20, 'ds_ads': 14, 'gt_new': 37} | due 33 | RugCheck fresh 3 cached 2 | http 22 calls, 429s 0 {} | scout 0.6s
+CYCLE STRICT 1487 2026-10-29T02:23:23 | leads 32 (deferred 0) | RISK killed 31 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/1 | exits 0 (W0/L0) | open 0 | equity $526.48 | 2s
+CYCLE LOOSE 1450 2026-10-29T02:23:23 | leads 33 (deferred 0) | RISK killed 30 | ANALYST killed 0 | JUDGE buy/watch/pass 0/0/3 | exits 0 (W0/L0) | open 2 | equity $426.65 | 2s
+CYCLE PUMP 1430 2026-10-29T02:23:22 | via pumpfun_api new 11 | watching 167 | 2-10min 69 | 5%-75% curve 10 | deep 5 | rejects {'progress_low': 55, 'mayhem_mode': 4, 'buy_sell_ratio': 5, 'bundled_launch': 1, 'buyers': 4} | entries 0 exits 0 (W0/L0) | open 2 | equity $68.42 | http 12 calls, 429s 0 {}, errors 0 | 1s
+CYCLE_SECS 2.4
+loop wall 4s
