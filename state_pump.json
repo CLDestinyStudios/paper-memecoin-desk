@@ -6432,81 +6432,85 @@
   [
    "2026-10-29T13:29:00",
    32.58
+  ],
+  [
+   "2026-10-29T13:30:02",
+   32.58
   ]
  ],
- "cycles": 2095,
+ "cycles": 2096,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.23432036910002,
- "watching": 310,
+ "sol_usd": 99.31833669649998,
+ "watching": 324,
  "near": [
   [
    "Affirm",
    "31qeNEvHp3mC4fVkU4uNrZyQzvCEbcUvDGuijATCpump",
-   0.887,
-   2.4,
+   0.942,
+   3.4,
    ""
   ],
   [
    "HYPERDUEL",
    "HSRF3VpaF8WN79BWpuN1wzkMXTo54xuTYBwcje8bi7Ae",
-   0.757,
-   3.1,
-   ""
+   0.58,
+   4.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "PRRPS",
-   "4UMzV6pKT7VuvBSngb5nHb8zCc8jHwzW4e9WCNNTQyob",
-   0.726,
-   9.2,
+   "HYPURR",
+   "3NbHfKzaUVUrAjGMPVCFTDnf9zwxrhWVMqgPJ9btpump",
+   0.269,
+   2.8,
+   "bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "VAGINA",
+   "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
+   0.269,
+   2.2,
    ""
   ],
   [
    "bob",
    "BB56NJc6LvLehxQ3g39zuKDT6T7nPBWzxMhZ3tkQpump",
-   0.18,
-   2.2,
+   0.178,
+   3.2,
    ""
   ],
   [
-   "SHITCOIN",
-   "9atUL37TSZ8E6VpeaP8JVsVVgjjuFPkT3LBDTkVtpump",
-   0.092,
-   3.3,
+   "OZVAG",
+   "GufdFANSzb6fpcmRvLsjpxHNovz9P2ak6Nr4DpPSpump",
+   0.094,
+   2.1,
+   ""
+  ],
+  [
+   "VAGINA",
+   "5bF5ZJXzVpwoFsLCHrbf5k9aRFNrb2hikr9QXgc8pump",
+   0.087,
+   2.3,
+   ""
+  ],
+  [
+   "Vagina",
+   "8tC7QmVXdJ5nGtK9ZhXUphGYEVc4Wibq3V6aQU7Qpump",
+   0.084,
+   2.1,
    ""
   ],
   [
    "USDC",
    "EycGADPzEom2ZRdNVADuhqgpoGkQFoGpDxz2v6ohpump",
    0.082,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "bob",
-   "GApgU8ZUn9SkRzVpSgK25E3h3qtxDSeEMvSupkBNaM4z",
+   "vagina",
+   "D6nQcXHwevXjyBitebemVBrJft4oSvNJbMnFGh2pbks4",
    0.071,
-   2.8,
-   ""
-  ],
-  [
-   "hypinu",
-   "GBNnhvv7rDhvbzxN2prWMioCjhjjrFxHerhEEjZQpump",
-   0.037,
-   7.9,
-   "top5_hold_most=99%"
-  ],
-  [
-   "NIBBLES",
-   "2YCTSsEArG3aq4hXVH7fvSpXL5Znr2t4Vz5qDwTDpump",
-   0.033,
-   9.0,
-   ""
-  ],
-  [
-   "INU",
-   "C1gwHkrLW8cF6UMzZJ1yo3epdckZqc9Jm7tFsREtWPco",
-   0.025,
-   2.7,
+   2.4,
    ""
   ]
  ]
