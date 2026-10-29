@@ -6472,82 +6472,86 @@
   [
    "2026-10-29T15:03:10",
    32.58
+  ],
+  [
+   "2026-10-29T15:04:10",
+   32.58
   ]
  ],
- "cycles": 2189,
+ "cycles": 2190,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.343642367,
- "watching": 323,
+ "sol_usd": 97.04136819150001,
+ "watching": 318,
  "near": [
   [
    "SAFU",
-   "AHgqStQviBDBiPra3cLxb8gQs2auRAmXT4s9v7LKpump",
-   1.0,
-   2.3,
-   "graduated"
+   "6wpTNeYGwGZSL5YgxgmWcpMKoLmKhcAkrScnsvqupump",
+   0.974,
+   2.2,
+   ""
   ],
   [
    "Vortex",
    "GYA6eeoXubyuwxDT7cAK9eCKobnziKvALPPbbq7Hpump",
-   0.953,
-   7.1,
+   0.952,
+   8.1,
    ""
-  ],
-  [
-   "DPRK",
-   "3atWTj3yLg1n8emVJLWqCtZYbCKxYtJFQM7ZuBz4pump",
-   0.75,
-   9.8,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "BTCHILL",
-   "8ursUF9WwuD9r9xZ5tZmaG5ULiJta4GoYFR7aJnPpump",
-   0.434,
-   2.2,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "Hj4CJxF3oBJDZ31qWQ96RVhqeKuMzMEwd3V3MooUpump",
-   0.286,
-   2.4,
+   0.403,
+   3.4,
    ""
+  ],
+  [
+   "Astron",
+   "AstriFdLPYDSsEwvXRnweBEbGHqdjh1TXthEudkMxGJM",
+   0.348,
+   2.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "REPAD",
    "FKzywwjGvzKWynqNR3A7bUN4x83pHwwEsPguHSc1pump",
-   0.21,
-   4.5,
-   "top5_hold_most=86%"
+   0.18,
+   5.5,
+   "buyers=9; top5_hold_most=94%"
   ],
   [
-   "FEELSBAD",
-   "CBGD6DFC9jZPx3WCUk6oCowW3rbyrmFFc73ZbrLSpump",
-   0.2,
-   3.2,
-   "buyers=7; top5_hold_most=83%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "End",
-   "NAMNqvP8cdc7pSV5q7vZyj6UJupY3Uv6DE2pHfYG426",
-   0.166,
-   3.6,
+   "SAFU",
+   "A1amwU73UVc2bwNSLisJpwdVavY4ndcm9xGeZ4Ztpump",
+   0.142,
+   2.6,
    ""
   ],
   [
    "CUHCOIN",
    "GiYcQeT6s27SRaEcPZJWVbTMpZH8kk7kn8MzaXGzpump",
-   0.154,
-   6.6,
+   0.132,
+   7.6,
    ""
   ],
   [
-   "USDT",
-   "Hugqr5aiQR9EDYwqMTj8ovZASbjKqGLqgAfcjWkcpump",
-   0.125,
-   3.2,
-   "buyers=8; top5_hold_most=95%; bundled_launch=5 extra buys in creation block"
+   "SAFU",
+   "2iJoxHFkyQeFMLSMKUQ1E1HCSkxnUUZ7ZZvY2t2ywZDw",
+   0.13,
+   3.3,
+   ""
+  ],
+  [
+   "Diego",
+   "7P3Q2oPoJ9tvpcrWCeaZ8qpveMG4K7zoQTtaQyedpump",
+   0.119,
+   4.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PEPE2",
+   "9hkkyCfHCu2Y8nUM7DxqnSU2K462L1MXKBkW5iXLpump",
+   0.118,
+   2.6,
+   ""
   ]
  ]
 }
