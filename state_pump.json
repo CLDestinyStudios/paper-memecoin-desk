@@ -13,10 +13,10 @@
    "entry_px": 6.542986439253573e-08,
    "entry_fill": 7.121270759059167e-08,
    "opened": 1793280086.3528252,
-   "last_px": 6.542986439253573e-08,
-   "peak_px": 6.542986439253573e-08,
-   "last_val": 1.3864223791514707,
-   "last_prog": 0.469
+   "last_px": 9.748563351048938e-08,
+   "peak_px": 9.748563351048938e-08,
+   "last_val": 2.0905826788610424,
+   "last_prog": 0.628
   }
  },
  "traded": [
@@ -5563,81 +5563,85 @@
   [
    "2026-10-29T06:21:26",
    54.9
+  ],
+  [
+   "2026-10-29T06:22:27",
+   55.6
   ]
  ],
- "cycles": 1668,
+ "cycles": 1669,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.56903135799999,
- "watching": 172,
+ "sol_usd": 100.58999999999999,
+ "watching": 184,
  "near": [
   [
    "CHLOE",
    "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-   0.967,
-   3.4,
+   0.942,
+   4.4,
    ""
   ],
   [
-   "HOKI",
-   "25NN8C4H9q962FFjL7UEbAbkYdNveKaVJdekhRW4pump",
-   0.522,
-   2.7,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "BUILDBID",
-   "76gzrF983TovLhUhY8jt3fwqQLww5qXSQjNeBCYcpump",
-   0.469,
-   2.2,
-   "bought"
+   "Odum",
+   "9jv3JLMrMz7qXhwPmZLJH5CGWnw9wgzfULMwbnmupump",
+   0.427,
+   2.8,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "PETS",
    "AS8iLMmSJNEgDsv5XkVQn67kCM91hCuCgHc9cxp5pump",
-   0.289,
-   2.6,
+   0.285,
+   3.7,
    ""
   ],
   [
    "MAX",
    "6sHDEw1tPeY3LJcE4HwzEMzgziszrphwdosJRUsQmrLK",
    0.118,
-   4.7,
-   ""
-  ],
-  [
-   "PUFF",
-   "DaQzstNYxFcaWgDQvkFWFRLBmndrgE9LHZPbM46Upump",
-   0.112,
-   2.6,
+   5.8,
    ""
   ],
   [
    "hallowinu",
    "hfTZTf8xDn7YeswwrEeX2RJUvkLNUsjDGmjnnBSfvEr",
    0.073,
-   2.4,
+   3.4,
    ""
   ],
   [
    "Halloween",
    "6L2ViWZvJfNtR1zuwnbWEvZHWUCiQT9rQLrSNg1dRn1Z",
    0.071,
-   3.3,
+   4.4,
    ""
   ],
   [
    "PUMPkin",
    "BHTNVGxjyoPtMhjL5X5Q5YPJqP7neWiWb7FEr4E6pump",
    0.071,
-   2.6,
+   3.6,
    ""
+  ],
+  [
+   "67NOTHING",
+   "DHzpHS5vE1vCwdAdG49cy2ajqpBU7UW4zLVfjVpkTido",
+   0.052,
+   4.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Cat",
    "74KbpguSmfa7y3X8V11vuxA2p1GNySCJrCWCDJQpump",
    0.043,
-   8.3,
+   9.3,
+   ""
+  ],
+  [
+   "WTF",
+   "7E2UhGDkcixxrns4spoBz5hkbwWJQ66S3ZVemQdrpump",
+   0.043,
+   2.7,
    ""
   ]
  ]
