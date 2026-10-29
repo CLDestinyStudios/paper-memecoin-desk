@@ -13,10 +13,10 @@
    "entry_px": 5.76534849047649e-08,
    "entry_fill": 6.263664411034135e-08,
    "opened": 1793274746.1827707,
-   "last_px": 5.76534849047649e-08,
-   "peak_px": 5.76534849047649e-08,
-   "last_val": 1.476237220436116,
-   "last_prog": 0.411
+   "last_px": 6.538354371096414e-08,
+   "peak_px": 6.538354371096414e-08,
+   "last_val": 1.6798241657818074,
+   "last_prog": 0.468
   }
  },
  "traded": [
@@ -5306,81 +5306,85 @@
   [
    "2026-10-29T04:52:26",
    58.03
+  ],
+  [
+   "2026-10-29T04:53:25",
+   58.23
   ]
  ],
- "cycles": 1579,
+ "cycles": 1580,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 100.42,
- "watching": 160,
+ "sol_usd": 100.35822105816199,
+ "watching": 157,
  "near": [
   [
    "OREN",
    "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump",
-   0.803,
-   2.4,
+   0.943,
+   3.4,
    ""
   ],
   [
    "OREN",
-   "7N5eFPXYFStTEPL27xwp9qEmQgxLifhAA5zYmfKVEukV",
-   0.732,
-   2.8,
-   "bundled_launch=3 extra buys in creation block"
+   "FVusFZzECT283rDUkbGaHUQxSAk7ZuUHAS3xnvfQHu1k",
+   0.613,
+   2.5,
+   ""
   ],
   [
-   "ZERO-DAY",
-   "5uVhZ46EuwYcrJSxjcPHrHqNaYzfUHeJPVb8CBBDpump",
-   0.411,
-   4.1,
-   "bought"
-  ],
-  [
-   "MWEZI",
-   "AePy9jwgHm64yKzYpDi9k6krqHMyQNfRFTr8tYzdxfgU",
-   0.097,
-   8.9,
-   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "THIRSTPAD",
+   "5yueJnM7Q3gCbacazE4TQ3zqiDtHhwbhKYvSBSvvpump",
+   0.231,
+   2.9,
+   "bundled_launch=9 extra buys in creation block"
   ],
   [
    "TM13",
    "71XwZCqjXVwmtZTiDNtRgLMxzEacAjFkXngKGfbCpump",
    0.084,
-   5.4,
+   6.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "OREN",
    "CL8JZ3h9bXKmucySCnYr1VJqzTCRBURWjEw6CZNhVZzJ",
    0.06,
-   2.8,
+   3.7,
    ""
   ],
   [
    "Gnosis",
    "FHqGTaNEZqQm5MdrnX5tQzgWtfhnQMkPHynCKJybpump",
    0.056,
-   3.7,
+   4.7,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "PINO",
    "BH5NMLokTi6gthtKBU64iu8LsJ3fsCbyHLpd1N1zpump",
    0.05,
-   6.9,
+   7.8,
    ""
   ],
   [
    "OUTSNIPE",
    "CiXUtggr2rKf9tjSMueF7JThXGcF5oK1w2GKXjppump",
    0.046,
-   8.1,
+   9.1,
    ""
   ],
   [
-   "MCHA",
-   "xQHJxuYWnvNV1A5eYKqcZ5jyEv3oPKCNRM7VLHqpump",
-   0.037,
-   2.9,
+   "GENNY",
+   "75FFhTTps2vjb75VWDBr6anuweJvaGzWee8U3mBzpump",
+   0.022,
+   6.9,
+   ""
+  ],
+  [
+   "spacex ",
+   "9druXA2jsoNj51Xq1E2YALYJQoxnYputDSUFfRNgpump",
+   0.02,
+   5.5,
    ""
   ]
  ]
