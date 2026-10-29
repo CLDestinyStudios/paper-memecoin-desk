@@ -6370,84 +6370,84 @@
    32.58
   ],
   [
-   "2026-10-29T11:05:59",
+   "2026-10-29T11:06:54",
    32.58
   ]
  ],
- "cycles": 1952,
+ "cycles": 1953,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.0831966625,
- "watching": 282,
+ "sol_usd": 101.02639708,
+ "watching": 271,
  "near": [
   [
-   "kPEPE",
-   "3brs5nWeVj8vLCsmgWcXsgbYgmM6ogt9RgrBk6iqpump",
-   1.0,
-   3.0,
-   "graduated"
+   "HOLY",
+   "shTHzjQ8iwWef2aK67RDQnMfJibtT6qet8bZT21pump",
+   0.957,
+   2.2,
+   ""
+  ],
+  [
+   "WALT",
+   "BW8QuaDC1Tw7jRv2Hm5FbkYkitFrgS8itknXy3Avpump",
+   0.593,
+   2.1,
+   ""
   ],
   [
    "Grok",
    "4v9HYtYia3G952S3zxHALb8CrJFq5YZe6BUwCY1Fpump",
    0.556,
-   4.7,
+   5.6,
    ""
-  ],
-  [
-   "HYPECOIN",
-   "EHRoM7c8MtcQCxj4QvsmAoSgVTwV7PHJPDFocdBSpump",
-   0.554,
-   2.2,
-   ""
-  ],
-  [
-   "PIPER",
-   "3MTTdj5AFhSAssXDAt837tEuchjEveddJcX2ScqQpump",
-   0.436,
-   2.8,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "ADF",
    "4wXDcYbZCLu1avCNdhCWufz1tZN7ycZC8CxYXFWppump",
    0.385,
-   3.3,
+   4.3,
    "buyers=2; creator=30.4%; top5_hold_most=100%"
+  ],
+  [
+   "Podcast",
+   "4nzzPbqijSyYAwjMv5wFHfLMdNrNk25TQeetiK39HLAS",
+   0.224,
+   8.7,
+   "top5_hold_most=89%"
   ],
   [
    "Carl",
    "DH619wL2iHE4nbMieczByAv3d14WP4XMmkGm9nokpump",
    0.214,
-   6.9,
+   7.8,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "Pua",
    "DsJfeJ5Vpyf4oEc8e2RDk5SAM4n6kcmcVq1uZfPhzLKA",
    0.191,
-   3.6,
+   4.5,
    "buyers=1; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "ARTC",
    "5Xj5AqudgA7viVEKxafgp159k9mas7F1uKfhKP1hpump",
    0.172,
-   5.9,
+   6.8,
    "buyers=7; top5_hold_most=90%"
   ],
   [
-   "Randy",
-   "FUDmg2t4cnt6qH8pUNqpwkbDLumU9BDVGSkW1P6Wpump",
-   0.121,
-   6.5,
+   "JEFF",
+   "FmSw9RQzjX3MXRUiQnbmTWDhn5EXK6UvxUi5fwkipump",
+   0.154,
+   4.6,
    ""
   ],
   [
-   "Podcast",
-   "4nzzPbqijSyYAwjMv5wFHfLMdNrNk25TQeetiK39HLAS",
-   0.12,
-   7.8,
-   "top5_hold_most=89%"
+   "HYPECOIN",
+   "EHRoM7c8MtcQCxj4QvsmAoSgVTwV7PHJPDFocdBSpump",
+   0.126,
+   3.2,
+   ""
   ]
  ]
 }
