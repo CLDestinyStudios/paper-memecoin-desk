@@ -2,39 +2,8 @@
  "desk": "PUMP",
  "paper_only": true,
  "bank_start": 500.0,
- "cash": 116.20228673940431,
- "positions": {
-  "BqN6hShHcExcGiJ4pH6HYhnpPxEe1TTzCdHHKkeipump": {
-   "sym": "Drip",
-   "bc": "uf7wGT8EPCViAs39QpEQSkwHp8br6TLCBeC8YTm4BHz",
-   "tokens": 257146.49928142547,
-   "cost": 1.84,
-   "cost0": 3.68,
-   "entry_px": 6.72421880411413e-08,
-   "entry_fill": 7.195774946281922e-08,
-   "opened": 1793239553.8927171,
-   "last_px": 1.1264227093222183e-07,
-   "peak_px": 1.1264227093222183e-07,
-   "last_val": 2.6791967350939068,
-   "last_prog": 0.679,
-   "tp1_done": true,
-   "realized": 0.5851081383012862
-  },
-  "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump": {
-   "sym": "GHOST",
-   "bc": "1utDUGuKnSXreA76uXEf2orBg1vtG9ZWyWimPKUoGzG",
-   "tokens": 782686.6172539901,
-   "cost": 3.68,
-   "cost0": 3.68,
-   "entry_px": 4.418129522789873e-08,
-   "entry_fill": 4.728812455582686e-08,
-   "opened": 1793240032.3874745,
-   "last_px": 4.418129522789873e-08,
-   "peak_px": 4.418129522789873e-08,
-   "last_val": 3.2067364777588563,
-   "last_prog": 0.277
-  }
- },
+ "cash": 119.0133636102684,
+ "positions": {},
  "traded": [
   "32i7RW9e8wT1Ndwkm5DnXuDHDKJTWx8vCMsY8fErpump",
   "7gPBGhQToUGnJfLf4W26m4EGZh8MqeeqwoLsUWhLpump",
@@ -3736,81 +3705,85 @@
   [
    "2026-10-28T19:13:52",
    122.09
+  ],
+  [
+   "2026-10-28T19:14:52",
+   119.01
   ]
  ],
- "cycles": 1001,
+ "cycles": 1002,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.4277977659,
- "watching": 313,
+ "sol_usd": 99.50818273704999,
+ "watching": 280,
  "near": [
   [
-   "Meowtor",
-   "E1FtVt8NbZD4oCAj158tG7Kf4c69WLGpw3waoMKEpump",
-   0.375,
-   2.6,
-   "bundled_launch=7 extra buys in creation block"
+   "Cardinal",
+   "GQJsb9tiZoiGVwHVFn9FfhE74kSk2RAB4sREMXbvpump",
+   0.74,
+   2.3,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "BURQA",
    "AtAvTigDJacRbKmGdcspKwAaFRdpG5qKXqeTe4j6pump",
    0.285,
-   4.8,
+   5.8,
    "buyers=6; creator=15.2%; top5_hold_most=99%"
-  ],
-  [
-   "GHOST",
-   "8nrM3JKDeA5L6SAcSyMgyrcSumR2J5ioi4wY7b6Zpump",
-   0.277,
-   9.0,
-   "bought"
   ],
   [
    "NOTHING",
    "4zyA4sSibf1S7EAGdo353KCtuHxyDeV4M73N8Duipump",
-   0.19,
-   2.4,
+   0.079,
+   3.4,
+   ""
+  ],
+  [
+   "choom",
+   "BFFzoe6hCQnzWAmuhx4YFZSkvDyCQGpk7NiCGJy1pump",
+   0.059,
+   2.7,
+   ""
+  ],
+  [
+   "CYBERPSYCHOS",
+   "EqE8qLAPRtPL9Qf4nnNTvz5nGZjptxCumpU733ncpump",
+   0.044,
+   4.9,
+   ""
+  ],
+  [
+   "TERRY",
+   "QEwssWMWfswFV822kJdZEdcTRL1yzTXkeKwoh6ypump",
+   0.043,
+   2.8,
+   ""
+  ],
+  [
+   "MACA",
+   "HhcihBxsHYXXPTgBvas4U6RWziTNNSZwo2b41DGbpump",
+   0.043,
+   3.8,
+   ""
+  ],
+  [
+   "CHILL FROG",
+   "27R7CQ8XVA1dB3GKvxMxNNnRxGarEreT6qFGsqbdpump",
+   0.041,
+   3.4,
+   ""
+  ],
+  [
+   "CYBER",
+   "4JpRnN5GkKFvWsHRxzjcWqztrCaHBooe6CwoeFyDpump",
+   0.041,
+   4.1,
    ""
   ],
   [
    "PSYCHOSIS",
    "G7froZDbx25suxhrucZsLwSkmJoz8T38hbdTj3K9pump",
-   0.162,
-   8.5,
-   ""
-  ],
-  [
-   "CYBER",
-   "CkiShvnPkSurzYktWm2VEvkAwQR9jXuMvt7Nkg5YNKnx",
-   0.138,
-   8.0,
-   ""
-  ],
-  [
-   "CYBER",
-   "2Wpe3F7MJBwm6FEBZkUm67kZFqcMH6whMyhz7gjjpump",
-   0.112,
-   6.5,
-   ""
-  ],
-  [
-   "Dogzilla",
-   "GoCfSW7WKpecvsN1M6pub65gfU8wXv9G3qt54iiBpump",
-   0.103,
-   2.7,
-   ""
-  ],
-  [
-   "WPM",
-   "2xFNoQXF1sdepFavfpU9viec8iBBb39KxSotjb51pump",
-   0.085,
-   4.3,
-   ""
-  ],
-  [
-   "CYBER",
-   "2RS2nugMxqjKef6iaRHM653Z4NBpofysTS7nUWH6pump",
-   0.067,
-   9.0,
+   0.039,
+   9.5,
    ""
   ]
  ]
