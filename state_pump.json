@@ -3728,83 +3728,83 @@
    117.19
   ],
   [
-   "2026-10-28T19:37:19",
+   "2026-10-28T19:38:03",
    117.19
   ]
  ],
- "cycles": 1024,
+ "cycles": 1025,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 99.220297618,
- "watching": 186,
+ "sol_usd": 99.26901690515,
+ "watching": 181,
  "near": [
   [
    "Survival",
    "BzRqqacSDzDM5KFqwwNv7uWQK8Z5eSBqKwMQ3EcBpump",
-   0.211,
-   6.2,
+   0.18,
+   6.9,
    ""
   ],
   [
    "WEENIE",
    "3PCAcdQRLKcjmJVMH9aEuMRNygTT2fBEnt8KE1Rgpump",
-   0.14,
-   7.9,
+   0.132,
+   8.6,
    ""
   ],
   [
    "PONZI",
    "74eE9A2TByKwh5D4a6JPM8SvaAP76hyZm9qh2bbBpump",
-   0.097,
-   3.8,
+   0.104,
+   4.5,
    ""
   ],
   [
    "UBUR",
    "9zRTmATDRvkFhmpWCywS293TZ4aL6P3EfKvahHuzpump",
    0.085,
-   2.4,
+   3.1,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Calm",
+   "E7oRsHTdbNYrAxDsNfpX42iF5PnJ1mE86mg7MAM8pump",
+   0.071,
+   2.1,
+   ""
   ],
   [
    "GHOSTCAT",
    "FUsU3nh3uVLhFCGp8nCzZbTRbiX4LS174j1Kvn6ipump",
    0.043,
-   2.9,
+   3.7,
    ""
   ],
   [
    "LVT",
    "GAyMGM85Cx4aSzEBmb5X46oyMg6RRhzNen9mwkDNpump",
    0.022,
-   5.3,
+   6.1,
    ""
   ],
   [
    "$STESLA",
    "3nBzzByNA5rQ8YsHGPL3Gi4dWytj8B7BzELrnapmpump",
    0.019,
-   4.4,
-   ""
-  ],
-  [
-   "$NOTHING",
-   "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
-   0.015,
-   7.1,
+   5.2,
    ""
   ],
   [
    "Blackout",
    "3BZCGDXTbRq8ZsM2Z5B4N8t6rjJWKnGsi1krPnhm1Ps9",
    0.013,
-   7.3,
+   8.0,
    ""
   ],
   [
-   "Solana ",
-   "HX1wPDXsDfVRkcXDLkzVu89Z9y1KKsYE2qp22gQwpump",
-   0.006,
-   4.8,
+   "$NOTHING",
+   "HqL5wvHDMruAJtKrwyCr5wzizVUFLuzybvde4gnEpump",
+   0.011,
+   7.8,
    ""
   ]
  ]
