@@ -6466,83 +6466,83 @@
    32.58
   ],
   [
-   "2026-10-29T14:53:00",
+   "2026-10-29T14:54:01",
    32.58
   ]
  ],
- "cycles": 2179,
+ "cycles": 2180,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.07,
- "watching": 314,
+ "sol_usd": 97.18330170950001,
+ "watching": 310,
  "near": [
   [
-   "ABC",
-   "FZrFkHvziEjeyzxQNSoWdxp7QctYEyaLkfQYFNu2L6cG",
-   0.251,
-   9.6,
-   "buyers=1; top5_hold_most=100%"
+   "wif",
+   "fuUb3T8EgWkgwgrSyGPz26p6AkkzWZ4yxjgMjKppump",
+   0.928,
+   2.3,
+   ""
+  ],
+  [
+   "FI",
+   "D8wpQYX67SmPFc4mh2K6RJti9Dg2z6LR4hUyCPcMtLja",
+   0.416,
+   2.2,
+   "serial_creator=59 launches/24h"
   ],
   [
    "FI",
    "856cGDc2skm5qALoPH4hA58PvGLowL3xS5k3Zz5dpump",
-   0.218,
-   2.5,
+   0.162,
+   3.5,
    ""
   ],
   [
-   "BNBSCAM",
-   "2AmAkkfVHRFtqToRPJmLtNRYgbkhL46SuYQdd5ZSpump",
-   0.067,
-   5.1,
-   "buyers=9; top5_hold_most=98%"
+   "SAFU",
+   "BApjWvYFU3BUAcZaRJvQGoSsghynQ4s2JyLTxVFWpump",
+   0.147,
+   2.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "TIT",
+   "EWrjMSKkCzNcoeVKqUxa6AS8ArhXHDDkLCFthhqspump",
+   0.084,
+   2.7,
+   ""
+  ],
+  [
+   "QUANTUM",
+   "2WiXLXkuvpUfCpJmGrz526xptqo9ZQfbpvvv2Ypepump",
+   0.055,
+   4.8,
+   ""
   ],
   [
    "UNSAFU",
    "Bxrpgn18WgkCdPs3jJb82XgoGGmBTMZJedSSoaF1pump",
    0.045,
-   8.7,
+   9.7,
    ""
   ],
   [
    "SINU",
    "Ej632gc5hKGjn6KYoZVGDnN85usvsR2Wobd7s6DWpump",
    0.044,
-   7.6,
+   8.6,
    ""
   ],
   [
    "CYBER",
    "B49pnZJ9JkAKdPmZAkG4MPFmuaN5RU36rRPgBaRTpump",
    0.042,
-   8.6,
+   9.6,
    ""
   ],
   [
    "CYBERCURRENC",
    "84EcrMRWycn6Y9HPG7FPZcL3maqt3DnMqaVJ7s9epump",
    0.032,
-   8.9,
-   ""
-  ],
-  [
-   "Naked",
-   "FbxvGYquHxGzMxHdtCUJNMK94CEy4osMaCvQAA5Zpump",
-   0.032,
-   6.2,
-   ""
-  ],
-  [
-   "HACKERMAN",
-   "E7LUXCVPCeA3WVbY33gdhfBEpA1SD27WdF77BvDapump",
-   0.028,
-   4.8,
-   ""
-  ],
-  [
-   "BND",
-   "57fQDNYDMsbZW6TMgcQ7AbJyNeLBwf1mU8sgPjKUpump",
-   0.027,
-   2.3,
+   10.0,
    ""
   ]
  ]
