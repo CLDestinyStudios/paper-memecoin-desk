@@ -3460,84 +3460,84 @@
    117.47
   ],
   [
-   "2026-10-28T17:58:04",
+   "2026-10-28T17:59:04",
    117.47
   ]
  ],
- "cycles": 925,
+ "cycles": 926,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 101.81000000000002,
- "watching": 357,
+ "sol_usd": 101.82000778900002,
+ "watching": 351,
  "near": [
-  [
-   "PVE",
-   "B3gsiynnGCcAdGPwigWyCnjy6t1hf8vR62ZDBwngpump",
-   1.0,
-   6.8,
-   "graduated"
-  ],
-  [
-   "GRO",
-   "6vM1h4FU7C4rKtDoDkDi6EgrVvwC95DW1LCbfyQwpump",
-   0.926,
-   3.1,
-   ""
-  ],
   [
    "LGBTQ+",
    "4gMLiKpRHQoPVGK6PX4xY2tmfeesRQuvr7oPQxWSpump",
-   0.68,
-   3.1,
+   0.788,
+   4.1,
    "launch_slot=missing"
   ],
   [
    "PVE",
    "CVEFMX1rnXojYswPeZ9pbRJhApjMFAs5NpCvGCB4pump",
-   0.65,
-   6.5,
+   0.346,
+   7.5,
    ""
   ],
   [
    "WHYETTI",
    "5rkoXaP8uCe9MzR1C73YsCdqLbpTfvSgEj4yvWJGpump",
-   0.259,
-   3.0,
-   ""
+   0.334,
+   4.0,
+   "top5_hold_most=92%; launch_slot=missing"
   ],
   [
    "UPVOTE",
    "574P9b4gp7nPe7oLcRs8jYxpPZmn3PjbHJaYVRx3pump",
-   0.242,
-   5.4,
-   "top5_hold_most=88%"
-  ],
-  [
-   "GHOST",
-   "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
-   0.18,
-   6.6,
-   "buyers=6; top5_hold_most=99%; launch_slot=missing"
+   0.269,
+   6.4,
+   "top5_hold_most=85%"
   ],
   [
    "EMERGENCY",
    "7ZMwuamboGpE5a8WGfVmWCVXhcebWjYtLdXKByXspump",
-   0.146,
-   4.4,
+   0.224,
+   5.4,
    "launch_slot=missing"
   ],
   [
-   "PVE",
-   "AAeGmNxczwAwEjhhYEBdVuZ9wTQNiPBZdocTy9RJpump",
-   0.083,
-   5.8,
-   ""
+   "GHOST",
+   "2DMRKfao6qZxw36mhMB2qTA7M69WL4su9MmHs8GfAjVu",
+   0.168,
+   7.6,
+   "buyers=6; top5_hold_most=99%; launch_slot=missing"
+  ],
+  [
+   "trencher",
+   "GocQbw1NkTJbymFaWjKnw3CuBSQpnFyUF9vQdS9Hpump",
+   0.077,
+   10.2,
+   "top5_hold_most=95%"
   ],
   [
    "PVE",
-   "D2e1a5aX63tzwd8WsUFsL89u7oystie9n62uG8mqUEjS",
-   0.082,
-   6.0,
+   "3QGSmeMeoaTnwxEifYkxK92pm9WCB3uqQj6M2to4LVEC",
+   0.061,
+   4.8,
    ""
+  ],
+  [
+   "Stubby",
+   "4mRL5nbx6UEFMKMdjdYYomsohKXpEPSoZAbWsv8cpump",
+   0.053,
+   3.0,
+   ""
+  ],
+  [
+   "sg",
+   "96xcGvspanZsZ7cA4YRZrQST9trC5HAbP8JFCyFipump",
+   0.052,
+   4.8,
+   "buyers=4; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
