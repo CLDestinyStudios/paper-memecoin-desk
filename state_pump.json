@@ -6794,83 +6794,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:42:47",
+   "2026-10-30T03:43:47",
    32.58
   ]
  ],
- "cycles": 2948,
+ "cycles": 2949,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.06,
- "watching": 211,
+ "sol_usd": 96.981958119,
+ "watching": 216,
  "near": [
-  [
-   "BURN",
-   "5ANpBFZjmhTv48dvU18sCLmgQS9mwJ7meU6aMYSZpump",
-   0.825,
-   9.3,
-   ""
-  ],
   [
    "TCARD",
    "BsFpew6D1QdpavPNmaQ8LxfV5Be5vZT1YvoRZspNpump",
-   0.396,
-   3.1,
+   0.352,
+   4.1,
    ""
   ],
   [
    "SBF",
    "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
-   0.313,
-   4.0,
+   0.291,
+   5.0,
    ""
   ],
   [
-   "BILLY",
-   "fv9bmwkMhoHRu4F8NTKg88o4wiAYiCsii3tNvQ6pump",
-   0.132,
-   9.1,
-   "buyers=2; top5_hold_most=100%"
+   "ATONKY",
+   "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
+   0.218,
+   2.5,
+   "top5_hold_most=84%"
   ],
   [
-   "test",
-   "Ce5x9huHxBvi6ZiQsjS6zceRTdhAaW5oUnAEGifCpump",
-   0.129,
-   9.8,
-   "rugcheck=creator history of rugs"
+   "retire",
+   "GqbUtirLXbtoXQGLwmUqYto8QB7VAVthwURzTY2tpump",
+   0.15,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "cz 3B ",
+   "HdcPdbueYcNeZLuRFf8EcbA3qid6d7JKojC6aiFWpump",
+   0.145,
+   2.7,
+   "buyers=9; top5_hold_most=99%"
   ],
   [
    "VICE",
    "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
    0.129,
-   4.1,
+   5.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "SEC",
    "25MxGYB464N6PcGj7xjVCzSNQc7ftF9YXih4Kx9Lpump",
    0.122,
-   5.1,
+   6.1,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "HUGE",
+   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
+   0.081,
+   2.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "DAEMON",
    "ESc76WZx8eVT5g9fbF8pYhRE7Ekjm4pEnE1BpjgHpump",
    0.08,
-   3.1,
-   ""
-  ],
-  [
-   "FOX",
-   "6RXefoJS5rMUqLJ2Fc8psW7XpFFNyhB2R5y6iCMkuhFe",
-   0.079,
-   4.0,
+   4.1,
    ""
   ],
   [
    "Simulation",
    "AMcTY66sMYfnL4KLQT7C55a9CAiMwKY5nPzPapVkvt1z",
    0.074,
-   2.3,
+   3.3,
    ""
   ]
  ]
