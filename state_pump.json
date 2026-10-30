@@ -6784,81 +6784,85 @@
   [
    "2026-10-30T03:16:45",
    32.58
+  ],
+  [
+   "2026-10-30T03:17:48",
+   32.58
   ]
  ],
- "cycles": 2922,
+ "cycles": 2923,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.29309494357447,
- "watching": 180,
+ "sol_usd": 96.21395795150002,
+ "watching": 176,
  "near": [
   [
-   "WTE",
-   "co8939Zjp3m25TcMXyH7QdPdGQS3aBqYrYud1HR7Kuy",
-   0.749,
-   2.8,
-   "serial_creator=21 launches/24h"
+   "TrustMeBro",
+   "5y5CtkwPMKrsifSDVbkZWinXDmR9BnLzoHDtaRAJpump",
+   0.655,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "QUONT",
+   "3WhZvgwhq9ZZxJBBJnPifpZhvKvtHCqneUVUgkeSpump",
+   0.123,
+   3.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "DATAR",
    "4fWJEa8vSj3FaPxLPwARLiG1EbVVwt3CCoCBZheSpump",
-   0.213,
-   5.2,
+   0.123,
+   6.3,
    "top5_hold_most=90%"
   ],
   [
    "ROADMAP",
    "4NQwBjamTe6KuJRYMEvCp2XQHwKAeUeGdjUfTJEmpump",
    0.114,
-   5.8,
-   "buyers=1; top5_hold_most=100%"
+   6.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Ghost",
    "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
-   0.048,
-   4.5,
+   0.09,
+   5.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "TrustMeBro",
+   "3b3dD6ZKpBkjXNJi42tCVfuhhV3WKqoN3tfCKmnFu175",
+   0.061,
+   2.6,
+   ""
+  ],
+  [
+   "TMB",
+   "J4r9bMZy1kN1UTPgquxBduB6CrygSt21mcU6eWh6tqes",
+   0.056,
+   2.1,
    ""
   ],
   [
    "PnutCall",
    "GcnMDZifUJRTW9RiBW8mnVUCV9kN5VBYb21A3XNFpump",
-   0.035,
-   2.8,
-   ""
-  ],
-  [
-   "ELONCZ",
-   "7yggxnhwGG8QbCc3VbJrqEZY7d8HvYxh4Ek3u9iwpump",
-   0.029,
-   3.1,
+   0.03,
+   3.9,
    ""
   ],
   [
    "HRD",
    "EPkpr81p71DZYypxrFqZh69x1s2mNkHm4Jy8UGPLpump",
    0.025,
-   2.6,
-   ""
-  ],
-  [
-   "honeypot",
-   "AMEzMWAfptCPWUjjJJ4X2Y2MVG786dpioEMru5wT4QkW",
-   0.023,
-   4.6,
+   3.6,
    ""
   ],
   [
    "Squeeze",
    "H9KyVfnckaM1hSBvHzSW7uFDnizJW71JQ6iu62EPQr6D",
    0.022,
-   2.2,
-   ""
-  ],
-  [
-   "Hyperplex",
-   "4e7EShCUrUzc7HYog7fGFQCserFK3r7e3zSdeEsTpump",
-   0.022,
-   7.3,
+   3.3,
    ""
   ]
  ]
