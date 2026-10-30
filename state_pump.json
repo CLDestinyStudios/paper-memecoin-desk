@@ -6650,83 +6650,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:04:15",
+   "2026-10-29T22:05:28",
    32.58
   ]
  ],
- "cycles": 2610,
+ "cycles": 2611,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.2952524499,
- "watching": 151,
+ "sol_usd": 97.28343484579999,
+ "watching": 150,
  "near": [
   [
    "PUMPLIQUID",
    "3Gd5uuTCa948qkJhYgiQthPYL5DeMMXLACqyWwiKperp",
-   0.803,
-   4.1,
+   0.776,
+   5.3,
    ""
   ],
   [
    "coinput",
    "coin2JPqDG9LozmgfN8z4cL4b9M7mB5HodtX813M9ie",
-   0.519,
-   8.2,
+   0.623,
+   9.4,
    ""
   ],
   [
-   "Hopcode",
-   "9JQucXcq5HAkXAYw6X9bnJFtT9ejPxRN1cv32UBHpump",
-   0.106,
-   3.7,
-   "buyers=4; top5_hold_most=100%"
+   "HDGE",
+   "E9QpeGNRfzwM5MynK9DEAaWaP6RrYBu6wFXbpL7Kpump",
+   0.117,
+   2.9,
+   "top5_hold_most=96%; bundled_launch=5 extra buys in creation block"
   ],
   [
-   "ginger",
-   "GxuxoF3NVGUECrzYD1HqvKwCpt4xRJEJWAwtGUj6pump",
-   0.097,
-   2.5,
+   "MONKEY",
+   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
+   0.08,
+   9.2,
    ""
   ],
   [
    "NWASB",
    "Cd3T84yA29dTRaTkThGcABZQ8s9VHwbDZC7sRu7rpump",
-   0.091,
-   4.1,
+   0.047,
+   5.4,
    ""
   ],
   [
-   "KIM",
-   "3snVKuk13ivsHmSqUCgX3kn7DDEWpjJGFqT4o11Vpump",
-   0.043,
-   2.2,
-   ""
-  ],
-  [
-   "MONKEY",
-   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
-   0.033,
-   8.0,
-   ""
+   "Hopcode",
+   "9JQucXcq5HAkXAYw6X9bnJFtT9ejPxRN1cv32UBHpump",
+   0.034,
+   4.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Inuployed",
    "G9PeBYrUdcGU16KECAUMJf72escRBzYMN5b3cjDipump",
    0.03,
-   4.3,
+   5.5,
+   ""
+  ],
+  [
+   "Clauduck",
+   "Fek3voanSLuG1n51NSFB74JYNX4EfU9G3NHp3wYPpump",
+   0.028,
+   2.7,
    ""
   ],
   [
    "Cumshot",
    "HGqs7NdtxiRTpRpjU252z6hzWSsoqZSE3tZPZQ2pump",
    0.027,
-   2.9,
+   4.1,
    ""
   ],
   [
-   "pep",
-   "DMDhj16u2XxCWRDWqjbSbzqGWgoQHB7ehvhMkkVXpump",
-   0.022,
-   6.6,
+   "ginger",
+   "GxuxoF3NVGUECrzYD1HqvKwCpt4xRJEJWAwtGUj6pump",
+   0.026,
+   3.7,
    ""
   ]
  ]
