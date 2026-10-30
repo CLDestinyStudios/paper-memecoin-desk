@@ -6522,83 +6522,83 @@
    32.58
   ],
   [
-   "2026-10-29T16:59:10",
+   "2026-10-29T17:00:12",
    32.58
   ]
  ],
- "cycles": 2305,
+ "cycles": 2306,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.4281501909,
- "watching": 251,
+ "sol_usd": 95.4158442492,
+ "watching": 252,
  "near": [
+  [
+   "Connor",
+   "4sYjbaUmhiadwuZd3MgeFARfihbajgnhkdsMoZuapump",
+   0.573,
+   2.4,
+   "bundled_launch=4 extra buys in creation block"
+  ],
   [
    "Hackoor",
    "DLjXf1qA9tyUzqMjn4c3FYPK5T9NqXgT6w7y9xVSpump",
-   0.483,
-   5.8,
+   0.537,
+   6.8,
+   ""
+  ],
+  [
+   "LI",
+   "E2UsWLjWNg7GbHTUXwSR4FWiNSwpzjhH22ug3g9spump",
+   0.235,
+   4.0,
    ""
   ],
   [
    "TACIT",
    "CNGqFmqQVe2WCzeayPyTuSjqVn3RWKXpaeucAx8hpump",
-   0.231,
-   2.6,
-   "buyers=9; top5_hold_most=95%"
-  ],
-  [
-   "LI",
-   "E2UsWLjWNg7GbHTUXwSR4FWiNSwpzjhH22ug3g9spump",
    0.226,
-   2.9,
-   ""
+   3.6,
+   "buyers=9; top5_hold_most=95%"
   ],
   [
    "KI",
    "BzmEicfoM6xRBzUZpYyPsnMBM4Nb7x4XDVy1n83vpump",
    0.226,
-   7.0,
+   8.0,
    ""
   ],
   [
-   "HOSTPAY",
-   "4rhrN9nVsEKznMDNJoFi9HUwPjnNZRn8PDzEKArTpump",
-   0.207,
-   4.8,
-   "top5_hold_most=81%"
+   "Over",
+   "4F3s5z4Kb88XbuXWGxMHsgtR2AkT6hAim2TRH2BWpump",
+   0.133,
+   2.6,
+   ""
   ],
   [
    "Minesweeper",
    "9ZbCrBJ6WzG2jGHGyJbdtt1dh2ypY1REaLinUspdpump",
-   0.111,
-   3.7,
-   ""
-  ],
-  [
-   "Hackat",
-   "3Vm65X67fpzG2DimwmHFMExoRihxu7cx3VyPXR6opump",
-   0.099,
-   5.5,
+   0.101,
+   4.7,
    ""
   ],
   [
    "KMS",
    "EKERc62MsML9KoCZq5qRVNmfMLaCxvQ6Y7NdNHBxpump",
    0.089,
-   5.9,
+   7.0,
+   ""
+  ],
+  [
+   "ClydeFrog",
+   "Cw543oAozZpu74HrnavbwCKRWSBqP1opbhdMxRoypump",
+   0.073,
+   3.0,
    ""
   ],
   [
    "Freezer",
    "uLAv9yZJC5Ev97D9NoqvsQUQhrDbborHEr398Bupump",
    0.073,
-   6.9,
-   ""
-  ],
-  [
-   "CLIX",
-   "5YmdLAZSnwjafYLN6YNUrc5MwkEo2iKiG2SQdz5ypump",
-   0.062,
-   3.9,
+   8.0,
    ""
   ]
  ]
