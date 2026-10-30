@@ -7052,81 +7052,85 @@
   [
    "2026-10-30T13:40:57",
    32.58
+  ],
+  [
+   "2026-10-30T13:42:00",
+   32.58
   ]
  ],
- "cycles": 3545,
+ "cycles": 3546,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.975,
- "watching": 257,
+ "sol_usd": 94.8807490283,
+ "watching": 255,
  "near": [
   [
    "SSI",
    "6q3CGrSHFjZafNpqTE1yGkUmAGBj9qEcXamrYjL1pump",
-   0.839,
-   5.7,
+   0.871,
+   6.7,
    ""
+  ],
+  [
+   "Bulloween",
+   "713D7zvXcyuVjvDeZZC68WRVprRkV6urprm81771pump",
+   0.581,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Coup",
+   "FL2bCPPsYmXASERK38sKWorCfVNawugKEvmVyaZypump",
+   0.202,
+   5.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "bestCode",
    "8CLYH7rsbcjSBXgyyVPoPcXTmqrEs37H7q9fBiyQpump",
    0.189,
-   4.2,
+   5.2,
    "buyers=7"
   ],
   [
-   "PinterestGPT",
-   "FvWCh8VZFqMUXVfP1Myi3B4pyN69akUtE4BMW8DRpump",
-   0.178,
-   9.8,
+   "SXSI",
+   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
+   0.171,
+   6.4,
    ""
   ],
   [
    "ANTIBODY",
    "8uEmrnbzQKH4sbiXbq7d1ujVpRsezHCsS3eDmcapacrW",
    0.156,
-   5.8,
+   6.8,
    ""
   ],
   [
    "JIMOTHY",
    "BbS82nArEgkNDr666eDQpQzSNqrepbKW7YYRPeFFpump",
    0.146,
-   2.6,
+   3.6,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "SXSI",
-   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
-   0.141,
-   5.4,
-   ""
-  ],
-  [
-   "MARCATCRASH",
-   "5wCv9JF3s1e7DTjhXvRTC9zKoSsdV1izsayTie7mzKzf",
-   0.093,
-   2.2,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ELONANCE",
    "99TSQV8zzADhxL4rGBHszAvnC8aZzmYR29qEG7V6pump",
-   0.086,
-   7.3,
-   "buyers=8; top5_hold_most=99%"
+   0.138,
+   8.3,
+   "top5_hold_most=96%"
   ],
   [
    "LAMA",
    "AZDp8BkzPH64oLXrLirCfrk1NM9Sv4Lyyegwoz82pump",
    0.085,
-   8.5,
+   9.5,
    "buyers=8; top5_hold_most=98%"
   ],
   [
-   "SXSI",
-   "4aFo3qVKK9dpfoG3ytHwLwJgNgtdi8aUZNfMR6Hhpump",
-   0.084,
-   4.7,
+   "TUSK",
+   "GxYDxUD5W7rzGuiqvjDoiEEyGf1uw8Xvtk7MAGmfpump",
+   0.079,
+   3.7,
    ""
   ]
  ]
