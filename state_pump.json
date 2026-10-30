@@ -7092,82 +7092,86 @@
   [
    "2026-10-30T15:16:52",
    32.58
+  ],
+  [
+   "2026-10-30T15:17:52",
+   32.58
   ]
  ],
- "cycles": 3641,
+ "cycles": 3642,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.45320000000001,
- "watching": 318,
+ "sol_usd": 95.4817,
+ "watching": 313,
  "near": [
   [
-   "JOLLY",
-   "9dAAviesaK5BDSA6sxAD9rY1yb1U6b3ar2dLo2Xrpump",
-   0.962,
+   "APP",
+   "DGdjYFxeGuhywL2uTZQcbaAR2k33xTMdButEhrhzpump",
+   0.547,
    2.3,
-   ""
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "GenZregelt",
-   "7JLScVj1Nh3Mg2RdxEyee6Jc7LYPGVAwTxb9EmF1pump",
-   0.533,
-   9.3,
-   ""
-  ],
-  [
-   "MULTIPAIR",
-   "CEmWRmpdDymyPk4o2gS86UoR4JzKe4P2ViSeBUxWpump",
-   0.328,
-   4.9,
-   ""
+   "SCRIPT",
+   "BZCnVLoNNdRHGix7cgmCiKSNtnZ7iUWnXwWmubL7pump",
+   0.459,
+   2.3,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "PORN",
    "5ajXAgpKvnGRRu3XN1E68grj2Hd1QV22M4zjN2sXpump",
-   0.182,
-   3.9,
+   0.235,
+   4.9,
    ""
-  ],
-  [
-   "Hubbard",
-   "DSp2TNJU2yWDCdQpdJALG8BPxNZQW7zKQyo5vnvCpump",
-   0.151,
-   5.3,
-   "buyers=9; top5_hold_most=98%"
-  ],
-  [
-   "AAPL",
-   "9Zvhih3JdXKky1VgTvQHhXZmM46w5gSdGgron3e6pump",
-   0.135,
-   3.0,
-   "serial_creator=11 launches/24h"
   ],
   [
    "NAWROCKI",
    "27MQhaUmiHsJBgfMEuDxP1Pp9jUUxFFNuVj9hy1rpump",
    0.097,
-   6.3,
+   7.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "GENNY",
+   "7F4yccTkApyzJ91KsbqtawaXFZHXzTV1HH9KEJD5pump",
+   0.077,
+   2.5,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "KoreanFlare",
    "Fnswy9s6dd3uxVeAozdR1zninxRkJfFhP2DA18L8pump",
    0.075,
-   6.6,
+   7.6,
    ""
   ],
   [
    "AI",
    "FqvLWJPVgVBDUkssGwTwCEq6v998BZT2qwTUu3kgpump",
    0.071,
-   8.1,
+   9.1,
    "top5_hold_most=86%"
   ],
   [
-   "AAPLCAT",
-   "3g7MinHZpGffJRPXECcZTPCWmZ5JkXECdh9RupGDpump",
-   0.052,
-   4.1,
-   "top5_hold_most=98%"
+   "BALLOONCAT",
+   "G2rduvWzS4sTpK6Sg5Pod2kByZp9w1SSUVdRopYVVs9m",
+   0.067,
+   2.8,
+   ""
+  ],
+  [
+   "DOGE2",
+   "4dm7zhLy7hJ29TaGxia22BmMBSDztDr9Y1kztrESvoEN",
+   0.043,
+   5.3,
+   ""
+  ],
+  [
+   "AIKY",
+   "AGeEULUZCrS8aHWGtiQcheaqnamzJKEz6hNz51ebpump",
+   0.04,
+   8.6,
+   "top5_hold_most=99%"
   ]
  ]
 }
