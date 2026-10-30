@@ -7090,84 +7090,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:13:53",
+   "2026-10-30T15:14:55",
    32.58
   ]
  ],
- "cycles": 3638,
+ "cycles": 3639,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.42044999999999,
- "watching": 359,
+ "sol_usd": 95.35447234825,
+ "watching": 342,
  "near": [
   [
    "GenZregelt",
    "7JLScVj1Nh3Mg2RdxEyee6Jc7LYPGVAwTxb9EmF1pump",
-   0.686,
-   6.3,
+   0.648,
+   7.3,
+   ""
+  ],
+  [
+   "MULTIPAIR",
+   "CEmWRmpdDymyPk4o2gS86UoR4JzKe4P2ViSeBUxWpump",
+   0.529,
+   3.0,
    ""
   ],
   [
    "AIKY",
    "AGeEULUZCrS8aHWGtiQcheaqnamzJKEz6hNz51ebpump",
-   0.383,
-   4.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "KoreanFlare",
-   "Fnswy9s6dd3uxVeAozdR1zninxRkJfFhP2DA18L8pump",
-   0.34,
-   3.6,
-   ""
+   0.396,
+   5.6,
+   "top5_hold_most=99%"
   ],
   [
    "ClaimPad",
    "DDVCYRNmwZWtkcrFAwHnmRR4mvNhJMpFrYnbJjWzpump",
-   0.325,
-   4.6,
+   0.316,
+   5.7,
+   ""
+  ],
+  [
+   "KoreanFlare",
+   "Fnswy9s6dd3uxVeAozdR1zninxRkJfFhP2DA18L8pump",
+   0.298,
+   4.7,
    ""
   ],
   [
    "FIVEBRO",
    "AWgfyhCxsYxM2Xm1Mc1nLiG9fKxPie6jPZgPRX481YoB",
-   0.227,
-   8.4,
+   0.274,
+   9.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Hubbard",
    "DSp2TNJU2yWDCdQpdJALG8BPxNZQW7zKQyo5vnvCpump",
-   0.142,
-   2.4,
+   0.145,
+   3.4,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "HODL",
    "C9SLGncGzVfUwKhFNcXrmebbm3hkgHa3FRjuphSdpump",
-   0.12,
-   3.4,
+   0.106,
+   4.5,
    ""
   ],
   [
    "NAWROCKI",
    "27MQhaUmiHsJBgfMEuDxP1Pp9jUUxFFNuVj9hy1rpump",
-   0.098,
-   3.3,
-   "buyers=2; top5_hold_most=100%"
+   0.097,
+   4.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "AI",
    "FqvLWJPVgVBDUkssGwTwCEq6v998BZT2qwTUu3kgpump",
    0.071,
-   5.1,
+   6.1,
    "top5_hold_most=86%"
-  ],
-  [
-   "CPRMoon",
-   "HAgkCuren4gaYmrK5qGeTVr6hVS3dM4gZwMVQBMnpump",
-   0.043,
-   6.7,
-   ""
   ]
  ]
 }
