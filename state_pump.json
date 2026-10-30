@@ -6592,82 +6592,86 @@
   [
    "2026-10-29T19:45:18",
    32.58
+  ],
+  [
+   "2026-10-29T19:46:20",
+   32.58
   ]
  ],
- "cycles": 2471,
+ "cycles": 2472,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.2711968528,
- "watching": 216,
+ "sol_usd": 95.24314884955,
+ "watching": 219,
  "near": [
-  [
-   "OV",
-   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
-   0.618,
-   3.5,
-   ""
-  ],
   [
    "Never",
    "JDmkLbkU45Ag7vJ6nSeN52rnZ9nTJXsTJtC1n9pypump",
-   0.576,
-   9.0,
+   0.463,
+   10.0,
    ""
   ],
   [
-   "PERPEES",
-   "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
-   0.509,
-   7.3,
+   "OV",
+   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
+   0.452,
+   4.6,
    ""
   ],
   [
    "LAPTOP",
    "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
-   0.354,
-   3.1,
-   ""
-  ],
-  [
-   "SCAT",
-   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
-   0.279,
-   2.3,
+   0.286,
+   4.1,
    ""
   ],
   [
    "MM",
    "79BhkF9er7zJiajT4tLNrdGxJ8ndfDHm8r4zxuPJpump",
    0.256,
-   7.5,
+   8.5,
    ""
   ],
   [
-   "DUVID",
-   "EmfTsbpXT3cRWGuuXbXpxWKc34ryvQXByPcAhzVApump",
-   0.095,
-   5.1,
+   "POKE",
+   "3nX4ifDEJcF8Ykjju9YpMnVVpfPc1c8xHANNASZEpump",
+   0.206,
+   2.4,
    ""
   ],
   [
-   "Reverseal",
-   "7td1A7wfpzJUp9xGCp3P4oC7yTHcrxsKG4S3kP3opump",
-   0.08,
-   4.8,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Hackoon",
-   "81awyBc8N8XJUYHdvuC7yd5r62amtvvnEWfyCBRApump",
-   0.067,
-   8.6,
+   "PERPEES",
+   "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
+   0.105,
+   8.3,
    ""
   ],
   [
-   "HY",
-   "GNaqy16Huq2RS4pEcpcERX5QWdA3GsvBbvQwSXjJpump",
-   0.043,
-   3.2,
+   "kimjongun",
+   "xWnmtbPcJCMmh4QU4cqSUTR75bsJGkMqEj5jwCepump",
+   0.096,
+   2.8,
    ""
+  ],
+  [
+   "SCAT",
+   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
+   0.096,
+   3.3,
+   ""
+  ],
+  [
+   "catphish",
+   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
+   0.092,
+   2.6,
+   ""
+  ],
+  [
+   "HYPEFUN",
+   "5p74pVxwCCWjVuXg6Gze35qyD7fjnLXvoZMLUoubpump",
+   0.086,
+   2.7,
+   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ]
  ]
 }
