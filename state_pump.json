@@ -6550,84 +6550,84 @@
    32.58
   ],
   [
-   "2026-10-29T18:10:05",
+   "2026-10-29T18:11:11",
    32.58
   ]
  ],
- "cycles": 2376,
+ "cycles": 2377,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.16085475220001,
- "watching": 159,
+ "sol_usd": 94.46000000000001,
+ "watching": 151,
  "near": [
   [
    "Swansem",
    "6NqCAw6W9KZYMKncMCm5G1zUBBeqbiQNuuNjExb2pump",
-   0.536,
-   3.8,
+   0.564,
+   4.9,
    ""
+  ],
+  [
+   "DFG",
+   "6GTupzLDqGiXiJsokc5W6XbYXSak5H6rFegmZdLPpump",
+   0.517,
+   2.2,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "VIRL",
+   "HfVwB2oSMWUDCHDNadUr7gdehica4BC2uzfb2SGrpump",
+   0.273,
+   3.1,
+   "top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "BSHOT",
+   "FLtPUw5FQV4aCV1CmsmFZYZYwQfsgbVJt1Ljb8ADTkEj",
+   0.204,
+   2.8,
+   ""
+  ],
+  [
+   "YUBIKEY",
+   "FuNM9Sjvzy53UCLHoDgF2p9AYroPYXxVmUQ6zouDpump",
+   0.196,
+   2.7,
+   "top5_hold_most=89%; bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "DUMBLEDORE",
+   "DdFuwASq1SKRNDp8h6bVTL2u6iVMeYAindiQBjFjpump",
+   0.136,
+   3.1,
+   "buyers=8; top5_hold_most=93%"
+  ],
+  [
+   "WoW",
+   "7PBCiVyUbML77vdWzgRFz7TVa3vNv3erLfUvs2eJpump",
+   0.121,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BUNA",
    "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
    0.105,
-   3.7,
+   4.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "HACKER",
-   "Ezxzx6gTckPWgUx8BHDKXPXQjDJPMacgH2VwqM8qpump",
-   0.074,
-   9.6,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "PooInu",
-   "DR5iBzXRcPTB1uPkm3mTR7ryWBaxq8i8Y2mTgGe8pump",
-   0.045,
-   2.5,
+   "LB",
+   "382vHLzJ9rggZ8AFTa2Czf2CJucBkZMsTrkiA7kkpump",
+   0.072,
+   3.1,
    ""
   ],
   [
-   "bob",
-   "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
-   0.042,
-   3.0,
-   ""
-  ],
-  [
-   "MIL",
-   "D3rDRsSr14ULKFQJFJ1YCNxpSKZNUs9zLztPVaz6pump",
-   0.033,
-   5.8,
-   ""
-  ],
-  [
-   "LAZABNB",
-   "YhQ9Ssq5ynmNZkmkDAXtM6h8tiirhNUfEqXcPfqpump",
-   0.022,
-   2.8,
-   ""
-  ],
-  [
-   "PARK",
-   "GiAQfxbbaa3U5zyuzorngQcxZTBmwft29KsGCT87pump",
-   0.021,
-   8.9,
-   ""
-  ],
-  [
-   "Trunoest",
-   "BbZGgPPDkpJ94oNvmqkX15nzLtpQ5W9oBxj7Ye56pump",
-   0.02,
+   "SF",
+   "6ASRWYvN3WjZudLYBCX8HnFTfsc3GBBgwjPW8BYjpump",
+   0.07,
    2.6,
-   ""
-  ],
-  [
-   "SWANG",
-   "6rqzB7DCiFLebYU6PyHmKKtg7DE53PGWbxmDztUopump",
-   0.019,
-   3.3,
-   ""
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
