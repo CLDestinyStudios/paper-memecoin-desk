@@ -6934,84 +6934,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:03:46",
+   "2026-10-30T09:04:45",
    32.58
   ]
  ],
- "cycles": 3268,
+ "cycles": 3269,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.605,
- "watching": 235,
+ "sol_usd": 94.48902871045,
+ "watching": 248,
  "near": [
   [
    "BOBBY",
    "Ezwfot5TSriXKzKYimgSrULyYMo5G9yfSuWEsAR7pump",
-   0.979,
-   4.7,
-   ""
+   1.0,
+   5.7,
+   "graduated"
   ],
   [
    "ARVEL",
    "8zFSC6ydfuYNPT7qYexgEVeE9hE7Be2Vzqy8vreypump",
-   0.866,
-   5.3,
+   0.884,
+   6.2,
    ""
   ],
   [
    "SUGAR",
    "31nMuN5DwNhcV796KP8Ur5JD9E6mLdu8vQhu2W5Ypump",
-   0.71,
-   7.9,
+   0.682,
+   8.9,
    ""
   ],
   [
-   "KoreanFlare",
-   "G8aq9rzYWvm9GhDy5guNDbPTv1d3KP7tHCp4btNgpump",
-   0.691,
-   2.5,
-   "serial_creator=10 launches/24h"
+   "CZTROLL",
+   "7oK93rHCUkAsewiBMw5cizG8TX4y39WeERAmGW6pump",
+   0.633,
+   2.4,
+   "creator=47.2%; top10=50.0%; top5_hold_most=99%"
   ],
   [
    "FSD",
    "8bbAcnTtgUTCCXGZbJ7DBKSvW8Z2k9bFj9NfGgEapump",
-   0.465,
-   6.3,
+   0.611,
+   7.2,
    ""
   ],
   [
    "NOCALLS",
    "7sX7WQUHaiKVpKhyAcMxdxuvZoLDwkBBRuZcpoF7pump",
-   0.307,
-   2.6,
-   "top5_hold_most=87%"
+   0.381,
+   3.5,
+   "top5_hold_most=95%"
   ],
   [
    "ASINU",
    "9fw1evNSQ8qKhoiD6gJdqi3NELydcxdZjmpSqV2Zpump",
-   0.225,
-   3.8,
+   0.255,
+   4.8,
    ""
   ],
   [
-   "ABBY",
-   "C3wJwjUDYvnH89G2RBiB9oXXS16MhVbd2SFqpY7mNk3q",
-   0.136,
-   6.7,
-   ""
-  ],
-  [
-   "MP",
-   "FiAMRK5httdRQkHxuu1xz3QV6wq12JzG9iLJizqKpump",
-   0.116,
-   7.8,
-   "buyers=4; top5_hold_most=100%"
+   "Sansatemple",
+   "9x174tP7RgKSWUTseJkeMETnxDr4QroCNio9p3nXpump",
+   0.155,
+   2.8,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "FF",
    "49in2FeP5XKJ5YqGuNm6HxEo3Uvxe3VnxSCi1uTBpump",
    0.11,
-   7.1,
+   8.1,
    "buyers=6; top5_hold_most=97%"
+  ],
+  [
+   "MP",
+   "FiAMRK5httdRQkHxuu1xz3QV6wq12JzG9iLJizqKpump",
+   0.093,
+   8.7,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
