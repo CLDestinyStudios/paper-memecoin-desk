@@ -7094,84 +7094,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:24:52",
+   "2026-10-30T15:25:53",
    32.58
   ]
  ],
- "cycles": 3649,
+ "cycles": 3650,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.45303159405,
- "watching": 267,
+ "sol_usd": 95.41804386579999,
+ "watching": 275,
  "near": [
   [
    "JOLLY",
    "72xT8GLE76h6eVXSQtH6xTScJ4aikpXe5jiTLqDPpump",
-   0.981,
-   6.9,
+   0.984,
+   8.0,
    ""
   ],
   [
    "Biscuit",
+   "4K63JMuSfrEZZb1D3BNKcKvwfZBf7yTwEA8o2iUBpump",
+   0.737,
+   2.6,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Biscuit",
    "FHwxTyU8btJz1spi1yvdeNq8bSNcMWmsLX78xtgApump",
-   0.621,
-   5.3,
+   0.537,
+   6.3,
    ""
   ],
   [
    "EVENING",
    "FoimeGmUuvZ3h65AaMcUWHqNrUvRGgwD5cPv8HS1pump",
-   0.25,
-   3.0,
+   0.226,
+   4.0,
    ""
   ],
   [
-   "BISCUIT",
-   "8Ps7t3UPzxFcRHgRVMFWurXmT5Mj4mZADAVwvgEqpump",
-   0.15,
-   4.8,
-   "buyers=5; top5_hold_most=100%"
+   "bipo",
+   "J81pkT82c7Y1Hj5Dr6CoXPGsU7ajBXJfhPYAia82pump",
+   0.087,
+   2.1,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Biscuit",
-   "CZEVH84aWDWUjmfmQEUVzs6En7kJL5m8zhbYVJ9ipump",
-   0.09,
-   5.6,
-   ""
+   "UDF",
+   "HEW3xZ9ZXchvJ238jZrgtxmnvaXTkWcDTWs6N22Lpump",
+   0.084,
+   2.9,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "NT",
    "5jmviFmcKELn8mZohxDejtSmifcnCjDaT235r13Kpump",
    0.077,
-   3.4,
+   4.5,
    "top5_hold_most=98%"
+  ],
+  [
+   "Biscuit",
+   "CZEVH84aWDWUjmfmQEUVzs6En7kJL5m8zhbYVJ9ipump",
+   0.072,
+   6.6,
+   ""
   ],
   [
    "FUTURE",
    "F6CmK3ToX5TXaeJaEYJUvbxHCYvyNstmQiPZ2eGtNXCX",
    0.064,
-   3.2,
+   4.2,
    ""
   ],
   [
    "KAROL",
    "J9Z3XbBsnZwbGx6KPwsrWpZi6WX1bBLB9tkpByN3pump",
    0.063,
-   8.1,
+   9.2,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "SCULPT",
-   "6DsEaKkD7Bv2cZjRvbP2Ym2UMYkCeDKPrEzehFCHpump",
-   0.063,
-   2.4,
-   ""
-  ],
-  [
-   "Biscuit",
-   "G9WTsrF3MewuuGPeTTwfMgBWk9KwKDRBiHU7suRepump",
-   0.062,
-   6.0,
-   ""
   ]
  ]
 }
