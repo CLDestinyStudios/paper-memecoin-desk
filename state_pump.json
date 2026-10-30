@@ -7004,81 +7004,85 @@
   [
    "2026-10-30T11:49:49",
    32.58
+  ],
+  [
+   "2026-10-30T11:50:49",
+   32.58
   ]
  ],
- "cycles": 3434,
+ "cycles": 3435,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.7469656476,
- "watching": 343,
+ "sol_usd": 93.68703514315,
+ "watching": 335,
  "near": [
+  [
+   "MEMESTOCK",
+   "69PYHuqeU4KqzABsgdD7XMLrndR9pcTkn8qC1vYLpump",
+   1.0,
+   2.7,
+   "graduated"
+  ],
+  [
+   "ROAR",
+   "9RhuxPTaEL7UVJgXALbS39Dja2fLWu5z9dsi893Xpump",
+   0.663,
+   3.0,
+   "bundled_launch=4 extra buys in creation block"
+  ],
   [
    "AML",
    "Es6jQ2nZT3a7XgTrn8C6f46hRwiRnXb6Jq9MX6Vqpump",
-   0.6,
-   7.6,
+   0.577,
+   8.6,
    ""
   ],
   [
-   "MONJI",
-   "GShp2yw6rX27dWQDJniwiBTSudotq1zuqPwF4xCUpump",
-   0.108,
-   8.6,
-   "buyers=6; top5_hold_most=100%"
+   "MEMESTOCK",
+   "9oZF923ZwRNzp7qKWLzQaB6AuDRbKkaGWqCjzd6Epump",
+   0.441,
+   2.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "bag",
    "2Hnc7rD7fYD4zJQT8ptngbb7jL47HeVnfRZHNhAGpump",
-   0.094,
-   3.1,
+   0.091,
+   4.1,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "cird",
-   "8yyzjm14T5CgMD9GJW34kPxgvC8Firoj2n8y6p2ppump",
-   0.094,
-   3.0,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "shit",
    "89GqBSStv6RY9cEdUbrmJQ7HiiHHDRvQGfoHXKJtpump",
    0.086,
-   4.9,
+   5.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "BI",
-   "2g1YZJdt1prxHMs4co1cCsdZhGy6i6pfuxNcnk4bpump",
-   0.077,
-   4.0,
-   ""
-  ],
-  [
-   "Swalloween",
-   "69HKpfQizVny2tvH4Qtz86bBZmrx9SEGRh4pR3Q5pump",
+   "CWCH",
+   "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
    0.07,
-   5.4,
-   ""
-  ],
-  [
-   "\u66d9\u5b9d",
-   "9BzcWe47hBXUzg9wmfTfa1TVJMuM2z3YP6cecWZSpump",
-   0.06,
-   3.1,
-   ""
+   2.7,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
    "CTO",
    "B6epCucCTzHyH69UgkR69repUb7iWFgUuY6ZnRj9pump",
-   0.056,
-   6.3,
+   0.055,
+   7.3,
    ""
   ],
   [
-   "MANURE",
-   "7uRiE5Fu6NtUFnefoLFkvtbanfwZzPnUn93dFq63pump",
+   "Mei",
+   "7CbjgGtuhuFB8U1EYFrqNivF6kfTBiLUCxxXd2fupump",
    0.043,
-   9.3,
+   4.5,
+   ""
+  ],
+  [
+   "kim",
+   "2TTL7hDi4Jsp93j1bxD9uykU27GubKXTrEVteiJEpump",
+   0.043,
+   5.6,
    ""
   ]
  ]
