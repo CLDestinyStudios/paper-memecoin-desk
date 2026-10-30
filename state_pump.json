@@ -6958,83 +6958,83 @@
    32.58
   ],
   [
-   "2026-10-30T09:58:47",
+   "2026-10-30T09:59:47",
    32.58
   ]
  ],
- "cycles": 3323,
+ "cycles": 3324,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.775,
- "watching": 252,
+ "sol_usd": 94.93304009005001,
+ "watching": 271,
  "near": [
-  [
-   "anthrupic",
-   "3aFjeQZW6dEeywwngN8w6bX4cfLbXq6B5c2LTnCipump",
-   0.968,
-   9.7,
-   ""
-  ],
   [
    "AI",
    "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
-   0.836,
-   2.6,
+   0.85,
+   3.6,
    ""
   ],
   [
    "GARLIC",
    "8Y2Wux52xfpGmxeKCakJqJBL9cvoevuAjSbAKUjDpump",
-   0.736,
-   5.6,
+   0.767,
+   6.6,
    ""
   ],
   [
-   "Mimi",
-   "9N4QHXwwV4udPrzB4h1pzBCz4c8V7okVaewRj5oapump",
-   0.706,
-   9.9,
+   "KIMCHI",
+   "5uPBmk7PH3EUyC8YHLjM73jq5Ext5iDLcemLsQj7pump",
+   0.415,
+   2.7,
    ""
   ],
   [
    "Mimic",
    "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
-   0.439,
-   2.5,
+   0.399,
+   3.5,
    ""
+  ],
+  [
+   "Kali",
+   "BC493ouUf7QZBK85ywC1R3LFkwpXPKGbAaMDLLtWpump",
+   0.38,
+   2.1,
+   "serial_creator=9 launches/24h"
   ],
   [
    "SKULLSUN",
    "7jDn7V3bXk82qs4qvJUuPbkvmRNamLGSe7FzRdjvpump",
-   0.296,
-   6.1,
+   0.298,
+   7.1,
    ""
+  ],
+  [
+   "SAFE",
+   "67rdz8EdkWhqnoBC1TNnyvekQSG2D4HSePMMTR6opump",
+   0.242,
+   2.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "SURVINU",
    "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
-   0.209,
-   4.4,
+   0.213,
+   5.4,
    ""
   ],
   [
    "PCOIN",
    "suhwbjMp7xnhE9CrW7JfTwaVZBYxAsBdYu2wvcdpump",
    0.165,
-   3.9,
+   4.9,
    "buyers=6; top5_hold_most=98%"
   ],
   [
-   "CCORG",
-   "HegQZ6XBbfbEwsAKHFCmMN8FQYtqWFnta6GZc5Qwpump",
-   0.132,
-   5.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "nazkun",
-   "CzpDboN8F6gHBvDAyNYRvv4FAQG1tfdAFYF1FT8qpump",
-   0.1,
-   5.6,
+   "vibecat",
+   "B2v8CTffzvjeyDfRfGJ8dYM8udTSD8ivcveSe4d6pump",
+   0.15,
+   2.1,
    ""
   ]
  ]
