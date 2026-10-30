@@ -6854,84 +6854,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:00:05",
+   "2026-10-30T06:01:06",
    32.58
   ]
  ],
- "cycles": 3085,
+ "cycles": 3086,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.72755000000001,
- "watching": 126,
+ "sol_usd": 96.67314456525001,
+ "watching": 129,
  "near": [
   [
    "Zepe",
    "GawDtiTE1o6vGDxDSR35Z2nS9P7yj1uV3a3ucuCopump",
-   0.949,
-   3.6,
+   0.978,
+   4.6,
    ""
   ],
   [
    "4Pad",
    "4HmTNc9zqaYBfF47mDz6j9Hh3PQPfEdJYfQgfGJHZ5kW",
-   0.732,
-   5.4,
+   0.771,
+   6.5,
    ""
   ],
   [
    "Believe ",
    "75vhpEUsyjFSarJ6HJ1dXQfVRX6t4Vocef9iWXSbpump",
-   0.541,
-   3.3,
-   "creator=29.6%; top5_hold_most=85%"
+   0.605,
+   4.3,
+   "creator=31.4%"
+  ],
+  [
+   "KimBao",
+   "72ARF3rZGP2rLKKQPShhUzwdknW7wrP5ky5xc94Xpump",
+   0.593,
+   2.4,
+   ""
   ],
   [
    "MUSTER",
    "9QnTq3SMZExiRBuqL1iv7C9VBsyAMF2xBiqBtsw18Uik",
-   0.243,
-   6.8,
-   ""
+   0.199,
+   7.8,
+   "top5_hold_most=81%"
+  ],
+  [
+   "CUM",
+   "ApMHSfRzfUwfYMpVVfVBzAFFXKgCcM5nMNEdz6xvpump",
+   0.141,
+   2.5,
+   "top5_hold_most=83%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "GenePark",
    "8wUjyRoWLpJdczXSrB3NycbP661qE315yV151iT6pump",
-   0.182,
-   3.1,
+   0.124,
+   4.1,
    ""
   ],
   [
    "cumodities",
    "4pLrNZWBZWMh6wApgRZLg2GTLNxjUhmSvoXSpBuSpump",
    0.088,
-   5.0,
-   ""
-  ],
-  [
-   "Hal",
-   "6adp6esjdKP58vkpnBigaqBGT6t6VevikaQuiWs8pump",
-   0.081,
-   3.7,
+   6.0,
    ""
   ],
   [
    "PVE",
    "AUTSW4mpkM9SMekewrPyX1GwF8pqXyNpy8bSB4z5KkSg",
    0.076,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "CTO",
-   "7MdsWv7KdeqCKirquie5naez4XgyVB1ZfDtJsmxMpump",
-   0.071,
-   2.7,
-   "top5_hold_most=85%"
-  ],
-  [
-   "guld",
-   "9LE8k4Gs4GbUjp2s15pthzdPJYwsUu2LynYuH7r1pump",
-   0.059,
-   5.2,
-   ""
+   "JIREN",
+   "GAoRE7DBBBpUxysfhDwncb8a69GjnRQGCpU7x7oYpump",
+   0.068,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
