@@ -6758,84 +6758,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:17:46",
+   "2026-10-30T02:18:46",
    32.58
   ]
  ],
- "cycles": 2863,
+ "cycles": 2864,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.92078603994999,
+ "sol_usd": 96.99,
  "watching": 199,
  "near": [
   [
    "TraderTraito",
    "ECcrvdwqWZtbozG9GJJaJ8hnaB4ZXNLtmyCHcC3mpump",
-   0.927,
-   7.4,
+   0.918,
+   8.4,
    ""
   ],
   [
    "$10B",
    "8n2gFoN1hbpk5GneH92u9grDRNfb3d45FDUMN9yCpump",
    0.232,
-   5.4,
+   6.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SATCOIN",
+   "HPqqWncAUDPKzQZkLnu1Pkifrr2SnGXZMBS8ogEgpump",
+   0.199,
+   2.3,
+   "top5_hold_most=86%"
   ],
   [
    "PUMPBLOX",
    "FYjhV2CGsZB4aw6WZn9ThhyQB2KMRJRDdHXiQy3Wpump",
    0.188,
-   5.2,
-   "buyers=9; top5_hold_most=99%"
-  ],
-  [
-   "BNB",
-   "76udiFLpSYchUgBaCWXukBN7TaFavwQ7ejSbAFYqpump",
-   0.181,
-   4.8,
-   "top5_hold_most=83%"
-  ],
-  [
-   "$19",
-   "6zLV5octNC4iz9AmY18rYGzQBhsVUsPAHdbt6XGXpump",
-   0.13,
-   2.7,
-   ""
+   6.2,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "RIPINU",
    "6QQeKjHjs8SbvmZBAhHc6dmsego3AKHQwEwna9BHpump",
    0.117,
-   6.4,
+   7.4,
    ""
   ],
   [
-   "HOUSECOIN",
-   "2VgzY2UZWFoGMMZL27MR1jLs4KpnL7RAxPaDQNdPpump",
-   0.092,
-   3.0,
-   "buyers=2; top5_hold_most=100%"
+   "$19",
+   "6zLV5octNC4iz9AmY18rYGzQBhsVUsPAHdbt6XGXpump",
+   0.115,
+   3.7,
+   ""
+  ],
+  [
+   "LEET",
+   "HNjc6qUBMNmSGJdKHT48v4WXLtn9va2Qj4eHJ5BHpump",
+   0.089,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "\ub4dc\ub860",
    "2b4YQptsfiXeEHfihPdN3W5DPuTLKV1TPmRxRiWcpump",
    0.072,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "Zepe",
+   "A3QDUqvsPJUmLGTA1znD6iizEiUhp67k68Sc9XzZpump",
+   0.054,
+   2.2,
    ""
   ],
   [
    "PAIDSCR",
    "672sMAoNsGUri52jZaxFz8sEMYHxp5GQp1SXB2Zapump",
    0.026,
-   5.2,
+   6.2,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "DGB",
-   "8aAxyyyERmvBz165VrASU9vvgj3eVCwkdmnT86T4pump",
-   0.02,
-   2.4,
-   ""
   ]
  ]
 }
