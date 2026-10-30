@@ -6802,83 +6802,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:00:45",
+   "2026-10-30T04:01:46",
    32.58
   ]
  ],
- "cycles": 2966,
+ "cycles": 2967,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.1579418144,
- "watching": 178,
+ "sol_usd": 97.14343835799998,
+ "watching": 165,
  "near": [
   [
    "Pitpaw",
    "GmB6pej6JY7u6RwxzVmcv523AaLFNzQH4qyiyZuxpump",
-   0.93,
-   4.2,
+   0.955,
+   5.3,
+   ""
+  ],
+  [
+   "qoute",
+   "EU91R369a1UQWVuhdNfAT5vfg4pDLBoWDzp6pYPGpump",
+   0.197,
+   3.0,
+   ""
+  ],
+  [
+   "Potato",
+   "ERXYW8YsTJu1griHNbtC6DE23uAXa2CXWeAaN6SdccVY",
+   0.135,
+   2.5,
    ""
   ],
   [
    "YALI",
    "ArhUgTudp76rTcYr6CoqSrPC9K8zChKqyq7ErZorpump",
    0.113,
-   4.4,
+   5.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "prm",
+   "Gw8DXqgi6psSmAyW1ww7AoBX1sRcGrmLuRdnieMKpump",
+   0.09,
+   2.1,
+   ""
+  ],
+  [
+   "DAEMON",
+   "7qgALJKFJbbHRiu6LSqdebQwVKoHtxzgUuH8wXaeHfT6",
+   0.084,
+   2.7,
+   "top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Drunk",
    "HCJvk9Joq39onTsnxnKnJsfHvC46f2PppDYnFXWQpump",
    0.082,
-   7.6,
+   8.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Kim",
    "6xUcj99rbwBT6eu1rNUYv49FXGu6gtKabvqTKr9vA1gG",
    0.075,
-   2.7,
+   3.8,
    ""
   ],
   [
    "FBI",
    "DQJFSDcWYTZ9TgxdU9n2AGtA87Zcc9pBQCZqJUwvThmU",
    0.074,
-   6.8,
+   7.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "CircuitATLAS",
-   "8mFpGz82iiNpcuwFUuKU5hthz3NRmiu74J9nntEkpump",
-   0.056,
-   10.0,
-   ""
-  ],
-  [
-   "MOUSEWIF",
-   "ceWzoPc5yqNLNNbLRjNxmZ9KbQW5GSFyeRMQn3Jpump",
-   0.045,
-   5.8,
-   ""
-  ],
-  [
-   "MBE",
-   "Eyv8RVsZCRcoQJbohF9iNqQscVANLKLvnjvmgZj9UdvA",
-   0.03,
-   7.1,
-   ""
-  ],
-  [
-   "UNDRAINED",
-   "HPZ5KX1dH8etbu5ipX3d6i6sndiPxu4bgMdBZUuXpump",
-   0.029,
-   3.9,
-   ""
-  ],
-  [
-   "KIM",
-   "HhWR3ZQAvZ38svoKAsRdrjAdPCRgd4eYiijCmCSGpump",
-   0.024,
-   4.4,
+   "HBbGUNXfMs4YnSCDDNwha2KcG1raW716bzM8eDzXpump",
+   0.043,
+   2.9,
    ""
   ]
  ]
