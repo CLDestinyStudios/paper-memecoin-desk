@@ -6822,83 +6822,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:41:46",
+   "2026-10-30T04:42:45",
    32.58
   ]
  ],
- "cycles": 3007,
+ "cycles": 3008,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.69003124465,
- "watching": 142,
+ "sol_usd": 96.64647196920001,
+ "watching": 149,
  "near": [
   [
-   "HPAD",
-   "9d8NXoxYEpMkiqpMCXEcCcZxSNBeHbqWUcgPCbuipump",
-   0.18,
-   2.6,
-   "buyers=6; top5_hold_most=99%; bundled_launch=3 extra buys in creation block"
+   "HypedAgent",
+   "4YFqD18hEBp2m9wtCepvXBo4AWepZyCWqBH2MVfWpump",
+   0.889,
+   2.5,
+   ""
+  ],
+  [
+   "FBinance",
+   "5dhdD1krNbx8h9dNa3khqEEnze4jYoXbwhSWTJHrpump",
+   0.601,
+   2.8,
+   "creator=42.0%; top10=47.3%; top5_hold_most=99%"
   ],
   [
    "house ",
    "nhiMr6HxmiDa9KK7nTkQB4741scrh14vPJxyGF5pump",
    0.131,
-   4.2,
+   5.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Fawn",
    "4ZWi3Eaffq1QNvJjzKb1wuK6LTJZ1jRE6vdTsrDpxkKL",
    0.095,
-   4.4,
+   5.4,
+   ""
+  ],
+  [
+   "fishkie",
+   "E4jbLw1dTkomLQnaLKUqCC9BD3VarBEXkdGMZa3jpump",
+   0.084,
+   2.1,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "hedge",
+   "Fqkz5seg8vfeeofiYXEs2Bmh3NpxGCh4QvTsokAspump",
+   0.075,
+   4.1,
    ""
   ],
   [
    "OAEITU",
    "8LWEQdf6A5t9WbZW8RoWVFrhAADbQxZ1zKr1E1Mdpump",
-   0.073,
-   2.0,
+   0.072,
+   3.0,
    ""
   ],
   [
    "Squeeze",
    "4B984hJrGTvAE5SyWdNBePeqGRRNkzk9vfXVD8zPeWC6",
    0.064,
-   7.2,
+   8.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "hedge",
-   "Fqkz5seg8vfeeofiYXEs2Bmh3NpxGCh4QvTsokAspump",
-   0.048,
-   3.2,
-   ""
+   "IMU",
+   "H4J6PG1qQxEyZfLEKB95rhRy8NL6cJxjiJpEkRVypump",
+   0.052,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "NICS",
    "CWNWNaUdjoWATZCZz7Q4FQPdU6e1sJq11ynnBFyWpump",
    0.044,
-   8.7,
-   ""
-  ],
-  [
-   "Fawn",
-   "F5DsjNXvKtkiixfw2JD6cDtMpXvp7fpFeAfDV8aC6VJ3",
-   0.043,
-   3.4,
-   ""
-  ],
-  [
-   "$MERA",
-   "74Fsfkoy4j8kzdaWa1JHR23pYzVyVbtujdC1Hmoxpump",
-   0.027,
-   3.1,
-   ""
-  ],
-  [
-   "Fawn",
-   "5yzyGgfXMgqctGkP3aL7kH1zfxQJU8VZL6n7cDVvpump",
-   0.024,
-   3.8,
+   9.6,
    ""
   ]
  ]
