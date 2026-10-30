@@ -7014,84 +7014,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:14:50",
+   "2026-10-30T12:15:50",
    32.58
   ]
  ],
- "cycles": 3459,
+ "cycles": 3460,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.15842498040001,
- "watching": 333,
+ "sol_usd": 94.1779397791,
+ "watching": 335,
  "near": [
   [
-   "KBOTS",
-   "CR6MzymVf9LVRBKSvDgCiUipwLw2VYYZoAw4PWf9pump",
-   0.601,
-   2.8,
+   "HTCOIN",
+   "8bjhUfuT5xyg9m5Y72SQzKTkdyp642yhkqXBFW6Rpump",
+   0.407,
+   2.2,
    "bundled_launch=4 extra buys in creation block"
   ],
   [
    "MINECAT",
-   "2wYeBQPrHEQonr3YtC6TBgJ7ik9RCLdqYvbStKcD2cYm",
-   0.194,
-   6.1,
+   "EDzEBWzjy5YXfxDoQECXgttk55aBTNtHvzSeU7KCpump",
+   0.133,
+   5.9,
    ""
   ],
   [
-   "MINECAT",
-   "BUtuqsnw3TL9iix7wYePghHwjkiRvEWFTzWpzxQCpump",
-   0.149,
-   5.9,
+   "GAS",
+   "Fjocbj3fQaYbBU1LiwTd42r1uwKVHQPk7dDJzeD1pump",
+   0.121,
+   2.3,
    ""
   ],
   [
    "MINECAT",
    "6A25h65Se2ynnN9Qpue79nJ3PxgtemZEaQtfR4QFpump",
    0.114,
-   7.0,
-   ""
-  ],
-  [
-   "SPHINCS",
-   "G3YR7aoB582zyG6j22ArxWcyuTJmvJPm4ov5LwhSpump",
-   0.102,
-   5.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "minecat",
-   "B26PdGbVfUwbkiFUCKRD4ktdiKS5LoLcGT8Ni5fApump",
-   0.087,
-   6.6,
+   8.0,
    ""
   ],
   [
    "MINECAT",
    "A7P4N3ZGULE4mbatK8V8MVnnrd13zhW5psyBMZrqpump",
    0.084,
-   6.6,
+   7.6,
    ""
   ],
   [
    "CUSTOMS",
    "4HqmAiUd2m9mdpTLmgNXU9WQ8jXkNoS7NdhdJ6nKpump",
    0.084,
-   2.7,
+   3.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "LACYPILL",
-   "ApJBCuFsbeZqAKX5DrSZ59g4RiNkNxvrBNfXGmfWpump",
-   0.071,
-   5.7,
-   "buyers=1; top5_hold_most=100%"
+   "HAMSTAR",
+   "5JsUnqzWsVYkJxtpXaDqQ4E17Y49duDFELwnj8Zpump",
+   0.067,
+   2.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "NEVER",
    "7rKy82tLiGa4nQg13X1Phiuh4rbTbhjtxgGUWKHTpump",
    0.064,
-   3.2,
+   4.2,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "JELLIE",
+   "Cmd6pwCPY4H753nwbPiEDzzzpwBBK4sPQsVhGd8PXvxX",
+   0.064,
+   5.8,
+   ""
+  ],
+  [
+   "RED",
+   "78TUEhyRtkT3ZM6ktH2TLWSktibdQoLxJYkmWqCppump",
+   0.062,
+   3.8,
+   ""
   ]
  ]
 }
