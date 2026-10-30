@@ -7130,83 +7130,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:44:54",
+   "2026-10-30T16:45:57",
    32.58
   ]
  ],
- "cycles": 3729,
+ "cycles": 3730,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.13999999999999,
- "watching": 229,
+ "sol_usd": 96.15860000000002,
+ "watching": 246,
  "near": [
   [
    "George",
    "4poKLzPuwjKJgXM6eF3EqBbMzWgkapi96vbNSkZipump",
-   0.854,
-   6.9,
-   ""
+   1.0,
+   7.9,
+   "graduated"
   ],
   [
    "NOTF",
    "G9zKG9pwfYZio8bFE34gg1wMrzbvENNpGVdVs4ohpump",
    0.247,
-   8.5,
+   9.6,
    "top5_hold_most=86%"
+  ],
+  [
+   "ONBOARD",
+   "8ETX8rWooTssjcQb1fkbgcBwME8tZpLVmsFTNjbLpump",
+   0.246,
+   2.5,
+   ""
+  ],
+  [
+   "MOCHE",
+   "FX67gGAo2ixZGDLoKMmAqXYqHT2BGXHZiwtUZ2e9pump",
+   0.201,
+   2.2,
+   "top5_hold_most=87%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "OF",
    "CUUzEEgk2aeYHASxMHJ3NaJFKY3TzcfNudSZ2wZzpump",
    0.105,
-   3.7,
+   4.8,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "George",
-   "5DiZvfQZH3r4DxzspvcqYumXYgUG2fMwQQrcLVu2pump",
-   0.087,
-   4.3,
-   ""
-  ],
-  [
-   "Croak",
-   "B7RUDfVNWvgJUQRTnXB2k2dDNa7wgtvRM8xahHqfpump",
-   0.082,
-   3.3,
-   "top5_hold_most=98%"
-  ],
-  [
-   "tolls",
-   "8TDrYnyoi8A9eSsJt9syhumh5hkcCXN5tLHWLqkkpump",
-   0.076,
-   4.2,
-   ""
   ],
   [
    "SMOL",
    "CicUeEKBZyAGfhh1pwsAfAJHVh8rXrqzjiqLoqsopump",
    0.068,
-   6.1,
+   7.2,
    ""
   ],
   [
-   "#9945FF",
-   "ASZ21w3Bo3rWx4rYvfGstVNFsTeix9Z19M1ssmXvpump",
-   0.059,
-   7.0,
+   "sloppyslop",
+   "6EaHVruJMfAR5mYHQfwpuQKTJpiuStBAssTgmXyTpump",
+   0.043,
+   2.6,
    ""
   ],
   [
-   ":)",
-   "EdQSr5NBw7GXP4mCmMCLMZwGfnuaYheXYkcq5Z6cpump",
-   0.046,
-   9.7,
+   "George",
+   "6anxoJkmqffZ1b8mxajGgwxwALhNEetUCT4TQjTBpump",
+   0.043,
+   2.7,
    ""
   ],
   [
    "SMOL",
    "7uzUUg7DtwPtpqwsykiCJX5ipu4TrRVJfCpZScJTpump",
    0.041,
-   5.8,
+   6.9,
+   ""
+  ],
+  [
+   "X Movies",
+   "ENChP2ftR5jYAQi9LAnR6uoLbw4ZsjuMcP22m63qpump",
+   0.036,
+   3.5,
    ""
   ]
  ]
