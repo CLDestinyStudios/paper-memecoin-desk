@@ -7098,84 +7098,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:27:52",
+   "2026-10-30T15:28:51",
    32.58
   ]
  ],
- "cycles": 3652,
+ "cycles": 3653,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.4369688119,
- "watching": 266,
+ "sol_usd": 95.4794,
+ "watching": 259,
  "near": [
-  [
-   "scaninu",
-   "inuy29e9V3efuwY4Ag3pwdrqhWZigXnuhqWSVdcXVF3",
-   1.0,
-   2.0,
-   "graduated"
-  ],
   [
    "Biscuit",
    "FHwxTyU8btJz1spi1yvdeNq8bSNcMWmsLX78xtgApump",
-   0.41,
-   8.3,
+   0.323,
+   9.3,
    ""
-  ],
-  [
-   "CASINO",
-   "CdaBBEooJ6dGuYUBepbTMEDne2SBqRjLoGgj2yJVpump",
-   0.258,
-   2.6,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "EVENING",
    "FoimeGmUuvZ3h65AaMcUWHqNrUvRGgwD5cPv8HS1pump",
-   0.212,
-   6.0,
+   0.211,
+   7.0,
    ""
   ],
   [
    "WANGCAI",
    "BuHm772s8L2cbDnr9MhVJYVjkye5fBD4M139rUWgpump",
-   0.15,
-   3.1,
+   0.136,
+   4.1,
    ""
   ],
   [
    "UDF",
    "HEW3xZ9ZXchvJ238jZrgtxmnvaXTkWcDTWs6N22Lpump",
    0.084,
-   4.9,
+   5.9,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "FUTURE",
    "F6CmK3ToX5TXaeJaEYJUvbxHCYvyNstmQiPZ2eGtNXCX",
    0.064,
-   6.2,
-   ""
-  ],
-  [
-   "MOHAWK787",
-   "2VWz4uFaXY8jdj9itsYxYB7cEk5Ei4qrUBLRvYEDpump",
-   0.064,
-   3.3,
-   ""
-  ],
-  [
-   "MOHAWK787",
-   "7QCVvCEDtcNZpHqufTx7reMT3c7AKZzWCBgGLvdApump",
-   0.063,
-   3.6,
+   7.2,
    ""
   ],
   [
    "BISCUIT",
    "8Ps7t3UPzxFcRHgRVMFWurXmT5Mj4mZADAVwvgEqpump",
    0.058,
-   7.8,
+   8.8,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "MOHAWK787",
+   "GPyC7nJmB4iUFpdwhwJ9GHSz5E1SRimEUP63fgBipump",
+   0.043,
+   4.4,
+   ""
+  ],
+  [
+   "euphoria",
+   "27MSMe6DaFa9uPawcBeQeZ54Y7jJnkbyCjtj25VVpump",
+   0.041,
+   5.6,
+   ""
+  ],
+  [
+   "Biscuit",
+   "8VtMDfgmmnXovFzy9LEcqTMqfGJGvj1Lzki2QSXJpump",
+   0.035,
+   7.5,
+   ""
+  ],
+  [
+   "IGUANA",
+   "BeeXMvc3eCrDx5ywaxycBxYbFYE9sFurSawJmpg8pump",
+   0.034,
+   7.3,
+   ""
   ]
  ]
 }
