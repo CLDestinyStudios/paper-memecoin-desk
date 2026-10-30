@@ -6590,84 +6590,84 @@
    32.58
   ],
   [
-   "2026-10-29T19:42:15",
+   "2026-10-29T19:43:18",
    32.58
   ]
  ],
- "cycles": 2468,
+ "cycles": 2469,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.27935,
- "watching": 178,
+ "sol_usd": 95.29085,
+ "watching": 185,
  "near": [
   [
    "PERPEES",
    "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
-   0.843,
-   4.2,
+   0.774,
+   5.3,
    ""
   ],
   [
    "Never",
    "JDmkLbkU45Ag7vJ6nSeN52rnZ9nTJXsTJtC1n9pypump",
-   0.521,
-   5.9,
+   0.563,
+   7.0,
    ""
   ],
   [
    "MM",
    "79BhkF9er7zJiajT4tLNrdGxJ8ndfDHm8r4zxuPJpump",
-   0.381,
-   4.4,
+   0.329,
+   5.5,
    ""
   ],
   [
    "OPTIMISM",
    "4U8n4oyfjYGNEygUBTvYzrzvEAmBCbxdVgoq96c9pump",
    0.111,
-   3.6,
-   ""
-  ],
-  [
-   "VIRUS",
-   "222yiUEmGaeATYgTdPzBhnRSEnHAue2RVtorrUavpump",
-   0.099,
-   2.8,
+   4.6,
    ""
   ],
   [
    "DUVID",
    "2mzEwJyqJVFyNSR1JWUirjcqVBG7AaAE9HyWU7aDpump",
    0.098,
-   3.7,
+   4.8,
    ""
   ],
   [
    "KITTY",
    "6CicVzGx11h9snaSKq3iuJEHcAr36DLoM1WpQZzcpump",
    0.097,
-   2.8,
+   3.9,
    ""
+  ],
+  [
+   "DUVID",
+   "EmfTsbpXT3cRWGuuXbXpxWKc34ryvQXByPcAhzVApump",
+   0.095,
+   3.1,
+   ""
+  ],
+  [
+   "Reverseal",
+   "7td1A7wfpzJUp9xGCp3P4oC7yTHcrxsKG4S3kP3opump",
+   0.083,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "VIRUS",
    "E1LirqUnYfLt7wDM7XCgmjvDcdZgPNA8MksDp4bWpump",
    0.078,
-   4.3,
+   5.4,
    ""
   ],
   [
-   "WHISKERS",
-   "GnzrZKZS6oucT4NdaGo7CCgK4EnRXJNUXeTwhFkNpump",
-   0.072,
-   2.8,
-   ""
-  ],
-  [
-   "Hackinu",
-   "5omycX4wPRKrDMuc3fUB26kZFV92xd9kFFb4MJYWpump",
-   0.072,
-   8.5,
-   ""
+   "BINANCE",
+   "DLqMRJirNmiWWf6NZL5AfXWet17PoZaji5LbPnMCpump",
+   0.077,
+   2.2,
+   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ]
  ]
 }
