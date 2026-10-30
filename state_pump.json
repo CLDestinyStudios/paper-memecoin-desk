@@ -7108,81 +7108,85 @@
   [
    "2026-10-30T15:54:01",
    32.58
+  ],
+  [
+   "2026-10-30T15:55:03",
+   32.58
   ]
  ],
- "cycles": 3678,
+ "cycles": 3679,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.70724999999999,
- "watching": 285,
+ "sol_usd": 95.66264786335,
+ "watching": 279,
  "near": [
   [
-   "TOLLS",
-   "2zvvbYhzsCKwns1XVt1DLgdX69NhZ8qbq14csa3cpump",
-   0.266,
-   2.7,
-   ""
+   "Poolgob",
+   "HZLpoX26ftfc53rHhX7g9HmiY964y8CJ4uyuET4fpump",
+   0.474,
+   3.1,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "FFM",
+   "6E3N7ZNNDVra72ND9i7y5qyYxKTaCgnVzn2bpTp4pump",
+   0.401,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "Memo",
    "HfsvRZYi2creyckAh7G3M4PSx6sca9BH9aEotcBBpump",
-   0.263,
-   2.8,
+   0.312,
+   3.9,
    ""
   ],
   [
-   "Panic",
-   "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
-   0.238,
-   10.0,
-   "buyers=6; top5_hold_most=100%"
+   "icandle",
+   "2STgWPgKzK6Eq46tsHqYSwZefGKVCCj3wBRVqftYpump",
+   0.12,
+   2.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SIGER",
    "6d6idsr2y8ryCi3vwRABwEY6SKKQFssj976Qb1CS2DVB",
    0.119,
-   8.5,
+   9.6,
    ""
   ],
   [
-   "memes",
-   "33JoxnAdih3FATUnECpEQ5iaL3MaKRzSNBhaWAnzpump",
-   0.102,
-   2.6,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "3inches",
+   "u3RV756Nqd9VdKDLHWCfHsph5WeQRuGAcGiBFmQpump",
+   0.087,
+   3.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "COMMAS",
    "6zk1bmh2jinyy5TuYBEa94yukkouyXbXGiNcS6Mapump",
    0.044,
-   2.5,
+   3.6,
    ""
   ],
   [
    "META",
    "9rT7DhpqJc2oodmijCFfr8PJcfatVARKZ8ZRtu6Ypump",
    0.039,
-   7.5,
+   8.6,
    ""
   ],
   [
    "CHIPPY",
    "5VuyQEXLQ38HP1gbNjNPrB1YpCwvxRCU71LhAYA8pump",
    0.028,
-   4.5,
+   5.5,
    ""
   ],
   [
    "REAG",
    "FqGaJ8aEbALWHfFoppHUqFhHpbR3fqYkgey1CnsVpump",
    0.026,
-   4.6,
-   ""
-  ],
-  [
-   "Meximutt",
-   "CaWUnWF3VxDeiMRiLbLctJ28NhYvvkQ2qbSnt1XPpump",
-   0.019,
-   4.7,
+   5.7,
    ""
   ]
  ]
