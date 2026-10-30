@@ -7064,81 +7064,85 @@
   [
    "2026-10-30T14:09:53",
    32.58
+  ],
+  [
+   "2026-10-30T14:10:53",
+   32.58
   ]
  ],
- "cycles": 3574,
+ "cycles": 3575,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.97246569771973,
- "watching": 295,
+ "sol_usd": 95.1,
+ "watching": 272,
  "near": [
-  [
-   "REMARC",
-   "6D75bUMYnLvy3HkxuKHHW9rgjKTU4xhFHahYSyzxpump",
-   1.0,
-   2.9,
-   "graduated"
-  ],
   [
    "AXIO",
    "3mUcXkpVVkQ5ZJMctz2f1VBk4rwu3NRfNwVQZtDzpump",
-   0.663,
-   5.4,
+   0.726,
+   6.4,
+   ""
+  ],
+  [
+   "CRAMER",
+   "EXdXL3EDwVYXvpknqkimLqokq22VMn9cqjsy2dMRpump",
+   0.623,
+   2.4,
    ""
   ],
   [
    "ZEROTAX",
    "DCHsbiKoZK3RB2afLijwiXq8yCym8sHN933rxqMZpump",
-   0.393,
-   3.3,
+   0.438,
+   4.3,
    ""
   ],
   [
-   "MANANA",
-   "6hi69q7P9Poob26xLEBqLyagtntARYJttER6kDbGpump",
-   0.225,
-   9.4,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "PL RAID",
-   "9SDK1iEqSi6vh7tSprxkXBsSUssJToeEz6m8GLPFpump",
-   0.208,
-   3.3,
-   "buyers=2; creator=16.4%; top5_hold_most=100%"
-  ],
-  [
-   "TAIL",
-   "8KAGMj6HSfaBnmZQtPHFgGbN4eQNnGeJwRuYUCerpump",
-   0.135,
-   2.2,
-   "serial_creator=10 launches/24h"
+   "TUFF",
+   "Gaj4HQFbVfCi9i2PMuVURKZKwVVzsoP9YU646jzupump",
+   0.384,
+   2.5,
+   ""
   ],
   [
    "PFP",
    "7wno2osJyapDrw6gCZ3JsHEBnKM3oxc6UvxLLrxfpump",
-   0.133,
-   8.4,
-   "buyers=5; top5_hold_most=100%"
+   0.159,
+   9.4,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "CREAM",
    "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
-   0.129,
-   5.0,
+   0.131,
+   6.0,
    "buyers=8; top5_hold_most=97%"
   ],
   [
-   "SantaElon",
-   "Fc8YNE22dyEheU6brhVAxxMxUKfrcuKUx6kDfLLwpump",
-   0.086,
-   3.7,
+   "REMARC",
+   "CUhyxDeYAiZhqk9TNtQfp8SarcD7LxqoPF1maQTapump",
+   0.124,
+   2.2,
    ""
   ],
   [
    "CRAMER",
    "AeALngAP7tqi5Q5ao5nMfMarBWU5kXEtVevL8yxZpump",
    0.072,
-   3.0,
+   4.0,
+   ""
+  ],
+  [
+   "CRAMER",
+   "CueNius7pLJeEzavygSGeYx9btVrs33KY6Kq6DNMpump",
+   0.066,
+   9.8,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "sell",
+   "9GC9X4vfSXdEGn5bzRVaSvQfAVgfbVEnJ3J412Jqpump",
+   0.063,
+   2.6,
    ""
   ]
  ]
