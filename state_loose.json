@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 324.3371215588469,
+ "cash": 342.5814065073587,
  "positions": {
   "61h4rUn7C21QNv1NJADc2oAxpAhr7f2WGqbXRDEupump": {
    "sym": "SPACECAT",
@@ -8,21 +8,10 @@
    "entry": 6.77382e-05,
    "mark_entry": 6.641e-05,
    "cost": 18.02,
-   "peak": 0.0001019,
-   "last": 0.0001019,
+   "peak": 0.0001151,
+   "last": 0.0001151,
    "opened": 1793374305.8605285,
    "p_buy": 0.69
-  },
-  "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump": {
-   "sym": "SAFU",
-   "qty": 126816.1941035407,
-   "entry": 0.00014178,
-   "mark_entry": 0.000139,
-   "cost": 17.98,
-   "peak": 0.0001759,
-   "last": 0.0001759,
-   "opened": 1793374307.4396539,
-   "p_buy": 0.75
   }
  },
  "watch": {},
@@ -8292,8 +8281,12 @@
   [
    "2026-10-30T08:33:47",
    372.76
+  ],
+  [
+   "2026-10-30T08:34:47",
+   372.59
   ]
  ],
- "cycles": 3258,
+ "cycles": 3259,
  "started": "2026-10-28T01:46:56"
 }

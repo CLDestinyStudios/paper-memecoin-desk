@@ -6920,81 +6920,85 @@
   [
    "2026-10-30T08:33:45",
    32.58
+  ],
+  [
+   "2026-10-30T08:34:49",
+   32.58
   ]
  ],
- "cycles": 3238,
+ "cycles": 3239,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.68207585945001,
- "watching": 191,
+ "sol_usd": 94.4875667614,
+ "watching": 196,
  "near": [
   [
-   "Original",
-   "F6tuK8VKLbVryiZbH5wbyAp7RitDjwmaExVexoQwpump",
-   0.671,
-   3.3,
+   "DODGE",
+   "FQ2GbBKv7aAbNvn81nqTE5RXmACUatkeiPqFnPAMpump",
+   0.902,
+   2.5,
    ""
   ],
   [
    "HACKHOUSE",
    "9zRNZjZZC94Rgw1ddwzfvqkdJDQpmn9rhmGiqPyVpump",
-   0.596,
-   8.5,
+   0.729,
+   9.6,
    ""
   ],
   [
-   "BOOBOT",
-   "4Je8b9hQ8UUBv1MjvAUp5Xxe9MhmN6Cg4xakV2PApump",
-   0.29,
-   6.5,
+   "Orsande",
+   "8xAG2YJ7pzGAwkRJAaCzoJqBVeK9VPL1ApWRic2Npump",
+   0.611,
+   2.3,
+   "bundled_launch=10 extra buys in creation block"
+  ],
+  [
+   "Original",
+   "F6tuK8VKLbVryiZbH5wbyAp7RitDjwmaExVexoQwpump",
+   0.578,
+   4.4,
    ""
   ],
   [
    "HALO",
    "3u3r6qeqzAPjX4KsxSvH511A1ASSZMxpBV2gFPcdbHHE",
-   0.251,
-   7.8,
+   0.416,
+   8.9,
    ""
   ],
   [
    "$LECOUR",
    "F9iB5hXXXFN6KKRt4VSc5aHQPyCro6q17n1tHk8mpump",
    0.157,
-   8.4,
+   9.5,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Unseen",
+   "7erCemerr9DeVexxBkgCUhwQtZwJZgSsYopmjEg2pump",
+   0.157,
+   2.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SLURP",
    "CWJ5XhzY2kuoW3Zo4vex8yQFk9bLNuvFdb7voQwRpump",
    0.091,
-   4.2,
+   5.3,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "OCAT",
+   "wdEpkysHStQ2KXxGvALMziTbgz23wZae9QmmF7i71S2",
+   0.082,
+   2.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "NET",
    "B3BHfc4nVUPu2ziAffVcJjUW4XVjsnzakajtcZmSakbD",
    0.074,
-   7.8,
-   ""
-  ],
-  [
-   "HALO",
-   "4GAgeUYF3EenLzGT7FbK2MZPhoiJWDNoHKnnKpqEi3BW",
-   0.052,
-   5.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "CK",
-   "3U7XiqwrYmj92wfxT5rvKWrGok4o2BD4VavWVv3Gpump",
-   0.049,
-   2.3,
-   ""
-  ],
-  [
-   "SAFU",
-   "GN5NU8YvG2NY57fzA2bjQSsWR8V3oihkTMiJdKsFpump",
-   0.043,
-   9.5,
+   8.8,
    ""
   ]
  ]
