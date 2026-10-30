@@ -6962,84 +6962,84 @@
    32.58
   ],
   [
-   "2026-10-30T10:10:47",
+   "2026-10-30T10:11:46",
    32.58
   ]
  ],
- "cycles": 3335,
+ "cycles": 3336,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.62632980584999,
- "watching": 298,
+ "sol_usd": 94.73767037450001,
+ "watching": 301,
  "near": [
   [
    "intern",
    "FeCjPMceA4fZHtDyEW82Kab9NRqYwXAu4dUv7xG7pump",
-   0.958,
-   3.5,
+   1.0,
+   4.5,
+   "graduated"
+  ],
+  [
+   "PONKS",
+   "HyGsS7dNtJGBD62TARhGqXeGFJso7KfkDY6qNqKupump",
+   0.969,
+   2.2,
    ""
   ],
   [
    "trust",
    "2StsExtCCGT6ayNq2TB6fDJ4tCUT1qBt5uDS4ymcpump",
-   0.482,
-   2.1,
+   0.463,
+   3.1,
    ""
   ],
   [
-   "sadCZ",
-   "2vuaWcLXYRyB47wJ7hTfV2GaJNuM7TrMJCcdpADRpump",
-   0.308,
-   9.6,
-   "buyers=2; creator=15.1%; top5_hold_most=100%"
+   "KINGBEE",
+   "4UrHuCYjDPWTSusdSZsWfSMDBmD9t5odBgYU423spump",
+   0.175,
+   2.1,
+   "buyers=7; top5_hold_most=99%"
+  ],
+  [
+   "BFC",
+   "Ckvvwu65akx2Ue6mgqLCDyyXFyhGQ8YBwAQkchttpump",
+   0.139,
+   7.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "ECO",
    "GV3ZvzUAKvJai2yHEd6PnpmhtUGCnRSjPdg33dmppump",
    0.135,
-   8.1,
+   9.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Duneussy",
-   "4o3ET7NvtSjRtEo4bSmbyE7T7ieYZNJfX9ySbdTQpump",
-   0.134,
-   9.7,
-   ""
-  ],
-  [
-   "BFC",
-   "Ckvvwu65akx2Ue6mgqLCDyyXFyhGQ8YBwAQkchttpump",
-   0.082,
-   6.4,
-   "buyers=5; top5_hold_most=100%"
+   "PUMPFUN",
+   "22Nq8LycJP1AEJh1mFG1cbd8i6VtKUgmuR6YHyftpump",
+   0.122,
+   2.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "AICAT",
    "HmbahdGUxtYqhMcDDE94PSbSVByhnyem8PMvsuem1JS",
    0.082,
-   3.6,
+   4.6,
    ""
   ],
   [
    "PUMPOWEEN",
    "w57CJ5WmmUabVr9Qe7H51rWSedCPk1VND2w6yKnpump",
    0.079,
-   2.0,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Bounce",
-   "FXCr6xPu47bD7L1WCjWC8Jv8uVacqVq2Vnk7a9XRi4pp",
-   0.072,
    3.0,
-   ""
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "FLYWHEEL",
-   "E7cuectZYAfJQHEKhmHM9jhFEVH46WPnBLgoie2Vpump",
-   0.069,
-   2.8,
-   "buyers=3; top5_hold_most=100%"
+   "\u4e94\u6bdb\u738b",
+   "3dKitH2iVUfbxbKTExuifbSr2bLwwarvKgy3pBctpump",
+   0.074,
+   2.4,
+   ""
   ]
  ]
 }
