@@ -6822,84 +6822,84 @@
    32.58
   ],
   [
-   "2026-10-30T04:46:46",
+   "2026-10-30T04:47:46",
    32.58
   ]
  ],
- "cycles": 3012,
+ "cycles": 3013,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.56495648410002,
- "watching": 134,
+ "sol_usd": 96.36821749954998,
+ "watching": 135,
  "near": [
   [
    "PEET",
    "4L1Sj35H2KkCSNYDhv2S5M7YTmYZe5P2sxne8Eq7pump",
-   0.809,
-   3.3,
+   0.914,
+   4.3,
    ""
+  ],
+  [
+   "MIND",
+   "2yhAo9M3twKNkdY1CoLybf5sVV24qXrQdqaiHuYepump",
+   0.897,
+   2.6,
+   ""
+  ],
+  [
+   "MIND",
+   "2QzyUqdbyVcjc7qkogHMmmo8ywdNTx3yomgJmskrpump",
+   0.172,
+   3.0,
+   "buyers=6; top5_hold_most=86%"
   ],
   [
    "MINT ",
    "3G5scg8sy7geghM2gpX9XimiXKjtKCseJSfnykwspump",
    0.106,
-   2.6,
+   3.6,
    "buyers=8; top5_hold_most=100%"
   ],
   [
    "PUMPKIN",
    "7UASu6wS27pw8FJxkw7k1SLSzEkapE68YEA3UFSFpump",
    0.079,
-   4.2,
+   5.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "hedge",
    "Fqkz5seg8vfeeofiYXEs2Bmh3NpxGCh4QvTsokAspump",
    0.07,
-   8.2,
-   ""
+   9.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Fawn",
    "F5DsjNXvKtkiixfw2JD6cDtMpXvp7fpFeAfDV8aC6VJ3",
    0.043,
-   8.4,
+   9.4,
    ""
   ],
   [
    "$MERA",
    "74Fsfkoy4j8kzdaWa1JHR23pYzVyVbtujdC1Hmoxpump",
    0.027,
-   8.1,
+   9.1,
    ""
   ],
   [
    "KJYEE",
    "6LgJEXXXhh38sCMCyUqq5DxdodSNQssYunwKFdwppump",
    0.027,
-   6.7,
+   7.7,
    ""
   ],
   [
    "IMU",
    "H4J6PG1qQxEyZfLEKB95rhRy8NL6cJxjiJpEkRVypump",
-   0.027,
-   6.2,
+   0.025,
+   7.2,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "A127",
-   "EW4FhBh4yPyDJT32ti1n4wmUDMcGiDMGygev3ENupump",
-   0.021,
-   4.5,
-   ""
-  ],
-  [
-   "BOBO",
-   "EPikkM1wosvQqeYgqFnDh759ofGvhFSYnwNdPgqMpump",
-   0.02,
-   5.5,
-   ""
   ]
  ]
 }
