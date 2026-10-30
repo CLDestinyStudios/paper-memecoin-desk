@@ -6842,83 +6842,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:30:54",
+   "2026-10-30T05:31:46",
    32.58
   ]
  ],
- "cycles": 3056,
+ "cycles": 3057,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.49146964670003,
- "watching": 170,
+ "sol_usd": 96.56500000000001,
+ "watching": 171,
  "near": [
+  [
+   "Memelord",
+   "4PiCmQKwof4gxkVRmmPJnzZA7r5gKHarmDqhrUZwpump",
+   0.971,
+   2.2,
+   ""
+  ],
   [
    "MI",
    "EQAShn9gX7Q4s5askScmGDvYCLHC1EZQXwxmzNo4pump",
-   0.979,
-   4.3,
-   ""
-  ],
-  [
-   "Solcoin",
-   "6XmrWLNECohy4PuEyYJs3jybi7iR584twLjJEC5Wpump",
-   0.411,
-   3.0,
-   "serial_creator=9 launches/24h"
-  ],
-  [
-   "GAMEOVER",
-   "C5ZvMLhmWxxFr1aUwEwUdKPkig2xnAKhxh7hUZ3tpump",
-   0.291,
-   4.1,
-   ""
-  ],
-  [
-   "HYQ",
-   "DA1GC7LXQqZ5mSzmijosqF1S2z5foZ5SU5jw7i5Ypump",
-   0.224,
-   8.6,
+   0.96,
+   5.2,
    ""
   ],
   [
    "SI",
    "BGkPxM3WnFSYv2X7odw3omT7egpdhwSbPGqpaTJGPp7e",
-   0.206,
-   9.0,
-   "buyers=6; top5_hold_most=85%"
+   0.266,
+   9.9,
+   "buyers=7"
   ],
   [
-   "1M",
-   "Av7SSz8Jz6UtpUBwp1YgwkyDmM7x996qBfWts9mWpump",
-   0.12,
-   2.9,
-   "buyers=2; top5_hold_most=100%"
+   "HYQ",
+   "DA1GC7LXQqZ5mSzmijosqF1S2z5foZ5SU5jw7i5Ypump",
+   0.192,
+   9.5,
+   ""
   ],
   [
    "solcoin",
    "Asviqp44LiNsm6hYnF5N855YjguHAAxEAEdwpxVHVQdo",
-   0.087,
-   2.6,
-   ""
-  ],
-  [
-   "BSC",
-   "EB4VFT6GPmF43ss3X5h7v4My78XeMbQDLCxSedV9pump",
-   0.071,
-   5.3,
+   0.08,
+   3.5,
    ""
   ],
   [
    "QGOOSE",
    "HV3Zk4qJZevcvh3tSTaUbuL8LoAMUnzwHDYetSa1pump",
    0.071,
-   4.2,
+   5.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "6BUMEr84A482LbpUrED34VxZVceTp9CxHC1PSj2npump",
    0.064,
-   6.9,
+   7.7,
+   ""
+  ],
+  [
+   "Solcoin",
+   "J5RiTUE5TFK24B7xcgSR4YkQJwozwp6AVGF1i1fzpump",
+   0.064,
+   3.3,
+   ""
+  ],
+  [
+   "MASK",
+   "91T5n2AJzfJn5FuWn9RaNFYyfykRfXcwMtGT2oNBpump",
+   0.043,
+   2.2,
+   ""
+  ],
+  [
+   "BSC",
+   "EB4VFT6GPmF43ss3X5h7v4My78XeMbQDLCxSedV9pump",
+   0.04,
+   6.1,
    ""
   ]
  ]
