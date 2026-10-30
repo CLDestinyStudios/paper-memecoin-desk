@@ -6894,84 +6894,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:36:49",
+   "2026-10-30T07:37:48",
    32.58
   ]
  ],
- "cycles": 3181,
+ "cycles": 3182,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.91903195994999,
- "watching": 177,
+ "sol_usd": 93.8193385557,
+ "watching": 179,
  "near": [
   [
    "GOAT",
    "431D7tJzr7m8j7E4V6yfxSzDECpaAbHZ5oKb7Xj4pump",
-   0.958,
-   6.2,
+   0.963,
+   7.2,
    ""
   ],
   [
    "MEXC",
    "5BfVJZab1e78YZABCS9gVnMNDYBgqvWumpQuUsq4pump",
-   0.827,
-   3.4,
+   0.846,
+   4.4,
    ""
   ],
   [
    "LARPSTER ",
    "EVwz6GKjiQ3Ayduvz4o1YMMzsvCU37XTtei3x4Lvpump",
-   0.61,
-   7.7,
+   0.648,
+   8.7,
    ""
   ],
   [
    "Poolgob",
    "EiTCDY5N6z1GxsAFXVRjHk3Z2m8f6Ext76hYX6rxpump",
-   0.501,
-   7.1,
+   0.552,
+   8.1,
    ""
+  ],
+  [
+   "HODL",
+   "ANzPNik5bjDKojRxe5JdTd1H9GGQMmyUAT7oXpVhpump",
+   0.251,
+   2.2,
+   "top5_hold_most=85%"
+  ],
+  [
+   "Camila",
+   "CwRAfyGW6rvD8pFaT2Yh9gxi2HJBYrizSeRYQytepump",
+   0.187,
+   2.9,
+   "buyers=8; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "ABC WAP",
    "tgm283XjY6NVuGQx1Q87HbYmsd19dFNs5coMNFDpump",
    0.158,
-   3.7,
-   "buyers=2; top5_hold_most=100%"
+   4.7,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "HCREAM",
    "2SahrjJZwAnSCH23fuesv7rtSacgx3hdmct1X4wjpump",
    0.143,
-   3.1,
+   4.1,
    ""
   ],
   [
    "PokeBinanc",
    "4X6u6H5jZVManKisxAMiYR2MsryyT4HqCJMJ8htnpump",
    0.122,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "TAXPAD",
    "wgnaE3ywPNbmM6ABUCu4MsAsndj1tvfCN4y72p3pump",
-   0.111,
-   6.2,
+   0.087,
+   7.2,
    ""
-  ],
-  [
-   "ApeZCat",
-   "9QxtLxdMvgp5ceUGbBRwU14Ygd9ExYeubbCewfCYpump",
-   0.092,
-   2.8,
-   "serial_creator=19 launches/24h"
-  ],
-  [
-   "GREEN MEME",
-   "78NFNqCwybPjSoDCDM8ZEaUxCJzs3CbdEieyYVhVpump",
-   0.088,
-   7.0,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
