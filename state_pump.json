@@ -6830,84 +6830,84 @@
    32.58
   ],
   [
-   "2026-10-30T05:04:53",
+   "2026-10-30T05:05:46",
    32.58
   ]
  ],
- "cycles": 3030,
+ "cycles": 3031,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.3930357846,
- "watching": 138,
+ "sol_usd": 96.54350202665,
+ "watching": 140,
  "near": [
-  [
-   "BOTCHI",
-   "2H3L5LQBQw1FEG1dtNNYXXCYmszKAP6m11CLxoscpump",
-   0.905,
-   2.6,
-   ""
-  ],
   [
    "HREX",
    "4gWxN4LDuJi4TevDycWYVMPrpjDQipK56DeThHqQpump",
-   0.44,
-   2.4,
+   0.401,
+   3.3,
    ""
-  ],
-  [
-   "Tony",
-   "6Vyhp5GTJHASgDL6CGqd1qCNvoLmcmg1QLoc7rcDL1J",
-   0.418,
-   2.8,
-   "serial_creator=43 launches/24h"
-  ],
-  [
-   "HPD",
-   "EhnC9LBfqeDFLizCkeQNDzaJkVZA7GJctRGmdqYtpump",
-   0.284,
-   2.2,
-   "top5_hold_most=85%; bundled_launch=10 extra buys in creation block"
   ],
   [
    "SCHAIN",
    "DB6qKJfNpyAst9UpGListWXqDfQomYegpYqwtee4pump",
-   0.269,
-   3.3,
+   0.281,
+   4.2,
    ""
   ],
   [
    "CVE",
    "D8N4uaRhNVwwZMYqXSuThRxLd2xsu1tVGeGjt6yvpump",
    0.251,
-   8.5,
+   9.4,
    "top5_hold_most=87%"
   ],
   [
    "HOVR",
    "29vePA9UGPs5oeGXU2QjnT61xRRbTSM7t3YetJuapump",
    0.16,
-   7.5,
+   8.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "FlipFlop",
+   "85ofjEuWPtjRSr3uGiCWsjPZAj8LnxzGLN499nsfpump",
+   0.119,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "Laptop",
    "yu967y1j5zjmXdfDR7zG4tBzfV78q8FpoJrBYJLzzcC",
    0.102,
-   4.1,
-   "buyers=7; top5_hold_most=99%; launch_slot=missing"
-  ],
-  [
-   "HYDOG",
-   "Dcjay9gbzyXA2jKRLuwfZsebCexTsHzmXcARdqmyPy9H",
-   0.083,
-   8.2,
-   "buyers=4; top5_hold_most=100%"
+   4.9,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "DOGE",
    "ARQzqMCtGwFtc25JNyp5vRrRkevzuBzNwDua1q3wpump",
    0.081,
-   9.0,
+   9.9,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Memecoin",
+   "3dnVZcHxF6BcPVDQ1DJWQpBbMrSM1kXDpSEMyS3Vpump",
+   0.056,
+   3.1,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Laptop",
+   "AARzSskLntyKofSY84sUaUbr6Cka9wUG3BfN364rpump",
+   0.043,
+   5.2,
+   ""
+  ],
+  [
+   "Barrio",
+   "3JfTsaahCKEgCUNCKYXG5Yf5sBq8gaCkQT8z8GCEpump",
+   0.03,
+   8.2,
+   ""
   ]
  ]
 }
