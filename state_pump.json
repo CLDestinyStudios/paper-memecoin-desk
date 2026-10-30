@@ -6958,83 +6958,83 @@
    32.58
   ],
   [
-   "2026-10-30T10:05:47",
+   "2026-10-30T10:06:46",
    32.58
   ]
  ],
- "cycles": 3330,
+ "cycles": 3331,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.99000000000001,
- "watching": 277,
+ "sol_usd": 94.87321929519999,
+ "watching": 297,
  "near": [
   [
-   "AI",
-   "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
-   0.931,
-   9.6,
-   ""
-  ],
-  [
-   "Mimic",
-   "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
-   0.533,
-   9.5,
-   ""
+   "REFRAX",
+   "2cij3LApEgP3qzHt1tV73E92nTEMbEZ7SL9rQVP7pump",
+   0.656,
+   2.4,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "Trip ",
    "C5ka9yfYu4HRpkakpX6SHf7WgfcbtwA9xTUT34Dnpump",
-   0.468,
-   5.3,
-   "buyers=7; creator=36.8%; top5_hold_most=100%"
+   0.485,
+   6.3,
+   "buyers=6; creator=38.3%; top5_hold_most=100%"
   ],
   [
-   "cezee",
-   "DYAM9LWiyzh5qtbR5JaoZFEpvfX7Y6EcuQ6mK1GEpump",
-   0.425,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
+   "Grok",
+   "6Xj2diacrgDNgQvygCBfeuu5HWrJ9qVnXnqPcxuFpump",
+   0.454,
+   2.7,
+   "serial_creator=11 launches/24h"
   ],
   [
-   "EARN",
-   "5zNinQYskShs6SBzy8xWso75Dye2JurfyuG66na5pump",
-   0.366,
-   5.0,
-   "top5_hold_most=87%"
+   "KOOP",
+   "MC6st5egErRDjhvPYo4ytJNW9hwzkh6U4Uw3brFpump",
+   0.405,
+   2.0,
+   "creator=30.4%; top5_hold_most=99%"
   ],
   [
    "sadCZ",
    "2vuaWcLXYRyB47wJ7hTfV2GaJNuM7TrMJCcdpADRpump",
-   0.314,
-   4.6,
-   "buyers=3; creator=15.1%; top5_hold_most=100%"
-  ],
-  [
-   "Fedinu",
-   "DfKHrt2pnCumZNahfgfEE7qtiVVceC8m6jG8Zf2mpump",
-   0.211,
-   5.1,
-   "top5_hold_most=83%"
+   0.308,
+   5.5,
+   "buyers=2; creator=15.1%; top5_hold_most=100%"
   ],
   [
    "Duneussy",
    "4o3ET7NvtSjRtEo4bSmbyE7T7ieYZNJfX9ySbdTQpump",
-   0.169,
-   4.7,
+   0.267,
+   5.7,
    ""
   ],
   [
-   "Koop",
-   "DD8o6axKhEDs9bF59XGwmP9aZ4W1EAxxXWjdRKERpump",
-   0.122,
-   6.5,
-   ""
+   "BFC",
+   "Ckvvwu65akx2Ue6mgqLCDyyXFyhGQ8YBwAQkchttpump",
+   0.133,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "TI",
-   "CQnWhhzX87JW7ngVRGU5XNTo19GS4i9cXuY2qvsWpump",
-   0.114,
-   9.0,
+   "THIS",
+   "HjdY77ovn3koyxcjETHJow4nW3b5J6gAjJ82Y2Rxthis",
+   0.109,
+   7.4,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "EARN",
+   "5zNinQYskShs6SBzy8xWso75Dye2JurfyuG66na5pump",
+   0.108,
+   6.0,
+   "top5_hold_most=87%"
+  ],
+  [
+   "QuixiDesk",
+   "Gmfvtssugbch4VdyJAgXH1EzMaJ69KwXiJSRgsBBpump",
+   0.101,
+   2.7,
    ""
   ]
  ]
