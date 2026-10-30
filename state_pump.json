@@ -6898,84 +6898,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:42:52",
+   "2026-10-30T07:43:50",
    32.58
   ]
  ],
- "cycles": 3187,
+ "cycles": 3188,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.74787771445,
- "watching": 204,
+ "sol_usd": 94.71081837125,
+ "watching": 217,
  "near": [
   [
    "31PUMP",
    "4MYWbMBLaUxbHBpFprCQBhUpGCPrmP3h5bsZDU9Upump",
    0.889,
-   2.8,
+   3.8,
    ""
+  ],
+  [
+   "buy",
+   "DMwbj22eSFSQdLv6LEjFo5neY25WkS112Yn7qcgopump",
+   0.816,
+   2.4,
+   ""
+  ],
+  [
+   "FBinance",
+   "DjKbwFjcTkUVt8dajkYiKtzkkHdfWNpZSV45nQfVpump",
+   0.599,
+   2.9,
+   "creator=42.9%; top10=47.2%; top5_hold_most=98%"
+  ],
+  [
+   "LORDTROLL",
+   "7gPtSrkqX3zLHJztSrQJuZYuTzNSU1Qdc1NRbwH6pump",
+   0.587,
+   2.7,
+   "creator=44.6%; top10=46.2%; top5_hold_most=98%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "ROSAN",
    "83GAmeAV1zS3pVFftJwDDsCKGyrXj8Vtvi2bsfympump",
-   0.389,
-   5.6,
+   0.543,
+   6.5,
    ""
   ],
   [
-   "Aiden",
-   "GGBAFwQ1QeihizMfny4RrGnzVUnSctNsQoHjAuegpump",
-   0.225,
-   3.2,
-   "top5_hold_most=96%"
+   "theethee",
+   "FUzL1gRocUaCp9mbKrK6L1YCfxjghEoVYYPvdHvUpump",
+   0.419,
+   2.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "GROKHQ",
+   "Groknif3pW49CFjZWL9VpMEUjfPpQ8ghsZRnKBdm71r7",
+   0.249,
+   2.9,
+   ""
   ],
   [
    "SKIVE",
    "73nULTckXbSgBfhAayPK9XXDNg1ycgPNSuK7zFzvpump",
    0.198,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "ABC WAP",
-   "tgm283XjY6NVuGQx1Q87HbYmsd19dFNs5coMNFDpump",
-   0.158,
-   9.7,
-   "buyers=2; top5_hold_most=100%"
+   "GEORGE",
+   "FhNiV9SopFPpcAuLuFP8n2fga9pqfWarmRCoia6Vpump",
+   0.16,
+   2.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "KoreanFlare",
    "EKx1NyjC4qSSni6bRNtEFzVW3tbG2ZvdogXeE33Mpump",
    0.155,
-   2.8,
+   3.8,
    ""
-  ],
-  [
-   "RCT ",
-   "FxjLmR6CXLt5r1W9p3X4WPuBfGUF3H7baykEdQoupump",
-   0.144,
-   3.4,
-   ""
-  ],
-  [
-   "OD",
-   "G9s966D3ak9kxpFaTsxjnEBgxEpoNpRWSi4TZd9upump",
-   0.126,
-   5.9,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Aiden",
-   "6uEGhzj2WWfQNahGJvhxVvgL6w8LSaJjAhFxNvafpump",
-   0.096,
-   3.4,
-   ""
-  ],
-  [
-   "GROKCAT",
-   "GtjM7BG7eWiqrba3zfqFFzXTcegQyYnyq3S3FZvSLrAU",
-   0.087,
-   7.0,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
