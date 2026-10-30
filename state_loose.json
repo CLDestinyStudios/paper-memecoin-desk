@@ -1,22 +1,8 @@
 {
  "bank_start": 500.0,
- "cash": 345.69619708898745,
- "positions": {
-  "J3ReuwckNtcJP1Zhn7wVbfXhTDNTkHxozQWWAwxWpump": {
-   "sym": "Foxii",
-   "qty": 127472.00381224684,
-   "entry": 0.00014269800000000002,
-   "mark_entry": 0.0001399,
-   "cost": 18.19,
-   "peak": 0.0001432,
-   "last": 0.0001432,
-   "opened": 1793372808.8402796,
-   "p_buy": 0.55
-  }
- },
- "watch": {
-  "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": 1793373286.9402092
- },
+ "cash": 360.3371215588469,
+ "positions": {},
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -8257,8 +8243,12 @@
   [
    "2026-10-30T08:14:46",
    363.59
+  ],
+  [
+   "2026-10-30T08:15:46",
+   360.34
   ]
  ],
- "cycles": 3239,
+ "cycles": 3240,
  "started": "2026-10-28T01:46:56"
 }
