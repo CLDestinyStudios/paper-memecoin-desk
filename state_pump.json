@@ -6866,84 +6866,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:31:09",
+   "2026-10-30T06:32:06",
    32.58
   ]
  ],
- "cycles": 3116,
+ "cycles": 3117,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.7001967779,
+ "sol_usd": 95.64,
  "watching": 174,
  "near": [
   [
-   "SKELLY",
-   "2R1fzYc7rxVcXnmcdoBXunxS8TbQF6vEGnsqNYpopump",
-   1.0,
-   4.9,
-   "graduated"
-  ],
-  [
    "SPIRITS",
    "H5JQTYfTn1oKPk6fPmjpMSGRzakxC8eY9btNn6xNpump",
-   0.95,
-   3.2,
+   0.967,
+   4.2,
    ""
   ],
   [
    "SpookyPants",
    "9Xoi5y3L8b7C3Nmh9xAMCLtpUwaah4Pm5yQhQz4gW2nR",
-   0.663,
-   7.8,
+   0.723,
+   8.7,
    ""
   ],
   [
-   "BBW",
-   "J769c7XpBs5Pus3DrgbgmgsEzhhYytdxcUMiwa8Kpump",
-   0.531,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Qwen",
-   "8rT5PrVZdh2yTZAmb1XsaK4mgTpTa5fUTsvdsKFzpump",
-   0.48,
-   6.7,
-   "top5_hold_most=86%"
+   "Gooner",
+   "HZk68axB7kaiUgxauBRLLY2iiadXpdxHexw9Vz1qpump",
+   0.64,
+   3.0,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Qwen",
    "6XirAMVPjfoZRU5qJPbMf1rGKn26A37VgW6boSfCpump",
    0.207,
-   7.9,
+   8.8,
    ""
   ],
   [
    "HP",
    "8PUidW74kUj2PbHR5dfCB9XodQ1MNPm6od1vLTjspump",
    0.207,
-   2.4,
+   3.3,
    "buyers=1; creator=16.4%; top5_hold_most=100%"
   ],
   [
-   "\u66d9\u5b9d",
-   "CsdBtPRRa53UZRzyVZqXfphMxQZgU4WWhiwFEVJ6Mcsv",
-   0.086,
-   3.6,
-   ""
+   "Qwen",
+   "8rT5PrVZdh2yTZAmb1XsaK4mgTpTa5fUTsvdsKFzpump",
+   0.202,
+   7.7,
+   "top5_hold_most=86%"
   ],
   [
-   "ScaredyPants",
-   "HvkSs98ryKxnoGJ6kf3K9rDFfPWy8Sx3jGi4rMV7pump",
-   0.079,
-   2.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
+   "HYPEINTEL",
+   "6UHYv3vD4VVf1CvN93TLgkMWBcyZ4V94SLbShWAdpump",
+   0.164,
+   3.0,
+   ""
   ],
   [
    "FBD",
    "Fys2i6U6uNz5qnHoXaQUSnsVr3oC6C6bYuce1hmspump",
-   0.068,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
+   0.096,
+   3.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Scaredy",
+   "3utDpniC4379pfvRtrcZjUFQB1NePgG8eTHq44FmX4fs",
+   0.062,
+   7.1,
+   ""
+  ],
+  [
+   "ScaredyPants",
+   "7QyneZn8pV4vVoRGJrDBWcwMfNWnYg3z89v99NUqDu8E",
+   0.061,
+   6.9,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
