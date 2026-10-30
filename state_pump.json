@@ -6712,81 +6712,85 @@
   [
    "2026-10-30T00:29:45",
    32.58
+  ],
+  [
+   "2026-10-30T00:30:45",
+   32.58
   ]
  ],
- "cycles": 2755,
+ "cycles": 2756,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.78430216155742,
- "watching": 116,
+ "sol_usd": 98.02000000000001,
+ "watching": 117,
  "near": [
   [
    "mclaren",
    "E7BSNwVvte4z1WN4tqmn5k6Q6N8mKxg4vVRQr3Stpump",
-   0.512,
-   4.7,
+   0.163,
+   5.7,
    ""
   ],
   [
    "MOTION",
    "CMemFskn9VxQsS2CNA43S9H8oo4HASD3JApFB6hvpump",
    0.157,
-   4.7,
+   5.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "HYPERPAD",
    "3vSJwwLeke6BP2du3ZhEe4BaEaZ7NaUNk9d1tRcepump",
-   0.092,
-   7.3,
+   0.128,
+   8.3,
    "buyers=2; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "inucrypted",
+   "2RkoEoLw4Vf7UU6mru29jESbnLkUaEaXQZ6qbnDKpump",
+   0.081,
+   2.0,
+   ""
   ],
   [
    "catzilla",
    "6zriwPDecKVK28ejaLzUqK1AUgS4jx2n3wtphbnjpump",
    0.077,
-   5.8,
+   6.8,
    ""
   ],
   [
    "Aiden",
    "6zyL6fH3sVxFrLvxQdxzCBixzGDHSQEU8yoHQoufpump",
    0.075,
-   2.4,
+   3.4,
    ""
-  ],
-  [
-   "KALI",
-   "FSahXRShmbEuqARASoniqpMHqMKaBV8sQksa5iuMpump",
-   0.07,
-   3.9,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "wellness",
    "HTR8wGiEpqSBsETWwNinMppEgNGCuZpmGWgVHw44pump",
    0.043,
-   3.9,
+   4.9,
    ""
   ],
   [
    "mclaren",
    "HdinDwZVH8Qj66ehK2NiBGYvtSeow5oajGysp15spump",
    0.035,
-   3.8,
+   4.8,
    ""
   ],
   [
    "SOG",
    "At9Ft6bavk8fpAfXQAPRJ2eM5msnse4cKpTtvXnjpump",
    0.02,
-   3.9,
+   4.9,
    ""
   ],
   [
    "GTAVI",
    "3fn4un3Htj8Pqu115fc5GbNRktdYCreKLLe2ppfZpump",
    0.02,
-   2.7,
+   3.7,
    ""
   ]
  ]
