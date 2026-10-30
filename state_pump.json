@@ -7100,81 +7100,85 @@
   [
    "2026-10-30T15:35:52",
    32.58
+  ],
+  [
+   "2026-10-30T15:36:56",
+   32.58
   ]
  ],
- "cycles": 3660,
+ "cycles": 3661,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.73510601024999,
- "watching": 268,
+ "sol_usd": 95.72664558339999,
+ "watching": 262,
  "near": [
   [
    "SONIC",
    "CjngxwQWCAtB4sE2M97HakrFK8rcSLdfEBYpNQbWpump",
-   0.892,
-   4.1,
+   0.905,
+   5.2,
    ""
   ],
   [
    "EDS",
    "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump",
-   0.868,
-   2.3,
+   0.897,
+   3.4,
    ""
   ],
   [
    "Honey",
    "2tpDLj3LEZJLuEEndL3dieGCoH8MLgWLd3o9hnzKpump",
-   0.82,
-   3.6,
+   0.807,
+   4.7,
    ""
   ],
   [
    "EDS",
    "Eoi6YFkjqCdyhwQMcHU6Hvxtem5xMXLHbDmWNsgXt39T",
    0.442,
-   5.2,
+   6.3,
    ""
+  ],
+  [
+   "Lilly",
+   "5bQ5cL2W342dXAp8kykg657RpYiyQ15s38mPz3MSpump",
+   0.193,
+   3.0,
+   "top5_hold_most=82%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "Sonic",
    "28GL4v32efdJv8kzBSe9ydPhKFAyizLvMFJ1tcDQpump",
    0.119,
-   2.6,
+   3.6,
    ""
   ],
   [
    "EDS",
    "8xrtjATQpxUtdLmwhAKqLJJ6dry2xc9pAMhwFFaJpump",
    0.081,
-   5.1,
-   ""
-  ],
-  [
-   "Honey",
-   "C4RNdQdmuC3FDTtyBRtXdDCcoVxnASaHPhTbGipjpump",
-   0.07,
-   2.6,
+   6.2,
    ""
   ],
   [
    "Honey",
    "EnnZSn5gxbrJkphBkPNWx2qApUqbqmvaeKoSZAkfpump",
    0.064,
-   2.2,
+   3.3,
    ""
   ],
   [
    "DAWID",
    "7GCmVxqihhUjnX5bgMRdHhDXMr9hE14GEu4Z9eH3pump",
-   0.052,
-   7.2,
+   0.054,
+   8.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Honey",
    "GD8cMGD6SMqvJFtUj4TSxzXrqaeDUF3RaHM3d8Ynpump",
    0.045,
-   2.2,
+   3.2,
    ""
   ]
  ]
