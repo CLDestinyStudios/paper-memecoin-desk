@@ -6978,84 +6978,84 @@
    32.58
   ],
   [
-   "2026-10-30T10:47:51",
+   "2026-10-30T10:48:51",
    32.58
   ]
  ],
- "cycles": 3372,
+ "cycles": 3373,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.36615973725,
- "watching": 336,
+ "sol_usd": 94.39055157515,
+ "watching": 342,
  "near": [
   [
    "CTRL",
    "5UpEwPx3n9tek1fCzgeondHSCKnyQwVRYue4puY7pump",
-   0.884,
-   2.5,
+   0.915,
+   3.5,
    ""
   ],
   [
-   "FBinance",
-   "DFyqjPzwK7rS1moPoRcUvymea78Ub8ooNGeDjyjKpump",
-   0.682,
-   10.0,
-   "creator=48.8%; top10=53.6%; top5_hold_most=98%"
+   "TYGR",
+   "675p4dqh9gHTVtxoWK1PmM8ynGhWyZp1PwGyBWavzxZ1",
+   0.723,
+   2.9,
+   ""
   ],
   [
-   "TYGR",
-   "fpvaXmXhdd6gQ53ceXFJAt91NPrNN483B1YQEx6pump",
-   0.293,
-   2.9,
+   "PEPEFOE",
+   "4E8TU2AtQWjBNCMP5mmEcEvB6rqLpA8qHctWQ1yRpump",
+   0.656,
+   2.7,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Rockhopper",
+   "4e5Py66p68PzvVyc976JMkHxKaF4TFhKRGizNxoCpump",
+   0.386,
+   2.2,
    ""
   ],
   [
    "BND",
    "2rG2mvkM8ZvAt2y9rnKeM9j4ZacYBcbfzzkmXyB4pump",
-   0.289,
-   5.6,
-   ""
-  ],
-  [
-   "TYGR",
-   "7QAtee3QgUfK4qoiZS4bMUkV7kpaVt2JDtyZBKEMpump",
-   0.251,
-   2.4,
-   ""
-  ],
-  [
-   "KITTY",
-   "6KYp1DKsqsP8NAH8yTyTF7mgFvrAsRnreH4dNcnV8872",
-   0.24,
-   3.9,
+   0.28,
+   6.6,
    ""
   ],
   [
    "STARLIGHT",
    "9Ws1UHwKUjyqKpXKTXrUsoHr5Grerc5Fc9uZAo3ppump",
    0.226,
-   6.0,
+   7.0,
    ""
-  ],
-  [
-   "6BBAGS",
-   "CCPT1x1LefPcPnFtJN63acDGLnMn9KeTsPQbE6Egpump",
-   0.223,
-   9.5,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "TYGR",
-   "8QJUYC5my5r8aJ2WtbfQVVzmonVNQLCeHn2J35uHpump",
-   0.172,
-   3.6,
+   "fpvaXmXhdd6gQ53ceXFJAt91NPrNN483B1YQEx6pump",
+   0.217,
+   3.9,
    ""
   ],
   [
-   "FINJA",
-   "AwCtNPn6UU9NbkPWD6KXgeDuKNRSYyF2wPMoDkGYpump",
-   0.121,
-   2.2,
-   "top5_hold_most=82%"
+   "KITTY",
+   "6KYp1DKsqsP8NAH8yTyTF7mgFvrAsRnreH4dNcnV8872",
+   0.195,
+   4.9,
+   ""
+  ],
+  [
+   "TYGR",
+   "BQRugBX2ZrMTom5GzZguA4ULKNLJrkBwafQEYdPgpump",
+   0.159,
+   2.6,
+   ""
+  ],
+  [
+   "TYGR",
+   "7QAtee3QgUfK4qoiZS4bMUkV7kpaVt2JDtyZBKEMpump",
+   0.148,
+   3.4,
+   ""
   ]
  ]
 }
