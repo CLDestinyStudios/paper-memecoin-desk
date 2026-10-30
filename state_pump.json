@@ -6734,84 +6734,84 @@
    32.58
   ],
   [
-   "2026-10-30T01:18:01",
+   "2026-10-30T01:19:16",
    32.58
   ]
  ],
- "cycles": 2803,
+ "cycles": 2804,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.16604365545,
- "watching": 175,
+ "sol_usd": 97.22499999999998,
+ "watching": 196,
  "near": [
   [
    "DUOTIDE",
    "AtKvRVDF738YA925jmxNeh4iV2qCVBBJeMxQNyrupump",
-   0.855,
-   7.6,
+   0.861,
+   8.9,
    ""
   ],
   [
    "Viewer",
    "viewdyoNQ3EDqco6NmRQkSgMYrGteCNvJsdjC18S7yF",
-   0.674,
-   6.1,
+   0.627,
+   7.3,
    "launch_slot=missing"
   ],
   [
-   "TraderTrai",
-   "4zJvs9rzzYwhHfvHEj8BLfL96M9nHAbTcPQApLfVpump",
-   0.261,
-   9.9,
-   "buyers=5; top5_hold_most=100%"
+   "HODL",
+   "5yoyYYtyeuqifJGrdYG3vqC6ZStaQHwS1LGKgUvEpump",
+   0.531,
+   2.5,
+   "launch_slot=missing"
+  ],
+  [
+   "Cockroach",
+   "M7sy9nJ6tD5KktAqMyz6SQT51hY3DR3UFzHUbLTpump",
+   0.225,
+   3.3,
+   "launch_slot=missing"
   ],
   [
    "Hacker",
    "E7a9qfcfzdAFx7VoeGWbXm8F5uGzQZTrukcoPRrXpump",
-   0.13,
-   6.4,
-   "buyers=7; top5_hold_most=100%; launch_slot=missing"
+   0.167,
+   7.7,
+   "buyers=9; top5_hold_most=93%; launch_slot=missing"
   ],
   [
    "INU",
    "6hnAK6bUidVv2oFpaopx9uYigg42y9datjmWQGUmpump",
    0.099,
-   3.4,
+   4.6,
    ""
+  ],
+  [
+   "BRF",
+   "36WhAehRsah842RPgnQexy68wa9to6GHLwwhU9ASpump",
+   0.083,
+   3.2,
+   "buyers=1; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "tech",
    "9fnosq1oK55M54rjHLu9yWj7yV4UFJMvhnduiBxQpump",
-   0.075,
-   3.8,
-   "buyers=4; top5_hold_most=100%"
+   0.072,
+   5.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "CRIMINU",
-   "Gq5y2EyBHBTEaerWkZJrJBvsURkxiGSzfiKFfu66pump",
-   0.056,
-   6.1,
-   "launch_slot=missing"
+   "PREDICTBOT",
+   "4Tj4GbveraZxbccwMAjR9wKfRcPwwYi5twpfsgyBpump",
+   0.054,
+   3.2,
+   "buyers=9; top5_hold_most=91%; launch_slot=missing"
   ],
   [
    "CAPY",
    "8ffAopc9Y72769EqQGWJ1ymgcDwYBF1Tk6cz3tSky1EJ",
    0.042,
-   7.6,
+   8.8,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Breast",
-   "3QEoC6bHMes8d6rrJyhwRRLxpcriism8qwWEqu7dpump",
-   0.029,
-   3.3,
-   ""
-  ],
-  [
-   "HPEPE",
-   "SVGbuMHvJPXQXAyk2dmyL9cjzBpKYn4NpT46TTypump",
-   0.024,
-   4.7,
-   ""
   ]
  ]
 }
