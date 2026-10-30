@@ -6938,83 +6938,83 @@
    32.58
   ],
   [
-   "2026-10-30T09:14:45",
+   "2026-10-30T09:15:45",
    32.58
   ]
  ],
- "cycles": 3279,
+ "cycles": 3280,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.0213356927,
- "watching": 265,
+ "sol_usd": 95.08,
+ "watching": 255,
  "near": [
   [
    "holderinu",
    "5VahzpBVJCYWjnAUGMvAHchH6rTy4ZVhv1tzLksLpump",
-   0.965,
-   3.3,
+   1.0,
+   4.3,
+   "graduated"
+  ],
+  [
+   "APES",
+   "5ePiegn4G7UrYhYRW75piRUKu5xhZRcX8Lv2xjNspump",
+   0.903,
+   3.0,
    ""
   ],
   [
    "SPACECAT",
    "C6AtGLMcRQDYQosBuHkuFnmAX9pxKTkurdAxcvaBcTeh",
-   0.47,
-   3.4,
+   0.568,
+   4.4,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "BOOLIN",
+   "2soS3DxTYgJL2W74yXMYE9oEowy1CY9Ct9dByJxMpump",
+   0.393,
+   5.9,
    ""
   ],
   [
    "LEDANCE",
    "Gbwtt1D8DLDSkUtRD4wSM7yzBuRFCgSTJuknAt5hpump",
    0.381,
-   7.8,
+   8.8,
    ""
+  ],
+  [
+   "QuixiDesk",
+   "57Df5ZhTVVmHQ1rYyDGcBBLDiAcCuxkJ4KE1s99zpump",
+   0.367,
+   2.2,
+   "serial_creator=9 launches/24h"
   ],
   [
    "Aurora",
    "4vPVTN1Jo2ecH4GqeRFXpBGEwubL5hh8cQLHET1Spump",
-   0.368,
-   4.1,
-   ""
-  ],
-  [
-   "BOOLIN",
-   "2soS3DxTYgJL2W74yXMYE9oEowy1CY9Ct9dByJxMpump",
-   0.328,
-   4.9,
+   0.318,
+   5.1,
    ""
   ],
   [
    "APES",
    "BCY5oiw5NRpnnjrSztUnop37abwmhyrUnwABrTBApump",
    0.123,
-   4.0,
+   5.0,
    "buyers=8; top5_hold_most=88%"
   ],
   [
    "believeinu",
    "GFbQojCLW9y1ra5cBcgC9UsBX8j5ejS7enUFMYRLpump",
-   0.115,
-   7.0,
+   0.071,
+   8.0,
    ""
   ],
   [
-   "ROBYN",
-   "5kxVsqXdVZci3JdY2Z12tnvsCVKTm7oUZbf4JgVJpump",
-   0.064,
-   7.6,
-   ""
-  ],
-  [
-   "Saraya",
-   "92U5DctCCTwRDETQHG3ePtJhrQGAUR9EfSsmGFfMpump",
-   0.064,
-   2.4,
-   ""
-  ],
-  [
-   "Saraya",
-   "2YLN6deYtqf3LpJuqvJNhEAj1sAMX4pWLhgDBij4pump",
-   0.064,
-   3.2,
+   "AI",
+   "AoPEVKmygYcLZEBgDcpMKGayPYtqJgJCnLiHMQoEpSx3",
+   0.067,
+   5.4,
    ""
   ]
  ]
