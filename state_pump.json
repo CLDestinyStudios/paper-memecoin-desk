@@ -6694,83 +6694,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:50:32",
+   "2026-10-29T23:51:31",
    32.58
   ]
  ],
- "cycles": 2716,
+ "cycles": 2717,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.81,
- "watching": 166,
+ "sol_usd": 97.90999999999998,
+ "watching": 161,
  "near": [
   [
    "ACT H:",
    "EBif2XUqDsJChtCn8drwLv3pg7fBPbmAHbBCP8ecWHs7",
-   0.708,
-   8.5,
-   "launch_slot=missing"
-  ],
-  [
-   "anon",
-   "T9qYdgfaLnPVwtwhsjV7VPrh5DwRvbJrt785N69pump",
-   0.612,
-   2.7,
-   "launch_slot=missing"
+   0.743,
+   9.5,
+   "serial_creator=10 launches/24h"
   ],
   [
    "HYPERAGENT",
    "5CXwcaNgJtiHJRPLWnnXV6i81Uskohd3haw2TpWEpump",
-   0.454,
-   4.9,
-   "top5_hold_most=90%; launch_slot=missing"
+   0.486,
+   5.8,
+   "top5_hold_most=93%; launch_slot=missing"
+  ],
+  [
+   "anon",
+   "T9qYdgfaLnPVwtwhsjV7VPrh5DwRvbJrt785N69pump",
+   0.436,
+   3.7,
+   "launch_slot=missing"
   ],
   [
    "GIGALON",
    "5upn34MTcQfRwxCiG9nP5x7SX5jd1JfQAEQLxq1gpump",
-   0.083,
-   7.9,
+   0.043,
+   8.9,
    ""
   ],
   [
    "soon",
    "3vYB3fANquPVGeLQw5gejuZY6V7w9f5xtFsUA4edpump",
-   0.022,
-   2.8,
+   0.03,
+   3.8,
    ""
   ],
   [
    "HFA",
    "8f735PRKfwFXZvNkRMZYoWx3ziWgFLFMLLS2fLkHpump",
    0.02,
-   8.0,
+   9.0,
    ""
   ],
   [
-   "DEVIN",
-   "5urSSLYhXEiNsQfcC1uXSMFSpDGyQNfmbm1K2xyvpump",
-   0.013,
-   6.0,
+   "MARS",
+   "G4ANxShYDDeCXMXb4djbcukTqqXcBAMVSjh3pJ4Wpump",
+   0.017,
+   2.3,
    ""
   ],
   [
    "SCAT",
    "GCXJUyZpEpstLWccJmvQ3wHXvLoYCQv9iHCSfhChACse",
    0.012,
-   7.7,
+   8.6,
    ""
   ],
   [
    "KALI",
    "CD3iuvGTCSYfUvk2PUhEBJ7TZEN7Aq7MuJfrweCHpump",
    0.011,
-   2.4,
+   3.3,
    ""
   ],
   [
-   "Ruined",
-   "27DzuMNPm6YSgF7q64Ab5RdTx2geeSe8zgsBrWBRpump",
+   "dip",
+   "CRXNdcKbknLMWS1ux8w1DHNNv56QdnXzCHKVsCj7u46t",
    0.011,
-   10.0,
+   9.8,
    ""
   ]
  ]
