@@ -6958,83 +6958,83 @@
    32.58
   ],
   [
-   "2026-10-30T10:03:48",
+   "2026-10-30T10:04:49",
    32.58
   ]
  ],
- "cycles": 3328,
+ "cycles": 3329,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.91910648324999,
- "watching": 279,
+ "sol_usd": 94.90134562654998,
+ "watching": 281,
  "near": [
   [
    "AI",
    "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
-   0.908,
-   7.6,
+   0.919,
+   8.6,
    ""
   ],
   [
    "Mimic",
    "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
-   0.557,
-   7.5,
+   0.561,
+   8.5,
    ""
+  ],
+  [
+   "vampcat",
+   "ACyKMtLtJb9ryd6n2vD4Y1VaCCnTZJUQ6M1Z85f9pump",
+   0.474,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Trip ",
    "C5ka9yfYu4HRpkakpX6SHf7WgfcbtwA9xTUT34Dnpump",
-   0.41,
-   3.3,
-   "buyers=9; creator=32.0%; top5_hold_most=100%"
-  ],
-  [
-   "Duneussy",
-   "4o3ET7NvtSjRtEo4bSmbyE7T7ieYZNJfX9ySbdTQpump",
-   0.4,
-   2.7,
-   ""
+   0.45,
+   4.3,
+   "buyers=8; creator=35.3%; top5_hold_most=100%"
   ],
   [
    "sadCZ",
    "2vuaWcLXYRyB47wJ7hTfV2GaJNuM7TrMJCcdpADRpump",
    0.308,
-   2.6,
+   3.6,
    "buyers=2; creator=15.1%; top5_hold_most=100%"
   ],
   [
    "EARN",
    "5zNinQYskShs6SBzy8xWso75Dye2JurfyuG66na5pump",
-   0.246,
-   3.0,
+   0.262,
+   4.0,
    "top5_hold_most=87%"
   ],
   [
-   "SURVINU",
-   "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
-   0.212,
-   9.4,
+   "Duneussy",
+   "4o3ET7NvtSjRtEo4bSmbyE7T7ieYZNJfX9ySbdTQpump",
+   0.216,
+   3.7,
    ""
   ],
   [
    "Fedinu",
    "DfKHrt2pnCumZNahfgfEE7qtiVVceC8m6jG8Zf2mpump",
    0.211,
-   3.1,
+   4.1,
    "top5_hold_most=83%"
   ],
   [
    "Koop",
    "DD8o6axKhEDs9bF59XGwmP9aZ4W1EAxxXWjdRKERpump",
-   0.147,
-   4.5,
+   0.128,
+   5.5,
    ""
   ],
   [
    "THIS",
    "HjdY77ovn3koyxcjETHJow4nW3b5J6gAjJ82Y2Rxthis",
    0.109,
-   4.5,
+   5.5,
    "buyers=6; top5_hold_most=100%"
   ]
  ]
