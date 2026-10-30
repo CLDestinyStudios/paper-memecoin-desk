@@ -6942,84 +6942,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:25:50",
+   "2026-10-30T09:26:46",
    32.58
   ]
  ],
- "cycles": 3290,
+ "cycles": 3291,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.1751,
- "watching": 290,
+ "sol_usd": 95.14152322239998,
+ "watching": 293,
  "near": [
   [
    "OWL",
    "3jArs9oJJcovcUnDXkZLJuuoYsFAE68FAjVP1GPgpump",
-   0.934,
-   6.0,
-   ""
-  ],
-  [
-   "RDDT",
-   "HkrJfzfgAYo9vNSgjzr9vAQL3KaoyD7xd89cZ6nGpump",
-   0.886,
-   2.4,
-   ""
-  ],
-  [
-   "Jimmy",
-   "66Qh8REHJTMG2bV8Yjy4qLC6pWjkLrgkKg5WbUytpump",
-   0.751,
-   4.9,
-   ""
-  ],
-  [
-   "buy",
-   "kyPwNpHX2e3g6u5UP1vFYQ1tKEWEWsug8fnhxavpump",
-   0.673,
-   2.1,
-   ""
-  ],
-  [
-   "BASS",
-   "7HTDbDmvjtHPS68BU3syLRbg3jaYeoHdoBBuFqcepump",
-   0.498,
-   6.0,
+   0.949,
+   7.0,
    ""
   ],
   [
    "AI",
    "ZcmD39mdQRFJyxChxwthzH2hP2LBhEnnJEvc3Lkpump",
-   0.413,
-   4.7,
+   0.642,
+   5.6,
+   ""
+  ],
+  [
+   "buy",
+   "kyPwNpHX2e3g6u5UP1vFYQ1tKEWEWsug8fnhxavpump",
+   0.639,
+   3.1,
+   ""
+  ],
+  [
+   "BASS",
+   "7HTDbDmvjtHPS68BU3syLRbg3jaYeoHdoBBuFqcepump",
+   0.431,
+   6.9,
+   ""
+  ],
+  [
+   "COLO",
+   "BXs2YBc9URqYHS96Qu7AGb1k8uhpAmbcDB4Yo4yJpump",
+   0.347,
+   2.8,
    ""
   ],
   [
    "HYPELANA",
    "HYPEvXLc56XCDPr9XeEK16BTvJSJLpWKmQX1moNrLQK6",
-   0.274,
-   2.5,
+   0.32,
+   3.4,
    ""
+  ],
+  [
+   "Jimmy",
+   "66Qh8REHJTMG2bV8Yjy4qLC6pWjkLrgkKg5WbUytpump",
+   0.311,
+   5.9,
+   ""
+  ],
+  [
+   "LATTICE",
+   "4RgeLu89JxH1mHrgfNtbYZGvgawcZfgWKmf9JpvUpump",
+   0.271,
+   2.5,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "SKOG",
    "5LufkWndZzxNDmDiVptQgBzvZBZvsj8aKu8BYt2mpump",
    0.161,
-   3.2,
+   4.2,
    ""
   ],
   [
    "Burger ",
    "J3Cpv9ftWziCWfSu1i7e5JURiofDmU14EwCVvTtxpump",
    0.106,
-   6.0,
+   6.9,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Tgiving",
-   "3vbjTdmQ7JkRKoA5n8zFW3j5imUbH7SYQnyTga25pump",
-   0.103,
-   8.8,
-   "creator=33.9%; top10=52.6%; top5_hold_most=81%"
   ]
  ]
 }
