@@ -6810,83 +6810,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:15:46",
+   "2026-10-30T04:16:46",
    32.58
   ]
  ],
- "cycles": 2981,
+ "cycles": 2982,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.85606678505,
- "watching": 126,
+ "sol_usd": 96.69774125085,
+ "watching": 132,
  "near": [
-  [
-   "Tessera",
-   "44xYzqGg3YYNkrohT6FxLzBAk6Gtk1gr1R4syTFXpump",
-   0.65,
-   2.4,
-   "bundled_launch=8 extra buys in creation block"
-  ],
   [
    "Tony",
    "AZYVH4BsmZ4awh4wo3W3bfscmpGPNcPAjSdWYJtWpump",
-   0.369,
-   4.2,
+   0.388,
+   5.2,
    ""
   ],
   [
    "HypedAgent",
    "7pdXqZX8mZB4MzvpPqpqqqxdivMvvcCp1ELRY1Gapump",
-   0.356,
-   5.3,
+   0.36,
+   6.3,
    "buyers=9; top5_hold_most=88%"
+  ],
+  [
+   "flitforme",
+   "6orHXAy94NJUhNrW75kWoUjUaWf2Nnhskwh4qwWa1R5t",
+   0.254,
+   4.6,
+   "serial_creator=35 launches/24h"
   ],
   [
    "DAEMON",
    "3PP5yEBZvULffrQk5MavRDJDXfbzJp1EBBqxYTCDpump",
-   0.238,
-   2.6,
-   "top5_hold_most=87%"
+   0.239,
+   3.6,
+   "top5_hold_most=86%"
   ],
   [
    "SPENDY ",
    "BQKBy2PAj7qWUErNt9zaEK1oXSJBKutfh9JnibVApump",
-   0.186,
-   3.7,
+   0.167,
+   4.7,
+   ""
+  ],
+  [
+   "FFM",
+   "7976fP7Mq7TCW7vLB5eW3ai7Z2uMfwBYGncDRmTLRpCM",
+   0.063,
+   2.4,
    ""
   ],
   [
    "Bear",
    "7HSUFrzWtaHrFtKxxqbHiogV1WS6rXWyCi8t4Cempump",
    0.043,
-   5.5,
+   6.5,
    ""
   ],
   [
    "LMAO",
    "FZ7oFQcoPkiwHA3FjaNAz6b3w4NSZsqLraUyAGFtpump",
    0.043,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "RIP",
+   "HQ85snJSL1oPZdZJFFZqLhijuzqfezQxV6zgqxE3pump",
+   0.042,
+   2.4,
    ""
   ],
   [
    "HYPERPAD",
    "BBZhXGR2FwTyLkytcCp3o7tUNGUjdYiaf9PdYPgwpump",
    0.039,
-   3.1,
-   ""
-  ],
-  [
-   "doge",
-   "7DXP13yzaurTTZKyTzAevbYjp2CyZbAzWHpVRWsSpump",
-   0.014,
-   5.7,
-   ""
-  ],
-  [
-   "RedBaron",
-   "4CFMd8qFa5GHnd5veFRe5C3NKZbwJdmnf5Ms9d4tpump",
-   0.009,
-   6.7,
+   4.1,
    ""
   ]
  ]
