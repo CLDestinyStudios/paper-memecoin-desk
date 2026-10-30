@@ -6776,82 +6776,86 @@
   [
    "2026-10-30T02:58:45",
    32.58
-  ]
- ],
- "cycles": 2904,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 96.6538024859,
- "watching": 198,
- "near": [
-  [
-   "FRY",
-   "7xjQyiVvvq8keN1LCBGdwcRUKDgA3qwaVjXFEqnGpump",
-   0.138,
-   9.8,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
+   "2026-10-30T02:59:47",
+   32.58
+  ]
+ ],
+ "cycles": 2905,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 96.69524972060002,
+ "watching": 193,
+ "near": [
+  [
    "Inky",
-   "GSZ1dCpiaqcWhshfP7XagfpmwXjT6eSC16jEfQh2Vgjv",
-   0.102,
+   "2yr8a94SargmNSU7VEhUEAHuPsL9L8fcZrc6NXPsRJgr",
+   0.119,
+   2.7,
+   ""
+  ],
+  [
+   "ROBBIE",
+   "Cbd2Rnkc57nNpKfsJwAxfLKWATYaYW8cgMCVj6Aepump",
+   0.106,
    2.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Cookie",
+   "5xwrQgevbdXthEW8CbL83bEyhiq9gWmkYrwnHy4epump",
+   0.073,
+   2.9,
    ""
   ],
   [
    "CVE",
    "7Gd3ywdzSkfjPfnMuoBJuTACLQLosptkBPM76FUmpump",
    0.064,
-   5.3,
+   6.4,
    ""
   ],
   [
-   "TCS",
-   "nbCnaqUNcsQvqxiN2C63TdjKjTJ1PMddenNZYNAJMxA",
-   0.056,
-   2.2,
+   "Mura",
+   "EwFR7upezNMKPC5vQWwpAUpr8W8ULkXTHY5NWewCpump",
+   0.059,
+   2.7,
+   ""
+  ],
+  [
+   "CVE",
+   "AFJvY2HGgoeeAbtN2BW5XNi57W4ogdEJuvVbazW6pump",
+   0.045,
+   2.6,
+   ""
+  ],
+  [
+   "FLEEDOG",
+   "DkjKdUyD4P7RVmXrFCKKJosKhtTNjgEt7vV1vcjGBXFJ",
+   0.044,
+   3.0,
    ""
   ],
   [
    "SNARLPUP",
    "AYhRJ64PcuQzdgfyP46EtLkzwavSiKAHrPEc72XV7oZL",
    0.044,
-   7.0,
+   8.0,
+   ""
+  ],
+  [
+   "TCS",
+   "nbCnaqUNcsQvqxiN2C63TdjKjTJ1PMddenNZYNAJMxA",
+   0.033,
+   3.2,
    ""
   ],
   [
    "Squeeze",
    "Hn6jnXFfGNSW28dYyeVmyt99e4JCTAkxusgebwqXrzMM",
-   0.026,
-   4.2,
+   0.033,
+   5.3,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CVE",
-   "5xwZqGBiifjm3nsfcYfqYGEF5GyQ56EKfQ7uK8aQpump",
-   0.022,
-   4.9,
-   ""
-  ],
-  [
-   "teng dog",
-   "Dxxj1DLaD3w3f5xu7mviZPeM3jNNfkZhJTxCf4tQpump",
-   0.022,
-   4.4,
-   ""
-  ],
-  [
-   "IINU",
-   "42BfXuWdzsv6asb2R6LuqS7Cd7u71FvmQVSdEyG5pump",
-   0.02,
-   4.8,
-   ""
-  ],
-  [
-   "MURT ",
-   "7zbVgpwmLAmZAzmV8VhhxvjvMT3pQ8DqqGc2dXfUpump",
-   0.015,
-   2.6,
-   ""
   ]
  ]
 }
