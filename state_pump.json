@@ -6810,83 +6810,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:17:46",
+   "2026-10-30T04:18:46",
    32.58
   ]
  ],
- "cycles": 2983,
+ "cycles": 2984,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.77039733295001,
- "watching": 138,
+ "sol_usd": 96.81,
+ "watching": 147,
  "near": [
   [
-   "MMDC",
-   "6BtmMSwPuf3T3JBtDEgtPWmBvaoZHmgBzGhXd3ucpump",
-   1.0,
-   2.7,
-   "graduated"
-  ],
-  [
-   "MMDC",
-   "9gJA5eRwfj3mwZNxSrKDwK1zc2PmSZx9QUf5cpDnpump",
-   0.749,
-   2.9,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "FFM",
-   "9r33aA9jgEEhaSRzFVr7xa43MMaK7bJRcpjr5RyaAUnZ",
-   0.65,
-   2.1,
-   "serial_creator=35 launches/24h"
+   "HypedAgent",
+   "7pdXqZX8mZB4MzvpPqpqqqxdivMvvcCp1ELRY1Gapump",
+   0.472,
+   8.3,
+   "buyers=9; top5_hold_most=88%"
   ],
   [
    "Tony",
    "AZYVH4BsmZ4awh4wo3W3bfscmpGPNcPAjSdWYJtWpump",
-   0.368,
-   6.2,
+   0.344,
+   7.2,
    ""
   ],
   [
    "DAEMON",
    "3PP5yEBZvULffrQk5MavRDJDXfbzJp1EBBqxYTCDpump",
    0.239,
-   4.6,
+   5.6,
    "top5_hold_most=86%"
-  ],
-  [
-   "HypedAgent",
-   "7pdXqZX8mZB4MzvpPqpqqqxdivMvvcCp1ELRY1Gapump",
-   0.183,
-   7.3,
-   "buyers=9; top5_hold_most=88%"
-  ],
-  [
-   "SPENDY ",
-   "BQKBy2PAj7qWUErNt9zaEK1oXSJBKutfh9JnibVApump",
-   0.122,
-   5.7,
-   ""
   ],
   [
    "win93",
    "EuZLaR33g3s8y9SH2ofkeBAjbh9Usf5fGzk9EUfVpump",
    0.08,
-   2.8,
+   3.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "ROPAD",
    "HVGTT9nRcUQifqSH8GdAPaiYy3QEu6Yd4VzbqPi6sqdy",
    0.08,
-   2.6,
+   3.6,
    "buyers=8; top5_hold_most=100%"
+  ],
+  [
+   "MMDC",
+   "5CjJZVpXkCupLWvzkAbJB9msXACxZiYn5zkunDCtpump",
+   0.072,
+   2.1,
+   ""
   ],
   [
    "FFM",
    "7976fP7Mq7TCW7vLB5eW3ai7Z2uMfwBYGncDRmTLRpCM",
    0.063,
-   3.4,
+   4.4,
+   ""
+  ],
+  [
+   "dqw",
+   "HMNrts3dg6dtqRCxMtGHruRvANsBzuVMFd6nyW4pump",
+   0.054,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Bear",
+   "7HSUFrzWtaHrFtKxxqbHiogV1WS6rXWyCi8t4Cempump",
+   0.043,
+   8.5,
+   ""
+  ],
+  [
+   "LMAO",
+   "FZ7oFQcoPkiwHA3FjaNAz6b3w4NSZsqLraUyAGFtpump",
+   0.022,
+   7.2,
    ""
   ]
  ]
