@@ -6814,84 +6814,84 @@
    32.58
   ],
   [
-   "2026-10-30T04:24:46",
+   "2026-10-30T04:25:49",
    32.58
   ]
  ],
- "cycles": 2990,
+ "cycles": 2991,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.73074318180001,
- "watching": 150,
+ "sol_usd": 96.79999685875,
+ "watching": 154,
  "near": [
   [
    "MMDS",
    "8KEmg3X56WvVPjDh3YTVvnr3bATgB9GecX5q9bkPpump",
-   0.594,
-   4.7,
+   0.61,
+   5.8,
    ""
   ],
   [
-   "COOK",
-   "7kp8iGxywaW1D3LLNyHsdewHn6wnZuJBJ4vafZ5Wpump",
-   0.164,
+   "BROOD ",
+   "3xRjTVNfFqTRB6DxzbU8tVC5hSjt7znPVREZKy1Upump",
+   0.355,
+   2.2,
+   ""
+  ],
+  [
+   "PETRONAS",
+   "CQVoMQdJ6crN1KV437yzmwvrAqKSyBR7XHLhecFRpump",
+   0.126,
    2.1,
-   "buyers=8; top5_hold_most=98%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "HYPER",
-   "3msFLe2RXjfC6wHkkGjvXFFjfMf7Fvmc42HeaEBmpump",
-   0.151,
-   3.1,
-   ""
-  ],
-  [
-   "ROPAD",
-   "HVGTT9nRcUQifqSH8GdAPaiYy3QEu6Yd4VzbqPi6sqdy",
-   0.134,
-   9.6,
-   "top5_hold_most=89%"
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "ESQUIVO",
    "K9NHtKhnuYkd99GB1j4yy94sVnqXutBcW3xv8ubpump",
    0.12,
-   6.3,
+   7.3,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "YUMI",
+   "ACtYQTTJEwqekNwTdq1uNnd3dSyXnuawtDXgTpEgpump",
+   0.114,
+   2.5,
+   ""
   ],
   [
    "    $DIOR",
    "DfZUbHSdp9WRKXHqHGuSinccwXsTFad2WhS3brLYpump",
    0.098,
-   7.8,
+   8.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "win93",
-   "EuZLaR33g3s8y9SH2ofkeBAjbh9Usf5fGzk9EUfVpump",
-   0.08,
-   9.8,
-   "buyers=1; top5_hold_most=100%"
+   "HYPER",
+   "3msFLe2RXjfC6wHkkGjvXFFjfMf7Fvmc42HeaEBmpump",
+   0.096,
+   4.2,
+   ""
   ],
   [
    "P.S ",
    "9GqDveyHpV83kB594QuLTqn6sZTVRNZPKXei2ZyXpump",
    0.08,
-   3.9,
+   5.0,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "stuz2",
+   "ogV8etMcyLHaFJw9kE5pq8AGx1N28ZcEPQHBLoNpump",
+   0.066,
+   5.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "dqw",
    "HMNrts3dg6dtqRCxMtGHruRvANsBzuVMFd6nyW4pump",
    0.054,
-   8.9,
+   10.0,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "SINKGATE",
-   "5KjqDwdgJkP7UcvNJ59m41cgWFTT8StS7Xxcdd4y2jL9",
-   0.043,
-   2.1,
-   ""
   ]
  ]
 }
