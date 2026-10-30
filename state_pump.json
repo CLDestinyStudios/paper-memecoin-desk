@@ -7106,84 +7106,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:46:56",
+   "2026-10-30T15:47:56",
    32.58
   ]
  ],
- "cycles": 3671,
+ "cycles": 3672,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.66456601475,
- "watching": 287,
+ "sol_usd": 95.65308004445002,
+ "watching": 298,
  "near": [
-  [
-   "9LL",
-   "GxwP3s6UtENSGZoaZJy3YJqHCoM9vwZbtNf7tcTF59LL",
-   0.529,
-   3.8,
-   ""
-  ],
   [
    "MEMES",
    "xdKDf3hJJMrALjGgyad3UZ76NjG26Y747SXdLiCpump",
-   0.37,
-   3.5,
+   0.384,
+   4.5,
    "top5_hold_most=81%"
   ],
   [
    "Airfryer",
    "GSj3mTUG6PCgoqApArH34NdtZBMKr44EcEnLB2jQpump",
-   0.362,
-   8.1,
+   0.367,
+   9.1,
    "top5_hold_most=82%"
+  ],
+  [
+   "9LL",
+   "GxwP3s6UtENSGZoaZJy3YJqHCoM9vwZbtNf7tcTF59LL",
+   0.313,
+   4.8,
+   ""
   ],
   [
    "TUINU",
    "4qejAvEwmULv8FvY34LT5GaB6EoA3EK5wjTAyeDTpump",
    0.237,
-   4.7,
+   5.7,
    "buyers=1; creator=18.8%; top5_hold_most=100%"
   ],
   [
    "PKIN",
    "CbqAZthSk8JLNWGcUp9DhySCoH6tnFM9C1ckU476pump",
    0.2,
-   3.4,
+   4.4,
    "buyers=8; top5_hold_most=84%"
+  ],
+  [
+   "Panic",
+   "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
+   0.19,
+   3.9,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "\u3164",
    "3YwxGBY6Q6SHtwvcw8cgtvxJstWUxh5ZceGZcBekpump",
    0.162,
-   7.0,
-   ""
+   8.0,
+   "buyers=8; top5_hold_most=100%"
   ],
   [
-   "Panic",
-   "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
-   0.156,
-   2.9,
-   "buyers=6; top5_hold_most=100%"
+   "SIGER",
+   "6d6idsr2y8ryCi3vwRABwEY6SKKQFssj976Qb1CS2DVB",
+   0.119,
+   2.5,
+   ""
   ],
   [
    "acc/bio",
    "F8togzCimQDXNWxdiyGXwSu6XvpfaHCeAtUPEhsvpump",
-   0.115,
-   4.5,
-   "top5_hold_most=87%"
+   0.087,
+   5.5,
+   "top5_hold_most=91%"
   ],
   [
    "never",
    "39nSJDNnGa7871jfk1NwjWNAAdMnhqykitmc6drzpump",
    0.065,
-   5.0,
+   6.0,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ONBOARD",
-   "9NGkR2LjftKtY979jiUfpdCfe7TZW3knmmU3aaNQpump",
-   0.046,
-   5.0,
-   ""
   ]
  ]
 }
