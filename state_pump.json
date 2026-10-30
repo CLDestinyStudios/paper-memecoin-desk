@@ -6878,83 +6878,83 @@
    32.58
   ],
   [
-   "2026-10-30T06:53:10",
+   "2026-10-30T06:54:11",
    32.58
   ]
  ],
- "cycles": 3138,
+ "cycles": 3139,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.48000000000002,
- "watching": 232,
+ "sol_usd": 94.75999999999999,
+ "watching": 238,
  "near": [
   [
    "TECH",
    "5pd7BykDrFko8tJxz3C5DZXgDtfGkrHvkjH1sc2fpump",
-   0.925,
-   4.6,
-   ""
+   1.0,
+   5.6,
+   "graduated"
   ],
   [
    "JAPRO",
    "JCRDAYtkXgnBe5egC6fbm42b5EsC3oNhDwqgyziYpump",
-   0.688,
-   8.8,
-   "creator=53.3%; top10=54.6%; top5_hold_most=100%"
+   0.689,
+   9.8,
+   "creator=53.3%; top10=54.6%; top5_hold_most=99%"
+  ],
+  [
+   "crime",
+   "27mJH9zNf868jU6ZnM7mQqN3uKvkdFEnH4bZ4CNjpump",
+   0.59,
+   2.4,
+   ""
   ],
   [
    "VESPER",
    "4Q9WmBzLxj1hAwsofjefPWCEeBHW75KvBQUbWX5Fpump",
-   0.506,
-   9.0,
+   0.505,
+   10.0,
    "buyers=9; top5_hold_most=93%"
   ],
   [
    "SPIRITS",
    "GMcL2quuNHsxieukkj7f1Vqjv1SJcRz9qerZB498pump",
    0.185,
-   5.2,
+   6.2,
+   ""
+  ],
+  [
+   "LLM",
+   "624YvdZgpbQUouHwYv8nfk5WF3GmuF5ycHj2iF9Cpump",
+   0.153,
+   3.0,
    ""
   ],
   [
    "\u20ac",
    "FB3gY67Ap3D6ASzeYvkNTfnLnuYZmGJidV6GtYMkpump",
    0.122,
-   7.2,
+   8.2,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "KIM",
    "5NGwWpKFjJp3fTmCinEyfZ4gtNBwfj1cDzkZ4AdBpump",
-   0.12,
-   3.0,
-   "buyers=5; top5_hold_most=100%"
+   0.119,
+   4.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "JAPRO",
    "AhZ8zooajNLviR7Etony5yEgyXLUnuQ15zCEpNMepump",
    0.093,
-   3.1,
+   4.2,
    "buyers=7; top5_hold_most=100%"
   ],
   [
    "EURC",
    "BXiQ6bymbFXcqpjHe9HQZjrG4mTyEoLvbgnewjzjm4at",
    0.089,
-   6.8,
-   ""
-  ],
-  [
-   "FUU",
-   "2xgy2oWEkDsSScLKfb7tBzZA1tvDtKZUABqUd6j7pump",
-   0.075,
-   3.9,
-   ""
-  ],
-  [
-   "saika",
-   "J5H1CqEBnyHXKpxKwtdMpBJyCVZ4UPFRJ2v3JvYhpump",
-   0.067,
-   2.5,
+   7.8,
    ""
   ]
  ]
