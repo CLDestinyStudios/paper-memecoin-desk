@@ -6554,83 +6554,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:21:17",
+   "2026-10-29T18:22:17",
    32.58
   ]
  ],
- "cycles": 2387,
+ "cycles": 2388,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.08999999999999,
- "watching": 148,
+ "sol_usd": 93.8961088591,
+ "watching": 152,
  "near": [
   [
+   "acc/tech",
+   "9UWd7GKjotVvJrxjKNY8qGAnip73rWsMDUt8JYWTpump",
+   0.508,
+   2.2,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
    "ACCTECH",
-   "6k76HVfPNUS2atLyzM6s6DwSkeD8rvASYthSXHbzpump",
-   0.718,
-   2.1,
-   "serial_creator=10 launches/24h"
+   "F7S8VxeTYgZoqG4cLXK2E9KEcRi3nxotFkrMLV4npump",
+   0.152,
+   2.6,
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "nut",
    "2P6rVGEArGquJ7YUkL3dJhAmTXp5tcDwpcuDuD1ipump",
-   0.154,
-   4.2,
+   0.146,
+   5.2,
    ""
   ],
   [
    "SBF",
    "AYMCZdBqDGiCDzFDfB7fSqpVAcFn62xDEKjwZEw5pump",
    0.078,
-   7.6,
+   8.6,
    ""
+  ],
+  [
+   "BULLY",
+   "CKU3fnxtbdBpJAUXWB6YGEDMSBnLvPUAnEK4Doa7pump",
+   0.071,
+   3.1,
+   ""
+  ],
+  [
+   "acc/tech",
+   "BdnxTpMApQZh8Pz4ZZV9uGjXN5ALBsB1zGZucTUxpump",
+   0.069,
+   3.0,
+   "buyers=5; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "RayPaid",
+   "KppX85Khd4NB2ZkqPkrAxw762oFCJBjF4vPEGNApump",
+   0.056,
+   2.7,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "HYPERFUN",
    "HYpEfR14qvrMgyHSumhDJE3xMRzWRDtsspm7d1c97iSz",
    0.051,
-   2.6,
+   3.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "PREDICTORS",
    "Agz1bwX5huRD1Am8SmWyarj3HPAHXVYEifQuJ9R9pump",
    0.043,
-   6.0,
+   7.0,
    ""
   ],
   [
    "GayD Vance",
    "Dr1NLFz43uwi1oEWroRCQyQLMs7WN6JyYnarxUegCxec",
    0.043,
-   3.4,
-   ""
-  ],
-  [
-   "POOINU",
-   "GSWMaGGbdsuLWHokxRuBcZQADJycJXT9akuY1iHMpump",
-   0.042,
-   4.1,
-   ""
-  ],
-  [
-   "SQUID",
-   "CztKMcJ96r8KbDgk3TMVxT2N8FCcHVY2dnV9CqoDpump",
-   0.039,
-   7.2,
-   ""
-  ],
-  [
-   "HB",
-   "GXx5J9yUKSacS1jpL69npQYu475EAt7fJZwvXS7wpump",
-   0.027,
-   2.9,
-   ""
-  ],
-  [
-   "TMTRD",
-   "D8jeW68MuZGTQDxezpK2hKjc8tzhv5vsZq581FbVpump",
-   0.026,
-   6.3,
+   4.4,
    ""
   ]
  ]
