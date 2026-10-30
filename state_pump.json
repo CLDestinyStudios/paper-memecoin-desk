@@ -6650,83 +6650,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:59:19",
+   "2026-10-29T22:00:22",
    32.58
   ]
  ],
- "cycles": 2605,
+ "cycles": 2606,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.05,
- "watching": 148,
+ "sol_usd": 97.03999999999999,
+ "watching": 152,
  "near": [
+  [
+   "Inuployed",
+   "59Kf9HGQVXSKyX7ZWyHZ45srM6Kdd7FTQrGXKEMHpump",
+   0.636,
+   2.8,
+   "bundled_launch=7 extra buys in creation block"
+  ],
   [
    "coinput",
    "coin2JPqDG9LozmgfN8z4cL4b9M7mB5HodtX813M9ie",
-   0.6,
-   3.2,
-   ""
-  ],
-  [
-   "TRAIDER",
-   "2ZKcKtNvynQ1eFxWBimCMAxHHdyZVTcfeudJKxdsQ4Ej",
-   0.591,
-   3.0,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "MONKEY",
-   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
-   0.296,
-   3.0,
-   ""
-  ],
-  [
-   "TELEPATHY",
-   "2VMh4LRhhZqvHbkYwjo5JRcUSXcZD66YAvCjhGQfpump",
-   0.211,
-   9.6,
+   0.571,
+   4.3,
    ""
   ],
   [
    "Hacker",
    "3busqTdwQ5MehCb1zBkezeovJk4UFYf7vNxKV9cmpump",
-   0.102,
-   4.7,
+   0.099,
+   5.7,
    ""
+  ],
+  [
+   "JCC",
+   "6WoYZRKUFLybcJ3gQHFQ3znMRSYXsMVbzy3DQQ7Npump",
+   0.078,
+   2.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PJAM",
    "3vKcFE3UHAkkFsKXZg9Rw9sdfum9yjZr8cbXzu8Wpump",
    0.058,
-   8.7,
+   9.7,
    "buyers=7; top5_hold_most=97%"
   ],
   [
-   "LOOOOOONG",
-   "9TCLw9iUf5K8B1dDZuDpncFeYuBhX72XPjCp8PPbpump",
-   0.049,
-   8.2,
+   "MONKEY",
+   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
+   0.057,
+   4.1,
    ""
   ],
   [
    "ARMO",
    "CeYkLAkumqAQiEUK3gnzso4925h8uxrFH85yv2KLpump",
    0.043,
-   6.9,
+   7.9,
    ""
   ],
   [
    "TESTES",
    "3v7zLaB43qmxgsQF23SHbHuyomiEx7xbyBQC86jvJpCJ",
    0.043,
-   8.1,
+   9.1,
    ""
   ],
   [
    "PumpDrop",
    "F9pK9UAN4oob3rXxbkRmornWVHKyWh3Zmi7C2qb7pump",
    0.04,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "PONCHO",
+   "3dNGuNq9hKYvpTSL1EheCqvuHitUiYTgTsDzoDEcpump",
+   0.04,
+   7.5,
    ""
   ]
  ]
