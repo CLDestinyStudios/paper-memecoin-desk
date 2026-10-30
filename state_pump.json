@@ -6792,81 +6792,85 @@
   [
    "2026-10-30T03:34:45",
    32.58
+  ],
+  [
+   "2026-10-30T03:35:47",
+   32.58
   ]
  ],
- "cycles": 2940,
+ "cycles": 2941,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.8727533277723,
- "watching": 167,
+ "sol_usd": 96.90361411019998,
+ "watching": 174,
  "near": [
+  [
+   "BURN",
+   "5ANpBFZjmhTv48dvU18sCLmgQS9mwJ7meU6aMYSZpump",
+   0.699,
+   2.3,
+   ""
+  ],
+  [
+   "TROLLER",
+   "BD4sKxuMur1K3QLwhUkkEqarYK8LbqDiTm2yHpLspump",
+   0.524,
+   2.5,
+   "creator=37.4%; top5_hold_most=94%"
+  ],
   [
    "Xlife",
    "3uKbaQ3o3QQmjLmUyA7iuDwJ5rMW3TVrAoxgfysppump",
-   0.141,
-   5.3,
+   0.138,
+   6.3,
    "top5_hold_most=95%"
+  ],
+  [
+   "BILLY",
+   "fv9bmwkMhoHRu4F8NTKg88o4wiAYiCsii3tNvQ6pump",
+   0.132,
+   2.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SEEN",
    "834W2Uf2Fh28qxUXSUpA1YWxMX48iyjXBx8N3eHCpump",
    0.13,
-   4.8,
+   5.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Corgi",
    "Q5nuVXVFD9LscWTYoxKd5F4KqLuz2RvFARjWiVZpump",
    0.072,
-   5.3,
+   6.3,
    ""
   ],
   [
    "FREEDOM",
    "EnxgpUK9Sx84XmtASWrGmSdZr1D3DXfEMP1VnoVKpump",
    0.045,
-   7.5,
+   8.5,
    ""
   ],
   [
    "$CBEAR ",
    "Vz7FF81hCExapDZZYVRBFhtFAEvsioPak76gLywpump",
    0.045,
-   6.9,
-   ""
-  ],
-  [
-   "WW3",
-   "DBpf3qYgigwWNg5PX7K9YnKWFEKNdVa7MxWZDRAApump",
-   0.039,
-   9.3,
+   7.9,
    ""
   ],
   [
    "GPM ",
    "gJEgth9kP9xAt1cF9oMkxZMFNW7jvLfD5KgLS8Bpump",
    0.032,
-   2.2,
+   3.2,
    ""
   ],
   [
    "HIDDEN",
    "D4EaYhYmjqZybbg8uE3omjqeizVJYeBFTUKQjUHepump",
    0.031,
-   4.8,
-   ""
-  ],
-  [
-   "BBUNX",
-   "54riZ8Gc54RUNQGiwG3jVeQqh43jtMFXEucebrnapump",
-   0.023,
-   9.7,
-   ""
-  ],
-  [
-   "BREACH",
-   "Bc8FfLZpuSrBnSA2fSWuFwt5sC6UmP9JMvTRn59Jpump",
-   0.013,
-   9.4,
+   5.9,
    ""
   ]
  ]
