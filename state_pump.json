@@ -6702,83 +6702,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:05:51",
+   "2026-10-30T00:06:46",
    32.58
   ]
  ],
- "cycles": 2731,
+ "cycles": 2732,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.9393825867,
- "watching": 141,
+ "sol_usd": 97.91136360985,
+ "watching": 146,
  "near": [
   [
    "ANONYMOUSE",
    "J9ZeznJEReSFmUzwnvQspTvJCtkNb28YiiucjxU9pump",
-   0.69,
-   4.3,
-   ""
-  ],
-  [
-   "HEDGE",
-   "2Vcoju9bSjxVBsJE1G7rw5kzu8RVFRrFXYfpXHVkpump",
-   0.437,
-   9.3,
+   0.602,
+   5.2,
    ""
   ],
   [
    "ZERO",
    "Df2N9wJWu7UNQdiCcAqU2QfypS1RCy9rqXnJqVTnpump",
    0.191,
-   4.6,
+   5.5,
    "top5_hold_most=80%"
-  ],
-  [
-   "Gruffalo",
-   "5vCjGzhnRKjjCnHViePgaiTJ5Q4dDK7xJWfwcS4hpump",
-   0.185,
-   2.5,
-   "top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "HARD",
    "wyxJJ5MoT2zZtVjqZkgohoJ1M32rgmyvK8Sv95Jpump",
-   0.129,
-   2.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "MOONBERG",
-   "fF8QqZaJeFpY3sLXVv4aneyTDj99GR3afXMjDqVpump",
-   0.073,
-   6.7,
-   ""
+   0.133,
+   3.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BOTTOM",
    "4S2tEfQcDEerDJm5QCh5dE5SniEnGVvSFu4qikATpump",
    0.058,
-   8.4,
+   9.4,
    ""
   ],
   [
    "MONA",
    "7Ry5BCYA19Fins7FVsZzGm7JY1D5boZZX4s8humqpump",
    0.028,
-   5.9,
+   6.9,
+   ""
+  ],
+  [
+   "MOONBERG",
+   "fF8QqZaJeFpY3sLXVv4aneyTDj99GR3afXMjDqVpump",
+   0.027,
+   7.6,
    ""
   ],
   [
    "SFU ",
    "FnFvGeXPqNDs6fm2Nvex3TDH6VnTJLPJ2w1aVfWKpump",
    0.022,
-   3.1,
+   4.0,
    ""
   ],
   [
-   "Toad",
-   "CgDcdoGCEKcaGDaTkC3B6xenL1Vr65Ne2yBj2Lzgpump",
-   0.019,
-   9.3,
+   "PANIC",
+   "Dd7XcdXRCYmL1EnsUKQrWEQCKqXvxD2aYKuDMG2dpump",
+   0.014,
+   8.5,
+   ""
+  ],
+  [
+   "PRIVACY",
+   "7w3qw9vPocKRog2PC8RdCbAg5LUDhc4dxy5oQPHw78AF",
+   0.002,
+   2.6,
+   ""
+  ],
+  [
+   "KRAKEN",
+   "GYfuRXNLbigkdWJNaTLBJqDE73evduYgTqSzD73Kpump",
+   0.002,
+   5.3,
    ""
   ]
  ]
