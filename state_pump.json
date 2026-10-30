@@ -6850,83 +6850,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:48:02",
+   "2026-10-30T05:49:01",
    32.58
   ]
  ],
- "cycles": 3073,
+ "cycles": 3074,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.52000000000001,
- "watching": 165,
+ "sol_usd": 96.69935000000002,
+ "watching": 159,
  "near": [
-  [
-   "\u30ca\u30ba\u304f\u3093",
-   "FuH3VrPFLnsCiDVuSYHWZwLygCuVmHNSZ5r98L4cpump",
-   1.0,
-   4.9,
-   "graduated"
-  ],
   [
    "Claude",
    "FXJDm5sMWuhtSvTTtGDPF3A9vFiMiba5DNRFsyzZpump",
-   0.985,
-   8.9,
+   1.0,
+   9.9,
+   "graduated"
+  ],
+  [
+   "patience",
+   "FHw71ZmhphWFfq14DHNTtqGaAVjDQ4MDFs4VMZCjpump",
+   0.891,
+   2.8,
    ""
   ],
   [
    "\u30ca\u30ba\u304f\u3093",
    "DMW6GBzZTCey1gybY9tfdERZsXNNHCDrh5iuzGunpump",
-   0.574,
-   5.3,
+   0.442,
+   6.3,
+   ""
+  ],
+  [
+   "MINT ",
+   "kG6exLNipYnwhn1DEupVm4UKyAEFhqqjvrMbsZApump",
+   0.096,
+   7.1,
+   ""
+  ],
+  [
+   "AURA",
+   "27LLgHhHqiDCBi9FvRNfAkiryybGSWfsD77kuj8Spump",
+   0.094,
+   2.7,
    ""
   ],
   [
    "Stocks",
    "wJYTXt1mVLwquHeDbmtZLkZqm4yDvWQry71jtMCpump",
-   0.244,
-   7.0,
+   0.093,
+   8.0,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "NORETIRE",
    "H9q8kXb6o5UZtNMa7PTmr7cNqHNN3LfbSKcXH791pump",
    0.064,
-   4.9,
+   5.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ascend",
    "Ekg3wehnPGsSvJ6eXhMfrJNW9qGCyie2PdiP9wmLpump",
    0.058,
-   4.3,
-   ""
-  ],
-  [
-   "MINT ",
-   "kG6exLNipYnwhn1DEupVm4UKyAEFhqqjvrMbsZApump",
-   0.056,
-   6.1,
+   5.3,
    ""
   ],
   [
    "pumpimp",
    "48Kin5x5yAhHA4eNysiBhNfHDeEr1ZWqjzfJLuGfsqdy",
-   0.055,
-   7.3,
+   0.051,
+   8.3,
    "top5_hold_most=98%"
   ],
   [
-   "Gruffalo",
-   "8Ry5TR2eVsZqfTR3iSJ8KHGwu3m4GL3bAauRohN8pump",
-   0.049,
-   9.0,
-   ""
-  ],
-  [
-   "babyQ",
-   "H2PtkYadzkKdHLTRAnejkwsiyHb5Uowzfxz85Bv8pump",
-   0.043,
-   2.4,
+   "TERMINAL",
+   "3jhqHojv2HNQbSwL4CsKuyH9nf2t57WuZPqZaguUpump",
+   0.038,
+   4.7,
    ""
   ]
  ]
