@@ -6534,83 +6534,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:32:07",
+   "2026-10-29T17:33:11",
    32.58
   ]
  ],
- "cycles": 2338,
+ "cycles": 2339,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 92.7179254202,
- "watching": 226,
+ "sol_usd": 92.85000000000001,
+ "watching": 232,
  "near": [
   [
    "LeverPad",
    "2KMYeewkKztuPs6LZ8owHDidag8wnicXHhEPRKfUpump",
-   0.398,
-   2.6,
+   0.452,
+   3.7,
    ""
+  ],
+  [
+   "NIBBLES",
+   "9anwyBg4YvicYCez5A8sr3tdFRxa1ERQ2oHDPNXmpump",
+   0.296,
+   2.6,
+   "serial_creator=6 launches/24h"
   ],
   [
    "dip",
    "DFxZrAZ16CG1K3P4ojU7wRPJNQaB9TpfFbhz8wdPpump",
-   0.25,
-   4.4,
-   ""
-  ],
-  [
-   "RM",
-   "CZyyVQ7nie9HJjN1e9WSU93Tvy4at7GQVjbS8fDUTwJD",
-   0.204,
-   5.5,
+   0.218,
+   5.4,
    ""
   ],
   [
    "LeverPad",
    "5ZsL6WkyAFMANHaS5K9i2wWXQ2zBQS1XzM3sE4xApump",
    0.166,
-   8.5,
+   9.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "RM",
+   "CZyyVQ7nie9HJjN1e9WSU93Tvy4at7GQVjbS8fDUTwJD",
+   0.152,
+   6.5,
+   ""
+  ],
+  [
+   "LIVECOIN",
+   "6Mf4AeHTk4X59XTyRDFs1AGq8zetL3KcZYUFDvUXpump",
+   0.106,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SWAN",
    "4bDT4hLMeu9eqvFXgtai5pf2zHhtGSNPYrE6c9RwC7i5",
    0.101,
-   5.8,
+   6.8,
    ""
   ],
   [
    "10/30",
    "9RmCiStqWKwdj71U4ftd3ypECsnvDWqvU6emBv1Fpump",
    0.064,
-   4.3,
+   5.4,
    ""
   ],
   [
-   "10/29",
-   "4iEoT4MKzCRi799YXjV3RouR8Si7WE9YLdQRqApq58PZ",
-   0.063,
-   4.1,
-   ""
+   "BULL",
+   "7PSDXtqqPnprozRyRUKDXuMcPGK79BeWrnYXhqEPpump",
+   0.064,
+   2.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "HYPEPAD",
    "2tNAYfScUf3jRLiYF5F5ft7K5QeKVrSwYgUmYdoKpump",
    0.051,
-   5.2,
-   ""
-  ],
-  [
-   "El Fantasma",
-   "739Niq5hTh7pJsoQMwt8HXkDErV73H6W35VN7S1cpump",
-   0.043,
-   8.8,
-   ""
-  ],
-  [
-   "SeaZ",
-   "5yiCHxEBU93YK1k288Pj5zp4mi5FuzAbkWiXec9epump",
-   0.043,
-   5.6,
+   6.3,
    ""
   ]
  ]
