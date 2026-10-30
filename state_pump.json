@@ -6538,83 +6538,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:38:07",
+   "2026-10-29T17:39:05",
    32.58
   ]
  ],
- "cycles": 2344,
+ "cycles": 2345,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.72575733675001,
- "watching": 217,
+ "sol_usd": 93.68173846656907,
+ "watching": 223,
  "near": [
+  [
+   "rope",
+   "BWCdNNdHftVrbQqyEYf5HDcanaNTnpNdeRtfMHhWpump",
+   0.917,
+   2.8,
+   ""
+  ],
   [
    "JEAN",
    "BsvK5vDLLCJqfbqAcKMvhYiAfMF5efdxPEi7tiX4pump",
-   0.642,
-   3.3,
+   0.585,
+   4.2,
    ""
   ],
   [
    "LeverPad",
    "2KMYeewkKztuPs6LZ8owHDidag8wnicXHhEPRKfUpump",
-   0.533,
-   8.6,
+   0.509,
+   9.6,
    ""
+  ],
+  [
+   "FOMOCAT",
+   "C7XjTrF7MVwjv1mJP2CQFzkGU8JoLDb6GASyUYZvpump",
+   0.334,
+   2.1,
+   "buyers=1; creator=26.5%; top5_hold_most=100%"
   ],
   [
    "roach",
    "Bvtg3QNBvQGncBBrV8RbqSUL2TBddfryDgxhW4epump",
-   0.239,
-   6.9,
-   ""
-  ],
-  [
-   "SOLANA",
-   "BKZnXZcPbEA9ts8C31gzd4TtkrpQG38yk4xga6hdpump",
-   0.214,
-   2.8,
-   ""
+   0.201,
+   7.9,
+   "top5_hold_most=85%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "roach",
    "jiTPr8DrSr2yPe2cYNHdB4pnBm9iYLB69HpPuKMpump",
-   0.137,
-   6.1,
+   0.132,
+   7.1,
    "top5_hold_most=87%"
   ],
   [
    "hope",
    "He2zjux2TBhfsG4z2aPJqCvvcjkLjytr4gBYA1ZCpump",
-   0.111,
-   5.2,
+   0.106,
+   6.2,
    ""
   ],
   [
-   "BER",
-   "9rpcnC6cTVCRCzR5kmKRc3v1tKKvL2X8NAfALyTapump",
-   0.094,
-   2.3,
-   ""
+   "SOLANA",
+   "BKZnXZcPbEA9ts8C31gzd4TtkrpQG38yk4xga6hdpump",
+   0.085,
+   3.7,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SPS",
    "BnbCkdeMsyjEPrsZmb1KrqVeQsg8dn9nuKMQXtcJpump",
    0.083,
-   7.0,
+   8.0,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "OPTIMISM",
-   "DGUUiY2GY3ZNHTG8i1YZpntffPzYKjdCMfYRubR3pump",
-   0.073,
-   4.1,
-   ""
   ],
   [
    "SPS",
    "3BC3ryscrXBLWHRVKW3J3shaQ9z9ke6RVvTg8Yarpump",
-   0.068,
-   4.1,
+   0.069,
+   5.1,
    "buyers=1; top5_hold_most=100%"
   ]
  ]
