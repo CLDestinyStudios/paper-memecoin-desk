@@ -6902,83 +6902,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:48:48",
+   "2026-10-30T07:49:46",
    32.58
   ]
  ],
- "cycles": 3193,
+ "cycles": 3194,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.69119436565,
- "watching": 272,
+ "sol_usd": 94.78,
+ "watching": 288,
  "near": [
   [
    "SPOT",
    "AMpv7JrrGhKkCJmGUvpgUamtxC6hxBXpekd3GC5qpump",
-   0.899,
-   3.2,
+   0.902,
+   4.1,
    ""
   ],
   [
    "31PUMP",
    "4MYWbMBLaUxbHBpFprCQBhUpGCPrmP3h5bsZDU9Upump",
-   0.876,
-   8.8,
+   0.874,
+   9.7,
    ""
   ],
   [
    "Pepe",
    "6evQJikgrAffBJLT7tBpXSfNKfjLWwGmGdJobwp6pump",
-   0.799,
-   5.3,
+   0.83,
+   6.2,
    "creator=48.3%; top10=55.0%; top5_hold_most=88%"
+  ],
+  [
+   "newt",
+   "3GSbKXtZHSNjtdN38Xr8A9L9QV9M1phx1YjGK1uppump",
+   0.676,
+   2.5,
+   "serial_creator=6 launches/24h"
   ],
   [
    "GROKHQ",
    "Groknif3pW49CFjZWL9VpMEUjfPpQ8ghsZRnKBdm71r7",
    0.256,
-   7.9,
+   8.9,
    ""
   ],
   [
    "SKIVE",
    "73nULTckXbSgBfhAayPK9XXDNg1ycgPNSuK7zFzvpump",
    0.198,
-   8.3,
+   9.2,
    ""
   ],
   [
    "sadrabbit",
    "43ZFwENKW6xNvDUE6AxZP1hENSuHemksnLD3qPY2pump",
    0.184,
-   5.3,
+   6.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "KoreanFlare",
    "EKx1NyjC4qSSni6bRNtEFzVW3tbG2ZvdogXeE33Mpump",
    0.131,
-   8.8,
+   9.7,
    ""
-  ],
-  [
-   "Together",
-   "637aSb4TKkhm72WMJSJCuYNrGQr9nT5f7JFQGj5Rpump",
-   0.111,
-   3.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "ELUN",
    "9GBpGPzArndKvbvtpKix6Vsp6xeyrVFSdP2Q52BYb6Vv",
    0.083,
-   7.7,
+   8.6,
    ""
   ],
   [
    "OG",
    "6V1hRC7TQYQbs4kT2h9MoKvhfQyRLZRy2NnCBFtWpump",
    0.052,
-   5.2,
+   6.1,
    "buyers=2; top5_hold_most=100%"
   ]
  ]
