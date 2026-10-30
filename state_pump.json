@@ -6694,83 +6694,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:46:37",
+   "2026-10-29T23:47:30",
    32.58
   ]
  ],
- "cycles": 2712,
+ "cycles": 2713,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.85404634114998,
- "watching": 162,
+ "sol_usd": 97.83,
+ "watching": 159,
  "near": [
   [
    "ACT H:",
    "EBif2XUqDsJChtCn8drwLv3pg7fBPbmAHbBCP8ecWHs7",
-   0.818,
-   4.6,
+   0.738,
+   5.5,
    "launch_slot=missing"
-  ],
-  [
-   "CZINU",
-   "FNVYFaofKd3TWjPHSLpHtraMDeRM9fxgrC7dJWm8pump",
-   0.481,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "GIGALON",
-   "5upn34MTcQfRwxCiG9nP5x7SX5jd1JfQAEQLxq1gpump",
-   0.281,
-   4.0,
-   ""
   ],
   [
    "QRV",
    "9zprzcHWkSqzqCzKrx6sAJMa593aAe5q2G9hL8aopump",
    0.254,
-   7.9,
+   8.8,
    "buyers=9; top5_hold_most=98%"
   ],
   [
-   "PVE",
-   "gMMKC3Bcz7ht7GcjebiJgT1NjiyAyU2qZvV26Kdpump",
-   0.249,
-   3.1,
-   "buyers=8; top5_hold_most=100%"
-  ],
-  [
-   "TONY",
-   "7KGMNGfBVrK8hSZ6tv57jedEFcfHa9dZfQPzQW62YNbV",
-   0.156,
-   3.7,
-   "bundled_launch=6 extra buys in creation block"
+   "GIGALON",
+   "5upn34MTcQfRwxCiG9nP5x7SX5jd1JfQAEQLxq1gpump",
+   0.103,
+   4.9,
+   ""
   ],
   [
    "STEWIE",
    "Atehf4qPhnHcjbQ56mMAc851yvzkMtKT53LCQGkapump",
-   0.105,
-   4.6,
-   "buyers=9; top5_hold_most=95%"
+   0.088,
+   5.5,
+   "buyers=8; top5_hold_most=98%"
+  ],
+  [
+   "PVE",
+   "gMMKC3Bcz7ht7GcjebiJgT1NjiyAyU2qZvV26Kdpump",
+   0.082,
+   3.9,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "October",
    "DUW4qDACwFJ9z3VuU2MzirLhPLVaeHGbrSdvDXRJpump",
    0.074,
-   7.5,
+   8.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "CATINU",
+   "2Q9gy2trT1SbbDu6tLrfkgKJJQMz2dS8uprbd18bpump",
+   0.043,
+   3.1,
+   ""
+  ],
+  [
+   "INU",
+   "BWpSfg5K5xSDPn55mhwpAGsksQocVUXgHyCWAof5pump",
+   0.029,
+   2.6,
+   ""
   ],
   [
    "UNOF",
    "GrxiaVy7tVugemXDscqtwvQtxPnP7umN5RfKpE8zpump",
    0.028,
-   7.9,
+   8.7,
    ""
   ],
   [
    "HFA",
    "8f735PRKfwFXZvNkRMZYoWx3ziWgFLFMLLS2fLkHpump",
    0.02,
-   4.1,
+   4.9,
    ""
   ]
  ]
