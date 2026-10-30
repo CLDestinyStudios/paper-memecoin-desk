@@ -6918,83 +6918,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:26:49",
+   "2026-10-30T08:27:49",
    32.58
   ]
  ],
- "cycles": 3231,
+ "cycles": 3232,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.89001310469997,
- "watching": 207,
+ "sol_usd": 94.97006205335,
+ "watching": 205,
  "near": [
+  [
+   "HACKHOUSE",
+   "9zRNZjZZC94Rgw1ddwzfvqkdJDQpmn9rhmGiqPyVpump",
+   0.649,
+   2.6,
+   ""
+  ],
   [
    "zFund",
    "7AXcW6PeNkXNBWn97AD7SVpp9BCP265HazA2ftMpcSUk",
-   0.207,
-   5.1,
-   ""
+   0.261,
+   6.1,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "$LECOUR",
+   "F9iB5hXXXFN6KKRt4VSc5aHQPyCro6q17n1tHk8mpump",
+   0.157,
+   2.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "COOKED",
    "DyqdDMFGcSVHLWBBsf2sJEJqSY1r89Bx26tMd1PVpump",
-   0.128,
-   2.3,
-   "top5_hold_most=88%"
-  ],
-  [
-   "buy",
-   "AXPSonLo4rR7DowWmGZj9jydikGb1KC68msKQFUSpump",
-   0.114,
-   3.1,
-   ""
-  ],
-  [
-   "ABS25L",
-   "CCDkEfBEjSnyyD5HqaER8BudqKyUr1fCPj9fCKdRpump",
-   0.099,
-   9.8,
-   "buyers=2; top5_hold_most=100%"
+   0.126,
+   3.3,
+   "buyers=7; top5_hold_most=97%"
   ],
   [
    "Mars",
    "GNFtZ8q8MUnaTYJ9u7yiciarxeWKXA9VoH72KaPcpump",
    0.083,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "Harold",
+   "BXWwfjh22HmbiVW6bmjQQieo5J82kPSvDDCdVebCHLDt",
+   0.064,
+   4.6,
    ""
   ],
   [
    "NET",
    "UzfZ7WhLWJGW2uXe58cwHmThTK6ddeGEPFGCNAapump",
    0.061,
-   4.5,
-   ""
-  ],
-  [
-   "SELL",
-   "GgoRNE4KiqvFyZBR4D3DABtDCBQ1qjFsz6qz6otzpump",
-   0.057,
-   2.5,
-   ""
-  ],
-  [
-   "UPP",
-   "7pYvCy6WGQJuaYAAiUZv6QAk7FmVQu269sJbvDvtpump",
-   0.05,
-   2.3,
-   ""
-  ],
-  [
-   "Yobs",
-   "6G6PC2oNZCz7hC9hUr1J2XG2hQscbwxRhHiCvdFHpump",
-   0.048,
-   6.0,
+   5.5,
    ""
   ],
   [
    "SAFU",
    "GN5NU8YvG2NY57fzA2bjQSsWR8V3oihkTMiJdKsFpump",
    0.043,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "INVISIBLE",
+   "B4TpxPquDo1kB1gKNUXci5rudACQtfT4EatZPocgtGLv",
+   0.043,
+   6.3,
+   ""
+  ],
+  [
+   "NNN",
+   "27Li1cPBvHZjFeJwa5ADvyZLaj6ETzC4YA6YYFCfpump",
+   0.043,
+   3.7,
    ""
   ]
  ]
