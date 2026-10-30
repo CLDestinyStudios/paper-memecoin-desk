@@ -6528,82 +6528,86 @@
   [
    "2026-10-29T17:17:20",
    32.58
+  ],
+  [
+   "2026-10-29T17:18:11",
+   32.58
   ]
  ],
- "cycles": 2323,
+ "cycles": 2324,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.94136936555,
- "watching": 256,
+ "sol_usd": 95.058535322,
+ "watching": 267,
  "near": [
   [
-   "Ansem",
-   "uK1i5ES1jYBk8MJukbDkctG8g8YMWRhF8GU5f2xpump",
-   0.713,
-   3.3,
+   "ZERO",
+   "3JbqthCmAtxKYjpi26xpwTeCmyAq9UqJPUwuyAuUpump",
+   0.737,
+   2.3,
+   ""
+  ],
+  [
+   "ANSEM",
+   "45tG6xTJdTwKxg3GxrfizAC8hhRZkQc5BXseX4FLpump",
+   0.584,
+   2.2,
+   ""
+  ],
+  [
+   "BEARCOIN",
+   "GEYzMWhek3UHv2hw7W9FRj7hcsY72T47qsZN1PKZpump",
+   0.556,
+   3.0,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Bear",
+   "He3BCrm8tiAK2JQayLJ9EA1b2aeVthDHj4WWpGKdpump",
+   0.296,
+   2.4,
    ""
   ],
   [
    "Bear",
    "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
-   0.345,
-   4.0,
+   0.282,
+   4.8,
    ""
   ],
   [
    "Bear",
    "CfY2S5SQXUs5eJ4jxTbSDwzK9WudeGpebcnddBmppump",
-   0.209,
-   6.5,
+   0.196,
+   7.4,
    "top5_hold_most=90%"
   ],
   [
-   "SAFU",
-   "ypkYHv9uA8p7sTegGKZEGWGiLnsHpMVZj786mWhpump",
-   0.129,
-   3.1,
-   "top5_hold_most=82%"
+   "Ansem",
+   "uK1i5ES1jYBk8MJukbDkctG8g8YMWRhF8GU5f2xpump",
+   0.193,
+   4.2,
+   ""
   ],
   [
    "ANSEM",
    "HH2piyNhGCJnNyFR5gHhYQBvs5SxPDiPXUQQWo3xpump",
    0.101,
-   4.1,
+   4.9,
    ""
-  ],
-  [
-   "ansum",
-   "Hpx3ME1SuuukwHiVoo1rT3AFJteK8T3yi2WMrcr82CcN",
-   0.064,
-   4.8,
-   ""
-  ],
-  [
-   "doh",
-   "Aaju2BimqVkMi9ZHq4QNR2GnJut1VqdgqixnnxaZsqdy",
-   0.06,
-   7.9,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "SAFU",
-   "JCaF22y5Ca8kn63Jjjg23qRb3QWNb7AxG9djS7wxpump",
-   0.054,
-   4.3,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ANSEM",
-   "GejJ46nDsEfXhxED6EeMoY2Lxd5T1mbqscL69rbtpump",
-   0.046,
-   3.1,
+   "AqhgptNAJVL4RfCUnBAWNRRke3FkWW42k47y5BSWpump",
+   0.095,
+   2.7,
    ""
   ],
   [
-   "Rope",
-   "3JD5G8D4GJ9qJcQGmqJTVBuZJH7kVY2PTdF4j9Fvpump",
-   0.045,
-   3.4,
-   ""
+   "SAFU",
+   "ypkYHv9uA8p7sTegGKZEGWGiLnsHpMVZj786mWhpump",
+   0.073,
+   4.0,
+   "top5_hold_most=91%"
   ]
  ]
 }
