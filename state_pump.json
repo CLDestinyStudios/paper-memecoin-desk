@@ -6834,83 +6834,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:11:48",
+   "2026-10-30T05:12:45",
    32.58
   ]
  ],
- "cycles": 3037,
+ "cycles": 3038,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.72943073455,
- "watching": 120,
+ "sol_usd": 96.6341864667,
+ "watching": 126,
  "near": [
-  [
-   "HREX",
-   "4gWxN4LDuJi4TevDycWYVMPrpjDQipK56DeThHqQpump",
-   0.594,
-   9.3,
-   ""
-  ],
   [
    "Kit",
    "7FAGfLpsXaERrEUSAQ1yJ2iMe8vZJQAsiPTLLWEjpump",
-   0.331,
-   4.1,
+   0.337,
+   5.1,
    ""
   ],
   [
    "grove",
    "AsVJWeCo7KjkPokbA9LpxcjRVeZJWQkYfp2aw7sKpump",
    0.1,
-   2.5,
+   3.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "WWCART",
    "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
    0.099,
-   3.5,
+   4.4,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Memecoin",
-   "3dnVZcHxF6BcPVDQ1DJWQpBbMrSM1kXDpSEMyS3Vpump",
-   0.056,
-   9.1,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "KCKB",
    "joNgCa4N4SaFDAxnkKz8Dwu7CwQ3mioqPwaMVT4qXsz",
    0.051,
-   2.1,
+   3.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Loan",
    "9A74rF1MfhhutszFbVcdDYRjhX7b76HfH2EEe5mspump",
    0.042,
-   6.3,
+   7.2,
    ""
   ],
   [
    "$PORSHE",
    "DRG8QEogHbER7VetVPgeBZnxWPyMN1ZHNLgtcwQ7pump",
    0.04,
-   6.5,
+   7.5,
    ""
   ],
   [
    "PF",
    "9hApmBQim9zNxEor6KyCwNxMdRzaMuMF6jTARAvBpump",
    0.028,
-   6.1,
+   7.0,
    ""
   ],
   [
    "Undo",
    "43nyLJryDSEkMYJWDuxKTLCxDmU8xDbTRdM5bZM3pump",
-   0.006,
-   7.0,
+   0.017,
+   8.0,
+   ""
+  ],
+  [
+   "\u8bfa\u83b1\u65af",
+   "7tzcL1uuBWt8nQzBAWTh4SGEXSxyxykqNV4ujXCv39pD",
+   0.015,
+   2.6,
+   ""
+  ],
+  [
+   "SLINGOOR ",
+   "BhPJTBtzzbcSAced5FrdZoDM7NMxthBK8DXNwZb2pump",
+   0.005,
+   4.1,
    ""
   ]
  ]
