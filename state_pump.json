@@ -6982,83 +6982,83 @@
    32.58
   ],
   [
-   "2026-10-30T10:56:53",
+   "2026-10-30T10:57:53",
    32.58
   ]
  ],
- "cycles": 3381,
+ "cycles": 3382,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.21322846145,
- "watching": 259,
+ "sol_usd": 94.24000000000001,
+ "watching": 239,
  "near": [
   [
    "EVERYTHING",
    "9v5ruF3mDfxQDSVnA3J7hJH77KNF1RcUe2QRCxgvpump",
-   0.783,
-   5.1,
+   0.702,
+   6.1,
    ""
   ],
   [
    "HYPER",
    "HrikLwEACkBhp12RnUYE3eAbBgh5kTAKKPTxVs1Nhype",
-   0.645,
-   8.7,
+   0.642,
+   9.7,
    ""
   ],
   [
    "100TARIFF",
    "dzzTZydSwFNdNy4dDMeLeMj3TmLa7LKcDPhQEF6pump",
-   0.289,
-   2.7,
-   "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "DIG",
-   "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
-   0.175,
-   2.2,
-   ""
+   0.401,
+   3.7,
+   "buyers=8; top5_hold_most=98%"
   ],
   [
    "TYGR",
    "J5D8UK4EbfaXyvWWsHprFFmpXeDpWVmDhMWjhrLEpump",
-   0.146,
-   2.7,
+   0.313,
+   3.7,
    ""
+  ],
+  [
+   "brik",
+   "brikYPhkZx3Pg9CqPmtnq5Di5U91NoeiNFr5xZa32qJ",
+   0.257,
+   2.2,
+   ""
+  ],
+  [
+   "USDF",
+   "9S8YnL3dij9KtndD5WuhPwNk9Php5bYgvDm1DXtopump",
+   0.241,
+   2.4,
+   "buyers=3; creator=17.7%; top5_hold_most=100%"
+  ],
+  [
+   "DIG",
+   "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
+   0.207,
+   3.2,
+   ""
+  ],
+  [
+   "EMPTYV",
+   "CKnP2uE9VF3XYQpoPcK8sywerQSeKcaf7gh6oiGTpump",
+   0.145,
+   7.5,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "WIZCAT",
    "5Xyh2UgQQuiefCGxfUrgK1Az8EV3uGLajZf3jF8vpump",
    0.116,
-   8.9,
+   9.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "FABIANO",
-   "A5BgFtbboKLCppTAhDXv1eUZiEBCkWJi4wgChZ5spump",
-   0.094,
-   7.8,
-   "buyers=7; top5_hold_most=92%"
-  ],
-  [
-   "EMPTYV",
-   "CKnP2uE9VF3XYQpoPcK8sywerQSeKcaf7gh6oiGTpump",
-   0.089,
-   6.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "wifout",
-   "4hE969XvEGMWq9KJsBAa8o2n4VoNZzoZoEfcN3tMpump",
-   0.071,
-   7.0,
-   ""
-  ],
-  [
-   "RK",
-   "EqFNn6fT1uP1wiWqhQrVL8UC2s3YYJUsHMei823Kpump",
-   0.065,
-   10.0,
+   "TYGR",
+   "EPjfiMAR81472ujPJLV33ohbx1PmdQmPgAmaebUMpump",
+   0.101,
+   3.1,
    ""
   ]
  ]
