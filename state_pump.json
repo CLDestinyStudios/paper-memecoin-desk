@@ -6526,83 +6526,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:16:11",
+   "2026-10-29T17:17:20",
    32.58
   ]
  ],
- "cycles": 2322,
+ "cycles": 2323,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.9730515462,
- "watching": 244,
+ "sol_usd": 94.94136936555,
+ "watching": 256,
  "near": [
-  [
-   "Bear",
-   "CfY2S5SQXUs5eJ4jxTbSDwzK9WudeGpebcnddBmppump",
-   0.632,
-   5.4,
-   ""
-  ],
   [
    "Ansem",
    "uK1i5ES1jYBk8MJukbDkctG8g8YMWRhF8GU5f2xpump",
-   0.619,
-   2.2,
+   0.713,
+   3.3,
    ""
-  ],
-  [
-   "RIVALY",
-   "EJvvmtyQpetou96vDseCuwVvqeDWrTF2yy6Kdwr6pump",
-   0.396,
-   2.9,
-   "serial_creator=10 launches/24h"
   ],
   [
    "Bear",
    "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
-   0.389,
-   2.8,
+   0.345,
+   4.0,
    ""
   ],
   [
-   "doh",
-   "Aaju2BimqVkMi9ZHq4QNR2GnJut1VqdgqixnnxaZsqdy",
-   0.171,
-   6.7,
-   ""
+   "Bear",
+   "CfY2S5SQXUs5eJ4jxTbSDwzK9WudeGpebcnddBmppump",
+   0.209,
+   6.5,
+   "top5_hold_most=90%"
+  ],
+  [
+   "SAFU",
+   "ypkYHv9uA8p7sTegGKZEGWGiLnsHpMVZj786mWhpump",
+   0.129,
+   3.1,
+   "top5_hold_most=82%"
   ],
   [
    "ANSEM",
    "HH2piyNhGCJnNyFR5gHhYQBvs5SxPDiPXUQQWo3xpump",
    0.101,
-   2.9,
+   4.1,
    ""
   ],
   [
    "ansum",
    "Hpx3ME1SuuukwHiVoo1rT3AFJteK8T3yi2WMrcr82CcN",
    0.064,
-   3.7,
+   4.8,
    ""
   ],
   [
-   "Farewell",
-   "jx8YBXQjpmRkHCxMASsqn4nJAosFtp7WBf27HCkpump",
-   0.061,
-   3.0,
-   ""
+   "doh",
+   "Aaju2BimqVkMi9ZHq4QNR2GnJut1VqdgqixnnxaZsqdy",
+   0.06,
+   7.9,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "JCaF22y5Ca8kn63Jjjg23qRb3QWNb7AxG9djS7wxpump",
    0.054,
-   3.1,
+   4.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "ANSEM",
+   "GejJ46nDsEfXhxED6EeMoY2Lxd5T1mbqscL69rbtpump",
+   0.046,
+   3.1,
+   ""
   ],
   [
    "Rope",
    "3JD5G8D4GJ9qJcQGmqJTVBuZJH7kVY2PTdF4j9Fvpump",
    0.045,
-   2.3,
+   3.4,
    ""
   ]
  ]
