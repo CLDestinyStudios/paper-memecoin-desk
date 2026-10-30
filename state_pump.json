@@ -7020,81 +7020,85 @@
   [
    "2026-10-30T12:26:49",
    32.58
+  ],
+  [
+   "2026-10-30T12:27:52",
+   32.58
   ]
  ],
- "cycles": 3471,
+ "cycles": 3472,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.31050557339998,
- "watching": 240,
+ "sol_usd": 94.37000000000002,
+ "watching": 242,
  "near": [
   [
    "Humanist",
    "52VFaAQzeMbiH7Yd5Sv2a2F78BYhB7oKmhQnBNC7pump",
-   0.752,
-   2.5,
+   0.81,
+   3.5,
    ""
   ],
   [
    "MIPZI",
    "MipzPVZVeaLsBom2ad9i8Ed26zYf4XUhHxwtDdnLSH1",
-   0.623,
-   7.1,
-   ""
-  ],
-  [
-   "REPLACEMENT",
-   "3Yp2m5tKFmEF6bJjqgaCUb1VSEV3VQH61nWh1FrRpump",
-   0.561,
-   8.7,
+   0.592,
+   8.1,
    ""
   ],
   [
    "DAVID",
    "B6YgbiGMjQDrKEMuZWTYBg4oQX1GPrQQ7fifp9Kepump",
-   0.542,
-   2.1,
+   0.586,
+   3.2,
    ""
   ],
   [
    "REPLACEMENT",
    "6AivtfGfho9o3ZKFrpJcFkUesG7zrA2Tj8kQLYbMpump",
-   0.519,
-   6.7,
+   0.503,
+   7.8,
    ""
   ],
   [
    "Sword",
    "9yPEzvUxEMH3WHbHWNk3dWN4Rv27JobkPccxTpAPpump",
-   0.438,
-   4.1,
+   0.493,
+   5.2,
    "buyers=8; top5_hold_most=94%; launch_slot=missing"
   ],
   [
-   "stonkdesk",
-   "9B6PRuDcji7Q4neqbAbttRyoUUCmL3YdE2MBfo66pump",
-   0.226,
-   2.0,
-   "serial_creator=13 launches/24h"
+   "REPLACEMENT",
+   "3Yp2m5tKFmEF6bJjqgaCUb1VSEV3VQH61nWh1FrRpump",
+   0.481,
+   9.7,
+   ""
   ],
   [
    "Humanists",
    "8WnQ3KpkuxsWBCAs1vJAPij1pebyheytJJghz6cBpump",
    0.194,
-   3.6,
+   4.7,
    ""
   ],
   [
    "SWORD",
    "9cZF5XDpYy43fbCPYvAw3zpPEkB4RbyW3b8GnT42pump",
-   0.126,
-   8.8,
+   0.092,
+   9.8,
    ""
   ],
   [
    "MINECAT",
    "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
    0.079,
-   3.3,
+   4.4,
+   ""
+  ],
+  [
+   "BUBBLE",
+   "Bk4zQApsd2DZdqvMF5PWVZdcfofNBqxQ5JQt7Fvtpump",
+   0.075,
+   4.8,
    ""
   ]
  ]
