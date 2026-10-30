@@ -7002,84 +7002,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:43:51",
+   "2026-10-30T11:44:50",
    32.58
   ]
  ],
- "cycles": 3428,
+ "cycles": 3429,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.89500000000001,
- "watching": 378,
+ "sol_usd": 93.86500000000001,
+ "watching": 373,
  "near": [
   [
    "cloakd",
    "86bDTGFEiJmdw3g9bHULukqksSXxPTmKJ8RF3iHBpump",
-   0.904,
-   7.0,
+   0.941,
+   8.0,
+   ""
+  ],
+  [
+   "AML",
+   "Es6jQ2nZT3a7XgTrn8C6f46hRwiRnXb6Jq9MX6Vqpump",
+   0.601,
+   2.7,
    ""
   ],
   [
    "MONJI",
    "GShp2yw6rX27dWQDJniwiBTSudotq1zuqPwF4xCUpump",
-   0.274,
-   2.7,
-   "top5_hold_most=90%"
+   0.38,
+   3.6,
+   "top5_hold_most=95%"
   ],
   [
-   "AAAAAAAAAA",
-   "2HgWKVbU58Gcwti8SAM8rv3ktowwe69oN2H6gmeQpump",
-   0.257,
-   2.5,
-   "bundled_launch=6 extra buys in creation block"
+   "OnlyPump",
+   "7hS3Gm7s5LoRgacGyUjVaDCdSQ2fWGgfKREzRPFjpump",
+   0.3,
+   2.8,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "NARRAGEN ",
-   "2bPNMQY8F9uLeLyFptqwFbtsSxsZWT3a8SqtKYwmpump",
-   0.185,
-   3.0,
-   ""
+   "cloakd",
+   "GyvSQuXHeUbsMTjHPT5tn9WeqD2DjhNmHmpsuXjXpump",
+   0.199,
+   8.6,
+   "top5_hold_most=82%"
   ],
   [
    "HALLOWIFY",
    "EZTDdBUVV7MbogmHa3HXt7KAgzitwHsEKpsWC5dNpump",
    0.177,
-   8.9,
+   9.9,
    ""
   ],
   [
-   "cloakd",
-   "GyvSQuXHeUbsMTjHPT5tn9WeqD2DjhNmHmpsuXjXpump",
-   0.138,
-   7.7,
-   "top5_hold_most=82%"
+   "VAMPURR",
+   "BL74nfVqnUMtRsbwwRiQTDU1cD91YpgesrfndKvapump",
+   0.121,
+   2.8,
+   "top5_hold_most=96%"
   ],
   [
-   "Wangcai",
-   "9fBr7XDURHDUZnzNdMJzd3N38GUVfekCjUdoHaYwpump",
-   0.07,
-   9.9,
+   "NARRAGEN ",
+   "2bPNMQY8F9uLeLyFptqwFbtsSxsZWT3a8SqtKYwmpump",
+   0.084,
+   4.0,
+   "top5_hold_most=96%"
+  ],
+  [
+   "SOLANA",
+   "G6JTRBqc4zWcTTzGQxFawH9piKTZ2XfuZ87khPQTpump",
+   0.074,
+   2.2,
    ""
   ],
   [
    "3BSFAN",
    "7e7Q5eNS98LH4YpHhBw5ZwHpeD7VThDfun6LZveJpump",
    0.068,
-   8.2,
+   9.2,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "bread",
-   "HNo2ACASe2fYoDpjHoCEvReJmDSiPQgpTsn7Qhxpump",
-   0.059,
-   4.6,
-   ""
-  ],
-  [
-   "ghosti",
-   "52xjC1dZVpdazE4wGXY8NoyJstLoe1jaSgTkRoWwpump",
-   0.053,
-   6.0,
-   ""
   ]
  ]
 }
