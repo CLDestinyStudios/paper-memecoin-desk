@@ -6982,83 +6982,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:01:55",
+   "2026-10-30T11:02:53",
    32.58
   ]
  ],
- "cycles": 3386,
+ "cycles": 3387,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.14848432845,
- "watching": 240,
+ "sol_usd": 94.255,
+ "watching": 260,
  "near": [
   [
    "BURIED",
    "3aasM3u1QAKFXziSEFNQ8nLs8BA159b11kXr7a9bpump",
-   0.908,
-   2.8,
+   0.934,
+   3.8,
    ""
   ],
   [
    "GSOL",
    "7etiA9itnEzSJFzVLY7795h4yXRdeW5q7ecn2gEfpump",
-   0.638,
-   4.6,
-   "buyers=6; top10=50.6%; top5_hold_most=100%"
-  ],
-  [
-   "TYGR",
-   "J5D8UK4EbfaXyvWWsHprFFmpXeDpWVmDhMWjhrLEpump",
-   0.586,
-   7.7,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "N",
-   "8GdcvbZ5Jt5dwNaksYLXwovxU5dg8sxbADcwBHz8pump",
-   0.479,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "EARNFI",
-   "CVe6LncXK9QxwNaLjTD19NZzmscxAiHYppTvys86pump",
-   0.266,
-   2.4,
-   ""
-  ],
-  [
-   "EXFL",
-   "4LCTcadAZCaWMcGteuuQRaLQp9K57iS3bdHWWgNppump",
-   0.266,
-   4.1,
-   ""
+   0.632,
+   5.6,
+   "buyers=5; top10=50.1%; top5_hold_most=100%"
   ],
   [
    "USDF",
    "9S8YnL3dij9KtndD5WuhPwNk9Php5bYgvDm1DXtopump",
    0.241,
-   6.4,
+   7.4,
    "buyers=2; creator=17.7%; top5_hold_most=100%"
   ],
   [
-   "DIG",
-   "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
-   0.206,
-   7.2,
-   "buyers=9"
+   "$BibiTit",
+   "B6ZZAYqLdhbqG9sNs2VXXZRQxkM7DpTpE1zPs3VGpump",
+   0.221,
+   2.4,
+   "top5_hold_most=90%"
+  ],
+  [
+   "EARNFI",
+   "CVe6LncXK9QxwNaLjTD19NZzmscxAiHYppTvys86pump",
+   0.213,
+   3.4,
+   ""
   ],
   [
    "GRVD",
    "A5pCBGavsqZGCjDuqMpYpMs6ak5LQZmLqV36cwEXpump",
    0.202,
-   4.9,
+   5.9,
    "buyers=7; top5_hold_most=86%"
+  ],
+  [
+   "DIG",
+   "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
+   0.17,
+   8.2,
+   "buyers=9"
+  ],
+  [
+   "vampcat",
+   "8qwyjiuNbi1MxevoJPaNgotTgZgqncCtZexWBHPEpump",
+   0.146,
+   2.3,
+   ""
+  ],
+  [
+   "wddww",
+   "EtXD4RA7Dim3LM5JVmBuFjvPyUnTfpveNmdeVktapump",
+   0.099,
+   2.5,
+   ""
   ],
   [
    "BOUNCER",
    "B94wM8KkYTHSUHpbHQYxPch2XxcRof1uLDF4pqGRpump",
-   0.099,
-   5.8,
+   0.094,
+   6.8,
    "buyers=4; top5_hold_most=100%"
   ]
  ]
