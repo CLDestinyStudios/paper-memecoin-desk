@@ -6908,82 +6908,86 @@
   [
    "2026-10-30T08:06:47",
    32.58
+  ],
+  [
+   "2026-10-30T08:07:45",
+   32.58
   ]
  ],
- "cycles": 3211,
+ "cycles": 3212,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.85,
- "watching": 289,
+ "sol_usd": 94.97,
+ "watching": 277,
  "near": [
   [
    "Doomscroll",
    "2ypeCJ1o5c2P71Ry2e7bdPtVmcB3mAQNhbuES58Bpump",
-   0.989,
-   8.2,
+   0.986,
+   9.2,
    ""
-  ],
-  [
-   "\ud83d\ude4f",
-   "AHHafetFPG5NsU8ufa4EEXfxbHS2JeDT7LV4StK6pump",
-   0.684,
-   3.6,
-   "creator=39.9%; top10=48.8%; top5_hold_most=84%"
   ],
   [
    "SPACECAT",
    "BLN4c4FERWn8pf3PysRDapSKzB5JoHx9HbaxjYkEpump",
-   0.604,
-   6.2,
+   0.582,
+   7.2,
    ""
   ],
   [
    "CatOn",
    "ByWRRy1rdBbYyjehiEsHq5YKZJoJNNdkyqNNhkEdpump",
-   0.417,
-   2.9,
+   0.407,
+   3.9,
    "buyers=9; creator=27.1%; top5_hold_most=97%"
   ],
   [
    "NEBULA",
    "HVUJRmsE4f1a77YPH5bEGQww7KRU8Ee3tQYQJmovpump",
-   0.215,
-   4.8,
+   0.185,
+   5.8,
    ""
   ],
   [
    "CosmicCat",
    "7ADKuBwnz9XP95QstkrRr4tSdnwBt548E892LFcfpTru",
-   0.206,
-   4.4,
+   0.17,
+   5.3,
    ""
+  ],
+  [
+   "\ud83d\ude4f",
+   "AHHafetFPG5NsU8ufa4EEXfxbHS2JeDT7LV4StK6pump",
+   0.12,
+   4.6,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Buttigieg ",
    "AbaVzFBs99eCARKoBRC49hgpnNVf5TfUnwSRmVRJpump",
-   0.1,
-   4.9,
+   0.097,
+   5.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "GAME MEME",
    "CHXdwaiCL5Ws5okjWwKyAK5u6TdMmd7R3fGLC1Wcpump",
    0.092,
-   6.5,
+   7.4,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Cosmic",
+   "9SYuSLKAy1yZr2JxSGVamDVyQ9mZh21iehmcbNyfpump",
+   0.084,
+   2.4,
+   ""
   ],
   [
    "HARLEYY",
    "HfUbr6YJyuKYwggqoDZ93Wan6cseeYJKa8HYnUtppump",
    0.08,
-   3.5,
+   4.5,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "MMDS",
-   "GEeoE5MWhtArkWtcJ6cFUYbdi67oM1a9XBuHngbCpump",
-   0.071,
-   2.8,
-   ""
   ]
  ]
 }
