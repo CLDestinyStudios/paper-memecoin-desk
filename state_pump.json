@@ -6534,84 +6534,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:33:11",
+   "2026-10-29T17:34:12",
    32.58
   ]
  ],
- "cycles": 2339,
+ "cycles": 2340,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 92.85000000000001,
- "watching": 232,
+ "sol_usd": 92.73,
+ "watching": 239,
  "near": [
   [
-   "LeverPad",
-   "2KMYeewkKztuPs6LZ8owHDidag8wnicXHhEPRKfUpump",
-   0.452,
-   3.7,
+   "roach",
+   "jiTPr8DrSr2yPe2cYNHdB4pnBm9iYLB69HpPuKMpump",
+   0.767,
+   2.2,
    ""
   ],
   [
-   "NIBBLES",
-   "9anwyBg4YvicYCez5A8sr3tdFRxa1ERQ2oHDPNXmpump",
-   0.296,
-   2.6,
-   "serial_creator=6 launches/24h"
+   "LeverPad",
+   "2KMYeewkKztuPs6LZ8owHDidag8wnicXHhEPRKfUpump",
+   0.428,
+   4.7,
+   ""
+  ],
+  [
+   "1",
+   "ACuibx4PQVYNGzAcSXXRCXCY4uagWCk2ennsWVj1pump",
+   0.247,
+   2.4,
+   "top5_hold_most=93%"
   ],
   [
    "dip",
    "DFxZrAZ16CG1K3P4ojU7wRPJNQaB9TpfFbhz8wdPpump",
-   0.218,
-   5.4,
+   0.18,
+   6.4,
    ""
-  ],
-  [
-   "LeverPad",
-   "5ZsL6WkyAFMANHaS5K9i2wWXQ2zBQS1XzM3sE4xApump",
-   0.166,
-   9.6,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "RM",
    "CZyyVQ7nie9HJjN1e9WSU93Tvy4at7GQVjbS8fDUTwJD",
    0.152,
-   6.5,
+   7.6,
+   ""
+  ],
+  [
+   "Roach",
+   "CNgyWQFPhWZ5cut1fLLUvhZFo5ZXgLqWv8KVNp1MxJ5Q",
+   0.117,
+   2.1,
    ""
   ],
   [
    "LIVECOIN",
    "6Mf4AeHTk4X59XTyRDFs1AGq8zetL3KcZYUFDvUXpump",
    0.106,
-   2.7,
+   3.8,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "roach",
+   "FoLSDQTCwMSZ6Bb3SLCMK8JLYsmG7nvJujsDt44Ypump",
+   0.102,
+   2.6,
+   ""
   ],
   [
    "SWAN",
    "4bDT4hLMeu9eqvFXgtai5pf2zHhtGSNPYrE6c9RwC7i5",
    0.101,
-   6.8,
+   7.8,
    ""
   ],
   [
-   "10/30",
-   "9RmCiStqWKwdj71U4ftd3ypECsnvDWqvU6emBv1Fpump",
-   0.064,
-   5.4,
-   ""
-  ],
-  [
-   "BULL",
-   "7PSDXtqqPnprozRyRUKDXuMcPGK79BeWrnYXhqEPpump",
-   0.064,
-   2.2,
+   "SPS",
+   "BnbCkdeMsyjEPrsZmb1KrqVeQsg8dn9nuKMQXtcJpump",
+   0.083,
+   3.1,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "HYPEPAD",
-   "2tNAYfScUf3jRLiYF5F5ft7K5QeKVrSwYgUmYdoKpump",
-   0.051,
-   6.3,
-   ""
   ]
  ]
 }
