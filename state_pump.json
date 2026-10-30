@@ -6902,83 +6902,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:51:54",
+   "2026-10-30T07:52:56",
    32.58
   ]
  ],
- "cycles": 3196,
+ "cycles": 3197,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.59035365765,
- "watching": 270,
+ "sol_usd": 94.73036914024999,
+ "watching": 257,
  "near": [
   [
    "SPOT",
    "AMpv7JrrGhKkCJmGUvpgUamtxC6hxBXpekd3GC5qpump",
-   0.914,
-   6.3,
+   0.927,
+   7.3,
    ""
   ],
   [
    "GEORGE",
    "C3TrTxBLnqF6kJrkWNGfPyYF3TT8bu1ghD82GeJbpump",
-   0.586,
-   2.5,
+   0.699,
+   3.6,
    ""
   ],
   [
-   "boo",
-   "DZDyBppNpkQmKLk4Y8yneMQ4McHa9LB2vYHmLMjUpump",
-   0.193,
+   "CATPAD",
+   "9tQyik1f5rueHU9KsUSKPKc9EpZ4HPyfBysJmDrTpump",
+   0.548,
    2.7,
    ""
+  ],
+  [
+   "MOMINT",
+   "AMTESBiwPspgezFb3zoNkoays3yXMoHuNH9wFDA4pump",
+   0.236,
+   2.6,
+   "buyers=8; top5_hold_most=98%"
+  ],
+  [
+   "mischief1",
+   "9raewpXtLNgpGc6LzHwwEaNndR2AAh4ntAxb3TAepump",
+   0.234,
+   3.0,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "DANGER",
    "6GnqTfN9tNb7ZHkcHzmYqqEjy76h6Whrzuft9PeNpump",
    0.188,
-   3.5,
+   4.5,
    "buyers=8; top5_hold_most=96%"
   ],
   [
    "sadrabbit",
    "43ZFwENKW6xNvDUE6AxZP1hENSuHemksnLD3qPY2pump",
    0.184,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Pepe",
-   "6evQJikgrAffBJLT7tBpXSfNKfjLWwGmGdJobwp6pump",
-   0.138,
-   8.4,
-   "serial_creator=10 launches/24h"
+   "CATPAD",
+   "8sYL6P8swhEYUbgvMcWFPMhUC6CCepeMXRFyYeWepump",
+   0.159,
+   2.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ROSVIAN",
+   "9bQAyW8RfZqHZY3Hbn8tYZTB2UL8ZaWkd9GsgNE6pump",
+   0.062,
+   2.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "NEWT",
    "By8ZFZegxkWUFS73LaHjULxBfuJKmpUiRCS8ycfFpump",
    0.058,
-   2.8,
-   ""
-  ],
-  [
-   "OG",
-   "6V1hRC7TQYQbs4kT2h9MoKvhfQyRLZRy2NnCBFtWpump",
-   0.052,
-   8.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "NEWT",
-   "2VpMyFssnTfXysEyyugQpZ5pWShe9YH4zV6nMN6Dpump",
-   0.029,
-   2.3,
-   ""
-  ],
-  [
-   "boo",
-   "y7cmAMuXGVg8qghYrJfPqzDcpwZj7u4aES24Z2cM1XE",
-   0.024,
-   3.0,
+   3.8,
    ""
   ]
  ]
