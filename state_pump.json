@@ -6742,84 +6742,84 @@
    32.58
   ],
   [
-   "2026-10-30T01:37:46",
+   "2026-10-30T01:38:46",
    32.58
   ]
  ],
- "cycles": 2823,
+ "cycles": 2824,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.09000000000002,
- "watching": 157,
+ "sol_usd": 97.23627263885001,
+ "watching": 142,
  "near": [
   [
    "KOHLER",
    "77NYf8ckM2HZNHLsZ59Jv1XkJ4tFqrE7Pp3geK5Fpump",
-   0.476,
-   3.2,
-   ""
-  ],
-  [
-   "SaturdayNigh",
-   "kpVYEZoXVaHfQLZ75uiqw7Rm1rWME9mEK9vxp7Hpump",
-   0.328,
-   4.6,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "REVGOOSE",
-   "A8Un4GZ7YxSjMg3DBZAVYbQfCtgAdxKLWyN1S5oFpump",
-   0.081,
-   5.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "HYPEZERO ",
-   "5H6EAokL4E6ihzkDnS9R8Lssa2zwTz7RJ99m3FiNpump",
-   0.069,
-   2.5,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "DOOMSDAY",
-   "C3FLbfZTgqaPM9V7SneQqe6BQ8i2BXDTnQ46UwJzpump",
-   0.064,
-   2.1,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "TERP",
-   "FkkvcFTxJQwKYD5R6gepjaAKag8ZsKKQAJwV2gojpump",
-   0.047,
-   4.4,
+   0.521,
+   4.2,
    ""
   ],
   [
    "ROOTLINE",
    "7gZm1fSRWmf65jS6H6FoZs7QTMGKtxNemGt87SUxpump",
-   0.039,
-   2.4,
+   0.114,
+   3.4,
    ""
   ],
   [
-   "KIM",
-   "7jKQ9r3HNwhu8VuUnNYRt6vfj8GV8c6bCoKPPfbmpump",
-   0.026,
-   5.6,
-   ""
+   "REVGOOSE",
+   "A8Un4GZ7YxSjMg3DBZAVYbQfCtgAdxKLWyN1S5oFpump",
+   0.081,
+   6.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "DOOMSDAY",
+   "C3FLbfZTgqaPM9V7SneQqe6BQ8i2BXDTnQ46UwJzpump",
+   0.068,
+   3.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Trumpus",
    "Dj4mtoiwM78PArs337a5wYp3ZKwAMFZG8eqEcRnrpump",
    0.022,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "TERP",
+   "FkkvcFTxJQwKYD5R6gepjaAKag8ZsKKQAJwV2gojpump",
+   0.018,
+   5.4,
    ""
   ],
   [
    "ROCKET",
    "5vYLbzMjPihZ3ZD6vvYCRUxNJJiivHAXSZcBYKbqpump",
    0.016,
-   8.0,
+   9.0,
    ""
+  ],
+  [
+   "GENT",
+   "6JdaFnUFCzpHpy2RtDcc3PBRX8LhY3i4yGREvCmRpump",
+   0.011,
+   9.4,
+   ""
+  ],
+  [
+   "$Mling",
+   "7gagWMKbe812KJqr1VyCV16U7QtquqBJcRRcersxpump",
+   0.008,
+   8.7,
+   ""
+  ],
+  [
+   "PLUGIN",
+   "BYt4876jNeLh2E4rMQKNum5DMp939x83qjE57o1Npump",
+   0.005,
+   6.6,
+   "top5_hold_most=96%"
   ]
  ]
 }
