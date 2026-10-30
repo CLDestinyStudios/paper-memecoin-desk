@@ -6666,83 +6666,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:36:20",
+   "2026-10-29T22:37:16",
    32.58
   ]
  ],
- "cycles": 2642,
+ "cycles": 2643,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.09779999999999,
- "watching": 186,
+ "sol_usd": 98.06,
+ "watching": 182,
  "near": [
+  [
+   "Job",
+   "ETg4VKR6b9t42GCAwst293W6vkgehhjfTcSJGGUZpump",
+   0.526,
+   2.4,
+   "bundled_launch=5 extra buys in creation block"
+  ],
   [
    "bag",
    "4T6ymFL3w9X1QrXEJ51Jp6m4ePhSkQ2qZi1VvQ4Dpump",
-   0.825,
-   8.1,
+   0.309,
+   9.0,
    ""
   ],
   [
-   "purrp",
-   "BW8x723hRe2c35bGHYuSoH9SFUXEA41Fw713W9QCpump",
-   0.361,
-   3.1,
-   "bundled_launch=3 extra buys in creation block"
+   "GTATCHAD",
+   "7QDcJmwrPneV3SNCk2MW2WQXxtoNMX2bHvMupthipump",
+   0.173,
+   2.5,
+   "buyers=9; top5_hold_most=97%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "FLOWMETER",
    "DF9aZe44G1EwjJUCRRVtJTWNPFRz2Xbwns2k5qgFpump",
    0.157,
-   8.0,
+   8.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "KJQ",
    "GhHMywvqXi6Tako8g8M3GZu7EPASQgp9ga5RmmASpump",
    0.134,
-   6.6,
+   7.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "DEVLOG",
-   "8SVrGafNoJoLEsirGP5NGmLwpHBmDiu7vBsVVKFvpump",
-   0.116,
-   4.6,
-   "buyers=7; top5_hold_most=97%"
-  ],
-  [
-   "TYTHON",
-   "2oBFSMn7ECSew5f8BNSi3gpGF4oGR6bfRrHQcXRDpump",
-   0.112,
-   3.8,
-   ""
   ],
   [
    "flywheel",
    "BxiZMma4ZwuC99cbRhKRZDVvn8ZbDCeLow6Ma95GqnBM",
    0.099,
-   4.9,
+   5.9,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "$PATCH",
    "E5RUYArMsiivHoxCc9E8vr3xgh2GxNqGyMrY9j8cpump",
-   0.086,
-   2.4,
+   0.09,
+   3.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "DEVLOG",
+   "8SVrGafNoJoLEsirGP5NGmLwpHBmDiu7vBsVVKFvpump",
+   0.08,
+   5.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "October",
    "Bmghjg8uMnrb4qtJYckeD3oGr68fbotTxDath9Jnpump",
    0.074,
-   7.5,
+   8.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "BLIND",
-   "Fpt58GR2d6p6EJumZffRY54yUHf5vKk5eSpAN8xRpump",
-   0.045,
-   7.9,
+   "HT",
+   "5uAB1edyNE1PcZdgstT4M9HQXyaiHCzwiTxe1Y1Gpump",
+   0.071,
+   2.7,
    ""
   ]
  ]
