@@ -6694,83 +6694,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:45:31",
+   "2026-10-29T23:46:37",
    32.58
   ]
  ],
- "cycles": 2711,
+ "cycles": 2712,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.87145405939998,
+ "sol_usd": 97.85404634114998,
  "watching": 162,
  "near": [
   [
    "ACT H:",
    "EBif2XUqDsJChtCn8drwLv3pg7fBPbmAHbBCP8ecWHs7",
-   0.687,
-   3.5,
+   0.818,
+   4.6,
    "launch_slot=missing"
+  ],
+  [
+   "CZINU",
+   "FNVYFaofKd3TWjPHSLpHtraMDeRM9fxgrC7dJWm8pump",
+   0.481,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "GIGALON",
    "5upn34MTcQfRwxCiG9nP5x7SX5jd1JfQAEQLxq1gpump",
-   0.295,
-   2.9,
+   0.281,
+   4.0,
    ""
   ],
   [
    "QRV",
    "9zprzcHWkSqzqCzKrx6sAJMa593aAe5q2G9hL8aopump",
    0.254,
-   6.8,
+   7.9,
    "buyers=9; top5_hold_most=98%"
   ],
   [
-   "dog",
-   "pJVqoxV2zrg1PuMfseyteEwPrGy6X3bziyQuNqbpump",
-   0.222,
-   10.2,
-   ""
+   "PVE",
+   "gMMKC3Bcz7ht7GcjebiJgT1NjiyAyU2qZvV26Kdpump",
+   0.249,
+   3.1,
+   "buyers=8; top5_hold_most=100%"
   ],
   [
    "TONY",
    "7KGMNGfBVrK8hSZ6tv57jedEFcfHa9dZfQPzQW62YNbV",
-   0.185,
-   2.6,
-   "launch_slot=missing"
+   0.156,
+   3.7,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "STEWIE",
    "Atehf4qPhnHcjbQ56mMAc851yvzkMtKT53LCQGkapump",
-   0.117,
-   3.5,
-   "top5_hold_most=88%; launch_slot=missing"
+   0.105,
+   4.6,
+   "buyers=9; top5_hold_most=95%"
   ],
   [
    "October",
    "DUW4qDACwFJ9z3VuU2MzirLhPLVaeHGbrSdvDXRJpump",
    0.074,
-   6.4,
+   7.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "UNOF",
    "GrxiaVy7tVugemXDscqtwvQtxPnP7umN5RfKpE8zpump",
    0.028,
-   6.8,
-   ""
-  ],
-  [
-   "Ruined",
-   "27DzuMNPm6YSgF7q64Ab5RdTx2geeSe8zgsBrWBRpump",
-   0.023,
-   5.0,
+   7.9,
    ""
   ],
   [
    "HFA",
    "8f735PRKfwFXZvNkRMZYoWx3ziWgFLFMLLS2fLkHpump",
    0.02,
-   3.0,
+   4.1,
    ""
   ]
  ]
