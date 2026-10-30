@@ -6618,83 +6618,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:43:18",
+   "2026-10-29T20:44:18",
    32.58
   ]
  ],
- "cycles": 2529,
+ "cycles": 2530,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.7081,
- "watching": 160,
+ "sol_usd": 96.76159999999999,
+ "watching": 153,
  "near": [
-  [
-   "SSI",
-   "8wkx3pahmtzWtjz5c5mHbsFEEVQAzP7U8ZR2A4nnpump",
-   0.829,
-   7.3,
-   ""
-  ],
   [
    "GIMODELO",
    "5XzxxT1hcFoTRRbK56W6wqZZJC3VR2wHU2ctJvjRpump",
-   0.724,
-   2.1,
-   "creator=52.4%; top10=55.6%; top5_hold_most=94%"
+   0.746,
+   3.1,
+   "creator=52.4%; top10=55.6%; top5_hold_most=91%"
+  ],
+  [
+   "SSI",
+   "8wkx3pahmtzWtjz5c5mHbsFEEVQAzP7U8ZR2A4nnpump",
+   0.741,
+   8.3,
+   ""
+  ],
+  [
+   "$",
+   "EuAPaAxskPZPF5wxNdUBg8aUsKmMLnKwuWh9cgf1pump",
+   0.646,
+   2.3,
+   ""
   ],
   [
    "KIM",
    "GD89wxZi8zAzLfLTfaTbBkXxYGAVS5rsRCNZEJEipump",
    0.464,
-   3.3,
+   4.3,
    ""
   ],
   [
    "kirby",
    "2zZQ3F4bid66XrUtt6gBHyLrTG2vK9JkHBS8cP4Xpump",
-   0.167,
-   2.4,
-   "top5_hold_most=83%"
+   0.315,
+   3.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "GIGABIN",
+   "5TCg7yvuBt6o9uZi9c6XVJtGrH9K5feqWgP7S6fRpump",
+   0.264,
+   2.2,
+   "creator=17.7%; top5_hold_most=90%"
   ],
   [
    "WENCAR",
    "JDqUZzGvGWHiuegCV1vZAAuKebaVuBWuSkyRnfT5pump",
    0.114,
-   5.7,
+   6.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Kleinfrog",
-   "FApomhX54NjZm1b1HHRLmdq64NiPFG2LQYB1HXtxpump",
-   0.108,
-   3.9,
-   ""
   ],
   [
    "SSI",
    "BEvSKERHr2vvXCkhY2iT1x9WivdERi7nuzNfUm3CkcJ8",
    0.103,
-   2.9,
+   3.9,
    ""
+  ],
+  [
+   "CC",
+   "9JBuaZUqrwD1397N3XQgGFgtguxnnDX4ZUpoXnT9pump",
+   0.083,
+   2.1,
+   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "SHI",
    "CjFqXT3kiDMiDdipaByc7oGVzy3wtwBYQDkbcsw5pump",
    0.083,
-   6.4,
-   ""
-  ],
-  [
-   "ClydeFrog",
-   "DqDEnc2LxM3gNkDbGgKn2ZBz2sXQngqGgqj4UCkpump",
-   0.081,
-   3.0,
-   ""
-  ],
-  [
-   "COMPUTE",
-   "DYVwYek8qi8ssQW1mJbihNzUfm4bLRnCiCykej9f7ehV",
-   0.049,
-   9.2,
+   7.4,
    ""
   ]
  ]
