@@ -6866,83 +6866,83 @@
    32.58
   ],
   [
-   "2026-10-30T06:27:02",
+   "2026-10-30T06:28:06",
    32.58
   ]
  ],
- "cycles": 3112,
+ "cycles": 3113,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.93270684325,
- "watching": 168,
+ "sol_usd": 95.81357400049998,
+ "watching": 163,
  "near": [
   [
    "SpookyPants",
    "9Xoi5y3L8b7C3Nmh9xAMCLtpUwaah4Pm5yQhQz4gW2nR",
-   0.879,
-   3.7,
+   0.88,
+   4.7,
+   ""
+  ],
+  [
+   "NOHOPE",
+   "9bRTnVnGi9EQaE1N7oWyYxxrtASesvM4fs7dVf5Spump",
+   0.815,
+   8.5,
    ""
   ],
   [
    "Qwen",
    "8rT5PrVZdh2yTZAmb1XsaK4mgTpTa5fUTsvdsKFzpump",
    0.807,
-   2.6,
-   ""
-  ],
-  [
-   "NOHOPE",
-   "9bRTnVnGi9EQaE1N7oWyYxxrtASesvM4fs7dVf5Spump",
-   0.763,
-   7.4,
+   3.7,
    ""
   ],
   [
    "Qwen",
    "2HPm9R93G94eu6ZE8FceCoxG7oCjSUbWoJwxt4ASpump",
-   0.511,
-   8.1,
+   0.395,
+   9.2,
    ""
   ],
   [
    "Qwen",
    "6XirAMVPjfoZRU5qJPbMf1rGKn26A37VgW6boSfCpump",
-   0.245,
-   3.8,
+   0.227,
+   4.8,
    ""
   ],
   [
    "4CAT",
    "wBqq78jcFSA8AUHeJCt5pdmFL2b4FtUruE2Z7Q91Tg9",
-   0.121,
-   7.8,
-   "buyers=6; top5_hold_most=98%"
-  ],
-  [
-   "SpookyPants",
-   "9LDetqa9Fig8NfyfjG6wnh3KeVLdo9zbqBeP1gEgpump",
-   0.09,
-   2.1,
-   ""
-  ],
-  [
-   "DRAINED",
-   "7KWFDZeK5APMmN2sZxgHu7DLMaRMBQrWNrKfJ3aLpm2U",
-   0.076,
-   4.6,
+   0.12,
+   8.9,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "Laptop",
    "E8PSS3TvQiyzJrAS9Mv9jWN7bvhXBEUgFtcdv97Hpump",
    0.064,
-   4.5,
+   5.6,
    ""
   ],
   [
-   "HACKCOIN",
-   "8cZ2vC9diRYkmPX8h2h9jNnNLQrPGxHuFbq4jmK5pump",
-   0.063,
-   4.7,
+   "ScaredyPants",
+   "7QyneZn8pV4vVoRGJrDBWcwMfNWnYg3z89v99NUqDu8E",
+   0.062,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "KJP",
+   "EfZ3J3xeisEqeBssgeNxLxvfKpi7RQiM6KXF8jYppump",
+   0.051,
+   8.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "bwa",
+   "EGayGzciXrvLAnnJEQmY21BcSDnN7XZmcB9roXMTpump",
+   0.043,
+   4.3,
    ""
   ]
  ]
