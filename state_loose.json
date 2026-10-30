@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 328.3892530259172,
+ "cash": 344.7158118009923,
  "positions": {
   "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": {
    "sym": "\u2588\u2588\u2588",
@@ -12,20 +12,11 @@
    "last": 0.0005136,
    "opened": 1793375624.9353695,
    "p_buy": 0.55
-  },
-  "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump": {
-   "sym": "HEXN",
-   "qty": 147301.09506735147,
-   "entry": 0.000123828,
-   "mark_entry": 0.0001214,
-   "cost": 18.24,
-   "peak": 0.0001214,
-   "last": 0.0001173,
-   "opened": 1793377306.9887357,
-   "p_buy": 0.77
   }
  },
- "watch": {},
+ "watch": {
+  "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793377545.2060015
+ },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -8439,8 +8430,12 @@
   [
    "2026-10-30T09:24:48",
    363.52
+  ],
+  [
+   "2026-10-30T09:25:45",
+   362.92
   ]
  ],
- "cycles": 3309,
+ "cycles": 3310,
  "started": "2026-10-28T01:46:56"
 }
