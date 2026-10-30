@@ -6766,84 +6766,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:36:45",
+   "2026-10-30T02:37:48",
    32.58
   ]
  ],
- "cycles": 2882,
+ "cycles": 2883,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.905,
+ "sol_usd": 96.87622620245,
  "watching": 206,
  "near": [
   [
-   "BatGuy",
-   "5USqaMs7BucoLsnusyTkMT3hVfv9jci4RyEddvHbpump",
-   0.573,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
+   "six",
+   "Enyyiune9p7dhMXRWpZ3orSkCg4rgYqMGQLsw1E8pump",
+   0.303,
+   2.3,
+   ""
   ],
   [
-   "BCN",
-   "DjFq4p57er2KYL94vTT71bPR58K8jQrRBTnQLyi5pump",
-   0.15,
-   4.9,
+   "TAB",
+   "6VEgVTKZC3gznNynNSpdVAtRj9KikRtkQk8Dz3HApump",
+   0.266,
+   2.7,
    ""
+  ],
+  [
+   "NOMA ",
+   "8v4BJVcaA9vLZmSddcrg9xSDBnRu3nUWqhjbqLexpump",
+   0.137,
+   2.5,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "HINT",
+   "28KevLFSHnvLjs767xS7sWggHxCwLNaPjs3PBG3apump",
+   0.109,
+   2.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "AI MEME",
    "7rSMqUCWgen4JDwVvJv3cv15Ce9sCa4u7rRNsoHypump",
    0.087,
-   5.1,
+   6.2,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "PANIC",
-   "A59RaoGD6ypr5pWt9y5EroG4grYW6cHxnp6g36TLpump",
-   0.082,
-   9.1,
-   "top5_hold_most=89%"
   ],
   [
    "CBF",
    "ECqrXF49aA6SceqShbeNNNpmkh4VvGtnJDzGqN5wXFvJ",
    0.082,
-   2.4,
+   3.5,
    ""
   ],
   [
    "CBF",
    "5xHhgGNqSuE9EmeqBcTx2N6gX6B7zRrkNpXGuLyxpump",
    0.066,
-   8.4,
+   9.4,
    ""
   ],
   [
-   "HOT",
-   "HkwbogHcNQ9eCX1NFAuDMMtQqP2t9DGaZs2c5Z2upump",
-   0.059,
-   2.9,
-   "buyers=6; top5_hold_most=99%; bundled_launch=5 extra buys in creation block"
+   "stop",
+   "DnfSK5tboFABj32yEAA3axA3emV3HCaZYdYWjS5npump",
+   0.066,
+   2.1,
+   ""
+  ],
+  [
+   "ThaiCat",
+   "7jtcgq4XRQ8Roo3Xzq5gzDpzhiEgoBQVTNbEuKsopump",
+   0.048,
+   2.6,
+   ""
   ],
   [
    "Hype",
    "8GCUXjFRxgDhgmwCLY7KkJe2qGDTCheHaQZQajeypump",
    0.044,
-   4.4,
+   5.5,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "YINYANG",
-   "CPqW9Hqskt7DBj9P8cs9i5evDmhDemw292icp29vpump",
-   0.032,
-   3.9,
-   ""
-  ],
-  [
-   "Squeeze",
-   "BMw24eDDbstYcKthEz1ATLJSEX1YemBJfCLFZtR4MRx9",
-   0.026,
-   2.2,
-   ""
   ]
  ]
 }
