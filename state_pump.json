@@ -6896,81 +6896,85 @@
   [
    "2026-10-30T07:38:45",
    32.58
+  ],
+  [
+   "2026-10-30T07:39:49",
+   32.58
   ]
  ],
- "cycles": 3183,
+ "cycles": 3184,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.04007161835,
- "watching": 183,
+ "sol_usd": 94.45764999999999,
+ "watching": 188,
  "near": [
   [
    "GOAT",
    "431D7tJzr7m8j7E4V6yfxSzDECpaAbHZ5oKb7Xj4pump",
-   0.971,
-   8.2,
+   0.982,
+   9.2,
    ""
   ],
   [
-   "MEXC",
-   "5BfVJZab1e78YZABCS9gVnMNDYBgqvWumpQuUsq4pump",
-   0.879,
-   5.4,
-   ""
-  ],
-  [
-   "Poolgob",
-   "EiTCDY5N6z1GxsAFXVRjHk3Z2m8f6Ext76hYX6rxpump",
-   0.637,
-   9.1,
-   ""
-  ],
-  [
-   "LARPSTER ",
-   "EVwz6GKjiQ3Ayduvz4o1YMMzsvCU37XTtei3x4Lvpump",
-   0.6,
-   9.7,
+   "ROSAN",
+   "83GAmeAV1zS3pVFftJwDDsCKGyrXj8Vtvi2bsfympump",
+   0.374,
+   2.5,
    ""
   ],
   [
    "CONF",
    "3GEYMfuA3xhR6vZ41ZbtgLuLVTC4v3by3Riz8DmSpump",
-   0.176,
-   8.2,
+   0.223,
+   9.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "ABC WAP",
    "tgm283XjY6NVuGQx1Q87HbYmsd19dFNs5coMNFDpump",
-   0.159,
-   5.6,
-   "buyers=3; top5_hold_most=100%"
+   0.158,
+   6.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PokeBinanc",
    "4X6u6H5jZVManKisxAMiYR2MsryyT4HqCJMJ8htnpump",
-   0.125,
-   6.4,
-   "buyers=6; top5_hold_most=99%"
+   0.151,
+   7.5,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "OD",
+   "G9s966D3ak9kxpFaTsxjnEBgxEpoNpRWSi4TZd9upump",
+   0.114,
+   2.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "GREEN MEME",
    "78NFNqCwybPjSoDCDM8ZEaUxCJzs3CbdEieyYVhVpump",
-   0.095,
-   9.0,
+   0.093,
+   10.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "TAXPAD",
-   "wgnaE3ywPNbmM6ABUCu4MsAsndj1tvfCN4y72p3pump",
-   0.065,
-   8.1,
+   "GROKCAT",
+   "GtjM7BG7eWiqrba3zfqFFzXTcegQyYnyq3S3FZvSLrAU",
+   0.089,
+   3.9,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "buy",
+   "GogXzZSAkcLVXhQdqbbGTzDrnWT9YUn2XuqUJ3Fxd5Rx",
+   0.087,
+   2.2,
    ""
   ],
   [
-   "HCREAM",
-   "2SahrjJZwAnSCH23fuesv7rtSacgx3hdmct1X4wjpump",
-   0.063,
-   5.0,
+   "y",
+   "FeVqxHQuA1cje1GwuNzwWXb8cCZjFF17m6pASaSWNt6x",
+   0.071,
+   2.2,
    ""
   ]
  ]
