@@ -7038,84 +7038,84 @@
    32.58
   ],
   [
-   "2026-10-30T13:05:57",
+   "2026-10-30T13:06:54",
    32.58
   ]
  ],
- "cycles": 3510,
+ "cycles": 3511,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.88325,
- "watching": 317,
+ "sol_usd": 94.875,
+ "watching": 325,
  "near": [
   [
    "POOLZ",
    "8iifkN8P7wvJB58XxrsERqY24wWP7TEWWwtee5Kxpump",
-   0.756,
-   8.7,
+   0.735,
+   9.6,
    ""
-  ],
-  [
-   "Goyim",
-   "D3jdb6JcCc5Gn8GN77szmWbQ8xd6w6Y8ifM54Xxxpump",
-   0.415,
-   2.5,
-   "rugcheck=creator history of rugs"
   ],
   [
    "Kreo",
    "Dox7uqYKkhyvmUM9JqjsPKTPUr6tFEGqAE5m8g7qpump",
-   0.238,
-   5.3,
+   0.237,
+   6.3,
    ""
   ],
   [
    "POGE",
    "EiBLU4tniRNgF7hdshLdmgEwBLDBygue9855qXt6JzSd",
-   0.205,
-   5.3,
+   0.202,
+   6.2,
    ""
   ],
   [
    "Trump",
    "APMC9uzN5Cyak8CAwLEmwhXoXwsvoisi3RPYNqdwpump",
-   0.165,
-   4.4,
+   0.182,
+   5.4,
    "buyers=8; top5_hold_most=100%"
   ],
   [
-   "Hoge",
-   "G3bUqhSTUXXN2sYrxbg8kEY2SXGKzzKZgKcFTx1Ypump",
-   0.119,
-   4.5,
+   "FLOAT",
+   "HJt1wd58AvwBGJphKA3cfDPtQso6Dieb23ts8PYFLoAT",
+   0.181,
+   2.9,
+   ""
+  ],
+  [
+   "BATSLALOM",
+   "7HsTZtuVhV3oAKtKawPEn7Ti56x32vynZx2WVyzupump",
+   0.154,
+   3.0,
+   ""
+  ],
+  [
+   "DOGE",
+   "6Nvs46uPaw31S4xL35okGs1gyMgr4yL72XPqcFEepump",
+   0.144,
+   5.8,
    ""
   ],
   [
    "MCGA",
    "Aw2UWZ9SBsi7eWzSbvmEeFXtP6kf3Qyfg8fMWAZmpump",
    0.115,
-   8.5,
+   9.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "DOGE",
-   "6Nvs46uPaw31S4xL35okGs1gyMgr4yL72XPqcFEepump",
-   0.115,
-   4.8,
-   ""
   ],
   [
    "ceezee",
    "75CbeVfFBj8DSWt6oJ5JSdrsUe5xSH21rMhb5yhtpump",
    0.105,
-   3.6,
+   4.5,
    ""
   ],
   [
-   "Woody",
-   "AxuV735FQtcD5xNjTUGKW1CnQFX7QRiPYJr8RjvFpump",
-   0.077,
-   6.3,
-   "top5_hold_most=93%"
+   "CARS",
+   "DKQV9bcGBM69NrmNf6CcmJVQFwcqqMaMe2fHRNYvpump",
+   0.099,
+   3.0,
+   "buyers=6; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ]
  ]
 }
