@@ -7084,81 +7084,85 @@
   [
    "2026-10-30T14:57:54",
    32.58
+  ],
+  [
+   "2026-10-30T14:58:52",
+   32.58
   ]
  ],
- "cycles": 3622,
+ "cycles": 3623,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.22999999999999,
- "watching": 229,
+ "sol_usd": 95.24,
+ "watching": 237,
  "near": [
   [
-   "ZERO",
-   "7HLZSp6xGYsYej7gqf7hd87gQBjDE4e3TxxHejUGpump",
-   0.585,
-   2.7,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "doodle",
-   "Aqff55VxB2LNw2EyZf6JZs1i2YTv6H3dkpC82wtppump",
-   0.219,
-   2.6,
-   "buyers=7; top5_hold_most=86%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "p256",
-   "46YyaV4P98BJsu8z7DVQSWiZbDyYK3Mz8BcoGV8wpump",
-   0.139,
-   9.2,
+   "LAPTOP",
+   "FzkYT3DDkKajtkp4BBYu2HjAKQAwiyw3FWKia5mHHack",
+   0.489,
+   2.9,
    ""
+  ],
+  [
+   "KYAI",
+   "8AquXFNfNVw8nX49oSRFpEMszTiSrT5XKTh1pPiJpump",
+   0.486,
+   2.3,
+   "buyers=2; creator=38.5%; top5_hold_most=100%"
+  ],
+  [
+   "HUMKEEP",
+   "5wS7w2ggDK5pZjhJfzNXKk8k5J9rEd2UqTjbeyowpump",
+   0.178,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MVA",
+   "7L2r6fYmV5uTAG3sszW5b7UxKN6mYiaNr8SCMXH2pump",
+   0.137,
+   3.6,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "AI",
    "9ubvGS58W52SN4hwUsSzZfdiB8TXKtahqUSdb2bGpump",
    0.135,
-   4.4,
+   5.3,
    ""
   ],
   [
-   "MVA",
-   "7L2r6fYmV5uTAG3sszW5b7UxKN6mYiaNr8SCMXH2pump",
-   0.124,
-   2.6,
-   "buyers=5; top5_hold_most=100%"
+   "Nipple",
+   "HiUXdx8Ls7Y7RpvkQRAdNfJALPio78Gj1ykm4Uc8pump",
+   0.134,
+   2.7,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "jeets",
    "4DfJtgMHhuES5qDkjCjijpTBDXz7pLCZoepLsbZ3pump",
    0.083,
-   6.5,
+   7.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "ICAT",
    "2QYvgiqmLmFjFBfToqffbqBRB5Pot9kGohFasZDdpump",
    0.083,
-   4.0,
+   5.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "MBE",
    "7Dd5TxpdpPRsGuPWmu8QhvQsvGBs7XbGpq3z2wqKpump",
    0.051,
-   6.8,
+   7.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "DINNER ",
    "HotfJfC89tSBxnVoWh5BWE3y4Kg9DD2fZmyC46cDpump",
    0.046,
-   5.4,
-   ""
-  ],
-  [
-   "BUBBLE",
-   "9Bi4n85Vp8iyDZMDRYgjRowa3PSzBDrLFZoCqQyxpump",
-   0.043,
-   5.7,
+   6.4,
    ""
   ]
  ]
