@@ -6944,81 +6944,85 @@
   [
    "2026-10-30T09:28:46",
    32.58
+  ],
+  [
+   "2026-10-30T09:29:45",
+   32.58
   ]
  ],
- "cycles": 3293,
+ "cycles": 3294,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.22065,
- "watching": 272,
+ "sol_usd": 95.24024050765001,
+ "watching": 275,
  "near": [
   [
-   "HACKERLON",
-   "6VwXoqHnA68sC58adFNFf22evDwZwRwx124Grjfcpump",
-   1.0,
-   3.7,
-   "graduated"
+   "vagina",
+   "EqJuhk3rrxGtq1XqKi18UVasA8wrmTMusURetHHfpump",
+   0.941,
+   2.6,
+   ""
   ],
   [
    "AI",
    "ZcmD39mdQRFJyxChxwthzH2hP2LBhEnnJEvc3Lkpump",
-   0.627,
-   7.6,
+   0.784,
+   8.6,
    ""
-  ],
-  [
-   "Privates",
-   "3Xc9PBLpajdh41EWrNG982PNzzh2V8dWnzDwoEgSpump",
-   0.544,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "dorito",
-   "QGZiunN5k9pRLaYWXVgo8MK7ALV68nsjPLNz57qpump",
-   0.481,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "buy",
    "kyPwNpHX2e3g6u5UP1vFYQ1tKEWEWsug8fnhxavpump",
-   0.405,
-   5.1,
+   0.519,
+   6.0,
    ""
   ],
   [
    "BASS",
    "7HTDbDmvjtHPS68BU3syLRbg3jaYeoHdoBBuFqcepump",
-   0.347,
-   8.9,
+   0.348,
+   9.9,
    ""
   ],
   [
    "HYPELANA",
    "HYPEvXLc56XCDPr9XeEK16BTvJSJLpWKmQX1moNrLQK6",
-   0.203,
-   5.4,
+   0.267,
+   6.4,
    ""
   ],
   [
-   "PSA 10",
-   "3gsBL4n9BonrqxVyts4XLUkRZM7iXeNfajsiUjV7pump",
-   0.185,
-   2.7,
-   "bundled_launch=6 extra buys in creation block"
+   "Burger ",
+   "J3Cpv9ftWziCWfSu1i7e5JURiofDmU14EwCVvTtxpump",
+   0.106,
+   9.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "OWL",
-   "3jArs9oJJcovcUnDXkZLJuuoYsFAE68FAjVP1GPgpump",
-   0.182,
-   9.0,
-   "bundled_launch=6 extra buys in creation block"
+   "JSU",
+   "H2kSwVcxaHonjxxpkHq5b3y2vbGgtavDqPWq4ZXGpump",
+   0.084,
+   6.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Jimmy",
-   "66Qh8REHJTMG2bV8Yjy4qLC6pWjkLrgkKg5WbUytpump",
-   0.123,
-   7.9,
+   "COLO",
+   "BXs2YBc9URqYHS96Qu7AGb1k8uhpAmbcDB4Yo4yJpump",
+   0.083,
+   5.8,
+   "top5_hold_most=86%"
+  ],
+  [
+   "Sparky",
+   "DAvsFoYu7Jg59tKYWw3Ceph5nFgih5TWZqQzvEKYbW1Z",
+   0.082,
+   4.0,
+   ""
+  ],
+  [
+   "PATRIOT",
+   "99wfJVj8L1cwoitpyYAb9kocMtRtd51NDmgJVj1Ypump",
+   0.082,
+   10.0,
    ""
   ]
  ]
