@@ -7002,84 +7002,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:44:50",
+   "2026-10-30T11:45:49",
    32.58
   ]
  ],
- "cycles": 3429,
+ "cycles": 3430,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.86500000000001,
- "watching": 373,
+ "sol_usd": 93.89999999999999,
+ "watching": 351,
  "near": [
   [
    "cloakd",
    "86bDTGFEiJmdw3g9bHULukqksSXxPTmKJ8RF3iHBpump",
-   0.941,
-   8.0,
+   0.951,
+   9.0,
+   ""
+  ],
+  [
+   "Swalloween",
+   "Tsww3wfU5JHgafXW34qf49HyF492h9pJNqt3pGSpump",
+   0.763,
+   2.0,
    ""
   ],
   [
    "AML",
    "Es6jQ2nZT3a7XgTrn8C6f46hRwiRnXb6Jq9MX6Vqpump",
-   0.601,
-   2.7,
-   ""
-  ],
-  [
-   "MONJI",
-   "GShp2yw6rX27dWQDJniwiBTSudotq1zuqPwF4xCUpump",
-   0.38,
+   0.461,
    3.6,
-   "top5_hold_most=95%"
-  ],
-  [
-   "OnlyPump",
-   "7hS3Gm7s5LoRgacGyUjVaDCdSQ2fWGgfKREzRPFjpump",
-   0.3,
-   2.8,
-   "serial_creator=10 launches/24h"
+   ""
   ],
   [
    "cloakd",
    "GyvSQuXHeUbsMTjHPT5tn9WeqD2DjhNmHmpsuXjXpump",
-   0.199,
-   8.6,
+   0.179,
+   9.6,
    "top5_hold_most=82%"
   ],
   [
-   "HALLOWIFY",
-   "EZTDdBUVV7MbogmHa3HXt7KAgzitwHsEKpsWC5dNpump",
-   0.177,
-   9.9,
-   ""
-  ],
-  [
-   "VAMPURR",
-   "BL74nfVqnUMtRsbwwRiQTDU1cD91YpgesrfndKvapump",
-   0.121,
-   2.8,
-   "top5_hold_most=96%"
-  ],
-  [
-   "NARRAGEN ",
-   "2bPNMQY8F9uLeLyFptqwFbtsSxsZWT3a8SqtKYwmpump",
-   0.084,
-   4.0,
-   "top5_hold_most=96%"
+   "MONJI",
+   "GShp2yw6rX27dWQDJniwiBTSudotq1zuqPwF4xCUpump",
+   0.154,
+   4.6,
+   "top5_hold_most=90%"
   ],
   [
    "SOLANA",
    "G6JTRBqc4zWcTTzGQxFawH9piKTZ2XfuZ87khPQTpump",
    0.074,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "3BSFAN",
-   "7e7Q5eNS98LH4YpHhBw5ZwHpeD7VThDfun6LZveJpump",
-   0.068,
-   9.2,
-   "buyers=1; top5_hold_most=100%"
+   "CTO",
+   "B6epCucCTzHyH69UgkR69repUb7iWFgUuY6ZnRj9pump",
+   0.067,
+   2.3,
+   ""
+  ],
+  [
+   "ghosti",
+   "52xjC1dZVpdazE4wGXY8NoyJstLoe1jaSgTkRoWwpump",
+   0.053,
+   7.9,
+   ""
+  ],
+  [
+   "MONJI",
+   "Hc1dQqrMeszh3ZvGmq5Nhg5mpSqXELoWNUQUK6Supump",
+   0.053,
+   6.8,
+   ""
+  ],
+  [
+   "HHILLS",
+   "2bCAbd7AFgYtUx1efp5s4oCXSPkKUsKk5AZFZ3EUpump",
+   0.05,
+   7.3,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
