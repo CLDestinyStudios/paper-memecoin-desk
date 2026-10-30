@@ -7026,83 +7026,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:39:50",
+   "2026-10-30T12:40:50",
    32.58
   ]
  ],
- "cycles": 3484,
+ "cycles": 3485,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.27000000000001,
- "watching": 242,
+ "sol_usd": 94.35785582492228,
+ "watching": 238,
  "near": [
   [
    "\u3164\u3164",
    "8vhj28i4FS87DQWac3uMr54vfrX7nin1SnSFuyc6pump",
-   0.989,
-   7.0,
-   ""
+   1.0,
+   8.0,
+   "graduated"
   ],
   [
    "LeMiss",
    "FiW5r4YcGBAqJTa7dQa73ADXXxaueTiRFtnpmDvcpump",
-   0.474,
-   2.3,
+   0.481,
+   3.3,
    ""
+  ],
+  [
+   "Moglon",
+   "Dx1WeF3A2i6WzvnJQJJCMvT5uNKBrJMhR2GZgPGvpump",
+   0.367,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "MEOWNER",
    "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
-   0.388,
-   3.7,
+   0.326,
+   4.7,
    ""
   ],
   [
    "babycock",
    "BvFJs3TEBmwfvyQJNRL1deZwKYtS7eHhnLpkCKhhpump",
    0.29,
-   8.8,
+   9.8,
    ""
   ],
   [
    "catfish",
    "GzckZtuQHJkUqD2qcUQKASwyvMtNjdSphF5kbjfbpump",
    0.188,
-   4.3,
+   5.3,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HACK",
-   "AeafXuLghwaipxMHQr4PmSvRb6E5Xy7VFr3X5CRYpump",
-   0.143,
-   2.2,
-   "buyers=7; top5_hold_most=97%"
   ],
   [
    "INVLUNCH",
    "3JSxCPEyQL1fR6djBDFJF9vWN4d4eppxViRECPA5pump",
    0.099,
-   7.9,
+   8.9,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "HACK",
+   "AeafXuLghwaipxMHQr4PmSvRb6E5Xy7VFr3X5CRYpump",
+   0.082,
+   3.2,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "cooked",
    "PUojA6YY5VdDziULJ1qQP1RJ3Wn3fTVPSNA7qk3pump",
    0.071,
-   2.3,
+   3.3,
    ""
   ],
   [
    "PARCEL",
    "AhdewGsUAvXUGcrJKV6PESbRg42YAztaz6kuvLMtpump",
    0.07,
-   8.9,
-   ""
-  ],
-  [
-   "minecat",
-   "Danqp9UZ8h6j5a13b2wa2CcDUi3rAXNJ1iBQfCqbUBgK",
-   0.064,
-   5.0,
+   9.9,
    ""
   ]
  ]
