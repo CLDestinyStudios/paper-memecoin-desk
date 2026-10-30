@@ -7054,83 +7054,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:48:54",
+   "2026-10-30T13:49:57",
    32.58
   ]
  ],
- "cycles": 3553,
+ "cycles": 3554,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.95372354404999,
- "watching": 229,
+ "sol_usd": 94.97999999999999,
+ "watching": 223,
  "near": [
   [
-   "Catrina",
-   "7GNB3ihJq5GWcRo5UstVN4NvfquPMvY2sKKBhvmzpump",
-   0.539,
-   8.5,
+   "PILLYGUY",
+   "Eu3qwxopCEmUnEP3jfqZ1j9u6SyF1nArX2CXYNMZpump",
+   1.0,
+   2.1,
+   "graduated"
+  ],
+  [
+   "TUSKcoin",
+   "E7enuoDfZrCyerELkrZPZT15sSHWWdL3VwZYGgcepump",
+   0.96,
+   2.5,
    ""
   ],
   [
-   "Qwen",
-   "Eqv6hTrXGcgAQNQmZPcVJPaoBXfxq2c4mmWbKJSepump",
-   0.399,
-   6.8,
-   "serial_creator=10 launches/24h"
+   "BUNKER",
+   "8kaXRvXHujuJEHaAwbvhtLxugfTqgqC2pR4pMArgpump",
+   0.609,
+   2.7,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Catrina",
+   "7GNB3ihJq5GWcRo5UstVN4NvfquPMvY2sKKBhvmzpump",
+   0.544,
+   9.6,
+   ""
+  ],
+  [
+   "FOMOKOMBAT",
+   "F4sewWrrptosMWpCT38ouNirFWcvLntTtg2ywgvbpump",
+   0.271,
+   2.2,
+   ""
   ],
   [
    "TUSK",
    "4QedpXZUex7izZ7GtbDcSpLf3tKBKfuGnXWJAUmQpump",
    0.114,
-   8.9,
-   "buyers=8"
-  ],
-  [
-   "UNICORN",
-   "C4owL7yaNAYEEMz6DkCGC8mvXJwuufVN9sGHv2KLpump",
-   0.102,
-   2.8,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   10.0,
+   "buyers=7"
   ],
   [
    "mikol",
    "CL7T68mafRUi1K6gx3sxt6MKhzJRi3M56nrWSAj7pump",
    0.073,
-   7.7,
+   8.8,
    ""
   ],
   [
    "TUSK",
    "CX3sqZmAjR6Antj2h3Bd2uB1GdUnN4pT4RVa5RvTpump",
    0.064,
-   6.7,
+   7.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "64QMHg27z3yUdb54KmNpGenZh2QFoXt9M8tsC8cRpump",
    0.064,
-   6.6,
-   ""
+   7.6,
+   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "PAUTH",
    "3T3TUoH11DKmqbPSWFxJckK5uoYHNpvPjAccdxAkpump",
    0.04,
-   6.0,
-   ""
-  ],
-  [
-   "PUMPF",
-   "6X5epzMbc7jNtcNd7tByyh9LFdTdSGJHtZhFTuXqpump",
-   0.03,
-   6.3,
-   ""
-  ],
-  [
-   "ERIC ",
-   "F3WQGwTP5JtA8H5cQrewGtd3q9n1MmvF6K3DxaoNpump",
-   0.026,
-   6.3,
+   7.0,
    ""
   ]
  ]
