@@ -6670,83 +6670,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:47:17",
+   "2026-10-29T22:48:16",
    32.58
   ]
  ],
- "cycles": 2653,
+ "cycles": 2654,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.20801419995001,
- "watching": 156,
+ "sol_usd": 98.28935000000001,
+ "watching": 159,
  "near": [
   [
-   "LEGS",
-   "EvghFbQjRmArAHofScAV9Pzn91H8UuB2ZTNMDZtFpump",
-   0.133,
-   7.6,
-   "buyers=7; top5_hold_most=89%"
+   "IROKOKO",
+   "96HezUEywGzBrovKjrNGCPx4Bg6oww1mE8a1ThFLpump",
+   0.645,
+   3.0,
+   "serial_creator=26 launches/24h"
   ],
   [
    "TIKEMYSON",
    "82t53skruMRMNvPxoQY4U3ghHpVNcormBmgcan1Spump",
-   0.125,
-   4.8,
-   "buyers=6; top5_hold_most=95%"
+   0.223,
+   5.8,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "LEGS",
+   "EvghFbQjRmArAHofScAV9Pzn91H8UuB2ZTNMDZtFpump",
+   0.158,
+   8.5,
+   "buyers=7; top5_hold_most=89%"
+  ],
+  [
+   "WARS",
+   "81Zku8ZWj5vv1S1CMTuX831Rn1naF5cCkdpzmj9pump",
+   0.136,
+   2.8,
+   "top5_hold_most=89%"
   ],
   [
    "Fairgate",
    "AGKB734xmTe6ZDM6hTP5JEstqiXB9Bq99DbCU8y1pump",
-   0.111,
-   5.4,
+   0.054,
+   6.4,
    "buyers=9"
-  ],
-  [
-   "TONY",
-   "5uTRenwYbnzUZYyvkydJUB8cF2AgbZTWsdhPn6sCpump",
-   0.074,
-   2.2,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HYPEALL",
-   "7FUgx74nfq4GjhXJx2x5eWci67unq1PLpS3wjDyCpump",
-   0.039,
-   4.8,
-   ""
   ],
   [
    "catzard",
    "FKnz8JSRbTPrMP6nd1gckUVcyoEwEstdzFxPY5kPpump",
-   0.039,
-   2.5,
+   0.04,
+   3.5,
    ""
   ],
   [
    "$BH",
    "6XpHrKaZ1pzoeycn87HsNChQ6XZRcT524yZkDZ76pump",
    0.034,
-   8.3,
+   9.3,
    ""
   ],
   [
    "Slop",
    "DTN5FmPTq6yv7WrUuLMk1bLG5asArnmbvCQiByESpump",
    0.031,
-   3.6,
+   4.6,
    ""
   ],
   [
    "CI",
    "8HLx2pyMWUUmMvabS24HV8bjVmMcTX18PHa1s2CSpump",
    0.022,
-   4.2,
+   5.2,
    ""
   ],
   [
    "Lazarus",
    "FeFqCreNPey3B6tWAyFvbTmu48BGQEBsT7d8jmZUpump",
    0.017,
-   5.4,
+   6.4,
    ""
   ]
  ]
