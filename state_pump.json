@@ -6862,84 +6862,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:19:06",
+   "2026-10-30T06:20:02",
    32.58
   ]
  ],
- "cycles": 3104,
+ "cycles": 3105,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.1193087812,
- "watching": 168,
+ "sol_usd": 96.1137388249,
+ "watching": 167,
  "near": [
   [
    "laptop",
    "9hzYuifYC7FNCCJ2aViUEKwoPRzy3i6tB7g63wPtpump",
-   0.896,
-   4.1,
+   0.915,
+   5.0,
    ""
   ],
   [
    "HACKCOIN",
    "5McvpSFirPG9yHbvuHzvgvAza8qobrcuHk24TfXmpump",
-   0.862,
-   5.0,
+   0.907,
+   6.0,
    ""
   ],
   [
    "HYPER",
    "28D7yxdt1VR6frRgDJ8ayw2rwfUEponYz4KK6ou3pump",
-   0.326,
-   3.1,
+   0.496,
+   4.0,
+   ""
+  ],
+  [
+   "HACKCOIN",
+   "hWgN5zrYwgEeHEheLRnEdnqekpZm6yc6ZUApUrRJm7R",
+   0.463,
+   2.2,
    ""
   ],
   [
    "BTB",
    "Ejp1P7Jq4ViiY7JnUNQVZ24pxRWPVanKzUuWoTwCpump",
-   0.278,
-   2.3,
-   "buyers=4; creator=21.4%; top5_hold_most=100%"
+   0.292,
+   3.2,
+   "buyers=4; creator=22.5%; top5_hold_most=100%"
   ],
   [
    "Laptop",
    "BbjHCW9zy7LoRcthW6AAvssyfyePFiFXSWUYNEJVpump",
-   0.243,
-   5.8,
+   0.26,
+   6.8,
    ""
   ],
   [
    "BACKSTOP ",
    "GpRvugTzqB4SGnUzNvQhHr9SQ55tSNu5DAvjWiMspump",
-   0.216,
-   3.5,
+   0.206,
+   4.4,
    ""
   ],
   [
    "FSD",
    "3VkgaEVateMNDwsNPUmuLzJRDqDoFbC4XevKz11Epump",
-   0.197,
-   2.4,
-   "top5_hold_most=83%"
+   0.196,
+   3.3,
+   "top5_hold_most=93%"
   ],
   [
    "LAZARUS",
    "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
    0.187,
-   7.1,
-   "top5_hold_most=97%"
+   8.1,
+   "top5_hold_most=96%"
   ],
   [
    "Gold Cat",
    "L9AsD7GramGmVahW54wPK6iqv2zgF95eG7uvivZpump",
-   0.174,
-   3.5,
-   "top5_hold_most=96%"
-  ],
-  [
-   "ELON GTA",
-   "6eSGaqbsDpjHvKbmSYtSHWmi9VnrpMr2NsNLZM7gpump",
-   0.14,
-   9.1,
-   "buyers=4; top5_hold_most=100%"
+   0.181,
+   4.4,
+   "top5_hold_most=93%"
   ]
  ]
 }
