@@ -1,20 +1,10 @@
 {
  "bank_start": 500.0,
- "cash": 373.53122439181544,
- "positions": {
-  "G68ruHgnWmHBg8QGbXkPv9UMpPhDmJ33MHTbdf5tpump": {
-   "sym": "Zeroday",
-   "qty": 205244.4873168094,
-   "entry": 9.57882e-05,
-   "mark_entry": 9.391e-05,
-   "cost": 19.66,
-   "peak": 9.391e-05,
-   "last": 9.267e-05,
-   "opened": 1793321585.643077,
-   "p_buy": 0.62
-  }
+ "cash": 391.2073722263086,
+ "positions": {},
+ "watch": {
+  "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": 1793321706.7338238
  },
- "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -7696,8 +7686,12 @@
   [
    "2026-10-29T17:54:06",
    392.17
+  ],
+  [
+   "2026-10-29T17:55:07",
+   391.21
   ]
  ],
- "cycles": 2380,
+ "cycles": 2381,
  "started": "2026-10-28T01:46:56"
 }
