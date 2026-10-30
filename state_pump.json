@@ -6640,81 +6640,85 @@
   [
    "2026-10-29T21:38:16",
    32.58
+  ],
+  [
+   "2026-10-29T21:39:17",
+   32.58
   ]
  ],
- "cycles": 2584,
+ "cycles": 2585,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.18054308615,
- "watching": 158,
+ "sol_usd": 97.06839980519999,
+ "watching": 160,
  "near": [
   [
    "Privacy",
    "3XPP1njjy7y5LYQGbddg5FVMYjJt5C2Hb7goB7rHpump",
-   0.666,
-   3.5,
+   0.674,
+   4.6,
    ""
+  ],
+  [
+   "CBF",
+   "5tSnuRUkyZFdNzj7Sg5joAfRePsBUQLHZxgLH2rBpump",
+   0.652,
+   2.2,
+   ""
+  ],
+  [
+   "FLUKIE",
+   "2SQQFQ55SwkaXLs2ctj4msE1DAE3aS3kNnbTaTpPpump",
+   0.281,
+   2.8,
+   "serial_creator=10 launches/24h"
   ],
   [
    "IDGAF",
    "4hqvr7SRUTzZmqo7NTDCn3VswtZj2nJSFe69EAwGpump",
    0.21,
-   6.2,
-   "top5_hold_most=87%"
+   7.2,
+   "top5_hold_most=86%"
   ],
   [
    "FTX2.0",
    "5wR1cXazA4pMBY9DjKc4dS72ECnKRMLc2pdCvhqBpump",
    0.203,
-   3.7,
+   4.7,
    "buyers=2; creator=15.3%; top5_hold_most=100%"
   ],
   [
-   "CBF",
-   "32AmFXnJNi1WbyErm85ErJUtQXDnNcCvzaprSYVSpump",
-   0.075,
-   3.6,
-   ""
-  ],
-  [
-   "PZ",
-   "BhGxJfzGtdtBhY8gwLqsixgSXNFnYuoq3njMqUpcpump",
-   0.074,
-   3.9,
+   "BCI",
+   "EujuHjgbBejJcReKwhSAnbnjWCP4iWAL4bdq8U7apump",
+   0.073,
+   2.7,
    ""
   ],
   [
    "UNSAFU",
    "3bsRGEixPp11m2a3a418SbzVYKYfmJSdxScXTCsopump",
-   0.067,
-   2.6,
+   0.066,
+   3.6,
    ""
   ],
   [
-   "CZ",
-   "8mCykHVxiHQ3uWTyP4c2csowSk52GvjMcSphfTJMpump",
+   "$Hack",
+   "3bqTXGzsHDJhoDfEp3kwhhc4JzUbrKZAMc522r2qpump",
    0.064,
-   3.0,
-   ""
+   2.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "ceezee",
    "4YjcbZaED6NZpZQ1aDrdYdVvwm5t6AszTBGTVzgapump",
    0.062,
-   4.1,
+   5.1,
    ""
   ],
   [
-   "MCGROK",
-   "BkAHZXieQa96o4xY9677BvXm62QgRs3qi1tZVtMHpump",
-   0.06,
-   4.6,
-   ""
-  ],
-  [
-   "FTX2.0",
-   "DNhcqdNsSEYgStbXkzgxxpJ5f7izV1dAim5RjYHA93YY",
+   "PSYCHOSIS",
+   "9g1PrxZcfwEes3e3sbSNyk77iBec5jJfCbUh43tT1mCZ",
    0.043,
-   4.0,
+   5.8,
    ""
   ]
  ]
