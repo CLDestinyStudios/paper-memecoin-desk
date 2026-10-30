@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 371.6473722263086,
+ "cash": 352.1473722263086,
  "positions": {
   "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump": {
    "sym": "BITCAT",
@@ -9,13 +9,24 @@
    "mark_entry": 0.0001471,
    "cost": 19.56,
    "peak": 0.0001471,
-   "last": 0.0001471,
+   "last": 0.0001436,
    "opened": 1793337556.7723334,
    "p_buy": 0.64
+  },
+  "Ashf7mwajs2gWp9ase3jtQM4vMbWkyKb6DjQ6gBCvESY": {
+   "sym": "Telepathy",
+   "qty": 238821.32490722713,
+   "entry": 8.1651e-05,
+   "mark_entry": 8.005e-05,
+   "cost": 19.5,
+   "peak": 8.005e-05,
+   "last": 8.005e-05,
+   "opened": 1793337616.9736736,
+   "p_buy": 0.56
   }
  },
  "watch": {
-  "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": 1793337556.7721179
+  "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump": 1793337617.3642654
  },
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -85,7 +96,8 @@
   "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
   "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump",
   "G68ruHgnWmHBg8QGbXkPv9UMpPhDmJ33MHTbdf5tpump",
-  "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump"
+  "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
+  "Ashf7mwajs2gWp9ase3jtQM4vMbWkyKb6DjQ6gBCvESY"
  ],
  "equity": [
   [
@@ -7823,8 +7835,12 @@
   [
    "2026-10-29T22:19:16",
    390.44
+  ],
+  [
+   "2026-10-29T22:20:17",
+   389.23
   ]
  ],
- "cycles": 2645,
+ "cycles": 2646,
  "started": "2026-10-28T01:46:56"
 }

@@ -6658,83 +6658,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:19:24",
+   "2026-10-29T22:20:23",
    32.58
   ]
  ],
- "cycles": 2625,
+ "cycles": 2626,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.72126585894999,
- "watching": 157,
+ "sol_usd": 97.77375,
+ "watching": 152,
  "near": [
   [
    "WARS",
    "13wdtUMkhFicqcPK9Gh5F2JBkV4aRULGCsLxwiJ2pump",
-   0.763,
-   3.4,
+   0.782,
+   4.4,
    ""
   ],
   [
    "LMB",
    "3YMTh2tagdg5rq99qa4zGHLyCKj7h8R9cWqhA9Adpump",
-   0.532,
-   4.1,
+   0.286,
+   5.0,
    ""
   ],
   [
-   "AGENT",
-   "AyaTvydf6VT39LB92R8T8CfdTfkCEgQK4NqCG4KQpump",
-   0.185,
-   6.3,
-   "buyers=6; top5_hold_most=100%"
+   "TANISHA",
+   "ELiaEhibxE3igy7HoUrkGNcMLRdept1vBgPThKzEpump",
+   0.247,
+   2.5,
+   "buyers=8; launch_slot=missing"
+  ],
+  [
+   "STABLECAT",
+   "5svZXsw3CGH1UScf6NLibEPg4qVa2c4DTFKt1SFnkm8z",
+   0.161,
+   2.6,
+   "top5_hold_most=84%; launch_slot=missing"
   ],
   [
    "ZERODAYBOT",
    "HbifskpNgaS9geGLkpp98h5xAjzxriWmJdd4pyRopump",
-   0.135,
-   8.1,
+   0.159,
+   9.1,
    "top5_hold_most=92%"
   ],
   [
    "Dividend",
    "BX25CJmLmjBJoNBBEpJ2uzCv6mgfJbRDY5dnF3pJpump",
-   0.084,
-   9.1,
+   0.081,
+   10.0,
    "top5_hold_most=82%"
   ],
   [
    "proxtest",
    "HWctHVn5oaGppx2wG9FJ3eq449X1onhB5gLwXcA4pump",
    0.058,
-   2.7,
+   3.6,
    ""
   ],
   [
    "ardtest",
    "EaTS26jTB6FW1hQbbGS9GRD38mw2mMW7uiNtnuycjShg",
    0.048,
-   2.9,
-   ""
-  ],
-  [
-   "USDCPAD",
-   "4DfWhGgrGwfeRW22FLZxANzvcstusaaN1WikiSj3pump",
-   0.046,
-   2.3,
+   3.9,
    ""
   ],
   [
    "virus",
    "BXsSuomXnCfc3sv4gaQ9kL12PjQczo1zkua4Y7Egpump",
    0.041,
-   8.6,
+   9.6,
    ""
   ],
   [
    "ElonsDoge",
    "4r74wn2uwoVF3nygyVXxGnp9MQ43MykYTRsDdZ54pump",
    0.039,
-   8.5,
+   9.5,
    ""
   ]
  ]
