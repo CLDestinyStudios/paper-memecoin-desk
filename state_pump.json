@@ -6830,84 +6830,84 @@
    32.58
   ],
   [
-   "2026-10-30T05:01:47",
+   "2026-10-30T05:02:46",
    32.58
   ]
  ],
- "cycles": 3027,
+ "cycles": 3028,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.5391123181,
- "watching": 138,
+ "sol_usd": 96.40499999999999,
+ "watching": 142,
  "near": [
-  [
-   "Gruffalo",
-   "BgqP3H9NYHsxSQWq6ZzQt8x7znSwKefViD3erTg3pump",
-   0.743,
-   2.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Treg",
-   "4YUvWH6phdp2TRTudVEuD7M1geKzSocwerQJ5Ux8pump",
-   0.46,
-   2.9,
-   "rugcheck=creator history of rugs"
-  ],
   [
    "CVE",
    "D8N4uaRhNVwwZMYqXSuThRxLd2xsu1tVGeGjt6yvpump",
    0.252,
-   5.4,
+   6.4,
    "top5_hold_most=87%"
   ],
   [
-   "Boardroom",
-   "7EKGeNLUmydC3HbUJgCSrvibLKKkJ58WnSbVXYCjpump",
-   0.199,
-   9.4,
-   "top5_hold_most=96%"
+   "SolHouse",
+   "DKKqKiBRF12JekiVbyob7Yv83SCKn8UjsnMgzBYHpump",
+   0.142,
+   3.2,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "BANG",
-   "52KeFUNCE8fUgDLPpSi1omrxoHz3pcPFaU6kiQKHpump",
-   0.195,
-   5.1,
-   "buyers=9"
+   "STELLA",
+   "7VNDJ9a5wZ7hvcS8kA7zY4fNyoagbf5BTGHgjdViyPKZ",
+   0.087,
+   2.3,
+   ""
   ],
   [
-   "HOVR",
-   "29vePA9UGPs5oeGXU2QjnT61xRRbTSM7t3YetJuapump",
-   0.085,
-   4.4,
-   "buyers=5; top5_hold_most=100%"
+   "HYDOG",
+   "Dcjay9gbzyXA2jKRLuwfZsebCexTsHzmXcARdqmyPy9H",
+   0.083,
+   6.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "DOGE",
    "ARQzqMCtGwFtc25JNyp5vRrRkevzuBzNwDua1q3wpump",
    0.081,
-   5.9,
+   6.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Bo",
-   "F2M8ph6hQqzFzNDxBvjvaKYhyUmiwmKBHoQGtqfppump",
-   0.079,
-   2.3,
+   "HOVR",
+   "29vePA9UGPs5oeGXU2QjnT61xRRbTSM7t3YetJuapump",
+   0.081,
+   5.4,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "November",
+   "6rR4vZPpxoDVsYHA5pnKLxqZmxL2eXRQUN6jKpqbpump",
+   0.073,
+   2.4,
    ""
   ],
   [
-   "SolHouse",
-   "DKKqKiBRF12JekiVbyob7Yv83SCKn8UjsnMgzBYHpump",
-   0.078,
-   2.3,
-   "buyers=2; top5_hold_most=100%"
+   "MONKEY",
+   "5gizeD8PnoFw6S1mmr5Y2ffAPcJ1PAg3KACFUWAvpump",
+   0.062,
+   3.9,
+   ""
   ],
   [
-   "NAHDUCK",
-   "FAkRPAjLhniPq3Ta7bi7NGk2ATtBMrQerTkJ8UEipump",
-   0.077,
-   4.5,
-   "buyers=6; top5_hold_most=99%"
+   "hacker",
+   "Gjxcf8AWj9J6UWTHnhEFLxNoYUcL6XKcesWvWUKvpump",
+   0.044,
+   7.4,
+   ""
+  ],
+  [
+   "Laptop",
+   "AARzSskLntyKofSY84sUaUbr6Cka9wUG3BfN364rpump",
+   0.043,
+   2.2,
+   ""
   ]
  ]
 }
