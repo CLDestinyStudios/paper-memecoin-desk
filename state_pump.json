@@ -6852,81 +6852,85 @@
   [
    "2026-10-30T05:54:02",
    32.58
+  ],
+  [
+   "2026-10-30T05:55:03",
+   32.58
   ]
  ],
- "cycles": 3079,
+ "cycles": 3080,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.63527886725001,
- "watching": 135,
+ "sol_usd": 96.53999999999999,
+ "watching": 137,
  "near": [
-  [
-   "patience",
-   "FHw71ZmhphWFfq14DHNTtqGaAVjDQ4MDFs4VMZCjpump",
-   1.0,
-   7.8,
-   "graduated"
-  ],
   [
    "equititty",
    "HoAotFnxws7mX4ATrj1E91VeG1AUmsfNiC7nMD7spump",
-   0.958,
-   3.8,
+   0.948,
+   4.8,
    ""
   ],
   [
-   "Poketomo",
-   "BrQujLiPeZRRYjwUygoroU566wmBqTm82eYecnKciYJB",
-   0.098,
-   5.0,
-   ""
+   "sulver",
+   "GAvUSs4AhoaVzbNXtnckaGmubCLzY3Ynfr2n2Tde1iEq",
+   0.189,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "FREDDY",
    "33waLP7fdRqeWoz4BSgkhAyzWjuX7hDSkQ2RnKdUpump",
    0.077,
-   4.1,
+   5.1,
    ""
-  ],
-  [
-   "Jesu ",
-   "AWUjmPqre3XLPhUADvYBC46TCQGZZ6QvJaK3AJqhpump",
-   0.066,
-   5.0,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BFCAT",
    "B9BReGZmWEd53MKhiGz7GjbZbRbnFJYrh3fksDuypump",
    0.047,
-   6.1,
+   7.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Jesus",
    "Evrt9sFwnSTdVGUzsTfH8ckF3sc5upEyCicXncd7B7vL",
    0.043,
-   5.7,
+   6.7,
    ""
   ],
   [
-   "Jesus",
-   "E4tKCPtXoiitSrt7H4GJySkCJYJhsHkkrg9zTyJypump",
-   0.031,
-   5.8,
+   "AURATI",
+   "9WBrVkYBrVXn9o5rErw9sNHfcRBLqMhjg8VAkhQohNtP",
+   0.037,
+   2.7,
    ""
   ],
   [
    "Jesus",
    "DSkAv37LMnEgVEdH2bCXWHhX34beShrGR8y6rm7gpump",
    0.025,
-   4.7,
+   5.7,
    ""
   ],
   [
-   "Broke ",
-   "CCDmv9naV4RGDjAkDWgYXzzS5wCPEYQKjyGKyvczpump",
-   0.022,
-   2.2,
+   "Jesus",
+   "9avxQ9GKQgjhDs5UuvrqWpXMv4n6KNf6XvjDDoDZpump",
+   0.011,
+   9.0,
+   ""
+  ],
+  [
+   "UPO",
+   "24UMMuFXVG4aD46TtCwDFfDEyLtihvYuHN6Z5WuYpump",
+   0.009,
+   4.8,
+   ""
+  ],
+  [
+   "NFT",
+   "9YZdDhncojTqd4tEQtd3u5e5MZrHpApTZvBwZEgipump",
+   0.004,
+   5.0,
    ""
   ]
  ]
