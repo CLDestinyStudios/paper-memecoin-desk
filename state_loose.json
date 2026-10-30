@@ -1,10 +1,20 @@
 {
  "bank_start": 500.0,
- "cash": 345.2062626880428,
- "positions": {},
- "watch": {
-  "A17Um2bGf737PkuKekDVkaQtU2ypSor3VREuGHP3pump": 1793391957.2293124
+ "cash": 327.9462626880428,
+ "positions": {
+  "8GUoRZCSzjfoA47FRBJ4MuNjjpyn3pWZDTkRePWNpump": {
+   "sym": "HC",
+   "qty": 204243.43545505108,
+   "entry": 8.4507e-05,
+   "mark_entry": 8.285e-05,
+   "cost": 17.26,
+   "peak": 8.285e-05,
+   "last": 8.285e-05,
+   "opened": 1793392017.5900824,
+   "p_buy": 0.63
+  }
  },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -87,7 +97,8 @@
   "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump",
   "G4vGFQjeqYdbfckvipiuyusFgY1jqAK23mbYG4H8pump",
   "2aZp4sP2bPdMUVkTVeRmzBvJvCaeTpgYXNBXNuEopump",
-  "3qjBR3LfzEAKVS6QXuR2QZ1RFUsXzATWvmjbGB5Dpump"
+  "3qjBR3LfzEAKVS6QXuR2QZ1RFUsXzATWvmjbGB5Dpump",
+  "8GUoRZCSzjfoA47FRBJ4MuNjjpyn3pWZDTkRePWNpump"
  ],
  "equity": [
   [
@@ -8837,8 +8848,12 @@
   [
    "2026-10-30T13:25:58",
    345.21
+  ],
+  [
+   "2026-10-30T13:26:58",
+   344.53
   ]
  ],
- "cycles": 3550,
+ "cycles": 3551,
  "started": "2026-10-28T01:46:56"
 }
