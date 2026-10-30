@@ -6526,84 +6526,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:10:05",
+   "2026-10-29T17:11:05",
    32.58
   ]
  ],
- "cycles": 2316,
+ "cycles": 2317,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.1235057245,
- "watching": 190,
+ "sol_usd": 94.98999999999998,
+ "watching": 195,
  "near": [
   [
    "Bear",
    "Dv6gYYkTav8Pm36UwAywxNCccwSZV1VL1tjiSpDLpump",
-   0.94,
-   5.9,
+   0.976,
+   6.9,
+   ""
+  ],
+  [
+   "Final",
+   "GpZdXZQNFvEPNkLn5anXANRut7RhfXwDvRR2anhA8TJw",
+   0.74,
+   2.5,
+   "serial_creator=118 launches/24h"
+  ],
+  [
+   "HYPER",
+   "2xLY84LHtJDLZujVKfKhezK2jAzN5JZP1M4ogn4Xpump",
+   0.191,
+   2.4,
+   ""
+  ],
+  [
+   "Goodbye",
+   "GQfvo3X9yzTjnjciPmuCHtC9isEnkwid7zWQcT57bcKK",
+   0.17,
+   2.8,
    ""
   ],
   [
    "cripto",
    "BJznLjYgBNHVNoZMXqy3G99ugREzS5XMk6qTQKtCpump",
    0.112,
-   3.7,
+   4.7,
+   ""
+  ],
+  [
+   "YingYang",
+   "HVwpc3rdVFZv4hCumTugChSQz81TpDdYsqxYFTJiMDFF",
+   0.098,
+   2.2,
    ""
   ],
   [
    "HYPER",
    "J1JghEKhdhLAU4ocGeKxpE6WktfSFVdogzRG5nKkpump",
    0.076,
-   6.7,
+   7.7,
    "top5_hold_most=80%"
   ],
   [
-   "REA",
-   "3uoNb8XyiU3zm9iN8UKheT8XdKiiFW8EHr1yM8Hupump",
-   0.067,
-   9.1,
+   "Goodbye",
+   "94cMv3snjzxJ2Jup6jsVfgeoqJFcCeahmXRLeN2kpump",
+   0.071,
+   2.5,
+   ""
+  ],
+  [
+   "GHOST",
+   "3bs3CS3URxScVqeythd2kbjajw45FnAr5NA7v3NJpump",
+   0.07,
+   2.9,
    ""
   ],
   [
    "GRID",
    "7vC3gpv9YvSMtEc5QmyQbFLSqnEy7QKK2ETyrjXRTWob",
    0.056,
-   5.0,
-   ""
-  ],
-  [
-   "Minesweeper",
-   "7MbNtakHwDUvZ8MojFaKqHjZPJNJ9VuqrkFTVfbkpump",
-   0.043,
-   8.1,
-   ""
-  ],
-  [
-   "Cyber",
-   "3JRwaSpuTAMVza5xvP4N9irMjfQLiYY8V2TnyG7fpump",
-   0.043,
    6.0,
    ""
-  ],
-  [
-   "REA",
-   "9AXb1BcC2cdpdS7ALnvUAYq2zebhYajbsZTU2fUXpump",
-   0.042,
-   8.5,
-   ""
-  ],
-  [
-   "binancehak",
-   "9FW6iERGVjGTeeJaYVRtFtQurYz6F8iaXegZ5iUfpump",
-   0.039,
-   7.4,
-   ""
-  ],
-  [
-   "GIRLCOIN",
-   "FKwXsShgVZAxjR3SwpL5L5QR6RKAEpC9byTtyhK8pump",
-   0.029,
-   6.0,
-   "buyers=6; top5_hold_most=99%"
   ]
  ]
 }
