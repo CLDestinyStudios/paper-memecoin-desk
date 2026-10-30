@@ -6900,82 +6900,86 @@
   [
    "2026-10-30T07:47:49",
    32.58
+  ],
+  [
+   "2026-10-30T07:48:48",
+   32.58
   ]
  ],
- "cycles": 3192,
+ "cycles": 3193,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.8,
- "watching": 271,
+ "sol_usd": 94.69119436565,
+ "watching": 272,
  "near": [
   [
-   "buy",
-   "DMwbj22eSFSQdLv6LEjFo5neY25WkS112Yn7qcgopump",
-   1.0,
-   6.4,
-   "graduated"
+   "SPOT",
+   "AMpv7JrrGhKkCJmGUvpgUamtxC6hxBXpekd3GC5qpump",
+   0.899,
+   3.2,
+   ""
   ],
   [
    "31PUMP",
    "4MYWbMBLaUxbHBpFprCQBhUpGCPrmP3h5bsZDU9Upump",
-   0.88,
-   7.8,
-   ""
-  ],
-  [
-   "SPOT",
-   "AMpv7JrrGhKkCJmGUvpgUamtxC6hxBXpekd3GC5qpump",
-   0.868,
-   2.2,
+   0.876,
+   8.8,
    ""
   ],
   [
    "Pepe",
    "6evQJikgrAffBJLT7tBpXSfNKfjLWwGmGdJobwp6pump",
-   0.746,
-   4.3,
+   0.799,
+   5.3,
    "creator=48.3%; top10=55.0%; top5_hold_most=88%"
-  ],
-  [
-   "FBinance",
-   "DjKbwFjcTkUVt8dajkYiKtzkkHdfWNpZSV45nQfVpump",
-   0.656,
-   6.9,
-   "creator=46.1%; top10=51.5%; top5_hold_most=98%"
-  ],
-  [
-   "UBER",
-   "9d3rqKau6GBTjQEpqURB9U1kncHTTZeDyEjRSmCDpump",
-   0.556,
-   2.5,
-   "serial_creator=10 launches/24h"
   ],
   [
    "GROKHQ",
    "Groknif3pW49CFjZWL9VpMEUjfPpQ8ghsZRnKBdm71r7",
    0.256,
-   6.9,
+   7.9,
    ""
   ],
   [
    "SKIVE",
    "73nULTckXbSgBfhAayPK9XXDNg1ycgPNSuK7zFzvpump",
    0.198,
-   7.3,
+   8.3,
    ""
   ],
   [
    "sadrabbit",
    "43ZFwENKW6xNvDUE6AxZP1hENSuHemksnLD3qPY2pump",
    0.184,
-   4.3,
+   5.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "NH",
-   "Bx3sBqrpYY5svykkQC4mDvPCwapZsoJCEFQ79BQnpump",
-   0.169,
-   2.7,
-   "top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
+   "KoreanFlare",
+   "EKx1NyjC4qSSni6bRNtEFzVW3tbG2ZvdogXeE33Mpump",
+   0.131,
+   8.8,
+   ""
+  ],
+  [
+   "Together",
+   "637aSb4TKkhm72WMJSJCuYNrGQr9nT5f7JFQGj5Rpump",
+   0.111,
+   3.0,
+   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "ELUN",
+   "9GBpGPzArndKvbvtpKix6Vsp6xeyrVFSdP2Q52BYb6Vv",
+   0.083,
+   7.7,
+   ""
+  ],
+  [
+   "OG",
+   "6V1hRC7TQYQbs4kT2h9MoKvhfQyRLZRy2NnCBFtWpump",
+   0.052,
+   5.2,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
