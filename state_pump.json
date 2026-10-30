@@ -7010,83 +7010,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:03:50",
+   "2026-10-30T12:04:50",
    32.58
   ]
  ],
- "cycles": 3448,
+ "cycles": 3449,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.07,
- "watching": 364,
+ "sol_usd": 94.20499999999998,
+ "watching": 348,
  "near": [
+  [
+   "NDA",
+   "6KKo6ffeeQnP7FDVP7M4dQ91c2A7WD4GoNtP1PyJpump",
+   0.536,
+   2.5,
+   ""
+  ],
+  [
+   "SONIC",
+   "Aft7sh5VFB3Sx2iL21uyZTGghSTyPzrEByvtnSxapump",
+   0.201,
+   3.6,
+   "buyers=8; top5_hold_most=85%"
+  ],
+  [
+   "Hedge",
+   "BU8CD8Vi8rkFafdvHHP1hCsWRdFouZC9X51mymh7pump",
+   0.153,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
+  ],
   [
    "pep",
    "BffhRgcAnmPEZY4jqSaT1KXyZy6ry8hN3Amga4iUpump",
-   0.192,
-   8.0,
+   0.142,
+   9.0,
    ""
   ],
   [
    "GLOW",
    "5hJLQ9aXWdes2i8ayV8vPisvxhXiWXwWqDr5cG5Cpump",
    0.14,
-   5.4,
+   6.4,
    ""
-  ],
-  [
-   "SONIC",
-   "Aft7sh5VFB3Sx2iL21uyZTGghSTyPzrEByvtnSxapump",
-   0.116,
-   2.6,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "SELL",
    "HDCQzw3s3bu7frCMMSbKvYgWnWAu5PNgsA1zX2M7pump",
-   0.088,
-   4.5,
+   0.118,
+   5.5,
    ""
+  ],
+  [
+   "CIO",
+   "Ajo3nzjZ6u3TAF2pzzFAnVboJN1Quj8Q67sw3PJ8pump",
+   0.112,
+   2.9,
+   "buyers=6; top5_hold_most=96%"
+  ],
+  [
+   "nasdaq",
+   "9ziJiZpxEKY9ZLPKB8sTzj2x2v8X1pNpVPdTwXQRpump",
+   0.098,
+   2.6,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "PEPSIMAN",
    "4cKZtzifFJHt5Mj7sSXJxVJZx3GQwLcft97YDhGepump",
    0.084,
-   5.9,
+   6.9,
    ""
   ],
   [
    "pep",
    "ADfMgMG7gU3uPGsdiJe28xnYWNz1NdDoLDxhYYmzpump",
    0.083,
-   7.6,
-   ""
-  ],
-  [
-   "Socks",
-   "BGvATvRnnxokwykL5ZneUKbQLKd3AxCy6vWLhji3pump",
-   0.077,
-   4.0,
-   ""
-  ],
-  [
-   "TOD",
-   "7VRGpYbhvSbyqXhK7dtFUUXDrsz1B8oL1f2UjnCipump",
-   0.071,
-   3.3,
-   ""
-  ],
-  [
-   "ELONSTOCK",
-   "Ht5iQrinw933wzzHGNW1YSAK4vmtgAGy9k4j3c47pump",
-   0.062,
-   4.9,
-   ""
-  ],
-  [
-   "FLOYD",
-   "6rp7aGTRjF2NPKXAyaSQNpXRY6XEczvVpU57tdWypump",
-   0.055,
-   3.8,
+   8.6,
    ""
   ]
  ]
