@@ -6726,83 +6726,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:02:45",
+   "2026-10-30T01:03:45",
    32.58
   ]
  ],
- "cycles": 2788,
+ "cycles": 2789,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.11000000000001,
- "watching": 103,
+ "sol_usd": 97.08,
+ "watching": 93,
  "near": [
-  [
-   "LAZARUS",
-   "HWDp6Zh5yQyyXKTeYxFjYToxdikzWSBDfAzXYaCopump",
-   0.881,
-   5.6,
-   ""
-  ],
   [
    "RAMP",
    "DC7RcUA7JiwF3Rtdej1489hBUrVNNJy9ZJgj78uApump",
-   0.863,
-   4.8,
+   0.93,
+   5.8,
+   ""
+  ],
+  [
+   "LAZARUS",
+   "HWDp6Zh5yQyyXKTeYxFjYToxdikzWSBDfAzXYaCopump",
+   0.884,
+   6.6,
+   ""
+  ],
+  [
+   "HELIX",
+   "HoCSzpU9UG9oMJwStiD4EFWJtKN8Uauq9jpJzHN3pump",
+   0.183,
+   3.0,
+   "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "OI",
+   "743LW48ao2M7bf2fXvNai6y32pTudD1mGi7QDWJgpump",
+   0.132,
+   2.5,
+   ""
+  ],
+  [
+   "MEME COIN",
+   "GTwwV4rG3v1tHD6d1iVdwg14AMcULHvySU3rnJABpump",
+   0.072,
+   2.4,
    ""
   ],
   [
    "WOWNERO",
    "CsDuTjCBSLNpNGMhUTGYzAY5YqpixhA2ZdnF5VpHpump",
    0.072,
-   4.8,
-   ""
-  ],
-  [
-   "CRTX",
-   "GPAN7ZHaQZDpi1YyeKDgfPYHQPJdwQdrv1doPLf8mRcz",
-   0.047,
-   3.7,
+   5.8,
    ""
   ],
   [
    "CHIEF",
    "5pizYavuWdWhG8eoDzShQckY6G2HJBsbWbKbw4vdpump",
    0.03,
-   5.7,
+   6.7,
    "top5_hold_most=85%"
+  ],
+  [
+   "CRTX",
+   "GPAN7ZHaQZDpi1YyeKDgfPYHQPJdwQdrv1doPLf8mRcz",
+   0.03,
+   4.7,
+   ""
   ],
   [
    "LNTN",
    "BByJSeQ3jssnoFK9kwhu6eKQhwusDSZtpGm1Z1Bk6eUx",
    0.025,
-   5.2,
+   6.2,
    ""
   ],
   [
    "JIM",
    "6G3rt4HDWrD7PCVHmSesREkUCJ76vmwgk78QWiRdpump",
    0.022,
-   7.2,
-   ""
-  ],
-  [
-   "pepepill",
-   "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
-   0.018,
-   7.9,
-   ""
-  ],
-  [
-   "PRT",
-   "Vvq8VT8DTj5jiLRK8npu16sxD6d3oJDSkghYc8Xpump",
-   0.01,
-   8.4,
-   ""
-  ],
-  [
-   "SKEETA ",
-   "9zJ2ffoHrd7wL18WfJybSY1yw3scYD4Qx3Ac1hnupump",
-   0.006,
-   2.1,
+   8.2,
    ""
   ]
  ]
