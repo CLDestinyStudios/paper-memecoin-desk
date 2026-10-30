@@ -7030,84 +7030,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:47:51",
+   "2026-10-30T12:48:51",
    32.58
   ]
  ],
- "cycles": 3492,
+ "cycles": 3493,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.57181512125001,
- "watching": 266,
+ "sol_usd": 94.52671279501652,
+ "watching": 270,
  "near": [
   [
    "Blacklon",
    "Dff7vnLTfAzxJyUYvjGtyq8CG8AaSBeZ7aatmdjzpump",
-   0.951,
-   2.3,
+   0.97,
+   3.3,
    ""
+  ],
+  [
+   "CREATORS",
+   "FeMNVGRb2gzo18tFtkNDENmxMzuftLQ7KDi5KYqjpump",
+   0.585,
+   2.4,
+   "rugcheck=creator history of rugs"
+  ],
+  [
+   "GIGAWHALE",
+   "2UJaXHWfjWcq8oy7ZseJc8ZrpuPeF5JQyWKEwtpjpump",
+   0.346,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "USDF\u200a",
    "F8Q5oFZbeALemy9XUSMgpb2RjVBQSVKrUGywDVJbpump",
    0.137,
-   6.0,
+   7.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "PUSD",
    "4sneNyF5942bfnCtWwBZBKiwW52Qsfn5jEUdUupHU5v6",
-   0.107,
-   2.8,
+   0.11,
+   3.8,
+   ""
+  ],
+  [
+   "minecat",
+   "GyipyEw7qKJETYRc4eHrKu9Kh7WkeqBFXsR2jgNTpump",
+   0.109,
+   2.5,
+   "top5_hold_most=99%"
+  ],
+  [
+   "CALLCAT",
+   "FNrVjYJPtY9XMX9nfptU1XnAWGFg3hVpaEP4rMK3pump",
+   0.086,
+   2.1,
    ""
   ],
   [
    "Relax",
    "BuJgLHw1PijTH4FcEMMi7Zzenxr2p914H8pstoNYpump",
    0.08,
-   8.1,
+   9.1,
    ""
-  ],
-  [
-   "Influencer",
-   "2NGLmpCSGBUfSc3j1oXJ7vBUA4BCXEpEiri1kzhbpump",
-   0.076,
-   2.4,
-   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Mogrron",
-   "7RBruvyM7UNRf3gsuT8MHgSXdubCBeeNCv3A9EMppump",
-   0.075,
-   4.4,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "FRANK",
    "CtkxkHoexyZokin4Pb8dXX8TqGRet7XMEL5FcGeRpump",
    0.074,
-   3.4,
-   ""
-  ],
-  [
-   "LIFE",
-   "6GVRNnEzbXieoRiieRV6g2mH1zoXuhiSCwMhXG4cpump",
-   0.059,
-   9.2,
+   4.4,
    ""
   ],
   [
    "z1nger",
    "4yfTjJws4wnEwbW1ygBcmhCcQ3AemdZKAWFBZQEkpump",
    0.058,
-   3.0,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "TEST",
-   "FNqBPbzqz1kEqyGYpMiiMDQZYEh47ctufook7pQRcBwJ",
-   0.043,
-   7.2,
-   ""
+   4.0,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
