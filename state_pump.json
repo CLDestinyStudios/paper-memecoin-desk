@@ -6910,83 +6910,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:12:48",
+   "2026-10-30T08:13:49",
    32.58
   ]
  ],
- "cycles": 3217,
+ "cycles": 3218,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.19,
- "watching": 277,
+ "sol_usd": 95.15999999999998,
+ "watching": 308,
  "near": [
-  [
-   "rugun",
-   "5gbL26cVDkoe6RmFs5dBroshvmDQG6cu7dXw1Gcbpump",
-   0.391,
-   2.3,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "CatOn",
    "ByWRRy1rdBbYyjehiEsHq5YKZJoJNNdkyqNNhkEdpump",
    0.374,
-   8.9,
+   9.9,
    "buyers=9; creator=27.1%; top5_hold_most=97%"
+  ],
+  [
+   "UBER",
+   "7LnSSwAV33YyEdS94FwZ3GHiVPKXUb3gu16xBX17pump",
+   0.371,
+   4.8,
+   ""
   ],
   [
    "NEBULA",
    "Ge6n7haQnidP1UqUhKEEC1uxR4JkPUjEoZBwT6hspump",
    0.33,
-   5.4,
-   ""
-  ],
-  [
-   "UBER",
-   "7LnSSwAV33YyEdS94FwZ3GHiVPKXUb3gu16xBX17pump",
-   0.255,
-   3.8,
+   6.4,
    ""
   ],
   [
    "BBCINU",
    "E9sndvbLYiay27ofi7x67JupjjgYbEHVtXT3HoK4pump",
-   0.237,
-   2.6,
-   ""
-  ],
-  [
-   "FUTURE",
-   "9KMTGx9nyxidkHSToa6jYrRx2B5qjtqTUWeutoHKNaNu",
-   0.191,
-   4.6,
+   0.182,
+   3.6,
    ""
   ],
   [
    "$NNN",
    "3jTnwyNu9FdehmUk1S4ktGLUrvLnWi5iB95fvcWtpump",
-   0.108,
-   6.8,
+   0.115,
+   7.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "BBCINU",
-   "Fv2WyjWw1EkupFR1v5euCtN2cwPL87BTHajVwyMwpump",
-   0.1,
-   2.2,
-   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "FUTURE",
+   "9KMTGx9nyxidkHSToa6jYrRx2B5qjtqTUWeutoHKNaNu",
+   0.115,
+   5.6,
+   ""
   ],
   [
    "FIM",
    "89BV2ZVrYAnsm8hrNyxD4Eg7M1aY1RGm2xe2YVvYpump",
    0.084,
-   3.9,
+   4.9,
    ""
+  ],
+  [
+   "Gruffalo",
+   "66tsmFv3MV7bA2Qgav7VJQM3zE7V52Mqy9qRfgPtpump",
+   0.08,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "JR",
    "D4FyC5o1TDgqv1fz59g1VkrrBxdhQz7GM2Ce35pdpump",
    0.077,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "ELONTROLL",
+   "8qngGFNgyvmcdxY8F39SocD6pBxpZHdzYwCvq8XSpump",
+   0.064,
+   3.2,
    ""
   ]
  ]
