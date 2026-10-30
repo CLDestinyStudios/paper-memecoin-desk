@@ -7086,84 +7086,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:01:54",
+   "2026-10-30T15:02:54",
    32.58
   ]
  ],
- "cycles": 3626,
+ "cycles": 3627,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.30490629145,
- "watching": 245,
+ "sol_usd": 95.42000000000002,
+ "watching": 240,
  "near": [
   [
    "MLC",
    "BVKX5PSjw8g6xSE6NeiEjgrp1JHxenEL1qYgcEUYpump",
-   0.774,
-   3.1,
+   0.877,
+   4.1,
    ""
   ],
   [
    "KYAI",
    "8AquXFNfNVw8nX49oSRFpEMszTiSrT5XKTh1pPiJpump",
    0.486,
-   5.4,
+   6.4,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "HUMKEEP",
+   "5wS7w2ggDK5pZjhJfzNXKk8k5J9rEd2UqTjbeyowpump",
+   0.215,
+   6.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "RUSHY",
+   "2q6WYHGRWTkiiQLay1BALH4BHToWR6aWbixfNRgVpump",
+   0.214,
+   2.6,
+   "buyers=3; creator=16.4%; top5_hold_most=100%"
   ],
   [
    "MVA",
    "7L2r6fYmV5uTAG3sszW5b7UxKN6mYiaNr8SCMXH2pump",
-   0.166,
-   6.6,
+   0.179,
+   7.6,
    "buyers=8; top5_hold_most=99%"
   ],
   [
    "ADA",
    "9w13vXzRemzAuihfwxFzYAyKbMU8uevsnV2A1UDUpump",
-   0.128,
-   2.3,
-   "buyers=5; top5_hold_most=100%"
+   0.164,
+   3.3,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
-   "REAL",
-   "6nvxqCKu8edGBhbtVRXrMpbdLece38EJbTNV72Kepump",
-   0.113,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
+   "PERPS",
+   "6nZdc68nxa1vjJcumuA3opQ7XF8yUkMsG64x5cHEpump",
+   0.121,
+   2.2,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
-   "HUMKEEP",
-   "5wS7w2ggDK5pZjhJfzNXKk8k5J9rEd2UqTjbeyowpump",
-   0.09,
-   5.5,
-   "buyers=3; top5_hold_most=100%"
+   "MC",
+   "Fbov7QAK532Czo45WYcaXhzsBZECvyjvKjUB3Scvpump",
+   0.084,
+   2.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Fomoween",
    "D6TfZszLLEUPezw5ACPNycsrVA6YzVyWtdtjx8K1pump",
    0.083,
-   3.2,
+   4.2,
    ""
   ],
   [
    "AI",
    "9ubvGS58W52SN4hwUsSzZfdiB8TXKtahqUSdb2bGpump",
    0.083,
-   8.4,
+   9.4,
    ""
-  ],
-  [
-   "ICAT",
-   "2QYvgiqmLmFjFBfToqffbqBRB5Pot9kGohFasZDdpump",
-   0.083,
-   8.1,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "LeWASHED",
-   "WXRTFe7VtE8VxsQnnCkfXMGLqAPhWEKbAxU3prNpump",
-   0.056,
-   5.3,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
