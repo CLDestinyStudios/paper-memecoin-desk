@@ -6904,82 +6904,86 @@
   [
    "2026-10-30T07:57:45",
    32.58
+  ],
+  [
+   "2026-10-30T07:58:50",
+   32.58
   ]
  ],
- "cycles": 3202,
+ "cycles": 3203,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.35999978345001,
- "watching": 238,
+ "sol_usd": 94.33500000000001,
+ "watching": 234,
  "near": [
   [
    "UBER",
    "CfPMFmEDbLP883C198eBA55NF5oY3pwhg4khmhXFpump",
-   0.934,
-   5.6,
+   0.929,
+   6.7,
    ""
   ],
   [
    "GEORGE",
    "C3TrTxBLnqF6kJrkWNGfPyYF3TT8bu1ghD82GeJbpump",
-   0.748,
-   8.4,
+   0.697,
+   9.5,
    ""
   ],
   [
    "\u3164\u3164",
    "5RwqcTHaxyczcDFodkZPX8pay2fUyULy4CxKDEx1pump",
-   0.638,
-   3.9,
+   0.666,
+   5.0,
    ""
   ],
   [
-   "Polyform ",
-   "2t14q6Eq2dqKDExD4se8VqeG2Zx6niZGrJC17uPxpump",
-   0.27,
-   6.8,
-   ""
+   "OPSEC",
+   "5ckDHTJDZe4ZHEaawBY8xo5Tasz5poFVosGHNVd5pump",
+   0.365,
+   2.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "CATPAD",
    "8sYL6P8swhEYUbgvMcWFPMhUC6CCepeMXRFyYeWepump",
    0.159,
-   7.2,
+   8.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "OPTSOL",
    "26HeTKY2kbYHL1frxEinZWndhR3LEmYejDvfg2GVpump",
-   0.092,
-   3.2,
+   0.126,
+   4.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BROMANCE",
-   "HU1NV4so4qrWuC8VqxuAQ8aciqrcf9XyqtVmqTimN4bd",
-   0.046,
-   2.4,
+   "Boobies",
+   "AekmYR8j4hd2jErzkNQAJFXGrxZ7ffzTuKAnif1bpump",
+   0.12,
+   2.3,
    ""
   ],
   [
-   "DANGER",
-   "6GnqTfN9tNb7ZHkcHzmYqqEjy76h6Whrzuft9PeNpump",
-   0.045,
-   9.3,
-   "buyers=8; top5_hold_most=96%"
-  ],
-  [
-   "Chairman",
-   "8gh1NUSbEyuSXgp4Tr97kyCszwVuQXUJDPXiXvXrpump",
-   0.044,
-   5.3,
+   "Polyform ",
+   "2t14q6Eq2dqKDExD4se8VqeG2Zx6niZGrJC17uPxpump",
+   0.107,
+   7.9,
    ""
   ],
   [
-   "LANA",
-   "7XQCa35dTGuXu8iRsnmeTMgY18npj2Es992CS4LY9Lx",
-   0.044,
-   6.4,
-   ""
+   "DON'T BUY",
+   "AhsR3gg1B5HtfJb2hsn6vm2Hn33yDW4jidao2gJhpump",
+   0.064,
+   2.2,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MOON",
+   "7EG48fT9URxp8rv7LdKbrSFuyjgGjhQuS91TYBjMpump",
+   0.056,
+   2.1,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
