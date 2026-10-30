@@ -6966,84 +6966,84 @@
    32.58
   ],
   [
-   "2026-10-30T10:18:48",
+   "2026-10-30T10:19:53",
    32.58
   ]
  ],
- "cycles": 3343,
+ "cycles": 3344,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.995385,
- "watching": 301,
+ "sol_usd": 94.91,
+ "watching": 309,
  "near": [
   [
    "hyper",
    "hyperEbAsXD5NAFrMn3DrisZfog5kAnAN52XAVEAvrh",
-   0.938,
-   4.2,
+   0.935,
+   5.3,
    ""
   ],
   [
-   "Grok",
-   "Ap7rDV45B2fuoL84KhT58uv8pmQnXvLHeEb1HE2cpump",
-   0.442,
-   3.6,
-   "serial_creator=25 launches/24h"
+   "YUMI",
+   "2QHKtNp4QLSo4AphXV1sUbxBhric5CcWwyXsQ3bXpump",
+   0.231,
+   2.9,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "VERA",
-   "61wgsrbQVezcCRNY4uVrCkVtT3FSVQonVmq8SBHgYgpf",
-   0.262,
-   4.1,
-   "buyers=1; creator=20.8%; top5_hold_most=100%"
+   "AOB",
+   "D9BuAsPk2U1t1hf7bZVgHEocen94w4nCS87Rgv5j5D1T",
+   0.224,
+   3.1,
+   "serial_creator=124 launches/24h"
   ],
   [
    "GROK",
    "34De4m4LvfZUyg4WmrrhiYg2EDz8F9sf5ftTM8V4pump",
    0.166,
-   4.8,
+   5.9,
    ""
   ],
   [
-   "TI",
-   "F65qh8HzrhiobKxvTtqubAUwgtJXmRUhKdM1bb7apump",
-   0.154,
-   2.2,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "theovan",
+   "EWEaNBjjt97e359yzwD79GtLRgofTqFcp9oAExE4pump",
+   0.132,
+   2.4,
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "GOTUS",
    "2Vk8CnD1fvaHE3jTiE7y3jFvyYLmevsRxKmk6xfVpump",
    0.124,
-   7.3,
+   8.4,
    ""
-  ],
-  [
-   "KINGBEE",
-   "4UrHuCYjDPWTSusdSZsWfSMDBmD9t5odBgYU423spump",
-   0.119,
-   9.1,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SPI",
    "G5C57xYenmDd3rMtadQwjcNFJZhFtMMeivSoPtiVpump",
    0.117,
-   6.8,
-   ""
-  ],
-  [
-   "GOTUS",
-   "9pgeXSGFcCctBTJ5QoRYovgH4ASzGWsVQpJpAXfqpump",
-   0.096,
-   3.8,
+   7.9,
    ""
   ],
   [
    "GOTUS",
    "Dwb54hPmxTyNvvJtbfeC7w4vcJo7LKMXaJixP63ppump",
    0.094,
-   3.3,
+   4.4,
    ""
+  ],
+  [
+   "GOTUS",
+   "9pgeXSGFcCctBTJ5QoRYovgH4ASzGWsVQpJpAXfqpump",
+   0.09,
+   4.9,
+   ""
+  ],
+  [
+   "TARD",
+   "BkA3d1zprqrAnCuDjG8FtVJKwV5gTo1etZzcDC6Dpump",
+   0.088,
+   4.3,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
