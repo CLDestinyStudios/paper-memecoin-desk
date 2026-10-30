@@ -6652,59 +6652,49 @@
   [
    "2026-10-29T22:06:28",
    32.58
+  ],
+  [
+   "2026-10-29T22:07:27",
+   32.58
   ]
  ],
- "cycles": 2612,
+ "cycles": 2613,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.54,
- "watching": 148,
+ "sol_usd": 97.51745000000001,
+ "watching": 157,
  "near": [
   [
    "PUMPLIQUID",
    "3Gd5uuTCa948qkJhYgiQthPYL5DeMMXLACqyWwiKperp",
-   0.793,
-   6.3,
+   0.73,
+   7.3,
    ""
   ],
   [
    "PEA",
    "AcrxhJ1Py9NpC91DMMuAoT12bVof7umtAxCXy8xgpump",
    0.095,
-   2.6,
+   3.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "MONKEY",
-   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
-   0.08,
-   10.2,
-   ""
+   "CLAIM",
+   "41ZPRn6U5ALN7jd37gPkHfMVS1dBUVkV4CqnmYJppump",
+   0.079,
+   3.0,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "NWASB",
-   "Cd3T84yA29dTRaTkThGcABZQ8s9VHwbDZC7sRu7rpump",
-   0.036,
-   6.4,
-   ""
+   "Cumshot",
+   "HGqs7NdtxiRTpRpjU252z6hzWSsoqZSE3tZPZQ2pump",
+   0.068,
+   6.1,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Clauduck",
    "Fek3voanSLuG1n51NSFB74JYNX4EfU9G3NHp3wYPpump",
    0.028,
-   3.7,
-   ""
-  ],
-  [
-   "Cumshot",
-   "HGqs7NdtxiRTpRpjU252z6hzWSsoqZSE3tZPZQ2pump",
-   0.027,
-   5.1,
-   ""
-  ],
-  [
-   "ginger",
-   "GxuxoF3NVGUECrzYD1HqvKwCpt4xRJEJWAwtGUj6pump",
-   0.026,
    4.7,
    ""
   ],
@@ -6712,21 +6702,35 @@
    "pep",
    "DMDhj16u2XxCWRDWqjbSbzqGWgoQHB7ehvhMkkVXpump",
    0.022,
-   8.8,
+   9.8,
    ""
   ],
   [
-   "Hopcode",
-   "9JQucXcq5HAkXAYw6X9bnJFtT9ejPxRN1cv32UBHpump",
-   0.007,
-   5.9,
-   "buyers=4; top5_hold_most=100%"
+   "GTA & PS5",
+   "GM3bGmwMy6YjUyD56oiAWF41TuHThyNCX1Ykjx5ipump",
+   0.022,
+   2.8,
+   ""
   ],
   [
-   "$DRAINED",
-   "H45vMruQdjHdSLbHwSsNR7j2GjVoaXp9W2db5Yippump",
+   "itsover",
+   "5BVsCD7ta24XbNJSNN7X26mZXxFpDmz28xV4d3m5pump",
    0.007,
-   5.9,
+   3.1,
+   ""
+  ],
+  [
+   "KIM",
+   "253qBY3pLiQ5HYNNXxKj67QyiARtgFRfHUf4fxispump",
+   0.006,
+   4.9,
+   ""
+  ],
+  [
+   "10XEM",
+   "mHYW74pQmbW6CPybEfmpCskavn2uNKPXNxb7BeEpump",
+   0.005,
+   7.3,
    ""
   ]
  ]
