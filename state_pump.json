@@ -7060,81 +7060,85 @@
   [
    "2026-10-30T13:59:55",
    32.58
+  ],
+  [
+   "2026-10-30T14:00:51",
+   32.58
   ]
  ],
- "cycles": 3564,
+ "cycles": 3565,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.03,
- "watching": 274,
+ "sol_usd": 95.17784999999999,
+ "watching": 287,
  "near": [
   [
    "xpad",
    "EV116Y5Y6cYvcugmXwLVZPhbZus1NxV5WbArJxtUxxxx",
-   0.934,
-   5.9,
-   ""
+   1.0,
+   6.8,
+   "graduated"
   ],
   [
    "Roofer",
    "AoktuP1FjMjr8t9SgZ86a6UfFL9ozkUjn4trzFrhpump",
-   0.425,
-   2.5,
+   0.483,
+   3.4,
    ""
   ],
   [
    "Joey",
    "8QRpZwhBtTLBY1LeerMfh5AVsQFCpLq956tbiaJgpump",
-   0.303,
-   2.9,
-   "top5_hold_most=90%"
-  ],
-  [
-   "NOSFERINU",
-   "fhiV1LCNrB4znnLjKJArCPKwt2vwhBUsRfCsBKRpump",
-   0.2,
+   0.406,
    3.8,
-   ""
+   "top5_hold_most=99%"
   ],
   [
    "TUSK",
    "7TaiiwYPcMp1Uf4e8mAciHX7TScxRJpESWhNRbZVpump",
    0.192,
-   4.3,
+   5.2,
    ""
   ],
   [
    "HSCREAM",
    "HqewFrht1JJWsdh44aJQVdh26RDqgy6Y9FpMTUZKpump",
    0.172,
-   8.5,
+   9.5,
    "buyers=7; top5_hold_most=97%"
   ],
   [
-   "GREENLIT",
-   "3tg5xQBpuxax2hHY9CEWtSqw7DdcWx3ywdPqERE3pump",
-   0.15,
-   8.6,
-   ""
-  ],
-  [
-   "Joey",
-   "7NoP8kRb7BCC6fE51Syn1bSgeH1eifn9dWbdbYpHpump",
-   0.124,
-   6.8,
+   "NOSFERINU",
+   "fhiV1LCNrB4znnLjKJArCPKwt2vwhBUsRfCsBKRpump",
+   0.163,
+   4.8,
    ""
   ],
   [
    "CENT",
    "94KeuuH2A6LnuUpNkyx8Bus9dJ7aNeMDhrUKHtyJpump",
-   0.109,
-   2.5,
-   "buyers=6; top5_hold_most=89%"
+   0.091,
+   3.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "PTS",
-   "9a9HWnZdmhoLYTczoHiRoLdirT9iK2zQuEAMaT2Npump",
-   0.1,
-   6.9,
+   "GREENLIT",
+   "3tg5xQBpuxax2hHY9CEWtSqw7DdcWx3ywdPqERE3pump",
+   0.077,
+   9.6,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "NUDELON",
+   "HkHsTxYb3QTmLd8H8LyQtEQ2HLGTqUYwLyEPGauxpump",
+   0.069,
+   7.4,
+   ""
+  ],
+  [
+   "TUSK",
+   "Hy2Rzoj5knHoDHtdTraMRy6A8v5Sd5vyrezqf4cfpump",
+   0.069,
+   3.9,
    ""
   ]
  ]
