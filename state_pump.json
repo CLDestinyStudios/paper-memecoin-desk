@@ -6990,83 +6990,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:17:56",
+   "2026-10-30T11:18:54",
    32.58
   ]
  ],
- "cycles": 3402,
+ "cycles": 3403,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.07,
- "watching": 265,
+ "sol_usd": 94.14261678090001,
+ "watching": 261,
  "near": [
+  [
+   "Gemma",
+   "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
+   0.744,
+   3.1,
+   ""
+  ],
   [
    "RKC",
    "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
-   0.617,
-   7.2,
+   0.613,
+   8.2,
    "buyers=8; top5_hold_most=95%"
-  ],
-  [
-   "Trip",
-   "6c1FCbP2yHcjTRdsYuSxfLUfUq7oFn8J6goY56mdpump",
-   0.585,
-   9.4,
-   "buyers=8; creator=45.9%; top10=46.4%; top5_hold_most=100%"
   ],
   [
    "FAST",
    "2tU8s8nM4cDLqy7SQSXjEDJWygFGrVF3Ze8SDdHRpump",
-   0.459,
-   7.3,
+   0.458,
+   8.2,
    ""
-  ],
-  [
-   "LC",
-   "CWR4jwdo3xkMmhjLJU9xLBAMCUVKcVeaWT2yko6Vpump",
-   0.366,
-   4.0,
-   "top5_hold_most=91%"
-  ],
-  [
-   "PRIORS",
-   "kwo9AmxtrN1E9KBgeET35ysQta1KykxHTHrJqyGifu9",
-   0.305,
-   5.1,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "moonstone",
    "7sziDtWdLkfYTUiLbB9FALz2HLza7gFL6c133rLZpump",
-   0.23,
-   2.4,
-   "buyers=9"
+   0.225,
+   3.3,
+   "buyers=8; top5_hold_most=81%"
   ],
   [
    "MONARCH",
    "9qoMYDa9DSpD9fNtJY4Uho5bwpH2BKZJh4rWRXKupump",
    0.155,
-   2.4,
+   3.3,
    "top5_hold_most=83%"
+  ],
+  [
+   "FTK",
+   "J5Epk2Mm33pNqn5QdFgp7EGGu1quYngUhih3GX4upump",
+   0.11,
+   2.6,
+   "buyers=8; top5_hold_most=82%"
+  ],
+  [
+   "Niggerfish",
+   "2j9wC2C7hnAMmGrUeyB77C8646YjziFHbzJfEcALpump",
+   0.1,
+   3.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "TWIGGY",
    "HHqqhMymdnbpJ7xjwrTVRf6PsyaR2RtCpMPqwi5Spump",
    0.071,
-   3.2,
+   4.1,
    ""
   ],
   [
    "Saraya",
    "3h6vwAaT7drccNeWxu8sTtMz3ZzpbL9cNqZAqswTpump",
    0.043,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "PUMPKIN",
-   "3Z8CB46JKT1wRz21sBty8u6DGQwesU7DywSpzfdXAoy6",
-   0.033,
-   7.1,
+   "PUMPKAT",
+   "81cpwxGFD26oSoXSPTWeRVceP53EzhWAya5DLhWmpump",
+   0.029,
+   2.5,
    ""
   ]
  ]
