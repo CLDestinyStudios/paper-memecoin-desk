@@ -6670,83 +6670,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:52:17",
+   "2026-10-29T22:53:18",
    32.58
   ]
  ],
- "cycles": 2658,
+ "cycles": 2659,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.075,
- "watching": 169,
+ "sol_usd": 97.9288,
+ "watching": 180,
  "near": [
-  [
-   "Loki",
-   "LTi68P59ZHGYYvHmndLnbKrcUnHPQW11952Y8URpump",
-   0.59,
-   2.8,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "GrokTyson",
    "2jvFu3STgRCyDz9WzbyFs5m2AB28UHy2aT6nuPwypump",
-   0.107,
-   5.9,
+   0.106,
+   7.0,
    "top5_hold_most=94%"
+  ],
+  [
+   "SLE",
+   "81HwC8thyK5wN9TkuDdMVLKpdBgE21ii6DRmwN61pump",
+   0.104,
+   2.5,
+   ""
   ],
   [
    "poppy\u2019B",
    "6L7ssV1gAVMziUtALsJ1bnJ34nNamrqM7ZEk8pqHpump",
-   0.083,
-   5.0,
+   0.087,
+   6.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "WASTED",
-   "Ao7YZB2wWjXPVQnJigpP4bN5hiwaM5VcBAWmtEUihfK1",
-   0.039,
-   2.8,
+   "MEMELIQUID",
+   "FMnor9gM7PRjrbK7AM72SDqorTi3J4puo37xLqmaA6sh",
+   0.076,
+   2.7,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Erc",
+   "Ba6NQKasQJi1TcnLQte9Zod5N8jxrYjF8SCwJJoCMCgr",
+   0.074,
+   2.1,
    ""
   ],
   [
    "LATEAGAIN",
    "EXmommCBHiy6TLLoo2aBbLHHruksVZWMqNxj38Hrpump",
    0.03,
-   3.6,
+   4.6,
    ""
   ],
   [
    "WARS",
    "81Zku8ZWj5vv1S1CMTuX831Rn1naF5cCkdpzmj9pump",
    0.025,
-   6.8,
+   7.8,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "AOI",
    "sowgT1nBLSN4GKv9c4wPsKMzC6jVLBtSnRu7VEvpump",
    0.021,
-   3.2,
+   4.2,
    ""
   ],
   [
    "FUT",
    "9Hsxh4AKFW3jkEW9uobznu3uSHQEka5JDEEuthjopump",
    0.014,
-   8.0,
+   9.0,
    ""
   ],
   [
    "IROKOKO",
    "CL268F8rUsj7pyuQhmisZuQCXeEv7J8gZus7xNdmpump",
    0.013,
-   5.8,
-   ""
-  ],
-  [
-   "SON",
-   "7N5GkkxrJgXCM9EdkGizKPu8KytZYDACtyh47HFJpump",
-   0.011,
-   4.7,
+   6.8,
    ""
   ]
  ]
