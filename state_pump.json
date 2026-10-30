@@ -7086,84 +7086,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:06:53",
+   "2026-10-30T15:07:52",
    32.58
   ]
  ],
- "cycles": 3631,
+ "cycles": 3632,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.40324475394998,
- "watching": 308,
+ "sol_usd": 95.38413310095001,
+ "watching": 317,
  "near": [
   [
-   "BANKER",
-   "oLMoTt1bJbtPtY2QXmhWLneYYGXdZcLEeCwjuDRBANK",
-   0.573,
-   4.5,
+   "MIP",
+   "AjzaGJrXFrmDs8RqCPZgHGibXT7KagGETztiZMS4pump",
+   0.975,
+   2.1,
    ""
   ],
   [
-   "ToT",
-   "CJPs9SJin2tUPbd84j5bE9RCLTZxDniRykZnpyiipump",
-   0.517,
-   5.1,
+   "BANKER",
+   "oLMoTt1bJbtPtY2QXmhWLneYYGXdZcLEeCwjuDRBANK",
+   0.564,
+   5.5,
    ""
   ],
   [
    "\u20a9",
    "CsqmvnE2Qft5nrGcpDxfhjVGrYDW9Su1jKSSwY8Epump",
-   0.47,
-   3.7,
+   0.466,
+   4.7,
    ""
   ],
   [
    "DEGENPILOT",
    "GhoABtk8uxcJNKX1Wx82VhWRmfRPg8tX9kp2j8TMpump",
-   0.445,
-   5.9,
+   0.443,
+   6.9,
+   ""
+  ],
+  [
+   "ToT",
+   "CJPs9SJin2tUPbd84j5bE9RCLTZxDniRykZnpyiipump",
+   0.273,
+   6.1,
    ""
   ],
   [
    "RUSHY",
    "2q6WYHGRWTkiiQLay1BALH4BHToWR6aWbixfNRgVpump",
    0.218,
-   6.5,
+   7.5,
    "buyers=4; creator=16.4%; top5_hold_most=100%"
+  ],
+  [
+   "FIVEBRO",
+   "AWgfyhCxsYxM2Xm1Mc1nLiG9fKxPie6jPZgPRX481YoB",
+   0.215,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "ADA",
    "9w13vXzRemzAuihfwxFzYAyKbMU8uevsnV2A1UDUpump",
    0.159,
-   7.3,
+   8.3,
    "buyers=8; top5_hold_most=97%"
   ],
   [
    "AI",
    "3G27zANaE3NVqAe9MvBoF6SumEzScBKQMgN87ymepump",
    0.097,
-   4.3,
+   5.2,
    ""
   ],
   [
-   "MC",
-   "Fbov7QAK532Czo45WYcaXhzsBZECvyjvKjUB3Scvpump",
-   0.084,
-   6.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "RALPH",
-   "3dnBmJu9wuo8wweVR7EGNsity8Es4KfWKTe1qioaHRkR",
-   0.077,
-   6.0,
+   "iPhone 3G",
+   "AHoTm7Up6pykoQJ3n3tELcX5FVswZb2oufsg2WNSpump",
+   0.088,
+   2.3,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Fomoween",
-   "D6TfZszLLEUPezw5ACPNycsrVA6YzVyWtdtjx8K1pump",
-   0.066,
-   8.2,
-   ""
   ]
  ]
 }
