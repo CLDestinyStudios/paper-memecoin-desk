@@ -6606,84 +6606,84 @@
    32.58
   ],
   [
-   "2026-10-29T20:15:18",
+   "2026-10-29T20:16:17",
    32.58
   ]
  ],
- "cycles": 2501,
+ "cycles": 2502,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.43,
- "watching": 273,
+ "sol_usd": 95.36889505824998,
+ "watching": 268,
  "near": [
   [
-   "SICoin",
-   "4fd6wHAiTRmyV8gc4o6XhjbhELsg5XVavQcAVBkNjUED",
+   "SIC",
+   "FhQruYG9wyDSX2udafxHidFkxmQpGKJLccsztSWVpump",
    1.0,
-   2.2,
+   2.4,
    "graduated"
   ],
   [
    "SIC",
-   "3R2f4s5aeCLFQuWNKSvJSRXXfMT4wAB8ZFbQosxTpump",
+   "28zoP8nAqB6i5b8j5LNwnTuUJoo1dvR3YRoHbWwrpump",
    1.0,
+   3.0,
+   "graduated"
+  ],
+  [
+   "CHINGLING",
+   "4jSsaqReY5g5u82Qpy3wH7zhbGEDDiEVyR32qc2jpump",
+   0.396,
    2.1,
-   "graduated"
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "SIC",
-   "2Y4VPwbVatx3zFZkQb9S2avVqe26gMsGpWhGA5swpump",
-   1.0,
-   2.2,
-   "graduated"
-  ],
-  [
-   "se/accinu",
-   "6DW3pbp8CrvHLdG1jRAhsM4nnU9cAkDrxoSLHtiipump",
-   0.174,
-   2.5,
-   "buyers=8; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "DPRK",
-   "GiJXY4hE9koMCgRJQ6XSRXAoiDBQncMpdMecfmUHpump",
-   0.116,
-   4.8,
+   "SI",
+   "5cC6RZeeAA46CoUvwFAqw1ZRVk7mfsCe8U17PcsqSCm6",
+   0.19,
+   2.1,
    ""
   ],
   [
-   "Micromeme",
-   "AXum2CMZWww6FafRUvQpcrXJT8VqF1LHmLuQYUEFpump",
-   0.114,
-   8.4,
+   "SI",
+   "FbjZDLrwXbSwcWq6kgKehLu7JHbzZPiokiwPKgzoQJq1",
+   0.156,
+   2.7,
+   ""
+  ],
+  [
+   "SICoin",
+   "F28QE2ZwoDTGtCLpBEATAhMwyDf9Ja9q2dN6B5cHpump",
+   0.123,
+   2.5,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "SIC",
+   "Jm326Ldm4QhePqKTqkWeASqZXmfq9gW6atMvxeWpump",
+   0.122,
+   2.7,
+   ""
+  ],
+  [
+   "SI",
+   "3WnZg3NgSR11dhRE68HqFoFSf5asTqXXi2FNMDCVpump",
+   0.103,
+   3.0,
    ""
   ],
   [
    "SI",
    "2yYgKbuAusfkzgjSKRJa6Tmmb63vzKatj332XkPra9Gn",
    0.098,
-   2.1,
+   3.1,
    ""
   ],
   [
-   "SIA",
-   "66PbE5Ygeatyje2FuWY1GwTcu4DdekciPDMCtpYEpump",
-   0.089,
-   2.2,
+   "DPRK",
+   "GiJXY4hE9koMCgRJQ6XSRXAoiDBQncMpdMecfmUHpump",
+   0.093,
+   5.8,
    ""
-  ],
-  [
-   "SIA",
-   "5rSfnykhsofJvbo6RxaZKU56rjxfyTxd2CgvkF1epump",
-   0.07,
-   2.3,
-   ""
-  ],
-  [
-   "BLU",
-   "Hirpx3nF29rALk7mXVGEkA3eFvFA7UowBUFUgXdipump",
-   0.066,
-   7.4,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
