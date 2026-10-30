@@ -6798,84 +6798,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:44:46",
+   "2026-10-30T03:45:45",
    32.58
   ]
  ],
- "cycles": 2950,
+ "cycles": 2951,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.9639717834,
- "watching": 216,
+ "sol_usd": 96.98087347110001,
+ "watching": 211,
  "near": [
+  [
+   "HUGE",
+   "2Y2BzPy4MmaXbwWRogEdFLVyBXjKZR8VfhHHy8XUpump",
+   0.935,
+   2.4,
+   ""
+  ],
+  [
+   "DAEMON",
+   "2211sKbQxtB84KD6e73ZEKar8vRYpNyqfpg8QX3Tpump",
+   0.659,
+   2.6,
+   ""
+  ],
   [
    "SBF",
    "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
    0.288,
-   6.0,
+   7.0,
    ""
   ],
   [
    "ke3d",
    "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
-   0.26,
-   2.8,
-   "buyers=6; top5_hold_most=100%"
+   0.264,
+   3.8,
+   "buyers=7; top5_hold_most=100%"
   ],
   [
    "ATONKY",
    "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
-   0.218,
-   3.5,
-   "top5_hold_most=84%"
+   0.252,
+   4.5,
+   "top5_hold_most=86%"
   ],
   [
-   "BOOT",
-   "CbRjhyAjgzusCdgFZvhaAX9ivy3BVWEvnbeK4v1upump",
-   0.164,
-   2.8,
-   "buyers=7; top5_hold_most=100%"
+   "COFFIN",
+   "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
+   0.183,
+   2.4,
+   "buyers=7; top5_hold_most=91%"
   ],
   [
    "retire",
    "GqbUtirLXbtoXQGLwmUqYto8QB7VAVthwURzTY2tpump",
-   0.163,
-   3.2,
-   "buyers=5; top5_hold_most=100%"
+   0.164,
+   4.2,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "BOOT",
+   "CbRjhyAjgzusCdgFZvhaAX9ivy3BVWEvnbeK4v1upump",
+   0.133,
+   3.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "VICE",
    "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
    0.133,
-   6.1,
+   7.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "TCARD",
-   "BsFpew6D1QdpavPNmaQ8LxfV5Be5vZT1YvoRZspNpump",
-   0.131,
-   5.1,
-   ""
-  ],
-  [
-   "SEC",
-   "25MxGYB464N6PcGj7xjVCzSNQc7ftF9YXih4Kx9Lpump",
-   0.122,
-   7.1,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "DAEMON",
-   "ESc76WZx8eVT5g9fbF8pYhRE7Ekjm4pEnE1BpjgHpump",
-   0.08,
-   5.1,
-   ""
-  ],
-  [
-   "Simulation",
-   "AMcTY66sMYfnL4KLQT7C55a9CAiMwKY5nPzPapVkvt1z",
-   0.074,
+   "HUGE",
+   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
+   0.13,
    4.3,
-   ""
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
