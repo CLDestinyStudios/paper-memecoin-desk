@@ -6714,83 +6714,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:30:45",
+   "2026-10-30T00:32:00",
    32.58
   ]
  ],
- "cycles": 2756,
+ "cycles": 2757,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.02000000000001,
+ "sol_usd": 98.04,
  "watching": 117,
  "near": [
   [
-   "mclaren",
-   "E7BSNwVvte4z1WN4tqmn5k6Q6N8mKxg4vVRQr3Stpump",
-   0.163,
-   5.7,
+   "GTALAMBO",
+   "2FWMECMKWXdA5PVaizQda4tP2RAB1Dhk8bTpibk6pump",
+   0.554,
+   2.5,
+   "creator=42.8%; top5_hold_most=99%; launch_slot=missing"
+  ],
+  [
+   "inucrypted",
+   "2RkoEoLw4Vf7UU6mru29jESbnLkUaEaXQZ6qbnDKpump",
+   0.216,
+   3.3,
    ""
   ],
   [
    "MOTION",
    "CMemFskn9VxQsS2CNA43S9H8oo4HASD3JApFB6hvpump",
    0.157,
-   5.7,
+   7.0,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "mclaren",
+   "E7BSNwVvte4z1WN4tqmn5k6Q6N8mKxg4vVRQr3Stpump",
+   0.149,
+   7.0,
+   ""
   ],
   [
    "HYPERPAD",
    "3vSJwwLeke6BP2du3ZhEe4BaEaZ7NaUNk9d1tRcepump",
    0.128,
-   8.3,
+   9.6,
    "buyers=2; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "inucrypted",
-   "2RkoEoLw4Vf7UU6mru29jESbnLkUaEaXQZ6qbnDKpump",
-   0.081,
-   2.0,
-   ""
-  ],
-  [
-   "catzilla",
-   "6zriwPDecKVK28ejaLzUqK1AUgS4jx2n3wtphbnjpump",
-   0.077,
-   6.8,
-   ""
-  ],
-  [
-   "Aiden",
-   "6zyL6fH3sVxFrLvxQdxzCBixzGDHSQEU8yoHQoufpump",
-   0.075,
-   3.4,
-   ""
   ],
   [
    "wellness",
    "HTR8wGiEpqSBsETWwNinMppEgNGCuZpmGWgVHw44pump",
    0.043,
-   4.9,
+   6.2,
    ""
   ],
   [
    "mclaren",
    "HdinDwZVH8Qj66ehK2NiBGYvtSeow5oajGysp15spump",
-   0.035,
-   4.8,
+   0.041,
+   6.1,
+   ""
+  ],
+  [
+   "2049",
+   "8aVs9JNbvHxeouMEGXfHd3tK8hxQK2PAchoA3fd5pump",
+   0.037,
+   3.1,
    ""
   ],
   [
    "SOG",
    "At9Ft6bavk8fpAfXQAPRJ2eM5msnse4cKpTtvXnjpump",
-   0.02,
-   4.9,
+   0.024,
+   6.1,
    ""
   ],
   [
-   "GTAVI",
-   "3fn4un3Htj8Pqu115fc5GbNRktdYCreKLLe2ppfZpump",
-   0.02,
-   3.7,
+   "Moonero",
+   "6Y1T21TwVQeTRJQZja2cqrL4hBCStykjC7qLr7Kjpump",
+   0.021,
+   3.0,
    ""
   ]
  ]
