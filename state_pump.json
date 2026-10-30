@@ -6682,84 +6682,84 @@
    32.58
   ],
   [
-   "2026-10-29T23:13:17",
+   "2026-10-29T23:14:15",
    32.58
   ]
  ],
- "cycles": 2679,
+ "cycles": 2680,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.886892032535,
- "watching": 211,
+ "sol_usd": 97.96360499999999,
+ "watching": 214,
  "near": [
-  [
-   "FUN",
-   "7GsdsGVgvB7CqWr6VM9HX6RUWXk4m4nsEZFLVyMypump",
-   0.176,
-   3.6,
-   "top5_hold_most=96%"
-  ],
-  [
-   "FULL",
-   "95favmQ14rZGP7Hw9VRdgPKTeDEF8CUHqBrAvFTcemNe",
-   0.146,
-   3.5,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "YDAY",
-   "pY82Y7ebdcgzVocAV51oEio7pEMAwjgB4kQnZs3pump",
-   0.102,
-   9.2,
-   "buyers=3; top5_hold_most=100%"
-  ],
   [
    "Bald",
    "8CxX2MF2HvdUYx1f5SJPNNejHn9RDS7jw6xmaVVapump",
    0.063,
-   5.5,
+   6.4,
    ""
   ],
   [
-   "Hash ",
-   "8kNmZbV7vzEsrzsJTQjCYj37PAF9iJpv3rfDcJHppump",
-   0.045,
-   3.9,
+   "MAX",
+   "HQrRySEs1b3Xu9ufagGX7CYGwwDwowatd9EEQ7d4pump",
+   0.044,
+   2.9,
    ""
-  ],
-  [
-   "PUMPETUALS",
-   "F7BtUfbEvoqyBnyWq4o6cei9NPQDVEWFTo1SDtAjpump",
-   0.045,
-   9.3,
-   "top5_hold_most=89%"
   ],
   [
    "NICO",
    "8B9wqpF4E6VBCWT2Zu1LQmzFxSjgGMKC6ZWdWRJKpump",
    0.032,
-   6.1,
+   7.0,
+   ""
+  ],
+  [
+   "Hash ",
+   "8kNmZbV7vzEsrzsJTQjCYj37PAF9iJpv3rfDcJHppump",
+   0.024,
+   4.8,
    ""
   ],
   [
    "Toly",
    "EfnDiMCZLSLjPoQckYpVDUUgjWdeScbTq7QdsA9qpump",
    0.018,
-   3.7,
+   4.6,
    ""
   ],
   [
    "HOOD",
    "87yPD2asxYoXGTgx9Z2fkp2fWqMdSAMqZKHtVE5Rpump",
    0.006,
-   2.7,
+   3.6,
    ""
   ],
   [
-   "HOUSE",
-   "b6Cm9tsgSqDkUaFshQTwAi3B6nvAxECQkqYfG8xpw3i",
-   0.005,
-   6.3,
+   "FULL",
+   "95favmQ14rZGP7Hw9VRdgPKTeDEF8CUHqBrAvFTcemNe",
+   0.006,
+   4.5,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Hallomeme",
+   "GCHAkmskFCqE5z4UHKaLbQcvb5JJByiCNaudNRwRpump",
+   0.004,
+   7.5,
    ""
+  ],
+  [
+   "SOLMOG",
+   "8HvL8PS8FFXFigiU1wh9bbeqyb9Eg7cKFsy8Mgnzpump",
+   0.004,
+   7.9,
+   ""
+  ],
+  [
+   "FUN",
+   "7GsdsGVgvB7CqWr6VM9HX6RUWXk4m4nsEZFLVyMypump",
+   0.003,
+   4.6,
+   "top5_hold_most=96%"
   ]
  ]
 }
