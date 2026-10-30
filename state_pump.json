@@ -6990,83 +6990,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:15:58",
+   "2026-10-30T11:16:57",
    32.58
   ]
  ],
- "cycles": 3400,
+ "cycles": 3401,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.345,
- "watching": 271,
+ "sol_usd": 94.23434731789999,
+ "watching": 269,
  "near": [
   [
    "Trip",
    "6c1FCbP2yHcjTRdsYuSxfLUfUq7oFn8J6goY56mdpump",
-   0.542,
-   7.4,
-   "buyers=9; creator=42.3%; top5_hold_most=100%"
-  ],
-  [
-   "LLM",
-   "GF2omBTykj22LvRCLwybn5bN1SdvadaUYzveUQVdpump",
-   0.481,
-   2.4,
-   "bundled_launch=4 extra buys in creation block"
+   0.571,
+   8.4,
+   "buyers=9; creator=44.8%; top10=45.3%; top5_hold_most=100%"
   ],
   [
    "FAST",
    "2tU8s8nM4cDLqy7SQSXjEDJWygFGrVF3Ze8SDdHRpump",
-   0.47,
-   5.3,
+   0.473,
+   6.3,
    ""
+  ],
+  [
+   "LC",
+   "CWR4jwdo3xkMmhjLJU9xLBAMCUVKcVeaWT2yko6Vpump",
+   0.271,
+   3.0,
+   "top5_hold_most=85%"
   ],
   [
    "TYGR",
    "22uNxofnMEmUsqSNAYgkCjMMEez4pPPdcKoiSVRzpump",
-   0.248,
-   8.8,
+   0.251,
+   9.8,
    "buyers=3; creator=17.5%; top5_hold_most=100%"
   ],
   [
-   "XTO",
-   "7MBrCNUU9VGEFxJ15TzNaC41zfu1j9u8HkpR7CSKpump",
-   0.191,
-   9.7,
-   "buyers=1; creator=15.2%; top5_hold_most=100%"
+   "RKC",
+   "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
+   0.181,
+   6.2,
+   "buyers=8; top5_hold_most=95%"
   ],
   [
-   "GSOL",
-   "6zkqEhBP8DtZhhWiKTHddB1oRCw4icJcqRpJ27LCpump",
-   0.135,
-   5.1,
-   "rugcheck=creator history of rugs"
+   "Tatiana",
+   "F1x5P6suErpQuuthvRtUXabghfi47jehJTr5VeQApump",
+   0.083,
+   2.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "TYGR",
-   "13jw5ue1SQXfU9868Z44GHnn8YZdFAPyivkFgXvzpump",
-   0.127,
-   7.3,
-   ""
-  ],
-  [
-   "TYGR",
-   "Ajwi3HKcTffNLN3xaY9QVQ3ogeQwKMxbhrD3mNfKpump",
-   0.064,
-   10.1,
+   "TWIGGY",
+   "HHqqhMymdnbpJ7xjwrTVRf6PsyaR2RtCpMPqwi5Spump",
+   0.071,
+   2.2,
    ""
   ],
   [
    "PRIORS",
    "kwo9AmxtrN1E9KBgeET35ysQta1KykxHTHrJqyGifu9",
    0.063,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "RKC",
-   "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
-   0.055,
-   5.2,
+   "Saraya",
+   "3h6vwAaT7drccNeWxu8sTtMz3ZzpbL9cNqZAqswTpump",
+   0.043,
+   3.6,
+   ""
+  ],
+  [
+   "PUMPKIN",
+   "3Z8CB46JKT1wRz21sBty8u6DGQwesU7DywSpzfdXAoy6",
+   0.033,
+   6.1,
    ""
   ]
  ]
