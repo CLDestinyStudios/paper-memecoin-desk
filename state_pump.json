@@ -6786,83 +6786,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:22:47",
+   "2026-10-30T03:23:46",
    32.58
   ]
  ],
- "cycles": 2928,
+ "cycles": 2929,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.37,
- "watching": 163,
+ "sol_usd": 96.3914889556,
+ "watching": 160,
  "near": [
   [
    "BACK",
    "2i9L11afDgRpiu6ZeKU5UwESX9fxJ1gss8d19jzppump",
-   0.6,
-   4.8,
+   0.674,
+   5.8,
    ""
   ],
   [
-   "SPAD",
-   "8ENwXpd9QswEoJCU2LcxuGTpSTvRCycrnj7rxSFwpump",
-   0.335,
-   2.1,
-   "bundled_launch=5 extra buys in creation block"
+   "SC",
+   "EKeMVYySs24sE4ah2ABy5kg63TfbeU89JxbbpMHMpump",
+   0.465,
+   2.0,
+   "buyers=3; creator=36.9%; top5_hold_most=100%"
   ],
   [
    "BRO",
    "ArTpndFzo5J2L9m9d5UmEXFMRSqpV6JH9TDdE8uSpump",
    0.11,
-   4.2,
+   5.2,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "ELONTROLL",
+   "Gwn7QwBPpvN6r82McNR4YU2MWuPo1pTHXsQkk8hmpump",
+   0.089,
+   2.9,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "CZs",
    "4KBwBnzNz3Q6JpVQzqtUoPAhDmRxDAj71oWRtHdipump",
    0.068,
-   6.0,
+   7.0,
    ""
   ],
   [
    "PnutCall",
    "GcnMDZifUJRTW9RiBW8mnVUCV9kN5VBYb21A3XNFpump",
    0.066,
-   8.9,
+   9.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "CZVSELON",
    "6cCrziWENDCw4HXxrV39synxgGZMRpKFMgscPAtTpump",
    0.045,
-   4.2,
+   5.1,
    ""
   ],
   [
    "NARRAGEN ",
    "D2WhU34278BJgTDzLdcr53ePZqbWz55rkrHzAkzLpump",
    0.035,
-   6.4,
+   7.4,
    "buyers=7; top5_hold_most=96%"
   ],
   [
    "MummyGuy",
    "j5RCEp9PcLt75w1i2Rwj3rRSSzH1UnS9FTwqGS2pump",
-   0.032,
-   3.9,
+   0.031,
+   4.9,
    ""
   ],
   [
    "YOBA",
    "3t7ZkW7gVs9DmuaAeNJZw9FxvfvQvUofF3SVf6Yapump",
    0.03,
-   3.9,
-   ""
-  ],
-  [
-   "HRD",
-   "EPkpr81p71DZYypxrFqZh69x1s2mNkHm4Jy8UGPLpump",
-   0.025,
-   8.6,
+   4.8,
    ""
   ]
  ]
