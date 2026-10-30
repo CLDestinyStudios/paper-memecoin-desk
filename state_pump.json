@@ -6530,84 +6530,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:23:13",
+   "2026-10-29T17:24:04",
    32.58
   ]
  ],
- "cycles": 2329,
+ "cycles": 2330,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.07481964255,
- "watching": 229,
+ "sol_usd": 93.11000000000001,
+ "watching": 231,
  "near": [
-  [
-   "PERC",
-   "FPyLGF5sSe4Cs6kZPpsHrH1TykgwYxm2syjMLsQhPERC",
-   0.524,
-   2.6,
-   ""
-  ],
   [
    "ANSEM",
    "45tG6xTJdTwKxg3GxrfizAC8hhRZkQc5BXseX4FLpump",
-   0.239,
-   7.2,
+   0.238,
+   8.0,
+   ""
+  ],
+  [
+   "PERC",
+   "FPyLGF5sSe4Cs6kZPpsHrH1TykgwYxm2syjMLsQhPERC",
+   0.194,
+   3.5,
    ""
   ],
   [
    "CASHINU",
    "GuZYgig9EFSm9LPj8uU7qAKRQT6A2nMWL2tJ7DPspump",
-   0.169,
-   2.4,
-   ""
-  ],
-  [
-   "Bear",
-   "He3BCrm8tiAK2JQayLJ9EA1b2aeVthDHj4WWpGKdpump",
-   0.149,
-   7.4,
+   0.159,
+   3.2,
    ""
   ],
   [
    "ONELIFE",
    "4L4c7m67kHxywTPu4RG6gf2VogAPQF177MTvvLPapump",
-   0.146,
-   3.2,
-   "buyers=4; top5_hold_most=100%"
+   0.153,
+   4.0,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
-   "Bear",
-   "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
-   0.115,
-   9.8,
+   "cat",
+   "HJWug7fk3SRecGGvQAdTEbUGdUyJShRvxX9BPhUecLC1",
+   0.149,
+   2.1,
    ""
   ],
   [
-   "Ryan",
-   "B13AFHAHHX9veMB3mMwfrDpoKKmWDvUvyuqx9kwMpump",
-   0.11,
-   3.7,
+   "Ansem",
+   "6kXGnYBJFQYKNc888YNEYLMvf5apwza9PAEQpVXspump",
+   0.095,
+   6.9,
    ""
   ],
   [
    "SWAN",
    "5sBeBZd6FefZS3sj95VYme49W7PhuU9BtdcZd7c6SkvN",
    0.072,
-   2.6,
-   ""
-  ],
-  [
-   "ansum",
-   "7Aw3muh2QvEkEpBcPWgfLZwTbbWYv9hQJSJMXuhXpump",
-   0.072,
-   9.8,
+   3.4,
    ""
   ],
   [
    "Nigel",
    "9DgHGBtqJG7oh3hp4pNC9VuQRjaM2T2KQAWhzYuypump",
    0.071,
-   7.7,
+   8.6,
    ""
+  ],
+  [
+   "CZ",
+   "Hv4WC5g6C3bPeC1tdriLAXjDCaR2mWeRAYvuxcbzpump",
+   0.067,
+   8.4,
+   ""
+  ],
+  [
+   "Akrab",
+   "68ktuU94YSJ2hKVp9UbfzpARyZoTbuxJWeafEmripump",
+   0.053,
+   4.5,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
