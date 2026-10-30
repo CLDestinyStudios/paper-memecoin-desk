@@ -7116,82 +7116,86 @@
   [
    "2026-10-30T16:13:05",
    32.58
+  ],
+  [
+   "2026-10-30T16:13:59",
+   32.58
   ]
  ],
- "cycles": 3697,
+ "cycles": 3698,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.80404940745001,
- "watching": 262,
+ "sol_usd": 95.8312772572,
+ "watching": 261,
  "near": [
-  [
-   "RUMP",
-   "9aKPB6fhTGzGxuDSk59rJKiE8tNexYkLH7yastBbpump",
-   0.39,
-   4.1,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "CHIP",
-   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
-   0.324,
-   8.9,
-   "launch_slot=missing"
-  ],
   [
    "LSTV",
    "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
    0.181,
-   4.6,
+   5.5,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "CHIP",
+   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
+   0.163,
+   9.8,
+   "launch_slot=missing"
   ],
   [
    "WIFZ",
    "FcmxUPqDbfGCVN6PdUjfQsCvBUSZBfJjGgrdXsPLpump",
-   0.152,
-   8.9,
-   "buyers=9; top5_hold_most=94%"
+   0.144,
+   9.8,
+   "buyers=9; top5_hold_most=93%"
+  ],
+  [
+   "iPUMP",
+   "9gHmHpgiMMNRGfdvSD9Hq3yqpBBmwXz452ekZkHfpump",
+   0.143,
+   5.0,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "CHIP",
-   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
-   0.143,
-   4.9,
+   "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
+   0.127,
+   6.9,
    ""
   ],
   [
    "APPUMPFUN",
    "AM6AwBbRBh9EPvHVzjGa6WuVrNM8Qzpt6qeXdn54pump",
-   0.118,
-   3.3,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "CHIP",
-   "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
-   0.107,
-   6.0,
-   ""
+   0.115,
+   4.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "CHIP",
    "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
    0.107,
-   6.7,
+   7.6,
    ""
   ],
   [
-   "hyper",
-   "6E2qTRK7Ef37PUXrqxYPzjaGfKhQAqWxXC13cyJDpump",
-   0.099,
-   2.3,
-   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "CHIP",
+   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
+   0.104,
+   5.8,
+   ""
   ],
   [
-   "BW",
-   "CSB9x1J3JeLVyFVSpvLVdaf4dR3a9bcnm95ZGXEYpump",
-   0.092,
-   2.4,
-   "buyers=3; top5_hold_most=100%"
+   "CHIP",
+   "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
+   0.082,
+   7.1,
+   ""
+  ],
+  [
+   "SLUDGE",
+   "6E8VZNJZyqHhY4sXMLKuraUcfUj8ztCuYTCuhj9Spump",
+   0.071,
+   2.7,
+   ""
   ]
  ]
 }
