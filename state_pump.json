@@ -6878,83 +6878,83 @@
    32.58
   ],
   [
-   "2026-10-30T06:56:08",
+   "2026-10-30T06:57:06",
    32.58
   ]
  ],
- "cycles": 3141,
+ "cycles": 3142,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.77256159735,
- "watching": 223,
+ "sol_usd": 95.04326223905001,
+ "watching": 216,
  "near": [
   [
    "SPIRITS",
    "GMcL2quuNHsxieukkj7f1Vqjv1SJcRz9qerZB498pump",
    0.185,
-   8.2,
+   9.1,
    ""
   ],
   [
    "RED",
    "EAUFqd3v75iofWEKUPQuP9Td2twtzy79hSSTjNvnpump",
    0.142,
-   2.8,
+   3.8,
    ""
   ],
   [
    "LLM",
    "624YvdZgpbQUouHwYv8nfk5WF3GmuF5ycHj2iF9Cpump",
    0.129,
-   5.0,
+   6.0,
    ""
-  ],
-  [
-   "$HOUND",
-   "9cDAVZrfiPB8psRnjdDpenhE6WxAKdVumM6SMk6spump",
-   0.122,
-   6.2,
-   "top5_hold_most=85%"
   ],
   [
    "KIM",
    "5NGwWpKFjJp3fTmCinEyfZ4gtNBwfj1cDzkZ4AdBpump",
-   0.119,
-   6.0,
+   0.11,
+   6.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "crime",
-   "27mJH9zNf868jU6ZnM7mQqN3uKvkdFEnH4bZ4CNjpump",
-   0.101,
-   4.3,
-   ""
+   "$HOUND",
+   "9cDAVZrfiPB8psRnjdDpenhE6WxAKdVumM6SMk6spump",
+   0.095,
+   7.2,
+   "buyers=9; top5_hold_most=97%"
   ],
   [
    "DRIZZL",
    "6jjnDqij76eGQragYKrSxysMoa5b4mN1q8kRx7Mspump",
    0.093,
-   2.8,
+   3.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "SPACE MEME",
    "DtVqHB2m6ferE8bX4zowNB8CHJf4YkHyDcJ3rcxepump",
    0.086,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "MELT",
    "CAcByRG2kA7v42opbce22mZNi2i3BCKZxytgDjDFpump",
    0.081,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "LINE",
+   "eSnm82LJBeUrdJgRpTC6fabcSLcjUPPoFqQaG8upump",
+   0.077,
+   2.1,
+   "top5_hold_most=93%"
   ],
   [
    "DORKY",
    "8cQuz5rd5DmCQJqHhB3KFDMUcDerqzRoHAKqeuPzpump",
    0.075,
-   3.2,
+   4.2,
    "buyers=4; top5_hold_most=100%"
   ]
  ]
