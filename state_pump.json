@@ -7114,83 +7114,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:09:53",
+   "2026-10-30T16:10:58",
    32.58
   ]
  ],
- "cycles": 3694,
+ "cycles": 3695,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.86634999999998,
- "watching": 272,
+ "sol_usd": 95.84,
+ "watching": 273,
  "near": [
   [
    "CHIP",
    "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
-   0.864,
-   5.7,
+   0.904,
+   6.8,
    ""
   ],
   [
    "CHIP",
    "CcNMyEjvCoLoBiX7vZeuZmPKRnPfRyb5TZFfbAAPpump",
-   0.693,
-   3.4,
+   0.641,
+   4.5,
    ""
   ],
   [
-   "BlueChip",
-   "EDjMWQv1Rhznz8UjSJhTztm5UcjWaFWSuuhAR92fpump",
-   0.11,
-   4.1,
-   ""
+   "LSTV",
+   "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
+   0.181,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "WIFZ",
+   "FcmxUPqDbfGCVN6PdUjfQsCvBUSZBfJjGgrdXsPLpump",
+   0.131,
+   6.8,
+   "buyers=8; top5_hold_most=97%"
   ],
   [
    "CHIP",
    "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
    0.107,
-   3.5,
+   4.6,
    ""
   ],
   [
    "CHIP",
    "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
    0.107,
-   2.8,
+   3.8,
    ""
   ],
   [
    "CHIP",
-   "8n37JePY6FW59qDd7WeUVzY1mxj68AndAQiUyUzXpump",
-   0.089,
-   4.2,
-   ""
-  ],
-  [
-   "CHIPS",
-   "F46PTXRZZR2tb6LkJq5CVtgcs3nJopP5RNNN5CPfpump",
-   0.087,
-   7.1,
+   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
+   0.104,
+   2.7,
    ""
   ],
   [
    "CHIP",
    "FgNT8oYHPwVsyUi7Rwb2tqB1HjUUEAN11GuWiSUHpump",
    0.056,
-   2.2,
+   3.3,
+   ""
+  ],
+  [
+   "CLICKED",
+   "6doa4eMqkQ8C64b5puLFuA5J4v8Y2L5f5Ad26Kcfpump",
+   0.055,
+   2.1,
    ""
   ],
   [
    "CHIP",
    "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
    0.047,
-   3.0,
-   ""
-  ],
-  [
-   "chip",
-   "GKR8j3vQiG69GPe2XFps7tyeon347Gpyzj6Ccqimpump",
-   0.045,
-   6.9,
+   4.1,
    ""
   ]
  ]
