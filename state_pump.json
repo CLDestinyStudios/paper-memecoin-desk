@@ -6610,83 +6610,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:25:17",
+   "2026-10-29T20:26:19",
    32.58
   ]
  ],
- "cycles": 2511,
+ "cycles": 2512,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.79158836785,
- "watching": 286,
+ "sol_usd": 95.78,
+ "watching": 266,
  "near": [
+  [
+   "USDF",
+   "ExpZyySFEcgPNya4kfvPbvFGba4imYyQSD9NGnfZpump",
+   1.0,
+   2.2,
+   "graduated"
+  ],
+  [
+   "HYPERCHAN",
+   "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump",
+   1.0,
+   2.1,
+   "graduated"
+  ],
   [
    "OWLS",
    "BsprDdSa2t2gApGSSQzaVyCE8CNuTjc3hnBdUTKgpump",
-   0.414,
-   5.2,
+   0.372,
+   6.2,
    ""
   ],
   [
-   "JANSEM",
-   "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
-   0.203,
-   9.2,
-   "buyers=5; top5_hold_most=100%"
+   "AgentLensHQ",
+   "G6iyReBP1Du4TghGfykQsSACqYA4DtC6tFET7Rvpump",
+   0.335,
+   2.9,
+   ""
+  ],
+  [
+   "HYPE",
+   "3KCUHh2L1Fw9mAdYA1k5n4SAuRgUUR1n8L8KFW9tpump",
+   0.242,
+   2.7,
+   "creator=15.2%; top5_hold_most=85%"
   ],
   [
    "LEMON",
    "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
-   0.203,
-   4.3,
-   "top5_hold_most=91%"
+   0.224,
+   5.3,
+   "top5_hold_most=90%"
   ],
   [
-   "SIC",
-   "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
-   0.14,
-   10.0,
+   "SC",
+   "CKHrmcAYmMrM8jxJV9ytTYTEsMmCwhiSMuymRvLfUdgW",
+   0.161,
+   5.5,
    ""
   ],
   [
    "TOKEN",
    "Hg7aSU5L4mA6EYj55p6577sU8JaqQ1HFXQt1v3Htpump",
    0.132,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "SI",
-   "HMgqmxq8mwCyNvPD8otUBgYN2Qk6zcsX2zPYhdMLpump",
-   0.121,
-   4.9,
+   "SC",
+   "J7q2vZiFuQA9BXoMGXpX8dQGtJs8vxCJ4bD22L1Npump",
+   0.128,
+   5.5,
    ""
   ],
   [
    "Supertoken",
    "5W626epqJVLbLCCqgXRt78BQuz6mpzKC9X4Mh9Kwpump",
    0.118,
-   2.6,
-   ""
-  ],
-  [
-   "HOTH",
-   "GVTR6e7vG7MCaKmyr4AECpE7bFDk78SrZqhvnBmPpump",
-   0.114,
-   7.4,
-   "buyers=9; top5_hold_most=98%"
-  ],
-  [
-   "COMPUTE",
-   "3TxdCQRC9m3DJ3WiVEmrGb5mVyeQJ9QLYBCr9J92pump",
-   0.111,
-   6.0,
-   ""
-  ],
-  [
-   "SIC",
-   "CVNjqUFFW819CuLKSW6eRyXgRVf4vVV8e1WhzTb1pump",
-   0.109,
-   9.9,
+   3.7,
    ""
   ]
  ]
