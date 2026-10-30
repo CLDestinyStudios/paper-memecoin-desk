@@ -6982,84 +6982,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:00:56",
+   "2026-10-30T11:01:55",
    32.58
   ]
  ],
- "cycles": 3385,
+ "cycles": 3386,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.34,
- "watching": 239,
+ "sol_usd": 94.14848432845,
+ "watching": 240,
  "near": [
   [
-   "TYGR",
-   "J5D8UK4EbfaXyvWWsHprFFmpXeDpWVmDhMWjhrLEpump",
-   0.652,
-   6.7,
+   "BURIED",
+   "3aasM3u1QAKFXziSEFNQ8nLs8BA159b11kXr7a9bpump",
+   0.908,
+   2.8,
    ""
   ],
   [
    "GSOL",
    "7etiA9itnEzSJFzVLY7795h4yXRdeW5q7ecn2gEfpump",
-   0.639,
-   3.6,
-   "buyers=7; top10=50.7%; top5_hold_most=100%"
+   0.638,
+   4.6,
+   "buyers=6; top10=50.6%; top5_hold_most=100%"
   ],
   [
-   "EVERYTHING",
-   "9v5ruF3mDfxQDSVnA3J7hJH77KNF1RcUe2QRCxgvpump",
-   0.533,
-   9.2,
+   "TYGR",
+   "J5D8UK4EbfaXyvWWsHprFFmpXeDpWVmDhMWjhrLEpump",
+   0.586,
+   7.7,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "N",
+   "8GdcvbZ5Jt5dwNaksYLXwovxU5dg8sxbADcwBHz8pump",
+   0.479,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "EARNFI",
+   "CVe6LncXK9QxwNaLjTD19NZzmscxAiHYppTvys86pump",
+   0.266,
+   2.4,
    ""
   ],
   [
    "EXFL",
    "4LCTcadAZCaWMcGteuuQRaLQp9K57iS3bdHWWgNppump",
-   0.265,
-   3.1,
+   0.266,
+   4.1,
    ""
   ],
   [
    "USDF",
    "9S8YnL3dij9KtndD5WuhPwNk9Php5bYgvDm1DXtopump",
    0.241,
-   5.4,
+   6.4,
    "buyers=2; creator=17.7%; top5_hold_most=100%"
   ],
   [
    "DIG",
    "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
-   0.207,
-   6.2,
-   ""
-  ],
-  [
-   "brik",
-   "F8LheBKomDgnCHkim2uc3492Pxp7aw4JrKazQ5wHpump",
-   0.116,
-   4.0,
-   ""
+   0.206,
+   7.2,
+   "buyers=9"
   ],
   [
    "GRVD",
    "A5pCBGavsqZGCjDuqMpYpMs6ak5LQZmLqV36cwEXpump",
-   0.113,
-   4.0,
-   "buyers=2; top5_hold_most=100%"
+   0.202,
+   4.9,
+   "buyers=7; top5_hold_most=86%"
   ],
   [
    "BOUNCER",
    "B94wM8KkYTHSUHpbHQYxPch2XxcRof1uLDF4pqGRpump",
    0.099,
-   4.8,
+   5.8,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Gramps",
-   "G91WCxNDRQc7ipfqNLyT8t7F1ZGz9WLvgYaAwghgpump",
-   0.078,
-   2.5,
-   ""
   ]
  ]
 }
