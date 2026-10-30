@@ -7026,83 +7026,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:41:51",
+   "2026-10-30T12:42:50",
    32.58
   ]
  ],
- "cycles": 3486,
+ "cycles": 3487,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.3850444806,
- "watching": 228,
+ "sol_usd": 94.46055000000001,
+ "watching": 231,
  "near": [
+  [
+   "Creatoor",
+   "F1PyK6u87MWcwXzm3Hksn6Jv5EAGLzu2vBrBgSZGpump",
+   0.561,
+   2.5,
+   "bundled_launch=7 extra buys in creation block"
+  ],
   [
    "LeMiss",
    "FiW5r4YcGBAqJTa7dQa73ADXXxaueTiRFtnpmDvcpump",
-   0.368,
-   4.3,
-   ""
-  ],
-  [
-   "MEOWNER",
-   "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
-   0.275,
-   5.7,
+   0.383,
+   5.3,
    ""
   ],
   [
    "PERRY",
    "8Jw4vvq3DEM95oj6AXm2ZNUw9K9V6RSLhSSUpV8hMUWR",
-   0.187,
-   2.6,
+   0.277,
+   3.6,
    ""
   ],
   [
-   "INVLUNCH",
-   "3JSxCPEyQL1fR6djBDFJF9vWN4d4eppxViRECPA5pump",
-   0.099,
-   9.9,
-   "buyers=4; top5_hold_most=100%"
+   "MEOWNER",
+   "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
+   0.239,
+   6.7,
+   ""
   ],
   [
    "Heist",
    "3Z9LbLLetA6oz2C6Yfk5qsVVBTj4eXZSMf7bXvnkpump",
-   0.098,
-   4.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HACK",
-   "AeafXuLghwaipxMHQr4PmSvRb6E5Xy7VFr3X5CRYpump",
-   0.088,
-   4.2,
-   "buyers=6; top5_hold_most=100%"
+   0.12,
+   5.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Mognald",
    "4MMYnevW5ndwSYFjvwigw2iNEmMp1kY2M4JZ28jVpump",
    0.084,
-   5.5,
-   ""
+   6.5,
+   "buyers=2; top5_hold_most=100%; bundled_launch=11 extra buys in creation block"
   ],
   [
-   "catfish",
-   "GzckZtuQHJkUqD2qcUQKASwyvMtNjdSphF5kbjfbpump",
-   0.076,
-   6.3,
+   "LeWashed",
+   "2MRdFNyGTJxsSrH9C8LeD1YCtUrdbNW4pZCYmXdepump",
+   0.083,
+   2.7,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "FLAME",
+   "FhBduvZHhSR2da3vSpKk6pS3VicLq7kHRwS73sKVpump",
+   0.08,
+   7.7,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "minecat",
-   "Danqp9UZ8h6j5a13b2wa2CcDUi3rAXNJ1iBQfCqbUBgK",
-   0.064,
-   7.0,
+   "TEST",
+   "FNqBPbzqz1kEqyGYpMiiMDQZYEh47ctufook7pQRcBwJ",
+   0.08,
+   2.2,
    ""
   ],
   [
    "LIFE",
    "6GVRNnEzbXieoRiieRV6g2mH1zoXuhiSCwMhXG4cpump",
    0.064,
-   3.2,
+   4.2,
    ""
   ]
  ]
