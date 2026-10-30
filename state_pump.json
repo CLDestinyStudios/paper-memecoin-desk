@@ -7114,83 +7114,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:10:58",
+   "2026-10-30T16:12:06",
    32.58
   ]
  ],
- "cycles": 3695,
+ "cycles": 3696,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.84,
- "watching": 273,
+ "sol_usd": 95.84999999999998,
+ "watching": 271,
  "near": [
   [
    "CHIP",
-   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
-   0.904,
-   6.8,
-   ""
+   "CcNMyEjvCoLoBiX7vZeuZmPKRnPfRyb5TZFfbAAPpump",
+   0.616,
+   5.6,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "EXPRMT",
+   "E7gV3byMXvNLiQ52SoBovG72kZH5YWbta6fM4PJepump",
+   0.608,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "RUMP",
+   "9aKPB6fhTGzGxuDSk59rJKiE8tNexYkLH7yastBbpump",
+   0.427,
+   3.1,
+   "launch_slot=missing"
   ],
   [
    "CHIP",
-   "CcNMyEjvCoLoBiX7vZeuZmPKRnPfRyb5TZFfbAAPpump",
-   0.641,
-   4.5,
-   ""
+   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
+   0.378,
+   7.9,
+   "launch_slot=missing"
   ],
   [
    "LSTV",
    "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
    0.181,
-   2.5,
-   "buyers=3; top5_hold_most=100%"
+   3.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "WIFZ",
    "FcmxUPqDbfGCVN6PdUjfQsCvBUSZBfJjGgrdXsPLpump",
-   0.131,
-   6.8,
-   "buyers=8; top5_hold_most=97%"
+   0.152,
+   7.9,
+   "buyers=9; top5_hold_most=94%"
+  ],
+  [
+   "CHIP",
+   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
+   0.143,
+   3.9,
+   ""
+  ],
+  [
+   "APPUMPFUN",
+   "AM6AwBbRBh9EPvHVzjGa6WuVrNM8Qzpt6qeXdn54pump",
+   0.113,
+   2.3,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "CHIP",
    "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
    0.107,
-   4.6,
+   5.7,
    ""
   ],
   [
    "CHIP",
    "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
    0.107,
-   3.8,
-   ""
-  ],
-  [
-   "CHIP",
-   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
-   0.104,
-   2.7,
-   ""
-  ],
-  [
-   "CHIP",
-   "FgNT8oYHPwVsyUi7Rwb2tqB1HjUUEAN11GuWiSUHpump",
-   0.056,
-   3.3,
-   ""
-  ],
-  [
-   "CLICKED",
-   "6doa4eMqkQ8C64b5puLFuA5J4v8Y2L5f5Ad26Kcfpump",
-   0.055,
-   2.1,
-   ""
-  ],
-  [
-   "CHIP",
-   "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
-   0.047,
-   4.1,
+   5.0,
    ""
   ]
  ]
