@@ -6614,83 +6614,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:37:16",
+   "2026-10-29T20:38:20",
    32.58
   ]
  ],
- "cycles": 2523,
+ "cycles": 2524,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.48039999999999,
+ "sol_usd": 96.52,
  "watching": 179,
  "near": [
   [
+   "GIMODELO",
+   "2UrFGhtR6hu6HxK3QpHnJEi2bu15RcyYkPocLecUpump",
+   0.785,
+   2.2,
+   ""
+  ],
+  [
+   "SSI",
+   "8wkx3pahmtzWtjz5c5mHbsFEEVQAzP7U8ZR2A4nnpump",
+   0.747,
+   2.3,
+   ""
+  ],
+  [
+   "Kilo Code",
+   "AwRrFr2vD2kr8mWtnV6uzAZShfknGvkSW332hjvzpump",
+   0.497,
+   2.4,
+   "top5_hold_most=82%"
+  ],
+  [
    "LEPTEP",
    "2WRTmZq6ByjLYQiaSvLWEEHwQxRKRT3gGLMUruLSpump",
-   0.301,
-   7.3,
+   0.274,
+   8.4,
    "buyers=7; top5_hold_most=91%"
+  ],
+  [
+   "CAMPAIGN",
+   "2JSc325hybcfgyijBGZza5GZE3wfEErKD1MGGDhYpump",
+   0.21,
+   2.5,
+   ""
   ],
   [
    "BID",
    "EGd2dCTenXhFjsPzZNomTokfQwJGPWN7NDweWokvpump",
    0.123,
-   6.2,
+   7.3,
    "top5_hold_most=84%"
   ],
   [
    "PICARD",
    "9z8yXkyVeEyk4TGr6hBj11RUa5e6GeA1kWD7bqunpump",
    0.117,
-   6.4,
-   "buyers=5; top5_hold_most=100%"
+   7.4,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "AC",
    "5Z7FAW1VrUC4PAKLqgoYqq7LMuRe8raeLLMDRfgFpump",
    0.081,
-   7.7,
+   8.8,
    ""
   ],
   [
    "COPYCAT",
    "Bed5eLvMGW5Si8L5Cqk9uyJdq4qxYU3a8RjG4bwGpump",
    0.079,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "WAT",
    "67EkxzpfQoEERpb5i2LXCxnEQzYCPrRAvQTuQRwPpump",
    0.064,
-   5.9,
-   ""
-  ],
-  [
-   "SSI",
-   "46E5qabUELaEs17kmbm8TzyrkguN5XXbf6RP6pZStxQm",
-   0.063,
-   2.5,
-   ""
-  ],
-  [
-   "COMPUTE",
-   "DYVwYek8qi8ssQW1mJbihNzUfm4bLRnCiCykej9f7ehV",
-   0.061,
-   3.2,
-   ""
-  ],
-  [
-   "SYN",
-   "9iWU84bhnjz7M2iEPr8NfJhjdEA6e9CK3af7MXzZpump",
-   0.06,
-   4.1,
-   ""
-  ],
-  [
-   "ASI",
-   "3CvFgfUdPUGZQYTRPbAvx4Sc16sbHXhHHTC26ksnpump",
-   0.059,
-   2.3,
+   7.0,
    ""
   ]
  ]
