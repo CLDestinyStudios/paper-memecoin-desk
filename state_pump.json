@@ -6556,81 +6556,85 @@
   [
    "2026-10-29T18:23:14",
    32.58
+  ],
+  [
+   "2026-10-29T18:24:15",
+   32.58
   ]
  ],
- "cycles": 2389,
+ "cycles": 2390,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.77595,
- "watching": 161,
+ "sol_usd": 93.70186814045,
+ "watching": 160,
  "near": [
-  [
-   "SBF",
-   "AYMCZdBqDGiCDzFDfB7fSqpVAcFn62xDEKjwZEw5pump",
-   0.078,
-   9.6,
-   ""
-  ],
   [
    "icecream",
    "9HnfLLvRV7wUTdVkUGDNEg7Fy2fWpXbBb14R9L9Vpump",
    0.071,
-   2.2,
+   3.2,
    ""
   ],
   [
-   "RayPaid",
-   "KppX85Khd4NB2ZkqPkrAxw762oFCJBjF4vPEGNApump",
-   0.045,
-   3.7,
-   "buyers=7; top5_hold_most=98%"
+   "domoney",
+   "2X7Uno3SA9nHApFPPBe3h8YG8rjR6sBywK2Qy749pump",
+   0.048,
+   10.0,
+   ""
   ],
   [
    "POOINU",
    "GSWMaGGbdsuLWHokxRuBcZQADJycJXT9akuY1iHMpump",
    0.044,
-   6.1,
+   7.1,
    ""
   ],
   [
    "PREDICTORS",
    "Agz1bwX5huRD1Am8SmWyarj3HPAHXVYEifQuJ9R9pump",
    0.043,
-   8.0,
+   9.0,
    ""
   ],
   [
    "GayD Vance",
    "Dr1NLFz43uwi1oEWroRCQyQLMs7WN6JyYnarxUegCxec",
    0.043,
-   5.4,
-   ""
-  ],
-  [
-   "SQUID",
-   "CztKMcJ96r8KbDgk3TMVxT2N8FCcHVY2dnV9CqoDpump",
-   0.039,
-   9.1,
-   ""
-  ],
-  [
-   "HODL",
-   "5xpMh5AAXgcJhnjNL1qrZgE3w3JupXbtVdCvgHPpump",
-   0.031,
-   2.8,
+   6.4,
    ""
   ],
   [
    "HYPERFUN",
    "HYpEfR14qvrMgyHSumhDJE3xMRzWRDtsspm7d1c97iSz",
    0.03,
-   4.6,
+   5.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "HB",
-   "GXx5J9yUKSacS1jpL69npQYu475EAt7fJZwvXS7wpump",
-   0.027,
-   4.9,
+   "FOM404",
+   "HBnaUVknFSZX2sRtqeUwxgXW6StQdegGCgXWQ7B7pump",
+   0.022,
+   4.4,
+   ""
+  ],
+  [
+   "TST",
+   "3mW7c5UxJwmirUBKCzFiLcswWZzRkLsh91fgUbkvpump",
+   0.014,
+   7.5,
+   ""
+  ],
+  [
+   "RayPaid",
+   "KppX85Khd4NB2ZkqPkrAxw762oFCJBjF4vPEGNApump",
+   0.014,
+   4.7,
+   "buyers=7; top5_hold_most=98%"
+  ],
+  [
+   "HACK",
+   "u5FFbSYDzkab5SmwhReZUNcfQCMGnXVrAfAxDd8pump",
+   0.012,
+   2.1,
    ""
   ]
  ]
