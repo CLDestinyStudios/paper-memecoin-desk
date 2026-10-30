@@ -7066,83 +7066,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:10:53",
+   "2026-10-30T14:11:52",
    32.58
   ]
  ],
- "cycles": 3575,
+ "cycles": 3576,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.1,
- "watching": 272,
+ "sol_usd": 95.01000000000002,
+ "watching": 250,
  "near": [
   [
    "AXIO",
    "3mUcXkpVVkQ5ZJMctz2f1VBk4rwu3NRfNwVQZtDzpump",
-   0.726,
-   6.4,
+   0.768,
+   7.4,
    ""
   ],
   [
    "CRAMER",
    "EXdXL3EDwVYXvpknqkimLqokq22VMn9cqjsy2dMRpump",
-   0.623,
-   2.4,
+   0.652,
+   3.3,
    ""
   ],
   [
    "ZEROTAX",
    "DCHsbiKoZK3RB2afLijwiXq8yCym8sHN933rxqMZpump",
-   0.438,
-   4.3,
+   0.533,
+   5.3,
    ""
   ],
   [
    "TUFF",
    "Gaj4HQFbVfCi9i2PMuVURKZKwVVzsoP9YU646jzupump",
-   0.384,
-   2.5,
+   0.366,
+   3.5,
    ""
   ],
   [
-   "PFP",
-   "7wno2osJyapDrw6gCZ3JsHEBnKM3oxc6UvxLLrxfpump",
-   0.159,
-   9.4,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CREAM",
-   "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
-   0.131,
-   6.0,
-   "buyers=8; top5_hold_most=97%"
+   "BAGLAW",
+   "Ad1GB9nNrhJw9eawXkcLJRvnZCXn67edVVx72DHrpump",
+   0.153,
+   4.3,
+   ""
   ],
   [
    "REMARC",
    "CUhyxDeYAiZhqk9TNtQfp8SarcD7LxqoPF1maQTapump",
    0.124,
-   2.2,
+   3.2,
    ""
+  ],
+  [
+   "CREAM",
+   "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
+   0.113,
+   7.0,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "CRAMER",
    "AeALngAP7tqi5Q5ao5nMfMarBWU5kXEtVevL8yxZpump",
    0.072,
-   4.0,
+   5.0,
    ""
-  ],
-  [
-   "CRAMER",
-   "CueNius7pLJeEzavygSGeYx9btVrs33KY6Kq6DNMpump",
-   0.066,
-   9.8,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "sell",
    "9GC9X4vfSXdEGn5bzRVaSvQfAVgfbVEnJ3J412Jqpump",
    0.063,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "Null",
+   "CDucjNtLUHv4E9LtxJrb9RzfBUyZr9rteSNMe8oQpump",
+   0.045,
+   9.1,
    ""
   ]
  ]
