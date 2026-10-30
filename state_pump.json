@@ -6698,83 +6698,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:57:28",
+   "2026-10-29T23:59:27",
    32.58
   ]
  ],
- "cycles": 2723,
+ "cycles": 2724,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.23179999999999,
- "watching": 116,
+ "sol_usd": 98.21496231444999,
+ "watching": 107,
  "near": [
   [
    "p/acc",
    "3rfnkLkDS4ierei4PTPR54hg8UtJGxb37R5zRYURpump",
-   0.873,
-   5.4,
+   0.855,
+   7.4,
+   ""
+  ],
+  [
+   "LIQ",
+   "C1NeRTKeBebDcssGmEcQNy3iGta6oc8mUErCqzmkpump",
+   0.697,
+   8.2,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "HEDGE",
+   "2Vcoju9bSjxVBsJE1G7rw5kzu8RVFRrFXYfpXHVkpump",
+   0.363,
+   2.9,
+   ""
+  ],
+  [
+   "STAYD",
+   "Fi3qr6hh8xjZy3KDtjyTPvSaLyu5c8X8VLFZw6FCpump",
+   0.303,
+   8.9,
    ""
   ],
   [
    "ACT H:",
    "79JUB3xHUCqyJngBuMMf3C9y7oom3KwSFUojeikppump",
-   0.254,
-   2.9,
+   0.245,
+   4.9,
    "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "STAYD",
-   "Fi3qr6hh8xjZy3KDtjyTPvSaLyu5c8X8VLFZw6FCpump",
-   0.243,
-   7.0,
-   "top5_hold_most=96%"
+   "Kenneth",
+   "DzqHidxjKxCwpbqfqesQWSdHPWHneouy82tW2VUkpump",
+   0.142,
+   8.1,
+   ""
   ],
   [
    "DADHIPPO",
    "GWDfBxbNtRB4anfXovqWXb226mNrhN9bFbgsgFKpump",
-   0.056,
-   6.1,
-   "buyers=2; top5_hold_most=100%"
+   0.066,
+   8.1,
+   ""
   ],
   [
-   "soon",
-   "3vYB3fANquPVGeLQw5gejuZY6V7w9f5xtFsUA4edpump",
+   "privacy/acc",
+   "5v9m2qDarzFZrtVA8eJCvwLRv3ybMEfLSehe73GUpump",
+   0.043,
+   4.2,
+   ""
+  ],
+  [
+   "cesarinu",
+   "64Em6zLLFE1Z4GeeLZvYtnUaAgjHhkvVkFKkHJvCpump",
    0.03,
-   9.8,
+   3.8,
    ""
   ],
   [
-   "MARS",
-   "G4ANxShYDDeCXMXb4djbcukTqqXcBAMVSjh3pJ4Wpump",
-   0.023,
-   8.3,
-   ""
-  ],
-  [
-   "KALI",
-   "CD3iuvGTCSYfUvk2PUhEBJ7TZEN7Aq7MuJfrweCHpump",
-   0.011,
-   9.3,
-   ""
-  ],
-  [
-   "PLAN",
-   "DPh3vYZMpsVReyD7bJA6fJA5GpjAzoGhExCTTfGLpump",
-   0.007,
-   9.1,
-   ""
-  ],
-  [
-   "TURTSTRM",
-   "EzSZpFBx69W3Mdksc1R7tR6coWvsiMxHMffgtTT3ecH7",
-   0.004,
-   9.5,
-   ""
-  ],
-  [
-   "Perfect",
-   "yV2u6jzUZoa64ddvQKnoQoRD3JDmea8npoNi5nmpump",
-   0.004,
-   8.0,
+   "Toad",
+   "CgDcdoGCEKcaGDaTkC3B6xenL1Vr65Ne2yBj2Lzgpump",
+   0.019,
+   2.9,
    ""
   ]
  ]
