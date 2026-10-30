@@ -6862,84 +6862,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:17:02",
+   "2026-10-30T06:18:15",
    32.58
   ]
  ],
- "cycles": 3102,
+ "cycles": 3103,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.31170667889998,
- "watching": 164,
+ "sol_usd": 96.21689167720001,
+ "watching": 163,
  "near": [
-  [
-   "HACKCOIN",
-   "5McvpSFirPG9yHbvuHzvgvAza8qobrcuHk24TfXmpump",
-   0.828,
-   3.0,
-   ""
-  ],
   [
    "laptop",
    "9hzYuifYC7FNCCJ2aViUEKwoPRzy3i6tB7g63wPtpump",
-   0.817,
-   2.0,
+   0.879,
+   3.3,
+   ""
+  ],
+  [
+   "HACKCOIN",
+   "5McvpSFirPG9yHbvuHzvgvAza8qobrcuHk24TfXmpump",
+   0.825,
+   4.2,
    ""
   ],
   [
    "laptop",
    "9BfiiYkSoGC1Ke7v4cEnhwZUHFsniEu5dNd9urc1pump",
-   0.504,
-   6.2,
+   0.529,
+   7.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "GigaHorse",
+   "Hw7pLwCfXpt4HreafkMe1fLsP3QDqCU2Pb8pi6pdnAsa",
+   0.529,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BACKSTOP ",
+   "GpRvugTzqB4SGnUzNvQhHr9SQ55tSNu5DAvjWiMspump",
+   0.378,
+   2.6,
    ""
+  ],
+  [
+   "HYPER",
+   "28D7yxdt1VR6frRgDJ8ayw2rwfUEponYz4KK6ou3pump",
+   0.34,
+   2.2,
+   ""
+  ],
+  [
+   "ZeroMark",
+   "ZPdDRUbNS73AbDKAHoDrR6P35cFMyscpyytinuwpump",
+   0.292,
+   2.3,
+   "rugcheck=creator history of rugs"
   ],
   [
    "Laptop",
    "BbjHCW9zy7LoRcthW6AAvssyfyePFiFXSWUYNEJVpump",
    0.175,
-   3.8,
+   5.0,
    ""
   ],
   [
    "LAZARUS",
    "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
-   0.149,
-   5.1,
-   "buyers=7; top5_hold_most=100%"
+   0.15,
+   6.3,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
-   "ELON GTA",
-   "6eSGaqbsDpjHvKbmSYtSHWmi9VnrpMr2NsNLZM7gpump",
-   0.14,
-   7.0,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "SUBCAT",
-   "GdhWJGnPSC2pPz1z2Zog1Me59sKxEp5ekks8uFmCpump",
-   0.131,
-   6.5,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Alvin",
-   "Dg5SbCbL6h82giwGrPP6MnCQt8Kt1ZL2td3NPwYGpump",
-   0.118,
-   4.0,
-   ""
-  ],
-  [
-   "RAPTOP",
-   "9yzBfzPrxGoTpMye7TBp5Fz2erFdwrZ1fiPoSnBEkN3J",
-   0.116,
-   5.1,
-   ""
-  ],
-  [
-   "grok",
-   "Gyac6qiU5WMmMrDHAU4W4wTtYN9ooSCWE5ULVvA7pump",
-   0.098,
-   4.3,
-   "buyers=5; top5_hold_most=100%"
+   "Gold Cat",
+   "L9AsD7GramGmVahW54wPK6iqv2zgF95eG7uvivZpump",
+   0.144,
+   2.6,
+   "buyers=9; top5_hold_most=97%; launch_slot=missing"
   ]
  ]
 }
