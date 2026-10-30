@@ -6954,83 +6954,83 @@
    32.58
   ],
   [
-   "2026-10-30T09:52:46",
+   "2026-10-30T09:53:46",
    32.58
   ]
  ],
- "cycles": 3317,
+ "cycles": 3318,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.86381343240001,
- "watching": 252,
+ "sol_usd": 94.85148988645,
+ "watching": 258,
  "near": [
   [
    "anthrupic",
    "3aFjeQZW6dEeywwngN8w6bX4cfLbXq6B5c2LTnCipump",
-   0.934,
-   3.7,
+   0.949,
+   4.7,
    ""
   ],
   [
    "Mimi",
    "9N4QHXwwV4udPrzB4h1pzBCz4c8V7okVaewRj5oapump",
-   0.613,
-   3.8,
+   0.603,
+   4.8,
    ""
   ],
   [
-   "HAVEN",
-   "92XfAjQ288LKgXrN33JoFctCJEvvAs12R1gGUS1Cpump",
-   0.612,
+   "DaPope",
+   "5trbrS3hvRQe9uwCpEGfuSGV3BVj27ugCs5hSiaGPrUS",
+   0.287,
    2.1,
-   "bundled_launch=12 extra buys in creation block"
-  ],
-  [
-   "CWS",
-   "Bowu3hQw139nfJE4zhoES4mc6bUN9G6kzenL48mzpump",
-   0.532,
-   2.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "LOUVRE",
-   "27mKtJmYXfDuwEqxK7afpV8Ldc5Ej2gRNbjsdg1o7g4b",
-   0.483,
-   3.4,
    ""
   ],
   [
-   "VELA",
-   "6s9sZEr2eGXZrxthuxxmHHareBpUbkMM9oC4ENCHpump",
-   0.093,
-   2.3,
-   "buyers=7; top5_hold_most=100%"
+   "LEVR",
+   "C5bFBewtBXAA53LfZTMc6UHaceCUfw594wN8hnNipump",
+   0.173,
+   2.9,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "pixel",
    "6SjiktHLfscPdNbfqNYNQa87MHbnszTKdNERmfQDpump",
-   0.087,
-   2.1,
+   0.122,
+   3.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "HYPE",
-   "9ARHvsYMLD24cNPygPZHwhBHcHDZjGWJ6VqCGpM7pump",
-   0.074,
-   3.9,
+   "VELA",
+   "6s9sZEr2eGXZrxthuxxmHHareBpUbkMM9oC4ENCHpump",
+   0.086,
+   3.3,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "MI",
+   "BWeHvT77RADSdL6H4B5kE9SVjmjkisskz4TRmziNpump",
+   0.056,
+   3.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "meaningless",
-   "4MU6GkgJZuMeQgLMMSAFKwcD2xoA8UJk2dgnhT2npump",
-   0.074,
-   2.9,
-   ""
+   "FC",
+   "CiytX6VnFdEUPXtgtVuERhjSCVabWoDM4Swx2u3Rpump",
+   0.051,
+   8.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "anthrupic",
-   "4S1jWMRxu3wuKAQi6tf3bwfibqNvCxmnnJc9W2APQiPd",
-   0.071,
-   4.1,
+   "CC",
+   "3phN42a39orZQfQW7DyTpDoVNKY4bMTUdCe5QU3bpump",
+   0.05,
+   9.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "GG",
+   "D6nJ7VDQqwd7NQRHVNZ1Uvk8gHfDdvKeKgQ9spZApump",
+   0.05,
+   8.9,
    ""
   ]
  ]
