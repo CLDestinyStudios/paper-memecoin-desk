@@ -6856,82 +6856,86 @@
   [
    "2026-10-30T06:03:08",
    32.58
+  ],
+  [
+   "2026-10-30T06:04:06",
+   32.58
   ]
  ],
- "cycles": 3088,
+ "cycles": 3089,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.70778869705,
- "watching": 141,
+ "sol_usd": 96.66055,
+ "watching": 143,
  "near": [
   [
    "Will",
    "8kBikgKnYxta27P6wZdVdq5HmAxpwZHUi9tx2fq5pump",
-   0.754,
-   2.3,
+   0.809,
+   3.3,
    ""
   ],
   [
    "4Pad",
    "4HmTNc9zqaYBfF47mDz6j9Hh3PQPfEdJYfQgfGJHZ5kW",
-   0.726,
-   8.5,
+   0.654,
+   9.5,
    ""
-  ],
-  [
-   "Memelord",
-   "G29ZKsMrphUv4QQRkHYLLa7LCohmXng5bYcSrSkvpump",
-   0.704,
-   2.7,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "KimBao",
    "72ARF3rZGP2rLKKQPShhUzwdknW7wrP5ky5xc94Xpump",
-   0.581,
-   4.4,
+   0.567,
+   5.4,
    ""
   ],
   [
-   "Hope",
-   "GPRsGRaL2bf8tFc6zS4hHK4otR8Ezr7QBXwDh5M6pump",
-   0.186,
-   2.8,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "cz ",
-   "F7V5w2kSVqqsYuvAUJYvrunrkufcjUYsnJiNnPqnpump",
-   0.18,
-   2.1,
-   "buyers=9; top5_hold_most=94%"
+   "RIVER",
+   "B3fAzZR2wJq2dwRvng8bsQc2nf7vo9nngYoNY6nMpump",
+   0.317,
+   3.1,
+   ""
   ],
   [
    "BEARMINE",
    "CcBpu1itiaDkyyHTWAekvAR224MJ24tStVK7yf1Hpump",
    0.17,
-   3.8,
+   4.8,
    "buyers=8"
-  ],
-  [
-   "MUSTER",
-   "9QnTq3SMZExiRBuqL1iv7C9VBsyAMF2xBiqBtsw18Uik",
-   0.098,
-   9.9,
-   "top5_hold_most=81%"
   ],
   [
    "cumodities",
    "4pLrNZWBZWMh6wApgRZLg2GTLNxjUhmSvoXSpBuSpump",
    0.082,
-   8.1,
+   9.0,
    ""
   ],
   [
    "PVE",
    "AUTSW4mpkM9SMekewrPyX1GwF8pqXyNpy8bSB4z5KkSg",
    0.076,
-   5.5,
+   6.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "JIREN",
+   "GAoRE7DBBBpUxysfhDwncb8a69GjnRQGCpU7x7oYpump",
+   0.068,
+   5.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "CUMSHOT",
+   "8gDnQbTBVGhqE5Q5PanThFDGRdD24xH9UnvFyELspump",
+   0.053,
+   4.0,
+   ""
+  ],
+  [
+   "FMAN",
+   "2kgwxYfLRRrt3mPVjRvAHWUwCh1UGmpjqv5WE4Qbpump",
+   0.043,
+   6.9,
+   ""
   ]
  ]
 }
