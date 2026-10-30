@@ -6534,84 +6534,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:36:11",
+   "2026-10-29T17:37:11",
    32.58
   ]
  ],
- "cycles": 2342,
+ "cycles": 2343,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.22470000000001,
- "watching": 237,
+ "sol_usd": 93.48,
+ "watching": 232,
  "near": [
+  [
+   "JEAN",
+   "BsvK5vDLLCJqfbqAcKMvhYiAfMF5efdxPEi7tiX4pump",
+   0.663,
+   2.3,
+   ""
+  ],
   [
    "LeverPad",
    "2KMYeewkKztuPs6LZ8owHDidag8wnicXHhEPRKfUpump",
-   0.495,
-   6.7,
+   0.52,
+   7.7,
    ""
   ],
   [
-   "HACKERCAT",
-   "4cCzBv9ZckHgCEdsUB2Eshkz3XdDJ1npui2N3CLFpump",
-   0.438,
-   3.1,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "dip",
-   "DFxZrAZ16CG1K3P4ojU7wRPJNQaB9TpfFbhz8wdPpump",
-   0.176,
-   8.4,
-   ""
+   "OPTIMISM",
+   "9vDK4G3gBvuMU8yCYjDb39bdiL3vtMUvfPqGeZLYpump",
+   0.501,
+   2.9,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "roach",
    "Bvtg3QNBvQGncBBrV8RbqSUL2TBddfryDgxhW4epump",
-   0.111,
-   5.0,
+   0.304,
+   6.0,
    ""
   ],
   [
-   "LIVECOIN",
-   "6Mf4AeHTk4X59XTyRDFs1AGq8zetL3KcZYUFDvUXpump",
-   0.106,
-   5.7,
-   "buyers=4; top5_hold_most=100%"
+   "dip",
+   "DFxZrAZ16CG1K3P4ojU7wRPJNQaB9TpfFbhz8wdPpump",
+   0.173,
+   9.4,
+   ""
   ],
   [
-   "OPTIMISM",
-   "DGUUiY2GY3ZNHTG8i1YZpntffPzYKjdCMfYRubR3pump",
-   0.1,
-   2.2,
-   ""
+   "roach",
+   "jiTPr8DrSr2yPe2cYNHdB4pnBm9iYLB69HpPuKMpump",
+   0.16,
+   5.2,
+   "top5_hold_most=96%"
   ],
   [
    "SPS",
    "BnbCkdeMsyjEPrsZmb1KrqVeQsg8dn9nuKMQXtcJpump",
    0.083,
-   5.1,
+   6.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "RM",
-   "CZyyVQ7nie9HJjN1e9WSU93Tvy4at7GQVjbS8fDUTwJD",
-   0.077,
-   9.5,
-   ""
-  ],
-  [
-   "HACKERCAT",
-   "AGZc1FqCbKzek4a3Z1Ya8WxHH4DV816PaWkkkiiNJc5h",
-   0.074,
-   3.4,
+   "OPTIMISM",
+   "DGUUiY2GY3ZNHTG8i1YZpntffPzYKjdCMfYRubR3pump",
+   0.073,
+   3.2,
    ""
   ],
   [
    "SPS",
    "3BC3ryscrXBLWHRVKW3J3shaQ9z9ke6RVvTg8Yarpump",
    0.068,
-   2.2,
+   3.2,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "HACKERCAT",
+   "AGZc1FqCbKzek4a3Z1Ya8WxHH4DV816PaWkkkiiNJc5h",
+   0.066,
+   4.4,
+   ""
   ]
  ]
 }
