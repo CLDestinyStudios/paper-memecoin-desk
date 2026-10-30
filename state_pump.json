@@ -6718,83 +6718,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:42:45",
+   "2026-10-30T00:43:45",
    32.58
   ]
  ],
- "cycles": 2768,
+ "cycles": 2769,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.39000000000001,
- "watching": 125,
+ "sol_usd": 97.26198154900001,
+ "watching": 123,
  "near": [
   [
    "USERLESS",
-   "58LX4DaCo4Q5VcSiLgANpxCYMfPrWEfoBR9CnQJrpump",
-   0.851,
-   4.2,
-   ""
-  ],
-  [
-   "USERLESS",
    "CFS56tASdo9fyCmbwxE9LfJYMFfQ5xoFJE12UorGpump",
-   0.726,
-   5.0,
-   ""
-  ],
-  [
-   "$SILO",
-   "8CVr9DVREFRsxkCCo4BKxnvRYBH33hqSJNTZYN4Xpump",
-   0.14,
-   2.3,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "PHYPER",
-   "3FNzorJM4nA4t8srDHY35M8tTxdNq9Vz1Rc1LoZ3pump",
-   0.094,
+   0.73,
    6.0,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Anoninu",
-   "6mVsHhgtWyGh7UGMhS43dhmu2i4RKg9XFLD3bSSopump",
-   0.075,
-   6.6,
    ""
   ],
   [
    "YUNG69",
    "3PbJkCYpNeAcFVrp9GX53CkRQ7z3qeZCTtJyemMxpump",
-   0.066,
-   5.3,
+   0.149,
+   6.3,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "$SILO",
+   "8CVr9DVREFRsxkCCo4BKxnvRYBH33hqSJNTZYN4Xpump",
+   0.14,
+   3.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "PHYPER",
+   "3FNzorJM4nA4t8srDHY35M8tTxdNq9Vz1Rc1LoZ3pump",
+   0.13,
+   7.0,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "VLV",
    "3dxnj6o39txPENd3KpmsKnRiqLNscuan6W2ZNsJSpump",
    0.05,
-   2.1,
+   3.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "PumpkinGuy",
-   "DtRb6LEvuFGd4dsqXKvRMMMf1UQA58swW3NZTQEZpump",
-   0.034,
-   6.6,
+   "USERLESS",
+   "58LX4DaCo4Q5VcSiLgANpxCYMfPrWEfoBR9CnQJrpump",
+   0.036,
+   5.2,
    ""
   ],
   [
    "WATT",
    "5uhYHgPtE32KEF1P9udu8zDJvmWKcd1B33E9py6opump",
    0.025,
-   3.5,
+   4.5,
    ""
   ],
   [
    "mask",
    "HiJaSdpa7XuSxbTqb5jNBpnWTuBa81saVKJRKHZ2pump",
    0.024,
-   4.0,
+   5.0,
+   ""
+  ],
+  [
+   "BNDOWN",
+   "3v2e9EBP7LdLb4SR3GtU5z1nbCoZtApZ3anJtMeApump",
+   0.024,
+   2.7,
+   ""
+  ],
+  [
+   "ZRO",
+   "BJpMZAdvJnKxsyi8ogfJQ7ayjgqfEdVGebD4vrxopump",
+   0.022,
+   2.5,
    ""
   ]
  ]
