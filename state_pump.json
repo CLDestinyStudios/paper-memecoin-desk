@@ -6530,83 +6530,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:21:16",
+   "2026-10-29T17:22:13",
    32.58
   ]
  ],
- "cycles": 2327,
+ "cycles": 2328,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.96,
- "watching": 252,
+ "sol_usd": 93.08573816985,
+ "watching": 241,
  "near": [
   [
    "ANSEM",
    "45tG6xTJdTwKxg3GxrfizAC8hhRZkQc5BXseX4FLpump",
-   0.244,
-   5.2,
+   0.24,
+   6.2,
    ""
-  ],
-  [
-   "NTIH",
-   "9ny3MN7PDZNSmg8weCAZCCURgEms3JVauFKW6tanpump",
-   0.224,
-   2.5,
-   "buyers=9; top5_hold_most=99%"
   ],
   [
    "Ansem",
    "uK1i5ES1jYBk8MJukbDkctG8g8YMWRhF8GU5f2xpump",
    0.195,
-   7.2,
+   8.2,
    ""
   ],
   [
    "Bear",
    "He3BCrm8tiAK2JQayLJ9EA1b2aeVthDHj4WWpGKdpump",
    0.152,
-   5.5,
-   ""
-  ],
-  [
-   "Bear",
-   "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
-   0.147,
-   7.9,
+   6.4,
    ""
   ],
   [
    "Ansem",
    "6kXGnYBJFQYKNc888YNEYLMvf5apwza9PAEQpVXspump",
-   0.137,
-   4.1,
+   0.132,
+   5.1,
    ""
   ],
   [
-   "ZERO",
-   "3JbqthCmAtxKYjpi26xpwTeCmyAq9UqJPUwuyAuUpump",
-   0.086,
-   5.4,
+   "USDC",
+   "2FeZqkLpEvjBi3VjXwTxERqorXnqaDmgbR5rdsJcpump",
+   0.126,
+   2.3,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "Bear",
+   "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
+   0.121,
+   8.8,
+   ""
+  ],
+  [
+   "Ryan",
+   "B13AFHAHHX9veMB3mMwfrDpoKKmWDvUvyuqx9kwMpump",
+   0.11,
+   2.7,
    ""
   ],
   [
    "ANSEM",
    "HH2piyNhGCJnNyFR5gHhYQBvs5SxPDiPXUQQWo3xpump",
    0.074,
-   8.0,
-   ""
-  ],
-  [
-   "BEANZZ",
-   "C2RvYdMo926WCXJ7gHMynVF9Avn9NobZHmUZHuMLXvam",
-   0.073,
-   2.6,
+   8.9,
    ""
   ],
   [
    "ansum",
    "7Aw3muh2QvEkEpBcPWgfLZwTbbWYv9hQJSJMXuhXpump",
    0.072,
-   7.9,
+   8.8,
+   ""
+  ],
+  [
+   "CZ",
+   "Hv4WC5g6C3bPeC1tdriLAXjDCaR2mWeRAYvuxcbzpump",
+   0.071,
+   6.6,
    ""
   ]
  ]
