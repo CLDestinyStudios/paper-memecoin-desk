@@ -7016,82 +7016,86 @@
   [
    "2026-10-30T12:17:49",
    32.58
+  ],
+  [
+   "2026-10-30T12:18:50",
+   32.58
   ]
  ],
- "cycles": 3462,
+ "cycles": 3463,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.07,
- "watching": 323,
+ "sol_usd": 94.07833972729999,
+ "watching": 317,
  "near": [
   [
    "GIGATRUMP",
    "CnhDDXmqTD1VBkix5zaQNs3AViu3rnZNhDsLPuSKpump",
-   0.623,
-   3.8,
+   0.695,
+   4.8,
+   ""
+  ],
+  [
+   "Mwezi",
+   "9S21qbqDSTdewrtwNRsAqEksptuufcRR7AGbrhRUpump",
+   0.528,
+   2.9,
+   ""
+  ],
+  [
+   "PINE",
+   "DUgbA97XBRYKXmHa3X9cBU3N7g7onFVnge8S1FWjpump",
+   0.499,
+   2.5,
    ""
   ],
   [
    "SCRVAN",
    "AvC3GfKRtGFpY9hjxLDDYnNc28ckDrzomhh4r4sapump",
-   0.276,
-   3.4,
-   "top5_hold_most=90%"
+   0.334,
+   4.4,
+   "top5_hold_most=91%"
+  ],
+  [
+   "AbuShalab",
+   "8MSYigCCs4zz7SGtmVz5nHNpTgiLLQTWh4bMXL74pump",
+   0.325,
+   2.0,
+   "top5_hold_most=88%"
+  ],
+  [
+   "trump",
+   "CYFUkCNkpUzgE53WDpPYQryije3SHjcsmaquDSDopump",
+   0.184,
+   3.0,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Mognald",
+   "32BNrXJjfbHNggcGm3hs49UR9cPahFdTpyawpTe4pump",
+   0.148,
+   3.9,
+   ""
   ],
   [
    "MINECAT",
    "EDzEBWzjy5YXfxDoQECXgttk55aBTNtHvzSeU7KCpump",
    0.133,
-   7.9,
+   8.9,
    "top5_hold_most=98%"
-  ],
-  [
-   "COLDINU",
-   "AXcecRarHBCqZxG7JHpLLtwPbkMvNmHQEJEaU217pump",
-   0.124,
-   2.5,
-   "buyers=8; top5_hold_most=98%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "GAS",
    "Fjocbj3fQaYbBU1LiwTd42r1uwKVHQPk7dDJzeD1pump",
-   0.121,
-   4.3,
-   ""
-  ],
-  [
-   "Mognald",
-   "32BNrXJjfbHNggcGm3hs49UR9cPahFdTpyawpTe4pump",
-   0.117,
-   2.9,
+   0.101,
+   5.3,
    ""
   ],
   [
    "cumodities",
    "AcGxxzD8YAzmnJbrZBjMwNsULbJLuKdfyJ1YAq7Lpump",
    0.092,
-   2.1,
+   3.1,
    ""
-  ],
-  [
-   "MINECAT",
-   "A7P4N3ZGULE4mbatK8V8MVnnrd13zhW5psyBMZrqpump",
-   0.084,
-   9.6,
-   ""
-  ],
-  [
-   "CUSTOMS",
-   "4HqmAiUd2m9mdpTLmgNXU9WQ8jXkNoS7NdhdJ6nKpump",
-   0.084,
-   5.7,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "auto",
-   "27M5fn2UuPDGjCLgYgsryEd4ezhK57VcYXnf6277pump",
-   0.084,
-   2.5,
-   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
