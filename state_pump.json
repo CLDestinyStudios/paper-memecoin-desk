@@ -6790,84 +6790,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:31:52",
+   "2026-10-30T03:32:45",
    32.58
   ]
  ],
- "cycles": 2937,
+ "cycles": 2938,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.70030000000001,
- "watching": 158,
+ "sol_usd": 96.73999999999998,
+ "watching": 154,
  "near": [
-  [
-   "IPO",
-   "3osKX3hLiV6BbVjSdZzpLJ9qWngCYtweuWHJ9FZFpump",
-   0.959,
-   8.6,
-   ""
-  ],
-  [
-   "Xlife",
-   "3uKbaQ3o3QQmjLmUyA7iuDwJ5rMW3TVrAoxgfysppump",
-   0.536,
-   2.4,
-   ""
-  ],
-  [
-   "Inuployed",
-   "HfLsGZo4EyWWgrYtFco7nAqX1h9PPmBY6RpTdie5pump",
-   0.512,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "ACTR",
-   "7UpgKvcC3rHFwWZFHtESNRKamZS5fRCyAJWvMErbv2r9",
-   0.404,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "MIND",
    "D4zpoH2SXELkxNqa3ZVzg68SwnvXWDP1JVKqYEMpump",
    0.197,
-   8.9,
+   9.7,
    "buyers=9; top5_hold_most=86%"
   ],
   [
-   "stayaway",
-   "3DrxYckYjD2hfnuUE4xv66rdnUiivGmDm4vSBYdYpump",
-   0.184,
-   3.1,
-   "buyers=9; top5_hold_most=98%; bundled_launch=3 extra buys in creation block"
+   "Xlife",
+   "3uKbaQ3o3QQmjLmUyA7iuDwJ5rMW3TVrAoxgfysppump",
+   0.158,
+   3.3,
+   "top5_hold_most=86%"
   ],
   [
    "BALLS",
    "9142RAHvWs9KvHGUafBhywVTzcwBJKrLYqNd3nkspump",
    0.122,
-   2.9,
-   "buyers=1; top5_hold_most=100%; launch_slot=missing"
+   3.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "TERMINATOR",
-   "6Ssk9jVNKX9JyqBPc857GDyKGBVxxYTJqU7L1p4dpump",
-   0.104,
-   5.9,
-   ""
+   "SEEN",
+   "834W2Uf2Fh28qxUXSUpA1YWxMX48iyjXBx8N3eHCpump",
+   0.089,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Corgi",
    "Q5nuVXVFD9LscWTYoxKd5F4KqLuz2RvFARjWiVZpump",
    0.072,
-   2.4,
+   3.3,
    ""
   ],
   [
-   "SAFE",
-   "5zP33pr4LBDLGpvwaAvRggitVhYyx7DhfLR6JqMYpump",
+   "STEALING",
+   "F4ZUhhQra9Ukw7yJ2xQXv61X4iN197DsaFY1xPwnpump",
    0.068,
-   4.4,
-   "buyers=5; top5_hold_most=100%"
+   9.3,
+   ""
+  ],
+  [
+   "BTTT",
+   "6btaXZqjgCuG1fcnmVJvRxUkKkZxtwXQhwGTDxhgpump",
+   0.045,
+   5.2,
+   "top5_hold_most=86%"
+  ],
+  [
+   "FREEDOM",
+   "EnxgpUK9Sx84XmtASWrGmSdZr1D3DXfEMP1VnoVKpump",
+   0.045,
+   5.5,
+   ""
+  ],
+  [
+   "$CBEAR ",
+   "Vz7FF81hCExapDZZYVRBFhtFAEvsioPak76gLywpump",
+   0.045,
+   4.9,
+   ""
+  ],
+  [
+   "WW3",
+   "DBpf3qYgigwWNg5PX7K9YnKWFEKNdVa7MxWZDRAApump",
+   0.039,
+   7.3,
+   ""
   ]
  ]
 }
