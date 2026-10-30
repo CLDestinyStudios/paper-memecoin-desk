@@ -6906,83 +6906,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:01:52",
+   "2026-10-30T08:02:50",
    32.58
   ]
  ],
- "cycles": 3206,
+ "cycles": 3207,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.79,
- "watching": 250,
+ "sol_usd": 94.81,
+ "watching": 271,
  "near": [
   [
-   "UBER",
-   "CfPMFmEDbLP883C198eBA55NF5oY3pwhg4khmhXFpump",
+   "SPACECAT",
+   "6qYfv1R2KWM94YdrpaEC4CLzRNgPTaa9KLj4oJyCpump",
    1.0,
-   9.7,
+   2.1,
    "graduated"
   ],
   [
    "Doomscroll",
    "2ypeCJ1o5c2P71Ry2e7bdPtVmcB3mAQNhbuES58Bpump",
-   0.947,
-   3.3,
+   0.942,
+   4.3,
+   ""
+  ],
+  [
+   "SPACECAT",
+   "BLN4c4FERWn8pf3PysRDapSKzB5JoHx9HbaxjYkEpump",
+   0.929,
+   2.3,
    ""
   ],
   [
    "CATPAD",
    "6CV59z5txJQDEFUj8zQZqjoVgyDKakwSsgfaXqeapump",
-   0.657,
+   0.714,
+   3.3,
+   "creator=35.5%; top10=56.2%; top5_hold_most=89%"
+  ],
+  [
+   "SPACECAT",
+   "BrjmKBeDcrjXAa6BaLouJNtMwmxA3GegxLJUyCPjpump",
+   0.227,
    2.4,
-   "creator=35.5%; top10=51.8%; top5_hold_most=90%"
-  ],
-  [
-   "Koop",
-   "42meTZ9ZKAzYQiQUsq4dJ3UHECYMVQk9kJfNJpvBpump",
-   0.443,
-   2.9,
-   "creator=19.1%"
-  ],
-  [
-   "Jesus",
-   "CBtVtvgUWKEMVTatt3wBtSk7uYF5zDp2RchE4MdTpump",
-   0.436,
-   3.1,
-   "serial_creator=10 launches/24h"
+   ""
   ],
   [
    "\u3164\u3164",
    "5RwqcTHaxyczcDFodkZPX8pay2fUyULy4CxKDEx1pump",
-   0.343,
-   8.0,
+   0.175,
+   9.0,
    ""
+  ],
+  [
+   "Koop",
+   "42meTZ9ZKAzYQiQUsq4dJ3UHECYMVQk9kJfNJpvBpump",
+   0.148,
+   3.8,
+   "creator=19.1%"
+  ],
+  [
+   "Cobra",
+   "9hGKVHm1W2jLkWMNRRhB4Rg8f15gFi9X81DaBCDypump",
+   0.066,
+   2.9,
+   ""
+  ],
+  [
+   "SPACECAT",
+   "53LmpEr73aU4isoCzRpEWyvVYvtiaqQGczSfAcYYpump",
+   0.062,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=9 extra buys in creation block"
   ],
   [
    "SPOT",
    "CwqtsBE8vRz98bpXo5w9UVshTb4Lhr4YWWu11cu1pump",
    0.06,
-   2.6,
-   ""
-  ],
-  [
-   "OFFER",
-   "3CKYsWP7b39m1M9c5AHnrbyCGiTcZft7jd4cndYkpump",
-   0.052,
-   3.3,
-   ""
-  ],
-  [
-   "CUBIT",
-   "2ftai78z9xgLLpk3cNGPUAcScfctEaLPMFwU7GaTpump",
-   0.045,
-   2.5,
-   ""
-  ],
-  [
-   "Nebula",
-   "HAek8JDRfAWiHNBGEvX5zC2UDzUVcvRwrNDreuNPpump",
-   0.044,
-   6.0,
+   3.5,
    ""
   ]
  ]
