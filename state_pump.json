@@ -6566,83 +6566,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:44:13",
+   "2026-10-29T18:45:15",
    32.58
   ]
  ],
- "cycles": 2410,
+ "cycles": 2411,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.88,
- "watching": 195,
+ "sol_usd": 93.90190418335,
+ "watching": 184,
  "near": [
   [
    "GRID",
    "DwGRhEKzgLb6su8sSdhXYTpvnmEmdtddmDEukXHhpump",
-   0.865,
-   3.0,
+   0.911,
+   4.0,
    ""
   ],
   [
    "novembear",
    "8cuvLDWC1XWQqHpdb9TkiSwgo1iDg8zVKmraSYwnpump",
-   0.445,
-   3.9,
+   0.5,
+   4.9,
    ""
   ],
   [
-   "loco",
-   "54Uz1Fq5iR2ezGZrPWvRZ5gy6DhWbHDzfeivAoZupump",
-   0.363,
-   9.5,
-   "launch_slot=missing"
+   "november",
+   "BU2ZCdjLsRQ6nGQEZ3jRvCPKacjjogvQXYSTqZapump",
+   0.118,
+   2.7,
+   ""
   ],
   [
-   "TST",
-   "3axEMNTtfURN1GqpMNr8yHi1EnunVTLqrKFyx7F1pump",
-   0.103,
+   "YIGBY",
+   "xSvMSq8CFT6DLzGzVxGVf59j1Zy9KvmegTSNpzBpump",
+   0.073,
+   2.5,
+   ""
+  ],
+  [
+   "SOUP",
+   "ETaP6x8RYG6iKc7t7FuuNFAeER3CF6pYvHH8ZMekpump",
+   0.073,
    2.6,
-   ""
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "OpiumBird",
    "7wVjG7EarVmU9aZbmzHRTTn1pskRCjYVzHhRGBBnpump",
    0.072,
-   3.0,
+   4.0,
    ""
   ],
   [
    "ALAWN",
    "9bxGvyfjvAq26pbreDE62C4UpZ9wogkDcJC3t9fEpump",
    0.072,
-   3.3,
+   4.3,
    ""
   ],
   [
-   "KimInu",
-   "Cd2vnSM9RAgYatL3XyZwjV3mWQi2sN8EnVFrDZ2opump",
-   0.067,
-   4.0,
-   "buyers=1; top5_hold_most=100%"
+   "LeSong",
+   "8asPiXcG5SVtW41xR9HEEqxpThLCAz6zHMC2f681pump",
+   0.04,
+   2.5,
+   ""
   ],
   [
    "BULL",
    "8yvtfgs8ztv7gQGcHDCBXj1MYxmg7NHrCnVQDubepump",
    0.035,
-   6.8,
+   7.8,
    ""
   ],
   [
-   "PAGER",
-   "BA1gVqqd5i6bwjN1a6ivQjNqnsFABfkFt2iyGfBVpump",
-   0.022,
-   2.5,
-   ""
-  ],
-  [
-   "Guppy",
-   "EsrJvLroT4Yrwb4pnx4P6xb1cVaJVSS42gbPgSfypump",
-   0.017,
-   6.8,
+   "TST",
+   "3axEMNTtfURN1GqpMNr8yHi1EnunVTLqrKFyx7F1pump",
+   0.029,
+   3.6,
    ""
   ]
  ]
