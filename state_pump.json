@@ -6566,83 +6566,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:50:14",
+   "2026-10-29T18:51:14",
    32.58
   ]
  ],
- "cycles": 2416,
+ "cycles": 2417,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.9037043324,
- "watching": 167,
+ "sol_usd": 93.6716463491,
+ "watching": 162,
  "near": [
   [
    "GRID",
    "DwGRhEKzgLb6su8sSdhXYTpvnmEmdtddmDEukXHhpump",
-   0.873,
-   9.0,
+   0.89,
+   10.0,
    ""
-  ],
-  [
-   "MIP",
-   "5XvNpVZ5ezqMPmhdmorYYpbidSwnni9PAUgC2Lijpump",
-   0.646,
-   2.1,
-   "bundled_launch=9 extra buys in creation block"
-  ],
-  [
-   "MONKEY",
-   "AtWk4aG5SfG9j6PkDjKzzamNPYNB1PkoET2Sh8jWpump",
-   0.394,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "ZERODAY",
    "AS3C2NBuLq8Nrx5gxgStSAwgXwTts4GroDnvGGuupump",
    0.305,
-   4.0,
+   5.0,
    "buyers=4; creator=18.6%; top5_hold_most=100%"
   ],
   [
    "10/29",
    "99FRotLZsUxJjeyECvuc8orxhz6fzzUqnG4zV6Wipump",
-   0.155,
-   2.4,
-   ""
-  ],
-  [
-   "GROKBET",
-   "EriAhyM5R9qGUusK4G4QWYyYcB88pS3Lh14Wpgrfpump",
-   0.095,
-   3.0,
-   "buyers=3; top5_hold_most=100%"
+   0.157,
+   3.4,
+   "top5_hold_most=94%"
   ],
   [
    "Hoe",
    "QDdoj6y426gvHsP7vQULXmopHQrtpSQezXD5YPMpump",
    0.082,
-   3.1,
+   4.1,
    ""
   ],
   [
    "Blue",
    "8bQgmn1zVBTPFL3fH9cN4aKneDpprLmv6zoJdaSepump",
    0.075,
-   4.0,
+   5.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Blue",
-   "5K6UFmG5tDCdB5UvYGkpirHLwmws5XjkmzMZ4NJnpump",
+   "HOE",
+   "2MqNP183umoVpMkQfLWi7VeFdyXK4oC6a62PUjd1pump",
    0.073,
-   4.4,
+   2.8,
    ""
   ],
   [
-   "ALAWN",
-   "9bxGvyfjvAq26pbreDE62C4UpZ9wogkDcJC3t9fEpump",
-   0.068,
-   9.3,
+   "GROKBET",
+   "EriAhyM5R9qGUusK4G4QWYyYcB88pS3Lh14Wpgrfpump",
+   0.071,
+   4.0,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "nyancat",
+   "2VdBG87e2mMVZK4tWMr2ixyhJpwj65MJ8FGbKV1zpump",
+   0.043,
+   6.4,
+   ""
+  ],
+  [
+   "nbfuewiow",
+   "DboKDncjGgj47WPmEF5yqnAK4QXmxcFvqmEarz5Rpump",
+   0.042,
+   7.5,
+   ""
+  ],
+  [
+   "LeSong",
+   "8asPiXcG5SVtW41xR9HEEqxpThLCAz6zHMC2f681pump",
+   0.039,
+   8.5,
    ""
   ]
  ]
