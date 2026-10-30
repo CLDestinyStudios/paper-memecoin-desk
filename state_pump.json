@@ -6610,83 +6610,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:23:18",
+   "2026-10-29T20:24:19",
    32.58
   ]
  ],
- "cycles": 2509,
+ "cycles": 2510,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.71195000000002,
- "watching": 306,
+ "sol_usd": 95.7303,
+ "watching": 305,
  "near": [
   [
-   "SC",
-   "4hqDzrKcbQhQ74sokT7wTMyY1rAeiVrsdZkDDmRZrbTu",
+   "FOMO",
+   "yHdVpdAq1VkCSmDwZ7JTX2uriUxoJKtJLYfQyhwpump",
    1.0,
-   2.6,
+   2.4,
+   "graduated"
+  ],
+  [
+   "BITCAT",
+   "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
+   1.0,
+   3.1,
    "graduated"
   ],
   [
    "SI",
    "HMgqmxq8mwCyNvPD8otUBgYN2Qk6zcsX2zPYhdMLpump",
-   0.682,
-   2.9,
+   0.615,
+   3.9,
    ""
-  ],
-  [
-   "SIA",
-   "4nbibAyHWLj54i1fo9BVGU9CbxNK4U96tv4pUJvYpump",
-   0.587,
-   3.2,
-   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "OWLS",
    "BsprDdSa2t2gApGSSQzaVyCE8CNuTjc3hnBdUTKgpump",
-   0.512,
-   3.2,
+   0.363,
+   4.2,
    ""
   ],
   [
-   "CHINGLING",
-   "4jSsaqReY5g5u82Qpy3wH7zhbGEDDiEVyR32qc2jpump",
-   0.434,
-   9.1,
-   "top5_hold_most=97%"
-  ],
-  [
-   "RIPDESK",
-   "Ey8EvLyHAoRPhTXJji6WFKmpPxpqmnyU1itURCWbpump",
-   0.397,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
+   "LEMON",
+   "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
+   0.226,
+   3.3,
+   "top5_hold_most=85%"
   ],
   [
    "JANSEM",
    "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
    0.203,
-   7.2,
+   8.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "LEMON",
-   "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
-   0.188,
-   2.3,
-   "buyers=9; top5_hold_most=97%"
+   "SIC",
+   "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
+   0.14,
+   9.1,
+   ""
   ],
   [
-   "SC",
-   "J7q2vZiFuQA9BXoMGXpX8dQGtJs8vxCJ4bD22L1Npump",
-   0.15,
-   2.5,
+   "TOKEN",
+   "Hg7aSU5L4mA6EYj55p6577sU8JaqQ1HFXQt1v3Htpump",
+   0.132,
+   3.6,
+   ""
+  ],
+  [
+   "SI",
+   "DcfBijBiN2tdG4dtTkoJenCR24Zmnv2mJTjEiN8bpump",
+   0.124,
+   9.8,
    ""
   ],
   [
    "SIA",
-   "Bq6qBv4DW2FGF5NsUEFxSeM4uyH5uwAK4rusN3DCpump",
-   0.14,
-   4.6,
+   "AoM7GQUAeTB9vJbsMm5icrcNYcytvSTywqMJDVPFpump",
+   0.123,
+   5.4,
    ""
   ]
  ]
