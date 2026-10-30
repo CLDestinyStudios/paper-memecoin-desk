@@ -6690,83 +6690,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:38:17",
+   "2026-10-29T23:39:16",
    32.58
   ]
  ],
- "cycles": 2704,
+ "cycles": 2705,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.97105778844998,
- "watching": 163,
+ "sol_usd": 98.07111917915,
+ "watching": 168,
  "near": [
   [
    "ZERO",
    "Ddwf94wedgCuMHAkwgti8A7sL2CxvBYJStJBj2cFpump",
-   0.701,
-   9.0,
+   0.711,
+   10.0,
    ""
   ],
   [
    "SpaceX",
    "BKqqjPAFqfj2kGyt2ygztvX3bipxeDS2ZF7syN8zpump",
    0.273,
-   8.9,
+   9.9,
    "top5_hold_most=87%"
+  ],
+  [
+   "GEKKO",
+   "7QQXpVsGCxV8vYJH6RE9SoYeNZZeCsWUYBMXobyRpump",
+   0.18,
+   4.5,
+   "top5_hold_most=93%"
   ],
   [
    "NKH",
    "FY66BPnfmPsiv1JsqXfkTFXyMuSkCE4PoGUPyyjjpump",
    0.179,
-   7.4,
-   "top5_hold_most=94%"
-  ],
-  [
-   "GEKKO",
-   "7QQXpVsGCxV8vYJH6RE9SoYeNZZeCsWUYBMXobyRpump",
-   0.175,
-   3.5,
+   8.4,
    "top5_hold_most=94%"
   ],
   [
    "dog",
    "pJVqoxV2zrg1PuMfseyteEwPrGy6X3bziyQuNqbpump",
-   0.174,
-   3.0,
+   0.178,
+   4.0,
    ""
   ],
   [
    "MarsCoin",
    "EftyD5vJpbDM7KbbYAAW5nUuyLjA9rgxf6S1Bb8gpump",
    0.087,
-   7.7,
+   8.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "DOOR",
-   "2qVTJcpQXKt3MKvfWswoQn1ZRfLiYY4gFpqithGD2LAP",
-   0.082,
-   4.4,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Blero",
    "BbHx52yizinT1H9hKME6kJQDwefyjYzR1jN7MaiVpump",
    0.045,
-   4.4,
+   5.4,
    ""
   ],
   [
    "PARK",
    "5e1rCUegDrLTqKga7wqyAj26NbCeiLe7LVs6BgSfpump",
    0.043,
-   6.2,
+   7.2,
    ""
   ],
   [
-   "Gramps",
-   "AkguczhnMXUNkZ5ibY5obzfEEqLvUhJeeAqq4o3npump",
-   0.029,
-   4.8,
+   "DOOR",
+   "2qVTJcpQXKt3MKvfWswoQn1ZRfLiYY4gFpqithGD2LAP",
+   0.042,
+   5.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MarsCoin",
+   "5uopD3YTiK8rdATNUwKLRLCLE76VMNurqXPMLrmLpump",
+   0.025,
+   5.1,
    ""
   ]
  ]
