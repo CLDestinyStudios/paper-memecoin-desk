@@ -6882,84 +6882,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:06:04",
+   "2026-10-30T07:07:04",
    32.58
   ]
  ],
- "cycles": 3151,
+ "cycles": 3152,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.70763548595001,
- "watching": 183,
+ "sol_usd": 94.84091715254999,
+ "watching": 176,
  "near": [
   [
    "MARVIN",
    "D1ckRgB3wWrDEeXegqJraTqFN5FXYnhzGwfZhxcwpump",
-   0.904,
-   2.7,
+   0.923,
+   3.7,
    ""
   ],
   [
    "Pumpkin",
    "CogSVY2A7PEjvpUqxLe6LjXZQMrjjCqh4bSnsDBupump",
-   0.472,
-   4.9,
+   0.479,
+   5.9,
    ""
   ],
   [
    "\u20ac",
    "8835DxJa4U8DX9VpMmmUYuuQC3NAh64pneofqPYwvN9d",
-   0.291,
-   3.8,
+   0.281,
+   4.8,
    ""
   ],
   [
    "catdog",
    "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
-   0.197,
-   7.6,
-   "buyers=2; top5_hold_most=100%"
+   0.204,
+   8.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BTC",
    "H2UiNCbttCL2LLxURJ3ddDkgiJ6iuirkfD5rjFKgpump",
    0.188,
-   2.6,
+   3.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SLASHER",
    "4nPUstVLuxLLGfynKPDFCZrSajW7neAYkaFUgzxepump",
    0.188,
-   7.7,
+   8.7,
    "buyers=9; top5_hold_most=86%"
+  ],
+  [
+   "Stable",
+   "FRXmuNgpazACQKD3nbp9z2AmyK8xbqm6trM7NLuepump",
+   0.149,
+   2.8,
+   "top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "stablecoin",
    "AA43VzX7R3UtgEPvW72vUtCjRutaLLQDDW4wyYzRpump",
-   0.126,
-   6.5,
+   0.132,
+   7.5,
+   ""
+  ],
+  [
+   "Paul",
+   "96EWotFWj2NMsgihC8bBAD4JMJHHqUtTW18oB4ZUpump",
+   0.116,
+   2.8,
    ""
   ],
   [
    "stablecoins",
    "2HrFVDuVfQTJqwR1QhpunkFTcropy6WBR8reRNbKpump",
-   0.105,
-   5.5,
+   0.099,
+   6.5,
    ""
-  ],
-  [
-   "ROHO",
-   "GEaHPG1jNk93R8a53wXiTL7ZMpAQApsnjTCkcixFpump",
-   0.075,
-   4.9,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "BURGER",
-   "87oQ4DSgzCThzHX9Gkz3wa2uP2cAvWVLqwoMnNsMpump",
-   0.065,
-   6.4,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
