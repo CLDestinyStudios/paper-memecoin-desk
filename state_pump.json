@@ -7022,83 +7022,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:28:49",
+   "2026-10-30T12:29:50",
    32.58
   ]
  ],
- "cycles": 3473,
+ "cycles": 3474,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.36999999999999,
- "watching": 251,
+ "sol_usd": 94.36000000000001,
+ "watching": 249,
  "near": [
-  [
-   "Seed",
-   "2PC3ixyfa8oXZd9GmDR4obHjPYryGxCamYZNJTvipump",
-   0.699,
-   2.8,
-   ""
-  ],
-  [
-   "Humanist",
-   "52VFaAQzeMbiH7Yd5Sv2a2F78BYhB7oKmhQnBNC7pump",
-   0.674,
-   4.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Route",
-   "AzFxMpgKRgBKX4KBqGRZq44y9CCvPVdZRuctkvHpump",
-   0.644,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "MIPZI",
-   "MipzPVZVeaLsBom2ad9i8Ed26zYf4XUhHxwtDdnLSH1",
-   0.568,
-   9.1,
-   ""
-  ],
-  [
-   "DAVID",
-   "B6YgbiGMjQDrKEMuZWTYBg4oQX1GPrQQ7fifp9Kepump",
-   0.545,
-   4.1,
-   ""
-  ],
   [
    "REPLACEMENT",
    "6AivtfGfho9o3ZKFrpJcFkUesG7zrA2Tj8kQLYbMpump",
    0.515,
-   8.7,
+   9.7,
    ""
   ],
   [
    "Sword",
    "9yPEzvUxEMH3WHbHWNk3dWN4Rv27JobkPccxTpAPpump",
-   0.497,
-   6.1,
+   0.465,
+   7.1,
    "buyers=8; top5_hold_most=94%; launch_slot=missing"
+  ],
+  [
+   "HexHunt",
+   "HEXHUNTCehLwjWj9PKhQpUJrNmEi144bREijTeNXw15N",
+   0.423,
+   2.0,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Anakin",
+   "FFqZqmquk9cCMaAFXwqM5doLwLxSx3PkwSHvAMHFpump",
+   0.34,
+   2.2,
+   ""
+  ],
+  [
+   "CAPITAL",
+   "3nohFbXrneuPrSMhsq4sdegMycyVmcUEgDgQZpEgpump",
+   0.124,
+   2.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "MINECAT",
    "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
    0.076,
-   5.3,
+   6.3,
    ""
   ],
   [
-   "BUBBLE",
-   "Bk4zQApsd2DZdqvMF5PWVZdcfofNBqxQ5JQt7Fvtpump",
-   0.075,
-   5.7,
+   "DAVID",
+   "6AsBa96hsYHyq1rEDSqWB6SHpwpdNQCSUZ5VWbf4pump",
+   0.073,
+   2.1,
    ""
   ],
   [
-   "GARLIC",
-   "CnP5oP9zYNvPqfX4e51mtbay6MZLCLzKgwj6yyNSpump",
-   0.065,
-   8.0,
+   "Dawid",
+   "GoucLmKtzCipAfwbQpDf4pN14UMXko4xrnSYnPUGKw3a",
+   0.064,
+   2.6,
+   ""
+  ],
+  [
+   "DAVID",
+   "B6YgbiGMjQDrKEMuZWTYBg4oQX1GPrQQ7fifp9Kepump",
+   0.045,
+   5.1,
+   ""
+  ],
+  [
+   "Oogie",
+   "5y6iovGynDFKX8hd7REYxKGtdrjUb9ahK6YQQjy5pump",
+   0.043,
+   3.8,
    ""
   ]
  ]
