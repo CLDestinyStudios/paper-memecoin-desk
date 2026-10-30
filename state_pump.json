@@ -6644,82 +6644,86 @@
   [
    "2026-10-29T21:47:17",
    32.58
+  ],
+  [
+   "2026-10-29T21:48:23",
+   32.58
   ]
  ],
- "cycles": 2593,
+ "cycles": 2594,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.1690717665,
- "watching": 160,
+ "sol_usd": 97.138521587,
+ "watching": 153,
  "near": [
+  [
+   "MOUSEBRAIN",
+   "5tpvjivJvj8AcJwngWqtd9zjBAprQx3ex1Y2k3grpump",
+   0.374,
+   2.6,
+   "serial_creator=24 launches/24h"
+  ],
   [
    "HYPRA",
    "7XRz5hzv7dTeDo9nYQ4c8wnWSsTsx45GiJja8yPvpump",
-   0.313,
-   2.2,
+   0.241,
+   3.3,
    ""
   ],
   [
-   "Rugged",
-   "H9XH8w7pYHhhZtDaK5saPCgTg9GzD6TkM4j3wLAspump",
-   0.145,
-   5.1,
-   "top5_hold_most=86%"
+   "LONGHYPE",
+   "7vPXcmKFi7VfMrVNf8MYds7cczSvfXWDx1h1KGZmpump",
+   0.2,
+   2.9,
+   "top5_hold_most=98%"
+  ],
+  [
+   "MOUSEBRAIN",
+   "9jxTXrFhpeD5PEEVAhG7UAa2wR31af9nyH2JoogVAmWk",
+   0.159,
+   3.0,
+   "serial_creator=10 launches/24h"
   ],
   [
    "CROWD",
    "AYNuF45PDxDyJqFaqeNDm6ZvR4naaLK3MmUSsS9mpump",
    0.137,
-   7.2,
+   8.3,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Rugged",
+   "H9XH8w7pYHhhZtDaK5saPCgTg9GzD6TkM4j3wLAspump",
+   0.116,
+   6.2,
+   "top5_hold_most=91%"
   ],
   [
    "BHT",
    "9QGcC4hpV4cZNhdgzgUDu3uRk9KQVpQN8EtC7egwpump",
    0.063,
-   2.3,
+   3.4,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CBF",
-   "3QJWVKQ7rvWaYcPvVCT2nkiQbLtrj14TCGsXmZ9Mpump",
-   0.063,
-   9.9,
-   ""
   ],
   [
    "TraderTrai",
    "4cuxcLdFq2ss3qCDMALNtFevVHaGYBG2g2xiCMQYpump",
    0.043,
-   2.3,
+   3.4,
    ""
   ],
   [
    "TRADERTRAITO",
    "6Y8X347Ft8q1tWBvGkaLdkA1wFeAKAqgvD8D9wdgcyfW",
    0.042,
-   7.7,
+   8.8,
    ""
   ],
   [
    "HTZI",
    "HKuV1Mxhv9pfNX5pCQLqB7upie15rzQreReNdJJRpump",
    0.028,
-   3.5,
+   4.6,
    ""
-  ],
-  [
-   "CAPY",
-   "8GUSdrnQpH56SXKzfaGHjohGAshBJWcqGEvkydJZDZzP",
-   0.028,
-   5.8,
-   ""
-  ],
-  [
-   "FLEX",
-   "8mMGMhYy9HoPFR5kxgyyCRUewYAu6voBs5wRWWpBpump",
-   0.023,
-   5.1,
-   "top5_hold_most=97%"
   ]
  ]
 }
