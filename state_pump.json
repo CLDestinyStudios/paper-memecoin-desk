@@ -7106,83 +7106,83 @@
    32.58
   ],
   [
-   "2026-10-30T15:53:00",
+   "2026-10-30T15:54:01",
    32.58
   ]
  ],
- "cycles": 3677,
+ "cycles": 3678,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.72000000000001,
- "watching": 289,
+ "sol_usd": 95.70724999999999,
+ "watching": 285,
  "near": [
+  [
+   "TOLLS",
+   "2zvvbYhzsCKwns1XVt1DLgdX69NhZ8qbq14csa3cpump",
+   0.266,
+   2.7,
+   ""
+  ],
+  [
+   "Memo",
+   "HfsvRZYi2creyckAh7G3M4PSx6sca9BH9aEotcBBpump",
+   0.263,
+   2.8,
+   ""
+  ],
   [
    "Panic",
    "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
    0.238,
-   9.0,
+   10.0,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "3AM",
-   "AoFtZAJXJSZajtm7AgoJbtDiZqBAonZN3JyVqk6Wpump",
-   0.202,
-   6.9,
-   "top5_hold_most=84%"
-  ],
-  [
-   "MEMES",
-   "xdKDf3hJJMrALjGgyad3UZ76NjG26Y747SXdLiCpump",
-   0.128,
-   9.6,
-   "top5_hold_most=81%"
-  ],
-  [
-   "PHANTOM",
-   "GsJaNe6eMJsmef5Y1rbEKSzHwsDNT2fRsHbA2bWhpump",
-   0.124,
-   2.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "SIGER",
    "6d6idsr2y8ryCi3vwRABwEY6SKKQFssj976Qb1CS2DVB",
    0.119,
-   7.5,
+   8.5,
    ""
   ],
   [
-   "PKIN",
-   "CbqAZthSk8JLNWGcUp9DhySCoH6tnFM9C1ckU476pump",
-   0.109,
-   9.5,
-   "buyers=6; top5_hold_most=100%"
+   "memes",
+   "33JoxnAdih3FATUnECpEQ5iaL3MaKRzSNBhaWAnzpump",
+   0.102,
+   2.6,
+   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "COMMAS",
+   "6zk1bmh2jinyy5TuYBEa94yukkouyXbXGiNcS6Mapump",
+   0.044,
+   2.5,
+   ""
   ],
   [
    "META",
    "9rT7DhpqJc2oodmijCFfr8PJcfatVARKZ8ZRtu6Ypump",
    0.039,
-   6.5,
-   ""
-  ],
-  [
-   "9LL",
-   "GxwP3s6UtENSGZoaZJy3YJqHCoM9vwZbtNf7tcTF59LL",
-   0.034,
-   9.9,
+   7.5,
    ""
   ],
   [
    "CHIPPY",
    "5VuyQEXLQ38HP1gbNjNPrB1YpCwvxRCU71LhAYA8pump",
    0.028,
-   3.4,
+   4.5,
    ""
   ],
   [
    "REAG",
    "FqGaJ8aEbALWHfFoppHUqFhHpbR3fqYkgey1CnsVpump",
    0.026,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "Meximutt",
+   "CaWUnWF3VxDeiMRiLbLctJ28NhYvvkQ2qbSnt1XPpump",
+   0.019,
+   4.7,
    ""
   ]
  ]
