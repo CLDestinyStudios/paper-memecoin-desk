@@ -6936,81 +6936,85 @@
   [
    "2026-10-30T09:10:46",
    32.58
+  ],
+  [
+   "2026-10-30T09:11:45",
+   32.58
   ]
  ],
- "cycles": 3275,
+ "cycles": 3276,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.74455619779383,
- "watching": 264,
+ "sol_usd": 94.69629960610001,
+ "watching": 276,
  "near": [
-  [
-   "WIZARDCAT",
-   "EYpSatDyAUYGoRfaC7nCV674ksR7FQQmy81JyjZspump",
-   0.717,
-   2.9,
-   "creator=52.8%; top10=56.0%; top5_hold_most=97%"
-  ],
-  [
-   "slut",
-   "G2Ts7bUSWxvDfCfyXXG1XQKeXk8awW8Z3HecoR7Ypump",
-   0.427,
-   7.0,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "LEDANCE",
    "Gbwtt1D8DLDSkUtRD4wSM7yzBuRFCgSTJuknAt5hpump",
-   0.382,
-   3.8,
+   0.413,
+   4.8,
    ""
   ],
   [
-   "CZELON",
-   "ABB84kegxkzDDQrrdZfAB7QipbkogcrENpWDXrtdpump",
-   0.353,
-   2.4,
-   "bundled_launch=4 extra buys in creation block"
+   "Saraya",
+   "5RZTrD2KgmM8DtPoaLwqTzrPtrU2SKrsj8JMGDDdpump",
+   0.227,
+   6.8,
+   "serial_creator=10 launches/24h"
   ],
   [
    "believeinu",
    "GFbQojCLW9y1ra5cBcgC9UsBX8j5ejS7enUFMYRLpump",
-   0.353,
-   3.0,
+   0.206,
+   4.0,
    ""
-  ],
-  [
-   "BLASTOISE",
-   "2Bc6pQCnQWYRVxveKgoqf6D252p86fs8xA4UscShpump",
-   0.234,
-   2.8,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "pCAT",
    "AHwswZgCmDYPv7XSmgVjruAJvGuR68aZmLLJqPz9pump",
-   0.194,
-   6.4,
+   0.193,
+   7.4,
    ""
   ],
   [
    "SUGAR",
    "2YtV6LLp1xYp42im5NxQTaGovuGYrUfdfKbNcbJdpump",
-   0.125,
-   5.3,
+   0.128,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "pCAT",
    "98GCmtp9Bn5gdkcEzmnJ6mNM7pTDKemSgazPLtgM8pjJ",
    0.12,
-   6.3,
+   7.3,
    ""
   ],
   [
    "LDO",
    "EaJ6Uwi5wbCDQSkq7k1gXuaZucPH3d5CJnxmTeqoH8dp",
    0.109,
-   4.5,
+   5.4,
+   ""
+  ],
+  [
+   "ROBYN",
+   "5kxVsqXdVZci3JdY2Z12tnvsCVKTm7oUZbf4JgVJpump",
+   0.064,
+   4.6,
+   ""
+  ],
+  [
+   "WIZARDCAT",
+   "EYpSatDyAUYGoRfaC7nCV674ksR7FQQmy81JyjZspump",
+   0.062,
+   3.9,
+   "top5_hold_most=82%"
+  ],
+  [
+   "KIM",
+   "2cD4L7eW8xgzZXrEf9n2Mvot3DPSnVQMU5zGHyFFpump",
+   0.053,
+   5.5,
    ""
   ]
  ]
