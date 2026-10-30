@@ -6554,83 +6554,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:17:09",
+   "2026-10-29T18:18:37",
    32.58
   ]
  ],
- "cycles": 2383,
+ "cycles": 2384,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.235,
- "watching": 145,
+ "sol_usd": 94.06575161434999,
+ "watching": 143,
  "near": [
   [
-   "DFG",
-   "AR9kA89zJc6begV68JGrq4aavJ53bFTZrhESeid7pump",
-   0.156,
-   4.0,
-   "top5_hold_most=94%"
+   "Burry",
+   "CvAKqQ7wbQhRS85voQKZ1j2DiyMHydwkPSZAV394pump",
+   0.532,
+   6.3,
+   ""
+  ],
+  [
+   "TSI",
+   "3zHkuUTTGTKbkRJADjKNwFjJmxEK33R7pyXT3rMdpump",
+   0.208,
+   3.2,
+   "buyers=1; creator=16.5%; top5_hold_most=100%"
+  ],
+  [
+   "BELIEVE",
+   "3fuAWkmP3HFKKtqz4BXbzE1oYNz1iTpQuE6JoXaspump",
+   0.198,
+   5.8,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "CRABTCHA",
    "46ZyyEHzjwG7PQsfJMGALQJ5YZHfPRHdGrffMcVHpump",
    0.14,
-   7.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SQUID",
-   "CztKMcJ96r8KbDgk3TMVxT2N8FCcHVY2dnV9CqoDpump",
-   0.128,
-   3.0,
+   8.7,
    ""
   ],
   [
-   "Speedrun",
-   "A9quW1aw3vNg1b1wnsPUmrcG7jW4oUXAbGZKyYmQQSEA",
-   0.087,
-   4.5,
+   "DFG",
+   "AR9kA89zJc6begV68JGrq4aavJ53bFTZrhESeid7pump",
+   0.139,
+   5.5,
+   "top5_hold_most=99%"
+  ],
+  [
+   "SBF",
+   "AYMCZdBqDGiCDzFDfB7fSqpVAcFn62xDEKjwZEw5pump",
+   0.078,
+   4.9,
    ""
   ],
   [
    "SF",
    "6ASRWYvN3WjZudLYBCX8HnFTfsc3GBBgwjPW8BYjpump",
    0.07,
-   8.6,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "bob",
-   "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
-   0.042,
    10.0,
    ""
   ],
   [
-   "TMTRD",
-   "D8jeW68MuZGTQDxezpK2hKjc8tzhv5vsZq581FbVpump",
-   0.032,
-   2.2,
+   "Speedrun",
+   "A9quW1aw3vNg1b1wnsPUmrcG7jW4oUXAbGZKyYmQQSEA",
+   0.061,
+   6.0,
    ""
   ],
   [
-   "domoney",
-   "2X7Uno3SA9nHApFPPBe3h8YG8rjR6sBywK2Qy749pump",
-   0.026,
-   2.9,
+   "DFG",
+   "6GTupzLDqGiXiJsokc5W6XbYXSak5H6rFegmZdLPpump",
+   0.046,
+   9.6,
    ""
   ],
   [
-   "$EXO",
-   "FMEeujhkjxpbQjYDm1hEgEyXWMqT1sWBMidUNpcLpump",
-   0.024,
-   7.6,
-   ""
-  ],
-  [
-   "HACKER",
-   "CoUsFw5josBotc3PpxUEJLQ3Y1wjEBXHPujD7D3spump",
-   0.024,
-   3.1,
+   "PREDICTORS",
+   "Agz1bwX5huRD1Am8SmWyarj3HPAHXVYEifQuJ9R9pump",
+   0.043,
+   3.3,
    ""
   ]
  ]
