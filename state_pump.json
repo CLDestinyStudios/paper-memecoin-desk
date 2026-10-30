@@ -7110,84 +7110,84 @@
    32.58
   ],
   [
-   "2026-10-30T16:00:58",
+   "2026-10-30T16:02:08",
    32.58
   ]
  ],
- "cycles": 3685,
+ "cycles": 3686,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.72,
- "watching": 250,
+ "sol_usd": 95.6937245629,
+ "watching": 260,
  "near": [
   [
-   "KNUT",
-   "BN7HPXrs42u99gqRPaLPg6fMN6Kb58tY9PueePj3pump",
-   0.438,
+   "Gorillo",
+   "EXyvsj9e1NQ3viwRwdmh5JTwTFaFpfaSrUDpzJvzpump",
+   0.303,
    2.4,
-   "bundled_launch=8 extra buys in creation block"
+   "top5_hold_most=90%"
   ],
   [
    "$CCOW",
    "Au233mR6m2h3WxfUabbxiT1WsfakLgKNzX9hNhHbpump",
    0.27,
-   5.6,
+   6.7,
    "top5_hold_most=86%"
   ],
   [
-   "BSOL",
-   "7QbAZpoMWH6eDCdEyyBtj24gnnH6LJ2XpmeL3Pu1pump",
-   0.148,
-   2.4,
-   "top5_hold_most=83%"
+   "Cock Milk",
+   "CNQctdJWXVMsxdU3GfMvQya8VPjsRwvQJcoYPRncpump",
+   0.147,
+   2.3,
+   "top5_hold_most=90%"
+  ],
+  [
+   "Retardatide",
+   "DdEBDVKMLdbRHLsTw55XRc82KaHTasTeBdFsDBnPpump",
+   0.132,
+   2.7,
+   "top5_hold_most=91%"
   ],
   [
    "PROPHECY",
    "4eFcPpCsHFJ3gfjgCXoY1N4gzXR6TBpuTmGqeXN2pump",
    0.127,
-   7.5,
+   8.7,
    "buyers=9; top5_hold_most=96%"
+  ],
+  [
+   "AAPL",
+   "3oXme1FGQ8bM55wPmJBsA6idoYzwx3KUPcB7YFJSpump",
+   0.124,
+   3.4,
+   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "\u7ef4\u65af\u73c0",
+   "7Qnfd9YUrhRGZyQJfNqJRFhH2WqpDMXTaonEwdb9pump",
+   0.111,
+   3.4,
+   ""
   ],
   [
    "3inches",
    "u3RV756Nqd9VdKDLHWCfHsph5WeQRuGAcGiBFmQpump",
    0.11,
-   9.0,
+   10.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "CWC",
    "3ropBGsQ8nbmMvSSUqAwRBjxuFbHkXxpS4uhh6Ynpump",
    0.106,
-   3.6,
+   4.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "KK",
-   "FpjhqT2MzJNQaTU5V3FkNdTsCmJYGxyuep4uQ5kqpump",
-   0.105,
-   2.2,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "AAPL",
-   "3oXme1FGQ8bM55wPmJBsA6idoYzwx3KUPcB7YFJSpump",
-   0.099,
-   2.2,
-   ""
-  ],
-  [
-   "HALLOWEEN",
-   "BXmoJ3a7deqe9dGxGTqe8SJJf63X4n6uEPUwm257pump",
-   0.083,
-   6.5,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "PRSD",
-   "RvYMtYoFpnMK9TWYvBBNwpMk3TbPXzKKJkMcYJjpump",
-   0.075,
-   5.9,
-   "buyers=3; top5_hold_most=100%"
+   "fomo",
+   "CejFzqH3Y576UMWqKicq6ShB7za23bHUxsh4WPPBpump",
+   0.1,
+   2.4,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
