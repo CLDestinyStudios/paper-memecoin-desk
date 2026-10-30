@@ -6834,83 +6834,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:15:47",
+   "2026-10-30T05:16:46",
    32.58
   ]
  ],
- "cycles": 3041,
+ "cycles": 3042,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.50329811579502,
- "watching": 123,
+ "sol_usd": 96.51999999999998,
+ "watching": 116,
  "near": [
-  [
-   "Kit",
-   "7FAGfLpsXaERrEUSAQ1yJ2iMe8vZJQAsiPTLLWEjpump",
-   0.572,
-   8.1,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "holyanus",
    "DnZXtYhR4M4QfXNkGjQ7ToeEDUyURkpZ68n8hTVJpump",
-   0.108,
-   4.2,
+   0.181,
+   5.2,
    "buyers=7; top5_hold_most=94%"
+  ],
+  [
+   "WWCART",
+   "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
+   0.141,
+   8.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Paul",
+   "AEUDFU2NgTgpbmVzhN9vP6A5aiVnBjRgf4T9N766pump",
+   0.13,
+   2.4,
+   ""
   ],
   [
    "Bo",
    "4rnefc3LMYFoX64KP4MtuGybpJAuS9oRA6xVhxnKpump",
    0.1,
-   2.2,
+   3.2,
    ""
   ],
   [
    "XOM",
    "Rc1c2iY5NBjhqUTrcSuKJPwYdrvA8hcRfVCq9F7pump",
    0.099,
-   3.6,
+   4.6,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "grove",
-   "AsVJWeCo7KjkPokbA9LpxcjRVeZJWQkYfp2aw7sKpump",
-   0.094,
-   6.5,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "WWCART",
-   "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
-   0.081,
-   7.5,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BOTCHI",
    "3zKadRc7WTtoMuPmXdJihF8RXfrFFLr4FmxWJmvEpump",
    0.061,
-   4.9,
+   5.9,
    ""
   ],
   [
    "SAFU",
    "2ZijjGxVwVCy7MQBhhXjRVafZmcbWePTsqZCGan7pump",
    0.055,
-   3.9,
+   4.9,
    ""
   ],
   [
    "KCKB",
    "joNgCa4N4SaFDAxnkKz8Dwu7CwQ3mioqPwaMVT4qXsz",
    0.051,
-   6.1,
+   7.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Blindsight",
    "GK54rgrDURTeVjd4gEFuFuEm6Bkw4gL1aU5Z5Q7Tpump",
    0.049,
-   2.8,
+   3.8,
+   ""
+  ],
+  [
+   "HSS",
+   "EY17Jzd9ZRBLHrEs7kZxVJkr1R2FMaC2SYhxyefNpump",
+   0.043,
+   4.6,
    ""
   ]
  ]
