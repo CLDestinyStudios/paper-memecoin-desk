@@ -6538,84 +6538,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:41:08",
+   "2026-10-29T17:42:18",
    32.58
   ]
  ],
- "cycles": 2347,
+ "cycles": 2348,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.72280098251832,
- "watching": 228,
+ "sol_usd": 93.21041338644999,
+ "watching": 227,
  "near": [
-  [
-   "rope",
-   "BWCdNNdHftVrbQqyEYf5HDcanaNTnpNdeRtfMHhWpump",
-   0.907,
-   4.8,
-   ""
-  ],
   [
    "JEAN",
    "BsvK5vDLLCJqfbqAcKMvhYiAfMF5efdxPEi7tiX4pump",
-   0.582,
-   6.3,
+   0.684,
+   7.5,
    ""
+  ],
+  [
+   "rope",
+   "BWCdNNdHftVrbQqyEYf5HDcanaNTnpNdeRtfMHhWpump",
+   0.626,
+   6.0,
+   "launch_slot=missing"
+  ],
+  [
+   "Bottom",
+   "3kLqpX3xff6895UrGodpsbq4dF9W78AZoXQydyCZpump",
+   0.594,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "rope",
+   "4NfZyzrv4Kx281Ly4VMvZ3F4YpN4xym2sAntvtJLpump",
+   0.557,
+   3.1,
+   "launch_slot=missing"
   ],
   [
    "DOOMSDAY",
    "edYRErzBWKtQzyaZbWUXXTAePRbGUaqs88kANpSpump",
    0.175,
-   3.3,
+   4.5,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "roach",
-   "jiTPr8DrSr2yPe2cYNHdB4pnBm9iYLB69HpPuKMpump",
-   0.114,
-   9.1,
-   "top5_hold_most=87%"
-  ],
-  [
-   "Octover",
-   "HQfr8YTgHhPkMMgM8uDUYPzs5pqW5QDvzE4DmXUXpump",
-   0.111,
-   2.2,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Bottom",
-   "Der5cc8Z8eu3PtiV59ajzoAoWWJkU8uSvZ5nx7Mapump",
-   0.11,
-   2.7,
-   "buyers=7; top5_hold_most=99%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "hope",
    "He2zjux2TBhfsG4z2aPJqCvvcjkLjytr4gBYA1ZCpump",
    0.106,
-   8.3,
+   9.4,
    ""
   ],
   [
    " ",
    "ESG4HNEuGiZt8k6seKvv428WkJgpt5fm9h4fwxw3pump",
    0.101,
-   3.9,
+   5.1,
    ""
   ],
   [
    "beans",
    "AwkXjjS4ZFAAiNvvMX8WU7vwMLkFjqcMXJwLsETppump",
    0.091,
-   4.0,
+   5.1,
    ""
   ],
   [
-   "SPS",
-   "BnbCkdeMsyjEPrsZmb1KrqVeQsg8dn9nuKMQXtcJpump",
-   0.083,
-   10.0,
-   "buyers=1; top5_hold_most=100%"
+   "Sminem",
+   "BnVwLQ5nnPxFFUpjK6yfZesLaZpPWzW7mVAjq2HGpump",
+   0.078,
+   3.4,
+   ""
+  ],
+  [
+   "Octover",
+   "Ei2Pb7zPqqGu77o4keaGi5UpJfR1UXyqeaQNoS2mpump",
+   0.076,
+   4.4,
+   ""
   ]
  ]
 }
