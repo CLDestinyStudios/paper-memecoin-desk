@@ -6996,81 +6996,85 @@
   [
    "2026-10-30T11:30:53",
    32.58
+  ],
+  [
+   "2026-10-30T11:31:48",
+   32.58
   ]
  ],
- "cycles": 3415,
+ "cycles": 3416,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.935,
- "watching": 323,
+ "sol_usd": 93.88268170955,
+ "watching": 333,
  "near": [
   [
    "ghosti",
    "FbBhCoFwooQN5jdRAgwQpPo2GUMEgjqUPztwTTuTpump",
-   0.97,
-   4.6,
+   0.975,
+   5.6,
    ""
   ],
   [
    "HI",
    "89oPigY8Unc5yZjkEqwcugMThpSLS984njtUuJ8Fpump",
-   0.444,
-   5.0,
+   0.502,
+   5.9,
    ""
   ],
   [
    "GG ",
    "DpYpnrsPsa9qYn6xZ5P92Pz2nNyC5gJdRoNoFxXapump",
-   0.251,
-   3.6,
+   0.232,
+   4.5,
+   ""
+  ],
+  [
+   "Test",
+   "fT5hBZNcRtGrAqH2sA4rGZWWU9YK5deKEvfLDAoEKWy",
+   0.174,
+   2.7,
    ""
   ],
   [
    "TWIF",
    "2cnnvbJFDtwnXha9AD6Yr7W9GYfiNPEGi4Wbeop7pump",
-   0.146,
-   3.7,
-   "buyers=9; top5_hold_most=98%"
+   0.17,
+   4.6,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "fomo",
    "3tSMDnjPmmEvjEDSga18hTuAyY8x4HMDeEN7nWTLpump",
    0.116,
-   2.6,
+   3.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "TYGR",
    "FyG1Jr13zj7U957aw1voxZPU7Rv1iA4YnQKSvTKBpump",
    0.071,
-   6.9,
+   7.8,
+   ""
+  ],
+  [
+   "GINU",
+   "8bMNk6i8s9akuR6ygMiSMJesy3LnnGwW4Vsdgbat82fK",
+   0.045,
+   7.7,
    ""
   ],
   [
    "boo-lish",
    "5V5HywiGRXwf7nFHiAfgxLhcnTWK3geSKMSzkPZTpump",
    0.043,
-   3.3,
+   4.2,
    ""
   ],
   [
-   "Wangcai",
-   "65Yry31J11yVuke724giBmsJ1SZHFnNUvJoe4iADpump",
-   0.043,
-   9.2,
-   ""
-  ],
-  [
-   "GINU",
-   "8bMNk6i8s9akuR6ygMiSMJesy3LnnGwW4Vsdgbat82fK",
-   0.043,
-   6.8,
-   ""
-  ],
-  [
-   "PLV",
-   "9APvSgZcKPCgYjC23eZGBojLr6dNu9s2K2VRwiCFcYRV",
-   0.018,
-   9.3,
+   "$EDOG",
+   "9K9MqTqjWfvAL4z1m4xLq7H6barP25NQhVnSXX3Qpump",
+   0.016,
+   4.4,
    ""
   ]
  ]
