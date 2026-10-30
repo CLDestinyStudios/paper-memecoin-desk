@@ -6860,81 +6860,85 @@
   [
    "2026-10-30T06:13:04",
    32.58
+  ],
+  [
+   "2026-10-30T06:14:05",
+   32.58
   ]
  ],
- "cycles": 3098,
+ "cycles": 3099,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.49,
- "watching": 154,
+ "sol_usd": 96.44321393235,
+ "watching": 160,
  "near": [
-  [
-   "Cyber",
-   "7nyEor8ayMibc42Xa1ikRvpNKnA6w5JjGasFGzvgpump",
-   1.0,
-   2.1,
-   "graduated"
-  ],
-  [
-   "Peep",
-   "5YWtiztA69vRRcYfn9hCbb1dnoBShrhvhzt1x8PLpump",
-   0.636,
-   3.5,
-   "creator=34.2%"
-  ],
-  [
-   "UNSEEN",
-   "3KL38bdsLiFxRFY6dpLu4YHPCcvPmKq4AXoA8uRNpump",
-   0.4,
-   9.9,
-   "buyers=7; top5_hold_most=87%"
-  ],
   [
    "laptop",
    "9BfiiYkSoGC1Ke7v4cEnhwZUHFsniEu5dNd9urc1pump",
-   0.338,
-   2.2,
+   0.555,
+   3.2,
    ""
   ],
   [
    "Cell",
    "5DYrpAQDSHHLEf9ezwK3HFG1hm6yFddZs8LYZq4Hpump",
-   0.294,
-   6.2,
+   0.39,
+   7.2,
    ""
-  ],
-  [
-   "SWARMPAD",
-   "8Ef7A47Kf19EQ57rXSZYpZ6wKKfdhWZ6stbUYRVbpump",
-   0.227,
-   2.1,
-   "buyers=9; bundled_launch=5 extra buys in creation block"
   ],
   [
    "LAPTOP",
    "DZm8j25AqjUmdoqibfEMNdBTedssM7Q3tA2RMQcK2F65",
-   0.202,
-   2.6,
+   0.263,
+   3.6,
    ""
   ],
   [
-   "CTO",
-   "6ZEaqL6hPDJtos7zBAEXBTxtt4ggVTwCtcDfFLKhpump",
-   0.144,
-   3.3,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "1064364",
-   "8eDS15qUwRTTvLLmHgfNCQQ8cnkx1sUyVDeFjcwKpump",
-   0.141,
-   3.2,
-   ""
+   "LAZARUS",
+   "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
+   0.149,
+   2.1,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SUBCAT",
    "GdhWJGnPSC2pPz1z2Zog1Me59sKxEp5ekks8uFmCpump",
-   0.129,
-   2.5,
+   0.131,
+   3.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "RAPTOP",
+   "9yzBfzPrxGoTpMye7TBp5Fz2erFdwrZ1fiPoSnBEkN3J",
+   0.116,
+   2.2,
+   ""
+  ],
+  [
+   "RAPTOP",
+   "6GM7aF2LkJAz3fqUTzvM8qhCUuAxSv6SmXk9fve8bPc8",
+   0.083,
+   3.1,
+   ""
+  ],
+  [
+   "Peep",
+   "5YWtiztA69vRRcYfn9hCbb1dnoBShrhvhzt1x8PLpump",
+   0.076,
+   4.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "Insider",
+   "9Trs6sXHUzDfBjjX8ifzRxfJCdJtfeSk8JGSinFPpump",
+   0.073,
+   3.2,
+   ""
+  ],
+  [
+   "ELON GTA",
+   "6eSGaqbsDpjHvKbmSYtSHWmi9VnrpMr2NsNLZM7gpump",
+   0.072,
+   4.0,
    "buyers=2; top5_hold_most=100%"
   ]
  ]
