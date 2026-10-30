@@ -6914,84 +6914,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:17:48",
+   "2026-10-30T08:18:51",
    32.58
   ]
  ],
- "cycles": 3222,
+ "cycles": 3223,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.39508322965,
- "watching": 298,
+ "sol_usd": 95.53,
+ "watching": 292,
  "near": [
   [
    "PI",
    "8UCqiDbFtvCa9y88Sk3dNsqKjNLaR8d42UuVsxQPpump",
-   0.909,
-   4.4,
-   ""
+   1.0,
+   5.4,
+   "graduated"
   ],
   [
-   "OPSEC",
-   "3xwQSjGMe2XPpB9D8FTpgmzw9z6ZApmcJpduqj4Jpump",
-   0.314,
-   2.5,
-   "serial_creator=11 launches/24h"
+   "Paws",
+   "D7DwoPJshuKPD87KSGCmyN6bQXqFLPLSu9bkL5V8pump",
+   0.409,
+   3.0,
+   ""
   ],
   [
    "ELONTROLL",
    "GGod7JBEcx4c2r1LSLyS96gDKjZTDCdyfdGGpPU3pump",
    0.282,
-   2.1,
+   3.2,
    "top5_hold_most=89%"
   ],
   [
    "UBER",
    "7LnSSwAV33YyEdS94FwZ3GHiVPKXUb3gu16xBX17pump",
    0.235,
-   8.8,
+   9.9,
    ""
   ],
   [
-   "pINU",
-   "F7UAzNn1MS8KRPrPFRf4miTaSkGC1ebtZwHm5iDppump",
-   0.214,
-   4.2,
+   "$19",
+   "E7p3eCc87U6ci5szC72Y7cg8WFzCaudT1QzzAF1rpump",
+   0.151,
+   2.6,
    ""
+  ],
+  [
+   "LOKI",
+   "7TQp4AorgffEZbmuq8i2GyeTL8oS1uUkxdCoCVFupump",
+   0.135,
+   3.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BBCINU",
    "E9sndvbLYiay27ofi7x67JupjjgYbEHVtXT3HoK4pump",
    0.133,
-   7.6,
+   8.6,
    ""
   ],
   [
    "Pantsed",
    "J1Q9DFmJ4do4RgnY3EgS42r9Ads4svwDBthukcovpump",
    0.131,
-   5.9,
+   6.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PI",
    "2W9ZtKdtaCPNm7CbLS4KHeb4YcyLdaEA1NCEzcnPmsrF",
    0.122,
-   4.5,
+   5.5,
    ""
   ],
   [
    "RIPONS",
    "FFFFn26Nse4eaHBE8JuoJt57QsYuaviYxXEgsWZRdEad",
    0.119,
-   3.4,
+   4.4,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "FUTURE",
-   "9KMTGx9nyxidkHSToa6jYrRx2B5qjtqTUWeutoHKNaNu",
-   0.115,
-   9.6,
-   ""
   ]
  ]
 }
