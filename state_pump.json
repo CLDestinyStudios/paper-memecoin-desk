@@ -7058,83 +7058,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:53:51",
+   "2026-10-30T13:54:52",
    32.58
   ]
  ],
- "cycles": 3558,
+ "cycles": 3559,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.92822793704998,
- "watching": 238,
+ "sol_usd": 95.03,
+ "watching": 229,
  "near": [
   [
    "NUDELON",
    "FQxUehiYk1b7fqeCbBjpFgCTqF4pZJ486weVPxQCpump",
-   0.972,
-   3.4,
-   ""
-  ],
-  [
-   "JShock",
-   "3U3a5sjE5inGLJMLfoRWMYSUuJUoyiiESiK6fJ1Spump",
-   0.504,
-   2.4,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "CREAINU",
-   "3MmGMHoBntPnrzVgYHsfbRRPDgNjHsSsudQktUtspump",
-   0.394,
-   2.9,
-   "bundled_launch=3 extra buys in creation block"
+   1.0,
+   4.4,
+   "graduated"
   ],
   [
    "FOMOKOMBAT",
    "F4sewWrrptosMWpCT38ouNirFWcvLntTtg2ywgvbpump",
-   0.373,
-   6.1,
+   0.321,
+   7.1,
    "buyers=9"
-  ],
-  [
-   "HSCREAM",
-   "HqewFrht1JJWsdh44aJQVdh26RDqgy6Y9FpMTUZKpump",
-   0.163,
-   2.5,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "GREENLIT",
    "3tg5xQBpuxax2hHY9CEWtSqw7DdcWx3ywdPqERE3pump",
-   0.153,
-   2.6,
+   0.218,
+   3.6,
    ""
+  ],
+  [
+   "HSCREAM",
+   "HqewFrht1JJWsdh44aJQVdh26RDqgy6Y9FpMTUZKpump",
+   0.167,
+   3.5,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "5TCK45KBCB24CvrdfhHvry31PJA4J7KDe9vT9qB7pump",
    0.069,
-   5.7,
-   ""
+   6.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "HypeSync",
+   "ENS4ig6WCPrww5Guo4vpjpVTDEDwjGgvHaJPoYTWAVrn",
+   0.068,
+   2.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "DEpiVwaGstSmNa8jYHVRqiDn4fHNWnhQpqXUN1Tcpump",
    0.059,
-   3.6,
+   4.7,
    ""
   ],
   [
    "Zrool",
    "FerDjKEFR9TZEzJRYsUfpSSzLrodhKRKcMQX12Gjpump",
    0.043,
-   3.3,
+   4.3,
    ""
   ],
   [
    "EYES ON SCOP",
    "4sgQdiT4WfudDw18x14a1pbgbpSGyrudoMPeoPnipump",
    0.043,
-   3.7,
+   4.7,
+   ""
+  ],
+  [
+   "CCI",
+   "D8AwPaPtCEFvxB2datCDybPKWsWEYdFNJ5rSZGMVpump",
+   0.042,
+   6.1,
    ""
   ]
  ]
