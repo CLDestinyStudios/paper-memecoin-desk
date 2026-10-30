@@ -7094,84 +7094,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:21:53",
+   "2026-10-30T15:22:52",
    32.58
   ]
  ],
- "cycles": 3646,
+ "cycles": 3647,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.28949144890001,
+ "sol_usd": 95.42699999999999,
  "watching": 249,
  "near": [
   [
-   "JOLLY",
-   "72xT8GLE76h6eVXSQtH6xTScJ4aikpXe5jiTLqDPpump",
-   0.982,
-   4.0,
-   ""
-  ],
-  [
    "STAN",
    "A79ZrT6t8thikjJHZpC8dL3SvGB3iPRdJPgZJ66Wpump",
-   0.951,
-   3.6,
+   1.0,
+   4.6,
+   "graduated"
+  ],
+  [
+   "JOLLY",
+   "72xT8GLE76h6eVXSQtH6xTScJ4aikpXe5jiTLqDPpump",
+   0.973,
+   4.9,
    ""
   ],
   [
    "Biscuit",
    "FHwxTyU8btJz1spi1yvdeNq8bSNcMWmsLX78xtgApump",
-   0.468,
-   2.3,
+   0.534,
+   3.3,
+   ""
+  ],
+  [
+   "BISCUIT",
+   "8Ps7t3UPzxFcRHgRVMFWurXmT5Mj4mZADAVwvgEqpump",
+   0.145,
+   2.8,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Biscuit",
+   "9Mnc1HmBFyYCv9d6Nfx7PXqYmmUPKjzavjTsVhsDpump",
+   0.123,
+   3.0,
    ""
   ],
   [
    "PORN",
    "5ajXAgpKvnGRRu3XN1E68grj2Hd1QV22M4zjN2sXpump",
-   0.152,
-   8.9,
+   0.101,
+   9.9,
+   ""
+  ],
+  [
+   "Biscuit",
+   "CZEVH84aWDWUjmfmQEUVzs6En7kJL5m8zhbYVJ9ipump",
+   0.094,
+   3.6,
    ""
   ],
   [
    "i",
    "F6gketR3HA9FhDvAgUmq8cnCBJGJZFmk7jEboDppump",
-   0.083,
-   2.1,
-   "buyers=2; top5_hold_most=100%"
+   0.09,
+   3.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "KAROL",
    "J9Z3XbBsnZwbGx6KPwsrWpZi6WX1bBLB9tkpByN3pump",
    0.063,
-   5.2,
+   6.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "BHAM",
    "2xmYybXzzhGHWxhEwpJ5ufxEvg5CeFcFEdvfzHxQpump",
-   0.054,
-   4.1,
-   "buyers=7; top5_hold_most=88%"
-  ],
-  [
-   "Biscuit",
-   "CZEVH84aWDWUjmfmQEUVzs6En7kJL5m8zhbYVJ9ipump",
-   0.053,
-   2.6,
-   ""
-  ],
-  [
-   "Biscuit",
-   "HYWd9Zb2P8fW8J2iTnLvuuqmiGyP5d9XcpSBXMA1pump",
-   0.048,
-   2.7,
-   ""
-  ],
-  [
-   "DOGE2",
-   "4dm7zhLy7hJ29TaGxia22BmMBSDztDr9Y1kztrESvoEN",
-   0.043,
-   9.4,
-   ""
+   0.05,
+   5.1,
+   "buyers=6; top5_hold_most=95%"
   ]
  ]
 }
