@@ -6918,83 +6918,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:27:49",
+   "2026-10-30T08:28:50",
    32.58
   ]
  ],
- "cycles": 3232,
+ "cycles": 3233,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.97006205335,
- "watching": 205,
+ "sol_usd": 94.80009972005,
+ "watching": 210,
  "near": [
   [
-   "HACKHOUSE",
-   "9zRNZjZZC94Rgw1ddwzfvqkdJDQpmn9rhmGiqPyVpump",
-   0.649,
-   2.6,
+   "odds",
+   "B4PqEPHpqEmsXnEt8HhXBweqxdwE9k9Y2yKk4vAdpump",
+   0.978,
+   2.7,
    ""
   ],
   [
-   "zFund",
-   "7AXcW6PeNkXNBWn97AD7SVpp9BCP265HazA2ftMpcSUk",
-   0.261,
-   6.1,
-   "bundled_launch=3 extra buys in creation block"
+   "HACKHOUSE",
+   "9zRNZjZZC94Rgw1ddwzfvqkdJDQpmn9rhmGiqPyVpump",
+   0.773,
+   3.6,
+   ""
+  ],
+  [
+   "HALO",
+   "3u3r6qeqzAPjX4KsxSvH511A1ASSZMxpBV2gFPcdbHHE",
+   0.582,
+   2.9,
+   ""
+  ],
+  [
+   "NA",
+   "2dHXxZYFqTnf4MybhfvckMtTsN2RP68BY7h7g74Tpump",
+   0.292,
+   2.4,
+   "rugcheck=creator history of rugs"
   ],
   [
    "$LECOUR",
    "F9iB5hXXXFN6KKRt4VSc5aHQPyCro6q17n1tHk8mpump",
    0.157,
-   2.5,
+   3.5,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "COOKED",
-   "DyqdDMFGcSVHLWBBsf2sJEJqSY1r89Bx26tMd1PVpump",
-   0.126,
-   3.3,
-   "buyers=7; top5_hold_most=97%"
+   "NET",
+   "DPX8M5ZEn2DWBdakUkT6auLGss2e7vNUj1jgDCSVecPS",
+   0.143,
+   2.3,
+   ""
+  ],
+  [
+   "$19",
+   "4CkNK9rcTBt8r25UyABH8NgYZfvBYfovTHJc2iC1pump",
+   0.142,
+   2.9,
+   "top5_hold_most=99%"
+  ],
+  [
+   "Changpeng",
+   "3DVxrymzb4kT7ziKHtNTTZAh9WVihmq8X8iufZZCpump",
+   0.099,
+   2.7,
+   "top5_hold_most=98%"
   ],
   [
    "Mars",
    "GNFtZ8q8MUnaTYJ9u7yiciarxeWKXA9VoH72KaPcpump",
    0.083,
-   5.1,
-   ""
-  ],
-  [
-   "Harold",
-   "BXWwfjh22HmbiVW6bmjQQieo5J82kPSvDDCdVebCHLDt",
-   0.064,
-   4.6,
+   6.1,
    ""
   ],
   [
    "NET",
-   "UzfZ7WhLWJGW2uXe58cwHmThTK6ddeGEPFGCNAapump",
-   0.061,
-   5.5,
-   ""
-  ],
-  [
-   "SAFU",
-   "GN5NU8YvG2NY57fzA2bjQSsWR8V3oihkTMiJdKsFpump",
-   0.043,
-   3.6,
-   ""
-  ],
-  [
-   "INVISIBLE",
-   "B4TpxPquDo1kB1gKNUXci5rudACQtfT4EatZPocgtGLv",
-   0.043,
-   6.3,
-   ""
-  ],
-  [
-   "NNN",
-   "27Li1cPBvHZjFeJwa5ADvyZLaj6ETzC4YA6YYFCfpump",
-   0.043,
-   3.7,
+   "B3BHfc4nVUPu2ziAffVcJjUW4XVjsnzakajtcZmSakbD",
+   0.065,
+   2.8,
    ""
   ]
  ]
