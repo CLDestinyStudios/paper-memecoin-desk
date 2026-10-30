@@ -6758,84 +6758,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:20:48",
+   "2026-10-30T02:21:45",
    32.58
   ]
  ],
- "cycles": 2866,
+ "cycles": 2867,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.00499999999998,
- "watching": 225,
+ "sol_usd": 96.92736401324998,
+ "watching": 236,
  "near": [
-  [
-   "KJI",
-   "BuYh4P8XgR1abwFyCYutd4vvq1JY6ZDDJEcmCGAipump",
-   1.0,
-   2.5,
-   "graduated"
-  ],
-  [
-   "REALM",
-   "5za6uHVBe3vw3qit1ejBnAw4r9Z2jRKLhHDX1j5dpump",
-   0.535,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "SATCOIN",
    "HPqqWncAUDPKzQZkLnu1Pkifrr2SnGXZMBS8ogEgpump",
    0.244,
-   4.3,
+   5.3,
    "top5_hold_most=86%"
   ],
   [
    "$10B",
    "8n2gFoN1hbpk5GneH92u9grDRNfb3d45FDUMN9yCpump",
    0.232,
-   8.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "RIPINU",
-   "6QQeKjHjs8SbvmZBAhHc6dmsego3AKHQwEwna9BHpump",
-   0.117,
    9.4,
-   ""
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "$19",
    "6zLV5octNC4iz9AmY18rYGzQBhsVUsPAHdbt6XGXpump",
-   0.108,
-   5.7,
+   0.104,
+   6.6,
    ""
   ],
   [
-   "LEET",
-   "HNjc6qUBMNmSGJdKHT48v4WXLtn9va2Qj4eHJ5BHpump",
-   0.089,
-   4.9,
-   "buyers=4; top5_hold_most=100%"
+   "elun",
+   "GReqcv1TQUPyTrhPgVUi5SdDgmfZiscE7n6XCJJTUAD3",
+   0.094,
+   2.4,
+   ""
+  ],
+  [
+   "Trollon",
+   "CdpdDbEoyAamsAAf21FYDDS6ZrjPS8EjNtXQKA2TQXzx",
+   0.075,
+   2.1,
+   ""
   ],
   [
    "FTX",
    "5dibLiXdpQsTJvsaqgeYzzPFkuHFjXyp23f4FFU4PG9z",
    0.074,
-   2.1,
+   3.1,
    ""
+  ],
+  [
+   "AiBot",
+   "APgHZbpQUgQeMY417926mmBogLF2xtJJTbxXsrw1pump",
+   0.073,
+   2.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "\ub4dc\ub860",
    "2b4YQptsfiXeEHfihPdN3W5DPuTLKV1TPmRxRiWcpump",
    0.072,
-   7.2,
+   8.1,
    ""
   ],
   [
    "Flee",
    "3KScsa3B3LRhEXmnShHTTrTwTbmrALxRUAX11cEQpump",
    0.051,
-   3.1,
+   4.1,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Satoshi",
+   "JCCbQPpWYJu87mzXPYbbKgkj4HWwfDZzHUdNgRfqpump",
+   0.047,
+   2.1,
+   ""
   ]
  ]
 }
