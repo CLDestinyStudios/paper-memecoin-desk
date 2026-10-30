@@ -1,7 +1,19 @@
 {
  "bank_start": 500.0,
- "cash": 385.50357927083564,
- "positions": {},
+ "cash": 366.22357927083567,
+ "positions": {
+  "LBABxq9YMjAbdiuH5id6FBZQXf47sqTkJtAbmj7pump": {
+   "sym": "AMAZON",
+   "qty": 205523.11388837366,
+   "entry": 9.380940000000001e-05,
+   "mark_entry": 9.197e-05,
+   "cost": 19.28,
+   "peak": 9.197e-05,
+   "last": 9.197e-05,
+   "opened": 1793368265.1840456,
+   "p_buy": 0.66
+  }
+ },
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -74,7 +86,8 @@
   "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
   "Ashf7mwajs2gWp9ase3jtQM4vMbWkyKb6DjQ6gBCvESY",
   "3UrbFtErj4FYspTupgAfKqztrMYNVQA2GocpT97Q3ray",
-  "51H7AzyyUAy6AkTPa2g1AMyfkoEoVXZjAKkqyHTopump"
+  "51H7AzyyUAy6AkTPa2g1AMyfkoEoVXZjAKkqyHTopump",
+  "LBABxq9YMjAbdiuH5id6FBZQXf47sqTkJtAbmj7pump"
  ],
  "equity": [
   [
@@ -8108,8 +8121,12 @@
   [
    "2026-10-30T06:50:02",
    385.5
+  ],
+  [
+   "2026-10-30T06:51:05",
+   384.75
   ]
  ],
- "cycles": 3155,
+ "cycles": 3156,
  "started": "2026-10-28T01:46:56"
 }
