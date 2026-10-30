@@ -6818,83 +6818,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:37:48",
+   "2026-10-30T04:38:45",
    32.58
   ]
  ],
- "cycles": 3003,
+ "cycles": 3004,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.6659335188,
- "watching": 146,
+ "sol_usd": 96.71,
+ "watching": 147,
  "near": [
-  [
-   "Pepe",
-   "AbfzwwV6V2DKBSNsWh68TZYVrTqdzeUJcUNZtNdTpump",
-   0.711,
-   2.5,
-   "serial_creator=7 launches/24h"
-  ],
-  [
-   "Hahaha",
-   "FGFxv3AGA8PC86dgJ5JYA4TEx6rmfq5A6UTWiqRfpump",
-   0.25,
-   2.6,
-   "bundled_launch=8 extra buys in creation block"
-  ],
   [
    "AGENCIES",
    "DnvWzCoqAY9vHuRUvnjpToCze6LSjZSUkodrxSbbpump",
-   0.138,
-   2.4,
-   "buyers=4; top5_hold_most=100%"
+   0.174,
+   3.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "OOPS",
    "71bZmTzERxHaAFCJ9Hwt6vMYcJBHmhTbfR8aVwh2pump",
-   0.086,
-   7.5,
+   0.151,
+   8.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Squeeze",
    "4B984hJrGTvAE5SyWdNBePeqGRRNkzk9vfXVD8zPeWC6",
    0.064,
-   3.2,
+   4.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "NICS",
    "CWNWNaUdjoWATZCZz7Q4FQPdU6e1sJq11ynnBFyWpump",
-   0.043,
-   4.7,
+   0.044,
+   5.6,
    ""
   ],
   [
    "PIG",
    "FssahtYxYkC1Mv15Tje4gsmr9mz5761tfRUsajpYpump",
    0.043,
-   6.5,
+   7.5,
    ""
   ],
   [
    "HypedAgent",
    "5fJV7b9Li7dwqeHbjYZcwPivE6MMHRtAjkJMLk2fpump",
    0.036,
-   7.9,
+   8.8,
    "buyers=8; top5_hold_most=98%"
+  ],
+  [
+   "\uc0ac\ud478",
+   "7ovN5nCGvaCJTr78ewCkKueC6ztD24TFFQr7uVQUpump",
+   0.033,
+   2.8,
+   ""
   ],
   [
    "Isa",
    "BtHiSy6u2kqiViNPB1aQYQHhf8FqdYkvQiXcjebpump",
    0.022,
-   8.3,
+   9.3,
    ""
   ],
   [
    "INU",
    "34w14Cjy7Xu2i8W5cpWcA8dxni29BxB5CHoRTvz2pump",
    0.019,
-   8.8,
+   9.8,
+   ""
+  ],
+  [
+   "INU",
+   "Ds16sCSbkSzk2ycEZoid7GSqbYo8qUoiMag8PYKppump",
+   0.016,
+   4.8,
    ""
   ]
  ]
