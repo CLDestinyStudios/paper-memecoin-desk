@@ -6990,83 +6990,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:18:54",
+   "2026-10-30T11:20:36",
    32.58
   ]
  ],
- "cycles": 3403,
+ "cycles": 3404,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.14261678090001,
- "watching": 261,
+ "sol_usd": 94.09500000000001,
+ "watching": 214,
  "near": [
   [
    "Gemma",
    "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
-   0.744,
-   3.1,
+   0.887,
+   4.8,
    ""
+  ],
+  [
+   "SELLESS",
+   "AYcpVuVUE1MDezUyEcDXaQxKiDSE4VmWBq77kCht3rAv",
+   0.631,
+   2.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "RKC",
    "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
-   0.613,
-   8.2,
-   "buyers=8; top5_hold_most=95%"
+   0.54,
+   9.9,
+   ""
   ],
   [
    "FAST",
    "2tU8s8nM4cDLqy7SQSXjEDJWygFGrVF3Ze8SDdHRpump",
    0.458,
-   8.2,
+   9.9,
    ""
   ],
   [
-   "moonstone",
-   "7sziDtWdLkfYTUiLbB9FALz2HLza7gFL6c133rLZpump",
-   0.225,
-   3.3,
-   "buyers=8; top5_hold_most=81%"
+   "LLM",
+   "GF2omBTykj22LvRCLwybn5bN1SdvadaUYzveUQVdpump",
+   0.205,
+   7.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "MONARCH",
    "9qoMYDa9DSpD9fNtJY4Uho5bwpH2BKZJh4rWRXKupump",
-   0.155,
-   3.3,
-   "top5_hold_most=83%"
+   0.107,
+   5.0,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
-   "FTK",
-   "J5Epk2Mm33pNqn5QdFgp7EGGu1quYngUhih3GX4upump",
-   0.11,
-   2.6,
-   "buyers=8; top5_hold_most=82%"
+   "STARLIGHT",
+   "6bvv5rPoiJR424ZHGckdkv6rALtVaLHf8razPnBWpump",
+   0.103,
+   3.0,
+   ""
   ],
   [
    "Niggerfish",
    "2j9wC2C7hnAMmGrUeyB77C8646YjziFHbzJfEcALpump",
    0.1,
+   4.7,
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "NDA",
+   "HJ84pxcp3E2vPEW5KdpoGZppoHP1ZmwR58VNeYkPpump",
+   0.093,
+   2.6,
+   ""
+  ],
+  [
+   "STOP",
+   "HWkJGFZmrhYpnQJmWd8Yu3e8Ga8nyrR9CeX9kUMhpump",
+   0.091,
    3.0,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "TWIGGY",
-   "HHqqhMymdnbpJ7xjwrTVRf6PsyaR2RtCpMPqwi5Spump",
-   0.071,
-   4.1,
-   ""
-  ],
-  [
-   "Saraya",
-   "3h6vwAaT7drccNeWxu8sTtMz3ZzpbL9cNqZAqswTpump",
-   0.043,
-   5.6,
-   ""
-  ],
-  [
-   "PUMPKAT",
-   "81cpwxGFD26oSoXSPTWeRVceP53EzhWAya5DLhWmpump",
-   0.029,
-   2.5,
    ""
   ]
  ]
