@@ -6946,84 +6946,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:30:49",
+   "2026-10-30T09:31:46",
    32.58
   ]
  ],
- "cycles": 3295,
+ "cycles": 3296,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.1280735829,
- "watching": 279,
+ "sol_usd": 95.13080857105,
+ "watching": 275,
  "near": [
   [
    "vagina",
    "EqJuhk3rrxGtq1XqKi18UVasA8wrmTMusURetHHfpump",
-   0.969,
-   3.6,
-   ""
+   1.0,
+   4.6,
+   "graduated"
   ],
   [
-   "AI",
-   "ZcmD39mdQRFJyxChxwthzH2hP2LBhEnnJEvc3Lkpump",
-   0.608,
-   9.7,
+   "SI",
+   "H473xELedAuR86mWhNZgF3yzLCRP7HfXigrG39Ttpump",
+   0.369,
+   3.5,
    ""
   ],
   [
    "HYPELANA",
    "HYPEvXLc56XCDPr9XeEK16BTvJSJLpWKmQX1moNrLQK6",
-   0.426,
-   7.5,
-   ""
-  ],
-  [
-   "SI",
-   "H473xELedAuR86mWhNZgF3yzLCRP7HfXigrG39Ttpump",
-   0.405,
-   2.5,
-   ""
-  ],
-  [
-   "TI",
-   "DBBGpKfBHXCPAHjrJHpVZ4RsZpgauHGYLxS4YpQMpump",
-   0.231,
-   2.5,
-   "bundled_launch=5 extra buys in creation block"
+   0.286,
+   8.4,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "buy",
    "kyPwNpHX2e3g6u5UP1vFYQ1tKEWEWsug8fnhxavpump",
-   0.222,
-   7.1,
+   0.278,
+   8.1,
    ""
   ],
   [
    "JSU",
    "H2kSwVcxaHonjxxpkHq5b3y2vbGgtavDqPWq4ZXGpump",
    0.084,
-   7.4,
+   8.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Sparky",
    "DAvsFoYu7Jg59tKYWw3Ceph5nFgih5TWZqQzvEKYbW1Z",
    0.082,
-   5.1,
+   6.0,
    ""
   ],
   [
    "Bartolito",
    "DQTZd4gfzxAovqj5HZgs29ZHQEamqnSnE5S3XZNcaJ5H",
    0.071,
-   3.4,
+   4.3,
    ""
   ],
   [
    "COLO",
    "BXs2YBc9URqYHS96Qu7AGb1k8uhpAmbcDB4Yo4yJpump",
-   0.071,
-   6.9,
+   0.066,
+   7.8,
    "top5_hold_most=92%"
+  ],
+  [
+   "Sparky",
+   "7HCRLQw3T59ZAsNHnh51FHwWLKbBLBvKxR4bXNXqLMdM",
+   0.055,
+   5.8,
+   ""
+  ],
+  [
+   "NIBBLES",
+   "9dufFo3FUCjTvausbBBC25gHEY6kTJdCUQYpjcGMpump",
+   0.043,
+   4.7,
+   ""
   ]
  ]
 }
