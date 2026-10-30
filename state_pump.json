@@ -6882,84 +6882,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:01:05",
+   "2026-10-30T07:02:05",
    32.58
   ]
  ],
- "cycles": 3146,
+ "cycles": 3147,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.91,
- "watching": 205,
+ "sol_usd": 95.1669,
+ "watching": 198,
  "near": [
+  [
+   "GTALAMBO",
+   "AKDDoJvTRTyd8RRWYJTgzvnVhDWVBVVNN4FAheVjpump",
+   0.607,
+   2.4,
+   "creator=42.8%; top10=47.0%; top5_hold_most=95%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "stablecoin",
+   "AA43VzX7R3UtgEPvW72vUtCjRutaLLQDDW4wyYzRpump",
+   0.549,
+   2.5,
+   ""
+  ],
   [
    "SLASHER",
    "4nPUstVLuxLLGfynKPDFCZrSajW7neAYkaFUgzxepump",
-   0.172,
-   2.8,
-   "buyers=8; top5_hold_most=88%"
+   0.205,
+   3.8,
+   "buyers=9; top5_hold_most=82%"
   ],
   [
    "catdog",
    "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
-   0.153,
-   2.6,
+   0.176,
+   3.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "CLAVA",
-   "2wDzQFvRFgTwSNekwQSqd8g5vKCjZ8BD4Yc3aHPgpump",
-   0.134,
-   3.9,
-   "top5_hold_most=91%"
-  ],
-  [
-   "MELT",
-   "CAcByRG2kA7v42opbce22mZNi2i3BCKZxytgDjDFpump",
-   0.109,
-   9.5,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "JAPRO",
-   "4Eqm3MxyNTihjqn5VVXt5JB8Zz4q4wSpE2ViQRiEpump",
-   0.104,
-   5.5,
-   ""
+   "SPACE MEME",
+   "DtVqHB2m6ferE8bX4zowNB8CHJf4YkHyDcJ3rcxepump",
+   0.14,
+   8.5,
+   "buyers=6; top5_hold_most=97%"
   ],
   [
    "Claude",
    "GF1vUivQtPJqSJuh71Usd7XRSyUHZmXWo7LWDim6pump",
    0.098,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "SPACE MEME",
-   "DtVqHB2m6ferE8bX4zowNB8CHJf4YkHyDcJ3rcxepump",
-   0.084,
-   7.5,
-   "buyers=4; top5_hold_most=100%"
+   "$JAPRO",
+   "F2CGzENWEe8DZHKhAbctkqNuMfUCdmTYopqMnRRhpump",
+   0.097,
+   2.2,
+   "buyers=8; top5_hold_most=95%"
   ],
   [
    "DRIZZL",
    "6jjnDqij76eGQragYKrSxysMoa5b4mN1q8kRx7Mspump",
    0.08,
-   7.7,
+   8.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "11/13",
    "GFH39twcd6Ag9wpjp8E8ib4FT4WAboUy1xnKzsTYpump",
    0.072,
-   3.3,
+   4.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BLACK",
-   "8pcEeDAPnSbPfchvzGHXsb4mHezTwo5tVL66hYz2CEsv",
-   0.071,
-   2.1,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "Gruffalo",
+   "6Gm23QdnweKd7y8oPYyAiQKQyoRKpziX3jUmV8pRpump",
+   0.067,
+   5.7,
+   ""
   ]
  ]
 }
