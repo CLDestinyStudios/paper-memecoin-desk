@@ -6676,81 +6676,85 @@
   [
    "2026-10-29T23:02:20",
    32.58
+  ],
+  [
+   "2026-10-29T23:03:18",
+   32.58
   ]
  ],
- "cycles": 2668,
+ "cycles": 2669,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.86758721999999,
- "watching": 133,
+ "sol_usd": 97.78,
+ "watching": 137,
  "near": [
   [
    "holyshit",
    "N7sp3TQRyUyP6NHnCZ2hQ4Uk1Xv3KpWqYJ7nJj4pump",
-   0.514,
-   3.0,
+   0.526,
+   4.0,
+   "serial_creator=6 launches/24h"
+  ],
+  [
+   "Hash",
+   "E23gsduigSzRwarFP9C31zjRBUpTWKpQWtZSmYSSpump",
+   0.254,
+   2.6,
    ""
   ],
   [
    "PEPEYE",
    "Fb8xPAWTu9M5WZDMXLL89MBs1Nou1kiQPtuYgfRYpump",
    0.235,
-   3.4,
+   4.4,
    "top5_hold_most=84%"
   ],
   [
    "COLUM",
    "FPkUrmrrvFBhw2jEc2bL7Hn1vL9DG5MZknGaDBQpump",
-   0.137,
-   4.1,
+   0.145,
+   5.1,
    "top5_hold_most=95%"
+  ],
+  [
+   "TEX",
+   "8gmQT6uWaAEfB5DRC6q2D9CLmCSv24ZP2eCTBDywpump",
+   0.122,
+   2.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "TEA418",
    "5w1sXyKb5U1oRmaXBeRm2kuL2rc9EbzDYgnk1KQipump",
    0.113,
-   7.7,
+   8.7,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "SUBUFO",
    "DdSUkuGC421ansV56TUchVuMt8W8rM5tGq4pNGBXpump",
    0.106,
-   3.2,
+   4.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "agentinu",
    "EyXtCchPeosVCqs6ckHzJXR9UENARUo5QhTAyJ9XKiNU",
-   0.063,
-   8.9,
+   0.066,
+   9.9,
    ""
   ],
   [
    "MEOW",
    "FvDdVzexVcrorq8pvR9HAFJA24ZomMJBDr32DZtTpump",
    0.051,
-   4.2,
+   5.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "Cyber",
    "GeZLkeaiVEby2E2qTAFsGwhinm1a4Lra7oaLQ16opump",
    0.043,
-   2.7,
-   ""
-  ],
-  [
-   "Brooke",
-   "3bCc6qq2ZXU3May7gFXvBsUPCuYkfFxS3EiXY4tipump",
-   0.025,
-   2.8,
-   ""
-  ],
-  [
-   "Hash",
-   "6X3FPe8MR4A3wifGYivLFbhdsgo8VhkF4TgjWdRspump",
-   0.012,
-   5.8,
+   3.7,
    ""
   ]
  ]
