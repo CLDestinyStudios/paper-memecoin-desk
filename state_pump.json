@@ -7114,83 +7114,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:07:53",
+   "2026-10-30T16:08:53",
    32.58
   ]
  ],
- "cycles": 3692,
+ "cycles": 3693,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.83660000000002,
- "watching": 263,
+ "sol_usd": 95.8523,
+ "watching": 274,
  "near": [
   [
    "CHIP",
    "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
-   0.839,
-   3.7,
+   0.898,
+   4.7,
    ""
   ],
   [
-   "cc",
-   "Btu2tyj5LSkvpuCFiiVrSqzfbkht3quSJzBD76MDpump",
-   0.126,
+   "CHIP",
+   "CcNMyEjvCoLoBiX7vZeuZmPKRnPfRyb5TZFfbAAPpump",
+   0.602,
+   2.4,
+   ""
+  ],
+  [
+   "BlueChip",
+   "EDjMWQv1Rhznz8UjSJhTztm5UcjWaFWSuuhAR92fpump",
+   0.112,
    3.1,
-   "buyers=3; top5_hold_most=100%"
+   ""
   ],
   [
    "CHIP",
-   "8n37JePY6FW59qDd7WeUVzY1mxj68AndAQiUyUzXpump",
-   0.104,
-   2.2,
+   "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
+   0.107,
+   2.5,
    ""
   ],
   [
    "AAPL",
    "DdjMPrb4adNTocooMNcVgnGKRAVafxAH5ZWMeF4Ppump",
-   0.094,
-   2.5,
+   0.098,
+   3.5,
+   ""
+  ],
+  [
+   "CHIP",
+   "8n37JePY6FW59qDd7WeUVzY1mxj68AndAQiUyUzXpump",
+   0.089,
+   3.2,
    ""
   ],
   [
    "CHIPS",
    "F46PTXRZZR2tb6LkJq5CVtgcs3nJopP5RNNN5CPfpump",
    0.087,
-   5.1,
-   ""
-  ],
-  [
-   "BlueChip",
-   "EDjMWQv1Rhznz8UjSJhTztm5UcjWaFWSuuhAR92fpump",
-   0.086,
-   2.1,
-   ""
-  ],
-  [
-   "Nut",
-   "CNN9bWcc9M4Qdbn55XMEr6hdFJ9RMNT1d4PJyy33LeSk",
-   0.073,
-   2.8,
+   6.1,
    ""
   ],
   [
    "SAFE",
    "Gt6gqwghQui9JgbCGp6p47N76uEogpy6FwFqn6zPpump",
-   0.048,
-   2.9,
+   0.05,
+   3.9,
+   ""
+  ],
+  [
+   "CHIP",
+   "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
+   0.047,
+   2.0,
    ""
   ],
   [
    "chip",
    "GKR8j3vQiG69GPe2XFps7tyeon347Gpyzj6Ccqimpump",
    0.045,
-   4.9,
-   ""
-  ],
-  [
-   "CallAnalys",
-   "DyVhDxBDNe5vLZm9pYU6fxh8MSLTRhrdRrB3g5TNpump",
-   0.044,
-   6.0,
+   5.9,
    ""
   ]
  ]
