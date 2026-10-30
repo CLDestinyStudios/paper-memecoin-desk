@@ -7062,83 +7062,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:06:51",
+   "2026-10-30T14:07:54",
    32.58
   ]
  ],
- "cycles": 3571,
+ "cycles": 3572,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.08973044125,
- "watching": 309,
+ "sol_usd": 95.0195958827,
+ "watching": 304,
  "near": [
   [
    "AXIO",
    "3mUcXkpVVkQ5ZJMctz2f1VBk4rwu3NRfNwVQZtDzpump",
-   0.671,
-   2.3,
-   ""
-  ],
-  [
-   "OC",
-   "5zSrh1ky4wtg9wHgQXWQruGrPfhDUQro7KEYRV8ypump",
-   0.57,
-   2.9,
-   "serial_creator=6 launches/24h"
-  ],
-  [
-   "onboard",
-   "A56g3YNmCqtvJBYwsqxPniQRmQPRMEgQeHiWDcEapump",
-   0.284,
-   3.6,
+   0.677,
+   3.4,
    ""
   ],
   [
    "MANANA",
    "6hi69q7P9Poob26xLEBqLyagtntARYJttER6kDbGpump",
    0.223,
-   6.4,
+   7.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "PFP",
    "7wno2osJyapDrw6gCZ3JsHEBnKM3oxc6UvxLLrxfpump",
    0.133,
-   5.4,
+   6.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "xpadCat",
-   "fEVk8sKtcFVw6S5xjKaNyip3a8yAT4AVEyD4Jfnxxxx",
-   0.112,
-   9.8,
-   "buyers=6; top5_hold_most=99%"
+   "CREAM",
+   "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
+   0.129,
+   3.0,
+   "buyers=8; top5_hold_most=97%"
   ],
   [
-   "GAMOO",
-   "gamoLMFfbhangSVLA8QWJsL5cuHA1yGMxaiqGaihLv3",
-   0.096,
-   2.4,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   "ELON",
+   "F9VXvYMJMnuXBzfyBVgSPBDqUcUdxgrAWnFhQmLxxxx",
+   0.116,
+   2.6,
+   ""
   ],
   [
-   "XCAT",
-   "K7vXAMUDkbjorjeWFVAYwuwfTqvS6epw1TsR6Tpxxxx",
-   0.092,
-   7.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "santalon",
-   "Akw3qab87PfzHqp7ZLyR2Hd3Rskoz5UJgE7asSpBpump",
-   0.085,
-   5.5,
+   "onboard",
+   "A56g3YNmCqtvJBYwsqxPniQRmQPRMEgQeHiWDcEapump",
+   0.082,
+   4.6,
    ""
   ],
   [
    "BISCUIT",
    "7ASbQ1YXLrcKY8qeaWGXhw4jsdmDYuc3rk78o7SmjG7e",
    0.07,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "CRAMER",
+   "CueNius7pLJeEzavygSGeYx9btVrs33KY6Kq6DNMpump",
+   0.066,
+   6.8,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "XCAT",
+   "K7vXAMUDkbjorjeWFVAYwuwfTqvS6epw1TsR6Tpxxxx",
+   0.063,
+   8.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "TUSK",
+   "4BCE4pUnHocD7hYoJfL7ndfkXEn943ECHNDdGGhGpump",
+   0.054,
+   8.5,
    ""
   ]
  ]
