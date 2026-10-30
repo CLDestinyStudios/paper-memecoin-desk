@@ -6546,84 +6546,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:57:07",
+   "2026-10-29T17:58:05",
    32.58
   ]
  ],
- "cycles": 2363,
+ "cycles": 2364,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.66141816460001,
- "watching": 213,
+ "sol_usd": 94.715,
+ "watching": 206,
  "near": [
   [
    "BADGE",
    "27Jnd8Xw1gmbCrQFVZ4DnAvB29H586XCxoe6nJQipump",
-   0.257,
-   8.9,
+   0.287,
+   9.8,
    "buyers=7; top5_hold_most=88%"
-  ],
-  [
-   "NNN",
-   "7uhwGVD2JySv7panqZTTrdcwkpcYycUwZJ8he9m4pump",
-   0.197,
-   2.9,
-   "rugcheck=creator history of rugs"
-  ],
-  [
-   "Maya ",
-   "FFAguUpszYCXNoshoRHXwWQmr9MHiSdFH7n4XKGUpump",
-   0.145,
-   3.0,
-   "buyers=4; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "TOKEN",
-   "F6eChbKDJiNQJnFrzV4mM9gZdpWJ2fZFC5WG4Czypump",
-   0.092,
-   10.1,
-   ""
   ],
   [
    "BEAR",
    "6Vke8CzmCnV6DJQSwJG4cUr2Fu7NCqAJpFtbxZZXpump",
    0.091,
-   3.9,
-   ""
-  ],
-  [
-   "Hackoon",
-   "9uDyFvzoC4jv1VXb943wDsmeDeAJydwHKwt7Hioqpump",
-   0.082,
-   3.1,
+   4.9,
    ""
   ],
   [
    "WD",
    "EpspnrtLqVo2ZiNU9fe3SmJCv7PfdVLsLRNacrXspump",
    0.078,
-   8.4,
+   9.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "ROPE",
    "8LukB7jbbZLt6xVToWZALFMq3q2jUc3FLTsVLWU8pump",
    0.071,
-   7.6,
+   8.6,
    ""
   ],
   [
-   "EIT",
-   "3sW9t85xTuaSsc3EqTnZADihhLNDKxuKctA5Knh3pump",
-   0.043,
-   9.7,
+   "rope",
+   "BUSA6Ayg7Y7Yxx5oYkHtW1CSMNoqJV5815Zbm1Vepump",
+   0.028,
+   5.2,
    ""
   ],
   [
-   "Men",
-   "34TpDWHbtPU4gbY9ydqRcYY1d8b7YENj647FKhhnpump",
-   0.042,
-   9.1,
-   "top5_hold_most=89%"
+   "CACHEOUT",
+   "GWHy8ZE9j1rYzZ4YM2QGDt3bANv5Frfvv9qteDJzpump",
+   0.023,
+   3.7,
+   ""
+  ],
+  [
+   "$BUREK",
+   "BeDZ9FFzpGcpCnAZ3uWVniZH783MTS32fcCP5aGzpump",
+   0.02,
+   6.3,
+   ""
+  ],
+  [
+   "HACKERPOL",
+   "8vaCWNTeWHAW5B4Cc7Exfp6GSazCgJGKqPoy5ypnpump",
+   0.016,
+   5.9,
+   ""
+  ],
+  [
+   "LUCKY MEM",
+   "BSeLG5j1A4BZQRW7gPgz71mC2hFjMTvcZVoYhGEppump",
+   0.014,
+   5.8,
+   ""
+  ],
+  [
+   "USDCPAD",
+   "9cTwC4irLy5S6QgAF8RsLKChRkvhCRjFrjz1jovKpump",
+   0.014,
+   3.0,
+   ""
   ]
  ]
 }
