@@ -6586,83 +6586,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:29:15",
+   "2026-10-29T19:30:16",
    32.58
   ]
  ],
- "cycles": 2455,
+ "cycles": 2456,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.09902742925,
- "watching": 239,
+ "sol_usd": 95.08000000000001,
+ "watching": 236,
  "near": [
   [
    "LAPTOP",
-   "AFBERijW6tth3ShpHfBNZk1RVDnnmwrZ8Kypc96ipump",
-   1.0,
-   2.1,
-   "graduated"
+   "GXkRixFriU7ZejJZ3nkHVsvGWfv8oQbQd3DKcbZxcop",
+   0.72,
+   4.6,
+   ""
   ],
   [
-   "LAPTOP",
-   "GXkRixFriU7ZejJZ3nkHVsvGWfv8oQbQd3DKcbZxcop",
-   0.649,
-   3.6,
-   ""
+   "PANDAPROFIT",
+   "FGbinwPrF9gBfKQLXGzn3MDwMU1kLBn1GXTDfxdepump",
+   0.153,
+   3.0,
+   "buyers=6; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "INTERN",
    "Fb9fSQDgP26C4AzfRCHDMkSFt4adzRNGRecDH4nHpump",
    0.13,
-   4.1,
+   5.1,
    ""
   ],
   [
    "LAPTOP",
    "Exxg8eP6iMHYseQF4F9ji4qJkMZGoXxq2NDcSN3npump",
-   0.125,
-   2.6,
+   0.121,
+   3.6,
+   ""
+  ],
+  [
+   "LAPTOP",
+   "C1wUkGZFVVw919M2f8e8FLUoCuMZxABe5gdjdNDLpump",
+   0.117,
+   2.2,
    ""
   ],
   [
    "ACAT",
    "Htg3D9aXcB1dnXypbEEeo52YnhE14ScaXj5MR2kwpump",
    0.115,
-   6.2,
+   7.3,
    ""
   ],
   [
    "LAPTOP",
    "5oN8w9a7g387UN6WRibFWFC4Yg43VBDxs7aeUX3Zpump",
    0.095,
-   4.2,
+   5.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TINA",
    "Eh8F6P7C4mtz34ceJntYZxtae5MfLtCDz5QEhrXkcdxh",
    0.083,
-   5.1,
+   6.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "THELAPTOP",
    "5oMRiRZE1PzSqgh53mXj1dqkT9nzTEZDcgk3zTqYpump",
    0.077,
-   4.4,
+   5.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Q4",
    "EzX2PHGf5uNWaFP6gDjUgiq2ZHH9p7m9SypuAXxepump",
    0.072,
-   5.1,
-   ""
-  ],
-  [
-   "LAPTOP",
-   "4K37fWQvUuGCicjeEt9wmVnSUepPm4a9EkmMDi1ypump",
-   0.043,
-   3.6,
+   6.1,
    ""
   ]
  ]
