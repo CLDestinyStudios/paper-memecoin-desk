@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 320.20966156781253,
- "positions": {
-  "3P6dYjBnwHKbowrxV73oEGZGUdw4ooD98MiAMTAQpump": {
-   "sym": "PUMPCAT",
-   "qty": 198624.5983303746,
-   "entry": 8.48334e-05,
-   "mark_entry": 8.317e-05,
-   "cost": 16.85,
-   "peak": 0.0001468,
-   "last": 0.0001468,
-   "opened": 1793401374.6667385,
-   "p_buy": 0.63
-  }
- },
+ "cash": 338.5770343242976,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -8983,8 +8971,12 @@
   [
    "2026-10-30T16:05:57",
    348.78
+  ],
+  [
+   "2026-10-30T16:06:54",
+   338.58
   ]
  ],
- "cycles": 3710,
+ "cycles": 3711,
  "started": "2026-10-28T01:46:56"
 }

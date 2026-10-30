@@ -7114,84 +7114,84 @@
    32.58
   ],
   [
-   "2026-10-30T16:05:59",
+   "2026-10-30T16:06:59",
    32.58
   ]
  ],
- "cycles": 3690,
+ "cycles": 3691,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.8135,
- "watching": 262,
+ "sol_usd": 95.83000000000001,
+ "watching": 256,
  "near": [
   [
-   "vader ",
-   "9ttaMT5ZwjKJ9r5oL9ha5Mjp2Kbd45cuWRxW43P5pump",
-   0.304,
-   2.6,
+   "CHIP",
+   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
+   0.829,
+   2.8,
+   ""
+  ],
+  [
+   "lonemikol",
+   "AKUqrESP26MNucc6bAtLcVnVC4pXNxATCrdJw3kRpump",
+   0.413,
+   2.9,
    "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "Retardatide",
-   "DdEBDVKMLdbRHLsTw55XRc82KaHTasTeBdFsDBnPpump",
-   0.164,
-   6.6,
-   "buyers=5; top5_hold_most=100%"
+   "Pumpkin",
+   "DTopjdL72SW2U9Rm9qZ9d6B6yFgv4bHbAnHrnoAypump",
+   0.317,
+   2.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "cc",
+   "Btu2tyj5LSkvpuCFiiVrSqzfbkht3quSJzBD76MDpump",
+   0.101,
+   2.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "THEOVAN",
    "HF2fKz6xe9X52Uf87MYQv3FQR1xkDkc17i3vaNq5pump",
    0.098,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "CHIPS",
    "F46PTXRZZR2tb6LkJq5CVtgcs3nJopP5RNNN5CPfpump",
    0.087,
-   3.2,
+   4.2,
    ""
   ],
   [
    "CWC",
    "3ropBGsQ8nbmMvSSUqAwRBjxuFbHkXxpS4uhh6Ynpump",
    0.086,
-   8.7,
+   9.7,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "FSD",
-   "4XCAeHvb8ZAWWGtM1EJ3qKNqK9Wp51JTUjmsU3Xapump",
-   0.063,
-   5.5,
-   ""
   ],
   [
    "chip",
    "GKR8j3vQiG69GPe2XFps7tyeon347Gpyzj6Ccqimpump",
    0.045,
-   3.0,
+   4.0,
+   ""
+  ],
+  [
+   "CHIP",
+   "BG14MGpuc8dqEr7ywHbZBdaxs8NWJdMHCUaMphF5pump",
+   0.043,
+   2.2,
    ""
   ],
   [
    "CallAnalys",
    "DyVhDxBDNe5vLZm9pYU6fxh8MSLTRhrdRrB3g5TNpump",
    0.043,
-   4.1,
+   5.1,
    ""
-  ],
-  [
-   "chip",
-   "3jNNjXhE1TCaqCcBqPWQFwS9T6DwJwwL8QUxQ64Bpump",
-   0.035,
-   2.7,
-   ""
-  ],
-  [
-   "Cock Milk",
-   "CNQctdJWXVMsxdU3GfMvQya8VPjsRwvQJcoYPRncpump",
-   0.022,
-   6.2,
-   "buyers=6; top5_hold_most=97%"
   ]
  ]
 }
