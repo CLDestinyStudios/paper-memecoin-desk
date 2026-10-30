@@ -7134,83 +7134,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:54:53",
+   "2026-10-30T16:55:58",
    32.58
   ]
  ],
- "cycles": 3739,
+ "cycles": 3740,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.16999999999999,
- "watching": 258,
+ "sol_usd": 96.17,
+ "watching": 259,
  "near": [
   [
    "Blacklist",
    "Gxsf33tENfBQk4MaPrUK412xEUu8URU3qP3yRjYFpump",
-   0.644,
-   2.8,
+   0.665,
+   3.9,
    ""
   ],
   [
    "hyperhash",
    "hhasheictTaC5GhhJW3CoF1uTp51eN5z4x4pyifFMd5",
-   0.349,
-   4.5,
+   0.396,
+   5.6,
    ""
+  ],
+  [
+   "ci",
+   "9zdsJKxKtGpKFQCDeyDUnWomz66YeMXNmnGDhcokpump",
+   0.384,
+   2.9,
+   "buyers=9; top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "DC",
    "52BcmBSRCMfWiZMtY1c7h7w3QQm4XVAmZrVrREWZpump",
-   0.156,
-   4.5,
+   0.151,
+   5.6,
    ""
   ],
   [
    "RIB",
    "CwpENFdM5wYP4MkzJNRwCqyP4WPbPtszFMJXX5DPpump",
    0.088,
-   8.7,
+   9.8,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "KYJNATION",
+   "EKHtFwSmr2YGkegHAu3Gm2ox8wiZ7Aq1U8ewZ9gKfP57",
+   0.083,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "apple",
+   "6Eh7uDg6fWsLS9ad5QzD9GuiKUsscKToF2o5jCFHpump",
+   0.079,
+   2.7,
+   ""
   ],
   [
    "weenie",
    "6EgVUpRe3hBKTVmyVVWXAbFw1oG9U3tCSpaEhcWEpump",
-   0.058,
-   5.7,
+   0.054,
+   6.8,
    ""
   ],
   [
    "RCKRC",
    "GdYq7yAkUpDT9CTYPNBkErSijDBZqvtnsCGaHuLnpZQk",
    0.038,
-   4.6,
+   5.7,
    ""
   ],
   [
    "BNBGIRL",
    "6MSe7hnaczonAWdZDv7FpXrnZPuuRNLjwPy5JhWHpump",
    0.025,
-   7.7,
-   ""
-  ],
-  [
-   "$EVE",
-   "LAbsWuJ6zssGqrSpLJSU9z2qfcKi4wYdG5bGEQ9pump",
-   0.024,
-   3.5,
-   ""
-  ],
-  [
-   "OTG",
-   "AM2QWR5Cg4VQ81WNwrEnLFETuZmCxSkJZqSBrS46pump",
-   0.023,
-   9.7,
-   ""
-  ],
-  [
-   "George",
-   "2yEKGYL6jvcM5PoyF68GyJFyT8ijxXer9YtLDQMepump",
-   0.023,
-   3.9,
+   8.8,
    ""
   ]
  ]
