@@ -7118,84 +7118,84 @@
    32.58
   ],
   [
-   "2026-10-30T16:13:59",
+   "2026-10-30T16:14:55",
    32.58
   ]
  ],
- "cycles": 3698,
+ "cycles": 3699,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.8312772572,
- "watching": 261,
+ "sol_usd": 95.81406758419999,
+ "watching": 260,
  "near": [
   [
-   "LSTV",
-   "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
-   0.181,
-   5.5,
-   "buyers=5; top5_hold_most=100%"
+   "\u7ef4\u65af\u73c0",
+   "FLwFaVjs2dNqXxSKifmMnKKUf6tHzG1QkgcuXYjSpump",
+   0.145,
+   2.7,
+   "buyers=9; top5_hold_most=91%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "CHIP",
-   "6E5NU5yzfNQPLJHh2Us7YinNzmH6kWwA3YqeiY1Spump",
-   0.163,
-   9.8,
-   "launch_slot=missing"
+   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
+   0.141,
+   6.7,
+   ""
   ],
   [
-   "WIFZ",
-   "FcmxUPqDbfGCVN6PdUjfQsCvBUSZBfJjGgrdXsPLpump",
-   0.144,
-   9.8,
-   "buyers=9; top5_hold_most=93%"
+   "LSTV",
+   "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
+   0.139,
+   6.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "iPUMP",
    "9gHmHpgiMMNRGfdvSD9Hq3yqpBBmwXz452ekZkHfpump",
-   0.143,
-   5.0,
+   0.114,
+   5.9,
    "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "CHIP",
-   "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
-   0.127,
-   6.9,
-   ""
-  ],
-  [
-   "APPUMPFUN",
-   "AM6AwBbRBh9EPvHVzjGa6WuVrNM8Qzpt6qeXdn54pump",
-   0.115,
-   4.2,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "CHIP",
    "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
    0.107,
-   7.6,
+   8.5,
    ""
   ],
   [
+   "APPUMPFUN",
+   "AM6AwBbRBh9EPvHVzjGa6WuVrNM8Qzpt6qeXdn54pump",
+   0.089,
+   5.1,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
    "CHIP",
-   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
-   0.104,
-   5.8,
+   "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
+   0.088,
+   7.8,
    ""
   ],
   [
    "CHIP",
    "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
    0.082,
-   7.1,
+   8.1,
    ""
   ],
   [
-   "SLUDGE",
-   "6E8VZNJZyqHhY4sXMLKuraUcfUj8ztCuYTCuhj9Spump",
-   0.071,
-   2.7,
-   ""
+   "CHIP",
+   "FgNT8oYHPwVsyUi7Rwb2tqB1HjUUEAN11GuWiSUHpump",
+   0.063,
+   7.2,
+   "buyers=8; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "$AURV",
+   "HrETHEUwoaBDEaDA5rXDVMUxfxYzgsSWas8FM8tnpump",
+   0.056,
+   5.3,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
