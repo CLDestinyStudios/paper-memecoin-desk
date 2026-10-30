@@ -7066,83 +7066,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:11:52",
+   "2026-10-30T14:12:53",
    32.58
   ]
  ],
- "cycles": 3576,
+ "cycles": 3577,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.01000000000002,
- "watching": 250,
+ "sol_usd": 94.98354810560001,
+ "watching": 235,
  "near": [
   [
    "AXIO",
    "3mUcXkpVVkQ5ZJMctz2f1VBk4rwu3NRfNwVQZtDzpump",
-   0.768,
-   7.4,
+   0.745,
+   8.4,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "ZEROTAX",
+   "DCHsbiKoZK3RB2afLijwiXq8yCym8sHN933rxqMZpump",
+   0.662,
+   6.3,
    ""
   ],
   [
    "CRAMER",
    "EXdXL3EDwVYXvpknqkimLqokq22VMn9cqjsy2dMRpump",
-   0.652,
-   3.3,
-   ""
-  ],
-  [
-   "ZEROTAX",
-   "DCHsbiKoZK3RB2afLijwiXq8yCym8sHN933rxqMZpump",
-   0.533,
-   5.3,
+   0.625,
+   4.4,
    ""
   ],
   [
    "TUFF",
    "Gaj4HQFbVfCi9i2PMuVURKZKwVVzsoP9YU646jzupump",
-   0.366,
-   3.5,
-   ""
-  ],
-  [
-   "BAGLAW",
-   "Ad1GB9nNrhJw9eawXkcLJRvnZCXn67edVVx72DHrpump",
-   0.153,
-   4.3,
+   0.393,
+   4.5,
    ""
   ],
   [
    "REMARC",
    "CUhyxDeYAiZhqk9TNtQfp8SarcD7LxqoPF1maQTapump",
-   0.124,
-   3.2,
+   0.128,
+   4.2,
    ""
   ],
   [
    "CREAM",
    "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
    0.113,
-   7.0,
+   8.0,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "CRAMER",
-   "AeALngAP7tqi5Q5ao5nMfMarBWU5kXEtVevL8yxZpump",
-   0.072,
-   5.0,
+   "PUMPF",
+   "GGH9HTmX5VUsNZhiotznkeT9DLAhA8QVz9j4ASi7pump",
+   0.081,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "BAGLAW",
+   "Ad1GB9nNrhJw9eawXkcLJRvnZCXn67edVVx72DHrpump",
+   0.068,
+   5.3,
+   ""
+  ],
+  [
+   "RAM",
+   "4nkjEJZfSB9r2agVtLachvjPCi1NgfAQ89yXSqpBw4nz",
+   0.044,
+   7.1,
    ""
   ],
   [
    "sell",
    "9GC9X4vfSXdEGn5bzRVaSvQfAVgfbVEnJ3J412Jqpump",
-   0.063,
-   3.6,
-   ""
-  ],
-  [
-   "Null",
-   "CDucjNtLUHv4E9LtxJrb9RzfBUyZr9rteSNMe8oQpump",
-   0.045,
-   9.1,
+   0.039,
+   4.6,
    ""
   ]
  ]
