@@ -6620,81 +6620,85 @@
   [
    "2026-10-29T20:50:20",
    32.58
+  ],
+  [
+   "2026-10-29T20:51:19",
+   32.58
   ]
  ],
- "cycles": 2536,
+ "cycles": 2537,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.98450183885002,
- "watching": 164,
+ "sol_usd": 96.842477861,
+ "watching": 168,
  "near": [
   [
-   "$",
-   "EuAPaAxskPZPF5wxNdUBg8aUsKmMLnKwuWh9cgf1pump",
+   "GIMODELO",
+   "8yi9BX7moUYQBcyDcf85J4KA982GEM6xojvvCuaepump",
    1.0,
-   8.3,
+   2.5,
    "graduated"
   ],
   [
    "Doxxd",
    "3Pk7Va5QJoFMTjNTHcTz7NMm7bqAFPNbdCg2vwfopump",
-   0.627,
-   2.6,
+   0.721,
+   3.6,
    ""
   ],
   [
    "https",
    "7a4r5iESFo36yJBCojoYxThmTRoZhZ4dyfCHVThcpump",
-   0.514,
-   6.7,
-   ""
+   0.632,
+   7.6,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "QC",
+   "13ojgywqE64DbR5bQbJxfZVtoUPKfrqk7ojQknuUpump",
+   0.496,
+   2.9,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "1",
+   "CFFm4UdGo7S8PSh3KRoLxh6z22o8bAwpBx8b374Zpump",
+   0.193,
+   2.2,
+   "top5_hold_most=98%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "cz",
    "5v11RqKJ8v3xfZe18ArEtGGa224BzDEf5Gce8QUPpump",
-   0.2,
-   3.9,
+   0.167,
+   4.8,
    ""
   ],
   [
    "CYBERCOP",
    "24bD4UTMnRu7PpaKtwFiP3dh4BkviK41pcpxaazwpump",
-   0.152,
-   3.3,
-   "buyers=9; top5_hold_most=86%"
+   0.157,
+   4.3,
+   "top5_hold_most=83%"
+  ],
+  [
+   "STILL",
+   "8cyNyta1TwXZ7i8JTuNW8c3tQ4xi2bpj2jtnkHMvpump",
+   0.122,
+   3.0,
+   "top5_hold_most=94%"
   ],
   [
    "Compoot",
    "GMGHFWpZQzR8pdyQ8qUQNeoAxKVKjdcZVxAPrGSRpump",
    0.1,
-   7.5,
+   8.5,
    ""
   ],
   [
-   "BTC",
-   "2YHfNtKEkqXWF5F6WS7Md2uMkthBVyJRZqEAu2U2pump",
-   0.083,
-   3.7,
-   ""
-  ],
-  [
-   "IRI",
-   "6SH4Li8RVMTsz1LcRvAnp6XUDYTx6frhN86RVf5Ppump",
-   0.077,
-   2.8,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "ShipIt",
-   "Fm3AFpyLeWKAfsM8A1DVzAjN2ynAG4cHBi5bTbtmpump",
-   0.074,
-   4.4,
-   ""
-  ],
-  [
-   "USA",
-   "9FC9vXYydFpwESk2aDKcxcyxDpbyUjogtXndMH1jpump",
-   0.048,
-   5.3,
+   "QI",
+   "EHk1zgs2VTN2nmxRWM21nqhaZ6zgEu9JKknWRRdApump",
+   0.092,
+   2.1,
    ""
   ]
  ]
