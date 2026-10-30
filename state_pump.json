@@ -6988,82 +6988,86 @@
   [
    "2026-10-30T11:11:53",
    32.58
+  ],
+  [
+   "2026-10-30T11:12:57",
+   32.58
   ]
  ],
- "cycles": 3396,
+ "cycles": 3397,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.4202307324,
- "watching": 284,
+ "sol_usd": 94.34198040025002,
+ "watching": 287,
  "near": [
+  [
+   "FAST",
+   "2tU8s8nM4cDLqy7SQSXjEDJWygFGrVF3Ze8SDdHRpump",
+   0.521,
+   2.3,
+   ""
+  ],
   [
    "Trip",
    "6c1FCbP2yHcjTRdsYuSxfLUfUq7oFn8J6goY56mdpump",
-   0.449,
-   3.3,
-   "buyers=7; creator=35.3%; top5_hold_most=100%"
-  ],
-  [
-   "SCRNR",
-   "DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump",
-   0.301,
-   10.0,
-   "buyers=8; top5_hold_most=95%"
+   0.471,
+   4.4,
+   "buyers=9; creator=36.8%; top5_hold_most=100%"
   ],
   [
    "TYGR",
    "22uNxofnMEmUsqSNAYgkCjMMEez4pPPdcKoiSVRzpump",
    0.277,
-   4.7,
+   5.8,
    "buyers=3; creator=19.5%; top5_hold_most=100%"
   ],
   [
    "XTO",
    "7MBrCNUU9VGEFxJ15TzNaC41zfu1j9u8HkpR7CSKpump",
    0.191,
-   5.6,
+   6.7,
    "buyers=1; creator=15.2%; top5_hold_most=100%"
-  ],
-  [
-   "Julio",
-   "31jEx8GuL9jKyja9sy2YFs7a9Md1oUwz4N7geCuHpump",
-   0.125,
-   3.6,
-   ""
-  ],
-  [
-   "PicPad",
-   "FFZKHyuCqmwa8LmavtammztnAduvSwX3ZnpzrjQppump",
-   0.124,
-   2.3,
-   "top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "TYGR",
    "13jw5ue1SQXfU9868Z44GHnn8YZdFAPyivkFgXvzpump",
    0.095,
-   3.2,
+   4.3,
+   ""
+  ],
+  [
+   "RKC",
+   "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
+   0.073,
+   2.2,
    ""
   ],
   [
    "ZEROTAX",
    "G1yQukvEvamDsNUhF1X6gUELCh6TqX3jDjUJxz2fpump",
-   0.091,
-   4.1,
+   0.072,
+   5.2,
    "buyers=8; top5_hold_most=99%"
   ],
   [
-   "LITMUS",
-   "8vTKxVCBoLeVri7CRvZtLh2R2zhPm2oXvCXrK6UTpump",
-   0.074,
-   3.8,
+   "TYGR",
+   "G8sXhTmWJGNJf8sXXMfes1VSMQM2wFmRE3Dz2RVSpump",
+   0.07,
+   2.4,
    ""
   ],
   [
-   "iDAX",
-   "J72Smp7kuHHoD4QgRxBJVuQ3LNKrZGhYnNfLEV99pump",
-   0.069,
-   4.1,
-   "buyers=1; top5_hold_most=100%"
+   "TYGR",
+   "Ajwi3HKcTffNLN3xaY9QVQ3ogeQwKMxbhrD3mNfKpump",
+   0.064,
+   7.1,
+   ""
+  ],
+  [
+   "REBATIX",
+   "7BfEAUMLehrpHD7igZNEqjXFK6ve1px4e7xXr3gNpump",
+   0.052,
+   8.0,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
