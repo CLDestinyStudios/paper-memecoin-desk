@@ -6930,84 +6930,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:55:48",
+   "2026-10-30T08:56:46",
    32.58
   ]
  ],
- "cycles": 3260,
+ "cycles": 3261,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.50241940344999,
- "watching": 223,
+ "sol_usd": 94.68,
+ "watching": 214,
  "near": [
   [
-   "PEPA",
-   "DNTbaWxAADzwraCg49ugLkaMyoE6mkWnwSw7zq8vpump",
-   1.0,
-   4.8,
-   "graduated"
-  ],
-  [
-   "survive",
-   "ArXQYUmiCLSrvuxzXdKBZ1yVFuYDNz9v2xNVqb4Npump",
-   0.871,
-   9.8,
+   "NOMNOMNOM",
+   "FSVAi8E61z1PR1VYXjSwH7s6PJ144dvvDyNhnQE1pump",
+   0.673,
+   2.5,
    ""
   ],
   [
-   "TIMOTHY",
-   "FVyVVRvRrFbxDwYJ5sVEuLC9r22r3Cakvgb2Hve1pump",
-   0.488,
-   8.3,
-   "serial_creator=10 launches/24h"
+   "ZcashPad",
+   "DWB8eV3n4Q5qaAP1hqGRCRaTCnrjNT1cxvYHGZhepump",
+   0.412,
+   2.1,
+   "rugcheck=creator history of rugs"
   ],
   [
    "Nora",
    "FEV4YZYU2hrQxa8tHi93boBhvp65HE6gJU3GWQkypump",
-   0.426,
-   8.1,
+   0.388,
+   9.1,
    ""
   ],
   [
    "OWLGHOST",
    "GVHH5QavYfNsDTpgJzBGd35HFsyCBxbhb2MJAgnSasm",
    0.27,
-   4.1,
+   5.1,
    "buyers=1; creator=21.4%; top5_hold_most=100%"
+  ],
+  [
+   "JAHLYN",
+   "ETApdoTPQNseDEAY4W1ww31D6heMoEWgPuVSWZYjmw4p",
+   0.13,
+   2.2,
+   ""
   ],
   [
    "board",
    "4hc3xdGwKnLknYNiMFYZFcuonGVPHwvi2a77xhwtpump",
-   0.125,
-   2.2,
-   "buyers=5; top5_hold_most=100%"
+   0.12,
+   3.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "CEMENT",
    "HMgDDTW8LAcbH8QxzP4VSQ213V4QmBshqdcnGviqpump",
-   0.089,
-   2.4,
+   0.082,
+   3.4,
    ""
-  ],
-  [
-   "WIENERMAN",
-   "E9PCoAasfBwrXPF6XAfetqDiYt2H8jEiBRtck8s3pump",
-   0.077,
-   2.9,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "dogcat",
    "3xBkHn5uUZYMto6EgRKRxFQ7Dbwm4K2NHbXFhCETpump",
    0.064,
-   2.5,
+   3.5,
    ""
   ],
   [
    "ESCAPEDOG",
    "2MxT3Y7ZRaXarHfzFczVGtw5QimX7AEj8VZ9dFHDmS4T",
    0.06,
-   3.6,
+   4.6,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "AURA",
+   "9Xf4VQJtxhjQMN9DRPRjt1paKT8JyY4tfuhCjwnnpump",
+   0.057,
+   7.0,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
