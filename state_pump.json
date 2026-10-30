@@ -6606,84 +6606,84 @@
    32.58
   ],
   [
-   "2026-10-29T20:17:18",
+   "2026-10-29T20:18:18",
    32.58
   ]
  ],
- "cycles": 2503,
+ "cycles": 2504,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.43,
- "watching": 277,
+ "sol_usd": 95.44,
+ "watching": 289,
  "near": [
   [
-   "ROBBERY",
-   "AdkZmHCBtJyDv1GmYA93JZTG7rts3B7heMrVvayVpump",
+   "SIC",
+   "EVSYDMt9mMk91DjQp3gdEzg73Yuvrb8wqXnTNs79pump",
    1.0,
-   2.3,
+   3.0,
    "graduated"
   ],
   [
    "SIC",
-   "61xnVrSX8mCrEg3XecTnEvtRKSqixRuLP23noP23pump",
-   1.0,
-   2.6,
-   "graduated"
+   "7JNaktgi1Nu7SKRtk2NaUBFoCpS8k2NSCpPxBw7spump",
+   0.438,
+   2.5,
+   ""
   ],
   [
    "CHINGLING",
    "4jSsaqReY5g5u82Qpy3wH7zhbGEDDiEVyR32qc2jpump",
-   0.396,
-   3.1,
-   "buyers=3; top5_hold_most=100%"
+   0.406,
+   4.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Vulu",
+   "CePQDPsq2mbujtf6VnyVuEw67DMjgjChn18FzXmEpump",
+   0.255,
+   3.5,
+   ""
+  ],
+  [
+   "JANSEM",
+   "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
+   0.226,
+   2.2,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "SI",
+   "5cC6RZeeAA46CoUvwFAqw1ZRVk7mfsCe8U17PcsqSCm6",
+   0.175,
+   4.2,
+   ""
   ],
   [
    "SIC",
-   "ExEiwAYrHHGoXXMTTJzHFcPd1uRqKVwEzRhRSf7cpump",
-   0.272,
-   2.3,
-   "serial_creator=10 launches/24h"
+   "CVNjqUFFW819CuLKSW6eRyXgRVf4vVV8e1WhzTb1pump",
+   0.157,
+   3.0,
+   ""
   ],
   [
    "SI",
    "FbjZDLrwXbSwcWq6kgKehLu7JHbzZPiokiwPKgzoQJq1",
    0.156,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "SI",
-   "5cC6RZeeAA46CoUvwFAqw1ZRVk7mfsCe8U17PcsqSCm6",
-   0.153,
-   3.2,
+   "SIC",
+   "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
+   0.14,
+   3.1,
    ""
-  ],
-  [
-   "WENTOYOTA",
-   "BDAjMnHxDJLxbYHbyD7GM7SpDG9ybke1kEd2rdF3pump",
-   0.13,
-   2.4,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SI",
    "2yYgKbuAusfkzgjSKRJa6Tmmb63vzKatj332XkPra9Gn",
    0.126,
-   4.1,
+   5.1,
    ""
-  ],
-  [
-   "SI",
-   "DcfBijBiN2tdG4dtTkoJenCR24Zmnv2mJTjEiN8bpump",
-   0.124,
-   2.8,
-   ""
-  ],
-  [
-   "SICoin",
-   "F28QE2ZwoDTGtCLpBEATAhMwyDf9Ja9q2dN6B5cHpump",
-   0.123,
-   3.5,
-   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
