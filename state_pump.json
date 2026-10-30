@@ -7010,84 +7010,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:05:50",
+   "2026-10-30T12:06:49",
    32.58
   ]
  ],
- "cycles": 3450,
+ "cycles": 3451,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.20332644240001,
- "watching": 344,
+ "sol_usd": 94.13000000000001,
+ "watching": 342,
  "near": [
-  [
-   "Humanism",
-   "CqeUjY3HNi3iF8NjqvdyVcFdGvemkqdvrDs15Kkfpump",
-   0.634,
-   2.7,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "NDA",
    "6KKo6ffeeQnP7FDVP7M4dQ91c2A7WD4GoNtP1PyJpump",
-   0.313,
-   3.5,
+   0.484,
+   4.5,
+   ""
+  ],
+  [
+   "DIG",
+   "EQXFqb8zLJV8f11g6YDEpdGx8k4QD7tL8m5CZbU6pump",
+   0.319,
+   2.5,
    ""
   ],
   [
    "SONIC",
    "Aft7sh5VFB3Sx2iL21uyZTGghSTyPzrEByvtnSxapump",
-   0.205,
-   4.6,
-   "buyers=8; top5_hold_most=85%"
-  ],
-  [
-   "Hedge",
-   "BU8CD8Vi8rkFafdvHHP1hCsWRdFouZC9X51mymh7pump",
-   0.171,
-   3.2,
-   "top5_hold_most=92%"
+   0.166,
+   5.6,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
    "GLOW",
    "5hJLQ9aXWdes2i8ayV8vPisvxhXiWXwWqDr5cG5Cpump",
    0.14,
-   7.4,
+   8.4,
    ""
   ],
   [
    "nasdaq",
    "9ziJiZpxEKY9ZLPKB8sTzj2x2v8X1pNpVPdTwXQRpump",
    0.137,
-   3.6,
+   4.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "HUMANISM",
    "2cRTiNLqc34XzTfR2NqWcwaNEnjxPkgu1KDJFwxwpump",
    0.121,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "Octover",
-   "D9UPtYaVEiFDzjfZJuXgSEjLGBnAsdpmrG1Fy9X5pump",
-   0.081,
-   3.9,
+   "DUVEWEEN",
+   "GZKnnGkZK31LHaSukGCfeW3kA4XgGzvXtvWJLYc1pump",
+   0.071,
+   2.5,
    ""
   ],
   [
    "S&P500",
    "Gv6rpBegGhxLktm3LwD9SkDrp8MpLhH2pzh52phhpump",
    0.068,
-   4.4,
+   5.4,
    ""
   ],
   [
-   "FLOYD",
-   "6rp7aGTRjF2NPKXAyaSQNpXRY6XEczvVpU57tdWypump",
-   0.055,
-   5.8,
+   "Higher",
+   "HyHrRuPRt8hww8u9WaxRVwbvhbRU3zeWcFC3Ri1Apump",
+   0.043,
+   9.6,
    ""
+  ],
+  [
+   "CIO",
+   "Ajo3nzjZ6u3TAF2pzzFAnVboJN1Quj8Q67sw3PJ8pump",
+   0.043,
+   4.9,
+   "buyers=6; top5_hold_most=96%"
   ]
  ]
 }
