@@ -6798,84 +6798,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:48:47",
+   "2026-10-30T03:49:46",
    32.58
   ]
  ],
- "cycles": 2954,
+ "cycles": 2955,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.77656258134998,
- "watching": 212,
+ "sol_usd": 96.72296286005,
+ "watching": 186,
  "near": [
   [
    "DAEMON",
    "2211sKbQxtB84KD6e73ZEKar8vRYpNyqfpg8QX3Tpump",
-   0.789,
-   5.6,
-   ""
+   0.743,
+   6.6,
+   "serial_creator=8 launches/24h"
   ],
   [
    "FBinance",
    "8ozbviNRSmeBP8tJyaK92XdrN3ceHqVpDLnP25DRpump",
-   0.611,
-   4.8,
-   "creator=43.3%; top10=48.5%; top5_hold_most=98%"
+   0.628,
+   5.8,
+   "creator=43.9%; top10=49.2%; top5_hold_most=98%"
   ],
   [
-   "Qwen",
-   "3JzrMrnhaN4FGJsnkqe4rhvQmERAb7r37kbW6AgXpump",
-   0.437,
-   2.5,
-   "serial_creator=10 launches/24h"
+   "CVE",
+   "CdoZhy9MUQrb79zR5GXk3q1kvdTpzUUqbqbQEshu6Dvr",
+   0.619,
+   2.7,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "HUGE",
    "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
-   0.437,
-   7.3,
+   0.537,
+   8.3,
    "top5_hold_most=90%"
-  ],
-  [
-   "SBF",
-   "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
-   0.27,
-   10.0,
-   ""
   ],
   [
    "ATONKY",
    "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
    0.254,
-   7.5,
+   8.5,
    "top5_hold_most=86%"
   ],
   [
    "ke3d",
    "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
    0.193,
-   6.8,
+   7.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "COFFIN",
    "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
-   0.167,
-   5.4,
+   0.132,
+   6.4,
    "buyers=6; top5_hold_most=95%"
   ],
   [
    "SIDE",
    "7XCKCSPn2auKGi3dknXEveWihv9ZbtZ7kBENRmGZpump",
-   0.125,
-   4.1,
-   "buyers=4; top5_hold_most=100%"
+   0.121,
+   5.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "DAEMON",
-   "ESc76WZx8eVT5g9fbF8pYhRE7Ekjm4pEnE1BpjgHpump",
-   0.12,
-   9.1,
-   "top5_hold_most=87%"
+   "WIF",
+   "8U1fEGpee5sHGGWHQWDxrNCXr59qs5i2WrofVGNqpump",
+   0.11,
+   2.9,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "1029",
+   "91ChDQNeyM96xVgUAGsKHxz9TDh6tFGySAZqAKmjpump",
+   0.094,
+   3.6,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
