@@ -6766,84 +6766,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:37:48",
+   "2026-10-30T02:38:51",
    32.58
   ]
  ],
- "cycles": 2883,
+ "cycles": 2884,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.87622620245,
- "watching": 206,
+ "sol_usd": 96.7947027826,
+ "watching": 196,
  "near": [
   [
    "six",
    "Enyyiune9p7dhMXRWpZ3orSkCg4rgYqMGQLsw1E8pump",
-   0.303,
-   2.3,
+   0.438,
+   3.3,
    ""
   ],
   [
    "TAB",
    "6VEgVTKZC3gznNynNSpdVAtRj9KikRtkQk8Dz3HApump",
-   0.266,
-   2.7,
+   0.295,
+   3.7,
    ""
   ],
   [
    "NOMA ",
    "8v4BJVcaA9vLZmSddcrg9xSDBnRu3nUWqhjbqLexpump",
    0.137,
-   2.5,
+   3.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "HINT",
    "28KevLFSHnvLjs767xS7sWggHxCwLNaPjs3PBG3apump",
    0.109,
-   2.9,
+   4.0,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "KOALAMEME",
+   "HkbuJsU4NTUw4UbEUaWbcsD2YEfFEcX4CYCebM5Ppump",
+   0.098,
+   2.3,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "AI MEME",
    "7rSMqUCWgen4JDwVvJv3cv15Ce9sCa4u7rRNsoHypump",
-   0.087,
-   6.2,
+   0.091,
+   7.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "CBF",
    "ECqrXF49aA6SceqShbeNNNpmkh4VvGtnJDzGqN5wXFvJ",
    0.082,
-   3.5,
+   4.5,
    ""
   ],
   [
-   "CBF",
-   "5xHhgGNqSuE9EmeqBcTx2N6gX6B7zRrkNpXGuLyxpump",
-   0.066,
-   9.4,
-   ""
+   "NIO",
+   "H6pGVC1pZbhvaAPajKGPkvAdRwVZT2RFMc8eEWVUpump",
+   0.064,
+   2.0,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "stop",
-   "DnfSK5tboFABj32yEAA3axA3emV3HCaZYdYWjS5npump",
-   0.066,
-   2.1,
-   ""
+   "Kss",
+   "Ctz4X4kKuLFoncQoMW49ebLQoPbJgKgHhHkJ1FSdpump",
+   0.051,
+   2.9,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "ThaiCat",
    "7jtcgq4XRQ8Roo3Xzq5gzDpzhiEgoBQVTNbEuKsopump",
    0.048,
-   2.6,
+   3.7,
    ""
-  ],
-  [
-   "Hype",
-   "8GCUXjFRxgDhgmwCLY7KkJe2qGDTCheHaQZQajeypump",
-   0.044,
-   5.5,
-   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
