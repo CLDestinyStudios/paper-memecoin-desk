@@ -6790,84 +6790,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:30:46",
+   "2026-10-30T03:31:52",
    32.58
   ]
  ],
- "cycles": 2936,
+ "cycles": 2937,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.57695696485,
- "watching": 165,
+ "sol_usd": 96.70030000000001,
+ "watching": 158,
  "near": [
   [
    "IPO",
    "3osKX3hLiV6BbVjSdZzpLJ9qWngCYtweuWHJ9FZFpump",
-   0.972,
-   7.5,
+   0.959,
+   8.6,
    ""
   ],
   [
-   "SC",
-   "EKeMVYySs24sE4ah2ABy5kg63TfbeU89JxbbpMHMpump",
-   0.655,
-   9.0,
-   "creator=36.9%; top10=49.2%; top5_hold_most=90%"
+   "Xlife",
+   "3uKbaQ3o3QQmjLmUyA7iuDwJ5rMW3TVrAoxgfysppump",
+   0.536,
+   2.4,
+   ""
   ],
   [
-   "PETRI",
-   "37CqJb7xVFeP1FBNXYgYREgY6vfJcbpnAWqx1733pump",
-   0.34,
-   2.8,
-   "serial_creator=10 launches/24h"
+   "Inuployed",
+   "HfLsGZo4EyWWgrYtFco7nAqX1h9PPmBY6RpTdie5pump",
+   0.512,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "LEAK",
-   "5pkokVU9e68h6yGjJg77EQfvU53YbKyCwTY9Y8WUpump",
-   0.194,
-   2.5,
-   "top5_hold_most=97%; bundled_launch=3 extra buys in creation block"
+   "ACTR",
+   "7UpgKvcC3rHFwWZFHtESNRKamZS5fRCyAJWvMErbv2r9",
+   0.404,
+   3.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "MIND",
    "D4zpoH2SXELkxNqa3ZVzg68SwnvXWDP1JVKqYEMpump",
-   0.193,
-   7.7,
-   "buyers=8; top5_hold_most=87%"
+   0.197,
+   8.9,
+   "buyers=9; top5_hold_most=86%"
   ],
   [
-   "STEALING",
-   "4Egn6B25c4CGrPUMDGsErZBCsy4MMtSbYZf1d9c1pump",
-   0.107,
-   4.5,
-   ""
+   "stayaway",
+   "3DrxYckYjD2hfnuUE4xv66rdnUiivGmDm4vSBYdYpump",
+   0.184,
+   3.1,
+   "buyers=9; top5_hold_most=98%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BALLS",
+   "9142RAHvWs9KvHGUafBhywVTzcwBJKrLYqNd3nkspump",
+   0.122,
+   2.9,
+   "buyers=1; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "TERMINATOR",
    "6Ssk9jVNKX9JyqBPc857GDyKGBVxxYTJqU7L1p4dpump",
    0.104,
-   4.8,
+   5.9,
    ""
   ],
   [
-   "BTTT",
-   "6btaXZqjgCuG1fcnmVJvRxUkKkZxtwXQhwGTDxhgpump",
-   0.089,
-   3.2,
-   "top5_hold_most=86%"
-  ],
-  [
-   "STEALING",
-   "F4ZUhhQra9Ukw7yJ2xQXv61X4iN197DsaFY1xPwnpump",
-   0.068,
-   7.3,
+   "Corgi",
+   "Q5nuVXVFD9LscWTYoxKd5F4KqLuz2RvFARjWiVZpump",
+   0.072,
+   2.4,
    ""
   ],
   [
    "SAFE",
    "5zP33pr4LBDLGpvwaAvRggitVhYyx7DhfLR6JqMYpump",
    0.068,
-   3.3,
-   "buyers=4; top5_hold_most=100%"
+   4.4,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
