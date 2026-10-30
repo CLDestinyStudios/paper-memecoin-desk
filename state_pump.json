@@ -6690,83 +6690,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:33:16",
+   "2026-10-29T23:34:15",
    32.58
   ]
  ],
- "cycles": 2699,
+ "cycles": 2700,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.0408137257,
- "watching": 176,
+ "sol_usd": 98.08773561420001,
+ "watching": 180,
  "near": [
   [
    "ZERO",
    "Ddwf94wedgCuMHAkwgti8A7sL2CxvBYJStJBj2cFpump",
-   0.778,
-   4.0,
+   0.776,
+   5.0,
    ""
   ],
   [
    "SEPPI",
    "DuwJDyL5VSGXw44tPm2GboaJSfjGAR9qQtCdSZnHpump",
-   0.59,
-   6.9,
+   0.574,
+   7.9,
    ""
-  ],
-  [
-   "OWLS",
-   "33HyfNU4caLAsojMBnYEfz4cz4BV7guY9ZV87ViXpump",
-   0.451,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "NKH",
-   "FY66BPnfmPsiv1JsqXfkTFXyMuSkCE4PoGUPyyjjpump",
-   0.249,
-   2.4,
-   "top5_hold_most=81%"
   ],
   [
    "SpaceX",
    "BKqqjPAFqfj2kGyt2ygztvX3bipxeDS2ZF7syN8zpump",
-   0.184,
-   3.9,
-   "top5_hold_most=99%"
+   0.273,
+   4.9,
+   "top5_hold_most=87%"
+  ],
+  [
+   "NKH",
+   "FY66BPnfmPsiv1JsqXfkTFXyMuSkCE4PoGUPyyjjpump",
+   0.2,
+   3.4,
+   "top5_hold_most=90%"
   ],
   [
    "MarsCoin",
    "EftyD5vJpbDM7KbbYAAW5nUuyLjA9rgxf6S1Bb8gpump",
-   0.088,
-   2.7,
+   0.087,
+   3.7,
    ""
   ],
   [
-   "$BABYCAT",
-   "8MGymC1oSZxDNMGHWZsFAhmaQPMcpLbnypakxuWHpump",
-   0.017,
-   10.0,
-   ""
-  ],
-  [
-   "EARN",
-   "8DGknPivq1fgpMUyu2mpeyKgXD6RHGb9wmv1J6MMpump",
-   0.015,
-   9.9,
+   "PARK",
+   "5e1rCUegDrLTqKga7wqyAj26NbCeiLe7LVs6BgSfpump",
+   0.043,
+   2.2,
    ""
   ],
   [
    "CLOCKIN",
    "FfbxYyS3MdMHUiKKoCsZcKvN89Kdy4JPHQhKRCSDpump",
    0.004,
-   6.6,
+   7.6,
    ""
   ],
   [
    "MarsCoin",
    "AZVJVhJckXxmyBGZb69T8rjHpXsXZbAfLhw1stwipump",
    0.002,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "ELON MUSK",
+   "Az9SKeAXxvPDbbCb2bB932H9aGSyRErZgkiNUF3Spump",
+   0.002,
+   2.1,
+   ""
+  ],
+  [
+   "Soldier",
+   "AjFwgX1uhDKyeZ3ou7VEvZ62zjCX9wJCFcvfLM3mpump",
+   0.002,
+   8.7,
    ""
   ]
  ]
