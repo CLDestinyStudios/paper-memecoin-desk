@@ -6662,84 +6662,84 @@
    32.58
   ],
   [
-   "2026-10-29T22:27:23",
+   "2026-10-29T22:28:21",
    32.58
   ]
  ],
- "cycles": 2633,
+ "cycles": 2634,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.80536234275,
- "watching": 139,
+ "sol_usd": 97.88121258009998,
+ "watching": 140,
  "near": [
   [
-   "Anonymouse",
-   "9B1oAGfSkDRcdyE9aNN6t1ga23ENZ4ht6qGHWcqQpump",
-   0.569,
-   3.0,
+   "Job",
+   "BRpJM5C8FjPFPAUiJqh8uUQ2GHM1VB5otAFtLfB9pump",
+   0.551,
+   2.3,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Drip",
+   "68tK7LpS7A9vgTZWdPfiB4o7aY4Y75E8KVm28zTtpump",
+   0.334,
+   2.9,
    ""
   ],
   [
-   "NP",
-   "D9H1awiPAMYXPVFz4ZVMCNvW4LbYCfUVgPe8Cd43pump",
-   0.182,
-   3.3,
+   "Anonymouse",
+   "9B1oAGfSkDRcdyE9aNN6t1ga23ENZ4ht6qGHWcqQpump",
+   0.215,
+   3.9,
    ""
   ],
   [
    "hypecoin",
    "9HC43uRGvmsXydeVmRt1nLdFxf6mLJQkHFJZKujVpump",
-   0.119,
-   3.0,
+   0.116,
+   3.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "Kim",
-   "J5nxkDpZPHecU37RfsBLNx52ZPB4KAZZbmKaZ9kGpump",
-   0.064,
-   7.6,
+   "Anonymoose",
+   "BRxPPuyNRvZkkq59vA7hdYS5VWaop56iBWofqQwopump",
+   0.115,
+   3.0,
    ""
+  ],
+  [
+   "PINKYRED",
+   "FdmAw5aF8EUoKTpj72Mjrfo8K9D4MjpBpRP8KoYDpump",
+   0.071,
+   2.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "EXPLORER",
    "4YzJDE6BmxezAUViMUGGyApHmErruLZCJiw3VnC6pump",
    0.043,
-   7.7,
+   8.7,
    ""
   ],
   [
    "SOGGY",
    "Cv94qSPcCQLaBJN6zodNG6jm92sQKYL6APpwYaETpump",
    0.031,
-   2.5,
+   3.4,
    ""
   ],
   [
    "SENOIA",
    "A2e2FmTwKpNkr2uw2FkEVUHaYCbE8Wn6oANCJS8Zpump",
    0.026,
-   2.4,
+   3.4,
    ""
   ],
   [
-   "Kim",
-   "GhEZP7VLQCgZ8xodAT9T4w941ajQzMfHwV1brvAMpump",
-   0.011,
-   6.9,
+   "PAYN",
+   "CeYhKj9F15gW1RZiWMS33hVUUSFE4Pgz3EV3rz6kpump",
+   0.022,
+   3.0,
    ""
-  ],
-  [
-   "EXPLORE",
-   "2FoVfZ2dKaGaVBrTXaP7Spg4KrAgQdPsHpNMpU7bLRfu",
-   0.008,
-   8.1,
-   ""
-  ],
-  [
-   "HypeStonk",
-   "mHafR9Zy55WD2tMQJRt1gjTEh8t28yrUo8RgDqLpump",
-   0.008,
-   7.1,
-   "buyers=6; top5_hold_most=99%"
   ]
  ]
 }
