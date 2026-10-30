@@ -1,6 +1,6 @@
 {
  "bank_start": 500.0,
- "cash": 333.8116885933899,
+ "cash": 346.6292530259172,
  "positions": {
   "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": {
    "sym": "\u2588\u2588\u2588",
@@ -9,26 +9,12 @@
    "mark_entry": 0.0005026,
    "cost": 18.54,
    "peak": 0.0005202,
-   "last": 0.0004923,
+   "last": 0.0004887,
    "opened": 1793375624.9353695,
    "p_buy": 0.55
-  },
-  "FhdqbRJgDnsxHS4mcY5YpuezTFysbPyDzLXrthyBpump": {
-   "sym": "ELONTROLL",
-   "qty": 301571.30228567886,
-   "entry": 6.13122e-05,
-   "mark_entry": 6.011e-05,
-   "cost": 18.49,
-   "peak": 6.011e-05,
-   "last": 6.011e-05,
-   "opened": 1793376768.7607327,
-   "p_buy": 0.56
   }
  },
- "watch": {
-  "J3ReuwckNtcJP1Zhn7wVbfXhTDNTkHxozQWWAwxWpump": 1793376768.7603996,
-  "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793376768.7605395
- },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -8397,8 +8383,12 @@
   [
    "2026-10-30T09:12:48",
    369.02
+  ],
+  [
+   "2026-10-30T09:13:54",
+   363.95
   ]
  ],
- "cycles": 3297,
+ "cycles": 3298,
  "started": "2026-10-28T01:46:56"
 }
