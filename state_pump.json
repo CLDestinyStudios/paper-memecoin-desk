@@ -6890,83 +6890,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:26:52",
+   "2026-10-30T07:27:50",
    32.58
   ]
  ],
- "cycles": 3171,
+ "cycles": 3172,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.5310494255,
- "watching": 125,
+ "sol_usd": 94.27175,
+ "watching": 132,
  "near": [
   [
    "VPAD",
    "8kXBLHru6MJFBSifePFckNwU4qH3afnQtfmTo1zhpump",
-   0.628,
-   8.3,
+   0.629,
+   9.3,
    ""
+  ],
+  [
+   "HODL",
+   "GdKrdxbJgrafHsXAb5Hv2gbbW5ypYFt1HPeLdY6Vpump",
+   0.506,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "PREDICT",
    "7hqd3Yryg4hCChJJD9QvP2ZA6YaUhMdyjUgi6m1zpump",
-   0.574,
-   6.2,
+   0.438,
+   7.2,
    ""
   ],
   [
    "TUES",
    "HZQiAtcchd8wLfysVGdptJdXp9xnLz51uUCw3T6bpump",
-   0.223,
-   2.2,
+   0.275,
+   3.1,
    "buyers=9"
-  ],
-  [
-   "Dossier",
-   "62z3kKbck3geVhAmC2iUNP4q5Gw2G995gPVbFrfkpump",
-   0.222,
-   2.5,
-   "rugcheck=creator history of rugs"
   ],
   [
    "HODL",
    "AJkxxwNJW629uPbRhGxpE5ZBL6uHe6Zb9WzaaU462PGz",
    0.126,
-   2.2,
+   3.2,
    "top5_hold_most=100%"
   ],
   [
    "SC",
    "5kAJ96G551bmBgX5AxbbKztVbAuyZ1HyL4pkkWMYpump",
-   0.121,
-   3.5,
+   0.119,
+   4.5,
    ""
   ],
   [
-   "Heyppepe",
-   "AmS3CTPtDWJgGck1k13XEFauByysSU6K5abS69Yspump",
-   0.074,
-   6.7,
-   "buyers=8; top5_hold_most=99%"
+   "REDCZ",
+   "C7wPnnYpNN5M8BgvkT8NBBn6GqLzWgVMz1mHmFTypump",
+   0.11,
+   3.0,
+   "top5_hold_most=90%"
   ],
   [
-   "CLAUDE",
-   "7w3FWNU6XvWKCvv2D4FoFv76J5gxLMxm6iWB7nE4pump",
-   0.072,
-   5.9,
+   "67Halloween",
+   "gUbAjKsbXWrXPhikwdaMC4hY2QFB3vKpN5Qxc4Wpump",
+   0.071,
+   2.7,
    ""
   ],
   [
    "Boobs",
    "2eXEgFfwiGoz1QYt324jQJhvRqRBgHEF75JPBz4epump",
    0.064,
-   2.3,
+   3.2,
    ""
   ],
   [
    "CURSETOBER",
    "62vEVQAiosady5AvDzUHErCyvnxBwYAsBbbUMhvupump",
-   0.058,
-   6.2,
+   0.054,
+   7.1,
    ""
   ]
  ]
