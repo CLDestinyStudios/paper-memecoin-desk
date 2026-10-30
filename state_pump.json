@@ -6730,84 +6730,84 @@
    32.58
   ],
   [
-   "2026-10-30T01:13:00",
+   "2026-10-30T01:14:00",
    32.58
   ]
  ],
- "cycles": 2798,
+ "cycles": 2799,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.125,
+ "sol_usd": 96.97058265449998,
  "watching": 138,
  "near": [
   [
    "DUOTIDE",
    "AtKvRVDF738YA925jmxNeh4iV2qCVBBJeMxQNyrupump",
-   0.815,
-   2.6,
+   0.822,
+   3.6,
    ""
   ],
   [
    "ket",
    "2VhYcFuTz8SzPriEJBmxiKBCtU5Cp4sKGvtuqmTapump",
-   0.404,
-   3.0,
-   ""
-  ],
-  [
-   "LVAULT",
-   "8jvUdxrxoYfKZ4rcBEHtyTeh3k8qkWzFfrxwe7jjpump",
-   0.31,
-   4.8,
+   0.411,
+   4.0,
    ""
   ],
   [
    "TraderTrai",
    "4zJvs9rzzYwhHfvHEj8BLfL96M9nHAbTcPQApLfVpump",
-   0.155,
-   4.9,
-   "buyers=5; top5_hold_most=100%"
+   0.202,
+   5.9,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
-   "CAUSALITY",
-   "AaeD9FJfQsNhPwSibsz4noq2a1zK9bhWQ9bh3nqcB4ZP",
-   0.088,
-   7.3,
-   "buyers=7; top5_hold_most=98%"
+   "Hacker",
+   "E7a9qfcfzdAFx7VoeGWbXm8F5uGzQZTrukcoPRrXpump",
+   0.13,
+   2.4,
+   "buyers=6; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "SAFU",
    "QyxoY9C5bPgXVXQCfN5meHH2bCXPtwUsTTvxcRrpump",
    0.084,
-   2.8,
+   3.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "7QVoyoeeyRDJD77he8T3mAkKa3yVKtj9wGfFxX1Lpump",
    0.084,
-   4.2,
+   5.2,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Cumshot",
+   "8vPkBsRsSLoCxtjTYQcLzcsaoReENpyGvrFnJm2gpump",
+   0.073,
+   2.3,
+   ""
   ],
   [
    "RAMP",
    "C8pQc5Ct3EyUabp2ekbNs2A11Vu9xpFeNYHfXQRkpump",
    0.072,
-   2.6,
+   3.6,
    "top5_hold_most=98%"
   ],
   [
    "CAPY",
    "8ffAopc9Y72769EqQGWJ1ymgcDwYBF1Tk6cz3tSky1EJ",
    0.07,
-   2.5,
+   3.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Halloween",
-   "FGr6ntCUdSyUebWeZJKXiWWBdeDjF61iD9s6LCaypump",
-   0.047,
-   4.5,
-   ""
+   "CAUSALITY",
+   "AaeD9FJfQsNhPwSibsz4noq2a1zK9bhWQ9bh3nqcB4ZP",
+   0.068,
+   8.3,
+   "buyers=6; top5_hold_most=100%"
   ]
  ]
 }
