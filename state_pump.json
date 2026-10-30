@@ -6794,84 +6794,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:39:47",
+   "2026-10-30T03:40:48",
    32.58
   ]
  ],
- "cycles": 2945,
+ "cycles": 2946,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.93615880845,
- "watching": 197,
+ "sol_usd": 97.04029497515,
+ "watching": 191,
  "near": [
   [
    "BURN",
    "5ANpBFZjmhTv48dvU18sCLmgQS9mwJ7meU6aMYSZpump",
-   0.811,
-   6.3,
+   0.824,
+   7.3,
    ""
   ],
   [
-   "Dossier",
-   "AQwpdtFQH8rzdTDd7FPsTYuYMiwvjNacJBkxBNs7pump",
-   0.182,
-   2.7,
-   "rugcheck=creator history of rugs"
+   "Bobo",
+   "BrnN695iCYDBuDwEVTnc3BPZY15Zy2n5UKur6Z3apump",
+   0.3,
+   2.2,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "\ud83d\ude2c",
-   "Hjo2VoJCDgyCdLHV7eys71JGMZdkhNEKu58xpJV9VRy9",
-   0.175,
-   6.0,
-   ""
+   "VICE",
+   "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
+   0.221,
+   2.1,
+   "top5_hold_most=90%"
   ],
   [
    "BILLY",
    "fv9bmwkMhoHRu4F8NTKg88o4wiAYiCsii3tNvQ6pump",
    0.132,
-   6.1,
+   7.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "SEC",
    "25MxGYB464N6PcGj7xjVCzSNQc7ftF9YXih4Kx9Lpump",
    0.122,
-   2.1,
+   3.2,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Catori",
-   "5T6DQTA7eXQnZfyJLt5pj6wiSXpHMHS7EsncjJ4Spump",
-   0.116,
-   5.0,
-   "top5_hold_most=99%"
-  ],
-  [
-   "SEEN",
-   "834W2Uf2Fh28qxUXSUpA1YWxMX48iyjXBx8N3eHCpump",
-   0.112,
-   9.9,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "kem",
    "2bn8SaCTkwQ1TY4QtA3PC9x81LmUa4h7jaLd4Uokpump",
    0.1,
-   3.1,
+   4.1,
    ""
   ],
   [
    "egg",
    "FCjX7aUuLsnCc28gqxtprfHysWLqC9N8RL5nmaqUpump",
    0.084,
-   4.0,
+   5.1,
    ""
   ],
   [
-   "degens",
-   "Bm7evXRnCGzfaDghGtsKnVmQnpTsZF48NDimvVCVpump",
-   0.084,
+   "Hackie",
+   "27L6VDNfevSNZSW7wHgtUdzEtTphf8g8mYtFLELJpump",
+   0.073,
    5.1,
-   "buyers=8; top5_hold_most=98%"
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "WAIT",
+   "BgAtoNxtNYepMXJjTKdSWUrEBRRyuPTuijLSCwnVpump",
+   0.053,
+   2.6,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "CTO",
+   "2dNXBS5JYvAPutLuCvK94FUQKZsCCarJ9vSB7tpJpump",
+   0.024,
+   6.2,
+   ""
   ]
  ]
 }
