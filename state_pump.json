@@ -7046,83 +7046,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:24:57",
+   "2026-10-30T13:25:51",
    32.58
   ]
  ],
- "cycles": 3529,
+ "cycles": 3530,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.73000000000002,
- "watching": 236,
+ "sol_usd": 94.80000000000001,
+ "watching": 228,
  "near": [
   [
    "COINY",
    "9c9KMRxg6XPgAvwB2uaHFyf352qtPHKXxcysbjeZpump",
-   0.968,
-   5.6,
+   0.983,
+   6.5,
    ""
   ],
   [
    "NARRA",
    "8ss86wcen7UCMuCm17yN38xgLsrY5PiyQVeCSyfgpump",
    0.757,
-   5.8,
+   6.7,
    ""
-  ],
-  [
-   "FROSTKIN",
-   "veYvN1EqK2mkK8SZMi7MCoCM7Euvo7SXvvrzYGvpump",
-   0.372,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "POLAND",
    "BisefEvUvYqX1u3yB9wR5nJ9HPftcgGBZkNjp4evpump",
    0.232,
-   6.7,
+   7.6,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "BUTTERFLY",
+   "H8uuFZATmESswspueeAf6t7jCNQCvETkqBa9mhxNpump",
+   0.231,
+   2.4,
+   ""
   ],
   [
    "777",
    "5hhefu7QLii6Mt8sQo388aAPEr8krpvKvJXFb45Dpump",
-   0.13,
-   4.1,
-   "buyers=4; top5_hold_most=100%"
+   0.128,
+   5.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "COINY",
    "23Vo5viFZNzzyZcfSbZVG3SFmAcfqasD4c1G9ztgpump",
    0.116,
-   6.1,
+   7.0,
+   ""
+  ],
+  [
+   "Jailbreak",
+   "6n32mWAZZf9KCepo4ewok5ydrDorr95y3dpe8uYopump",
+   0.106,
+   4.9,
    ""
   ],
   [
    "SAE",
    "CxPrRFTw8rDDE8K3XtnFrBaANWoizPFPThsRckNFrNbm",
-   0.091,
-   4.0,
-   "buyers=3; top5_hold_most=100%"
+   0.092,
+   4.9,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "CONNIE",
    "8ahAtNeAGJfbn8hCUzNVdtqyDgDJ654FY9yKQNynpump",
    0.074,
-   5.4,
-   ""
-  ],
-  [
-   "TREND",
-   "6CG8W8n28evLNjcmSPja99JkS5aZXHL3dV5BQpLxpump",
-   0.066,
-   4.8,
+   6.3,
    ""
   ],
   [
    "POGE",
    "DNGapZSQYbMo9KuLy4em2ncwtVpKmNUko44it1fkpump",
    0.066,
-   6.7,
+   7.6,
    ""
   ]
  ]
