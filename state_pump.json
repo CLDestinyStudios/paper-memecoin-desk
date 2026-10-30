@@ -6642,83 +6642,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:41:24",
+   "2026-10-29T21:42:19",
    32.58
   ]
  ],
- "cycles": 2587,
+ "cycles": 2588,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.17384999999997,
- "watching": 160,
+ "sol_usd": 97.26855,
+ "watching": 166,
  "near": [
-  [
-   "Privacy",
-   "3XPP1njjy7y5LYQGbddg5FVMYjJt5C2Hb7goB7rHpump",
-   0.691,
-   6.7,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "CBF",
    "5tSnuRUkyZFdNzj7Sg5joAfRePsBUQLHZxgLH2rBpump",
-   0.261,
-   4.3,
+   0.462,
+   5.3,
    ""
+  ],
+  [
+   "BITCHFIGHT",
+   "EAZXJABfkD31W4SvkaJku38qay4bNpQknQFK9mcdpump",
+   0.243,
+   3.8,
+   "rugcheck=creator history of rugs"
   ],
   [
    "PHYPER",
    "7wMau1dQtJdNaRkquc2QiwGvf47GNygmbTKsFJXnpump",
-   0.21,
-   2.4,
-   "top5_hold_most=94%"
-  ],
-  [
-   "IDGAF",
-   "4hqvr7SRUTzZmqo7NTDCn3VswtZj2nJSFe69EAwGpump",
-   0.21,
-   9.4,
-   "top5_hold_most=86%"
+   0.227,
+   3.3,
+   "top5_hold_most=83%"
   ],
   [
    "FTX2.0",
    "5wR1cXazA4pMBY9DjKc4dS72ECnKRMLc2pdCvhqBpump",
    0.203,
-   6.8,
+   7.7,
    "buyers=2; creator=15.3%; top5_hold_most=100%"
   ],
   [
-   "BITCHFIGHT",
-   "EAZXJABfkD31W4SvkaJku38qay4bNpQknQFK9mcdpump",
-   0.148,
-   2.9,
-   "buyers=8; top5_hold_most=91%"
+   "INUMORTAL",
+   "5yYX4cWK7jUX3rcVcLXJ43iWN9EgNTMZdBvDVRS6pump",
+   0.149,
+   2.1,
+   ""
+  ],
+  [
+   "CROWD",
+   "AYNuF45PDxDyJqFaqeNDm6ZvR4naaLK3MmUSsS9mpump",
+   0.138,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "INUMORTALITY",
    "BDAvreLmpo4LWe7t5wCp67LWDZi7EXrxzHTniURJpump",
    0.119,
-   2.3,
+   3.2,
    ""
   ],
   [
    "$Hack",
    "3bqTXGzsHDJhoDfEp3kwhhc4JzUbrKZAMc522r2qpump",
-   0.096,
-   4.9,
+   0.116,
+   5.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BCI",
    "EujuHjgbBejJcReKwhSAnbnjWCP4iWAL4bdq8U7apump",
    0.073,
-   4.8,
+   5.7,
    ""
   ],
   [
    "CBF",
    "CDRXw1kvL3ecmr49qGKFnxMRMHUbs4sbHje6QSsGpump",
    0.065,
-   4.5,
+   5.4,
    ""
   ]
  ]
