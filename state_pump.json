@@ -6598,83 +6598,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:56:16",
+   "2026-10-29T19:57:16",
    32.58
   ]
  ],
- "cycles": 2482,
+ "cycles": 2483,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.16499999999999,
- "watching": 212,
+ "sol_usd": 95.21499999999999,
+ "watching": 203,
  "near": [
   [
    "Tally",
    "CXKBkTZtSuewVBAmxhhBB2cko4fw4Vuq5JP57axxpump",
-   0.387,
-   2.4,
-   ""
-  ],
-  [
-   "CLASHPAD ",
-   "7S6HEhpTcMTBSmUJrxzMHZeJvzu2zHjyDisz93Y9pump",
-   0.214,
-   4.4,
-   ""
-  ],
-  [
-   "BOTTOM",
-   "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
-   0.164,
-   8.0,
+   0.421,
+   3.4,
    ""
   ],
   [
    "Taurus",
    "HFFGms24kbkzRScZc47qbdiCDusiN2ADbKnrFCXhpump",
-   0.123,
-   3.6,
+   0.227,
+   4.6,
    "buyers=9"
   ],
   [
-   "SAFU",
-   "CKegRmJvD8TjuDVmCHsUjvzBLFYY8LRb3HJgrnKjpump",
-   0.099,
-   4.7,
+   "Last",
+   "1zLLK9x2mXo8So3TFuYptAEP87ukx2DFTTdMwwZpump",
+   0.189,
+   2.1,
    ""
+  ],
+  [
+   "loco",
+   "87hRH8twpJJVBcFfyqjGXpq628bPQ5XqiDKhgtpipump",
+   0.174,
+   4.4,
+   "buyers=9; top5_hold_most=92%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "All",
+   "Ag1RqHJFb24yjoi28ftxdRWWmuGqUwtqweuNsx8Jpump",
+   0.151,
+   2.1,
+   "buyers=8; top5_hold_most=99%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "XOGE",
    "HDAZmgYQToTnoTkmkSTA3oaT3HSFJi86m4ZreeuJpump",
-   0.088,
-   5.8,
-   ""
-  ],
-  [
-   "LaPerla",
-   "8ZyDWP7K8EnahiVVMVokkE7VgK6ZxCeShEirhiVTpump",
-   0.064,
-   4.8,
+   0.087,
+   6.8,
    ""
   ],
   [
    "All",
+   "F5ETb9BuKLNioV3YHrZb7dFjB739piL2S2uNPDQGpump",
+   0.082,
+   2.8,
+   ""
+  ],
+  [
+   "All",
+   "7ebRi6Rww2CK2cm2FEhaxKZ3bYTCMnXDtFAY3BTLpump",
+   0.072,
+   2.8,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "All",
    "ErKT7ZHRT63P8sexeSgspfsWfWtJhWiZwmPCf5sipump",
-   0.055,
-   2.2,
+   0.051,
+   3.2,
    ""
   ],
   [
    "SWYPEX",
    "3TUwGZGRThJSTkVTmL31fzp8EdBjQv2kX3zeA28Cpump",
    0.028,
-   3.0,
-   ""
-  ],
-  [
-   "Laptop",
-   "DXKZGJQjh8iVu9XfmndeFVeKRtEuDt1ENJaxNLENpump",
-   0.022,
-   7.9,
+   4.0,
    ""
   ]
  ]
