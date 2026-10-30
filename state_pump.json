@@ -6942,84 +6942,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:22:46",
+   "2026-10-30T09:23:46",
    32.58
   ]
  ],
- "cycles": 3287,
+ "cycles": 3288,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.92864052275,
- "watching": 265,
+ "sol_usd": 95.005,
+ "watching": 271,
  "near": [
   [
    "\u54aa\u54aa",
    "JrvC7qKnGVn163q1u11VDUno7JtJ4ME2euiJkaupump",
-   0.954,
-   7.5,
+   0.949,
+   8.5,
    ""
   ],
   [
    "OWL",
    "3jArs9oJJcovcUnDXkZLJuuoYsFAE68FAjVP1GPgpump",
-   0.873,
-   3.0,
+   0.896,
+   4.0,
    ""
   ],
   [
-   "SPACECAT",
-   "HPksiV1ZESBworQbPGWegmP9jSCPAwAmUSFtSncUgQ6d",
-   0.656,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
+   "Jimmy",
+   "66Qh8REHJTMG2bV8Yjy4qLC6pWjkLrgkKg5WbUytpump",
+   0.675,
+   2.9,
+   ""
+  ],
+  [
+   "AI",
+   "ZcmD39mdQRFJyxChxwthzH2hP2LBhEnnJEvc3Lkpump",
+   0.347,
+   2.6,
+   ""
   ],
   [
    "BASS",
    "7HTDbDmvjtHPS68BU3syLRbg3jaYeoHdoBBuFqcepump",
-   0.441,
-   2.9,
+   0.303,
+   3.9,
    ""
   ],
   [
    "CHIC",
    "F8GxAQCY5Ny4hgaKSuNLW59vgEgD75CJgyFPF3knpump",
    0.185,
-   7.9,
+   8.9,
    "buyers=9; top5_hold_most=93%"
+  ],
+  [
+   "PHD",
+   "2EQyRUjkh66i4efzCj9B7cmkmev5HzpoVCrHaQLTpump",
+   0.123,
+   2.4,
+   "top5_hold_most=99%"
   ],
   [
    "Tgiving",
    "3vbjTdmQ7JkRKoA5n8zFW3j5imUbH7SYQnyTga25pump",
-   0.113,
-   5.8,
+   0.121,
+   6.8,
    "creator=33.9%; top10=52.6%; top5_hold_most=81%"
+  ],
+  [
+   "Burger ",
+   "J3Cpv9ftWziCWfSu1i7e5JURiofDmU14EwCVvTtxpump",
+   0.106,
+   3.9,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BOObies",
    "4zBXKpFcuexLazNXfd8DBjRHpKdAiC7qYu5oF9Xopump",
    0.097,
-   2.2,
+   3.2,
    ""
-  ],
-  [
-   "PATRIOT",
-   "99wfJVj8L1cwoitpyYAb9kocMtRtd51NDmgJVj1Ypump",
-   0.089,
-   3.0,
-   ""
-  ],
-  [
-   "CHARIZARD",
-   "4rND54h2nRkSRkt4D1oV51Tma7NBBsY6ydo4mdtEpump",
-   0.087,
-   3.0,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "DDUMP",
-   "66LBGaUHn4CNknXeF4vzaCUoWgAp1P1Ze6TXXjESpump",
-   0.086,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
   ]
  ]
 }
