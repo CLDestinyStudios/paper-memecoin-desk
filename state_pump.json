@@ -6658,83 +6658,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:22:19",
+   "2026-10-29T22:23:18",
    32.58
   ]
  ],
- "cycles": 2628,
+ "cycles": 2629,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.74,
- "watching": 138,
+ "sol_usd": 97.74550482445,
+ "watching": 136,
  "near": [
   [
    "WARS",
    "13wdtUMkhFicqcPK9Gh5F2JBkV4aRULGCsLxwiJ2pump",
-   0.8,
-   6.3,
+   0.782,
+   7.3,
    ""
-  ],
-  [
-   "TANISHA",
-   "C6cM2zukC4UjWrBViqvJjX3UnqKVBzLRHJY4caMQpump",
-   0.494,
-   2.9,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "LMB",
    "3YMTh2tagdg5rq99qa4zGHLyCKj7h8R9cWqhA9Adpump",
-   0.193,
-   7.0,
+   0.283,
+   8.0,
    ""
   ],
   [
-   "STABLECAT",
-   "5svZXsw3CGH1UScf6NLibEPg4qVa2c4DTFKt1SFnkm8z",
-   0.177,
-   4.6,
-   "serial_creator=7 launches/24h"
+   "nigvember",
+   "4JfReKiqnuRhizmMbE1vW2cah23j5hpgeKipeufKpump",
+   0.11,
+   2.3,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Kim",
-   "J5nxkDpZPHecU37RfsBLNx52ZPB4KAZZbmKaZ9kGpump",
-   0.106,
-   2.5,
-   ""
+   "HypeStonk",
+   "mHafR9Zy55WD2tMQJRt1gjTEh8t28yrUo8RgDqLpump",
+   0.109,
+   3.0,
+   "buyers=7; top5_hold_most=96%"
+  ],
+  [
+   "DEER",
+   "41W3A5Nm9mdtrJ2qNowsChrDuv2Qer5tpyoj5jQspump",
+   0.099,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "JAMES",
    "G5ExivoMuJkuF8yZxLZDFKLmo3KXAjtQ9KR6wLKJYrcX",
-   0.083,
-   3.3,
+   0.084,
+   4.2,
+   ""
+  ],
+  [
+   "Kim",
+   "J5nxkDpZPHecU37RfsBLNx52ZPB4KAZZbmKaZ9kGpump",
+   0.069,
+   3.5,
    ""
   ],
   [
    "DONOVAN",
    "FDgd28CRFM9L1j8RKYD7jPbCj3xANHth8njQLYkEDHJF",
    0.064,
-   3.0,
+   3.9,
    ""
   ],
   [
    "proxtest",
    "HWctHVn5oaGppx2wG9FJ3eq449X1onhB5gLwXcA4pump",
    0.058,
-   5.6,
+   6.6,
    ""
   ],
   [
    "ardtest",
    "EaTS26jTB6FW1hQbbGS9GRD38mw2mMW7uiNtnuycjShg",
    0.048,
-   5.8,
-   ""
-  ],
-  [
-   "EXPLORER",
-   "4YzJDE6BmxezAUViMUGGyApHmErruLZCJiw3VnC6pump",
-   0.043,
-   2.7,
+   6.8,
    ""
   ]
  ]
