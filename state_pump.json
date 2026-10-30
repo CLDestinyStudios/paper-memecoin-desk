@@ -6950,84 +6950,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:39:44",
+   "2026-10-30T09:40:54",
    32.58
   ]
  ],
- "cycles": 3304,
+ "cycles": 3305,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.135,
- "watching": 246,
+ "sol_usd": 95.1706359571,
+ "watching": 244,
  "near": [
   [
    "COOL",
    "BAPS9Jp7zkKqUrLJNCGLNkZ66sZuaRJVuaHt2cTJpump",
-   0.589,
-   3.7,
+   0.604,
+   4.8,
    ""
+  ],
+  [
+   "HOPE",
+   "JCbYdHsJppq7Q1XYxrhgdhttjm9sfnv5gaSNzVM2psfK",
+   0.448,
+   2.3,
+   "buyers=9"
+  ],
+  [
+   "TRUMP",
+   "5dMZwoSFmuHJMA11u2kRVuUu74A9STznKciZTk5Ypump",
+   0.318,
+   2.6,
+   "serial_creator=27 launches/24h"
   ],
   [
    "BEDTURTLE",
    "Adsiu9XDWVtQ5sKm7FvUwWLNxZTG8tBYey4HwL754DJF",
-   0.264,
-   6.1,
-   "buyers=1; creator=20.8%; top5_hold_most=100%"
+   0.278,
+   7.3,
+   "buyers=4; creator=20.8%; top5_hold_most=100%"
+  ],
+  [
+   "MONX",
+   "Hf9MinhY8bxQbRQr2tsU6iqC6BXGDmKB5YQZMMUupump",
+   0.248,
+   2.2,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "GOONALD",
+   "8RroSkmKdTHW6ATzCi2wRjFVQ6Yo8aJvwD7s1GZNpump",
+   0.156,
+   2.2,
+   "buyers=8; top5_hold_most=96%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "slut",
    "2RHQwzjUpXpC3esELFgcorhFt1FsXxuhmU36BNhApump",
    0.141,
-   6.4,
-   "buyers=7; top5_hold_most=99%"
+   7.6,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "PIGJONG",
    "GMSE5wq9M58ZkUZCGD1hDijERrvW5ELStG3AmvvVpump",
-   0.124,
-   5.4,
+   0.121,
+   6.6,
    ""
   ],
   [
    "LAMING",
    "FB5xquLhukov4GXJf1Lf68kjkm8NNSsmT1Jutd4rpump",
-   0.099,
-   2.4,
+   0.1,
+   3.5,
    ""
   ],
   [
-   "Rob",
-   "cHMQz28CCZbj6mVvdzGBMVfwxetFJcEwiakDtL1pump",
-   0.058,
-   5.5,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "PAPPUMON",
-   "DGx48rv3sXb31DbpJS2ozWiZT3oywVgJPeMLWEsL6aZQ",
-   0.058,
-   5.7,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "ELONTROLL",
-   "764vcA5658BX1jitEga4eUtBNmruaw42Wq85bt82pump",
-   0.048,
-   10.0,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "MOTH",
-   "B5nzbs58JNoxK9PHs2MW5YeNCu3FhoM9A5uwnCZpump",
-   0.046,
-   8.5,
-   ""
-  ],
-  [
-   "SVIA",
-   "4rbr7CwBYR13HLZaep9zWKMtfKMqEnM29ovQJn4jpump",
-   0.043,
-   8.8,
-   ""
+   "PIGJONG",
+   "D5C3dYnhb5xufnrXkBLwK5iSMa5hEdejE4fBcFMqpump",
+   0.081,
+   2.8,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ]
  ]
 }
