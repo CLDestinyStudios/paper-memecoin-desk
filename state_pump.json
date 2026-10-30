@@ -6738,83 +6738,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:27:45",
+   "2026-10-30T01:28:46",
    32.58
   ]
  ],
- "cycles": 2813,
+ "cycles": 2814,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.22489014750002,
+ "sol_usd": 97.1228637529632,
  "watching": 239,
  "near": [
   [
    "ALLEY",
    "A5sw8cUuWbei5F3wYcDSX2cEMPdXpap7TvUXaEmMtThk",
    0.139,
-   6.8,
+   7.8,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "MOCK",
-   "FaJF7N7RGb2rxQVi9DLsFncXtXaPFdrhMXoELZpgpump",
-   0.124,
-   6.2,
-   "buyers=8; top5_hold_most=98%"
   ],
   [
    "TraderTraito",
    "DmeTNnH7L1QXvjt8ACbAU2fJRujfnxU1UsoTqjEdpump",
    0.111,
-   2.6,
+   3.6,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MOCK",
+   "FaJF7N7RGb2rxQVi9DLsFncXtXaPFdrhMXoELZpgpump",
+   0.101,
+   7.2,
+   "buyers=8; top5_hold_most=98%"
   ],
   [
    "OTC",
    "2efdTcAAueLhEqKLGuZcZPC9wwbtGsCiKzhyi5FRpump",
    0.084,
-   7.5,
+   8.5,
    "top5_hold_most=96%"
-  ],
-  [
-   "Traitor",
-   "Fvcrjaeo75qV7q5TqdB1Qn5pAyZzd8YgFmPG3vtkpump",
-   0.083,
-   7.9,
-   ""
   ],
   [
    "HODL",
    "7SKZg2F3koumjeiyx5h7ajzsDcjpFKWHoDYF32UUpump",
    0.074,
-   6.8,
+   7.8,
    ""
   ],
   [
    "HODL",
    "5vT9Lwjm6Fpdey4rNytr2PHX1sLza4WgZQF8WvQYpump",
    0.051,
-   8.5,
+   9.5,
    ""
   ],
   [
    "Traitor",
    "3nwbkbjUbsGE2tvP73CRnbVXMq9BauS4u6GivT7dpump",
    0.039,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "TERMINAL",
+   "DCTpap4CLJSpuf2McqJxaJdkbhb7NRmpuekvtRbRpump",
+   0.038,
+   2.8,
    ""
   ],
   [
    "$CAL",
    "Cf2R72fEV1cgAw8pBYy7STux835w6adstKFGkXZdpump",
    0.031,
-   7.9,
+   8.9,
    ""
   ],
   [
    "PLAYGROUND",
    "HVKz4s5kuyUQxpbWMZQFc9r6X3ULj8CdRzFCqGrbpump",
    0.015,
-   4.6,
+   5.6,
    "top5_hold_most=91%"
   ]
  ]
