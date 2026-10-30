@@ -6986,84 +6986,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:05:46",
+   "2026-10-30T11:06:55",
    32.58
   ]
  ],
- "cycles": 3390,
+ "cycles": 3391,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.2191291879,
- "watching": 267,
+ "sol_usd": 94.25,
+ "watching": 268,
  "near": [
   [
    "BURIED",
    "3aasM3u1QAKFXziSEFNQ8nLs8BA159b11kXr7a9bpump",
-   0.963,
-   6.6,
+   0.921,
+   7.8,
    ""
+  ],
+  [
+   "pok\u00e9DESK",
+   "716XxmtZFVaqEneGrSiw9e3rCqp7CJcuqLLThJJSpump",
+   0.358,
+   2.9,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "EXFL",
+   "4LCTcadAZCaWMcGteuuQRaLQp9K57iS3bdHWWgNppump",
+   0.253,
+   9.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "$BibiTit",
    "B6ZZAYqLdhbqG9sNs2VXXZRQxkM7DpTpE1zPs3VGpump",
    0.22,
-   5.3,
+   6.5,
    "top5_hold_most=87%"
   ],
   [
    "GRVD",
    "A5pCBGavsqZGCjDuqMpYpMs6ak5LQZmLqV36cwEXpump",
-   0.202,
-   8.8,
-   "buyers=7; top5_hold_most=86%"
+   0.186,
+   9.9,
+   "buyers=6; top5_hold_most=93%"
   ],
   [
    "X\u200aT\u200aO",
    "5Bt9GffqBw9APvuwaP9qJqxcCAkQzfm3HuzxnmaXpump",
    0.181,
-   3.6,
+   4.8,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "EXFL",
-   "4LCTcadAZCaWMcGteuuQRaLQp9K57iS3bdHWWgNppump",
-   0.168,
-   8.0,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "polyGONE",
-   "G9MKMM4qwR8CwmdkPVvSBdNFHLz5yBEhRRLuh5NQpump",
-   0.107,
-   5.9,
-   ""
   ],
   [
    "SCRNR",
    "DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump",
-   0.095,
-   3.9,
-   "buyers=3; top5_hold_most=100%"
+   0.108,
+   5.0,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "p2",
+   "14B2v8KWUoRMZ3yUKsJUTba1ujsHXpkq1bqgxQgfpump",
+   0.074,
+   2.7,
+   ""
+  ],
+  [
+   "polyGONE",
+   "G9MKMM4qwR8CwmdkPVvSBdNFHLz5yBEhRRLuh5NQpump",
+   0.067,
+   7.0,
+   ""
   ],
   [
    "BNB",
    "9aFGiHeJnh2d7Bxp4nyj1ySyvXPFsnKuXrWh7kY6pump",
    0.064,
-   3.6,
+   4.8,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "MISCHIEF",
-   "8zavC6QVBtofm1XeMcqDfkU39AePFKzox488fmURpump",
-   0.045,
-   3.3,
-   ""
-  ],
-  [
-   "MALFOID",
-   "8XsvvWMZcJPbFDrpFhoGEzUMHv5EikABVj1rb3UJpump",
-   0.043,
-   8.8,
-   ""
   ]
  ]
 }
