@@ -7122,83 +7122,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:30:56",
+   "2026-10-30T16:31:56",
    32.58
   ]
  ],
- "cycles": 3715,
+ "cycles": 3716,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.90793147805,
- "watching": 194,
+ "sol_usd": 95.95,
+ "watching": 204,
  "near": [
   [
    "Fomogiving",
    "Fb2r9Fontz6cSQuNgqiqUYmmW94bA4KQGB3JtHas8XHs",
-   0.55,
-   6.6,
+   0.56,
+   7.6,
    ""
   ],
   [
-   "VOID",
-   "voidANEPVYiDfCpjF4gfVbgX3NLeoTB9xeyj3vdW3MM",
-   0.337,
-   2.0,
-   "bundled_launch=8 extra buys in creation block"
+   "wasted",
+   "5pyoz1kf7tfxf3PZaibKHvvRezxqxg2GPCAhxkQKpump",
+   0.109,
+   2.2,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "NODF",
    "9TCVqWBBgmDCS6FJNszxE7Lhy838QWPTh4ik2nZKpump",
-   0.165,
-   7.0,
-   "top5_hold_most=94%"
+   0.103,
+   8.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "CEMENT",
+   "G3KR4Ztji5wvrZvwJtjNyENBLVid7wGDP85bk4vzpump",
+   0.074,
+   2.5,
+   ""
+  ],
+  [
+   "BINANCE",
+   "3PFnGtFJv9xtc4DSWz2KmfWsupbnLLR3QcR4pxptpump",
+   0.071,
+   2.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "iPUMP",
    "YEhxqX6cAShTs3UUFoUbz3taUWDePdJ2svFitTGpump",
    0.055,
-   3.6,
+   4.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "inkmaw",
-   "7ubspfZJaHBAMQiQD2jhsbXJXdPV9DriXh1stqUobs3N",
-   0.023,
-   9.0,
+   "i",
+   "CnLMmLyPuQN48kaqNDe1rbRTJNpwfoY4Bj6PBAbppump",
+   0.04,
+   2.6,
    ""
   ],
   [
    "MARKET",
    "CV3R9oScmPJFU4jYsCR1qxhKZ8eQcCw68csS9cwdpump",
    0.013,
-   6.8,
+   7.8,
    ""
   ],
   [
    "$FARTAI",
    "3KGwrfvNGQcKuJti6D7rzioz3JaAjbjYQPkpFunZpump",
    0.013,
-   6.5,
+   7.5,
    ""
   ],
   [
-   "Jelly",
-   "E1goerpe5oo4CwQcJTkWPoWzYcN2BeYuQV6fytRRpump",
-   0.008,
-   3.7,
-   ""
-  ],
-  [
-   "AI",
-   "3uD7Y6pvkrLhrjjmuo2RXZS6JLj8ZXxQ3X4kY2xSpump",
-   0.007,
-   5.8,
-   ""
-  ],
-  [
-   "GROKBOT",
-   "HjWq2P78CLWaphLt1xLFMnNg1oLM77X7vQLhqqwkpump",
-   0.005,
-   9.4,
+   "$NFS",
+   "4JTZDMUgvfAMGHXKyWNUSJSEekSAan3TwAYCKX37pump",
+   0.012,
+   2.5,
    ""
   ]
  ]
