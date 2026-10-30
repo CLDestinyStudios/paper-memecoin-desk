@@ -6710,83 +6710,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:23:00",
+   "2026-10-30T00:24:00",
    32.58
   ]
  ],
- "cycles": 2748,
+ "cycles": 2749,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.91421293914999,
- "watching": 124,
+ "sol_usd": 97.8308096081,
+ "watching": 116,
  "near": [
   [
    "ARENA",
    "8wkc4MC6nePzEsafCKvjSp41MTH3puWdHo7WbZZ9pump",
-   0.358,
-   5.3,
+   0.446,
+   6.3,
    "launch_slot=missing"
   ],
   [
    "Spoon",
    "66knKYRLSSsGtmZ4umiBSSW71hU4PwMrcQkQ2L3hpump",
-   0.346,
-   9.2,
+   0.334,
+   10.2,
    ""
+  ],
+  [
+   "pwn",
+   "GkmVDcaVkM85E2TrNHpXKW7zfKtspwX1JiZ1CmMDpump",
+   0.115,
+   3.1,
+   "buyers=8; top5_hold_most=99%; launch_slot=missing"
   ],
   [
    "SOLS0CIETY",
    "86rNnoiF8sYNYY3e4RzKmxNPnTnuKnWg53cp3czWpump",
    0.032,
-   4.3,
-   ""
-  ],
-  [
-   "FUND",
-   "7kyyLTxXSrNQ17u4tNR2GxQerPjKRKJYffRu38yKr1Bt",
-   0.025,
-   5.7,
+   5.3,
    ""
   ],
   [
    "Sherlock ",
    "BkKy5y7wmbMzU1WUJQAmCJv28133cnwPpdPqXtMypump",
-   0.024,
-   3.5,
+   0.022,
+   4.5,
    "creator=43.9%; top10=48.8%; top5_hold_most=91%; launch_slot=missing"
   ],
   [
-   "HYOK",
-   "2p1esMuYx6cnsKv6orZgYDz6SdnPDFgXBLwz8wU1pump",
-   0.021,
-   2.3,
+   "FUND",
+   "7kyyLTxXSrNQ17u4tNR2GxQerPjKRKJYffRu38yKr1Bt",
+   0.018,
+   6.7,
    ""
   ],
   [
    "$BJ",
    "D5gusi8BJ7qNasYi2a3LYQ1pyVmtLXkFoR9yjPJLpump",
    0.014,
-   4.4,
+   5.4,
+   ""
+  ],
+  [
+   "$GLUP",
+   "ij7Kb8iCojP1X9mFpt3mLxwxNgbut4VFyMBxb1hpump",
+   0.014,
+   3.9,
    ""
   ],
   [
    "EMI",
    "GucZzVNoMvR2dxBQtYLz4w3sTvLGsZcw3QNdDibbpump",
    0.014,
-   7.7,
+   8.7,
    ""
   ],
   [
-   "$GLUP",
-   "ij7Kb8iCojP1X9mFpt3mLxwxNgbut4VFyMBxb1hpump",
+   "$404",
+   "6dJ4ayhFwM2Jh4DVzCtnfJ1V6bFbAcEFiRynFFtupump",
    0.013,
-   2.9,
-   ""
-  ],
-  [
-   "$COPYCAT",
-   "BU1hKvSfuVjeykgqTYF297WKToAEqnwjeESQxjBMpump",
-   0.013,
-   10.1,
+   8.0,
    ""
   ]
  ]
