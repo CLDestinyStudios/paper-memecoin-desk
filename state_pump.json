@@ -7062,83 +7062,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:03:56",
+   "2026-10-30T14:04:57",
    32.58
   ]
  ],
- "cycles": 3568,
+ "cycles": 3569,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.23675747280002,
+ "sol_usd": 95.16437254395,
  "watching": 298,
  "near": [
   [
    "Honey",
-   "8f8pVbErqTdkoFcmifLvTwdPTujS5jDt37VC3zzDpump",
-   1.0,
-   2.5,
-   "graduated"
-  ],
-  [
-   "Honey",
    "9AXdrHLa1DHLhykqZFCE1EKcuArfLVoBaY4zM7K8pump",
    0.625,
-   3.3,
+   4.3,
    ""
   ],
   [
    "Roofer",
    "AoktuP1FjMjr8t9SgZ86a6UfFL9ozkUjn4trzFrhpump",
-   0.605,
-   6.5,
+   0.618,
+   7.5,
    ""
   ],
   [
    "MANANA",
    "6hi69q7P9Poob26xLEBqLyagtntARYJttER6kDbGpump",
    0.223,
-   3.5,
+   4.5,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "ELONSANTA",
+   "Cp4nreEe4vpqAw7uoRDEvmeLCGJFbrFpma84GgrQpump",
+   0.217,
+   3.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "NOSFERINU",
    "fhiV1LCNrB4znnLjKJArCPKwt2vwhBUsRfCsBKRpump",
    0.188,
-   7.9,
-   ""
-  ],
-  [
-   "XCAT",
-   "A3hvCaEEg96XwSoPceJacTsQHx4ZncKv6zVz6Dhxxxx",
-   0.183,
-   7.2,
-   "serial_creator=15 launches/24h"
+   8.9,
+   "top5_hold_most=94%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "PFP",
    "7wno2osJyapDrw6gCZ3JsHEBnKM3oxc6UvxLLrxfpump",
    0.101,
-   2.4,
+   3.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "jelly",
+   "AWassXUie2C5aDAA7tXfZv4caNp9pTt2vcrqiCCcpump",
+   0.088,
+   2.4,
+   ""
   ],
   [
    "santalon",
    "Akw3qab87PfzHqp7ZLyR2Hd3Rskoz5UJgE7asSpBpump",
    0.085,
-   2.6,
+   3.6,
    ""
-  ],
-  [
-   "CENT",
-   "94KeuuH2A6LnuUpNkyx8Bus9dJ7aNeMDhrUKHtyJpump",
-   0.074,
-   6.5,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "Hy2Rzoj5knHoDHtdTraMRy6A8v5Sd5vyrezqf4cfpump",
    0.069,
-   7.0,
+   8.0,
+   ""
+  ],
+  [
+   "TUSK",
+   "4BCE4pUnHocD7hYoJfL7ndfkXEn943ECHNDdGGhGpump",
+   0.054,
+   5.5,
    ""
   ]
  ]
