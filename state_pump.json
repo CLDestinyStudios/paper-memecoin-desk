@@ -7054,83 +7054,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:47:50",
+   "2026-10-30T13:48:54",
    32.58
   ]
  ],
- "cycles": 3552,
+ "cycles": 3553,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.91340129485002,
- "watching": 225,
+ "sol_usd": 94.95372354404999,
+ "watching": 229,
  "near": [
   [
    "Catrina",
    "7GNB3ihJq5GWcRo5UstVN4NvfquPMvY2sKKBhvmzpump",
-   0.564,
-   7.5,
+   0.539,
+   8.5,
    ""
   ],
   [
    "Qwen",
    "Eqv6hTrXGcgAQNQmZPcVJPaoBXfxq2c4mmWbKJSepump",
-   0.43,
-   5.7,
-   ""
-  ],
-  [
-   "JIMOTHY",
-   "BbS82nArEgkNDr666eDQpQzSNqrepbKW7YYRPeFFpump",
-   0.138,
-   9.5,
-   "buyers=3; top5_hold_most=100%"
+   0.399,
+   6.8,
+   "serial_creator=10 launches/24h"
   ],
   [
    "TUSK",
    "4QedpXZUex7izZ7GtbDcSpLf3tKBKfuGnXWJAUmQpump",
    0.114,
-   7.8,
+   8.9,
    "buyers=8"
+  ],
+  [
+   "UNICORN",
+   "C4owL7yaNAYEEMz6DkCGC8mvXJwuufVN9sGHv2KLpump",
+   0.102,
+   2.8,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "mikol",
    "CL7T68mafRUi1K6gx3sxt6MKhzJRi3M56nrWSAj7pump",
    0.073,
-   6.7,
+   7.7,
    ""
   ],
   [
    "TUSK",
    "CX3sqZmAjR6Antj2h3Bd2uB1GdUnN4pT4RVa5RvTpump",
    0.064,
-   5.7,
-   ""
+   6.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "ERIC ",
-   "F3WQGwTP5JtA8H5cQrewGtd3q9n1MmvF6K3DxaoNpump",
-   0.063,
-   5.2,
-   ""
-  ],
-  [
-   "FUN",
-   "3ifwmqs4zgZNJZLi83JsFgTkQsvVpmVHv7bXRYR1pump",
-   0.043,
-   2.1,
+   "TUSK",
+   "64QMHg27z3yUdb54KmNpGenZh2QFoXt9M8tsC8cRpump",
+   0.064,
+   6.6,
    ""
   ],
   [
    "PAUTH",
    "3T3TUoH11DKmqbPSWFxJckK5uoYHNpvPjAccdxAkpump",
    0.04,
-   4.9,
+   6.0,
    ""
   ],
   [
-   "DONALDTUSK",
-   "8Sz6j6c91LmnujowkRvPfRxNbUZgG2xGy8zofX1KFzWD",
-   0.038,
-   9.8,
+   "PUMPF",
+   "6X5epzMbc7jNtcNd7tByyh9LFdTdSGJHtZhFTuXqpump",
+   0.03,
+   6.3,
+   ""
+  ],
+  [
+   "ERIC ",
+   "F3WQGwTP5JtA8H5cQrewGtd3q9n1MmvF6K3DxaoNpump",
+   0.026,
+   6.3,
    ""
   ]
  ]
