@@ -6610,83 +6610,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:24:19",
+   "2026-10-29T20:25:17",
    32.58
   ]
  ],
- "cycles": 2510,
+ "cycles": 2511,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.7303,
- "watching": 305,
+ "sol_usd": 95.79158836785,
+ "watching": 286,
  "near": [
-  [
-   "FOMO",
-   "yHdVpdAq1VkCSmDwZ7JTX2uriUxoJKtJLYfQyhwpump",
-   1.0,
-   2.4,
-   "graduated"
-  ],
-  [
-   "BITCAT",
-   "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
-   1.0,
-   3.1,
-   "graduated"
-  ],
-  [
-   "SI",
-   "HMgqmxq8mwCyNvPD8otUBgYN2Qk6zcsX2zPYhdMLpump",
-   0.615,
-   3.9,
-   ""
-  ],
   [
    "OWLS",
    "BsprDdSa2t2gApGSSQzaVyCE8CNuTjc3hnBdUTKgpump",
-   0.363,
-   4.2,
+   0.414,
+   5.2,
    ""
-  ],
-  [
-   "LEMON",
-   "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
-   0.226,
-   3.3,
-   "top5_hold_most=85%"
   ],
   [
    "JANSEM",
    "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
    0.203,
-   8.2,
+   9.2,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "LEMON",
+   "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
+   0.203,
+   4.3,
+   "top5_hold_most=91%"
   ],
   [
    "SIC",
    "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
    0.14,
-   9.1,
+   10.0,
    ""
   ],
   [
    "TOKEN",
    "Hg7aSU5L4mA6EYj55p6577sU8JaqQ1HFXQt1v3Htpump",
    0.132,
-   3.6,
+   4.6,
    ""
   ],
   [
    "SI",
-   "DcfBijBiN2tdG4dtTkoJenCR24Zmnv2mJTjEiN8bpump",
-   0.124,
-   9.8,
+   "HMgqmxq8mwCyNvPD8otUBgYN2Qk6zcsX2zPYhdMLpump",
+   0.121,
+   4.9,
    ""
   ],
   [
-   "SIA",
-   "AoM7GQUAeTB9vJbsMm5icrcNYcytvSTywqMJDVPFpump",
-   0.123,
-   5.4,
+   "Supertoken",
+   "5W626epqJVLbLCCqgXRt78BQuz6mpzKC9X4Mh9Kwpump",
+   0.118,
+   2.6,
+   ""
+  ],
+  [
+   "HOTH",
+   "GVTR6e7vG7MCaKmyr4AECpE7bFDk78SrZqhvnBmPpump",
+   0.114,
+   7.4,
+   "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "COMPUTE",
+   "3TxdCQRC9m3DJ3WiVEmrGb5mVyeQJ9QLYBCr9J92pump",
+   0.111,
+   6.0,
+   ""
+  ],
+  [
+   "SIC",
+   "CVNjqUFFW819CuLKSW6eRyXgRVf4vVV8e1WhzTb1pump",
+   0.109,
+   9.9,
    ""
   ]
  ]
