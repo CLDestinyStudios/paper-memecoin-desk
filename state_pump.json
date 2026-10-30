@@ -6538,83 +6538,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:43:07",
+   "2026-10-29T17:44:05",
    32.58
   ]
  ],
- "cycles": 2349,
+ "cycles": 2350,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.55000000000001,
- "watching": 222,
+ "sol_usd": 93.48,
+ "watching": 217,
  "near": [
   [
    "BabySwan",
    "41M6ChzayHSMqVk2rTfF3fGJwZcfXMcMerWbSbQipump",
-   0.935,
-   2.7,
+   0.905,
+   3.7,
    ""
   ],
   [
    "rope",
    "BWCdNNdHftVrbQqyEYf5HDcanaNTnpNdeRtfMHhWpump",
-   0.704,
-   6.8,
+   0.703,
+   7.8,
    "launch_slot=missing"
   ],
   [
    "JEAN",
    "BsvK5vDLLCJqfbqAcKMvhYiAfMF5efdxPEi7tiX4pump",
-   0.681,
-   8.3,
+   0.646,
+   9.2,
    ""
   ],
   [
-   "rope",
-   "4NfZyzrv4Kx281Ly4VMvZ3F4YpN4xym2sAntvtJLpump",
-   0.388,
-   4.0,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "memepad",
-   "8cdfbQoNB94XkdQ2CPYE3nSUDWNSF6hjEMAfGhrMpump",
-   0.191,
-   2.1,
-   "buyers=7; top5_hold_most=98%"
+   "NEVER",
+   "21Caxj24Y9BDsPz75TPDnwyoHxwbnpHm3tCmNLuCpump",
+   0.409,
+   2.8,
+   "serial_creator=10 launches/24h"
   ],
   [
    "DOOMSDAY",
    "edYRErzBWKtQzyaZbWUXXTAePRbGUaqs88kANpSpump",
    0.175,
-   5.3,
+   6.3,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "TRUMP",
-   "8N5aM69SUGcADeHNby8dLqY9MYHF16dW7agtgGNeGqum",
-   0.144,
-   2.6,
-   ""
-  ],
-  [
-   "started",
-   "5kt85t6YSVdPVDMkt1rXdurU8Gep4Ej6xMDtUqM8pump",
-   0.124,
-   2.2,
-   ""
   ],
   [
    " ",
    "ESG4HNEuGiZt8k6seKvv428WkJgpt5fm9h4fwxw3pump",
-   0.101,
-   5.9,
+   0.097,
+   6.8,
    ""
   ],
   [
    "0",
    "F94exqpfdGBtnEAnxrGJ7CDczAUDZjFSC5qZiHpFpump",
    0.088,
-   2.4,
+   3.3,
+   ""
+  ],
+  [
+   "Rock",
+   "3xPEHY73HkZugrUZXaZ8S84LvBH2FtnchQkgW6BFpump",
+   0.075,
+   6.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "SOLANA",
+   "BKZnXZcPbEA9ts8C31gzd4TtkrpQG38yk4xga6hdpump",
+   0.073,
+   8.7,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "Sminem",
+   "FDwC8XqekFrbqu1oEKywsgEuaxhH7U4uPwc8Woq7pump",
+   0.073,
+   4.1,
    ""
   ]
  ]
