@@ -6608,81 +6608,85 @@
   [
    "2026-10-29T20:22:16",
    32.58
+  ],
+  [
+   "2026-10-29T20:23:18",
+   32.58
   ]
  ],
- "cycles": 2508,
+ "cycles": 2509,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.67500000000001,
- "watching": 297,
+ "sol_usd": 95.71195000000002,
+ "watching": 306,
  "near": [
+  [
+   "SC",
+   "4hqDzrKcbQhQ74sokT7wTMyY1rAeiVrsdZkDDmRZrbTu",
+   1.0,
+   2.6,
+   "graduated"
+  ],
+  [
+   "SI",
+   "HMgqmxq8mwCyNvPD8otUBgYN2Qk6zcsX2zPYhdMLpump",
+   0.682,
+   2.9,
+   ""
+  ],
+  [
+   "SIA",
+   "4nbibAyHWLj54i1fo9BVGU9CbxNK4U96tv4pUJvYpump",
+   0.587,
+   3.2,
+   "bundled_launch=7 extra buys in creation block"
+  ],
   [
    "OWLS",
    "BsprDdSa2t2gApGSSQzaVyCE8CNuTjc3hnBdUTKgpump",
-   0.461,
-   2.2,
+   0.512,
+   3.2,
    ""
   ],
   [
    "CHINGLING",
    "4jSsaqReY5g5u82Qpy3wH7zhbGEDDiEVyR32qc2jpump",
-   0.425,
-   8.0,
-   "top5_hold_most=99%"
+   0.434,
+   9.1,
+   "top5_hold_most=97%"
   ],
   [
-   "SIA",
-   "4nbibAyHWLj54i1fo9BVGU9CbxNK4U96tv4pUJvYpump",
-   0.274,
-   2.2,
-   ""
+   "RIPDESK",
+   "Ey8EvLyHAoRPhTXJji6WFKmpPxpqmnyU1itURCWbpump",
+   0.397,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "JANSEM",
    "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
    0.203,
-   6.2,
+   7.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "HOTH",
-   "GVTR6e7vG7MCaKmyr4AECpE7bFDk78SrZqhvnBmPpump",
-   0.16,
-   4.4,
-   "top5_hold_most=86%"
+   "LEMON",
+   "8giqysNeMNJLHjSS2BFiVec6ekoCHmzJPiGAuLEspump",
+   0.188,
+   2.3,
+   "buyers=9; top5_hold_most=97%"
   ],
   [
-   "COMPUTE",
-   "3TxdCQRC9m3DJ3WiVEmrGb5mVyeQJ9QLYBCr9J92pump",
-   0.147,
-   3.0,
+   "SC",
+   "J7q2vZiFuQA9BXoMGXpX8dQGtJs8vxCJ4bD22L1Npump",
+   0.15,
+   2.5,
    ""
   ],
   [
    "SIA",
    "Bq6qBv4DW2FGF5NsUEFxSeM4uyH5uwAK4rusN3DCpump",
    0.14,
-   3.6,
-   ""
-  ],
-  [
-   "SIC",
-   "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
-   0.14,
-   7.0,
-   ""
-  ],
-  [
-   "SI",
-   "2yYgKbuAusfkzgjSKRJa6Tmmb63vzKatj332XkPra9Gn",
-   0.126,
-   9.1,
-   ""
-  ],
-  [
-   "SI",
-   "DcfBijBiN2tdG4dtTkoJenCR24Zmnv2mJTjEiN8bpump",
-   0.124,
-   7.7,
+   4.6,
    ""
   ]
  ]
