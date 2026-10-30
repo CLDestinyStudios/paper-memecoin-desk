@@ -6598,83 +6598,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:59:17",
+   "2026-10-29T20:00:16",
    32.58
   ]
  ],
- "cycles": 2485,
+ "cycles": 2486,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.1,
- "watching": 218,
+ "sol_usd": 95.27000000000001,
+ "watching": 219,
  "near": [
   [
-   "Tally",
-   "CXKBkTZtSuewVBAmxhhBB2cko4fw4Vuq5JP57axxpump",
-   0.422,
-   5.4,
+   "OWLS",
+   "GQsS2hLeQoB7p4Ho76XvFAY631mEpJzqMj2VPePkpump",
+   0.862,
+   2.0,
    ""
   ],
   [
-   "LATCH",
-   "tpsKKwjKYxATdEVCQhY8iutufJg3BvfHV5XuhNFpump",
-   0.25,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
+   "Tally",
+   "CXKBkTZtSuewVBAmxhhBB2cko4fw4Vuq5JP57axxpump",
+   0.497,
+   6.4,
+   ""
   ],
   [
    "Reverse",
    "DrsVeXVWNCDQRPU3Ur4Tmo1UDqZLjHmXaAqymnvBpump",
-   0.233,
-   4.0,
-   "buyers=9"
+   0.226,
+   5.0,
+   "buyers=8; top5_hold_most=83%"
   ],
   [
    "TripleC",
    "BhwRkfD5PZTTASn7Psy9b4unR7zwpuxw3BwQTDHNpump",
-   0.188,
-   2.6,
+   0.169,
+   3.6,
    "top5_hold_most=80%"
-  ],
-  [
-   "Taurus",
-   "HFFGms24kbkzRScZc47qbdiCDusiN2ADbKnrFCXhpump",
-   0.147,
-   6.7,
-   "buyers=9"
-  ],
-  [
-   "Last",
-   "GQbDm3cdPhEW33VyC3tMutFyBW76o2gsbHNmoTDepump",
-   0.112,
-   2.7,
-   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "XOGE",
    "HDAZmgYQToTnoTkmkSTA3oaT3HSFJi86m4ZreeuJpump",
    0.087,
-   8.9,
+   9.8,
+   ""
+  ],
+  [
+   "TRIO",
+   "7Vkvr5WoCnBZ6eXj2d3tn6rusNzxRiroRUSyL9hcpump",
+   0.079,
+   2.7,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "TripleC",
+   "48UgAen55TEhMKZ8KKtsUYPvWrUYv27eUkCFwVLubLoF",
+   0.074,
+   2.6,
    ""
   ],
   [
    "TRIPPYBARA",
-   "EhF4WUqrzcFEQiDjK4nPE7CPREiGJaTAHBWYTqYMpump",
-   0.057,
-   2.3,
+   "5zbULZebCur51nYv4wgGx4n1CLg2FptepkEZEYmapump",
+   0.073,
+   2.6,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "laptop",
+   "8eC72vcArRqKbzgbHjkGKJGQCXXLiKhdntWS6usupump",
+   0.072,
+   3.0,
    ""
   ],
   [
-   "e/acc",
-   "8f7Q2iv9R8ScgzezzxKUF9A9EFdeQ49nrcYExqRtHBXc",
-   0.043,
-   3.8,
-   ""
-  ],
-  [
-   "Last",
-   "1zLLK9x2mXo8So3TFuYptAEP87ukx2DFTTdMwwZpump",
-   0.042,
-   4.2,
+   "TripleC",
+   "6KRtbjfA2xJw9yb461YpZughbqEw5Syg6Q5bTSHppump",
+   0.072,
+   2.2,
    ""
   ]
  ]
