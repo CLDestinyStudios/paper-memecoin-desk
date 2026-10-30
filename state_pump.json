@@ -6550,83 +6550,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:06:09",
+   "2026-10-29T18:07:08",
    32.58
   ]
  ],
- "cycles": 2372,
+ "cycles": 2373,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.18247930275,
- "watching": 180,
+ "sol_usd": 94.3,
+ "watching": 184,
  "near": [
   [
    "BEAR",
    "ARs6zjmQNxP4EC9xPsQzqxisdCTQqHPPrTMK4iYSpump",
-   0.85,
-   5.0,
-   ""
-  ],
-  [
-   "Health",
-   "1212KbNXivZY13xE3gFNSAa8kZLHfwtmoGXRzpu3pump",
-   0.826,
-   8.7,
+   0.939,
+   5.9,
    ""
   ],
   [
    "Dodo",
    "ENhdejvfXBrA6CUnxYCpBzHhfUvtZSTevRHyEiuKpump",
-   0.787,
-   3.4,
+   0.718,
+   4.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "Health",
+   "1212KbNXivZY13xE3gFNSAa8kZLHfwtmoGXRzpu3pump",
+   0.661,
+   9.7,
    ""
   ],
   [
    "HACKER",
    "Ezxzx6gTckPWgUx8BHDKXPXQjDJPMacgH2VwqM8qpump",
    0.074,
-   5.7,
+   6.7,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Swan",
-   "6Qavd8mjVFNG2r2oADoP7DpkSf3KyKA9YiZt3xEfUkyk",
-   0.056,
-   3.0,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "October",
    "ExPimT5RDg1iuAr7LP8cV1uVBvRKgdZu5oogGXKLpump",
    0.041,
-   9.0,
+   10.0,
+   ""
+  ],
+  [
+   "MIL",
+   "D3rDRsSr14ULKFQJFJ1YCNxpSKZNUs9zLztPVaz6pump",
+   0.033,
+   2.8,
    ""
   ],
   [
    "SAFU",
    "6By4X2wrFhSssHhqgsWe3xVieFd2rL3c5YyaNuCpump",
    0.032,
-   8.5,
-   ""
-  ],
-  [
-   "Error404",
-   "78MeQDwuQQVRkXkVxMFHtjLZvrVfeoaz2AwoG7Gepump",
-   0.027,
-   5.0,
+   9.5,
    ""
   ],
   [
    "nut",
    "BLCiR6ttkjS1mPQwpxopWSh6Fi9v75b3ixgpSBhFpump",
-   0.026,
-   3.8,
+   0.025,
+   4.8,
+   ""
+  ],
+  [
+   "+Pump",
+   "8dCuqfjYRh6SYmbiNuYwULVKKiP1VbLMa7ieiSknpump",
+   0.022,
+   2.9,
    ""
   ],
   [
    "PARK",
    "GiAQfxbbaa3U5zyuzorngQcxZTBmwft29KsGCT87pump",
    0.021,
-   5.0,
+   6.0,
    ""
   ]
  ]
