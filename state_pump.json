@@ -7028,81 +7028,85 @@
   [
    "2026-10-30T12:44:50",
    32.58
+  ],
+  [
+   "2026-10-30T12:45:51",
+   32.58
   ]
  ],
- "cycles": 3489,
+ "cycles": 3490,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.49485,
- "watching": 244,
+ "sol_usd": 94.52025,
+ "watching": 249,
  "near": [
   [
    "PERRY",
    "8Jw4vvq3DEM95oj6AXm2ZNUw9K9V6RSLhSSUpV8hMUWR",
-   0.431,
-   5.6,
+   0.524,
+   6.6,
+   ""
+  ],
+  [
+   "Creator",
+   "56akCXZWVHUUYwUxrCbvX1adNY2MZiTKf8onjm5Zpump",
+   0.457,
+   2.1,
+   "bundled_launch=12 extra buys in creation block"
+  ],
+  [
+   "AGENTCHAN",
+   "BmxxeFqdF3zPt7j1zoMHGSokEbZzprBGRXeUx4jZpump",
+   0.302,
+   2.1,
    ""
   ],
   [
    "LeMiss",
    "FiW5r4YcGBAqJTa7dQa73ADXXxaueTiRFtnpmDvcpump",
-   0.32,
-   7.3,
+   0.25,
+   8.3,
+   ""
+  ],
+  [
+   "GoT",
+   "6BUpm4ixLfucE9YaQiqTXtg9cAGsNUFBUpLyG74Epump",
+   0.185,
+   2.2,
    ""
   ],
   [
    "Heist",
    "3Z9LbLLetA6oz2C6Yfk5qsVVBTj4eXZSMf7bXvnkpump",
-   0.16,
-   7.5,
-   "buyers=7"
+   0.14,
+   8.5,
+   "buyers=6; top5_hold_most=87%"
   ],
   [
    "USDF\u200a",
    "F8Q5oFZbeALemy9XUSMgpb2RjVBQSVKrUGywDVJbpump",
    0.137,
-   3.0,
+   4.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "MEOWNER",
    "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
-   0.113,
-   8.7,
+   0.118,
+   9.7,
+   ""
+  ],
+  [
+   "Relax",
+   "BuJgLHw1PijTH4FcEMMi7Zzenxr2p914H8pstoNYpump",
+   0.08,
+   6.1,
    ""
   ],
   [
    "LIFE",
    "6GVRNnEzbXieoRiieRV6g2mH1zoXuhiSCwMhXG4cpump",
    0.064,
-   6.2,
-   ""
-  ],
-  [
-   "minecat",
-   "Danqp9UZ8h6j5a13b2wa2CcDUi3rAXNJ1iBQfCqbUBgK",
-   0.06,
-   10.0,
-   ""
-  ],
-  [
-   "Relax",
-   "BuJgLHw1PijTH4FcEMMi7Zzenxr2p914H8pstoNYpump",
-   0.052,
-   5.1,
-   ""
-  ],
-  [
-   "CEEZEE",
-   "8KLDs64UtsykCnh6qo6hGEYmWHsyJQYbfpis3R2rpump",
-   0.043,
-   8.1,
-   ""
-  ],
-  [
-   "GHOSTPAD",
-   "GyDzbtPDPzihJFDsCNK1WhWqzNNbiHREjgTNwsyipump",
-   0.041,
-   2.6,
+   7.2,
    ""
   ]
  ]
