@@ -6770,83 +6770,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:47:46",
+   "2026-10-30T02:48:46",
    32.58
   ]
  ],
- "cycles": 2893,
+ "cycles": 2894,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.73073345214998,
- "watching": 173,
+ "sol_usd": 96.76890106050001,
+ "watching": 178,
  "near": [
-  [
-   "gascoin",
-   "5xnnFEL19AENFk7eZ7XGsuFjZCrGbBi74dDemQEqpump",
-   0.674,
-   2.1,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Trip",
-   "DTDHq7L2f7ekeWgvJiCo3uqhBXmhDNjjqkCU2gKTpump",
-   0.499,
-   4.2,
-   "buyers=8; creator=38.3%; top5_hold_most=100%"
-  ],
   [
    "B. Hacker",
    "6T6zBWBRaimSwhLefYXGdC52fVWTP6mzcw7E2Fpgpump",
    0.369,
-   8.2,
-   "buyers=2; creator=29.3%; top5_hold_most=100%"
-  ],
-  [
-   "UNDO",
-   "6oU2Xih27GX7fzB5LzBmw3wJVC8MnDrXBqYSXp8spump",
-   0.343,
-   7.1,
-   ""
+   9.2,
+   "buyers=3; creator=29.3%; top5_hold_most=100%"
   ],
   [
    "inter",
    "9g7mxgf9JxGxGCp2KEvn8nbsDMxfZULdDszqbjSLpump",
    0.253,
-   8.8,
+   9.8,
    "buyers=2; creator=20.0%; top5_hold_most=100%"
   ],
   [
-   "SEMI",
-   "5zEEgZsy2Jp5Dnrx235d2kHZudqdDzmTX827E9hUpump",
-   0.243,
-   2.7,
-   "bundled_launch=7 extra buys in creation block"
-  ],
-  [
-   "ELONvsCZ",
-   "31wVdByWj9zj7ABjsYSrpMh5NDtMyyRfSQU5DNDFpump",
-   0.224,
-   9.1,
+   "UNDO",
+   "6oU2Xih27GX7fzB5LzBmw3wJVC8MnDrXBqYSXp8spump",
+   0.244,
+   8.1,
    ""
   ],
   [
    "KAIRO",
    "y57B3bBKVnT5VcV4wr3pdmDKsmn81GWW7Ax9gyapump",
-   0.143,
-   7.7,
-   "buyers=6; top5_hold_most=100%"
+   0.196,
+   8.7,
+   "buyers=8; top5_hold_most=80%"
   ],
   [
-   "Qcats",
-   "3AfPzqx3ajvRh7RqrGbtpaTZexdCyBG3pt6aXdrnpump",
-   0.132,
-   2.4,
+   "ACORNTREE",
+   "8GQNp22QNKN5n6HHd7UCX7PsmUmTDocaUJfYyq33pump",
+   0.153,
+   2.1,
+   "buyers=6; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "CVE",
+   "C9Gu3CRjEr7Kruc4ZdZk54YhxP5bcLcc9e2ngLyWpump",
+   0.089,
+   2.6,
    ""
   ],
   [
    "ElFantasma",
    "FPbz7o2mhYP8dkjv6MmEgneVxAGV6xjhjtQo34vNpump",
    0.084,
-   5.9,
+   6.9,
+   ""
+  ],
+  [
+   "gascoin",
+   "7wAF4ZQ34nCKR36tPk9xvVQ2xUdxEcukRkwqgBXJhvMy",
+   0.084,
+   2.7,
+   ""
+  ],
+  [
+   "Qcats",
+   "3AfPzqx3ajvRh7RqrGbtpaTZexdCyBG3pt6aXdrnpump",
+   0.068,
+   3.4,
+   ""
+  ],
+  [
+   "$FUCKELON",
+   "6m23M3d79hLnRsV3V93Sr7xB1Jqu8EuUEN2Qb9uWpump",
+   0.045,
+   8.3,
    ""
   ]
  ]
