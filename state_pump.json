@@ -7102,83 +7102,83 @@
    32.58
   ],
   [
-   "2026-10-30T15:36:56",
+   "2026-10-30T15:37:55",
    32.58
   ]
  ],
- "cycles": 3661,
+ "cycles": 3662,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.72664558339999,
- "watching": 262,
+ "sol_usd": 95.76,
+ "watching": 268,
  "near": [
-  [
-   "SONIC",
-   "CjngxwQWCAtB4sE2M97HakrFK8rcSLdfEBYpNQbWpump",
-   0.905,
-   5.2,
-   ""
-  ],
   [
    "EDS",
    "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump",
-   0.897,
-   3.4,
+   0.94,
+   4.4,
+   ""
+  ],
+  [
+   "SONIC",
+   "CjngxwQWCAtB4sE2M97HakrFK8rcSLdfEBYpNQbWpump",
+   0.901,
+   6.2,
    ""
   ],
   [
    "Honey",
    "2tpDLj3LEZJLuEEndL3dieGCoH8MLgWLd3o9hnzKpump",
-   0.807,
-   4.7,
+   0.737,
+   5.7,
    ""
   ],
   [
    "EDS",
    "Eoi6YFkjqCdyhwQMcHU6Hvxtem5xMXLHbDmWNsgXt39T",
    0.442,
-   6.3,
+   7.3,
    ""
   ],
   [
-   "Lilly",
-   "5bQ5cL2W342dXAp8kykg657RpYiyQ15s38mPz3MSpump",
-   0.193,
-   3.0,
-   "top5_hold_most=82%; bundled_launch=4 extra buys in creation block"
+   "bearworld",
+   "5LCDqnbJ2wBs4ax9Dmcj56egJPWSRKb12HR7tHXhpump",
+   0.408,
+   2.3,
+   "rugcheck=creator history of rugs"
   ],
   [
-   "Sonic",
-   "28GL4v32efdJv8kzBSe9ydPhKFAyizLvMFJ1tcDQpump",
-   0.119,
-   3.6,
-   ""
+   "frog",
+   "DQ2VxMdJ9Rn5QAfnq38dUQaAv4gtNPmpA7EbyMcjpump",
+   0.15,
+   2.4,
+   "serial_creator=6 launches/24h"
   ],
   [
    "EDS",
    "8xrtjATQpxUtdLmwhAKqLJJ6dry2xc9pAMhwFFaJpump",
    0.081,
-   6.2,
-   ""
-  ],
-  [
-   "Honey",
-   "EnnZSn5gxbrJkphBkPNWx2qApUqbqmvaeKoSZAkfpump",
-   0.064,
-   3.3,
+   7.2,
    ""
   ],
   [
    "DAWID",
    "7GCmVxqihhUjnX5bgMRdHhDXMr9hE14GEu4Z9eH3pump",
    0.054,
-   8.3,
+   9.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Honey",
    "GD8cMGD6SMqvJFtUj4TSxzXrqaeDUF3RaHM3d8Ynpump",
    0.045,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "Honey",
+   "5n32FgvYeM56gkicB9KPLe7bptfpZzXirnqV76Aupump",
+   0.043,
+   2.7,
    ""
   ]
  ]
