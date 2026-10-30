@@ -6948,82 +6948,86 @@
   [
    "2026-10-30T09:37:51",
    32.58
+  ],
+  [
+   "2026-10-30T09:38:47",
+   32.58
   ]
  ],
- "cycles": 3302,
+ "cycles": 3303,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.145559981,
- "watching": 241,
+ "sol_usd": 95.07,
+ "watching": 240,
  "near": [
   [
-   "slutcat",
-   "ENajZkmmDoEPU2vbpVX6GK9oLEC59LjHYReuvP8tpump",
-   0.505,
-   2.1,
-   "bundled_launch=9 extra buys in creation block"
-  ],
-  [
-   "TWINK",
-   "9hKFyhzTysMysxWoLzomzC4cQv2UQoAijg5QSdXQpump",
-   0.305,
-   4.0,
+   "COOL",
+   "BAPS9Jp7zkKqUrLJNCGLNkZ66sZuaRJVuaHt2cTJpump",
+   0.628,
+   2.7,
    ""
-  ],
-  [
-   "MFRG",
-   "6hPihvTn3AnR6yDeABmm9zmPRY8SCirJ5RTpNkR6pump",
-   0.284,
-   8.4,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "BEDTURTLE",
    "Adsiu9XDWVtQ5sKm7FvUwWLNxZTG8tBYey4HwL754DJF",
    0.262,
-   4.2,
+   5.2,
    "buyers=1; creator=20.8%; top5_hold_most=100%"
+  ],
+  [
+   "MFRG",
+   "6hPihvTn3AnR6yDeABmm9zmPRY8SCirJ5RTpNkR6pump",
+   0.255,
+   9.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PIGJONG",
    "GMSE5wq9M58ZkUZCGD1hDijERrvW5ELStG3AmvvVpump",
-   0.147,
-   3.5,
+   0.131,
+   4.4,
    ""
-  ],
-  [
-   "SENSE",
-   "G89Z6jf1CQ8Ao8ia8CAc2vTLG3TW27Q9V7Lt5UMxpump",
-   0.14,
-   3.0,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "slut",
    "2RHQwzjUpXpC3esELFgcorhFt1FsXxuhmU36BNhApump",
-   0.134,
-   4.6,
-   "buyers=7; top5_hold_most=99%"
-  ],
-  [
-   "Lot",
-   "ELoeFPrW5pUzXDucmwSLKCpgZk8UpkfBk6oDHZJbpump",
-   0.102,
-   4.1,
-   ""
+   0.129,
+   5.5,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "FOID",
    "Bq2jJFbgrT5U37LDJmuonH32WNsdLEkTovP9g7o7foid",
    0.073,
-   3.0,
+   3.9,
    ""
   ],
   [
    "Rob",
    "cHMQz28CCZbj6mVvdzGBMVfwxetFJcEwiakDtL1pump",
    0.058,
-   3.7,
+   4.6,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "PAPPUMON",
+   "DGx48rv3sXb31DbpJS2ozWiZT3oywVgJPeMLWEsL6aZQ",
+   0.058,
+   4.8,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "ELONTROLL",
+   "764vcA5658BX1jitEga4eUtBNmruaw42Wq85bt82pump",
+   0.048,
+   9.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "MOTH",
+   "B5nzbs58JNoxK9PHs2MW5YeNCu3FhoM9A5uwnCZpump",
+   0.046,
+   7.6,
+   ""
   ]
  ]
 }
