@@ -6878,84 +6878,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:58:05",
+   "2026-10-30T06:59:06",
    32.58
   ]
  ],
- "cycles": 3143,
+ "cycles": 3144,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.91041387725,
- "watching": 215,
+ "sol_usd": 94.9071154911,
+ "watching": 202,
  "near": [
-  [
-   "HP",
-   "DNT96eDpLm4vuG9P4FDZr9d6JjgGt9dDFbDHvn5gpump",
-   0.556,
-   2.1,
-   "creator=39.6%; top5_hold_most=95%"
-  ],
   [
    "JAPRO",
    "AhZ8zooajNLviR7Etony5yEgyXLUnuQ15zCEpNMepump",
-   0.48,
-   8.1,
-   "buyers=7; top5_hold_most=100%"
+   0.661,
+   9.1,
+   "top10=52.4%; top5_hold_most=99%"
   ],
   [
-   "JAPRO",
-   "4Eqm3MxyNTihjqn5VVXt5JB8Zz4q4wSpE2ViQRiEpump",
-   0.226,
-   2.5,
+   "Gruffalo",
+   "6Gm23QdnweKd7y8oPYyAiQKQyoRKpziX3jUmV8pRpump",
+   0.312,
+   2.7,
    ""
   ],
   [
    "HKDAP",
    "GmDiqkpFKdJdZxGFMz6xGAvM5NWqyjqKCpQKTeN5pump",
-   0.16,
-   2.7,
-   "top5_hold_most=88%"
+   0.24,
+   3.7,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "Gody",
+   "Drx5aMPdnkMiMx4rhWSorbzh3GLxVYuEfNPCQicSpump",
+   0.201,
+   2.2,
+   "top5_hold_most=94%"
   ],
   [
    "Goats",
    "SZsSTsXz32zTyApY4hNRWo3zQn4k6QCsUhMBMdQpump",
-   0.144,
-   6.2,
-   ""
+   0.174,
+   7.2,
+   "buyers=7; top5_hold_most=96%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "LLM",
    "624YvdZgpbQUouHwYv8nfk5WF3GmuF5ycHj2iF9Cpump",
-   0.129,
-   6.9,
+   0.171,
+   8.0,
    ""
   ],
   [
-   "MELT",
-   "CAcByRG2kA7v42opbce22mZNi2i3BCKZxytgDjDFpump",
-   0.113,
-   6.5,
-   "buyers=4; top5_hold_most=100%"
+   "JAPRO",
+   "4Eqm3MxyNTihjqn5VVXt5JB8Zz4q4wSpE2ViQRiEpump",
+   0.14,
+   3.5,
+   ""
   ],
   [
    "KIM",
    "5NGwWpKFjJp3fTmCinEyfZ4gtNBwfj1cDzkZ4AdBpump",
    0.11,
-   7.9,
+   8.9,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "MELT",
+   "CAcByRG2kA7v42opbce22mZNi2i3BCKZxytgDjDFpump",
+   0.109,
+   7.5,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "$HOUND",
    "9cDAVZrfiPB8psRnjdDpenhE6WxAKdVumM6SMk6spump",
-   0.095,
-   8.1,
-   "buyers=9; top5_hold_most=97%"
-  ],
-  [
-   "DRIZZL",
-   "6jjnDqij76eGQragYKrSxysMoa5b4mN1q8kRx7Mspump",
-   0.093,
-   4.7,
-   "buyers=3; top5_hold_most=100%"
+   0.105,
+   9.2,
+   "top5_hold_most=95%"
   ]
  ]
 }
