@@ -6958,84 +6958,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:57:48",
+   "2026-10-30T09:58:47",
    32.58
   ]
  ],
- "cycles": 3322,
+ "cycles": 3323,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.8659075974,
- "watching": 248,
+ "sol_usd": 94.775,
+ "watching": 252,
  "near": [
   [
    "anthrupic",
    "3aFjeQZW6dEeywwngN8w6bX4cfLbXq6B5c2LTnCipump",
-   0.972,
-   8.7,
+   0.968,
+   9.7,
+   ""
+  ],
+  [
+   "AI",
+   "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
+   0.836,
+   2.6,
    ""
   ],
   [
    "GARLIC",
    "8Y2Wux52xfpGmxeKCakJqJBL9cvoevuAjSbAKUjDpump",
-   0.833,
-   4.6,
+   0.736,
+   5.6,
    ""
   ],
   [
    "Mimi",
    "9N4QHXwwV4udPrzB4h1pzBCz4c8V7okVaewRj5oapump",
-   0.781,
-   8.9,
+   0.706,
+   9.9,
+   ""
+  ],
+  [
+   "Mimic",
+   "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
+   0.439,
+   2.5,
    ""
   ],
   [
    "SKULLSUN",
    "7jDn7V3bXk82qs4qvJUuPbkvmRNamLGSe7FzRdjvpump",
-   0.287,
-   5.1,
+   0.296,
+   6.1,
    ""
   ],
   [
    "SURVINU",
    "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
    0.209,
-   3.4,
-   ""
-  ],
-  [
-   "cezee",
-   "5jsf2ii8aKTpbWxHhPKtg8BdcGTMzCX1NYK2FtBtHWsK",
-   0.187,
-   2.9,
-   "serial_creator=116 launches/24h"
-  ],
-  [
-   "rir",
-   "82Crcjs7GZPdvRxU1c6svw47wSy6MVNLfSNPgrDZpump",
-   0.176,
-   3.4,
+   4.4,
    ""
   ],
   [
    "PCOIN",
    "suhwbjMp7xnhE9CrW7JfTwaVZBYxAsBdYu2wvcdpump",
    0.165,
-   3.0,
+   3.9,
    "buyers=6; top5_hold_most=98%"
   ],
   [
-   "Epilepsy",
-   "F2eWXH9S4sCuYv8yRo3uJ1djrZfVcNwBDsW23kgfpump",
-   0.163,
-   3.1,
-   "serial_creator=23 launches/24h"
+   "CCORG",
+   "HegQZ6XBbfbEwsAKHFCmMN8FQYtqWFnta6GZc5Qwpump",
+   0.132,
+   5.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
-   "pixel",
-   "6SjiktHLfscPdNbfqNYNQa87MHbnszTKdNERmfQDpump",
-   0.122,
-   7.1,
-   "buyers=1; top5_hold_most=100%"
+   "nazkun",
+   "CzpDboN8F6gHBvDAyNYRvv4FAQG1tfdAFYF1FT8qpump",
+   0.1,
+   5.6,
+   ""
   ]
  ]
 }
