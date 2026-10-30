@@ -6862,84 +6862,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:16:06",
+   "2026-10-30T06:17:02",
    32.58
   ]
  ],
- "cycles": 3101,
+ "cycles": 3102,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.25393228650002,
- "watching": 162,
+ "sol_usd": 96.31170667889998,
+ "watching": 164,
  "near": [
+  [
+   "HACKCOIN",
+   "5McvpSFirPG9yHbvuHzvgvAza8qobrcuHk24TfXmpump",
+   0.828,
+   3.0,
+   ""
+  ],
+  [
+   "laptop",
+   "9hzYuifYC7FNCCJ2aViUEKwoPRzy3i6tB7g63wPtpump",
+   0.817,
+   2.0,
+   ""
+  ],
   [
    "laptop",
    "9BfiiYkSoGC1Ke7v4cEnhwZUHFsniEu5dNd9urc1pump",
    0.504,
-   5.2,
-   ""
-  ],
-  [
-   "Cell",
-   "5DYrpAQDSHHLEf9ezwK3HFG1hm6yFddZs8LYZq4Hpump",
-   0.39,
-   9.2,
+   6.2,
    ""
   ],
   [
    "Laptop",
    "BbjHCW9zy7LoRcthW6AAvssyfyePFiFXSWUYNEJVpump",
    0.175,
-   2.8,
+   3.8,
    ""
   ],
   [
    "LAZARUS",
    "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
    0.149,
-   4.1,
+   5.1,
    "buyers=7; top5_hold_most=100%"
   ],
   [
    "ELON GTA",
    "6eSGaqbsDpjHvKbmSYtSHWmi9VnrpMr2NsNLZM7gpump",
-   0.144,
-   6.1,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "grok",
-   "Gyac6qiU5WMmMrDHAU4W4wTtYN9ooSCWE5ULVvA7pump",
-   0.131,
-   3.4,
-   "top5_hold_most=94%"
+   0.14,
+   7.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SUBCAT",
    "GdhWJGnPSC2pPz1z2Zog1Me59sKxEp5ekks8uFmCpump",
    0.131,
-   5.5,
+   6.5,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "pumpdrive",
-   "Eq3x4QPXNw2Ym72oNcDgu5WKxch6WgJ53tjynndvpump",
-   0.122,
-   2.3,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "Alvin",
    "Dg5SbCbL6h82giwGrPP6MnCQt8Kt1ZL2td3NPwYGpump",
    0.118,
-   3.0,
+   4.0,
    ""
   ],
   [
    "RAPTOP",
    "9yzBfzPrxGoTpMye7TBp5Fz2erFdwrZ1fiPoSnBEkN3J",
    0.116,
-   4.2,
+   5.1,
    ""
+  ],
+  [
+   "grok",
+   "Gyac6qiU5WMmMrDHAU4W4wTtYN9ooSCWE5ULVvA7pump",
+   0.098,
+   4.3,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
