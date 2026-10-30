@@ -6798,84 +6798,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:45:45",
+   "2026-10-30T03:46:45",
    32.58
   ]
  ],
- "cycles": 2951,
+ "cycles": 2952,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.98087347110001,
- "watching": 211,
+ "sol_usd": 96.76208561205002,
+ "watching": 221,
  "near": [
   [
    "HUGE",
    "2Y2BzPy4MmaXbwWRogEdFLVyBXjKZR8VfhHHy8XUpump",
-   0.935,
-   2.4,
+   0.87,
+   3.4,
    ""
   ],
   [
    "DAEMON",
    "2211sKbQxtB84KD6e73ZEKar8vRYpNyqfpg8QX3Tpump",
-   0.659,
-   2.6,
+   0.743,
+   3.6,
    ""
+  ],
+  [
+   "FBinance",
+   "8ozbviNRSmeBP8tJyaK92XdrN3ceHqVpDLnP25DRpump",
+   0.591,
+   2.8,
+   "creator=41.4%; top10=46.3%; top5_hold_most=98%"
   ],
   [
    "SBF",
    "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
-   0.288,
-   7.0,
+   0.273,
+   8.0,
    ""
-  ],
-  [
-   "ke3d",
-   "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
-   0.264,
-   3.8,
-   "buyers=7; top5_hold_most=100%"
   ],
   [
    "ATONKY",
    "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
    0.252,
-   4.5,
+   5.5,
    "top5_hold_most=86%"
+  ],
+  [
+   "ke3d",
+   "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
+   0.226,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "HUGE",
+   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
+   0.197,
+   5.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "COFFIN",
    "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
-   0.183,
-   2.4,
-   "buyers=7; top5_hold_most=91%"
-  ],
-  [
-   "retire",
-   "GqbUtirLXbtoXQGLwmUqYto8QB7VAVthwURzTY2tpump",
-   0.164,
-   4.2,
-   "buyers=6; top5_hold_most=100%"
+   0.167,
+   3.4,
+   "buyers=6; top5_hold_most=95%"
   ],
   [
    "BOOT",
    "CbRjhyAjgzusCdgFZvhaAX9ivy3BVWEvnbeK4v1upump",
    0.133,
-   3.8,
-   "buyers=3; top5_hold_most=100%"
+   4.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "VICE",
    "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
    0.133,
-   7.1,
+   8.1,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HUGE",
-   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
-   0.13,
-   4.3,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
