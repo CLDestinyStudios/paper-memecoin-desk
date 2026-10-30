@@ -6594,84 +6594,84 @@
    32.58
   ],
   [
-   "2026-10-29T19:54:15",
+   "2026-10-29T19:55:16",
    32.58
   ]
  ],
- "cycles": 2480,
+ "cycles": 2481,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.01533387570001,
- "watching": 235,
+ "sol_usd": 95.11500000000001,
+ "watching": 223,
  "near": [
-  [
-   "BOTTOM",
-   "9boqZQHLemAGM3PRdKE7sJfjDZ4Vy96Y66qvvNNvpump",
-   0.729,
-   5.4,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Vulu",
-   "8sBcwxKmYvR5CTkmTnktNozpyH5ELkVmWpo6Jkmmpump",
-   0.381,
-   6.3,
-   "buyers=6; top5_hold_most=99%"
-  ],
   [
    "XOGE",
    "HDAZmgYQToTnoTkmkSTA3oaT3HSFJi86m4ZreeuJpump",
-   0.258,
-   3.8,
+   0.425,
+   4.8,
    ""
   ],
   [
    "CLASHPAD ",
    "7S6HEhpTcMTBSmUJrxzMHZeJvzu2zHjyDisz93Y9pump",
-   0.197,
-   2.4,
+   0.214,
+   3.4,
    ""
   ],
   [
    "BOTTOM",
    "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
-   0.17,
-   5.9,
+   0.164,
+   7.0,
    ""
   ],
   [
-   "ELON",
-   "Eko3QVqHQ3MX5jy9Zk85RBMopNofb6i9Sp3M6VbDdvfq",
-   0.118,
-   2.3,
-   ""
+   "Taurus",
+   "HFFGms24kbkzRScZc47qbdiCDusiN2ADbKnrFCXhpump",
+   0.123,
+   2.6,
+   "buyers=9"
   ],
   [
    "SAFU",
    "CKegRmJvD8TjuDVmCHsUjvzBLFYY8LRb3HJgrnKjpump",
    0.099,
-   2.7,
+   3.7,
    ""
   ],
   [
    "dca",
    "Gumi3obQDyPiUZXD76g3fAvJchiJ75xfFmKRsJ13pump",
    0.075,
-   6.0,
-   ""
+   7.0,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "LaPerla",
-   "CeEh5wdszDeGgCNZJgotMwDDY1nHoAT9RVw2fQdBpump",
-   0.072,
-   2.6,
-   "buyers=1; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
+   "FwUNSbBgNvN47SipTkPBkfRzogRAYzeWu8CYduapump",
+   0.073,
+   2.9,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "BINHACK",
    "48yutcVogMQSN9er8qBd8mdSR9uV3dsXDkMP2opLpump",
    0.068,
-   3.7,
+   4.7,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "LaPerla",
+   "8ZyDWP7K8EnahiVVMVokkE7VgK6ZxCeShEirhiVTpump",
+   0.064,
+   3.8,
+   ""
+  ],
+  [
+   "BOTTOM",
+   "5PwweM7nbAFXE4KDAEVC9bENkgWS6z6VEFBnTuN4pump",
+   0.061,
+   2.8,
+   ""
   ]
  ]
 }
