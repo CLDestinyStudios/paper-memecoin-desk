@@ -6790,83 +6790,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:27:45",
+   "2026-10-30T03:28:47",
    32.58
   ]
  ],
- "cycles": 2933,
+ "cycles": 2934,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.46820902610001,
- "watching": 176,
+ "sol_usd": 96.565,
+ "watching": 171,
  "near": [
   [
    "IPO",
    "3osKX3hLiV6BbVjSdZzpLJ9qWngCYtweuWHJ9FZFpump",
-   0.936,
-   4.5,
+   0.963,
+   5.6,
    ""
+  ],
+  [
+   "ACTR",
+   "CM4fAfv4LsJ9fbuWKB6V7tMC8BS7NaLADXyg71VKyKiY",
+   0.736,
+   2.7,
+   "serial_creator=25 launches/24h"
   ],
   [
    "SC",
    "EKeMVYySs24sE4ah2ABy5kg63TfbeU89JxbbpMHMpump",
-   0.745,
-   6.0,
-   "creator=36.9%; top10=54.4%; top5_hold_most=85%"
-  ],
-  [
-   "BOOHOUSE",
-   "FdTpDV1iwS9PotysxyECoJ8J1TmtM1oybDEzqHo9pump",
-   0.333,
-   3.0,
-   ""
+   0.727,
+   7.1,
+   "creator=36.9%; top10=53.9%; top5_hold_most=87%"
   ],
   [
    "MIND",
    "D4zpoH2SXELkxNqa3ZVzg68SwnvXWDP1JVKqYEMpump",
    0.201,
-   4.7,
+   5.8,
    "buyers=9; top5_hold_most=86%"
+  ],
+  [
+   "TERMINATOR",
+   "6Ssk9jVNKX9JyqBPc857GDyKGBVxxYTJqU7L1p4dpump",
+   0.118,
+   2.8,
+   ""
+  ],
+  [
+   "STEALING",
+   "4Egn6B25c4CGrPUMDGsErZBCsy4MMtSbYZf1d9c1pump",
+   0.112,
+   2.5,
+   ""
   ],
   [
    "STEALING",
    "F4ZUhhQra9Ukw7yJ2xQXv61X4iN197DsaFY1xPwnpump",
    0.072,
-   4.3,
+   5.3,
    ""
-  ],
-  [
-   "HALLOWEEN",
-   "Bqfaj1fqE7t5aK6J2vyZh6Z7vMC9FJi3z6ZwaWKEpump",
-   0.043,
-   5.7,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "WW3",
    "DBpf3qYgigwWNg5PX7K9YnKWFEKNdVa7MxWZDRAApump",
    0.039,
-   2.3,
+   3.3,
+   ""
+  ],
+  [
+   "ACT",
+   "5yMVoscCY2oLmwNoYdQ3MNDHhpPaktN9eVi4yxs3pump",
+   0.029,
+   2.5,
    ""
   ],
   [
    "BBUNX",
    "54riZ8Gc54RUNQGiwG3jVeQqh43jtMFXEucebrnapump",
-   0.024,
-   2.7,
-   ""
-  ],
-  [
-   "Squeeze",
-   "BSFE8ScSDc82pHGGuu1tdtJTiaFHoQFuJSbjXjZ9Z6wN",
-   0.022,
-   3.2,
-   ""
-  ],
-  [
-   "$Blackout",
-   "8XFFsdiQHmEwxEjBsp4A1rRbcJU5uBvBY2dJ6Hmtpump",
-   0.022,
-   7.8,
+   0.023,
+   3.7,
    ""
   ]
  ]
