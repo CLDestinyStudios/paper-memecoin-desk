@@ -6778,84 +6778,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:59:47",
+   "2026-10-30T03:00:48",
    32.58
   ]
  ],
- "cycles": 2905,
+ "cycles": 2906,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.69524972060002,
+ "sol_usd": 96.65395541894999,
  "watching": 193,
  "near": [
   [
-   "Inky",
-   "2yr8a94SargmNSU7VEhUEAHuPsL9L8fcZrc6NXPsRJgr",
-   0.119,
-   2.7,
-   ""
-  ],
-  [
    "ROBBIE",
    "Cbd2Rnkc57nNpKfsJwAxfLKWATYaYW8cgMCVj6Aepump",
-   0.106,
-   2.1,
-   "buyers=5; top5_hold_most=100%"
+   0.219,
+   3.1,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
-   "Cookie",
-   "5xwrQgevbdXthEW8CbL83bEyhiq9gWmkYrwnHy4epump",
-   0.073,
-   2.9,
-   ""
+   "save",
+   "P7qP9HiZvovvTH65s51TN7bNYdHqUwzsg5UcxhLpump",
+   0.105,
+   2.6,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
    "CVE",
    "7Gd3ywdzSkfjPfnMuoBJuTACLQLosptkBPM76FUmpump",
    0.064,
-   6.4,
+   7.4,
    ""
   ],
   [
    "Mura",
    "EwFR7upezNMKPC5vQWwpAUpr8W8ULkXTHY5NWewCpump",
    0.059,
-   2.7,
+   3.7,
    ""
   ],
   [
    "CVE",
    "AFJvY2HGgoeeAbtN2BW5XNi57W4ogdEJuvVbazW6pump",
    0.045,
-   2.6,
+   3.6,
    ""
   ],
   [
    "FLEEDOG",
    "DkjKdUyD4P7RVmXrFCKKJosKhtTNjgEt7vV1vcjGBXFJ",
    0.044,
-   3.0,
-   ""
-  ],
-  [
-   "SNARLPUP",
-   "AYhRJ64PcuQzdgfyP46EtLkzwavSiKAHrPEc72XV7oZL",
-   0.044,
-   8.0,
-   ""
-  ],
-  [
-   "TCS",
-   "nbCnaqUNcsQvqxiN2C63TdjKjTJ1PMddenNZYNAJMxA",
-   0.033,
-   3.2,
+   4.0,
    ""
   ],
   [
    "Squeeze",
    "Hn6jnXFfGNSW28dYyeVmyt99e4JCTAkxusgebwqXrzMM",
    0.033,
-   5.3,
+   6.3,
    "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "TCS",
+   "nbCnaqUNcsQvqxiN2C63TdjKjTJ1PMddenNZYNAJMxA",
+   0.03,
+   4.2,
+   ""
+  ],
+  [
+   "SOLANA",
+   "4maTPWXu4M4n8vLsMw8naSh1rmuGvUafxiZk3oQ5pump",
+   0.023,
+   3.0,
+   ""
+  ],
+  [
+   "Inky",
+   "6huSDeMX7L472KhK4Y1DEgA77YhFBpYZF6L3esYJpump",
+   0.013,
+   4.5,
+   ""
   ]
  ]
 }
