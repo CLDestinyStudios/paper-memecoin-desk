@@ -6702,83 +6702,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:06:46",
+   "2026-10-30T00:07:46",
    32.58
   ]
  ],
- "cycles": 2732,
+ "cycles": 2733,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.91136360985,
- "watching": 146,
+ "sol_usd": 97.95999999999998,
+ "watching": 147,
  "near": [
   [
    "ANONYMOUSE",
    "J9ZeznJEReSFmUzwnvQspTvJCtkNb28YiiucjxU9pump",
-   0.602,
-   5.2,
+   0.766,
+   6.2,
    ""
   ],
   [
    "ZERO",
    "Df2N9wJWu7UNQdiCcAqU2QfypS1RCy9rqXnJqVTnpump",
    0.191,
-   5.5,
+   6.5,
    "top5_hold_most=80%"
   ],
   [
    "HARD",
    "wyxJJ5MoT2zZtVjqZkgohoJ1M32rgmyvK8Sv95Jpump",
-   0.133,
-   3.3,
-   "buyers=4; top5_hold_most=100%"
+   0.134,
+   4.3,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
-   "BOTTOM",
-   "4S2tEfQcDEerDJm5QCh5dE5SniEnGVvSFu4qikATpump",
-   0.058,
-   9.4,
+   "HB",
+   "2tg1tFx7aRCJG8uRUdfmZM1kmnuA2bXcKgAyTF2jpump",
+   0.037,
+   2.4,
    ""
   ],
   [
    "MONA",
    "7Ry5BCYA19Fins7FVsZzGm7JY1D5boZZX4s8humqpump",
    0.028,
-   6.9,
+   7.9,
    ""
   ],
   [
    "MOONBERG",
    "fF8QqZaJeFpY3sLXVv4aneyTDj99GR3afXMjDqVpump",
    0.027,
-   7.6,
+   8.6,
    ""
   ],
   [
    "SFU ",
    "FnFvGeXPqNDs6fm2Nvex3TDH6VnTJLPJ2w1aVfWKpump",
    0.022,
-   4.0,
+   5.0,
+   ""
+  ],
+  [
+   "GHOPE",
+   "GaNEAkcmcdmWrdQF4gQYR9yYKvkKomTCxDq8A6yapump",
+   0.004,
+   2.6,
    ""
   ],
   [
    "PANIC",
    "Dd7XcdXRCYmL1EnsUKQrWEQCKqXvxD2aYKuDMG2dpump",
-   0.014,
-   8.5,
+   0.003,
+   9.5,
    ""
   ],
   [
    "PRIVACY",
    "7w3qw9vPocKRog2PC8RdCbAg5LUDhc4dxy5oQPHw78AF",
    0.002,
-   2.6,
-   ""
-  ],
-  [
-   "KRAKEN",
-   "GYfuRXNLbigkdWJNaTLBJqDE73evduYgTqSzD73Kpump",
-   0.002,
-   5.3,
+   3.6,
    ""
   ]
  ]
