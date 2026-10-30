@@ -6826,83 +6826,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:50:46",
+   "2026-10-30T04:51:46",
    32.58
   ]
  ],
- "cycles": 3016,
+ "cycles": 3017,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.4948014629,
- "watching": 119,
+ "sol_usd": 96.49346047270001,
+ "watching": 107,
  "near": [
+  [
+   "PULSE",
+   "EYt217Uh7K3oyD2wUKwZtWVaPiLeKMfvNH95BTcbpump",
+   0.49,
+   3.0,
+   ""
+  ],
+  [
+   "PEET",
+   "CPGDcivn6cpY6a5kzAS8udNS2oA5BE4NHKDsHdmnpump",
+   0.272,
+   2.7,
+   ""
+  ],
   [
    "MIND",
    "2QzyUqdbyVcjc7qkogHMmmo8ywdNTx3yomgJmskrpump",
    0.148,
-   6.0,
+   7.0,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "elfranco",
-   "6nFMBYT4WkhUiYgf8zvWCpNFUbRjTeUx9JXR5Adupump",
-   0.079,
-   2.9,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "PUMPKIN",
    "7UASu6wS27pw8FJxkw7k1SLSzEkapE68YEA3UFSFpump",
    0.079,
-   8.2,
+   9.2,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "NOOB",
-   "GGeU3chLa8rbpAmEhxToQgkDfjFPWmT7Hj8H3vtepump",
-   0.074,
-   4.4,
-   ""
   ],
   [
    "PEET",
    "AHSAxDxtSkJoB3rsTEidXhPHgEU56zkAi34ihEMj1uuh",
    0.052,
-   2.6,
+   3.6,
    ""
   ],
   [
    "PEET",
    "35gXMiUkNN9MmBxTU2Ew58ZwYtzP1LNVT7PPBS9Gpump",
-   0.041,
-   4.7,
+   0.047,
+   5.7,
+   ""
+  ],
+  [
+   "A127",
+   "EW4FhBh4yPyDJT32ti1n4wmUDMcGiDMGygev3ENupump",
+   0.038,
+   9.5,
    ""
   ],
   [
    "HALO",
    "7X4C9nUyJGPCzGFyJo6ck4ENmo2Wj9TweYksbFj9Q1E6",
-   0.033,
-   4.2,
+   0.032,
+   5.2,
    ""
   ],
   [
    "MINT ",
    "3G5scg8sy7geghM2gpX9XimiXKjtKCseJSfnykwspump",
    0.026,
-   6.6,
+   7.6,
    "buyers=8; top5_hold_most=100%"
   ],
   [
-   "A127",
-   "EW4FhBh4yPyDJT32ti1n4wmUDMcGiDMGygev3ENupump",
-   0.025,
-   8.5,
-   ""
-  ],
-  [
-   "MIND",
-   "2yhAo9M3twKNkdY1CoLybf5sVV24qXrQdqaiHuYepump",
-   0.022,
-   5.6,
+   "IMK",
+   "BysfAffXZxjk6BKeGZKsnUVGzc73B9LajsCv25Cepump",
+   0.017,
+   5.0,
    ""
   ]
  ]
