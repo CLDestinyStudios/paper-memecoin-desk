@@ -6650,83 +6650,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:02:15",
+   "2026-10-29T22:03:21",
    32.58
   ]
  ],
- "cycles": 2608,
+ "cycles": 2609,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.20599816170001,
- "watching": 156,
+ "sol_usd": 97.42647954270001,
+ "watching": 153,
  "near": [
   [
    "PUMPLIQUID",
    "3Gd5uuTCa948qkJhYgiQthPYL5DeMMXLACqyWwiKperp",
-   0.837,
-   2.1,
+   0.814,
+   3.2,
    ""
   ],
   [
    "coinput",
    "coin2JPqDG9LozmgfN8z4cL4b9M7mB5HodtX813M9ie",
-   0.614,
-   6.2,
+   0.568,
+   7.3,
    ""
   ],
   [
    "NWASB",
    "Cd3T84yA29dTRaTkThGcABZQ8s9VHwbDZC7sRu7rpump",
-   0.09,
-   2.1,
+   0.139,
+   3.2,
    ""
   ],
   [
-   "ARMO",
-   "CeYkLAkumqAQiEUK3gnzso4925h8uxrFH85yv2KLpump",
-   0.043,
-   9.8,
-   ""
+   "Hopcode",
+   "9JQucXcq5HAkXAYw6X9bnJFtT9ejPxRN1cv32UBHpump",
+   0.106,
+   2.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "PumpDrop",
    "F9pK9UAN4oob3rXxbkRmornWVHKyWh3Zmi7C2qb7pump",
-   0.041,
-   8.5,
-   ""
-  ],
-  [
-   "PONCHO",
-   "3dNGuNq9hKYvpTSL1EheCqvuHitUiYTgTsDzoDEcpump",
-   0.04,
-   9.4,
+   0.042,
+   9.6,
    ""
   ],
   [
    "MONKEY",
    "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
-   0.034,
-   6.0,
-   ""
-  ],
-  [
-   "DTECT",
-   "6GcqsS2djaJo3uod3uik9mGX6XjMceQnsk69a4kEpump",
-   0.031,
-   4.8,
+   0.033,
+   7.1,
    ""
   ],
   [
    "Inuployed",
    "G9PeBYrUdcGU16KECAUMJf72escRBzYMN5b3cjDipump",
    0.03,
-   2.3,
+   3.4,
    ""
   ],
   [
    "pep",
    "DMDhj16u2XxCWRDWqjbSbzqGWgoQHB7ehvhMkkVXpump",
    0.022,
-   4.6,
+   5.7,
+   ""
+  ],
+  [
+   "TELEPATHY",
+   "3DvNxEm2hhs42mh9LnGPq9CCYU25P1HjLZ1KYp9Vpump",
+   0.009,
+   3.2,
+   ""
+  ],
+  [
+   "$DRAINED",
+   "H45vMruQdjHdSLbHwSsNR7j2GjVoaXp9W2db5Yippump",
+   0.007,
+   2.8,
    ""
   ]
  ]
