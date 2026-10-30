@@ -6998,84 +6998,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:34:54",
+   "2026-10-30T11:35:58",
    32.58
   ]
  ],
- "cycles": 3419,
+ "cycles": 3420,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.72263353535575,
- "watching": 374,
+ "sol_usd": 93.7027439167,
+ "watching": 392,
  "near": [
   [
    "Kitty",
    "2eF8F87gAADzB9SF99FMUC8YRi5RkUyDT2QM33p8pump",
-   0.896,
-   4.7,
+   0.845,
+   5.7,
    ""
   ],
   [
-   "OBELIS",
-   "BJxGZnDAmsDBDc9yGARDBcXw4GTYP1iLqniDWXrGpump",
-   0.427,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
+   "meme",
+   "vnJhoTKUaHEbGrQUYZmZSctmX3BMW7r6vTUCUA6pump",
+   0.736,
+   2.9,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "LIQUIDATE",
-   "GEDSNhHoEYbpxUGTNJE94U8KzN5eHnertNuExR4upump",
-   0.243,
-   2.8,
-   ""
-  ],
-  [
-   "Test",
-   "fT5hBZNcRtGrAqH2sA4rGZWWU9YK5deKEvfLDAoEKWy",
-   0.142,
-   5.8,
-   ""
+   "TARD",
+   "FvLt3W2zzdNNZbWxGzEfYCWJSzdp2GuMg2EwTGNhttTm",
+   0.175,
+   3.0,
+   "buyers=9; top5_hold_most=89%"
   ],
   [
    "CHILLGHOUL",
    "EdwG74FnzGDmnhs3HYpGJBqfzcAYvExynY4QVuTRpump",
    0.126,
-   5.0,
+   6.1,
+   ""
+  ],
+  [
+   "Test",
+   "fT5hBZNcRtGrAqH2sA4rGZWWU9YK5deKEvfLDAoEKWy",
+   0.12,
+   6.9,
    ""
   ],
   [
    "TEST",
    "B7p2oWRWhjgfRuEmTgZwNCMe7wp1LvdUfTNUsgSKjRcG",
    0.12,
-   4.8,
+   5.9,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Scat",
+   "3TnYkBq9qjo3w2WwthtaXJVqzZTaw1tSHVhaZon1pump",
+   0.096,
+   2.2,
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "HI",
    "89oPigY8Unc5yZjkEqwcugMThpSLS984njtUuJ8Fpump",
-   0.101,
-   9.0,
+   0.096,
+   10.1,
    "top5_hold_most=94%"
+  ],
+  [
+   "LIQUIDATE",
+   "GEDSNhHoEYbpxUGTNJE94U8KzN5eHnertNuExR4upump",
+   0.093,
+   3.9,
+   ""
   ],
   [
    "RI",
    "CKPXgHsteFw71fHJfdNWyrUxdpvbFfNPcXb8KctUpump",
    0.07,
-   6.4,
+   7.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "boo-lish",
-   "5V5HywiGRXwf7nFHiAfgxLhcnTWK3geSKMSzkPZTpump",
-   0.043,
-   7.3,
-   ""
-  ],
-  [
-   "LOOOOOOONGDO",
-   "77g26U8Mir7moMhzSNFbBfCeMpk8PdrJBrDMBN77pump",
-   0.024,
-   4.9,
-   ""
   ]
  ]
 }
