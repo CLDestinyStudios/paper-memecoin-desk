@@ -6910,83 +6910,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:09:52",
+   "2026-10-30T08:10:45",
    32.58
   ]
  ],
- "cycles": 3214,
+ "cycles": 3215,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.12,
- "watching": 291,
+ "sol_usd": 95.24775577805,
+ "watching": 285,
  "near": [
   [
    "CATPAD",
    "8uH9s9vrUK7rzeDJXxXFZcCduASLBaztgZRRDvZCpump",
-   0.632,
-   2.7,
-   "creator=34.7%; top10=49.7%; top5_hold_most=90%"
-  ],
-  [
-   "SPACECAT",
-   "BLN4c4FERWn8pf3PysRDapSKzB5JoHx9HbaxjYkEpump",
-   0.62,
-   9.3,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "CARINA",
-   "BYRASpgiS8BhFV1SC5SwqykRsYDNRBRuBnNmhZMN7jvo",
-   0.579,
-   2.4,
-   "serial_creator=61 launches/24h"
+   0.559,
+   3.6,
+   "buyers=9; creator=34.7%; top5_hold_most=97%"
   ],
   [
    "CatOn",
    "ByWRRy1rdBbYyjehiEsHq5YKZJoJNNdkyqNNhkEdpump",
-   0.407,
-   6.0,
+   0.385,
+   6.9,
    "buyers=9; creator=27.1%; top5_hold_most=97%"
   ],
   [
    "NEBULA",
    "Ge6n7haQnidP1UqUhKEEC1uxR4JkPUjEoZBwT6hspump",
    0.33,
+   3.4,
+   ""
+  ],
+  [
+   "CosmicCat",
+   "grKT2tqJ7RFzSSEX1sCeSqhLKrYWeoZwXLFhyvXxjjN",
+   0.287,
+   8.5,
+   ""
+  ],
+  [
+   "FUTURE",
+   "9KMTGx9nyxidkHSToa6jYrRx2B5qjtqTUWeutoHKNaNu",
+   0.191,
    2.5,
    ""
   ],
   [
-   "GAME MEME",
-   "CHXdwaiCL5Ws5okjWwKyAK5u6TdMmd7R3fGLC1Wcpump",
-   0.142,
-   9.6,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
    "$NNN",
    "3jTnwyNu9FdehmUk1S4ktGLUrvLnWi5iB95fvcWtpump",
-   0.104,
-   3.9,
-   "buyers=4; top5_hold_most=100%"
+   0.1,
+   4.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Buttigieg ",
    "AbaVzFBs99eCARKoBRC49hgpnNVf5TfUnwSRmVRJpump",
    0.097,
-   8.0,
+   8.9,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "FIM",
+   "9kuxZrxJbBvSm8t4VTk5Vo7XMUu625F512LirWLKHWNK",
+   0.074,
+   2.0,
+   ""
   ],
   [
    "NEBULA",
    "TQokowM7Wbys3QpksmATCfeMRDDHvmdLHDBrRgSpump",
    0.071,
-   6.9,
+   7.8,
    ""
   ],
   [
-   "CosmicCat",
-   "7ADKuBwnz9XP95QstkrRr4tSdnwBt548E892LFcfpTru",
+   "Cramer",
+   "76WHooKHQqfJ5wsukBZD56YbQenkKoi7vPdbijHtpump",
    0.064,
-   7.4,
+   3.2,
    ""
   ]
  ]
