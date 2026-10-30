@@ -7072,81 +7072,85 @@
   [
    "2026-10-30T14:29:51",
    32.58
+  ],
+  [
+   "2026-10-30T14:30:54",
+   32.58
   ]
  ],
- "cycles": 3594,
+ "cycles": 3595,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.20529425505,
- "watching": 275,
+ "sol_usd": 95.28,
+ "watching": 268,
  "near": [
   [
-   "RED STONKS",
-   "4FAjV8kJ9rz1JTXfsepXVeqe9ZbGtNxCnPt6RkSkpump",
-   0.367,
-   9.9,
-   "buyers=8"
+   "Engine",
+   "HZmTw9EUX2c6f4wcDAXhry6LcMpVzB1xYnDYCJvCpump",
+   0.795,
+   2.1,
+   ""
   ],
   [
    "AG",
    "HuLX75hyQWkhyMSDzgxkPn3xwkhUifMyo7toMYccpump",
    0.263,
-   4.8,
+   5.8,
    "buyers=8; top5_hold_most=98%"
   ],
   [
    "Animals",
    "D68wMzry61bH3CvqwzTW5wFcqSLAZSEdNnh88nT7pump",
-   0.196,
-   2.6,
+   0.171,
+   3.7,
    ""
   ],
   [
    "MANANA",
    "HbU3HZVx7GgqgukPMr1wq9KVwvhaWufQzfUmCyyopump",
    0.126,
-   3.8,
+   4.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "#pumptrad",
    "EjZFs6H8jCfw5G1PAU6Qqo126Hqmhx2SYHTGnUZvpump",
    0.126,
-   4.7,
+   5.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "GCAT",
-   "HG4ojdCHjPSNJdwkGdAgW52qMUoDUx9MYFD4hPE5pump",
-   0.089,
-   7.2,
-   "buyers=2; top5_hold_most=100%"
+   "CALLED",
+   "6VQhCnZx71ChqPEqdBbtwVNbK5ZGPMjaXtt23CcBpump",
+   0.125,
+   4.3,
+   ""
   ],
   [
    "MIGA",
    "Do5HabL1DoKz4oxEVhE94NbpysESvcCGJvNwtMsBpump",
    0.08,
-   4.1,
+   5.2,
    "top5_hold_most=97%"
   ],
   [
-   "MIKOL",
-   "Aa4UesrgHqAuXZWPrZuEP94F9si6EGcmhTiwkUvQpump",
-   0.072,
+   "GCAT",
+   "HG4ojdCHjPSNJdwkGdAgW52qMUoDUx9MYFD4hPE5pump",
+   0.064,
+   8.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "SAFE",
+   "9omsAXpoQsxS1YywmJwW8NXn1LQ19zZ3pEVmB9m4pump",
+   0.063,
    2.4,
-   ""
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
-   "MINEDOG",
-   "J1WoXWks4xjMM3d4GJgc9A4tJG72nJf9S92qA3rNpump",
-   0.045,
-   9.9,
-   ""
-  ],
-  [
-   "BCAT",
-   "C15yvfF6KfL785p5mi8RdrU8SATHtduixpT7PXnfpump",
+   "megga",
+   "E7jhmPWViLxs2s1De8dvT6nGRHUR9vqCU7E4hxLApump",
    0.043,
-   8.7,
+   2.2,
    ""
   ]
  ]
