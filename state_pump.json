@@ -6632,81 +6632,85 @@
   [
    "2026-10-29T21:18:24",
    32.58
+  ],
+  [
+   "2026-10-29T21:19:16",
+   32.58
   ]
  ],
- "cycles": 2564,
+ "cycles": 2565,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.39,
- "watching": 124,
+ "sol_usd": 97.35532076495,
+ "watching": 120,
  "near": [
   [
    "HYPE SAHUR",
    "D5UhvAyeYpnUgwn8Eyr3V9Tm1CQaksYK6DaKrgMhpump",
-   0.363,
-   7.9,
-   "creator=21.8%; top5_hold_most=83%"
+   0.377,
+   8.8,
+   "creator=21.8%"
   ],
   [
    "Cyber 9/11",
    "EHxP27b64N48fDtiSkXcQQP9sYwwoYLyuE6KnQsdpump",
-   0.299,
-   8.6,
-   "buyers=6; creator=15.2%; top5_hold_most=95%"
+   0.324,
+   9.5,
+   "buyers=8; creator=15.2%; top5_hold_most=87%"
   ],
   [
    "Bitcoinfun",
    "22WiR3pKj655oQMV2SKrfiVjMU9QDTT1sosYoKBXpump",
-   0.187,
-   6.7,
-   "buyers=5; top5_hold_most=100%"
+   0.189,
+   7.5,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
-   "Blind",
-   "D36xmF3GaEiD1GTqrbmV6kB2A87vvQoKrzsW51kQpump",
-   0.176,
-   2.6,
-   "top5_hold_most=86%"
+   "NIS",
+   "EtGPdw2McZ7FfgZub8U5oBU87HxrGEMkEqPXeJ6jpump",
+   0.125,
+   2.7,
+   "top5_hold_most=80%"
+  ],
+  [
+   "laptop",
+   "3KT8sPvdxxkD9mwZ81c3Pbt3pE9A9mE82qVzqZZ5pump",
+   0.079,
+   2.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "ANNOUNCEMENT",
+   "2QdMguU66Cv5PdqPMG29kPW5UhVEWUjt3gvJc2rTpump",
+   0.071,
+   2.8,
+   ""
+  ],
+  [
+   "BLIND",
+   "6zKupgTwbpecTKnyzzVA2cn7iZdvhKigXLBxjiscpump",
+   0.05,
+   2.8,
+   ""
   ],
   [
    "LCAT",
    "87GMBFYRoi5S7S2ooAJ38sdZwvMsikTyqqFvLJg7pump",
    0.044,
-   5.6,
+   6.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Blind",
+   "D36xmF3GaEiD1GTqrbmV6kB2A87vvQoKrzsW51kQpump",
+   0.043,
+   3.5,
+   "top5_hold_most=86%"
   ],
   [
    "Memecoins",
    "HrJxe2zMjjJLpT8uG8ThxNMKXtEEmjCGajKMzmnUpump",
    0.033,
-   3.0,
-   ""
-  ],
-  [
-   "Robinhood",
-   "DAeeQa5AAXVrvwe4KNJ1BUKh5xjMKpoDzVdRBeeDpump",
-   0.027,
-   3.3,
-   ""
-  ],
-  [
-   "Neuralnauts",
-   "EZ9fU6ufhR7oq8xXkbY33PLGi9agHFFjFuGZKwSFpump",
-   0.027,
-   4.1,
-   ""
-  ],
-  [
-   "TESLA 2027",
-   "yFBrdWePgkkHNnS5yFoF6ccbh7591G6CmV2th9hpump",
-   0.026,
-   5.0,
-   ""
-  ],
-  [
-   "MP",
-   "3NeYLrmpVYFbbWncFmE5Wir9icBWLoRnhpk2bsB5pump",
-   0.014,
-   8.6,
+   3.8,
    ""
   ]
  ]
