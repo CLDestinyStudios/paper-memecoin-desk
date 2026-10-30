@@ -6830,84 +6830,84 @@
    32.58
   ],
   [
-   "2026-10-30T05:06:46",
+   "2026-10-30T05:07:46",
    32.58
   ]
  ],
- "cycles": 3032,
+ "cycles": 3033,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.40479446475001,
- "watching": 131,
+ "sol_usd": 96.466789563,
+ "watching": 128,
  "near": [
   [
    "SCHAIN",
    "DB6qKJfNpyAst9UpGListWXqDfQomYegpYqwtee4pump",
-   0.497,
-   5.2,
+   0.472,
+   6.2,
    ""
   ],
   [
    "HREX",
    "4gWxN4LDuJi4TevDycWYVMPrpjDQipK56DeThHqQpump",
-   0.367,
-   4.3,
+   0.324,
+   5.3,
    ""
   ],
   [
    "FlipFlop",
    "85ofjEuWPtjRSr3uGiCWsjPZAj8LnxzGLN499nsfpump",
-   0.119,
-   3.4,
-   "buyers=1; top5_hold_most=100%"
+   0.12,
+   4.4,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Undo",
+   "43nyLJryDSEkMYJWDuxKTLCxDmU8xDbTRdM5bZM3pump",
+   0.094,
+   3.0,
+   ""
   ],
   [
    "Memecoin",
    "3dnVZcHxF6BcPVDQ1DJWQpBbMrSM1kXDpSEMyS3Vpump",
    0.056,
-   4.1,
+   5.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "Laptop",
    "AARzSskLntyKofSY84sUaUbr6Cka9wUG3BfN364rpump",
    0.043,
-   6.2,
+   7.2,
    ""
   ],
   [
-   "Barrio",
-   "3JfTsaahCKEgCUNCKYXG5Yf5sBq8gaCkQT8z8GCEpump",
-   0.03,
-   9.2,
+   "$PORSHE",
+   "DRG8QEogHbER7VetVPgeBZnxWPyMN1ZHNLgtcwQ7pump",
+   0.039,
+   2.5,
+   ""
+  ],
+  [
+   "Loan",
+   "9A74rF1MfhhutszFbVcdDYRjhX7b76HfH2EEe5mspump",
+   0.038,
+   2.2,
+   ""
+  ],
+  [
+   "PF",
+   "9hApmBQim9zNxEor6KyCwNxMdRzaMuMF6jTARAvBpump",
+   0.028,
+   2.0,
    ""
   ],
   [
    "Laptop",
    "yu967y1j5zjmXdfDR7zG4tBzfV78q8FpoJrBYJLzzcC",
    0.025,
-   5.9,
+   6.9,
    "buyers=7; top5_hold_most=99%"
-  ],
-  [
-   "HOVR",
-   "29vePA9UGPs5oeGXU2QjnT61xRRbTSM7t3YetJuapump",
-   0.01,
-   9.4,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "NAHDUCK",
-   "FAkRPAjLhniPq3Ta7bi7NGk2ATtBMrQerTkJ8UEipump",
-   0.006,
-   9.5,
-   "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "RETIRED",
-   "GpXZwFLRH2gBVugSEYpd1Hm9bqCWwR9AcdeGqiWwpump",
-   0.005,
-   8.4,
-   ""
   ]
  ]
 }
