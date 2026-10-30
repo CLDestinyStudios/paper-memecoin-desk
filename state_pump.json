@@ -6838,83 +6838,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:22:47",
+   "2026-10-30T05:23:48",
    32.58
   ]
  ],
- "cycles": 3048,
+ "cycles": 3049,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.45000000000002,
+ "sol_usd": 96.4703671525,
  "watching": 146,
  "near": [
   [
-   "OPENFOX",
-   "FQv2UNZjVKaquQyA16UoX796UbhBMWBwapvMmPDepump",
-   0.32,
-   2.5,
-   "buyers=9; top5_hold_most=95%"
+   "SI",
+   "bMasZJEjbACK2cy8wwSEvKPAQxRsBQXAnmuy7J9AhEY",
+   0.497,
+   3.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "NARCO-CHEESE",
    "7sDPTjpXzRHrTZ6ujATmGyVNHZe1Hv6apqr4GgwApump",
    0.094,
-   5.5,
+   6.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "KI",
    "GZQwJnXSffCjtnfmBW8qJiqLroTbXoayCXAC2VqJpump",
    0.091,
-   7.6,
+   8.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Acat",
+   "BGCxBfE9RMxr4WnGNU1JrScH8g5FsZ3eZkD9dxgXpump",
+   0.059,
+   2.6,
+   ""
   ],
   [
    "\u671d\u9c9c\u725b\u903c",
    "D35q9HYDv3pwezKZQMLRdn9mV5WsA4YvDYUGwK7Ypump",
    0.047,
-   8.1,
+   9.1,
+   ""
+  ],
+  [
+   "PILL ",
+   "GX3hFDvuNXN1hZ27cdV2Cx1MYm8pNWyjzc6rNSLypump",
+   0.038,
+   2.8,
    ""
   ],
   [
    "OPENFOX",
    "HdPWbZWXCGZfgXet2BPsUo885FD5vx4D3yTfknJzpump",
    0.024,
-   5.4,
+   6.4,
+   ""
+  ],
+  [
+   "Lucia ",
+   "D4TZGPuU7XoiNRk2X5SzsiQb4QMX3NHNbuejjeTBpump",
+   0.022,
+   2.3,
+   ""
+  ],
+  [
+   "CHILLUN",
+   "6hNMjTiWainr6hfBWeQiSuE2oPMcj1zPRrG2BWa8pump",
+   0.017,
+   2.6,
    ""
   ],
   [
    "STOPTROLL",
    "4gcyzBJyLv6Z3L7vuhCastubT6gzwUpq8Va24M1Apump",
    0.016,
-   8.6,
-   ""
-  ],
-  [
-   "CZELON",
-   "4RsmXsdavALeVfCerUJLAQ558atuRURxzPPowABKpump",
-   0.014,
-   3.2,
-   ""
-  ],
-  [
-   "Ansem",
-   "8PKufqqvYVyY8B4eWaLULpKbym2enpPQLXRo8ydvpump",
-   0.012,
-   4.0,
-   ""
-  ],
-  [
-   "FLW",
-   "GepCb6zAPeYv676UqPkoa6bX43fEP5zbjEBzckq3pump",
-   0.011,
-   6.3,
-   ""
-  ],
-  [
-   "Paul",
-   "AEUDFU2NgTgpbmVzhN9vP6A5aiVnBjRgf4T9N766pump",
-   0.007,
-   8.4,
+   9.6,
    ""
   ]
  ]
