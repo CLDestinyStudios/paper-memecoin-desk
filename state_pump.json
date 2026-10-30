@@ -7110,84 +7110,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:59:57",
+   "2026-10-30T16:00:58",
    32.58
   ]
  ],
- "cycles": 3684,
+ "cycles": 3685,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.70999999999998,
- "watching": 251,
+ "sol_usd": 95.72,
+ "watching": 250,
  "near": [
   [
-   "Hellowpad",
-   "9mhKhEFywRDpXSXMMyRXtUi8fHde9MHZwwAhvmMZpump",
-   0.568,
-   3.3,
-   ""
+   "KNUT",
+   "BN7HPXrs42u99gqRPaLPg6fMN6Kb58tY9PueePj3pump",
+   0.438,
+   2.4,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "$CCOW",
    "Au233mR6m2h3WxfUabbxiT1WsfakLgKNzX9hNhHbpump",
    0.27,
-   4.6,
+   5.6,
    "top5_hold_most=86%"
   ],
   [
-   "HALLOWEEN",
-   "BXmoJ3a7deqe9dGxGTqe8SJJf63X4n6uEPUwm257pump",
-   0.128,
-   5.4,
-   "buyers=3; top5_hold_most=100%"
+   "BSOL",
+   "7QbAZpoMWH6eDCdEyyBtj24gnnH6LJ2XpmeL3Pu1pump",
+   0.148,
+   2.4,
+   "top5_hold_most=83%"
   ],
   [
    "PROPHECY",
    "4eFcPpCsHFJ3gfjgCXoY1N4gzXR6TBpuTmGqeXN2pump",
    0.127,
-   6.5,
+   7.5,
    "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "Bsol",
-   "ApgKrrQ6QexXV1fWRk6iXsytjaZ3ax12gJT5nPfxpump",
-   0.112,
-   2.3,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "3inches",
    "u3RV756Nqd9VdKDLHWCfHsph5WeQRuGAcGiBFmQpump",
    0.11,
-   8.0,
+   9.0,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "CWC",
+   "3ropBGsQ8nbmMvSSUqAwRBjxuFbHkXxpS4uhh6Ynpump",
+   0.106,
+   3.6,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "KK",
+   "FpjhqT2MzJNQaTU5V3FkNdTsCmJYGxyuep4uQ5kqpump",
+   0.105,
+   2.2,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "AAPL",
+   "3oXme1FGQ8bM55wPmJBsA6idoYzwx3KUPcB7YFJSpump",
+   0.099,
+   2.2,
+   ""
+  ],
+  [
+   "HALLOWEEN",
+   "BXmoJ3a7deqe9dGxGTqe8SJJf63X4n6uEPUwm257pump",
+   0.083,
+   6.5,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PRSD",
    "RvYMtYoFpnMK9TWYvBBNwpMk3TbPXzKKJkMcYJjpump",
    0.075,
-   4.9,
+   5.9,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "CWC",
-   "3ropBGsQ8nbmMvSSUqAwRBjxuFbHkXxpS4uhh6Ynpump",
-   0.073,
-   2.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "COMMAS",
-   "6zk1bmh2jinyy5TuYBEa94yukkouyXbXGiNcS6Mapump",
-   0.044,
-   8.5,
-   ""
-  ],
-  [
-   "DOWNLINK",
-   "EpgsTB2jgN1bvQkdy7awQBEaDPibcrFFSoE8fVUBpump",
-   0.032,
-   2.4,
-   ""
   ]
  ]
 }
