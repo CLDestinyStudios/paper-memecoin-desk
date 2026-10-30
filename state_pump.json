@@ -6668,82 +6668,86 @@
   [
    "2026-10-29T22:44:18",
    32.58
+  ],
+  [
+   "2026-10-29T22:45:18",
+   32.58
   ]
  ],
- "cycles": 2650,
+ "cycles": 2651,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.1609,
+ "sol_usd": 98.18495,
  "watching": 147,
  "near": [
   [
    "BSVtony",
    "JC3qfAPVyPBR7C9tHxonGHWNXmaeCr5Wa5wn8VTCpump",
-   0.54,
-   7.7,
+   0.614,
+   8.7,
    ""
   ],
   [
    "CTN",
    "AcfUdwLpenYim9WmZvECwspkjs7STL3gKt5Bz3HUFFrq",
-   0.278,
-   9.0,
+   0.274,
+   10.0,
    "buyers=9; top5_hold_most=85%"
   ],
   [
-   "Fairgate",
-   "AGKB734xmTe6ZDM6hTP5JEstqiXB9Bq99DbCU8y1pump",
-   0.21,
-   2.4,
-   "buyers=9"
-  ],
-  [
-   "Charmeleon",
-   "9CRXgV84rRuhMGSsB9s9QAEKBBF6CvUHcz3jFAsrpump",
-   0.166,
-   3.0,
-   "top5_hold_most=83%"
+   "TIKEMYSON",
+   "82t53skruMRMNvPxoQY4U3ghHpVNcormBmgcan1Spump",
+   0.22,
+   2.8,
+   "buyers=8; top5_hold_most=81%"
   ],
   [
    "LEGS",
    "EvghFbQjRmArAHofScAV9Pzn91H8UuB2ZTNMDZtFpump",
    0.143,
-   4.6,
+   5.6,
    "buyers=7; top5_hold_most=90%"
   ],
   [
    "Lazarus",
    "FeFqCreNPey3B6tWAyFvbTmu48BGQEBsT7d8jmZUpump",
    0.116,
-   2.4,
+   3.4,
    ""
   ],
   [
    "dessa",
    "74hnM4zTyvtVDqcBaFsCUvAhp3eUuXuQVKTdybrPpump",
    0.083,
-   6.0,
+   7.0,
    ""
   ],
   [
    "p/acc",
    "FWnobtqSkwrdeRgFDcM1esuYSCruhEJ3D66ZRZMCpump",
    0.083,
-   3.0,
+   4.0,
    ""
+  ],
+  [
+   "Charmeleon",
+   "9CRXgV84rRuhMGSsB9s9QAEKBBF6CvUHcz3jFAsrpump",
+   0.079,
+   4.0,
+   "top5_hold_most=83%"
   ],
   [
    "SEC",
    "9NyNjahGs5RsdPquBfWRZyMzpzP2ojRhYXyFmwVUAwXf",
-   0.074,
-   3.3,
+   0.073,
+   4.3,
    ""
   ],
   [
-   "HYPERFARM",
-   "7CzrU3TMtoW1ToqBV5qjAHMuiHBQ3pFMVg6DjtPUkSE3",
-   0.043,
-   7.9,
-   ""
+   "McTyson",
+   "YUt1J7kcRmJxLye2XKq3RyBB58VihPsXorvWJ9Tpump",
+   0.055,
+   2.1,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
