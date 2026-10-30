@@ -6926,84 +6926,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:46:45",
+   "2026-10-30T08:48:05",
    32.58
   ]
  ],
- "cycles": 3251,
+ "cycles": 3252,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.19999999999999,
- "watching": 258,
+ "sol_usd": 94.22634245655,
+ "watching": 270,
  "near": [
   [
    "TIMOTHY",
    "D67RnEuhQut5PSkiyAvu8NFQZzFmSNjBQaiHRKnppump",
-   0.678,
-   3.3,
+   0.804,
+   4.6,
    ""
   ],
   [
    "Pepe",
    "61nuov2ntsLW9jXUwgtc2NDXx7qwbF8BZduna5sJpump",
-   0.667,
-   4.9,
+   0.729,
+   6.2,
+   "serial_creator=15 launches/24h"
+  ],
+  [
+   "CI",
+   "9f4gF3h9pvcn57UeEytooTn3W64Q6h28XnS8JPMapump",
+   0.654,
+   2.7,
    ""
   ],
   [
    "PUMPPERPS",
    "4fT2wAzKqT1vbHV3EXPjvdYgaa1nHxWBfCTzh3Wopump",
-   0.519,
-   4.1,
+   0.545,
+   5.4,
    ""
+  ],
+  [
+   "INSTAPAD",
+   "kFVYGtmxZaAUbc9M3gT3o5wwsFeQojq9y6AHFC3pump",
+   0.472,
+   2.5,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "survive",
+   "2PiT8jfP7VuSEpSFw4LWtcj2P6488MbVadW3Vmiqpump",
+   0.404,
+   2.5,
+   "launch_slot=missing"
   ],
   [
    "Honey",
    "5jk7Wi6DkCDnVRFC5VGP8pv7V2h1m1jmSk2vPummpump",
-   0.299,
-   6.8,
+   0.277,
+   8.2,
    ""
   ],
   [
    "DD",
    "H1YKZMHafmgTugP9XiimNP4rvGgtwtZW7eNwGT4ypump",
    0.218,
-   8.2,
+   9.5,
    "buyers=7; top5_hold_most=85%"
   ],
   [
-   "FAGGOTS",
-   "GjrscsZhAvGJPSU9iHKg8w1NpSavwGvpdjvf3HxWpump",
-   0.172,
-   5.6,
+   "paranoid",
+   "H3Ni9zKDHj2Ric9T924uBSho8QUWXHV9WVkLVMCupump",
+   0.199,
+   2.4,
    ""
   ],
   [
-   "survive",
-   "5soGoMWHPBotwQbnjraz3wKTi4ukc2xir6W7xtnvi81y",
-   0.157,
-   3.9,
-   ""
-  ],
-  [
-   "UNSEEN",
-   "FsuXVeFi7QjSGqMuCeaRWUtKXFbcEcgzQxj4zzkhpump",
-   0.122,
-   8.7,
-   ""
-  ],
-  [
-   "SIX",
-   "EWLY2Qt86LxLGV4hP3RnWpfxGmuRc7LVYiaSSk8Lpump",
-   0.087,
-   3.2,
-   ""
-  ],
-  [
-   "Fish",
-   "F1DM6e2BqfndCzDFSxa119uDReDN8sgrDzfkx8kgjkcL",
-   0.072,
-   2.5,
-   ""
+   "AI",
+   "APSZ5FUjywy6iWhEAVXo1rmyRhtdfFimQjn2QoRNpump",
+   0.179,
+   3.3,
+   "launch_slot=missing"
   ]
  ]
 }
