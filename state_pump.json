@@ -6798,83 +6798,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:46:45",
+   "2026-10-30T03:47:45",
    32.58
   ]
  ],
- "cycles": 2952,
+ "cycles": 2953,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.76208561205002,
- "watching": 221,
+ "sol_usd": 96.81000000000002,
+ "watching": 213,
  "near": [
   [
    "HUGE",
    "2Y2BzPy4MmaXbwWRogEdFLVyBXjKZR8VfhHHy8XUpump",
-   0.87,
-   3.4,
+   0.826,
+   4.4,
    ""
   ],
   [
    "DAEMON",
    "2211sKbQxtB84KD6e73ZEKar8vRYpNyqfpg8QX3Tpump",
-   0.743,
-   3.6,
+   0.762,
+   4.6,
    ""
   ],
   [
    "FBinance",
    "8ozbviNRSmeBP8tJyaK92XdrN3ceHqVpDLnP25DRpump",
-   0.591,
-   2.8,
-   "creator=41.4%; top10=46.3%; top5_hold_most=98%"
+   0.601,
+   3.8,
+   "creator=42.0%; top10=47.1%; top5_hold_most=98%"
   ],
   [
    "SBF",
    "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
    0.273,
-   8.0,
+   9.0,
    ""
   ],
   [
    "ATONKY",
    "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
    0.252,
-   5.5,
+   6.5,
    "top5_hold_most=86%"
-  ],
-  [
-   "ke3d",
-   "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
-   0.226,
-   4.8,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "HUGE",
    "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
-   0.197,
-   5.3,
-   "buyers=5; top5_hold_most=100%"
+   0.243,
+   6.3,
+   "top5_hold_most=90%"
+  ],
+  [
+   "ke3d",
+   "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
+   0.193,
+   5.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "COFFIN",
    "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
    0.167,
-   3.4,
+   4.4,
    "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "BOOT",
-   "CbRjhyAjgzusCdgFZvhaAX9ivy3BVWEvnbeK4v1upump",
-   0.133,
-   4.8,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "VICE",
    "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
    0.133,
-   8.1,
+   9.1,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "SIDE",
+   "7XCKCSPn2auKGi3dknXEveWihv9ZbtZ7kBENRmGZpump",
+   0.125,
+   3.1,
    "buyers=4; top5_hold_most=100%"
   ]
  ]
