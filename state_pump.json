@@ -6998,84 +6998,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:37:50",
+   "2026-10-30T11:38:55",
    32.58
   ]
  ],
- "cycles": 3422,
+ "cycles": 3423,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.78033691585,
- "watching": 423,
+ "sol_usd": 93.8,
+ "watching": 409,
  "near": [
+  [
+   "KEYBOARDCRAN",
+   "DZWR3Q9HXww6XoqKKTjD34zF8eAMXG7sPousH3zppump",
+   0.957,
+   3.1,
+   ""
+  ],
   [
    "Kitty",
    "2eF8F87gAADzB9SF99FMUC8YRi5RkUyDT2QM33p8pump",
-   0.848,
-   7.6,
+   0.89,
+   8.7,
+   ""
+  ],
+  [
+   "cloakd",
+   "GyvSQuXHeUbsMTjHPT5tn9WeqD2DjhNmHmpsuXjXpump",
+   0.341,
+   2.7,
    ""
   ],
   [
    "HALLOWIFY",
    "EZTDdBUVV7MbogmHa3HXt7KAgzitwHsEKpsWC5dNpump",
-   0.277,
-   2.9,
+   0.262,
+   4.0,
    ""
   ],
   [
-   "MOTLEY",
-   "HNXDh8RvBME13MJhPSSZ7Qg6BJx1TJ3FFWcDZw5ypump",
-   0.193,
-   3.0,
-   ""
+   "CZ",
+   "ohbMeKEjc9mJjBzzu6fxS8Pxpjgjk7ebY35N1N7pump",
+   0.231,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Wangcai",
    "9fBr7XDURHDUZnzNdMJzd3N38GUVfekCjUdoHaYwpump",
-   0.175,
-   3.9,
+   0.178,
+   4.9,
    ""
   ],
   [
    "TARD",
    "FvLt3W2zzdNNZbWxGzEfYCWJSzdp2GuMg2EwTGNhttTm",
    0.173,
-   4.9,
+   5.9,
    "buyers=8; top5_hold_most=90%"
   ],
   [
    "TEST",
    "B7p2oWRWhjgfRuEmTgZwNCMe7wp1LvdUfTNUsgSKjRcG",
    0.12,
-   7.7,
+   8.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Test",
    "fT5hBZNcRtGrAqH2sA4rGZWWU9YK5deKEvfLDAoEKWy",
    0.086,
-   8.7,
+   9.8,
    ""
   ],
   [
    "Scat",
    "3TnYkBq9qjo3w2WwthtaXJVqzZTaw1tSHVhaZon1pump",
    0.081,
-   4.0,
+   5.1,
    "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "RI",
-   "CKPXgHsteFw71fHJfdNWyrUxdpvbFfNPcXb8KctUpump",
-   0.07,
-   9.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "3BSFAN",
-   "7e7Q5eNS98LH4YpHhBw5ZwHpeD7VThDfun6LZveJpump",
-   0.068,
-   2.2,
-   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
