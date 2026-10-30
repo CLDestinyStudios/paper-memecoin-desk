@@ -6658,83 +6658,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:17:16",
+   "2026-10-29T22:18:17",
    32.58
   ]
  ],
- "cycles": 2623,
+ "cycles": 2624,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.63,
- "watching": 162,
+ "sol_usd": 97.69829999999999,
+ "watching": 153,
  "near": [
+  [
+   "WARS",
+   "13wdtUMkhFicqcPK9Gh5F2JBkV4aRULGCsLxwiJ2pump",
+   0.793,
+   2.3,
+   ""
+  ],
+  [
+   "LMB",
+   "3YMTh2tagdg5rq99qa4zGHLyCKj7h8R9cWqhA9Adpump",
+   0.553,
+   2.9,
+   ""
+  ],
   [
    "AGENT",
    "AyaTvydf6VT39LB92R8T8CfdTfkCEgQK4NqCG4KQpump",
-   0.17,
-   4.1,
+   0.185,
+   5.2,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Dividend",
-   "BX25CJmLmjBJoNBBEpJ2uzCv6mgfJbRDY5dnF3pJpump",
-   0.123,
-   6.9,
-   "top5_hold_most=82%"
   ],
   [
    "ZERODAYBOT",
    "HbifskpNgaS9geGLkpp98h5xAjzxriWmJdd4pyRopump",
-   0.095,
-   5.9,
-   "buyers=9; top5_hold_most=96%"
+   0.138,
+   7.0,
+   "top5_hold_most=90%"
   ],
   [
-   "SI",
-   "FwDwZJTgScbP8eTKP21wxyWx8eGCYBkWigk94Vtupump",
-   0.05,
-   3.6,
-   "top5_hold_most=94%"
+   "BearTrap",
+   "7oCN5Nk3XZYYtkhMypUWEJwbaDcdddXDgKkrh9cHpump",
+   0.1,
+   2.6,
+   ""
+  ],
+  [
+   "Dividend",
+   "BX25CJmLmjBJoNBBEpJ2uzCv6mgfJbRDY5dnF3pJpump",
+   0.091,
+   7.9,
+   "top5_hold_most=82%"
   ],
   [
    "virus",
    "BXsSuomXnCfc3sv4gaQ9kL12PjQczo1zkua4Y7Egpump",
    0.041,
-   6.5,
+   7.5,
    ""
   ],
   [
    "ElonsDoge",
    "4r74wn2uwoVF3nygyVXxGnp9MQ43MykYTRsDdZ54pump",
    0.039,
-   6.4,
+   7.4,
    ""
   ],
   [
    "MELONX",
    "BLzSF74k4boR3PTQqaBXjkumSTgvPQyackZbtiappump",
    0.03,
-   2.6,
+   3.6,
    ""
   ],
   [
    "DOG",
    "5dEFT1zzirhVNiiUsLVrbpQ5Q4fLNHgUsAuMhWKYpump",
    0.022,
-   7.9,
-   ""
-  ],
-  [
-   "TEST",
-   "EWAnzSFVUhGczkkHt5CQrfbipvzPCDDjv5qFs7bwXLgt",
-   0.02,
-   2.1,
-   ""
-  ],
-  [
-   "GROKBOT",
-   "3dVeXZWCFMSuh5TiEdDNwqBFqzeRoPbouJ9cpUnepump",
-   0.014,
-   8.5,
+   8.9,
    ""
   ]
  ]
