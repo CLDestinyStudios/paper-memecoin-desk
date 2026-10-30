@@ -6622,83 +6622,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:51:19",
+   "2026-10-29T20:52:20",
    32.58
   ]
  ],
- "cycles": 2537,
+ "cycles": 2538,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.842477861,
- "watching": 168,
+ "sol_usd": 96.99788499999998,
+ "watching": 170,
  "near": [
-  [
-   "GIMODELO",
-   "8yi9BX7moUYQBcyDcf85J4KA982GEM6xojvvCuaepump",
-   1.0,
-   2.5,
-   "graduated"
-  ],
   [
    "Doxxd",
    "3Pk7Va5QJoFMTjNTHcTz7NMm7bqAFPNbdCg2vwfopump",
-   0.721,
-   3.6,
+   0.705,
+   4.6,
    ""
-  ],
-  [
-   "https",
-   "7a4r5iESFo36yJBCojoYxThmTRoZhZ4dyfCHVThcpump",
-   0.632,
-   7.6,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "QC",
-   "13ojgywqE64DbR5bQbJxfZVtoUPKfrqk7ojQknuUpump",
-   0.496,
-   2.9,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "1",
-   "CFFm4UdGo7S8PSh3KRoLxh6z22o8bAwpBx8b374Zpump",
-   0.193,
-   2.2,
-   "top5_hold_most=98%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "cz",
    "5v11RqKJ8v3xfZe18ArEtGGa224BzDEf5Gce8QUPpump",
-   0.167,
-   4.8,
+   0.168,
+   5.9,
    ""
-  ],
-  [
-   "CYBERCOP",
-   "24bD4UTMnRu7PpaKtwFiP3dh4BkviK41pcpxaazwpump",
-   0.157,
-   4.3,
-   "top5_hold_most=83%"
   ],
   [
    "STILL",
    "8cyNyta1TwXZ7i8JTuNW8c3tQ4xi2bpj2jtnkHMvpump",
-   0.122,
-   3.0,
-   "top5_hold_most=94%"
+   0.156,
+   4.0,
+   "rugcheck=creator history of rugs"
+  ],
+  [
+   "QI",
+   "EHk1zgs2VTN2nmxRWM21nqhaZ6zgEu9JKknWRRdApump",
+   0.141,
+   3.1,
+   ""
+  ],
+  [
+   "USA",
+   "9FC9vXYydFpwESk2aDKcxcyxDpbyUjogtXndMH1jpump",
+   0.137,
+   7.3,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Compoot",
    "GMGHFWpZQzR8pdyQ8qUQNeoAxKVKjdcZVxAPrGSRpump",
    0.1,
-   8.5,
+   9.5,
    ""
   ],
   [
-   "QI",
-   "EHk1zgs2VTN2nmxRWM21nqhaZ6zgEu9JKknWRRdApump",
-   0.092,
-   2.1,
+   "IRI",
+   "6SH4Li8RVMTsz1LcRvAnp6XUDYTx6frhN86RVf5Ppump",
+   0.077,
+   4.8,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "DRUCKENLARPE",
+   "34DTMXBYrYKJR9zspKz4Qw9kSSQztCvBJcA7Cwaipump",
+   0.073,
+   3.9,
+   ""
+  ],
+  [
+   "together",
+   "GUQnTWw2JMsyWNYjk2HAYDAjkhdvP59LfBynAynppump",
+   0.057,
+   2.5,
+   ""
+  ],
+  [
+   "HYPR",
+   "7uoazVS2tixk6Ynr86nijjKtGPTh7aW7duXhFsghpump",
+   0.045,
+   8.9,
    ""
   ]
  ]
