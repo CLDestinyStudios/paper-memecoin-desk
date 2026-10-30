@@ -6562,84 +6562,84 @@
    32.58
   ],
   [
-   "2026-10-29T18:35:15",
+   "2026-10-29T18:36:25",
    32.58
   ]
  ],
- "cycles": 2401,
+ "cycles": 2402,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.1622963101,
- "watching": 173,
+ "sol_usd": 94.23,
+ "watching": 168,
  "near": [
   [
    "November",
    "C8HVss8gdxh46AQVX2uBWXsPebdn2Y6iP5vZwCnJpump",
-   0.901,
-   3.0,
+   0.824,
+   4.2,
    ""
   ],
   [
-   "VTUBE",
-   "BvPB7N3unn4XLEUaakwZG16Cau3xT97kzWwU17MEpump",
-   0.237,
-   3.5,
-   ""
+   "Simple",
+   "457yoDmumd1m41yr1gLzG284PAnLACeQqktxvF7Ypump",
+   0.624,
+   2.9,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "UPVOTE",
+   "6YunsUUbr7sNc12B5wd3exn7X9Uqp5fh62smKwDnpump",
+   0.271,
+   2.9,
+   "top5_hold_most=88%; launch_slot=missing"
   ],
   [
    "FTONE",
    "39S8NhXmN53LNGXXvQnETiXEjmnvnBYQsCejYjt3pump",
    0.158,
-   3.8,
+   5.0,
    ""
   ],
   [
    "MBLCK",
    "BZE4YaWorvmo5vJNQXEc15e1kgYRrpGMnbGPa8tKpump",
    0.11,
-   8.0,
+   9.1,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "VTUBE",
+   "BvPB7N3unn4XLEUaakwZG16Cau3xT97kzWwU17MEpump",
+   0.105,
+   4.7,
+   "buyers=3; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "fred",
+   "33tLgERcQai7gvYC9Jd8NibPdu97r9h6bz5y2nbZpump",
+   0.095,
+   2.3,
+   ""
+  ],
+  [
+   "NOVEMBER",
+   "HEYu4Dn5eL4QYtKp8My44B9DJUBLPrv4kwY5fUCbpump",
+   0.087,
+   2.3,
+   ""
   ],
   [
    "acc/tech",
    "5AbzQJSL4h3tQfXgz72v7P6sN4est2kgFhwpGWdfpump",
    0.081,
-   8.2,
+   9.4,
    ""
   ],
   [
    "Novembear",
-   "uqYe84oFr2di8Pe4Vyuq2QMtma8zPD9gtnAXQtDpump",
-   0.072,
-   2.8,
-   ""
-  ],
-  [
-   "MACPAY",
-   "BSHE5n92H61fbu86KvF4YE53HMuPZkk4ncjMuu2gpump",
-   0.041,
-   6.9,
-   ""
-  ],
-  [
-   "GEKKO",
-   "6VybPa1rbEsTdRXoKnB9FVPjvDXk8qgXhXnBnwRLpump",
-   0.027,
-   9.9,
-   "top5_hold_most=88%"
-  ],
-  [
-   "FOMO",
-   "DH4ZbtBojeJPs2tu1hmtDUtJHbrfzNY8Mhq4rxokpump",
-   0.022,
-   3.3,
-   ""
-  ],
-  [
-   "SECURE",
-   "B5Pph4AsmDAFUVi3KqgzcF3JtqyJ27pZHuJZYpqjpump",
-   0.021,
-   2.7,
-   ""
+   "z4dNQSnwzruZFujew8xsWhQA3HNJcKPhWmFi1h8pump",
+   0.074,
+   2.3,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
