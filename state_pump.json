@@ -7082,83 +7082,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:52:54",
+   "2026-10-30T14:53:53",
    32.58
   ]
  ],
- "cycles": 3617,
+ "cycles": 3618,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.30404525004998,
- "watching": 202,
+ "sol_usd": 95.31652574295002,
+ "watching": 197,
  "near": [
+  [
+   "Quick",
+   "37xGjSo7eaUQVhTVJYR4xAr9id2AAFw4GNibhaZVpump",
+   0.702,
+   2.8,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "Checkr",
+   "CAiY8irm7FP6ACyXBxFfSfksr4uxkjX4bsAysqfApump",
+   0.628,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
+  ],
   [
    "p256",
    "46YyaV4P98BJsu8z7DVQSWiZbDyYK3Mz8BcoGV8wpump",
-   0.123,
-   4.3,
+   0.169,
+   5.2,
    ""
   ],
   [
    "MARCEL",
    "G8XS5TCWowKkvTWSoFWx53GfvqKDffZYLp4fbkZtpump",
    0.091,
-   2.3,
+   3.2,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Steve",
+   "2EBNbRxPGwitCb7SxqZLFULxjnfNFtyitXtCGrDUpump",
+   0.085,
+   2.4,
+   ""
+  ],
+  [
+   "jeets",
+   "4DfJtgMHhuES5qDkjCjijpTBDXz7pLCZoepLsbZ3pump",
+   0.083,
+   2.5,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Steve",
+   "HZUfe3BHZXyEkHkWY9v4CGtYKzyhVhVgSFFXmCw7pump",
+   0.081,
+   2.2,
+   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "MBE",
+   "7Dd5TxpdpPRsGuPWmu8QhvQsvGBs7XbGpq3z2wqKpump",
+   0.051,
+   2.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "PTO",
+   "gCDov3RsMATd3j7u4pKZgxg5qB8yhAMfcuhy2wVpump",
+   0.045,
+   2.9,
+   ""
   ],
   [
    "ANSEM",
    "EKgTfGTfeDey2PYnTdBcdr26nt9vRunP8PVgFcKWpump",
-   0.061,
-   3.3,
-   ""
-  ],
-  [
-   "iMolest",
-   "57EJMqDiBmssfwnM6gmVgi41nttuJ7wjiiL9n6Adpump",
-   0.035,
-   2.1,
-   ""
-  ],
-  [
-   "Animals",
-   "Hup4W8EmQbjkWDSCmJhHr7wopgHMuQJLwdD5obSpump",
-   0.031,
-   3.9,
-   ""
-  ],
-  [
-   "A&A",
-   "EEoS5GqX12VXDrh7TYfu8QSJiyRjYjHEkMDGdroWpump",
-   0.031,
-   9.5,
-   ""
-  ],
-  [
-   "$ROAR",
-   "C5ZW4uepyxgwX2KHxvTH4BeEoxBvLwK1uNubvLT4pump",
-   0.029,
-   4.9,
-   ""
-  ],
-  [
-   "NEVER",
-   "9BzhGtvZABMuYVSnezhHPmiFaZhKL2RXXNq6oMnupump",
-   0.027,
-   2.5,
-   ""
-  ],
-  [
-   "Fomoween",
-   "D2w9As3STy9CJpXG8bS6hmFG1R4FJHD121DHV9gEpump",
-   0.025,
-   2.3,
-   ""
-  ],
-  [
-   "REPLYGUY",
-   "5JPuXfsynUvL2K7D2ZUfuJyKtXxfAvL2vc7sTDgnpump",
-   0.022,
-   4.4,
+   0.043,
+   4.3,
    ""
   ]
  ]
