@@ -6968,82 +6968,86 @@
   [
    "2026-10-30T10:24:53",
    32.58
+  ],
+  [
+   "2026-10-30T10:25:47",
+   32.58
   ]
  ],
- "cycles": 3349,
+ "cycles": 3350,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.90499999999999,
- "watching": 339,
+ "sol_usd": 94.85142020264999,
+ "watching": 316,
  "near": [
   [
    "PRIME",
    "J1f3hKcSZA9KtFQh2fiRJ9Z8bfmovkJX9mmFBapDrFfG",
-   0.684,
-   2.6,
+   0.751,
+   3.5,
    ""
   ],
   [
-   "Nexi",
-   "FQm76Y1c1wyJcScz7GZaDYXyXci8YuNnqi13mA8pump",
-   0.539,
-   2.4,
-   "bundled_launch=5 extra buys in creation block"
+   "ETHICS",
+   "GsHtAsoc4zeqkmJisp2Fj5kyXaTfho3bRyA5dXgLpump",
+   0.471,
+   2.9,
+   ""
   ],
   [
    "SI",
    "A5eh8mbd85g5C2x8Guxft3i4NCNPSJvjcuwCNuUKpump",
-   0.424,
-   5.4,
+   0.404,
+   6.3,
    ""
-  ],
-  [
-   "Gemma",
-   "FymVXitxWAkx1VKrN8qSjLsC3kphAsA563rP5Cmm95t2",
-   0.397,
-   4.2,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Hypergrad",
    "8FoQVGPH3LQQ6CPB8wYmSAWMhV84Y5wj1V9ZMN8i5zaf",
-   0.237,
-   3.3,
+   0.258,
+   4.2,
+   ""
+  ],
+  [
+   "AGI",
+   "6897wuDLqFDG89zsg3jvqaddfEP7iko9DVrCzqV4pump",
+   0.137,
+   7.1,
    ""
   ],
   [
    "X T O",
    "HskKb8cS5mjpC8rYHUVrvomWFZBBo9oEW2ckVBZCpump",
-   0.223,
-   5.2,
+   0.126,
+   6.1,
    "buyers=2; creator=15.7%; top5_hold_most=100%"
   ],
   [
-   "AGI",
-   "6897wuDLqFDG89zsg3jvqaddfEP7iko9DVrCzqV4pump",
-   0.191,
-   6.2,
-   ""
+   "Rise",
+   "62r7fAx78vfJQxK7iVE3EB5scNgY67uajgryg9DUpump",
+   0.124,
+   4.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "OPTIMISTIC",
-   "265kfaorbsLD51shjByts488rhq67E63aGnM2u9wpump",
-   0.183,
-   2.3,
+   "32DgvCkWoCJrLL9FqnQviJEz17daKgjVmBcdiieGoFhu",
+   0.123,
+   3.5,
    ""
   ],
   [
-   "GEKKO",
-   "9QdgWdsnkfNk8XYfyVw7tG3qCBVMtkj6XFftQeQ7pump",
-   0.18,
-   4.6,
-   "buyers=9; top5_hold_most=98%"
+   "SEPSIS",
+   "8PgRkPuvnJNmFmZiDZoNpaeLB3g9zsiBC2LY45Uzpump",
+   0.121,
+   7.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "BOBBY",
-   "5spMD6YEq1H4YTVeQyyvQ2K4SApSWhwiHSU8yLvopump",
-   0.125,
-   5.0,
-   "top5_hold_most=99%"
+   "AGI",
+   "68AMLV1Xb1EmPxskZSGE3zASN7BmumPNpu83n7Gupump",
+   0.118,
+   5.1,
+   ""
   ]
  ]
 }
