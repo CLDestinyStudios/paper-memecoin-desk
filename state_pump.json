@@ -7104,81 +7104,85 @@
   [
    "2026-10-30T15:45:01",
    32.58
+  ],
+  [
+   "2026-10-30T15:45:56",
+   32.58
   ]
  ],
- "cycles": 3669,
+ "cycles": 3670,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.68,
- "watching": 261,
+ "sol_usd": 95.6685292138,
+ "watching": 267,
  "near": [
   [
-   "Octopoda",
-   "JsMr25dzmNzJHsZjqVaN4c82pRVk6fXK1jgmvfMpump",
-   0.581,
-   2.3,
-   "serial_creator=10 launches/24h"
+   "9LL",
+   "GxwP3s6UtENSGZoaZJy3YJqHCoM9vwZbtNf7tcTF59LL",
+   0.649,
+   2.8,
+   ""
   ],
   [
    "Airfryer",
    "GSj3mTUG6PCgoqApArH34NdtZBMKr44EcEnLB2jQpump",
-   0.341,
-   6.2,
+   0.399,
+   7.1,
    "top5_hold_most=82%"
   ],
   [
-   "ONBOARD",
-   "9NGkR2LjftKtY979jiUfpdCfe7TZW3knmmU3aaNQpump",
-   0.238,
-   3.1,
-   ""
+   "MEMES",
+   "xdKDf3hJJMrALjGgyad3UZ76NjG26Y747SXdLiCpump",
+   0.283,
+   2.5,
+   "top5_hold_most=81%"
   ],
   [
    "TUINU",
    "4qejAvEwmULv8FvY34LT5GaB6EoA3EK5wjTAyeDTpump",
    0.226,
-   2.7,
-   "buyers=3; creator=17.8%; top5_hold_most=100%"
+   3.7,
+   "buyers=1; creator=17.9%; top5_hold_most=100%"
+  ],
+  [
+   "PKIN",
+   "CbqAZthSk8JLNWGcUp9DhySCoH6tnFM9C1ckU476pump",
+   0.2,
+   2.4,
+   "buyers=8; top5_hold_most=84%"
   ],
   [
    "\u3164",
    "3YwxGBY6Q6SHtwvcw8cgtvxJstWUxh5ZceGZcBekpump",
    0.162,
-   5.1,
-   ""
-  ],
-  [
-   "GETAWAY",
-   "HQYstXrJa26M4QSbRZSoT6TsWV1RwGGuWt74cxp8pump",
-   0.112,
-   4.5,
+   6.0,
    ""
   ],
   [
    "acc/bio",
    "F8togzCimQDXNWxdiyGXwSu6XvpfaHCeAtUPEhsvpump",
-   0.109,
-   2.6,
-   "buyers=8; top5_hold_most=94%"
+   0.133,
+   3.5,
+   "top5_hold_most=92%"
   ],
   [
    "never",
    "39nSJDNnGa7871jfk1NwjWNAAdMnhqykitmc6drzpump",
    0.065,
-   3.1,
+   4.0,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ONBOARD",
+   "9NGkR2LjftKtY979jiUfpdCfe7TZW3knmmU3aaNQpump",
+   0.046,
+   4.0,
+   ""
   ],
   [
    "Hedgehog",
    "J8Ds7YcJK8GvAhncDptTkH4654AbotFp2PG4mHSNpump",
    0.045,
-   4.4,
-   ""
-  ],
-  [
-   "Honey",
-   "5n32FgvYeM56gkicB9KPLe7bptfpZzXirnqV76Aupump",
-   0.043,
-   9.8,
+   5.3,
    ""
   ]
  ]
