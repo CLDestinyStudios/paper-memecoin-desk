@@ -7106,84 +7106,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:50:59",
+   "2026-10-30T15:51:57",
    32.58
   ]
  ],
- "cycles": 3675,
+ "cycles": 3676,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.69999999999997,
- "watching": 290,
+ "sol_usd": 95.7,
+ "watching": 293,
  "near": [
   [
-   "UP",
-   "9ETfH2UYxRzDEtEuXVpsCAhpNZXeWmzJ1QDiv65zpump",
-   0.607,
-   2.5,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Blackey",
-   "FmgExhLDqj6Rt6sxRxhoWR1SnFAz9jSN8i3UJKqkpump",
-   0.411,
-   3.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "Panic",
-   "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
-   0.333,
-   7.0,
-   "buyers=6; top5_hold_most=100%"
+   "Fomoween",
+   "ANiqTxmUVjtcSJJvWLegw47TW7HYxmNqZXKm6gRvpump",
+   0.54,
+   2.4,
+   "bundled_launch=8 extra buys in creation block"
   ],
   [
    "3AM",
    "AoFtZAJXJSZajtm7AgoJbtDiZqBAonZN3JyVqk6Wpump",
-   0.204,
-   4.9,
-   "top5_hold_most=83%"
+   0.202,
+   5.9,
+   "top5_hold_most=84%"
   ],
   [
-   "TUINU",
-   "4qejAvEwmULv8FvY34LT5GaB6EoA3EK5wjTAyeDTpump",
-   0.18,
-   8.7,
-   "buyers=1; top5_hold_most=100%"
+   "Panic",
+   "9C3KCcr1k6fdzrAWZzrPyw2cRDp7jvk149q8J7uspump",
+   0.197,
+   8.0,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "MEMES",
    "xdKDf3hJJMrALjGgyad3UZ76NjG26Y747SXdLiCpump",
-   0.158,
-   7.5,
+   0.128,
+   8.5,
    "top5_hold_most=81%"
-  ],
-  [
-   "GOOD",
-   "GD3ZFsMX4cU1idiF44Sj1ZtXsvLPXMv3JPa9CZnvpump",
-   0.121,
-   2.5,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "SIGER",
    "6d6idsr2y8ryCi3vwRABwEY6SKKQFssj976Qb1CS2DVB",
    0.119,
-   5.5,
+   6.5,
    ""
   ],
   [
    "PKIN",
    "CbqAZthSk8JLNWGcUp9DhySCoH6tnFM9C1ckU476pump",
    0.109,
-   7.5,
+   8.4,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   "CASHPAD",
-   "8cgr5uSLCu6h4B1BSjj5dekNiznsQHqZSppdjfaqpump",
-   0.109,
-   2.8,
-   "bundled_launch=4 extra buys in creation block"
+   "GOOD",
+   "GD3ZFsMX4cU1idiF44Sj1ZtXsvLPXMv3JPa9CZnvpump",
+   0.091,
+   3.5,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "never",
+   "39nSJDNnGa7871jfk1NwjWNAAdMnhqykitmc6drzpump",
+   0.065,
+   10.0,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "META",
+   "9rT7DhpqJc2oodmijCFfr8PJcfatVARKZ8ZRtu6Ypump",
+   0.039,
+   5.5,
+   ""
+  ],
+  [
+   "9LL",
+   "GxwP3s6UtENSGZoaZJy3YJqHCoM9vwZbtNf7tcTF59LL",
+   0.035,
+   8.8,
+   ""
   ]
  ]
 }
