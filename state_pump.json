@@ -7122,83 +7122,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:26:56",
+   "2026-10-30T16:27:58",
    32.58
   ]
  ],
- "cycles": 3711,
+ "cycles": 3712,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.77324724255001,
- "watching": 205,
+ "sol_usd": 95.8055,
+ "watching": 208,
  "near": [
   [
    "Fomogiving",
    "Fb2r9Fontz6cSQuNgqiqUYmmW94bA4KQGB3JtHas8XHs",
-   0.549,
-   2.6,
+   0.564,
+   3.6,
    ""
   ],
   [
-   "DATAR",
-   "3kXkZ8rKpgAiyZQPwZURZ4SDmUp5SfmYZTmkwMp2pump",
-   0.393,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
+   "retARDmAx",
+   "663R8DS144nSPbZNZVyc2LHCBKUPNoLBV7BW6Bojpump",
+   0.438,
+   3.0,
+   "serial_creator=10 launches/24h"
   ],
   [
    "GHOSTDUE",
    "22PWbmCubUdCbPpSiShYQdai2VC7wGHhTRebhxULpump",
-   0.264,
-   8.3,
+   0.246,
+   9.4,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "NODF",
+   "9TCVqWBBgmDCS6FJNszxE7Lhy838QWPTh4ik2nZKpump",
+   0.165,
+   4.1,
+   "top5_hold_most=94%"
   ],
   [
    "SpongeBob",
    "7j11szjznq6S1SvuZXiFEbU6r2TWJCkqSmLwwS57pump",
    0.165,
-   2.3,
+   3.4,
    ""
-  ],
-  [
-   "NODF",
-   "9TCVqWBBgmDCS6FJNszxE7Lhy838QWPTh4ik2nZKpump",
-   0.16,
-   3.0,
-   "top5_hold_most=97%"
   ],
   [
    "BRAKE",
    "31yNC6D7rnhFYKt3Lfs2kFNQyUNtmVinZgc7vGgdpump",
-   0.113,
-   3.4,
+   0.117,
+   4.5,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "SLOP",
+   "6EGGtxpRWnX5cbhPJgUbisXp9BNLbhfQm3dLxeojpump",
+   0.102,
+   3.0,
+   ""
+  ],
+  [
+   "INUSSY",
+   "5iGF2THrPbJgyEFpNBdfCHNz6Yubk5HwhVVRcKWRpump",
+   0.095,
+   2.4,
+   "buyers=7; top5_hold_most=96%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "SpongeBob",
    "FkF4wve3rrdhFSRSo4RqEQxtTn4gvF1EGjb7BPHipump",
    0.085,
-   2.8,
+   3.9,
    ""
   ],
   [
    "CAKE",
    "Fb2qF3mMzvhoUuom3LKDk5LDrqceWeor2NCCh2zCpump",
    0.077,
-   5.5,
-   ""
-  ],
-  [
-   "APPLE.FUN",
-   "9bSLJ4uZww1SHXLoFjf9qRxXVJdcXBPxa9U5Tyo4pump",
-   0.06,
-   7.8,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "KCU",
-   "FqyH7WDyRMvTxfuiK59iuuFLQe7qi2DFxk34YCebpump",
-   0.039,
-   6.7,
+   6.5,
    ""
   ]
  ]
