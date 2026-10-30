@@ -7014,84 +7014,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:13:50",
+   "2026-10-30T12:14:50",
    32.58
   ]
  ],
- "cycles": 3458,
+ "cycles": 3459,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.08612669499999,
- "watching": 320,
+ "sol_usd": 94.15842498040001,
+ "watching": 333,
  "near": [
   [
-   "Humanism",
-   "FLMpMWW5ACAcncB3QUqdnBa14czbA9avZULtGgq5pump",
-   0.511,
-   2.3,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "DIG",
-   "EQXFqb8zLJV8f11g6YDEpdGx8k4QD7tL8m5CZbU6pump",
-   0.279,
-   9.5,
-   ""
+   "KBOTS",
+   "CR6MzymVf9LVRBKSvDgCiUipwLw2VYYZoAw4PWf9pump",
+   0.601,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "MINECAT",
    "2wYeBQPrHEQonr3YtC6TBgJ7ik9RCLdqYvbStKcD2cYm",
-   0.173,
-   5.1,
-   ""
-  ],
-  [
-   "HACKER",
-   "BHF3nESXfqErepWUFLJ4gSgfGiMx9m5Zkv2dK4xqpump",
-   0.164,
-   5.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "MINECAT",
-   "6A25h65Se2ynnN9Qpue79nJ3PxgtemZEaQtfR4QFpump",
-   0.114,
-   6.0,
+   0.194,
+   6.1,
    ""
   ],
   [
    "MINECAT",
    "BUtuqsnw3TL9iix7wYePghHwjkiRvEWFTzWpzxQCpump",
-   0.111,
-   4.9,
+   0.149,
+   5.9,
+   ""
+  ],
+  [
+   "MINECAT",
+   "6A25h65Se2ynnN9Qpue79nJ3PxgtemZEaQtfR4QFpump",
+   0.114,
+   7.0,
    ""
   ],
   [
    "SPHINCS",
    "G3YR7aoB582zyG6j22ArxWcyuTJmvJPm4ov5LwhSpump",
-   0.09,
-   4.2,
-   "buyers=2; top5_hold_most=100%"
+   0.102,
+   5.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "minecat",
    "B26PdGbVfUwbkiFUCKRD4ktdiKS5LoLcGT8Ni5fApump",
    0.087,
-   5.6,
+   6.6,
    ""
   ],
   [
    "MINECAT",
    "A7P4N3ZGULE4mbatK8V8MVnnrd13zhW5psyBMZrqpump",
    0.084,
-   5.6,
+   6.6,
    ""
   ],
   [
-   "Boo",
-   "FKznRw5rDxFR5KaRYS7PNnvSmHFuYB3vtTK4djybpump",
-   0.072,
-   8.8,
-   ""
+   "CUSTOMS",
+   "4HqmAiUd2m9mdpTLmgNXU9WQ8jXkNoS7NdhdJ6nKpump",
+   0.084,
+   2.7,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "LACYPILL",
+   "ApJBCuFsbeZqAKX5DrSZ59g4RiNkNxvrBNfXGmfWpump",
+   0.071,
+   5.7,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "NEVER",
+   "7rKy82tLiGa4nQg13X1Phiuh4rbTbhjtxgGUWKHTpump",
+   0.064,
+   3.2,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
