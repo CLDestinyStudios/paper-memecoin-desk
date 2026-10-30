@@ -7014,84 +7014,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:12:50",
+   "2026-10-30T12:13:50",
    32.58
   ]
  ],
- "cycles": 3457,
+ "cycles": 3458,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.24418705195001,
- "watching": 322,
+ "sol_usd": 94.08612669499999,
+ "watching": 320,
  "near": [
+  [
+   "Humanism",
+   "FLMpMWW5ACAcncB3QUqdnBa14czbA9avZULtGgq5pump",
+   0.511,
+   2.3,
+   "bundled_launch=5 extra buys in creation block"
+  ],
   [
    "DIG",
    "EQXFqb8zLJV8f11g6YDEpdGx8k4QD7tL8m5CZbU6pump",
    0.279,
-   8.5,
+   9.5,
    ""
-  ],
-  [
-   "TECHAGENT",
-   "2V5cCX2kQmuincpVJH38ipZRS1U5A1BX1Hj5vwPDpump",
-   0.276,
-   3.2,
-   ""
-  ],
-  [
-   "MINECAT",
-   "6APVJPZYkBNZhC54H3HEWQd82zcS8FaNNsvZF6WGpump",
-   0.269,
-   2.1,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "LEMON",
-   "A2xv4H4f5m1q9Hg22CEh9fyshZTVwkXjANAHkFUspump",
-   0.262,
-   2.9,
-   "top5_hold_most=82%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "MINECAT",
    "2wYeBQPrHEQonr3YtC6TBgJ7ik9RCLdqYvbStKcD2cYm",
-   0.177,
-   4.1,
+   0.173,
+   5.1,
    ""
   ],
   [
    "HACKER",
    "BHF3nESXfqErepWUFLJ4gSgfGiMx9m5Zkv2dK4xqpump",
    0.164,
-   4.3,
+   5.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "MINECAT",
    "6A25h65Se2ynnN9Qpue79nJ3PxgtemZEaQtfR4QFpump",
-   0.136,
-   5.0,
+   0.114,
+   6.0,
    ""
   ],
   [
    "MINECAT",
    "BUtuqsnw3TL9iix7wYePghHwjkiRvEWFTzWpzxQCpump",
-   0.105,
-   3.9,
+   0.111,
+   4.9,
    ""
+  ],
+  [
+   "SPHINCS",
+   "G3YR7aoB582zyG6j22ArxWcyuTJmvJPm4ov5LwhSpump",
+   0.09,
+   4.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "minecat",
    "B26PdGbVfUwbkiFUCKRD4ktdiKS5LoLcGT8Ni5fApump",
-   0.105,
-   4.6,
+   0.087,
+   5.6,
    ""
   ],
   [
-   "PCAT",
-   "8drXRgjjrjDhaZ7xHLrpxDAeTJNFkUhmbTAQFRe1Cqnk",
-   0.102,
-   4.7,
-   "buyers=5; top5_hold_most=100%"
+   "MINECAT",
+   "A7P4N3ZGULE4mbatK8V8MVnnrd13zhW5psyBMZrqpump",
+   0.084,
+   5.6,
+   ""
+  ],
+  [
+   "Boo",
+   "FKznRw5rDxFR5KaRYS7PNnvSmHFuYB3vtTK4djybpump",
+   0.072,
+   8.8,
+   ""
   ]
  ]
 }
