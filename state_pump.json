@@ -6826,83 +6826,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:49:46",
+   "2026-10-30T04:50:46",
    32.58
   ]
  ],
- "cycles": 3015,
+ "cycles": 3016,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.5227333907,
- "watching": 120,
+ "sol_usd": 96.4948014629,
+ "watching": 119,
  "near": [
-  [
-   "PEET",
-   "4L1Sj35H2KkCSNYDhv2S5M7YTmYZe5P2sxne8Eq7pump",
-   1.0,
-   6.3,
-   "graduated"
-  ],
-  [
-   "MIND",
-   "2yhAo9M3twKNkdY1CoLybf5sVV24qXrQdqaiHuYepump",
-   0.962,
-   4.6,
-   ""
-  ],
   [
    "MIND",
    "2QzyUqdbyVcjc7qkogHMmmo8ywdNTx3yomgJmskrpump",
    0.148,
-   5.0,
+   6.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "elfranco",
+   "6nFMBYT4WkhUiYgf8zvWCpNFUbRjTeUx9JXR5Adupump",
+   0.079,
+   2.9,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "PUMPKIN",
    "7UASu6wS27pw8FJxkw7k1SLSzEkapE68YEA3UFSFpump",
    0.079,
-   7.2,
+   8.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "NOOB",
    "GGeU3chLa8rbpAmEhxToQgkDfjFPWmT7Hj8H3vtepump",
    0.074,
-   3.4,
+   4.4,
    ""
   ],
   [
-   "fstok",
-   "5ufiEHAeg1fLW7XF9ndfZcnC95SSjiMqhTyt5mf9sqdy",
-   0.073,
-   2.5,
-   "buyers=5; top5_hold_most=100%"
+   "PEET",
+   "AHSAxDxtSkJoB3rsTEidXhPHgEU56zkAi34ihEMj1uuh",
+   0.052,
+   2.6,
+   ""
   ],
   [
-   "Loan Meme",
-   "53Rw9xZ5UYKhaqyAnESwpKpzbNCkgEKKoAPvVmCBpump",
-   0.043,
-   2.2,
+   "PEET",
+   "35gXMiUkNN9MmBxTU2Ew58ZwYtzP1LNVT7PPBS9Gpump",
+   0.041,
+   4.7,
    ""
   ],
   [
    "HALO",
    "7X4C9nUyJGPCzGFyJo6ck4ENmo2Wj9TweYksbFj9Q1E6",
    0.033,
-   3.2,
+   4.2,
    ""
   ],
   [
-   "PEET",
-   "35gXMiUkNN9MmBxTU2Ew58ZwYtzP1LNVT7PPBS9Gpump",
-   0.033,
-   3.7,
+   "MINT ",
+   "3G5scg8sy7geghM2gpX9XimiXKjtKCseJSfnykwspump",
+   0.026,
+   6.6,
+   "buyers=8; top5_hold_most=100%"
+  ],
+  [
+   "A127",
+   "EW4FhBh4yPyDJT32ti1n4wmUDMcGiDMGygev3ENupump",
+   0.025,
+   8.5,
    ""
   ],
   [
-   "KJYEE",
-   "6LgJEXXXhh38sCMCyUqq5DxdodSNQssYunwKFdwppump",
-   0.027,
-   9.7,
+   "MIND",
+   "2yhAo9M3twKNkdY1CoLybf5sVV24qXrQdqaiHuYepump",
+   0.022,
+   5.6,
    ""
   ]
  ]
