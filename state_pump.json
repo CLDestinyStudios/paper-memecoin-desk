@@ -6754,83 +6754,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:10:45",
+   "2026-10-30T02:11:45",
    32.58
   ]
  ],
- "cycles": 2856,
+ "cycles": 2857,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.10000000000001,
- "watching": 178,
+ "sol_usd": 96.96697579095,
+ "watching": 181,
  "near": [
-  [
-   "McOwl",
-   "jhW9khb7XBjhzRMmt4N7MzKeNwDGe7C5xsE9fKjpump",
-   0.391,
-   9.9,
-   ""
-  ],
   [
    "FRUIT",
    "Dtf7cauHf8t8WWkVjZwwCGLWEiqRj3BHaMwoasJApump",
    0.116,
-   6.3,
+   7.3,
    "buyers=7; top5_hold_most=96%"
-  ],
-  [
-   "V2RAY",
-   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
-   0.091,
-   5.8,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Save",
    "DJNZzH5P7SMASocQKpwvmtbwjwozhY8dG3uHmwLEpump",
    0.082,
-   7.3,
+   8.3,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "RISK",
-   "2GGceMgLeTRhpt19YE94ozJEdoYRuoXi553yCP6cpump",
-   0.081,
-   5.5,
-   ""
   ],
   [
    "KIM",
    "AmvK1qacWW6utbfQBTApcgZHpe1vVv6BtitsQPx4pump",
    0.075,
-   5.1,
+   6.1,
    ""
-  ],
-  [
-   "Zero-Day",
-   "3GcB8bzKc14s3kz4irQsyv1L9BZvtgD4nmnhLBpYpump",
-   0.074,
-   3.4,
-   "top5_hold_most=92%"
   ],
   [
    "PULLA",
    "9eiPqE3f58MeG3S6Ug6pFmAG9JkjcCgfeocWEYqipump",
    0.074,
-   5.7,
+   6.7,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "Zero-Day",
+   "3GcB8bzKc14s3kz4irQsyv1L9BZvtgD4nmnhLBpYpump",
+   0.047,
+   4.4,
+   "top5_hold_most=92%"
   ],
   [
    "DALI",
    "BAMLwq54pScDj1jLGFJHR26WNeAwwBCK14zJ4xoBpump",
    0.045,
-   8.9,
+   9.9,
    ""
   ],
   [
    "RICHEKO",
    "H9rrDHE7y8xHuX45PYMSb7w1vpkuwf3zSrtfNEHNm33a",
    0.044,
-   8.8,
+   9.8,
+   ""
+  ],
+  [
+   "V2RAY",
+   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
+   0.038,
+   6.8,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "pastalana",
+   "4BbRsUgp5asTHUGZAp3JUiio7v3MSb66CecrEV9xpump",
+   0.029,
+   4.1,
+   "creator=36.3%; top5_hold_most=96%"
+  ],
+  [
+   "HPUMP",
+   "81JQLfXq7jgtKiTkAEgRd5GnxGJXGEgmMtacJrMpump",
+   0.025,
+   3.7,
    ""
   ]
  ]
