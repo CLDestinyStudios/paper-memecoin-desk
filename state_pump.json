@@ -6614,84 +6614,84 @@
    32.58
   ],
   [
-   "2026-10-29T20:33:16",
+   "2026-10-29T20:34:15",
    32.58
   ]
  ],
- "cycles": 2519,
+ "cycles": 2520,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.17615,
- "watching": 197,
+ "sol_usd": 96.24584999999999,
+ "watching": 185,
  "near": [
   [
    "BID",
    "EGd2dCTenXhFjsPzZNomTokfQwJGPWN7NDweWokvpump",
-   0.303,
-   2.2,
+   0.449,
+   3.2,
    ""
   ],
   [
    "LEPTEP",
    "2WRTmZq6ByjLYQiaSvLWEEHwQxRKRT3gGLMUruLSpump",
-   0.209,
-   3.3,
+   0.229,
+   4.3,
    ""
   ],
   [
    "PICARD",
    "9z8yXkyVeEyk4TGr6hBj11RUa5e6GeA1kWD7bqunpump",
    0.117,
-   2.4,
+   3.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "SHARE",
-   "7XH74zMkFnitsx2FgYYu1s2aaW9GkeC2woDkq4gXpump",
-   0.083,
-   7.4,
-   "top5_hold_most=88%"
+   "ENERGY",
+   "A8xbJaPvKgVTcRZYR99AbzifvnAazF4RwhKwz7DZVFkV",
+   0.105,
+   4.9,
+   ""
   ],
   [
-   "SHI",
-   "DNSCcdozqdfmyPd1QJoeh9Acn2qUcoN7yVCH3zaJpump",
-   0.082,
-   9.7,
-   "buyers=2; top5_hold_most=100%"
+   "CI",
+   "EY3epzFfvx3CwvWN6yCatLesec8t1jA4RK7VvRiXpump",
+   0.087,
+   8.9,
+   "top5_hold_most=93%"
   ],
   [
-   "Supertoken",
-   "h5VjZaJybu9qe8yzdxkwGEkfys4K9TrRqshrw5bpump",
-   0.067,
-   9.9,
-   "buyers=3; top5_hold_most=100%"
+   "SC",
+   "6Ysnb3QTEu1auhwuJiHGiDwA5GdFuMMUZ391PEbQpump",
+   0.076,
+   4.1,
+   ""
   ],
   [
    "MM",
    "HvTEaLgRkLL6jCMnfU5TD5PYQ5qhr72yS4NH1Gbspump",
-   0.066,
-   6.7,
-   "buyers=6; top5_hold_most=99%"
+   0.065,
+   7.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SIA",
    "38x11xgcNdN3QtV2tK2dc5KXNUAB8bNxnsL2ocLQpump",
    0.063,
-   6.2,
+   7.2,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "EVERYTHING",
-   "EBNkeYZ4XHvb5vpRwZG3tpKucGLTWcAyc9AjNQWRpump",
-   0.063,
-   3.3,
-   "buyers=2; top5_hold_most=100%; bundled_launch=10 extra buys in creation block"
   ],
   [
    "HypeHouse",
    "CwZYNthss6jfmsKsZHzWSpCsSR3Lkm9RVcXSHZjXpump",
    0.056,
-   2.4,
+   3.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "TI",
+   "2raHyQNUjrBDR6zK9dRLh5xFDxGUq54qqAN3ddTvpump",
+   0.053,
+   9.9,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
