@@ -6766,83 +6766,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:32:47",
+   "2026-10-30T02:33:46",
    32.58
   ]
  ],
- "cycles": 2878,
+ "cycles": 2879,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.77396915069998,
- "watching": 221,
+ "sol_usd": 96.65,
+ "watching": 215,
  "near": [
-  [
-   "SAFU",
-   "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
-   0.945,
-   9.6,
-   ""
-  ],
   [
    "CTO",
    "GJfiw4NhFLBUraeQPAAfez2AKXUdJcdCyPjuqUerpump",
-   0.868,
-   3.2,
-   ""
-  ],
-  [
-   "SI",
-   "E4gXUpF4wqegWNhBuWtpCLUccA7zc4mhCRtDdUG4pump",
-   0.303,
-   2.3,
+   0.805,
+   4.2,
    ""
   ],
   [
    "YIN-YANG",
    "H2bZeJwfV9PjwyRo3CHh2tQL1S8MdWkCfG4ZpXwcpump",
    0.1,
-   2.6,
-   ""
+   3.5,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "AI MEME",
+   "7rSMqUCWgen4JDwVvJv3cv15Ce9sCa4u7rRNsoHypump",
+   0.087,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CTO",
    "8e6b2YwZcaxQ4Y4LnbUdiqR5WtoGnVRMUVaWAaeB8n9M",
    0.08,
-   5.3,
+   6.3,
    ""
   ],
   [
    "CBF",
    "5xHhgGNqSuE9EmeqBcTx2N6gX6B7zRrkNpXGuLyxpump",
    0.07,
-   4.4,
+   5.4,
    ""
-  ],
-  [
-   "Squeeze",
-   "256bBVUWV1DPzFjcxippNwQteyupSW6gZ2ri6Cf4pH1d",
-   0.056,
-   3.3,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "PANIC",
    "A59RaoGD6ypr5pWt9y5EroG4grYW6cHxnp6g36TLpump",
-   0.049,
-   5.1,
+   0.036,
+   6.1,
    "top5_hold_most=89%"
   ],
   [
    "PERISCOPE",
    "FNE9scZWH6euWSUZqTK799eALTdxREUpqzZ1Cg6Fpump",
    0.033,
-   7.0,
+   8.0,
+   ""
+  ],
+  [
+   "Fake coin",
+   "BieUt7DnnKptpLj1hnJNENr5vhcHncVnMTrmFZ3tpump",
+   0.022,
+   2.5,
    ""
   ],
   [
    "$\ud83d\udcb0",
    "E851KGKUSaG4CVX7FjWq7GtP8KtnsjcHkZXRSUWopump",
    0.02,
-   7.1,
+   8.1,
+   ""
+  ],
+  [
+   "shiba",
+   "3rYn8PZFcvTg3nBVAvetqXWFq248ghfb3uifAZMepump",
+   0.013,
+   3.1,
    ""
   ]
  ]
