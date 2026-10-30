@@ -6826,83 +6826,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:55:45",
+   "2026-10-30T04:56:45",
    32.58
   ]
  ],
- "cycles": 3021,
+ "cycles": 3022,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.3434617252,
- "watching": 115,
+ "sol_usd": 96.25331429299999,
+ "watching": 120,
  "near": [
-  [
-   "Chupacabras",
-   "2UHbYaPyo5zh4c4GzhE4jaxz2bSFw32AmoZ4XMY9pump",
-   1.0,
-   2.4,
-   "graduated"
-  ],
   [
    "Boardroom",
    "7EKGeNLUmydC3HbUJgCSrvibLKKkJ58WnSbVXYCjpump",
-   0.159,
-   3.3,
-   "buyers=8; top5_hold_most=97%"
+   0.186,
+   4.3,
+   "top5_hold_most=94%"
+  ],
+  [
+   "Chupacabra",
+   "DMrfPxAf2jYgGx3c2PXgp8rsaA841YuFZJD52YSjX1Vs",
+   0.183,
+   3.0,
+   ""
   ],
   [
    "Chupacabras",
    "CgFTwzJeU6PioCGbNE7iV9kYtBiQswnfoE1pra4Kpump",
    0.138,
-   2.6,
+   3.6,
    ""
   ],
   [
-   "MOONBERG",
-   "HWWgxrhhV2csNKAr6TEEVTaX6HQi4TznxX6k5gYvpump",
-   0.121,
-   2.8,
-   "top5_hold_most=83%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "FUP",
-   "EF1JRFz9Jhd2gs67DaAP2FHXaYaZr5qgimNyZ63upump",
-   0.071,
-   3.9,
-   ""
-  ],
-  [
-   "PEET",
-   "35gXMiUkNN9MmBxTU2Ew58ZwYtzP1LNVT7PPBS9Gpump",
-   0.044,
-   9.7,
+   "TEST",
+   "5Agqt98D1Pyx6As7TrFe6npxbvDHWfcrLX7vKMQgKJJu",
+   0.042,
+   2.4,
    ""
   ],
   [
    "KRUMO",
    "H1nizmoLLjgVrgGmupYD9eDob9LsekvViVBGy6Aupump",
    0.038,
-   2.7,
+   3.7,
    ""
   ],
   [
    "PEET",
    "CPGDcivn6cpY6a5kzAS8udNS2oA5BE4NHKDsHdmnpump",
    0.036,
-   6.7,
-   ""
-  ],
-  [
-   "PEET",
-   "AHSAxDxtSkJoB3rsTEidXhPHgEU56zkAi34ihEMj1uuh",
-   0.035,
-   7.6,
+   7.7,
    ""
   ],
   [
    "CSI",
    "23WmMi9JZNuoeUDEg2g7sY47xcNMCocpRAS7iAHBpump",
    0.032,
-   5.8,
+   6.8,
+   ""
+  ],
+  [
+   "YUYito",
+   "4NL3p4f8Fa2GHpYshQeLzoA9d4fA65ERSEX8ZraVpump",
+   0.031,
+   5.2,
+   ""
+  ],
+  [
+   "IMK",
+   "BysfAffXZxjk6BKeGZKsnUVGzc73B9LajsCv25Cepump",
+   0.017,
+   10.0,
+   ""
+  ],
+  [
+   "RENT",
+   "6t9zzibbKqGBcoST5TpbiChT4PCfcDtyAuSD7NqYpump",
+   0.015,
+   9.1,
    ""
   ]
  ]
