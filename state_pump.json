@@ -6754,83 +6754,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:08:46",
+   "2026-10-30T02:09:50",
    32.58
   ]
  ],
- "cycles": 2854,
+ "cycles": 2855,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.96107772295,
- "watching": 205,
+ "sol_usd": 97.16499999999999,
+ "watching": 180,
  "near": [
+  [
+   "pastalana",
+   "4BbRsUgp5asTHUGZAp3JUiio7v3MSb66CecrEV9xpump",
+   0.51,
+   2.2,
+   "creator=36.3%; top5_hold_most=96%"
+  ],
   [
    "McOwl",
    "jhW9khb7XBjhzRMmt4N7MzKeNwDGe7C5xsE9fKjpump",
-   0.397,
-   8.0,
+   0.464,
+   9.0,
    ""
-  ],
-  [
-   "V2RAY",
-   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
-   0.117,
-   3.8,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "FRUIT",
    "Dtf7cauHf8t8WWkVjZwwCGLWEiqRj3BHaMwoasJApump",
    0.116,
-   4.3,
+   5.3,
    "buyers=7; top5_hold_most=96%"
   ],
   [
-   "PVTLAG",
-   "cQhd3dsBoy8JMu8QMczw27GhxDZQQmhcwrrGND7pump",
-   0.084,
-   9.8,
-   "buyers=3; top5_hold_most=100%"
+   "V2RAY",
+   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
+   0.11,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Save",
    "DJNZzH5P7SMASocQKpwvmtbwjwozhY8dG3uHmwLEpump",
    0.082,
-   5.3,
+   6.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Zero-Day",
+   "3GcB8bzKc14s3kz4irQsyv1L9BZvtgD4nmnhLBpYpump",
+   0.081,
+   2.5,
+   "top5_hold_most=92%"
   ],
   [
    "RISK",
    "2GGceMgLeTRhpt19YE94ozJEdoYRuoXi553yCP6cpump",
-   0.08,
-   3.5,
+   0.081,
+   4.6,
    ""
   ],
   [
    "KIM",
    "AmvK1qacWW6utbfQBTApcgZHpe1vVv6BtitsQPx4pump",
    0.075,
-   3.1,
+   4.2,
    ""
   ],
   [
    "PULLA",
    "9eiPqE3f58MeG3S6Ug6pFmAG9JkjcCgfeocWEYqipump",
    0.074,
-   3.7,
+   4.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Raja",
-   "ET2ui1wZcdM6FCsJXoA1tTNZnNMuvjoMHd3c4JzEpump",
-   0.073,
-   2.5,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "Bug",
-   "DzZVLM2ryraSZTW4ihUxC3XPke7PESmjubiPKdQMpump",
-   0.072,
-   4.1,
+   "DALI",
+   "BAMLwq54pScDj1jLGFJHR26WNeAwwBCK14zJ4xoBpump",
+   0.045,
+   8.0,
    ""
   ]
  ]
