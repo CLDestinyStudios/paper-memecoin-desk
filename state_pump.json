@@ -6650,83 +6650,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:01:19",
+   "2026-10-29T22:02:15",
    32.58
   ]
  ],
- "cycles": 2607,
+ "cycles": 2608,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.12442523960001,
- "watching": 155,
+ "sol_usd": 97.20599816170001,
+ "watching": 156,
  "near": [
   [
-   "coinput",
-   "coin2JPqDG9LozmgfN8z4cL4b9M7mB5HodtX813M9ie",
-   0.592,
-   5.2,
+   "PUMPLIQUID",
+   "3Gd5uuTCa948qkJhYgiQthPYL5DeMMXLACqyWwiKperp",
+   0.837,
+   2.1,
    ""
   ],
   [
-   "dip",
-   "gHY57yEWW53ck41obJikqCvLFq9fajGPPfqfkaApump",
-   0.339,
-   2.2,
-   "serial_creator=8 launches/24h"
+   "coinput",
+   "coin2JPqDG9LozmgfN8z4cL4b9M7mB5HodtX813M9ie",
+   0.614,
+   6.2,
+   ""
   ],
   [
-   "ABC",
-   "284DNVyzoLyWNrZJafLfouXhGZMJ1smu6xeDh3t4pump",
-   0.12,
-   2.8,
-   "top5_hold_most=94%; bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "Hacker",
-   "3busqTdwQ5MehCb1zBkezeovJk4UFYf7vNxKV9cmpump",
-   0.099,
-   6.7,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "JCC",
-   "6WoYZRKUFLybcJ3gQHFQ3znMRSYXsMVbzy3DQQ7Npump",
-   0.094,
-   3.2,
-   "buyers=4; top5_hold_most=100%"
+   "NWASB",
+   "Cd3T84yA29dTRaTkThGcABZQ8s9VHwbDZC7sRu7rpump",
+   0.09,
+   2.1,
+   ""
   ],
   [
    "ARMO",
    "CeYkLAkumqAQiEUK3gnzso4925h8uxrFH85yv2KLpump",
    0.043,
-   8.9,
-   ""
-  ],
-  [
-   "TESTES",
-   "3v7zLaB43qmxgsQF23SHbHuyomiEx7xbyBQC86jvJpCJ",
-   0.043,
-   10.1,
+   9.8,
    ""
   ],
   [
    "PumpDrop",
    "F9pK9UAN4oob3rXxbkRmornWVHKyWh3Zmi7C2qb7pump",
-   0.04,
-   7.6,
+   0.041,
+   8.5,
    ""
   ],
   [
    "PONCHO",
    "3dNGuNq9hKYvpTSL1EheCqvuHitUiYTgTsDzoDEcpump",
    0.04,
-   8.5,
+   9.4,
    ""
   ],
   [
-   "QTONK",
-   "7HNHGBZdV63ky8B1nJ2MHiDTWXWWFWjD6ANuHDqepump",
-   0.035,
-   8.7,
+   "MONKEY",
+   "BqVu4wteyitbb2Azo2SbvKU3dnmhB5BhyieNvgqrpump",
+   0.034,
+   6.0,
+   ""
+  ],
+  [
+   "DTECT",
+   "6GcqsS2djaJo3uod3uik9mGX6XjMceQnsk69a4kEpump",
+   0.031,
+   4.8,
+   ""
+  ],
+  [
+   "Inuployed",
+   "G9PeBYrUdcGU16KECAUMJf72escRBzYMN5b3cjDipump",
+   0.03,
+   2.3,
+   ""
+  ],
+  [
+   "pep",
+   "DMDhj16u2XxCWRDWqjbSbzqGWgoQHB7ehvhMkkVXpump",
+   0.022,
+   4.6,
    ""
   ]
  ]
