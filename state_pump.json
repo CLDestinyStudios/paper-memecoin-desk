@@ -6634,54 +6634,75 @@
    32.58
   ],
   [
-   "2026-10-29T21:23:16",
+   "2026-10-29T21:24:17",
    32.58
   ]
  ],
- "cycles": 2569,
+ "cycles": 2570,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.9913362388,
- "watching": 150,
+ "sol_usd": 97.04038166225,
+ "watching": 159,
  "near": [
   [
    "theovan ",
    "3EnCptWGMgTkRbTx3KuoyHYwZz5B1kzBtWs2nZjbpump",
-   0.308,
-   2.4,
+   0.508,
+   3.5,
+   ""
+  ],
+  [
+   "SDJ",
+   "3kPrJH5nESuPwoLbfCTeGdGvAFvBU92RXbYgZacnpump",
+   0.257,
+   3.2,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "Dragoon",
+   "JA4FfwtYQo3TgPYhkfm48nvBKVNbZyioHQcWtskcpump",
+   0.256,
+   2.1,
    ""
   ],
   [
    "RAYPAD",
    "9Qk6N9SGKhXGZZFjiUVGaAkWWW1omL9r9DpvZMxzpump",
-   0.246,
-   2.6,
-   "top5_hold_most=89%"
+   0.25,
+   3.6,
+   "top5_hold_most=90%"
   ],
   [
-   "blindinu",
-   "AVnC2Lds8ZpCWNW4htCb1dBYLijPjzpNcaJTii5bpump",
-   0.123,
-   3.5,
-   "buyers=8; top5_hold_most=98%"
+   "VBUCKS",
+   "24yRVkLsT982M8DWudvTJD3Pu8KifWRZkQkPfA5opump",
+   0.232,
+   2.2,
+   "serial_creator=10 launches/24h"
   ],
   [
    "laptop",
    "3KT8sPvdxxkD9mwZ81c3Pbt3pE9A9mE82qVzqZZ5pump",
    0.118,
-   6.8,
+   7.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Privacy",
-   "3osEH9iwGdr17RsMuJwXGgJMKD8T3SQ4pq5Rx8wcd5kn",
-   0.074,
-   5.5,
-   "top5_hold_most=87%"
+   "Monkeys",
+   "CHfy4pjDtkX95sEL2SE438P9TKMb8ZXsHb9DvXSKpump",
+   0.116,
+   2.1,
+   ""
   ],
   [
-   "SDJ",
-   "3kPrJH5nESuPwoLbfCTeGdGvAFvBU92RXbYgZacnpump",
-   0.048,
+   "TT",
+   "4wKNaS64AE8qXCfVyTAMxSqhZJcWtaRzXDJTMiMApump",
+   0.089,
+   2.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BCI",
+   "A8cykdzMniJn2nVA5Pcjb9jgF17YV9z3oigDBNxjpump",
+   0.061,
    2.2,
    ""
   ],
@@ -6689,28 +6710,7 @@
    "MuskRat",
    "8W1C9svNbTBiJbsyUvpPeKoZQkkjYddLsmysTPEcpump",
    0.034,
-   5.9,
-   ""
-  ],
-  [
-   "PYE",
-   "BycETdod1KkmHDqnzgqV6TFxpTtEVEqw5hJfJFmXpump",
-   0.032,
-   2.9,
-   ""
-  ],
-  [
-   "NIS",
-   "9h2bckXXDhEGaig8Qm4Jmck4Tj73RPL8kcZA5n4Tpump",
-   0.028,
-   5.5,
-   ""
-  ],
-  [
-   "SIA ",
-   "m2ZX7ZsLTLH1LmwpBZQXqCaXy7skRvroQPWYNg5pump",
-   0.025,
-   5.0,
+   6.9,
    ""
   ]
  ]
