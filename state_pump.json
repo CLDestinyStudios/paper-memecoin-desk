@@ -6552,82 +6552,86 @@
   [
    "2026-10-29T18:14:10",
    32.58
+  ],
+  [
+   "2026-10-29T18:15:11",
+   32.58
   ]
  ],
- "cycles": 2380,
+ "cycles": 2381,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.6,
- "watching": 141,
+ "sol_usd": 94.57,
+ "watching": 138,
  "near": [
   [
    "Swansem",
    "6NqCAw6W9KZYMKncMCm5G1zUBBeqbiQNuuNjExb2pump",
-   0.71,
-   7.9,
+   0.736,
+   8.9,
    ""
   ],
   [
-   "BSHOT",
-   "FLtPUw5FQV4aCV1CmsmFZYZYwQfsgbVJt1Ljb8ADTkEj",
-   0.179,
-   5.7,
-   ""
+   "Burry",
+   "CvAKqQ7wbQhRS85voQKZ1j2DiyMHydwkPSZAV394pump",
+   0.676,
+   2.8,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "BELIEVE",
+   "3fuAWkmP3HFKKtqz4BXbzE1oYNz1iTpQuE6JoXaspump",
+   0.316,
+   2.3,
+   "buyers=9; top5_hold_most=83%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BUNA",
+   "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
+   0.165,
+   8.8,
+   "buyers=7; top5_hold_most=86%"
   ],
   [
    "CRABTCHA",
    "46ZyyEHzjwG7PQsfJMGALQJ5YZHfPRHdGrffMcVHpump",
    0.164,
-   4.3,
+   5.3,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BSHOT",
+   "FLtPUw5FQV4aCV1CmsmFZYZYwQfsgbVJt1Ljb8ADTkEj",
+   0.13,
+   6.8,
+   ""
   ],
   [
    "WoW",
    "7PBCiVyUbML77vdWzgRFz7TVa3vNv3erLfUvs2eJpump",
-   0.131,
-   5.2,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "BUNA",
-   "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
-   0.106,
-   7.8,
-   "buyers=5; top5_hold_most=100%"
+   0.12,
+   6.2,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "NEVER",
    "EDAg5gE1yPc1LYxgrvSbpfTvmxoSV1bstMZwrDEEpump",
    0.087,
-   2.3,
+   3.3,
    ""
   ],
   [
    "hacker",
    "Hg9JAPJaJvRVsuGRpJmdvH4PgdM725izxuhN8evepump",
    0.072,
-   2.3,
+   3.3,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "SF",
    "6ASRWYvN3WjZudLYBCX8HnFTfsc3GBBgwjPW8BYjpump",
    0.07,
-   5.6,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "PooInu",
-   "DR5iBzXRcPTB1uPkm3mTR7ryWBaxq8i8Y2mTgGe8pump",
-   0.045,
    6.6,
-   ""
-  ],
-  [
-   "bob",
-   "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
-   0.042,
-   7.1,
-   ""
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
