@@ -7132,81 +7132,85 @@
   [
    "2026-10-30T16:50:56",
    32.58
-  ]
- ],
- "cycles": 3735,
- "started": "2026-10-28T02:06:49",
- "sol_usd": 96.17495000000001,
- "watching": 251,
- "near": [
-  [
-   "GINA",
-   "27MtUd9sWiBeo4wTMAQVwcBz9D7kuoYBmaxB4Lwapump",
-   0.519,
-   2.5,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "OF",
-   "CUUzEEgk2aeYHASxMHJ3NaJFKY3TzcfNudSZ2wZzpump",
-   0.106,
-   9.7,
-   "buyers=3; top5_hold_most=100%"
+   "2026-10-30T16:51:56",
+   32.58
+  ]
+ ],
+ "cycles": 3736,
+ "started": "2026-10-28T02:06:49",
+ "sol_usd": 96.1803,
+ "watching": 258,
+ "near": [
+  [
+   "FomoGiving",
+   "7x6QyiMf2KL6PB6f2umKcbZcLrixiwbpyg6Hekrqpump",
+   0.581,
+   2.4,
+   "bundled_launch=11 extra buys in creation block"
+  ],
+  [
+   "COCO",
+   "4QPe7bHwTzNwXHJWSSJnTpcEkfNA3v6EjDBzc6iHnRUV",
+   0.108,
+   2.8,
+   ""
   ],
   [
    "RIB",
    "CwpENFdM5wYP4MkzJNRwCqyP4WPbPtszFMJXX5DPpump",
    0.088,
-   4.7,
+   5.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "milk",
    "9zidta3FKN3SJmQ7HcZJ6v12cyKCmak8wd94GfVUpump",
    0.08,
-   2.7,
+   3.7,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "TRADITION",
+   "7BVT4rvVq1evkHiL53Yh3qk7NsfE5n7oFLyy3dujpump",
+   0.068,
+   2.3,
+   ""
+  ],
+  [
+   "TRADITION",
+   "HPRyc6StE25CC1z4nioyjSo31um4CRLXyTqESGLRpump",
+   0.061,
+   2.6,
+   ""
+  ],
+  [
+   "weenie",
+   "6EgVUpRe3hBKTVmyVVWXAbFw1oG9U3tCSpaEhcWEpump",
+   0.058,
+   2.7,
+   ""
   ],
   [
    "ONBOARD",
    "8ETX8rWooTssjcQb1fkbgcBwME8tZpLVmsFTNjbLpump",
    0.044,
-   7.5,
+   8.5,
    "top5_hold_most=98%"
   ],
   [
    "sloppyslop",
    "6EaHVruJMfAR5mYHQfwpuQKTJpiuStBAssTgmXyTpump",
    0.043,
-   7.6,
+   8.6,
    ""
   ],
   [
    "GEORGE",
    "7YgY2hoaWtPvkBf7MxNS5y3JAXhhupdRuPdAwF8vsNRW",
    0.035,
-   6.6,
-   ""
-  ],
-  [
-   "SLC",
-   "E3JCT4eqoyWFrdCPvCSmfL9qDtWU4VAF9ybQaxqzpump",
-   0.026,
-   4.1,
-   ""
-  ],
-  [
-   "BNBGIRL",
-   "6MSe7hnaczonAWdZDv7FpXrnZPuuRNLjwPy5JhWHpump",
-   0.025,
-   3.7,
-   ""
-  ],
-  [
-   "OTG",
-   "AM2QWR5Cg4VQ81WNwrEnLFETuZmCxSkJZqSBrS46pump",
-   0.022,
-   5.8,
+   7.6,
    ""
   ]
  ]
