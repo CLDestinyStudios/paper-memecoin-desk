@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 348.36092725515283,
- "positions": {
-  "A7pmyAhMbRXrQ6FXThxaNCNCmcdqCssjptizX15Ypump": {
-   "sym": "Gruffalo",
-   "qty": 188394.7208388804,
-   "entry": 9.734879999999999e-05,
-   "mark_entry": 9.544e-05,
-   "cost": 18.34,
-   "peak": 9.544e-05,
-   "last": 9.544e-05,
-   "opened": 1793369343.1790078,
-   "p_buy": 0.6
-  }
- },
+ "cash": 363.88619708898744,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -8190,8 +8178,12 @@
   [
    "2026-10-30T07:09:04",
    365.98
+  ],
+  [
+   "2026-10-30T07:10:03",
+   363.89
   ]
  ],
- "cycles": 3174,
+ "cycles": 3175,
  "started": "2026-10-28T01:46:56"
 }
