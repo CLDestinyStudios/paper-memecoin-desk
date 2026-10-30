@@ -6646,84 +6646,84 @@
    32.58
   ],
   [
-   "2026-10-29T21:53:20",
+   "2026-10-29T21:54:16",
    32.58
   ]
  ],
- "cycles": 2599,
+ "cycles": 2600,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.17685,
- "watching": 142,
+ "sol_usd": 97.08999999999999,
+ "watching": 147,
  "near": [
   [
-   "PJAM",
-   "3vKcFE3UHAkkFsKXZg9Rw9sdfum9yjZr8cbXzu8Wpump",
-   0.204,
-   2.7,
-   "buyers=8; top5_hold_most=97%"
+   "TELEPATHY",
+   "2VMh4LRhhZqvHbkYwjo5JRcUSXcZD66YAvCjhGQfpump",
+   0.227,
+   4.5,
+   ""
   ],
   [
    "POKE",
    "HgVczJ2EUG3kgcMTwnTB7SdpfZVqgKjJECn3QzBFpump",
-   0.201,
-   3.0,
+   0.202,
+   3.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "TELEPATHY",
-   "2VMh4LRhhZqvHbkYwjo5JRcUSXcZD66YAvCjhGQfpump",
-   0.19,
+   "PJAM",
+   "3vKcFE3UHAkkFsKXZg9Rw9sdfum9yjZr8cbXzu8Wpump",
+   0.199,
    3.6,
-   ""
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "HYPRA",
    "7XRz5hzv7dTeDo9nYQ4c8wnWSsTsx45GiJja8yPvpump",
    0.172,
-   8.2,
+   9.1,
+   ""
+  ],
+  [
+   "LOOOOOONG",
+   "9TCLw9iUf5K8B1dDZuDpncFeYuBhX72XPjCp8PPbpump",
+   0.13,
+   3.2,
+   ""
+  ],
+  [
+   "LOOOOOONG",
+   "CjudZXuf1WJNBZydRiG4tPPrXGAUwVzKScwBsuz1pump",
+   0.119,
+   3.0,
    ""
   ],
   [
    "TITAN",
    "4KC7v81DAe55h3xSww1Bu1NnLYWC8cNQEwFRhF2Dpump",
    0.112,
-   4.5,
+   5.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "LOOOOOONG",
-   "9TCLw9iUf5K8B1dDZuDpncFeYuBhX72XPjCp8PPbpump",
-   0.088,
-   2.2,
+   "ELOOONG",
+   "8ZE36GYMbeFY9g2LcTejkQHtiDkLpLTimYFZeGmrsRyV",
+   0.084,
+   2.9,
    ""
   ],
   [
    "CUCK",
    "HzcXD783QQQfsLtKeoAxpEyLSXBUfRovQRCodK84pump",
    0.074,
-   3.5,
+   4.4,
    "buyers=7; top5_hold_most=99%"
   ],
   [
    "BHT",
    "9QGcC4hpV4cZNhdgzgUDu3uRk9KQVpQN8EtC7egwpump",
    0.063,
-   8.4,
+   9.3,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "TraderTrai",
-   "4cuxcLdFq2ss3qCDMALNtFevVHaGYBG2g2xiCMQYpump",
-   0.043,
-   8.3,
-   ""
-  ],
-  [
-   "TraderTraito",
-   "6Xdoou8g5GtE82a6KCdmhVBADqdSNm2487pFno1Jpump",
-   0.043,
-   6.1,
-   ""
   ]
  ]
 }
