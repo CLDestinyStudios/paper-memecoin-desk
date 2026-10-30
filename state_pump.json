@@ -6758,84 +6758,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:18:46",
+   "2026-10-30T02:19:45",
    32.58
   ]
  ],
- "cycles": 2864,
+ "cycles": 2865,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.99,
- "watching": 199,
+ "sol_usd": 96.9330459168,
+ "watching": 203,
  "near": [
   [
    "TraderTraito",
    "ECcrvdwqWZtbozG9GJJaJ8hnaB4ZXNLtmyCHcC3mpump",
-   0.918,
-   8.4,
+   0.881,
+   9.4,
    ""
+  ],
+  [
+   "SATCOIN",
+   "HPqqWncAUDPKzQZkLnu1Pkifrr2SnGXZMBS8ogEgpump",
+   0.244,
+   3.3,
+   "top5_hold_most=86%"
   ],
   [
    "$10B",
    "8n2gFoN1hbpk5GneH92u9grDRNfb3d45FDUMN9yCpump",
    0.232,
-   6.4,
+   7.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "SATCOIN",
-   "HPqqWncAUDPKzQZkLnu1Pkifrr2SnGXZMBS8ogEgpump",
-   0.199,
-   2.3,
-   "top5_hold_most=86%"
-  ],
-  [
-   "PUMPBLOX",
-   "FYjhV2CGsZB4aw6WZn9ThhyQB2KMRJRDdHXiQy3Wpump",
-   0.188,
-   6.2,
-   "buyers=8; top5_hold_most=99%"
+   "$19",
+   "5wJwMDBnEbuKFytSxCtKdJv3d7no36yMGQTuJPRtpump",
+   0.208,
+   2.4,
+   "buyers=8; bundled_launch=5 extra buys in creation block"
   ],
   [
    "RIPINU",
    "6QQeKjHjs8SbvmZBAhHc6dmsego3AKHQwEwna9BHpump",
    0.117,
-   7.4,
+   8.3,
    ""
   ],
   [
    "$19",
    "6zLV5octNC4iz9AmY18rYGzQBhsVUsPAHdbt6XGXpump",
-   0.115,
-   3.7,
+   0.109,
+   4.6,
    ""
   ],
   [
    "LEET",
    "HNjc6qUBMNmSGJdKHT48v4WXLtn9va2Qj4eHJ5BHpump",
    0.089,
-   2.9,
+   3.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "\ub4dc\ub860",
    "2b4YQptsfiXeEHfihPdN3W5DPuTLKV1TPmRxRiWcpump",
    0.072,
-   5.2,
+   6.1,
    ""
   ],
   [
-   "Zepe",
-   "A3QDUqvsPJUmLGTA1znD6iizEiUhp67k68Sc9XzZpump",
-   0.054,
-   2.2,
-   ""
+   "Flee",
+   "3KScsa3B3LRhEXmnShHTTrTwTbmrALxRUAX11cEQpump",
+   0.051,
+   2.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "PAIDSCR",
-   "672sMAoNsGUri52jZaxFz8sEMYHxp5GQp1SXB2Zapump",
-   0.026,
-   6.2,
-   "buyers=3; top5_hold_most=100%"
+   "FROG",
+   "6fYETcrUUcyhnTqzNqmvzAK7r6Wh2g62biqrNEsLpump",
+   0.024,
+   3.6,
+   ""
   ]
  ]
 }
