@@ -7010,84 +7010,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:07:50",
+   "2026-10-30T12:08:49",
    32.58
   ]
  ],
- "cycles": 3452,
+ "cycles": 3453,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.22296854764998,
- "watching": 333,
+ "sol_usd": 94.24971354510001,
+ "watching": 335,
  "near": [
+  [
+   "PILL",
+   "FrTrPpeQGYJd4S6vQkMgjCfVA8SPGQWVe7fDVMCQpump",
+   0.561,
+   2.4,
+   "bundled_launch=3 extra buys in creation block"
+  ],
   [
    "NDA",
    "6KKo6ffeeQnP7FDVP7M4dQ91c2A7WD4GoNtP1PyJpump",
-   0.641,
-   5.5,
+   0.552,
+   6.5,
    ""
-  ],
-  [
-   "KIMchi",
-   "2Dgqebk6nsT9z8UxbQr6uGN55CjBX5y7hCcmXgdupump",
-   0.381,
-   2.5,
-   "rugcheck=creator history of rugs"
   ],
   [
    "DIG",
    "EQXFqb8zLJV8f11g6YDEpdGx8k4QD7tL8m5CZbU6pump",
    0.303,
-   3.5,
+   4.5,
    ""
-  ],
-  [
-   "CIO",
-   "Ajo3nzjZ6u3TAF2pzzFAnVboJN1Quj8Q67sw3PJ8pump",
-   0.185,
-   5.9,
-   "buyers=6; top5_hold_most=96%"
   ],
   [
    "SONIC",
    "Aft7sh5VFB3Sx2iL21uyZTGghSTyPzrEByvtnSxapump",
-   0.168,
-   6.6,
-   "buyers=6; top5_hold_most=96%"
-  ],
-  [
-   "GLOW",
-   "5hJLQ9aXWdes2i8ayV8vPisvxhXiWXwWqDr5cG5Cpump",
-   0.14,
-   9.4,
-   ""
+   0.17,
+   7.6,
+   "buyers=7; top5_hold_most=96%"
   ],
   [
    "nasdaq",
    "9ziJiZpxEKY9ZLPKB8sTzj2x2v8X1pNpVPdTwXQRpump",
-   0.137,
-   5.6,
+   0.167,
+   6.6,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "CIO",
+   "Ajo3nzjZ6u3TAF2pzzFAnVboJN1Quj8Q67sw3PJ8pump",
+   0.143,
+   6.9,
+   "buyers=6; top5_hold_most=96%"
   ],
   [
    "Boo",
    "FKznRw5rDxFR5KaRYS7PNnvSmHFuYB3vtTK4djybpump",
    0.089,
-   2.8,
+   3.8,
    ""
   ],
   [
-   "DUVEWEEN",
-   "GZKnnGkZK31LHaSukGCfeW3kA4XgGzvXtvWJLYc1pump",
-   0.071,
-   3.5,
+   "RED",
+   "ADWSFBSA1UywngNLp1UcynCHiZiaajJzkBzQiKANpump",
+   0.088,
+   3.6,
    ""
   ],
   [
    "S&P500",
    "Gv6rpBegGhxLktm3LwD9SkDrp8MpLhH2pzh52phhpump",
    0.068,
-   6.4,
+   7.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "MEMESTOCK",
+   "2j5MBPCPUrCUAYtfCQV5sTCVb39ndybtyvhhWrzipump",
+   0.043,
+   8.0,
+   ""
   ]
  ]
 }
