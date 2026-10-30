@@ -6978,83 +6978,83 @@
    32.58
   ],
   [
-   "2026-10-30T10:48:51",
+   "2026-10-30T10:49:47",
    32.58
   ]
  ],
- "cycles": 3373,
+ "cycles": 3374,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.39055157515,
- "watching": 342,
+ "sol_usd": 94.35227625389999,
+ "watching": 336,
  "near": [
   [
    "CTRL",
    "5UpEwPx3n9tek1fCzgeondHSCKnyQwVRYue4puY7pump",
-   0.915,
-   3.5,
+   0.938,
+   4.4,
    ""
   ],
   [
    "TYGR",
    "675p4dqh9gHTVtxoWK1PmM8ynGhWyZp1PwGyBWavzxZ1",
-   0.723,
-   2.9,
-   ""
-  ],
-  [
-   "PEPEFOE",
-   "4E8TU2AtQWjBNCMP5mmEcEvB6rqLpA8qHctWQ1yRpump",
-   0.656,
-   2.7,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Rockhopper",
-   "4e5Py66p68PzvVyc976JMkHxKaF4TFhKRGizNxoCpump",
-   0.386,
-   2.2,
+   0.755,
+   3.8,
    ""
   ],
   [
    "BND",
    "2rG2mvkM8ZvAt2y9rnKeM9j4ZacYBcbfzzkmXyB4pump",
    0.28,
-   6.6,
+   7.5,
+   ""
+  ],
+  [
+   "Rockhopper",
+   "4e5Py66p68PzvVyc976JMkHxKaF4TFhKRGizNxoCpump",
+   0.255,
+   3.1,
    ""
   ],
   [
    "STARLIGHT",
    "9Ws1UHwKUjyqKpXKTXrUsoHr5Grerc5Fc9uZAo3ppump",
-   0.226,
-   7.0,
-   ""
-  ],
-  [
-   "TYGR",
-   "fpvaXmXhdd6gQ53ceXFJAt91NPrNN483B1YQEx6pump",
-   0.217,
-   3.9,
-   ""
-  ],
-  [
-   "KITTY",
-   "6KYp1DKsqsP8NAH8yTyTF7mgFvrAsRnreH4dNcnV8872",
-   0.195,
-   4.9,
+   0.215,
+   8.0,
    ""
   ],
   [
    "TYGR",
    "BQRugBX2ZrMTom5GzZguA4ULKNLJrkBwafQEYdPgpump",
    0.159,
-   2.6,
+   3.5,
    ""
   ],
   [
-   "TYGR",
-   "7QAtee3QgUfK4qoiZS4bMUkV7kpaVt2JDtyZBKEMpump",
-   0.148,
-   3.4,
+   "FINJA",
+   "AwCtNPn6UU9NbkPWD6KXgeDuKNRSYyF2wPMoDkGYpump",
+   0.121,
+   4.1,
+   "buyers=8; top5_hold_most=96%"
+  ],
+  [
+   "KITTY",
+   "3EngTCYPyPmqtupBHKx2En7iAfpgayctBbexYabFF4nL",
+   0.108,
+   5.4,
+   ""
+  ],
+  [
+   "RK",
+   "on7YdeGj2MVf1qgnzYkyKFBferw1ExjKzh2w7qapump",
+   0.108,
+   3.5,
+   ""
+  ],
+  [
+   "Kitten",
+   "FNN8GWq154XbiLt7XxNpycpm4zH7soBAWfsyoMS1pump",
+   0.105,
+   3.1,
    ""
   ]
  ]
