@@ -6886,83 +6886,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:11:08",
+   "2026-10-30T07:12:06",
    32.58
   ]
  ],
- "cycles": 3156,
+ "cycles": 3157,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.56268171475,
- "watching": 172,
+ "sol_usd": 94.44521945525,
+ "watching": 174,
  "near": [
   [
    "Laptop",
    "JAK9zKTSupz5kZ2i4WSmACgyMfyAh3EeTTqQCnZrpump",
-   0.899,
-   3.0,
+   0.977,
+   3.9,
    ""
   ],
   [
-   "HEDGE",
-   "3dNGHqpky9Wyhd2vzofKVXioyS7bqueKcjqqHEhiN4VA",
-   0.649,
+   "CLAUDE",
+   "5EDoC7ezycxYAmzeG8VD1mpBwPgmQLka3iPE5oMzpump",
+   0.897,
    2.9,
-   "serial_creator=8 launches/24h"
-  ],
-  [
-   "Pumpkin",
-   "CogSVY2A7PEjvpUqxLe6LjXZQMrjjCqh4bSnsDBupump",
-   0.516,
-   10.0,
    ""
   ],
   [
    ">_",
    "7RYW21R4N3uszXkspfzbiiLnD5zP9qY7BHjfTdTEpump",
-   0.279,
-   5.4,
+   0.254,
+   6.4,
    "top5_hold_most=83%"
-  ],
-  [
-   "ECO",
-   "FTsLrqiY8TkWmNkQs8s1DZkEsBh4j3NhPzsktDJgpump",
-   0.262,
-   2.3,
-   ""
   ],
   [
    "Shabbat",
    "9SmTqSyYwCept9CGxELA2jNDcDjAn31oeq4AwFJypump",
-   0.169,
-   2.7,
-   "top5_hold_most=86%"
+   0.177,
+   3.6,
+   "top5_hold_most=91%"
+  ],
+  [
+   "HYPEBOOBS",
+   "CfFUvy4r3pgykJNxgiyzVbK9KW7mncZLdvCBBC6Fpump",
+   0.165,
+   2.3,
+   "serial_creator=11 launches/24h"
+  ],
+  [
+   "ECO",
+   "FTsLrqiY8TkWmNkQs8s1DZkEsBh4j3NhPzsktDJgpump",
+   0.159,
+   3.2,
+   "top5_hold_most=84%"
   ],
   [
    "HYPELON",
    "CgCpwnN6QYxzoY7fhQBvwMPDyHVnwwMdc745XvPqv4uf",
    0.107,
-   4.4,
+   5.3,
    ""
   ],
   [
    "HYPELON",
    "EpkYizueH5BsCNdBghJKVWLuyUJ6Y8aZ5RLXRZUXHyaX",
    0.086,
-   4.9,
+   5.8,
    ""
+  ],
+  [
+   "GB",
+   "9xo4enVk7PnQEQvE9jh6HgaUZock6JQtQzMq8EZrpump",
+   0.066,
+   2.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "HYPELON",
    "3MYS2wqTjeeK6pz4AqmS4YPu9W2M8kggUnfRcLHipump",
    0.063,
-   4.9,
-   ""
-  ],
-  [
-   "Stable",
-   "9GhjaN6ARXhEysyWFRvmodF76yNXbZPejiPsmbFqYjxV",
-   0.063,
-   6.4,
+   5.9,
    ""
   ]
  ]
