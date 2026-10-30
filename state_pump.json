@@ -6594,83 +6594,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:51:16",
+   "2026-10-29T19:52:15",
    32.58
   ]
  ],
- "cycles": 2477,
+ "cycles": 2478,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.00619498785,
- "watching": 227,
+ "sol_usd": 94.88015000000001,
+ "watching": 234,
  "near": [
   [
    "BOTTOM",
-   "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
-   0.61,
-   3.0,
-   ""
-  ],
-  [
-   "BOTTOM",
    "9boqZQHLemAGM3PRdKE7sJfjDZ4Vy96Y66qvvNNvpump",
-   0.541,
-   2.4,
-   ""
-  ],
-  [
-   "OV",
-   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
-   0.334,
-   9.5,
+   0.783,
+   3.4,
    ""
   ],
   [
    "Vulu",
    "8sBcwxKmYvR5CTkmTnktNozpyH5ELkVmWpo6Jkmmpump",
-   0.291,
-   3.3,
-   "buyers=7; top5_hold_most=98%"
+   0.308,
+   4.3,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "OFFBOOK",
+   "AUFNqhuq9XL21vcq6MtExjTxSe2h63yz3vrYyGYapump",
+   0.177,
+   3.1,
+   "buyers=8; top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "BOTTOM",
+   "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
+   0.165,
+   3.9,
+   ""
   ],
   [
    "LOSER",
    "3WSNJ4n1npzZy2jSBdukMJzqTjo44naSMS6cFX9dpump",
    0.088,
-   3.4,
+   4.4,
    ""
   ],
   [
    "dca",
    "Gumi3obQDyPiUZXD76g3fAvJchiJ75xfFmKRsJ13pump",
    0.072,
-   3.0,
-   ""
-  ],
-  [
-   "LAPTOP",
-   "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
-   0.055,
-   9.1,
-   ""
-  ],
-  [
-   "OFFBOOK",
-   "AUFNqhuq9XL21vcq6MtExjTxSe2h63yz3vrYyGYapump",
-   0.052,
-   2.1,
+   4.0,
    ""
   ],
   [
    "catphish",
    "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
    0.045,
-   7.5,
+   8.5,
    ""
   ],
   [
-   "HY",
-   "GNaqy16Huq2RS4pEcpcERX5QWdA3GsvBbvQwSXjJpump",
-   0.043,
-   9.2,
+   "GTFO",
+   "CG9Q8c7JhGmWsHB5RFnngejMZRs9CDEhNMEoCGgopump",
+   0.037,
+   8.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "COPE",
+   "8Y3njJK52tbqKmDGUc2AdobUuxgr6Fg5wMLqt2Ghpump",
+   0.025,
+   2.7,
+   ""
+  ],
+  [
+   "BINANCE",
+   "4rCNpxz7jrhAXbwxWNPGYoXUBA6x4Xu21BmBG8jBpump",
+   0.024,
+   9.4,
    ""
   ]
  ]
