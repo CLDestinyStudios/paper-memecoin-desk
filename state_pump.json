@@ -6912,82 +6912,86 @@
   [
    "2026-10-30T08:15:49",
    32.58
+  ],
+  [
+   "2026-10-30T08:16:47",
+   32.58
   ]
  ],
- "cycles": 3220,
+ "cycles": 3221,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.28,
- "watching": 330,
+ "sol_usd": 95.2,
+ "watching": 311,
  "near": [
-  [
-   "GIGALON",
-   "5dK3btL1YwaE18wNSh4vUGNNpDUdQtbXn9PT8C9Upump",
-   1.0,
-   3.7,
-   "graduated"
-  ],
   [
    "PI",
    "8UCqiDbFtvCa9y88Sk3dNsqKjNLaR8d42UuVsxQPpump",
-   0.809,
-   2.4,
+   0.857,
+   3.3,
    ""
+  ],
+  [
+   "PI",
+   "63y8iCLdNUvSLVcVRbGUsvFxAZLigNS9VAPmWXQqpump",
+   0.611,
+   3.0,
+   "serial_creator=11 launches/24h"
   ],
   [
    "UBER",
    "7LnSSwAV33YyEdS94FwZ3GHiVPKXUb3gu16xBX17pump",
-   0.417,
-   6.8,
-   ""
-  ],
-  [
-   "Yobs",
-   "YYXU2ToGGsMN36uzEv9ZokxBnLGPDg7q7UHd91dpump",
-   0.265,
-   8.8,
-   "serial_creator=8 launches/24h"
-  ],
-  [
-   "PI",
-   "2W9ZtKdtaCPNm7CbLS4KHeb4YcyLdaEA1NCEzcnPmsrF",
-   0.155,
-   2.5,
+   0.245,
+   7.8,
    ""
   ],
   [
    "Pantsed",
    "J1Q9DFmJ4do4RgnY3EgS42r9Ads4svwDBthukcovpump",
-   0.14,
-   3.9,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "pINU",
-   "F7UAzNn1MS8KRPrPFRf4miTaSkGC1ebtZwHm5iDppump",
-   0.135,
-   2.2,
-   ""
+   0.15,
+   4.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "BBCINU",
    "E9sndvbLYiay27ofi7x67JupjjgYbEHVtXT3HoK4pump",
    0.133,
-   5.6,
+   6.6,
    ""
   ],
   [
-   "RECOUNT",
-   "EhUNF8mLSjDKRY5A1tuqnH4zCbq5XRbSKJTouWVdDKSt",
-   0.132,
-   3.3,
+   "PI",
+   "2W9ZtKdtaCPNm7CbLS4KHeb4YcyLdaEA1NCEzcnPmsrF",
+   0.122,
+   3.4,
    ""
   ],
   [
-   "SIZE",
-   "47GTECvqbkzc2ohgbSTJ4EuPPxdRyggvp8aJop3rpump",
-   0.13,
-   3.1,
-   "buyers=6; top5_hold_most=98%"
+   "RIPONS",
+   "FFFFn26Nse4eaHBE8JuoJt57QsYuaviYxXEgsWZRdEad",
+   0.119,
+   2.4,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "FUTURE",
+   "9KMTGx9nyxidkHSToa6jYrRx2B5qjtqTUWeutoHKNaNu",
+   0.115,
+   8.6,
+   ""
+  ],
+  [
+   "PI",
+   "D12rQZEbMVNchvDypvdbJJ5oQ69FTVDJmQrP4Zyfpump",
+   0.113,
+   3.8,
+   ""
+  ],
+  [
+   "pINU",
+   "F7UAzNn1MS8KRPrPFRf4miTaSkGC1ebtZwHm5iDppump",
+   0.085,
+   3.2,
+   ""
   ]
  ]
 }
