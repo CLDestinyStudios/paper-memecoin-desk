@@ -6686,83 +6686,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:24:17",
+   "2026-10-29T23:25:16",
    32.58
   ]
  ],
- "cycles": 2690,
+ "cycles": 2691,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.08,
- "watching": 130,
+ "sol_usd": 98.02630567005,
+ "watching": 131,
  "near": [
   [
    "XTO",
    "Emb7JZG1WNhjXnFTb9GPJAEo3c8Kvstp8izJjYs1pump",
    0.281,
-   2.9,
+   3.9,
    "buyers=1; creator=22.2%; top5_hold_most=100%"
-  ],
-  [
-   "Quarry",
-   "5NjB8xPSHeNXFLArfmAXNP1VwaBGRUiBtMqmuByCpump",
-   0.165,
-   4.3,
-   ""
   ],
   [
    "GROKBET",
    "Dizj8kyudNizDhzevGvcvTdB9R8xT9MR9LZwyKGrpump",
-   0.16,
-   3.1,
-   "buyers=5; top5_hold_most=100%"
+   0.2,
+   4.0,
+   "top5_hold_most=91%"
   ],
   [
    "mart",
    "ABsPgU2ZgS6WMQmcqckaR4ypHaznJiBCXtV165qHpump",
    0.056,
-   5.5,
+   6.4,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "ALCATRAZ",
    "5kNTojrDZMS6fioenLwbvMQL7ihFpxGtm5zX5tJxpump",
    0.04,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "Quarry",
+   "5NjB8xPSHeNXFLArfmAXNP1VwaBGRUiBtMqmuByCpump",
+   0.039,
+   5.3,
    ""
   ],
   [
    "Cachet",
    "2HEQhSq2p7T1RmQhfL2ULC9N7LPtrJxQtk57poBypump",
-   0.04,
-   2.1,
+   0.03,
+   3.1,
    ""
   ],
   [
    "catzard",
    "3cGhucZ7WdxCZ8ms41DPYZnUMcCEX1bmWMD6pE4hpump",
    0.017,
-   3.4,
-   ""
-  ],
-  [
-   "ORVU",
-   "47ebBpBMPYC2DDgrrC3ApJW6AcHsuwhSjnB2XdjSpump",
-   0.016,
-   4.7,
+   4.4,
    ""
   ],
   [
    "POOL",
    "CLP7S2qKeAAjbvZKdeHwQg8jQFR2UbBdNd2yHziFpump",
    0.011,
-   5.6,
+   6.6,
+   ""
+  ],
+  [
+   "RHINO",
+   "Bq8yKPxXju8D4xD2kFTJEVsHcaBUBanx4MHQmzSFpump",
+   0.006,
+   2.8,
    ""
   ],
   [
    "Ddash",
    "F8yiAFA9dw9T1iVKqehtmzYuXunQwgJjmZkdPBuGpump",
    0.002,
-   8.7,
+   9.6,
    ""
   ]
  ]
