@@ -6578,83 +6578,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:11:18",
+   "2026-10-29T19:12:17",
    32.58
   ]
  ],
- "cycles": 2437,
+ "cycles": 2438,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.12,
- "watching": 225,
+ "sol_usd": 94.13850538355,
+ "watching": 230,
  "near": [
-  [
-   "PERPEES",
-   "8djD9MXotR9up81J5WcXZp8FgyXGJG2TbgR7E4DCpump",
-   0.408,
-   3.1,
-   ""
-  ],
   [
    "ZCAT",
    "FHZXqjQ1c3xcB58rUv77dynibMfgusdeukyi8e8rpump",
    0.354,
-   2.3,
+   3.3,
    "buyers=7; creator=19.3%; top5_hold_most=97%"
-  ],
-  [
-   "OV",
-   "HiCuKEX9YSJiqjJj5MP2hFSqG1wqPGFodW2McDYWpump",
-   0.262,
-   2.3,
-   "serial_creator=10 launches/24h"
   ],
   [
    "SPECISTS",
    "HWpX5pNmC6cPFkPkwCeb8RmuLDFtMhVTCnw2c8fUpump",
    0.144,
-   5.3,
+   6.3,
    ""
   ],
   [
    "KKK",
    "8YTUqEsoEQ4fAqNQFMv1fdwNmosW1oaFpvrTLsgrpump",
    0.13,
-   3.2,
+   4.2,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "Hoeflation",
    "D1A1v1cBcPyYGkz1V3rnin1gMEX1NgFbZSMi7EXWpump",
    0.119,
-   4.0,
+   5.0,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "OV",
+   "4h8UkGiMJLhKSvMKMqPCAZw9QARhXsokhcqVJ5X8pump",
+   0.083,
+   2.2,
+   "buyers=2; top5_hold_most=100%; bundled_launch=8 extra buys in creation block"
   ],
   [
    "GBREW",
    "FwiaEB7XbpZQcVSdxGzTmcafShLnAUJjDLsyPkRtpump",
-   0.073,
-   7.5,
-   "buyers=2; top5_hold_most=100%"
+   0.081,
+   8.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "OV",
+   "A5s4cfoCqZPpa7ZYFZnt1kFd78H2L4ZAuB9R8sqjpump",
+   0.08,
+   2.3,
+   ""
   ],
   [
    "Rockstar",
    "XpbuM3hHMd139Ccquui2RyDnC8DTSWkEcj176rBpump",
    0.064,
-   2.9,
+   3.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "OREO",
-   "FmE3FXS8JiZWjmh3Er2EPnMbqBnCkT56uJnTgobpump",
-   0.039,
-   9.2,
+   "PERPEES",
+   "8djD9MXotR9up81J5WcXZp8FgyXGJG2TbgR7E4DCpump",
+   0.052,
+   4.1,
    ""
   ],
   [
    "$SPY",
    "AgdsNnCpqDUYQ3MExqjXJ3zJXnRPAJmCxMH6psj5pump",
-   0.032,
-   3.1,
+   0.036,
+   4.1,
    ""
   ]
  ]
