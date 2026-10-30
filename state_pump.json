@@ -6546,83 +6546,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:00:05",
+   "2026-10-29T18:01:20",
    32.58
   ]
  ],
- "cycles": 2366,
+ "cycles": 2367,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.67,
- "watching": 206,
+ "sol_usd": 94.7336,
+ "watching": 215,
  "near": [
   [
    "Health",
    "1212KbNXivZY13xE3gFNSAa8kZLHfwtmoGXRzpu3pump",
-   0.79,
-   2.6,
+   0.7,
+   3.9,
    ""
+  ],
+  [
+   "WORLDPAD",
+   "Hj7VwR5NN7VDqMxWAo8nug2sC7u5QxwaLfgQfCwopump",
+   0.345,
+   2.3,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "BEAR",
    "6Vke8CzmCnV6DJQSwJG4cUr2Fu7NCqAJpFtbxZZXpump",
-   0.09,
-   6.9,
+   0.089,
+   8.1,
+   ""
+  ],
+  [
+   "horse",
+   "GZMLWUnfo4SUXdvTmjs6YiocmjhD7WgNkaTPvYjPpump",
+   0.064,
+   2.4,
+   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "USDCPAD",
+   "9cTwC4irLy5S6QgAF8RsLKChRkvhCRjFrjz1jovKpump",
+   0.055,
+   6.2,
    ""
   ],
   [
    "October",
    "ExPimT5RDg1iuAr7LP8cV1uVBvRKgdZu5oogGXKLpump",
    0.041,
-   2.9,
-   ""
-  ],
-  [
-   "ZERODAYBOT",
-   "8zbYaGLYb6LTgCkdju1s4GcY8rejG9f56Kr5HEcGpump",
-   0.033,
-   2.5,
+   4.2,
    ""
   ],
   [
    "SAFU",
    "6By4X2wrFhSssHhqgsWe3xVieFd2rL3c5YyaNuCpump",
    0.032,
-   2.4,
+   3.7,
    ""
   ],
   [
    "Duneussy",
    "BrPsvhccB1gLFsbMRT7qo4xkpieTochNYKDHfXPRpump",
    0.028,
-   3.4,
-   ""
-  ],
-  [
-   "GhostofBN",
-   "8vhdC6FY72oHmAftndTV84qdwBSATh4ZG4EjYLL4pump",
-   0.026,
-   2.1,
+   4.6,
    ""
   ],
   [
    "CACHEOUT",
    "GWHy8ZE9j1rYzZ4YM2QGDt3bANv5Frfvv9qteDJzpump",
    0.023,
-   5.7,
+   7.0,
    ""
   ],
   [
-   "$BUREK",
-   "BeDZ9FFzpGcpCnAZ3uWVniZH783MTS32fcCP5aGzpump",
-   0.02,
-   8.3,
-   ""
-  ],
-  [
-   "GOD",
-   "BUiLJbZKNtWUSNpTCRoQmQ7dAG9v1cXLW5SXrbrnpump",
-   0.017,
-   2.8,
+   "GhostofBN",
+   "8vhdC6FY72oHmAftndTV84qdwBSATh4ZG4EjYLL4pump",
+   0.021,
+   3.3,
    ""
   ]
  ]
