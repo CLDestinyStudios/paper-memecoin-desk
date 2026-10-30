@@ -7070,84 +7070,84 @@
    32.58
   ],
   [
-   "2026-10-30T14:22:52",
+   "2026-10-30T14:23:52",
    32.58
   ]
  ],
- "cycles": 3587,
+ "cycles": 3588,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.22,
- "watching": 268,
+ "sol_usd": 95.31065000000001,
+ "watching": 265,
  "near": [
   [
    "KoreanFlare",
    "o4on3aXsJDacKs72YULgFGQK6q8Ho7iWha5d5M2gbUL",
-   0.816,
-   6.1,
+   0.919,
+   7.1,
+   ""
+  ],
+  [
+   "SamsungChan",
+   "FduimugCBmqCWNA6TDAtbwu83LPqRVPKyYKFkseppump",
+   0.817,
+   2.3,
    ""
   ],
   [
    ">_",
    "G9eJX8zsEBW2P1j59ckJWqjfdNbom7mwb41AiaQTpump",
-   0.771,
-   3.6,
+   0.802,
+   4.6,
    ""
-  ],
-  [
-   "Crawlpion",
-   "3XhpjduqUCRMy3Luk5UtqVA52Bdr2rLwy6LhSiFKpump",
-   0.39,
-   2.5,
-   "serial_creator=10 launches/24h"
   ],
   [
    "RAT",
    "5stBxwzbGtt2adV3rUojLtqAneYnRv7bsGa1swMNpump",
-   0.284,
-   6.0,
+   0.282,
+   7.0,
    ""
   ],
   [
    "RED STONKS",
    "4FAjV8kJ9rz1JTXfsepXVeqe9ZbGtNxCnPt6RkSkpump",
-   0.203,
-   2.9,
-   "buyers=4; top5_hold_most=100%"
+   0.27,
+   3.9,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "DCAT",
    "GBCz6G4Z88g4k5EqySCwUMibvLDFBd9o8HvCmXVjpump",
-   0.172,
-   6.4,
+   0.159,
+   7.4,
    ""
   ],
   [
-   "BUY",
-   "7gwgx8KywwqxdtzML7Wt4R7dBBJeJyLnf9f8RYfepump",
-   0.119,
-   9.3,
-   ""
-  ],
-  [
-   "BUYHOLD",
-   "6DAJJRTULLPTrfK4pe6EFxAypE73JaaiQrJArhTjpump",
-   0.098,
-   8.9,
+   "ily",
+   "H6YKa9DS3epYFBAHdf3gpw47zr3bNbq18K62vzoYpump",
+   0.081,
+   2.0,
    ""
   ],
   [
    "Pumpkim",
    "6DE63GhoGYMRYTwXfsuQVUzvrYjGy9N4tMM6e73hpump",
    0.072,
-   2.1,
+   3.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "homelesscoin",
    "2gWLkmV1agG4jus7pNAY2McAdAgVQDGkmQsDiyszpump",
    0.07,
-   4.1,
+   5.1,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "BCAT",
+   "C15yvfF6KfL785p5mi8RdrU8SATHtduixpT7PXnfpump",
+   0.045,
+   2.7,
+   ""
   ]
  ]
 }
