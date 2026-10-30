@@ -7038,84 +7038,84 @@
    32.58
   ],
   [
-   "2026-10-30T13:06:54",
+   "2026-10-30T13:07:55",
    32.58
   ]
  ],
- "cycles": 3511,
+ "cycles": 3512,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.875,
- "watching": 325,
+ "sol_usd": 94.79644548425,
+ "watching": 382,
  "near": [
   [
-   "POOLZ",
-   "8iifkN8P7wvJB58XxrsERqY24wWP7TEWWwtee5Kxpump",
-   0.735,
-   9.6,
-   ""
+   ".Si",
+   "6ZZQPcbBVpeLM4JTN4fvbyXkY9tTzGXUbKeDg8VApump",
+   0.179,
+   2.5,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "Kreo",
    "Dox7uqYKkhyvmUM9JqjsPKTPUr6tFEGqAE5m8g7qpump",
-   0.237,
-   6.3,
-   ""
-  ],
-  [
-   "POGE",
-   "EiBLU4tniRNgF7hdshLdmgEwBLDBygue9855qXt6JzSd",
-   0.202,
-   6.2,
-   ""
-  ],
-  [
-   "Trump",
-   "APMC9uzN5Cyak8CAwLEmwhXoXwsvoisi3RPYNqdwpump",
-   0.182,
-   5.4,
-   "buyers=8; top5_hold_most=100%"
-  ],
-  [
-   "FLOAT",
-   "HJt1wd58AvwBGJphKA3cfDPtQso6Dieb23ts8PYFLoAT",
-   0.181,
-   2.9,
+   0.161,
+   7.3,
    ""
   ],
   [
    "BATSLALOM",
    "7HsTZtuVhV3oAKtKawPEn7Ti56x32vynZx2WVyzupump",
    0.154,
-   3.0,
+   4.0,
    ""
   ],
   [
-   "DOGE",
-   "6Nvs46uPaw31S4xL35okGs1gyMgr4yL72XPqcFEepump",
-   0.144,
-   5.8,
+   "POGE",
+   "EiBLU4tniRNgF7hdshLdmgEwBLDBygue9855qXt6JzSd",
+   0.142,
+   7.2,
    ""
   ],
   [
-   "MCGA",
-   "Aw2UWZ9SBsi7eWzSbvmEeFXtP6kf3Qyfg8fMWAZmpump",
-   0.115,
-   9.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "ceezee",
-   "75CbeVfFBj8DSWt6oJ5JSdrsUe5xSH21rMhb5yhtpump",
-   0.105,
-   4.5,
+   "FLOAT",
+   "HJt1wd58AvwBGJphKA3cfDPtQso6Dieb23ts8PYFLoAT",
+   0.133,
+   4.0,
    ""
   ],
   [
-   "CARS",
-   "DKQV9bcGBM69NrmNf6CcmJVQFwcqqMaMe2fHRNYvpump",
-   0.099,
-   3.0,
-   "buyers=6; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "broke",
+   "4ZXRcbHZVhXVRKwnaKCCWm1KywNXuj4onxyEec9zpump",
+   0.097,
+   2.1,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Woody",
+   "AxuV735FQtcD5xNjTUGKW1CnQFX7QRiPYJr8RjvFpump",
+   0.075,
+   8.3,
+   "top5_hold_most=94%"
+  ],
+  [
+   "MASHU",
+   "AR7YYWUP4KS9hTCNKA1sUmxAqC4BuYKHGifg5qjXpump",
+   0.074,
+   3.1,
+   ""
+  ],
+  [
+   "DANGER",
+   "DnpciHBn2qboKw8iaBrTBGLDUxbkynT9uYMqgmJCpump",
+   0.072,
+   2.5,
+   ""
+  ],
+  [
+   "ML",
+   "tsZxWgFdmG4HaLRyCh6Hm6bgLft7p1hQ5qtinTTpump",
+   0.059,
+   4.2,
+   "buyers=8; top5_hold_most=95%"
   ]
  ]
 }
