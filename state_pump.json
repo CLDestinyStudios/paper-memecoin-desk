@@ -6594,82 +6594,82 @@
    32.58
   ],
   [
-   "2026-10-29T19:52:15",
+   "2026-10-29T19:53:16",
    32.58
   ]
  ],
- "cycles": 2478,
+ "cycles": 2479,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.88015000000001,
- "watching": 234,
+ "sol_usd": 94.93,
+ "watching": 235,
  "near": [
   [
    "BOTTOM",
    "9boqZQHLemAGM3PRdKE7sJfjDZ4Vy96Y66qvvNNvpump",
-   0.783,
-   3.4,
+   0.792,
+   4.4,
    ""
   ],
   [
    "Vulu",
    "8sBcwxKmYvR5CTkmTnktNozpyH5ELkVmWpo6Jkmmpump",
-   0.308,
-   4.3,
-   "buyers=5; top5_hold_most=100%"
+   0.306,
+   5.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "OFFBOOK",
-   "AUFNqhuq9XL21vcq6MtExjTxSe2h63yz3vrYyGYapump",
-   0.177,
-   3.1,
-   "buyers=8; top5_hold_most=94%; bundled_launch=4 extra buys in creation block"
+   "XOGE",
+   "HDAZmgYQToTnoTkmkSTA3oaT3HSFJi86m4ZreeuJpump",
+   0.257,
+   2.8,
+   ""
   ],
   [
    "BOTTOM",
    "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
-   0.165,
-   3.9,
-   ""
-  ],
-  [
-   "LOSER",
-   "3WSNJ4n1npzZy2jSBdukMJzqTjo44naSMS6cFX9dpump",
-   0.088,
-   4.4,
+   0.243,
+   5.0,
    ""
   ],
   [
    "dca",
    "Gumi3obQDyPiUZXD76g3fAvJchiJ75xfFmKRsJ13pump",
-   0.072,
-   4.0,
+   0.075,
+   5.0,
    ""
   ],
   [
-   "catphish",
-   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
-   0.045,
-   8.5,
-   ""
-  ],
-  [
-   "GTFO",
-   "CG9Q8c7JhGmWsHB5RFnngejMZRs9CDEhNMEoCGgopump",
-   0.037,
-   8.0,
-   "buyers=4; top5_hold_most=100%"
+   "BINHACK",
+   "48yutcVogMQSN9er8qBd8mdSR9uV3dsXDkMP2opLpump",
+   0.068,
+   2.7,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "COPE",
    "8Y3njJK52tbqKmDGUc2AdobUuxgr6Fg5wMLqt2Ghpump",
    0.025,
-   2.7,
+   3.7,
    ""
   ],
   [
-   "BINANCE",
-   "4rCNpxz7jrhAXbwxWNPGYoXUBA6x4Xu21BmBG8jBpump",
-   0.024,
+   "LAPTOP",
+   "3wfQ4L6KYmrWJYKuTb83LfGzRCddvZnb6Y4e7KxPpump",
+   0.023,
+   7.8,
+   ""
+  ],
+  [
+   "Laptop",
+   "DXKZGJQjh8iVu9XfmndeFVeKRtEuDt1ENJaxNLENpump",
+   0.022,
+   4.9,
+   ""
+  ],
+  [
+   "pup",
+   "7i3QUt9AfjoqviRjYfUgidDNzvAuZET2z6UVFVTqpump",
+   0.021,
    9.4,
    ""
   ]
