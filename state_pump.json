@@ -6538,83 +6538,83 @@
    32.58
   ],
   [
-   "2026-10-29T17:44:05",
+   "2026-10-29T17:45:06",
    32.58
   ]
  ],
- "cycles": 2350,
+ "cycles": 2351,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.48,
- "watching": 217,
+ "sol_usd": 93.72999999999999,
+ "watching": 206,
  "near": [
-  [
-   "BabySwan",
-   "41M6ChzayHSMqVk2rTfF3fGJwZcfXMcMerWbSbQipump",
-   0.905,
-   3.7,
-   ""
-  ],
   [
    "rope",
    "BWCdNNdHftVrbQqyEYf5HDcanaNTnpNdeRtfMHhWpump",
-   0.703,
-   7.8,
+   0.827,
+   8.8,
    "launch_slot=missing"
-  ],
-  [
-   "JEAN",
-   "BsvK5vDLLCJqfbqAcKMvhYiAfMF5efdxPEi7tiX4pump",
-   0.646,
-   9.2,
-   ""
-  ],
-  [
-   "NEVER",
-   "21Caxj24Y9BDsPz75TPDnwyoHxwbnpHm3tCmNLuCpump",
-   0.409,
-   2.8,
-   "serial_creator=10 launches/24h"
   ],
   [
    "DOOMSDAY",
    "edYRErzBWKtQzyaZbWUXXTAePRbGUaqs88kANpSpump",
    0.175,
-   6.3,
+   7.3,
    "buyers=6; top5_hold_most=100%"
   ],
   [
-   " ",
-   "ESG4HNEuGiZt8k6seKvv428WkJgpt5fm9h4fwxw3pump",
-   0.097,
-   6.8,
-   ""
+   "BabySwan",
+   "41M6ChzayHSMqVk2rTfF3fGJwZcfXMcMerWbSbQipump",
+   0.159,
+   4.7,
+   "top5_hold_most=94%"
   ],
   [
-   "0",
-   "F94exqpfdGBtnEAnxrGJ7CDczAUDZjFSC5qZiHpFpump",
-   0.088,
-   3.3,
-   ""
-  ],
-  [
-   "Rock",
-   "3xPEHY73HkZugrUZXaZ8S84LvBH2FtnchQkgW6BFpump",
-   0.075,
-   6.6,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "SOLANA",
-   "BKZnXZcPbEA9ts8C31gzd4TtkrpQG38yk4xga6hdpump",
-   0.073,
-   8.7,
-   "buyers=6; top5_hold_most=100%"
+   "BEPE",
+   "466H4n3bRtmxQa3WA1spPeiT3WKrNu4bca9WyHQgpump",
+   0.142,
+   2.5,
+   "top5_hold_most=92%"
   ],
   [
    "Sminem",
    "FDwC8XqekFrbqu1oEKywsgEuaxhH7U4uPwc8Woq7pump",
    0.073,
-   4.1,
+   5.1,
+   ""
+  ],
+  [
+   "beans",
+   "AwkXjjS4ZFAAiNvvMX8WU7vwMLkFjqcMXJwLsETppump",
+   0.071,
+   7.9,
+   ""
+  ],
+  [
+   "0",
+   "F94exqpfdGBtnEAnxrGJ7CDczAUDZjFSC5qZiHpFpump",
+   0.071,
+   4.3,
+   ""
+  ],
+  [
+   "MEMESPACE",
+   "Eh1ZrH73kzNfSL6RoJSEfvksVCf4oNoAScXpVZhRpump",
+   0.064,
+   6.1,
+   ""
+  ],
+  [
+   "NIO",
+   "6RsB9HQUCx4j1WGWN5CFEdxYsxrgMgaWZwynaBzWpump",
+   0.046,
+   9.3,
+   ""
+  ],
+  [
+   "Stinu1",
+   "3EpLbTouqUdj66mMPDNDc5x9Dzg2JgtpwYudF853pump",
+   0.028,
+   7.0,
    ""
   ]
  ]
