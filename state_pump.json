@@ -6830,83 +6830,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:59:52",
+   "2026-10-30T05:00:46",
    32.58
   ]
  ],
- "cycles": 3025,
+ "cycles": 3026,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.495,
- "watching": 129,
+ "sol_usd": 96.41948657560002,
+ "watching": 134,
  "near": [
-  [
-   "NAHDUCK",
-   "FAkRPAjLhniPq3Ta7bi7NGk2ATtBMrQerTkJ8UEipump",
-   0.306,
-   2.6,
-   "buyers=5; top5_hold_most=100%"
-  ],
   [
    "CVE",
    "D8N4uaRhNVwwZMYqXSuThRxLd2xsu1tVGeGjt6yvpump",
-   0.234,
+   0.253,
+   4.4,
+   "top5_hold_most=87%"
+  ],
+  [
+   "NAHDUCK",
+   "FAkRPAjLhniPq3Ta7bi7NGk2ATtBMrQerTkJ8UEipump",
+   0.242,
    3.5,
-   "top5_hold_most=93%"
+   "buyers=6; top5_hold_most=99%"
   ],
   [
    "Boardroom",
    "7EKGeNLUmydC3HbUJgCSrvibLKKkJ58WnSbVXYCjpump",
-   0.201,
-   7.4,
+   0.2,
+   8.4,
    "top5_hold_most=96%"
   ],
   [
    "HYDOG",
    "Dcjay9gbzyXA2jKRLuwfZsebCexTsHzmXcARdqmyPy9H",
-   0.182,
-   3.1,
+   0.176,
+   4.0,
    ""
   ],
   [
    "BANG",
    "52KeFUNCE8fUgDLPpSi1omrxoHz3pcPFaU6kiQKHpump",
-   0.144,
-   3.2,
+   0.151,
+   4.1,
    "buyers=9"
   ],
   [
    "HOVR",
    "29vePA9UGPs5oeGXU2QjnT61xRRbTSM7t3YetJuapump",
    0.085,
-   2.5,
+   3.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "DOGE",
    "ARQzqMCtGwFtc25JNyp5vRrRkevzuBzNwDua1q3wpump",
    0.081,
-   4.0,
+   4.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "hacker",
    "Gjxcf8AWj9J6UWTHnhEFLxNoYUcL6XKcesWvWUKvpump",
    0.044,
-   4.5,
+   5.4,
    ""
   ],
   [
    "TEST",
    "5Agqt98D1Pyx6As7TrFe6npxbvDHWfcrLX7vKMQgKJJu",
    0.042,
-   5.5,
+   6.5,
    ""
   ],
   [
    "KRUMO",
    "H1nizmoLLjgVrgGmupYD9eDob9LsekvViVBGy6Aupump",
    0.038,
-   6.8,
+   7.8,
    ""
   ]
  ]
