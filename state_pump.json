@@ -6954,84 +6954,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:50:46",
+   "2026-10-30T09:51:47",
    32.58
   ]
  ],
- "cycles": 3315,
+ "cycles": 3316,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.74625244135001,
- "watching": 255,
+ "sol_usd": 94.61846260895,
+ "watching": 259,
  "near": [
   [
    "Bonnie",
    "951SCVym2Hd7KYprJ5UCCXXEKEm4bGQ6riiuAjPCpump",
-   0.965,
-   7.3,
+   1.0,
+   8.3,
+   "graduated"
+  ],
+  [
+   "anthrupic",
+   "3aFjeQZW6dEeywwngN8w6bX4cfLbXq6B5c2LTnCipump",
+   0.914,
+   2.7,
    ""
   ],
   [
-   "Cell",
-   "HScBdDECMD71hSBhDnwnbNj6Bv278Mv3TYpQv52upump",
-   0.455,
-   2.4,
-   "serial_creator=9 launches/24h"
-  ],
-  [
-   "HYPE",
-   "6CqSuBFpAjAtvSARiq2iS9cR5xEommZpiKxJnsEnpump",
-   0.234,
-   4.6,
+   "Mimi",
+   "9N4QHXwwV4udPrzB4h1pzBCz4c8V7okVaewRj5oapump",
+   0.595,
+   2.9,
    ""
   ],
   [
-   "hedge",
-   "FSnjRVBWjwPSjCjw5ArUatg2FdniyyJk53v8ho7dpump",
-   0.089,
-   6.7,
-   ""
+   "JJK",
+   "3BdJkTEFGpTbpcVtRgjro8MmF2W2vnKes4kikKg4pump",
+   0.269,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "PRESIDENT",
-   "JPHxFtV8oah1fspHQZdrRyte5vyv218Yf7Y7zmcpump",
-   0.086,
-   2.4,
-   "buyers=4; top5_hold_most=100%"
+   "WEEPY",
+   "96DQFLotrwmdqyYBY9uCpca7rM2Af5Gar7R75rKKpump",
+   0.161,
+   2.3,
+   "buyers=8; top5_hold_most=86%"
   ],
   [
-   "PUMPERS",
-   "CLNPy1Ay41c4r2ns6DYhTEAcQKmmPL5UQ9uf64Grpump",
-   0.076,
-   8.7,
+   "ANTINVEST",
+   "8BMEoQHeJ7baRhTyMbB8TSK52jXwDzy7GRp2Bejtpump",
+   0.155,
+   2.1,
+   "buyers=7; top5_hold_most=97%"
+  ],
+  [
+   "Daumen",
+   "EQh4A9nooapU1KaksvbNbyKRiaowFCwHGbHF6YKbWowk",
+   0.097,
+   2.6,
    ""
   ],
   [
    "anthrupic",
    "4S1jWMRxu3wuKAQi6tf3bwfibqNvCxmnnJc9W2APQiPd",
    0.071,
-   2.1,
+   3.1,
    ""
   ],
   [
    "BUCKS",
    "3icnNFPV1X5v94D3ym9BZQZq6d4HM6ryZqwXfyswdDym",
    0.064,
-   7.5,
+   8.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "FC",
    "CiytX6VnFdEUPXtgtVuERhjSCVabWoDM4Swx2u3Rpump",
    0.051,
-   5.0,
+   6.0,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "FANMAIL",
-   "8s5TCssk73pRuk5QnVD3HCEpGGiafubmH4yMQWTFpump",
-   0.051,
-   5.8,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
