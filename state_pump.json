@@ -7078,83 +7078,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:40:53",
+   "2026-10-30T14:41:52",
    32.58
   ]
  ],
- "cycles": 3605,
+ "cycles": 3606,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.30643796706869,
- "watching": 247,
+ "sol_usd": 95.2968856465,
+ "watching": 242,
  "near": [
   [
    "KYRO",
    "LNFPX3MKNLH2PTnpj4airVznHKp38DA63WLhbkipump",
    0.485,
-   3.8,
+   4.8,
    "buyers=1; creator=38.5%; top5_hold_most=100%"
   ],
   [
    "FirstTx",
    "Fgw9unZA9X5fQa4ZCd5UbDYsmCpfLjeNkCN1ZgCHpump",
-   0.207,
-   4.5,
-   "buyers=8; top5_hold_most=99%"
+   0.211,
+   5.5,
+   "top5_hold_most=97%"
+  ],
+  [
+   "ONION",
+   "9H2kF4WvGAzJ4QMoaVfwMDRXC2EPhSzfkwqyZP4Kpump",
+   0.191,
+   2.6,
+   "top5_hold_most=86%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "AI",
    "QujrZF3A7PLyqRGEnaaD2MvYJnLDwKpQmQCWYimpump",
-   0.145,
-   5.0,
+   0.123,
+   6.0,
    ""
   ],
   [
    "MOCHII",
    "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
    0.116,
-   3.0,
+   4.0,
    "buyers=8"
   ],
   [
    "vibecat",
    "88qNtHjqBXErVG9zNGmkRJZqRLctaWpjUXoQf7ubpump",
-   0.108,
-   2.1,
+   0.101,
+   3.1,
    ""
   ],
   [
    "Belief",
-   "ECbmJyf7BWBUepmfUccGVM2sL3Aio6zJkGpiJgC2pump",
-   0.091,
-   2.5,
-   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "7Zn7eP5XA3v7hwuosanx38QhFN2L666KNhmZvxTBpump",
+   0.09,
+   2.7,
+   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
   ],
   [
    "AI",
    "92ACPdUX2u9xLBsDbiEogPT1jz9SkSwTzPLUuHmmpump",
    0.074,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "ELT",
-   "HiEirdrPkmvEjibt6p53i1AhqA7StC5LhEgJr34gpump",
-   0.069,
-   6.5,
-   "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "meow",
-   "6FwBFUvVL5gFMzCJ5AvB41NgCrgANAGVoiJk8TuBQCSs",
-   0.068,
-   9.3,
+   "daniworldw",
+   "GfCSgnwj4hrFt6p4oVZLQuyWC5PBJxDAbRu87Wifpump",
+   0.055,
+   4.8,
    ""
   ],
   [
    "Animals",
    "4xfCx6XU14EpUrT1k5tykQ4CgxXDbJVRy9SXUHo9pump",
    0.047,
-   8.3,
+   9.2,
    "buyers=4; top5_hold_most=100%"
   ]
  ]
