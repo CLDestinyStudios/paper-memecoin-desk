@@ -6758,83 +6758,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:14:49",
+   "2026-10-30T02:15:45",
    32.58
   ]
  ],
- "cycles": 2860,
+ "cycles": 2861,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.09,
- "watching": 180,
+ "sol_usd": 97.09999999999998,
+ "watching": 183,
  "near": [
   [
    "TraderTraito",
    "ECcrvdwqWZtbozG9GJJaJ8hnaB4ZXNLtmyCHcC3mpump",
-   0.824,
-   4.4,
+   0.885,
+   5.4,
    ""
+  ],
+  [
+   "HACKER",
+   "CFeUyhD6U2TogMF2bcVBusvQ9chiTWA2SgvHKktxpump",
+   0.396,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "ELIEZER",
+   "3kPYeTcNFz5dkahvWHKvhodVzQ2TDKFLmyYYoe4Xpump",
+   0.382,
+   2.6,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "$10B",
    "8n2gFoN1hbpk5GneH92u9grDRNfb3d45FDUMN9yCpump",
    0.232,
-   2.5,
+   3.4,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "HYPERBOOB",
-   "AMPKDmvZh4MUhbeChRGXH6msuesdYQHjkpvE8Nbdpump",
-   0.22,
-   2.8,
-   "serial_creator=13 launches/24h"
   ],
   [
    "RIPINU",
    "6QQeKjHjs8SbvmZBAhHc6dmsego3AKHQwEwna9BHpump",
-   0.172,
-   3.4,
+   0.156,
+   4.3,
    ""
   ],
   [
    "PUMPBLOX",
    "FYjhV2CGsZB4aw6WZn9ThhyQB2KMRJRDdHXiQy3Wpump",
-   0.163,
-   2.3,
-   "buyers=8; top5_hold_most=99%"
-  ],
-  [
-   "HPRIVACY",
-   "Ef5YrqZuo96PYwpXvi18itJ11ZoaBo2PcuVzBVNmpump",
-   0.161,
-   5.0,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "V2RAY",
-   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
-   0.154,
-   9.8,
-   "buyers=7; top5_hold_most=90%"
+   0.148,
+   3.2,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "PAIDSCR",
    "672sMAoNsGUri52jZaxFz8sEMYHxp5GQp1SXB2Zapump",
-   0.112,
-   2.2,
+   0.129,
+   3.2,
    "buyers=6; top5_hold_most=98%"
   ],
   [
-   "KIM",
-   "AmvK1qacWW6utbfQBTApcgZHpe1vVv6BtitsQPx4pump",
-   0.075,
-   9.2,
-   "buyers=1; top5_hold_most=100%"
+   "BNB",
+   "76udiFLpSYchUgBaCWXukBN7TaFavwQ7ejSbAFYqpump",
+   0.11,
+   2.8,
+   "buyers=8; top5_hold_most=96%"
   ],
   [
-   "BULLCAT",
-   "3VAEQsNooA1r37tm3TCMUTbKfzvZ7Y335CKykSEbpump",
-   0.022,
-   5.1,
+   "\ub4dc\ub860",
+   "2b4YQptsfiXeEHfihPdN3W5DPuTLKV1TPmRxRiWcpump",
+   0.072,
+   2.1,
+   ""
+  ],
+  [
+   "HEXN",
+   "J9cKrTZ9i487eKsA7pP4BLyyXfpUGz67eintTTESpump",
+   0.018,
+   2.9,
    ""
   ]
  ]
