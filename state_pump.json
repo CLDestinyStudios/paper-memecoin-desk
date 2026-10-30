@@ -6786,84 +6786,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:19:45",
+   "2026-10-30T03:20:46",
    32.58
   ]
  ],
- "cycles": 2925,
+ "cycles": 2926,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.2314448995,
- "watching": 182,
+ "sol_usd": 96.18609598729999,
+ "watching": 185,
  "near": [
   [
-   "Corgi",
-   "PH5bJmDZmu4xKqaai3qhtAWoJceRtJHBsarym1Npump",
-   0.18,
-   3.0,
+   "SQODY",
+   "FJPkM4ndsKejDVRUx4WEKTvpsHA5aruXX7ufHLwCpump",
+   0.877,
+   2.3,
    ""
   ],
   [
-   "MARS",
-   "BwMTJr92F3yLQedRWHRCVy9bVCTCLX95M7kjyTNEFkC4",
-   0.146,
-   3.0,
-   "bundled_launch=3 extra buys in creation block"
+   "BACK",
+   "2i9L11afDgRpiu6ZeKU5UwESX9fxJ1gss8d19jzppump",
+   0.373,
+   2.8,
+   ""
+  ],
+  [
+   "Corgi",
+   "PH5bJmDZmu4xKqaai3qhtAWoJceRtJHBsarym1Npump",
+   0.163,
+   4.0,
+   ""
   ],
   [
    "NARRAGEN ",
    "D2WhU34278BJgTDzLdcr53ePZqbWz55rkrHzAkzLpump",
    0.128,
-   3.4,
+   4.4,
    "buyers=7; top5_hold_most=96%"
-  ],
-  [
-   "QUONT",
-   "3WhZvgwhq9ZZxJBBJnPifpZhvKvtHCqneUVUgkeSpump",
-   0.124,
-   4.9,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "Ghost",
    "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
-   0.09,
-   7.5,
+   0.115,
+   8.5,
+   "buyers=7; top5_hold_most=99%"
+  ],
+  [
+   "BRO",
+   "ArTpndFzo5J2L9m9d5UmEXFMRSqpV6JH9TDdE8uSpump",
+   0.1,
+   2.2,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "QUONT",
+   "3WhZvgwhq9ZZxJBBJnPifpZhvKvtHCqneUVUgkeSpump",
+   0.097,
+   5.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "CZs",
    "4KBwBnzNz3Q6JpVQzqtUoPAhDmRxDAj71oWRtHdipump",
    0.072,
-   3.0,
+   4.0,
    ""
   ],
   [
    "PnutCall",
    "GcnMDZifUJRTW9RiBW8mnVUCV9kN5VBYb21A3XNFpump",
    0.066,
-   5.8,
+   6.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "TrustMeBro",
-   "3b3dD6ZKpBkjXNJi42tCVfuhhV3WKqoN3tfCKmnFu175",
-   0.061,
-   4.5,
+   "BIRRION",
+   "7M4EezkhBbBr5c2R9c1thE1EM3FzMi2hAvzuke1YmBRb",
+   0.064,
+   2.9,
    ""
-  ],
-  [
-   "TMB",
-   "J4r9bMZy1kN1UTPgquxBduB6CrygSt21mcU6eWh6tqes",
-   0.056,
-   4.0,
-   ""
-  ],
-  [
-   "DATAR",
-   "4fWJEa8vSj3FaPxLPwARLiG1EbVVwt3CCoCBZheSpump",
-   0.033,
-   8.2,
-   "top5_hold_most=90%"
   ]
  ]
 }
