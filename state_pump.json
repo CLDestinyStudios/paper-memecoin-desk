@@ -7006,84 +7006,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:57:50",
+   "2026-10-30T11:58:57",
    32.58
   ]
  ],
- "cycles": 3442,
+ "cycles": 3443,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.22430360579244,
- "watching": 376,
+ "sol_usd": 94.2283118981,
+ "watching": 377,
  "near": [
   [
    "SEED",
    "3BSaLf3yCzW85CrfMHeBYDVYxSx8fywHQRHqGVaBpump",
-   0.64,
-   6.9,
+   0.641,
+   8.1,
    ""
   ],
   [
-   "CWCH",
-   "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
-   0.479,
-   9.7,
-   "buyers=6; top5_hold_most=96%"
+   "TOS",
+   "6SRxPrMLCkvpxFHVuZ1y76NdaxHHTUtrhjEg9j4hpump",
+   0.427,
+   2.6,
+   ""
+  ],
+  [
+   "FOUNDRY",
+   "73ZPKMfU35FEBXym2JD1CPZZRnhoRBWST3HQmTuFpump",
+   0.273,
+   2.4,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "STOCKPOCALYP",
+   "GZAqe6mDLp7tXrV46iqpWpTjJD9GUiqwt8PUkEW9pump",
+   0.159,
+   2.2,
+   ""
+  ],
+  [
+   "pep",
+   "BffhRgcAnmPEZY4jqSaT1KXyZy6ry8hN3Amga4iUpump",
+   0.146,
+   3.1,
+   ""
   ],
   [
    "MEMESTOCK",
    "7mwcbYn5ZZ5UyfcTu2xuaZr45NzNW2Kch83JkrAQpump",
    0.124,
-   6.3,
+   7.5,
+   ""
+  ],
+  [
+   "pep",
+   "Fmg54JAqif8NjwrEiXPY8s1kdEKu5U7iB4G5kw7Rpump",
+   0.119,
+   2.8,
    ""
   ],
   [
    "ELONSTOCK",
    "8fiXv1Csn4f4opyepGN5amexL1Tu5wSTWvULjXdWpump",
-   0.122,
-   5.6,
+   0.119,
+   6.7,
    ""
   ],
   [
    "MEMESTOCK",
    "CzCgX79iGspPXtbmHYxVzHptq5VzDnNoJcN8ecGapump",
    0.118,
-   6.5,
+   7.6,
    ""
   ],
   [
    "SIX",
    "2ZgMD6aoNCJWMMBEczrEiNhNzHKbWRo46sy2rk51pump",
-   0.108,
-   5.0,
+   0.117,
+   6.1,
    ""
-  ],
-  [
-   "R1",
-   "2iJQxHmh6W2UMCR4KLSM27iTCapBYmPqHwgpHqMkpump",
-   0.101,
-   2.6,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "RUG7",
-   "AvbwKYEhL3gUYrh3o6mYMbVMMePxJRhv89avD9Eapump",
-   0.092,
-   6.9,
-   ""
-  ],
-  [
-   "CHIP",
-   "36o9ksATaitnhLbkMuQ8Xm5v3C2QjZfiqGaXoiaTpump",
-   0.09,
-   5.6,
-   ""
-  ],
-  [
-   "MEMESTOCK",
-   "7j7p25xKY94AUrhYmC7gKNPQrXBDjMBz5oJ4LZPwdeyj",
-   0.074,
-   7.2,
-   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
