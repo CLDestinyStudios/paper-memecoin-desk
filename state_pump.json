@@ -7122,83 +7122,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:28:53",
+   "2026-10-30T16:29:56",
    32.58
   ]
  ],
- "cycles": 3713,
+ "cycles": 3714,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.85,
- "watching": 204,
+ "sol_usd": 95.85000000000001,
+ "watching": 199,
  "near": [
   [
    "Fomogiving",
    "Fb2r9Fontz6cSQuNgqiqUYmmW94bA4KQGB3JtHas8XHs",
-   0.583,
-   4.6,
+   0.554,
+   5.6,
    ""
+  ],
+  [
+   "Rewards",
+   "JCn7P22UcSLqNAg22sTkMNKnmJjT1qPcWvThvtNGpump",
+   0.459,
+   2.3,
+   "bundled_launch=7 extra buys in creation block"
   ],
   [
    "NODF",
    "9TCVqWBBgmDCS6FJNszxE7Lhy838QWPTh4ik2nZKpump",
    0.165,
-   5.0,
+   6.0,
    "top5_hold_most=94%"
   ],
   [
-   "BRAKE",
-   "31yNC6D7rnhFYKt3Lfs2kFNQyUNtmVinZgc7vGgdpump",
-   0.074,
-   5.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "APPLE.FUN",
-   "9bSLJ4uZww1SHXLoFjf9qRxXVJdcXBPxa9U5Tyo4pump",
-   0.06,
-   9.8,
+   "iPUMP",
+   "YEhxqX6cAShTs3UUFoUbz3taUWDePdJ2svFitTGpump",
+   0.055,
+   2.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "KCU",
    "FqyH7WDyRMvTxfuiK59iuuFLQe7qi2DFxk34YCebpump",
    0.039,
-   8.7,
-   ""
-  ],
-  [
-   "FNC",
-   "G7eMtYfAyPLEGbnywYeu5gqeUt6bmrR3z1huaCa4pump",
-   0.026,
-   5.5,
-   ""
-  ],
-  [
-   "TAX",
-   "2i85vXmyCCx1eVCm2U7tSDBHWWEAjjNanZADqqjFpump",
-   0.025,
-   2.4,
+   9.7,
    ""
   ],
   [
    "inkmaw",
    "7ubspfZJaHBAMQiQD2jhsbXJXdPV9DriXh1stqUobs3N",
    0.023,
-   7.0,
+   8.0,
    ""
   ],
   [
-   "MEIOWL",
-   "AGmyQ2CY1crzDnQjgT71oPSngPkgmy9a4r2LVqhGpump",
-   0.016,
-   9.9,
-   "buyers=5; top5_hold_most=100%"
+   "FRNK",
+   "6tCMtFTUCS7RJ7nrU2GN7neULWQumpS5RXezKeNcpump",
+   0.022,
+   2.9,
+   ""
   ],
   [
    "MARKET",
    "CV3R9oScmPJFU4jYsCR1qxhKZ8eQcCw68csS9cwdpump",
    0.013,
-   4.7,
+   5.8,
+   ""
+  ],
+  [
+   "RETARDMAX",
+   "41yrdQumcKvHKzG64q48HMp35xW9c4z27dLozC4kpump",
+   0.013,
+   4.5,
+   ""
+  ],
+  [
+   "$FARTAI",
+   "3KGwrfvNGQcKuJti6D7rzioz3JaAjbjYQPkpFunZpump",
+   0.013,
+   5.5,
    ""
   ]
  ]
