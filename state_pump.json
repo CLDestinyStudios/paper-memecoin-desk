@@ -6698,83 +6698,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:53:32",
+   "2026-10-29T23:54:46",
    32.58
   ]
  ],
- "cycles": 2719,
+ "cycles": 2720,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.04999999999998,
- "watching": 150,
+ "sol_usd": 98.04,
+ "watching": 138,
  "near": [
   [
-   "HYPERAGENT",
-   "5CXwcaNgJtiHJRPLWnnXV6i81Uskohd3haw2TpWEpump",
-   0.41,
-   7.9,
-   "top5_hold_most=94%; launch_slot=missing"
+   "p/acc",
+   "3rfnkLkDS4ierei4PTPR54hg8UtJGxb37R5zRYURpump",
+   0.825,
+   2.7,
+   ""
   ],
   [
    "LIQ",
    "C1NeRTKeBebDcssGmEcQNy3iGta6oc8mUErCqzmkpump",
-   0.362,
-   2.3,
+   0.441,
+   3.5,
    "launch_slot=missing"
   ],
   [
-   "anon",
-   "T9qYdgfaLnPVwtwhsjV7VPrh5DwRvbJrt785N69pump",
-   0.324,
-   5.7,
-   "serial_creator=10 launches/24h"
+   "Kenneth",
+   "DzqHidxjKxCwpbqfqesQWSdHPWHneouy82tW2VUkpump",
+   0.396,
+   3.4,
+   "launch_slot=missing"
+  ],
+  [
+   "HYPERAGENT",
+   "5CXwcaNgJtiHJRPLWnnXV6i81Uskohd3haw2TpWEpump",
+   0.331,
+   9.1,
+   "top5_hold_most=95%; launch_slot=missing"
   ],
   [
    "STAYD",
    "Fi3qr6hh8xjZy3KDtjyTPvSaLyu5c8X8VLFZw6FCpump",
-   0.267,
-   3.0,
-   "top5_hold_most=90%; launch_slot=missing"
+   0.259,
+   4.3,
+   "top5_hold_most=94%; launch_slot=missing"
   ],
   [
    "KillPad",
    "H9DgPNUFkpCc77JdsjfgUskAtZyiB9Deds17hLZMpump",
-   0.22,
-   2.9,
-   ""
+   0.223,
+   4.2,
+   "buyers=8; top5_hold_most=85%; launch_slot=missing"
+  ],
+  [
+   "DADHIPPO",
+   "GWDfBxbNtRB4anfXovqWXb226mNrhN9bFbgsgFKpump",
+   0.056,
+   3.4,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "soon",
    "3vYB3fANquPVGeLQw5gejuZY6V7w9f5xtFsUA4edpump",
    0.03,
-   5.8,
+   7.1,
    ""
   ],
   [
    "MARS",
    "G4ANxShYDDeCXMXb4djbcukTqqXcBAMVSjh3pJ4Wpump",
    0.019,
-   4.3,
+   5.6,
    ""
   ],
   [
    "Foxii",
    "GZU3N52DAPzif2eGrtKXQxCMGDgZWLH1Hd5PbJssKupN",
    0.013,
-   3.9,
-   ""
-  ],
-  [
-   "KALI",
-   "CD3iuvGTCSYfUvk2PUhEBJ7TZEN7Aq7MuJfrweCHpump",
-   0.011,
-   5.4,
-   ""
-  ],
-  [
-   "PLAN",
-   "DPh3vYZMpsVReyD7bJA6fJA5GpjAzoGhExCTTfGLpump",
-   0.007,
-   5.2,
+   5.1,
    ""
   ]
  ]
