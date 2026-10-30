@@ -7056,81 +7056,85 @@
   [
    "2026-10-30T13:50:51",
    32.58
+  ],
+  [
+   "2026-10-30T13:51:52",
+   32.58
   ]
  ],
- "cycles": 3555,
+ "cycles": 3556,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.84343598769998,
- "watching": 230,
+ "sol_usd": 95.015,
+ "watching": 239,
  "near": [
   [
    "TUSKcoin",
    "E7enuoDfZrCyerELkrZPZT15sSHWWdL3VwZYGgcepump",
-   0.967,
-   3.4,
-   ""
+   1.0,
+   4.4,
+   "graduated"
+  ],
+  [
+   "Null",
+   "Aw88PrYnGLR3dUpSBSHDS8NLWb62WJwanQHPsHpupump",
+   1.0,
+   2.4,
+   "graduated"
+  ],
+  [
+   "Safu",
+   "8WnufwWL4ebgCiRFBboFvj1VqHnBnAxHxNzQwxE6pump",
+   0.589,
+   2.5,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "FLIRT",
+   "411PSJ9mUcnoPmPZKXWEvDK3BHWxdHD4wmt1WtXEpump",
+   0.39,
+   2.1,
+   "rugcheck=creator history of rugs"
   ],
   [
    "FOMOKOMBAT",
    "F4sewWrrptosMWpCT38ouNirFWcvLntTtg2ywgvbpump",
-   0.261,
-   3.1,
+   0.298,
+   4.1,
    "buyers=9"
   ],
   [
-   "mikol",
-   "CL7T68mafRUi1K6gx3sxt6MKhzJRi3M56nrWSAj7pump",
-   0.073,
-   9.7,
-   ""
+   "PAUTH",
+   "3T3TUoH11DKmqbPSWFxJckK5uoYHNpvPjAccdxAkpump",
+   0.06,
+   9.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "TUSK",
-   "CX3sqZmAjR6Antj2h3Bd2uB1GdUnN4pT4RVa5RvTpump",
-   0.064,
-   8.7,
-   "buyers=2; top5_hold_most=100%"
+   "5TCK45KBCB24CvrdfhHvry31PJA4J7KDe9vT9qB7pump",
+   0.058,
+   3.7,
+   ""
+  ],
+  [
+   "XPAD",
+   "6bx7jSk4RMZSkW5MJnGqgCXR4tFQp5xoufpUqhofpump",
+   0.053,
+   2.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "CCI",
    "D8AwPaPtCEFvxB2datCDybPKWsWEYdFNJ5rSZGMVpump",
    0.042,
-   2.1,
-   ""
-  ],
-  [
-   "PAUTH",
-   "3T3TUoH11DKmqbPSWFxJckK5uoYHNpvPjAccdxAkpump",
-   0.04,
-   7.9,
+   3.1,
    ""
   ],
   [
    "PILLYPAD",
    "67oC1ddKMAodUz5cYDvMM4LpzrHKGvgPqisgDWj7pump",
    0.038,
-   3.2,
-   ""
-  ],
-  [
-   "TUSK",
-   "5TCK45KBCB24CvrdfhHvry31PJA4J7KDe9vT9qB7pump",
-   0.035,
-   2.7,
-   ""
-  ],
-  [
-   "GUZLEGOA\u0422",
-   "33BNghm2X1skL6hAXY3KhgJbknpXUtrKhqTbPHMApump",
-   0.034,
-   2.6,
-   ""
-  ],
-  [
-   "ERIC ",
-   "F3WQGwTP5JtA8H5cQrewGtd3q9n1MmvF6K3DxaoNpump",
-   0.026,
-   8.2,
+   4.2,
    ""
   ]
  ]
