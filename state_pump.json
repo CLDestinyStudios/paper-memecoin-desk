@@ -7126,83 +7126,83 @@
    32.58
   ],
   [
-   "2026-10-30T16:32:59",
+   "2026-10-30T16:33:57",
    32.58
   ]
  ],
- "cycles": 3717,
+ "cycles": 3718,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.00999999999999,
- "watching": 193,
+ "sol_usd": 96.11029813609998,
+ "watching": 194,
  "near": [
   [
    "unc",
+   "Dh9SpWfpWDkeJTdNU5KTa2eCxYe1EfS49ZZyjuf4pump",
+   1.0,
+   3.0,
+   "graduated"
+  ],
+  [
+   "unc",
    "G8qkiSVsTdFvcKx9BgZBfqwTZfWd87TVAxXN2EzEpump",
-   0.625,
-   2.2,
+   0.469,
+   3.1,
    ""
   ],
   [
-   "Fomogiving",
-   "Fb2r9Fontz6cSQuNgqiqUYmmW94bA4KQGB3JtHas8XHs",
-   0.563,
-   8.7,
-   "bundled_launch=3 extra buys in creation block"
+   "iPig",
+   "74xoiX7mkiTU9D9RXjKYdYaen5XqrZSAuB8qga6opump",
+   0.138,
+   4.0,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "#Hypepu",
+   "6tbZLfLPXcia9fQKBTSCo3rSvyiwVeNrFp5pVSvUpump",
+   0.137,
+   2.7,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "wasted",
    "5pyoz1kf7tfxf3PZaibKHvvRezxqxg2GPCAhxkQKpump",
    0.13,
-   3.2,
+   4.2,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "iPig",
-   "74xoiX7mkiTU9D9RXjKYdYaen5XqrZSAuB8qga6opump",
-   0.123,
-   3.1,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "NODF",
-   "9TCVqWBBgmDCS6FJNszxE7Lhy838QWPTh4ik2nZKpump",
-   0.103,
-   9.1,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "CEMENT",
-   "G3KR4Ztji5wvrZvwJtjNyENBLVid7wGDP85bk4vzpump",
-   0.074,
-   3.5,
-   ""
   ],
   [
    "iPUMP",
    "YEhxqX6cAShTs3UUFoUbz3taUWDePdJ2svFitTGpump",
    0.055,
-   5.7,
+   6.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "$SPOOK",
    "BDhPuDbBJKqJ8ooknLqbBWTsreJYPLYQcX3fcwKqpump",
    0.022,
-   2.2,
-   ""
-  ],
-  [
-   "MARKET",
-   "CV3R9oScmPJFU4jYsCR1qxhKZ8eQcCw68csS9cwdpump",
-   0.013,
-   8.8,
+   3.2,
    ""
   ],
   [
    "$FARTAI",
    "3KGwrfvNGQcKuJti6D7rzioz3JaAjbjYQPkpFunZpump",
    0.013,
-   8.5,
+   9.5,
+   ""
+  ],
+  [
+   "$NFS",
+   "4JTZDMUgvfAMGHXKyWNUSJSEekSAan3TwAYCKX37pump",
+   0.012,
+   4.6,
+   ""
+  ],
+  [
+   "Jelly",
+   "E1goerpe5oo4CwQcJTkWPoWzYcN2BeYuQV6fytRRpump",
+   0.008,
+   6.7,
    ""
   ]
  ]
