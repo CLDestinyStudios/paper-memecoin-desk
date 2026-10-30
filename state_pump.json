@@ -6726,83 +6726,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:00:45",
+   "2026-10-30T01:01:47",
    32.58
   ]
  ],
- "cycles": 2786,
+ "cycles": 2787,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.09608642309999,
+ "sol_usd": 97.11599049345,
  "watching": 98,
  "near": [
   [
    "LAZARUS",
    "HWDp6Zh5yQyyXKTeYxFjYToxdikzWSBDfAzXYaCopump",
-   0.785,
-   3.6,
+   0.813,
+   4.6,
    ""
   ],
   [
    "RAMP",
    "DC7RcUA7JiwF3Rtdej1489hBUrVNNJy9ZJgj78uApump",
-   0.773,
-   2.8,
+   0.743,
+   3.8,
    ""
+  ],
+  [
+   "ANONYMOUSE",
+   "AxZTXnuimHk9XBND3cEirgkjxJMfyLpRnLUJfTPvpump",
+   0.377,
+   2.6,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "WOWNERO",
    "CsDuTjCBSLNpNGMhUTGYzAY5YqpixhA2ZdnF5VpHpump",
    0.072,
-   2.8,
+   3.9,
+   ""
+  ],
+  [
+   "CRTX",
+   "GPAN7ZHaQZDpi1YyeKDgfPYHQPJdwQdrv1doPLf8mRcz",
+   0.045,
+   2.7,
    ""
   ],
   [
    "CHIEF",
    "5pizYavuWdWhG8eoDzShQckY6G2HJBsbWbKbw4vdpump",
-   0.031,
-   3.7,
+   0.03,
+   4.8,
    "top5_hold_most=85%"
   ],
   [
    "LNTN",
    "BByJSeQ3jssnoFK9kwhu6eKQhwusDSZtpGm1Z1Bk6eUx",
    0.025,
-   3.2,
+   4.3,
    ""
   ],
   [
    "JIM",
    "6G3rt4HDWrD7PCVHmSesREkUCJ76vmwgk78QWiRdpump",
    0.022,
-   5.2,
+   6.2,
    ""
   ],
   [
    "pepepill",
    "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
    0.018,
-   5.9,
+   6.9,
    ""
   ],
   [
    "USC",
    "4MVKMoFMtBPTijozMxbfjVdj2S6VCQVkYkMqjnXVpump",
    0.015,
-   8.5,
-   ""
-  ],
-  [
-   "ULTRA",
-   "zaenz9Br2dbNtBFK3Q93Z4TD9m9SQtsF2DmdA47pump",
-   0.012,
-   8.3,
-   ""
-  ],
-  [
-   "PRT",
-   "Vvq8VT8DTj5jiLRK8npu16sxD6d3oJDSkghYc8Xpump",
-   0.01,
-   6.4,
+   9.5,
    ""
   ]
  ]
