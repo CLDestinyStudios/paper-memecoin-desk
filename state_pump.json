@@ -7024,81 +7024,85 @@
   [
    "2026-10-30T12:35:50",
    32.58
+  ],
+  [
+   "2026-10-30T12:36:49",
+   32.58
   ]
  ],
- "cycles": 3480,
+ "cycles": 3481,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.29999999999998,
- "watching": 272,
+ "sol_usd": 94.23,
+ "watching": 273,
  "near": [
+  [
+   "OPTIMISM",
+   "9d4tJ2tzS4S9K55Sj2Y9a2MBzaWTwkbiuCm3dF6gpump",
+   0.955,
+   2.7,
+   ""
+  ],
   [
    "\u3164\u3164",
    "8vhj28i4FS87DQWac3uMr54vfrX7nin1SnSFuyc6pump",
-   0.739,
-   3.0,
+   0.838,
+   3.9,
    ""
   ],
   [
    "FBinance",
    "EMaBaGCb2TQU3jU5v5T9WCAsYiLsoBCNQgehD4aMpump",
-   0.65,
-   5.9,
-   ""
+   0.666,
+   6.9,
+   "creator=47.0%; top10=52.3%; top5_hold_most=98%"
   ],
   [
    "ATP",
    "FtPo4Z8tHfAkeKYvSEFP9jcteeWKM4Q64ZMsAGcXpump",
    0.632,
-   7.2,
+   8.1,
    "buyers=8; creator=38.9%; top10=50.1%; top5_hold_most=100%"
   ],
   [
    "babycock",
    "BvFJs3TEBmwfvyQJNRL1deZwKYtS7eHhnLpkCKhhpump",
-   0.41,
-   4.8,
-   ""
-  ],
-  [
-   "COOKED",
-   "65YET6w5tseegTrn31DAsdSTuPu7aN9KZu3gi44Ppump",
-   0.103,
-   2.9,
-   ""
-  ],
-  [
-   "peace",
-   "2va6oqvf89kFyyjHknyDrSCbLkd4KHJ88hTwGrFipump",
-   0.1,
-   2.5,
+   0.416,
+   5.7,
    ""
   ],
   [
    "INVLUNCH",
    "3JSxCPEyQL1fR6djBDFJF9vWN4d4eppxViRECPA5pump",
    0.099,
-   3.9,
+   4.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "IGNORE",
    "Dptcd6VHVFpQauyUFpm69wBq6x4Af4v1YftnHyJRpump",
    0.099,
-   2.3,
+   3.3,
    ""
   ],
   [
-   "Oogie",
-   "5y6iovGynDFKX8hd7REYxKGtdrjUb9ahK6YQQjy5pump",
-   0.086,
-   9.8,
-   "buyers=1; top5_hold_most=100%"
+   "Penguin",
+   "6AyZsNDJctD1T1hmqPsZWGGSuWM7feNEUbph5SeLpump",
+   0.091,
+   2.7,
+   ""
+  ],
+  [
+   "DISABLEDEV",
+   "CjPNqozJmAZgeBP7B55gRTqBkgyMkvMjmfgbVH8Apump",
+   0.083,
+   7.6,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "STOCKPOCALYP",
    "D8EAhNJLhh6oVhu34HAhkLr3yyBJSZ8BQoSKHHw5pump",
    0.083,
-   2.3,
+   3.3,
    ""
   ]
  ]
