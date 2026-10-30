@@ -7078,84 +7078,84 @@
    32.58
   ],
   [
-   "2026-10-30T14:43:52",
+   "2026-10-30T14:45:00",
    32.58
   ]
  ],
- "cycles": 3608,
+ "cycles": 3609,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.42,
- "watching": 233,
+ "sol_usd": 95.32,
+ "watching": 227,
  "near": [
   [
-   "GAMBLER",
-   "FbtVXG1c88chkcwBZLCtvzqB83tPHXjrCJWTLe1bpump",
-   0.838,
+   "PUMPBOARD",
+   "9kYWukRUBL5Fq5o5YdRfjxiB1cxTFMMyqU2KazNnpump",
+   0.592,
    2.5,
-   ""
-  ],
-  [
-   "Anita",
-   "HAbXdPwTzyd21z2EfvJ9aNriWcsQi4nsyFcbPfFVpump",
-   0.738,
-   2.4,
-   "serial_creator=10 launches/24h"
+   "rugcheck=creator history of rugs"
   ],
   [
    "KYRO",
    "LNFPX3MKNLH2PTnpj4airVznHKp38DA63WLhbkipump",
    0.485,
-   6.8,
-   "buyers=1; creator=38.5%; top5_hold_most=100%"
+   7.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Tommie",
+   "6DearK84osP8mg7EUm8z95uWrNfr9WkGYidXgVJBpump",
+   0.454,
+   2.7,
+   "bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "Anita",
+   "C13YjrBRZcksJAoiYeJxMfj6GSxtVuw1hKs7MtpMpump",
+   0.356,
+   2.4,
+   "serial_creator=10 launches/24h"
   ],
   [
    "HYPERWICK",
    "9Po7jPkn9DzArQH45B2cpNvgWc7BkzwFaB9L735Qpump",
-   0.244,
-   3.9,
+   0.283,
+   5.0,
    "buyers=6; top5_hold_most=99%"
   ],
   [
    "MOCHII",
    "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
-   0.153,
-   6.0,
-   "buyers=8; top5_hold_most=82%"
+   0.166,
+   7.2,
+   "buyers=7; top5_hold_most=82%"
+  ],
+  [
+   "KSHIBA",
+   "GyAsjEMHSRrUTgEJU9buKT78vNMCaGrVZNyUExZBfrrT",
+   0.165,
+   2.5,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "PIO",
    "H29D8JymdAV3uWmiNZHhnX15npVo77VmKYDocR8wpump",
    0.129,
-   3.0,
+   4.2,
    "top5_hold_most=99%"
   ],
   [
-   "tCat",
-   "E8ux5W7GdZBENmF6MFj3DVie1KSjH7mNfzhDNxE2pump",
-   0.118,
-   3.0,
-   "buyers=6; top5_hold_most=99%"
+   "Belief",
+   "BFgJHFC7AbBX699Sr65s9gkRkNNwve3w459fdYxypump",
+   0.086,
+   3.1,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "Belief",
-   "AfqwbzCoCZNQvfahd4teWdQtg6xqi9eipCJ1SYknpump",
-   0.087,
-   3.0,
-   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "WENDEEZ",
-   "HE6tyGaM5emANeyjnfRWgnQuKzKFxFQYD93s8C12pump",
-   0.071,
-   2.7,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "AI",
-   "7apV9CU5TtPL6dUuKfu9nLWAF8ZVKJXFz4mJhyDjpump",
-   0.043,
-   7.0,
-   ""
+   "HDoxWKgLkkw1UZAnajRM2AKybi3Gi7c9Zpg7F69fpump",
+   0.085,
+   2.5,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
