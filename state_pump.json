@@ -7048,81 +7048,85 @@
   [
    "2026-10-30T13:31:15",
    32.58
+  ],
+  [
+   "2026-10-30T13:31:53",
+   32.58
   ]
  ],
- "cycles": 3535,
+ "cycles": 3536,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.96000000000002,
- "watching": 227,
+ "sol_usd": 94.84172425864999,
+ "watching": 232,
  "near": [
+  [
+   "Kreo",
+   "FUiVjVSD8ASUTZbXVN2u1ZzbejuVo2GRzJCHjQqmpump",
+   0.898,
+   2.5,
+   ""
+  ],
   [
    "PFMikol",
    "9kLtjDF21bmHs3UrmVbJTtvEkuZ8Knx4X2VfeuKHpump",
-   0.895,
-   6.3,
+   0.882,
+   6.9,
    ""
   ],
   [
    "PILLY",
    "3jvrDkZLodCqcV7fEka7Y4VF95UweGnrR9XbeTjHpump",
    0.351,
-   7.1,
+   7.8,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "KindleWake",
-   "42LWGpJ6nts8dfBFLCpz56QzysFzruSGbQXsbgYppump",
-   0.259,
-   6.4,
-   ""
   ],
   [
    "BUTTERFLY",
    "H8uuFZATmESswspueeAf6t7jCNQCvETkqBa9mhxNpump",
    0.231,
-   7.8,
+   8.5,
    "buyers=7"
   ],
   [
-   "HYPR",
-   "DGv3T64ULufAxuRP4QvZTSjgoimBCELTpa8cnsk1pump",
-   0.209,
-   3.4,
-   "top5_hold_most=90%; bundled_launch=3 extra buys in creation block"
+   "Pilly",
+   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
+   0.221,
+   4.6,
+   "top5_hold_most=92%"
   ],
   [
-   "BUNKER",
-   "K4uhU18ba6GSBSJi5PPccmTmCXuTFxsqJYa9mGxpump",
-   0.201,
-   4.5,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "PUMPYANG",
-   "3SrJRsAKBXzh7kAMsUtv8cWZfLSJ4oXTqwZq3PZagJoy",
-   0.194,
-   4.9,
-   "top5_hold_most=85%"
+   "KindleWake",
+   "42LWGpJ6nts8dfBFLCpz56QzysFzruSGbQXsbgYppump",
+   0.2,
+   7.0,
+   ""
   ],
   [
    "BUTTERFLY",
    "5waQ5i92zCBLFb6c8nPEbo2jaeND3R1iLHBGfxHcpump",
    0.167,
-   3.4,
+   4.0,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "SAE",
-   "CxPrRFTw8rDDE8K3XtnFrBaANWoizPFPThsRckNFrNbm",
-   0.091,
-   10.3,
-   "buyers=4; top5_hold_most=100%"
+   "BUNKER",
+   "K4uhU18ba6GSBSJi5PPccmTmCXuTFxsqJYa9mGxpump",
+   0.16,
+   5.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "TUSK",
-   "5t6vR1mE9aCFdzJgP1uMT9FaJRLWqZeY19BRp65tpump",
-   0.072,
-   7.3,
+   "F36E6XcspEmQgM1Q5NRDyTJ6NCpFwmTf8b45dsBdpump",
+   0.136,
+   2.2,
+   ""
+  ],
+  [
+   "TUSK",
+   "BUT3R9B3BcVSN2tuv2AxHwGcYwBG8GzVmL7t73yvpump",
+   0.131,
+   2.6,
    ""
   ]
  ]
