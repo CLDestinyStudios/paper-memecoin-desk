@@ -6804,82 +6804,86 @@
   [
    "2026-10-30T04:02:46",
    32.58
+  ],
+  [
+   "2026-10-30T04:03:46",
+   32.58
   ]
  ],
- "cycles": 2968,
+ "cycles": 2969,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.02960178359999,
- "watching": 173,
+ "sol_usd": 96.93313903219999,
+ "watching": 172,
  "near": [
   [
    "Pitpaw",
    "GmB6pej6JY7u6RwxzVmcv523AaLFNzQH4qyiyZuxpump",
-   0.97,
-   6.3,
-   ""
+   1.0,
+   7.3,
+   "graduated"
   ],
   [
-   "Kim",
-   "5yodPm7MPPLWEcvHwVJAYjTqu2n5A1KSEwRJUpt8pump",
-   0.706,
-   2.3,
-   "bundled_launch=4 extra buys in creation block"
+   "weather",
+   "EB9EBdLwEGcom8f84M4PU2qKAwFtbRMY7whTFAzmjHV6",
+   0.392,
+   2.7,
+   "serial_creator=30 launches/24h"
   ],
   [
-   "Pookie",
-   "CuGfwRFw8D76oHFyN15aCtNvGFYKZ4cvj3W9UYtYpump",
-   0.31,
-   2.0,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "qoute",
-   "EU91R369a1UQWVuhdNfAT5vfg4pDLBoWDzp6pYPGpump",
-   0.15,
-   4.0,
-   ""
-  ],
-  [
-   "Potato",
-   "ERXYW8YsTJu1griHNbtC6DE23uAXa2CXWeAaN6SdccVY",
-   0.135,
-   3.5,
+   "BONI ",
+   "EYekcpg5pj6eJELPaotzzezwMNPUmpkSWTQDvMBapump",
+   0.383,
+   2.2,
    ""
   ],
   [
    "YALI",
    "ArhUgTudp76rTcYr6CoqSrPC9K8zChKqyq7ErZorpump",
-   0.113,
-   6.4,
+   0.141,
+   7.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "prm",
    "Gw8DXqgi6psSmAyW1ww7AoBX1sRcGrmLuRdnieMKpump",
    0.09,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "Drunk",
-   "HCJvk9Joq39onTsnxnKnJsfHvC46f2PppDYnFXWQpump",
+   "storm",
+   "H8KPr5UVXobTBDGL5j4zwgSptQCyEoDBFWJNAVyCXJLc",
    0.082,
-   9.6,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "Kim",
-   "6xUcj99rbwBT6eu1rNUYv49FXGu6gtKabvqTKr9vA1gG",
-   0.075,
-   4.8,
+   2.0,
    ""
   ],
   [
    "FBI",
    "DQJFSDcWYTZ9TgxdU9n2AGtA87Zcc9pBQCZqJUwvThmU",
    0.074,
-   8.8,
+   9.8,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "qoute",
+   "EU91R369a1UQWVuhdNfAT5vfg4pDLBoWDzp6pYPGpump",
+   0.068,
+   5.0,
+   ""
+  ],
+  [
+   "KIM",
+   "HhWR3ZQAvZ38svoKAsRdrjAdPCRgd4eYiijCmCSGpump",
+   0.064,
+   7.4,
+   ""
+  ],
+  [
+   "CircuitATLAS",
+   "HBbGUNXfMs4YnSCDDNwha2KcG1raW716bzM8eDzXpump",
+   0.043,
+   4.9,
+   ""
   ]
  ]
 }
