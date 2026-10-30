@@ -7066,83 +7066,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:13:56",
+   "2026-10-30T14:14:52",
    32.58
   ]
  ],
- "cycles": 3578,
+ "cycles": 3579,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.01000000000002,
- "watching": 229,
+ "sol_usd": 95.0912888806,
+ "watching": 235,
  "near": [
   [
    "CRAMER",
    "EXdXL3EDwVYXvpknqkimLqokq22VMn9cqjsy2dMRpump",
-   0.806,
-   5.4,
+   0.74,
+   6.3,
    ""
   ],
   [
    "ZEROTAX",
    "DCHsbiKoZK3RB2afLijwiXq8yCym8sHN933rxqMZpump",
-   0.645,
-   7.3,
+   0.51,
+   8.3,
    ""
   ],
   [
    "TUFF",
    "Gaj4HQFbVfCi9i2PMuVURKZKwVVzsoP9YU646jzupump",
-   0.463,
-   5.5,
+   0.509,
+   6.5,
    ""
-  ],
-  [
-   "LITEBARBIE",
-   "GWQD7QnzavBYqRuNaJTjBweob4W1Hr9N1ENLS2Npump",
-   0.216,
-   2.9,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "REMARC",
    "CUhyxDeYAiZhqk9TNtQfp8SarcD7LxqoPF1maQTapump",
    0.128,
-   5.2,
+   6.2,
    ""
   ],
   [
    "CREAM",
    "D1rNfdGSRmSotnXhFVyWM45vN4xfLBG6rVrZmm8gpump",
    0.113,
-   9.1,
+   10.0,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "PUMPF",
-   "GGH9HTmX5VUsNZhiotznkeT9DLAhA8QVz9j4ASi7pump",
-   0.084,
-   3.7,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "sell",
    "79nnaUfoFuvCpF36APCn569fUJa35HbnwUrYhM6jpump",
    0.083,
-   3.1,
+   4.0,
    ""
   ],
   [
    "sell",
    "9GC9X4vfSXdEGn5bzRVaSvQfAVgfbVEnJ3J412Jqpump",
    0.073,
-   5.6,
+   6.6,
    ""
   ],
   [
    "RAM",
    "4nkjEJZfSB9r2agVtLachvjPCi1NgfAQ89yXSqpBw4nz",
    0.044,
-   8.2,
+   9.1,
+   ""
+  ],
+  [
+   "CRAMER",
+   "Awk5oMQ1fSC4TRgasnbMxM5gbrAiTjsf1jixm3mepump",
+   0.043,
+   2.0,
+   ""
+  ],
+  [
+   "KYLIE",
+   "Bz4CjcBVgkZ35LvEKtuVgc9jNAct95H4r4odTQGvpump",
+   0.036,
+   2.9,
    ""
   ]
  ]
