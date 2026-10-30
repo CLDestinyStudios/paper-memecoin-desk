@@ -6524,82 +6524,86 @@
   [
    "2026-10-29T17:08:06",
    32.58
+  ],
+  [
+   "2026-10-29T17:09:07",
+   32.58
   ]
  ],
- "cycles": 2314,
+ "cycles": 2315,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.46000000000001,
- "watching": 189,
+ "sol_usd": 95.4273185453,
+ "watching": 193,
  "near": [
   [
    "Bear",
    "Dv6gYYkTav8Pm36UwAywxNCccwSZV1VL1tjiSpDLpump",
-   0.92,
-   3.9,
+   0.948,
+   4.9,
    ""
   ],
   [
-   "Hackoor",
-   "84ksLzykoZgpU1JNHoF8u8QxNS3JSesdY6X7o5C7pump",
-   0.1,
-   2.3,
-   "buyers=4; top5_hold_most=100%"
+   "cripto",
+   "BJznLjYgBNHVNoZMXqy3G99ugREzS5XMk6qTQKtCpump",
+   0.112,
+   2.7,
+   ""
   ],
   [
    "HYPER",
    "J1JghEKhdhLAU4ocGeKxpE6WktfSFVdogzRG5nKkpump",
    0.076,
-   4.7,
+   5.7,
    "top5_hold_most=80%"
-  ],
-  [
-   "Hackcoin",
-   "6XkiPj8uX54wFvDeTvbTRF1DiFW4L9MmyXGMLpjPpump",
-   0.073,
-   3.3,
-   ""
-  ],
-  [
-   "GIRLCOIN",
-   "FKwXsShgVZAxjR3SwpL5L5QR6RKAEpC9byTtyhK8pump",
-   0.07,
-   4.0,
-   "buyers=6; top5_hold_most=99%"
   ],
   [
    "REA",
    "3uoNb8XyiU3zm9iN8UKheT8XdKiiFW8EHr1yM8Hupump",
    0.067,
-   7.1,
+   8.1,
    ""
   ],
   [
    "GRID",
    "7vC3gpv9YvSMtEc5QmyQbFLSqnEy7QKK2ETyrjXRTWob",
-   0.06,
-   3.0,
+   0.056,
+   4.0,
    ""
   ],
   [
-   "October",
-   "8q465ZiGuHBzU2w8DSbpcW42Anr5eLq79ura52ozpump",
-   0.059,
-   2.6,
+   "Minesweeper",
+   "7MbNtakHwDUvZ8MojFaKqHjZPJNJ9VuqrkFTVfbkpump",
+   0.043,
+   7.2,
    ""
-  ],
-  [
-   "Waxseal",
-   "EA5mbEsAsX5HNPhqoh3CUsC5v27PHoHo6xWdiMERHN3n",
-   0.054,
-   6.5,
-   "buyers=8; top5_hold_most=95%"
   ],
   [
    "Cyber",
    "3JRwaSpuTAMVza5xvP4N9irMjfQLiYY8V2TnyG7fpump",
-   0.044,
-   4.0,
+   0.043,
+   5.0,
    ""
+  ],
+  [
+   "REA",
+   "9AXb1BcC2cdpdS7ALnvUAYq2zebhYajbsZTU2fUXpump",
+   0.042,
+   7.6,
+   ""
+  ],
+  [
+   "binancehak",
+   "9FW6iERGVjGTeeJaYVRtFtQurYz6F8iaXegZ5iUfpump",
+   0.039,
+   6.4,
+   ""
+  ],
+  [
+   "GIRLCOIN",
+   "FKwXsShgVZAxjR3SwpL5L5QR6RKAEpC9byTtyhK8pump",
+   0.029,
+   5.1,
+   "buyers=6; top5_hold_most=99%"
   ]
  ]
 }
