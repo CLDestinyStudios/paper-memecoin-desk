@@ -6820,82 +6820,86 @@
   [
    "2026-10-30T04:39:45",
    32.58
+  ],
+  [
+   "2026-10-30T04:40:45",
+   32.58
   ]
  ],
- "cycles": 3005,
+ "cycles": 3006,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.77547819930003,
- "watching": 140,
+ "sol_usd": 96.7793998334,
+ "watching": 147,
  "near": [
   [
-   "OOPS",
-   "71bZmTzERxHaAFCJ9Hwt6vMYcJBHmhTbfR8aVwh2pump",
-   0.14,
-   9.4,
-   "buyers=3; top5_hold_most=100%"
+   "house ",
+   "nhiMr6HxmiDa9KK7nTkQB4741scrh14vPJxyGF5pump",
+   0.131,
+   3.2,
+   ""
   ],
   [
    "Fawn",
    "4ZWi3Eaffq1QNvJjzKb1wuK6LTJZ1jRE6vdTsrDpxkKL",
    0.095,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "hedge",
+   "Fqkz5seg8vfeeofiYXEs2Bmh3NpxGCh4QvTsokAspump",
+   0.069,
+   2.1,
    ""
   ],
   [
    "Squeeze",
    "4B984hJrGTvAE5SyWdNBePeqGRRNkzk9vfXVD8zPeWC6",
    0.064,
-   5.2,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "NICS",
    "CWNWNaUdjoWATZCZz7Q4FQPdU6e1sJq11ynnBFyWpump",
    0.044,
-   6.6,
+   7.6,
+   ""
+  ],
+  [
+   "Fawn",
+   "F5DsjNXvKtkiixfw2JD6cDtMpXvp7fpFeAfDV8aC6VJ3",
+   0.043,
+   2.4,
    ""
   ],
   [
    "PIG",
    "FssahtYxYkC1Mv15Tje4gsmr9mz5761tfRUsajpYpump",
    0.043,
-   8.5,
+   9.5,
    ""
   ],
   [
-   "HypedAgent",
-   "5fJV7b9Li7dwqeHbjYZcwPivE6MMHRtAjkJMLk2fpump",
-   0.036,
-   9.8,
-   "buyers=8; top5_hold_most=98%"
+   "$MERA",
+   "74Fsfkoy4j8kzdaWa1JHR23pYzVyVbtujdC1Hmoxpump",
+   0.027,
+   2.1,
+   ""
   ],
   [
-   "\uc0ac\ud478",
-   "7ovN5nCGvaCJTr78ewCkKueC6ztD24TFFQr7uVQUpump",
-   0.033,
-   3.8,
+   "Fawn",
+   "5yzyGgfXMgqctGkP3aL7kH1zfxQJU8VZL6n7cDVvpump",
+   0.024,
+   2.8,
    ""
   ],
   [
    "boopsie",
    "MSfDPdQnjvBJ5dYVBw2MGR2KrRGmGpvkpNhctJupump",
-   0.011,
-   2.2,
+   0.018,
+   3.2,
    ""
-  ],
-  [
-   "VOTE",
-   "4J17mbkVNGsiAYWTRNHJAdBEyDn5Zwbq2LMcHPgoW3Rs",
-   0.008,
-   9.7,
-   ""
-  ],
-  [
-   "AGENCIES",
-   "DnvWzCoqAY9vHuRUvnjpToCze6LSjZSUkodrxSbbpump",
-   0.005,
-   4.3,
-   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
