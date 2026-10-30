@@ -6986,83 +6986,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:03:46",
+   "2026-10-30T11:04:59",
    32.58
   ]
  ],
- "cycles": 3388,
+ "cycles": 3389,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.17743510765,
- "watching": 264,
+ "sol_usd": 94.06693774425001,
+ "watching": 269,
  "near": [
   [
    "BURIED",
    "3aasM3u1QAKFXziSEFNQ8nLs8BA159b11kXr7a9bpump",
-   0.918,
-   4.6,
+   0.921,
+   5.9,
    ""
-  ],
-  [
-   "GSOL",
-   "7etiA9itnEzSJFzVLY7795h4yXRdeW5q7ecn2gEfpump",
-   0.679,
-   6.5,
-   "top10=47.8%; top5_hold_most=83%"
   ],
   [
    "USDF",
    "9S8YnL3dij9KtndD5WuhPwNk9Php5bYgvDm1DXtopump",
    0.241,
-   8.3,
+   9.5,
    "buyers=2; creator=17.7%; top5_hold_most=100%"
+  ],
+  [
+   "EARNFI",
+   "CVe6LncXK9QxwNaLjTD19NZzmscxAiHYppTvys86pump",
+   0.238,
+   5.5,
+   ""
   ],
   [
    "$BibiTit",
    "B6ZZAYqLdhbqG9sNs2VXXZRQxkM7DpTpE1zPs3VGpump",
    0.22,
-   3.3,
+   4.5,
    "top5_hold_most=87%"
+  ],
+  [
+   "GSOL",
+   "7etiA9itnEzSJFzVLY7795h4yXRdeW5q7ecn2gEfpump",
+   0.22,
+   7.7,
+   "rugcheck=creator history of rugs"
   ],
   [
    "GRVD",
    "A5pCBGavsqZGCjDuqMpYpMs6ak5LQZmLqV36cwEXpump",
    0.202,
-   6.8,
+   8.0,
    "buyers=7; top5_hold_most=86%"
   ],
   [
-   "EARNFI",
-   "CVe6LncXK9QxwNaLjTD19NZzmscxAiHYppTvys86pump",
-   0.178,
-   4.2,
-   ""
+   "X\u200aT\u200aO",
+   "5Bt9GffqBw9APvuwaP9qJqxcCAkQzfm3HuzxnmaXpump",
+   0.181,
+   2.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "DIG",
-   "3d2ANNF44gztGr4jBy7Rtf4LWJVcp6CP5tG3qWVSpump",
-   0.17,
-   9.0,
-   "buyers=9"
+   "EXFL",
+   "4LCTcadAZCaWMcGteuuQRaLQp9K57iS3bdHWWgNppump",
+   0.13,
+   7.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "polyGONE",
    "G9MKMM4qwR8CwmdkPVvSBdNFHLz5yBEhRRLuh5NQpump",
-   0.156,
-   3.9,
+   0.124,
+   5.1,
    ""
   ],
   [
-   "vampcat",
-   "8qwyjiuNbi1MxevoJPaNgotTgZgqncCtZexWBHPEpump",
-   0.146,
-   3.2,
-   ""
-  ],
-  [
-   "wddww",
-   "EtXD4RA7Dim3LM5JVmBuFjvPyUnTfpveNmdeVktapump",
-   0.099,
-   3.4,
+   "MISCHIEF",
+   "8zavC6QVBtofm1XeMcqDfkU39AePFKzox488fmURpump",
+   0.102,
+   2.5,
    ""
   ]
  ]
