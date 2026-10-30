@@ -6918,83 +6918,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:25:49",
+   "2026-10-30T08:26:49",
    32.58
   ]
  ],
- "cycles": 3230,
+ "cycles": 3231,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.94393528935001,
- "watching": 206,
+ "sol_usd": 94.89001310469997,
+ "watching": 207,
  "near": [
   [
-   "QS",
-   "FvgVPi1Tw8bykcDuPCRERQJ8475h7VCHHLkUiCyEpump",
-   0.342,
-   2.7,
-   "serial_creator=6 launches/24h"
+   "zFund",
+   "7AXcW6PeNkXNBWn97AD7SVpp9BCP265HazA2ftMpcSUk",
+   0.207,
+   5.1,
+   ""
   ],
   [
-   "Paws",
-   "D7DwoPJshuKPD87KSGCmyN6bQXqFLPLSu9bkL5V8pump",
-   0.174,
-   10.0,
-   ""
+   "COOKED",
+   "DyqdDMFGcSVHLWBBsf2sJEJqSY1r89Bx26tMd1PVpump",
+   0.128,
+   2.3,
+   "top5_hold_most=88%"
   ],
   [
    "buy",
    "AXPSonLo4rR7DowWmGZj9jydikGb1KC68msKQFUSpump",
-   0.154,
-   2.1,
+   0.114,
+   3.1,
    ""
   ],
   [
    "ABS25L",
    "CCDkEfBEjSnyyD5HqaER8BudqKyUr1fCPj9fCKdRpump",
    0.099,
-   8.8,
+   9.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Mars",
    "GNFtZ8q8MUnaTYJ9u7yiciarxeWKXA9VoH72KaPcpump",
    0.083,
-   3.1,
+   4.1,
    ""
-  ],
-  [
-   "anon",
-   "BGMVyuCZx9TqvtzgcyQCmHPYiPAy1JXyBhtxUAJCpump",
-   0.062,
-   8.1,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "NET",
    "UzfZ7WhLWJGW2uXe58cwHmThTK6ddeGEPFGCNAapump",
    0.061,
-   3.5,
+   4.5,
+   ""
+  ],
+  [
+   "SELL",
+   "GgoRNE4KiqvFyZBR4D3DABtDCBQ1qjFsz6qz6otzpump",
+   0.057,
+   2.5,
+   ""
+  ],
+  [
+   "UPP",
+   "7pYvCy6WGQJuaYAAiUZv6QAk7FmVQu269sJbvDvtpump",
+   0.05,
+   2.3,
    ""
   ],
   [
    "Yobs",
    "6G6PC2oNZCz7hC9hUr1J2XG2hQscbwxRhHiCvdFHpump",
    0.048,
-   5.0,
+   6.0,
    ""
   ],
   [
-   "HACK",
-   "rrGb46xVHXJvMofRu6EugRDnn13atg2CaYT1WUdy67Q",
+   "SAFU",
+   "GN5NU8YvG2NY57fzA2bjQSsWR8V3oihkTMiJdKsFpump",
    0.043,
-   9.7,
-   ""
-  ],
-  [
-   "INVISIBLE",
-   "B4TpxPquDo1kB1gKNUXci5rudACQtfT4EatZPocgtGLv",
-   0.043,
-   4.3,
+   2.6,
    ""
   ]
  ]
