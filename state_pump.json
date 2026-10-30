@@ -6696,81 +6696,85 @@
   [
    "2026-10-29T23:51:31",
    32.58
+  ],
+  [
+   "2026-10-29T23:52:31",
+   32.58
   ]
  ],
- "cycles": 2717,
+ "cycles": 2718,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.90999999999998,
- "watching": 161,
+ "sol_usd": 98.055,
+ "watching": 160,
  "near": [
   [
-   "ACT H:",
-   "EBif2XUqDsJChtCn8drwLv3pg7fBPbmAHbBCP8ecWHs7",
-   0.743,
-   9.5,
-   "serial_creator=10 launches/24h"
+   "anon",
+   "T9qYdgfaLnPVwtwhsjV7VPrh5DwRvbJrt785N69pump",
+   0.476,
+   4.7,
+   "launch_slot=missing"
   ],
   [
    "HYPERAGENT",
    "5CXwcaNgJtiHJRPLWnnXV6i81Uskohd3haw2TpWEpump",
-   0.486,
-   5.8,
-   "top5_hold_most=93%; launch_slot=missing"
+   0.44,
+   6.8,
+   "top5_hold_most=94%; launch_slot=missing"
   ],
   [
-   "anon",
-   "T9qYdgfaLnPVwtwhsjV7VPrh5DwRvbJrt785N69pump",
-   0.436,
-   3.7,
-   "launch_slot=missing"
-  ],
-  [
-   "GIGALON",
-   "5upn34MTcQfRwxCiG9nP5x7SX5jd1JfQAEQLxq1gpump",
-   0.043,
-   8.9,
+   "SCAT",
+   "GCXJUyZpEpstLWccJmvQ3wHXvLoYCQv9iHCSfhChACse",
+   0.037,
+   9.6,
    ""
   ],
   [
    "soon",
    "3vYB3fANquPVGeLQw5gejuZY6V7w9f5xtFsUA4edpump",
    0.03,
-   3.8,
+   4.8,
    ""
   ],
   [
    "HFA",
    "8f735PRKfwFXZvNkRMZYoWx3ziWgFLFMLLS2fLkHpump",
    0.02,
-   9.0,
+   10.0,
    ""
   ],
   [
    "MARS",
    "G4ANxShYDDeCXMXb4djbcukTqqXcBAMVSjh3pJ4Wpump",
-   0.017,
-   2.3,
+   0.019,
+   3.3,
    ""
   ],
   [
-   "SCAT",
-   "GCXJUyZpEpstLWccJmvQ3wHXvLoYCQv9iHCSfhChACse",
-   0.012,
-   8.6,
+   "Elon Musk",
+   "67jKXmtfD1zwdgcn7fkAsUS6KQ7SEB26xYfXPza8pump",
+   0.014,
+   2.7,
+   ""
+  ],
+  [
+   "Foxii",
+   "GZU3N52DAPzif2eGrtKXQxCMGDgZWLH1Hd5PbJssKupN",
+   0.013,
+   2.9,
    ""
   ],
   [
    "KALI",
    "CD3iuvGTCSYfUvk2PUhEBJ7TZEN7Aq7MuJfrweCHpump",
    0.011,
-   3.3,
+   4.3,
    ""
   ],
   [
-   "dip",
-   "CRXNdcKbknLMWS1ux8w1DHNNv56QdnXzCHKVsCj7u46t",
-   0.011,
-   9.8,
+   "PLAN",
+   "DPh3vYZMpsVReyD7bJA6fJA5GpjAzoGhExCTTfGLpump",
+   0.007,
+   4.2,
    ""
   ]
  ]
