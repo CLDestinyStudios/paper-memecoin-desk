@@ -6946,83 +6946,83 @@
    32.58
   ],
   [
-   "2026-10-30T09:32:46",
+   "2026-10-30T09:33:45",
    32.58
   ]
  ],
- "cycles": 3297,
+ "cycles": 3298,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.10499999999999,
- "watching": 252,
+ "sol_usd": 95.11079006020002,
+ "watching": 254,
  "near": [
-  [
-   "buy",
-   "kyPwNpHX2e3g6u5UP1vFYQ1tKEWEWsug8fnhxavpump",
-   0.293,
-   9.1,
-   ""
-  ],
-  [
-   "MUSK",
-   "7f7P13GZAymLyN3wX2Zp5bqUwgQrMHGtd4LKDhW5pump",
-   0.096,
-   2.1,
-   ""
-  ],
   [
    "Crumb",
    "97jD6GFhH7D7GWYQSNzCmy1hFHoMafAYxz1R1tw9pump",
    0.096,
-   2.5,
+   3.5,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "ONRAMP",
-   "5R85wZTfATTrZEYkrHteWSMTNzDEt3vMakWViQHYpump",
-   0.086,
-   2.3,
-   "top5_hold_most=90%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "JSU",
-   "H2kSwVcxaHonjxxpkHq5b3y2vbGgtavDqPWq4ZXGpump",
-   0.084,
-   9.3,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SI",
-   "H473xELedAuR86mWhNZgF3yzLCRP7HfXigrG39Ttpump",
-   0.077,
-   4.5,
+   "MUSK",
+   "7f7P13GZAymLyN3wX2Zp5bqUwgQrMHGtd4LKDhW5pump",
+   0.083,
+   3.1,
    ""
   ],
   [
    "ELONTROLL",
    "764vcA5658BX1jitEga4eUtBNmruaw42Wq85bt82pump",
-   0.075,
-   3.0,
+   0.08,
+   4.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "INTCEL",
-   "AzcQrujnjS88aftsyfhg68sxBtv7SJPvwQHv25i6pump",
-   0.073,
+   "JADRA",
+   "Dnm3aLJoUKrR5ecLpdn4QVkK1NG6V8gEafR6mEkGQovG",
+   0.062,
    2.2,
-   "buyers=8; top5_hold_most=87%"
+   ""
   ],
   [
    "COLO",
    "BXs2YBc9URqYHS96Qu7AGb1k8uhpAmbcDB4Yo4yJpump",
    0.061,
-   8.8,
+   9.8,
    "top5_hold_most=92%"
   ],
   [
    "MFRG",
    "6hPihvTn3AnR6yDeABmm9zmPRY8SCirJ5RTpNkR6pump",
-   0.048,
-   3.3,
+   0.054,
+   4.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "MOTH",
+   "B5nzbs58JNoxK9PHs2MW5YeNCu3FhoM9A5uwnCZpump",
+   0.046,
+   2.5,
+   ""
+  ],
+  [
+   "SVIA",
+   "4rbr7CwBYR13HLZaep9zWKMtfKMqEnM29ovQJn4jpump",
+   0.043,
+   2.8,
+   ""
+  ],
+  [
+   "NIBBLES",
+   "9dufFo3FUCjTvausbBBC25gHEY6kTJdCUQYpjcGMpump",
+   0.043,
+   6.6,
+   ""
+  ],
+  [
+   "Will",
+   "7vKGpLYmBKa27F6RjbzUmk4HFdnV1GtbMcev34THpump",
+   0.038,
+   2.7,
    ""
   ]
  ]
