@@ -6734,83 +6734,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:21:50",
+   "2026-10-30T01:22:50",
    32.58
   ]
  ],
- "cycles": 2807,
+ "cycles": 2808,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.23000000000002,
- "watching": 198,
+ "sol_usd": 97.35058613931153,
+ "watching": 197,
  "near": [
   [
-   "BURROW",
-   "G8jwRw55DA4MV6w775rBXT8jBfvxXbHDYM6A6w5Npump",
-   0.642,
-   3.9,
+   "GhostGuy",
+   "8kTBAkfr3aNdxcaAgSf5jGkZHCxEuvJsDhddg9tmpump",
+   0.68,
+   2.7,
    "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "STORM",
-   "5vUkRf4ohtffPjreWBPT6CbNP6qGzx1rLsgXbuRapump",
-   0.143,
-   2.3,
-   "top5_hold_most=91%"
+   "OTC",
+   "2efdTcAAueLhEqKLGuZcZPC9wwbtGsCiKzhyi5FRpump",
+   0.408,
+   2.6,
+   ""
+  ],
+  [
+   "Traitor",
+   "Fvcrjaeo75qV7q5TqdB1Qn5pAyZzd8YgFmPG3vtkpump",
+   0.326,
+   3.0,
+   ""
   ],
   [
    "BRF",
    "36WhAehRsah842RPgnQexy68wa9to6GHLwwhU9ASpump",
    0.083,
-   5.8,
+   6.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Purrpetrator",
    "6sJd9aXwZQXx9378F1HZAwL8ofpTkirKgMFccat5pump",
    0.075,
-   3.4,
+   4.4,
    ""
+  ],
+  [
+   "tech",
+   "5excrScWxAsEbbAfRoUNAfh8bhDWvhKVF3Zc482Wpump",
+   0.075,
+   2.2,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "HODL",
+   "5vV5MX4dtU6WEhdMdpbLR35RjWcioqaxcsh9pdzUpump",
+   0.074,
+   2.8,
+   ""
+  ],
+  [
+   "STORM",
+   "5vUkRf4ohtffPjreWBPT6CbNP6qGzx1rLsgXbuRapump",
+   0.067,
+   3.3,
+   "buyers=7; top5_hold_most=99%"
   ],
   [
    "HODL",
    "5vT9Lwjm6Fpdey4rNytr2PHX1sLza4WgZQF8WvQYpump",
    0.051,
-   2.5,
+   3.5,
    ""
   ],
   [
    "snowball",
    "ESktVoNH8XpvpYK2nmQ8uU1wuVpQ4QfC7UJxpFvWpump",
    0.044,
-   3.2,
-   ""
-  ],
-  [
-   "Breast",
-   "3QEoC6bHMes8d6rrJyhwRRLxpcriism8qwWEqu7dpump",
-   0.028,
-   7.2,
-   ""
-  ],
-  [
-   "ROLLY",
-   "CEiC3hYMgHFiXg7Emw4NVtUguX6wBNHwJ3cpUj3epump",
-   0.025,
-   4.9,
-   ""
-  ],
-  [
-   "TRASH",
-   "3KQ9kdKSTKPx6rL52x4JsSesFCwgj8AW88nkZYyPpump",
-   0.013,
-   8.9,
-   ""
-  ],
-  [
-   "BOT",
-   "bFpga4YQm6kna6tBuNyuMTp2K7b3notuBgkShytpump",
-   0.011,
-   3.0,
+   4.2,
    ""
   ]
  ]
