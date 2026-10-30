@@ -6844,81 +6844,85 @@
   [
    "2026-10-30T05:34:48",
    32.58
+  ],
+  [
+   "2026-10-30T05:35:49",
+   32.58
   ]
  ],
- "cycles": 3060,
+ "cycles": 3061,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.56593954295002,
- "watching": 167,
+ "sol_usd": 96.5864764394,
+ "watching": 164,
  "near": [
-  [
-   "Laptop",
-   "5YSzcxPQLX8vCdHwYMeMcNLGQdXnyeFFDQidqyPPpump",
-   0.878,
-   3.5,
-   ""
-  ],
   [
    "PeePee",
    "EgbkkxwdkCTEfNGQjRixqbK9hZp2wLncUmVUBT6upump",
-   0.34,
-   2.7,
-   "creator=17.2%; top5_hold_most=86%"
+   0.506,
+   3.7,
+   "creator=25.0%"
   ],
   [
-   "Martino",
-   "BMVHWE7wZovSt5pjJZtbsFEENrFsSLqZBcFpH2Tupump",
-   0.239,
-   2.1,
-   "bundled_launch=7 extra buys in creation block"
+   "SM",
+   "ETP5oG84VesVDQgYRaW8EicsN5mcBiMZis7oPpfipump",
+   0.406,
+   2.4,
+   ""
+  ],
+  [
+   "PAHOL",
+   "5Pd1nGv4kB4CbqzuTcL1vdCL9ivhWd1SBDMFdtM6pump",
+   0.22,
+   2.5,
+   "top5_hold_most=85%"
   ],
   [
    "QGOOSE",
    "HV3Zk4qJZevcvh3tSTaUbuL8LoAMUnzwHDYetSa1pump",
    0.127,
-   8.1,
+   9.1,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "MAG6",
    "B6WuyPNYgTFrffMjX5tkEKwYZHJBAy4eqtGdLhVdpump",
    0.126,
-   3.9,
+   4.9,
    ""
   ],
   [
-   "Laptop",
-   "7ZnHBfx7hJAbSG8FBLRSXcfi9JpMaewvzKkXDPJZpump",
-   0.101,
-   3.3,
+   "#089981",
+   "5a39NykZFydyDtycbgty9y9KN6X3mZGR2TvmgctPpump",
+   0.094,
+   3.0,
+   ""
+  ],
+  [
+   "FAAAAA",
+   "CFqaRSXQ57v8Pyc58VJYLtVGySii9oJTrq9dX5B57qDj",
+   0.065,
+   2.4,
    ""
   ],
   [
    "NCTO",
    "HpssqLTbAEcq55bndmYqhXJnReFtMujoJesyeR8jpump",
    0.065,
-   3.6,
+   4.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "MASK",
    "91T5n2AJzfJn5FuWn9RaNFYyfykRfXcwMtGT2oNBpump",
    0.043,
-   5.2,
-   ""
-  ],
-  [
-   "BSC",
-   "EB4VFT6GPmF43ss3X5h7v4My78XeMbQDLCxSedV9pump",
-   0.04,
-   9.2,
+   6.2,
    ""
   ],
   [
    "BHACKER",
    "HNn717cqPqtcyyhG4emFj3jEkp8rnUWQS7WdBHbjpump",
    0.019,
-   7.8,
+   8.8,
    ""
   ]
  ]
