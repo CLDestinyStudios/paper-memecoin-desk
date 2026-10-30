@@ -6614,83 +6614,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:40:19",
+   "2026-10-29T20:41:17",
    32.58
   ]
  ],
- "cycles": 2526,
+ "cycles": 2527,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.63737461485,
- "watching": 176,
+ "sol_usd": 96.62334038,
+ "watching": 164,
  "near": [
   [
    "SSI",
    "8wkx3pahmtzWtjz5c5mHbsFEEVQAzP7U8ZR2A4nnpump",
-   0.934,
-   4.3,
+   0.896,
+   5.2,
    ""
   ],
   [
-   "MS",
-   "GnJwWPRbjueWT26BT6w5qFr3gUV4KNDtvTmJQrdMpump",
-   0.379,
-   2.4,
-   "rugcheck=creator history of rugs"
+   "RIVALY",
+   "BK2N4tSa2REPMS72VZjq5c5b6fjFFCwbjiqTCsr6pump",
+   0.271,
+   2.8,
+   "creator=15.2%; top5_hold_most=97%; bundled_launch=8 extra buys in creation block"
+  ],
+  [
+   "CI",
+   "nLPAwPmyhxBVp1S8YDckcwFku8cZvDY4bfoq5BNpump",
+   0.133,
+   3.0,
+   "serial_creator=7 launches/24h"
   ],
   [
    "WENCAR",
    "JDqUZzGvGWHiuegCV1vZAAuKebaVuBWuSkyRnfT5pump",
    0.114,
-   2.7,
+   3.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "COMPUTE",
    "DYVwYek8qi8ssQW1mJbihNzUfm4bLRnCiCykej9f7ehV",
    0.086,
-   6.2,
+   7.2,
    ""
   ],
   [
    "SHI",
    "CjFqXT3kiDMiDdipaByc7oGVzy3wtwBYQDkbcsw5pump",
    0.083,
-   3.4,
+   4.4,
    ""
   ],
   [
-   "SSI",
-   "46E5qabUELaEs17kmbm8TzyrkguN5XXbf6RP6pZStxQm",
-   0.081,
-   5.5,
-   ""
-  ],
-  [
-   "HypeHouse",
-   "CwZYNthss6jfmsKsZHzWSpCsSR3Lkm9RVcXSHZjXpump",
-   0.056,
-   9.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SPC",
-   "44RyEsuzv8pvZEphLRxosfU3dBcu1VttvDKb53Vqpump",
+   "ASI",
+   "3CvFgfUdPUGZQYTRPbAvx4Sc16sbHXhHHTC26ksnpump",
    0.043,
-   7.7,
+   6.3,
    ""
   ],
   [
    "W",
    "GAevssKFZQjuaCRo75CcgH4ehYGXvw397sUBpmL5quT9",
    0.043,
-   3.5,
+   4.5,
    ""
   ],
   [
    "SC",
    "74CqVx1BWyJxVvjkT9DA51xsgKykJLj1SnLvfDvCpump",
    0.043,
-   7.2,
+   8.2,
+   ""
+  ],
+  [
+   "SLIN",
+   "DD1P6ExFSq8TFnwn6FFTMobBLTpNymE6F1ZVzhFBpump",
+   0.035,
+   3.4,
    ""
   ]
  ]
