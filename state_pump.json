@@ -7110,83 +7110,83 @@
    32.58
   ],
   [
-   "2026-10-30T15:58:08",
+   "2026-10-30T15:59:00",
    32.58
   ]
  ],
- "cycles": 3682,
+ "cycles": 3683,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.67087327339999,
- "watching": 254,
+ "sol_usd": 95.71,
+ "watching": 249,
  "near": [
   [
-   "Memo",
-   "HfsvRZYi2creyckAh7G3M4PSx6sca9BH9aEotcBBpump",
-   0.379,
-   6.9,
+   "Hellowpad",
+   "9mhKhEFywRDpXSXMMyRXtUi8fHde9MHZwwAhvmMZpump",
+   0.594,
+   2.3,
    ""
   ],
   [
    "$CCOW",
    "Au233mR6m2h3WxfUabbxiT1WsfakLgKNzX9hNhHbpump",
-   0.268,
-   2.7,
-   "top5_hold_most=86%; launch_slot=missing"
+   0.27,
+   3.6,
+   "top5_hold_most=86%"
   ],
   [
    "PUMPPAL",
    "9MxYXa7hJngNuHvxNAfPuP6mKzsfimShJ6J4rbFCpump",
    0.167,
-   3.2,
-   "buyers=8; top5_hold_most=99%; launch_slot=missing"
+   4.0,
+   "buyers=8; top5_hold_most=99%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "PROPHECY",
    "4eFcPpCsHFJ3gfjgCXoY1N4gzXR6TBpuTmGqeXN2pump",
    0.145,
-   4.7,
+   5.6,
    "buyers=9; top5_hold_most=96%"
   ],
   [
    "HALLOWEEN",
    "BXmoJ3a7deqe9dGxGTqe8SJJf63X4n6uEPUwm257pump",
    0.128,
-   3.6,
+   4.5,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "FURSTAPPEN",
    "7x7BCFGzGNFBcRZ7jBabB7XossEWTMQgWw149YE2pump",
    0.107,
-   5.0,
+   5.9,
    ""
   ],
   [
    "3inches",
    "u3RV756Nqd9VdKDLHWCfHsph5WeQRuGAcGiBFmQpump",
    0.098,
-   6.2,
+   7.0,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PRSD",
+   "RvYMtYoFpnMK9TWYvBBNwpMk3TbPXzKKJkMcYJjpump",
+   0.075,
+   4.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ACAT",
    "B6LvftRGRhv9WBxGABFdEQP9SfEdfpgxggKe8VXXpump",
    0.074,
-   5.0,
-   ""
-  ],
-  [
-   "Egregore",
-   "DDJtAo5vgQ69gvfTUf9RebLcPv3uWy8YVxvu9LHvpump",
-   0.069,
-   4.0,
+   5.9,
    ""
   ],
   [
    "Meximutt",
    "CaWUnWF3VxDeiMRiLbLctJ28NhYvvkQ2qbSnt1XPpump",
-   0.056,
-   8.8,
+   0.046,
+   9.7,
    "buyers=2; top5_hold_most=100%"
   ]
  ]
