@@ -7050,83 +7050,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:34:59",
+   "2026-10-30T13:36:04",
    32.58
   ]
  ],
- "cycles": 3539,
+ "cycles": 3540,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.043775,
- "watching": 224,
+ "sol_usd": 95.032714344,
+ "watching": 233,
  "near": [
   [
-   "Kreo",
-   "FUiVjVSD8ASUTZbXVN2u1ZzbejuVo2GRzJCHjQqmpump",
-   1.0,
-   5.6,
-   "graduated"
+   "ONBOARD",
+   "skfYdA5qAAvjBQ1SH8bWjxYtEbnSGwCp3BbAvh18GhD",
+   0.696,
+   3.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "PinterestGPT",
    "2wbWRmuCMtGhUHhUD2x4V4u4p9UecqTojE5Pjva5pump",
-   0.433,
-   3.4,
-   ""
-  ],
-  [
-   "SOLANCE",
-   "7z5dCd5kmzZebcYAFtA1XNYEE4ew924uHngighRwpump",
-   0.354,
-   2.9,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "Pilly",
-   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
-   0.238,
-   7.7,
-   "top5_hold_most=86%"
-  ],
-  [
-   "PinterestGPT",
-   "FvWCh8VZFqMUXVfP1Myi3B4pyN69akUtE4BMW8DRpump",
-   0.174,
-   3.8,
+   0.53,
+   4.4,
    ""
   ],
   [
    "BUTTERFLY",
    "5waQ5i92zCBLFb6c8nPEbo2jaeND3R1iLHBGfxHcpump",
-   0.167,
-   7.1,
+   0.364,
+   8.2,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Pilly",
+   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
+   0.238,
+   8.8,
+   "top5_hold_most=86%"
+  ],
+  [
+   "PinterestGPT",
+   "FvWCh8VZFqMUXVfP1Myi3B4pyN69akUtE4BMW8DRpump",
+   0.143,
+   4.9,
+   ""
   ],
   [
    "TUSK",
    "F36E6XcspEmQgM1Q5NRDyTJ6NCpFwmTf8b45dsBdpump",
    0.136,
-   5.3,
+   6.4,
    ""
   ],
   [
    "LAMA",
    "AZDp8BkzPH64oLXrLirCfrk1NM9Sv4Lyyegwoz82pump",
    0.085,
-   2.5,
-   "buyers=7; top5_hold_most=99%"
+   3.6,
+   "buyers=8; top5_hold_most=98%"
   ],
   [
    "RIOTSWEEN",
    "3LoghmYLPfHGcize3Ge18jVMWjqeAEP71vDCwDEKpump",
    0.083,
-   6.5,
+   7.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "27MDh4y4LcfE1BQxPpVKcRey4PJhU7vaUowYT7jnpump",
-   0.079,
-   4.1,
+   0.076,
+   5.1,
+   ""
+  ],
+  [
+   "SPONGEBOB",
+   "7om3AZAwLERz13572kPohoU4GskgyJ8iy1HUM6FEKJz5",
+   0.074,
+   3.3,
    ""
   ]
  ]
