@@ -6930,84 +6930,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:59:50",
+   "2026-10-30T09:00:52",
    32.58
   ]
  ],
- "cycles": 3264,
+ "cycles": 3265,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.76,
- "watching": 218,
+ "sol_usd": 94.56251625510001,
+ "watching": 228,
  "near": [
   [
-   "NOMNOMNOM",
-   "FSVAi8E61z1PR1VYXjSwH7s6PJ144dvvDyNhnQE1pump",
-   0.787,
-   5.6,
+   "ABBY",
+   "AE8JPrsodGgTZQ9R5Mk243NsPaAxZBnAkLk3MtwCpump",
+   1.0,
+   2.7,
+   "graduated"
+  ],
+  [
+   "ARVEL",
+   "8zFSC6ydfuYNPT7qYexgEVeE9hE7Be2Vzqy8vreypump",
+   0.876,
+   2.4,
    ""
   ],
   [
    "FSD",
    "8bbAcnTtgUTCCXGZbJ7DBKSvW8Z2k9bFj9NfGgEapump",
-   0.761,
-   2.3,
+   0.746,
+   3.4,
    ""
-  ],
-  [
-   "ABBY",
-   "H15UcM6kYecPDmSerDaNWzVtgRkGshUuCpiaJ4mgpump",
-   0.527,
-   3.0,
-   "bundled_launch=10 extra buys in creation block"
   ],
   [
    "SUGAR",
    "31nMuN5DwNhcV796KP8Ur5JD9E6mLdu8vQhu2W5Ypump",
-   0.506,
-   4.0,
+   0.722,
+   5.0,
    ""
+  ],
+  [
+   "NOMNOMNOM",
+   "FSVAi8E61z1PR1VYXjSwH7s6PJ144dvvDyNhnQE1pump",
+   0.674,
+   6.6,
+   "serial_creator=10 launches/24h"
   ],
   [
    "OWLGHOST",
    "GVHH5QavYfNsDTpgJzBGd35HFsyCBxbhb2MJAgnSasm",
    0.27,
-   8.2,
+   9.2,
    "buyers=1; creator=21.4%; top5_hold_most=100%"
   ],
   [
    "board",
    "4hc3xdGwKnLknYNiMFYZFcuonGVPHwvi2a77xhwtpump",
    0.115,
-   6.2,
+   7.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Nora",
-   "D1zRhXwu3URHW3QorKDjNBnmo3EpTviym62gHug8pump",
-   0.109,
-   10.0,
-   "buyers=9; top5_hold_most=100%"
+   "FF",
+   "49in2FeP5XKJ5YqGuNm6HxEo3Uvxe3VnxSCi1uTBpump",
+   0.11,
+   4.2,
+   "buyers=6; top5_hold_most=97%"
   ],
   [
    "ABBY",
-   "C3wJwjUDYvnH89G2RBiB9oXXS16MhVbd2SFqpY7mNk3q",
-   0.084,
-   2.7,
+   "9cx6coFo5Cw1m7ozTuwT218iU3qitLYVHhYUBF1Upump",
+   0.104,
+   3.0,
    ""
   ],
   [
-   "THEREALCZ",
-   "ca38nW9PCNFhG81BnDXSmfSCucbHbmTawgnifKHpump",
-   0.076,
-   3.0,
-   "top5_hold_most=88%"
-  ],
-  [
-   "$EVILJEAN",
-   "GQzuS17KcaFdvX24rmbGATikFFB8hVDJWrUF1tFkpump",
-   0.07,
-   3.4,
-   "buyers=8; top5_hold_most=97%"
+   "CTO ",
+   "FZWeRixpUkAREc9c4daN3Fex8Vr5v9CGdnsr1tF11V8B",
+   0.088,
+   2.8,
+   ""
   ]
  ]
 }
