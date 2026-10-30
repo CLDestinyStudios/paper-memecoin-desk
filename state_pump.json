@@ -7090,84 +7090,84 @@
    32.58
   ],
   [
-   "2026-10-30T15:08:53",
+   "2026-10-30T15:09:52",
    32.58
   ]
  ],
- "cycles": 3633,
+ "cycles": 3634,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.36999999999999,
- "watching": 330,
+ "sol_usd": 95.3831683855,
+ "watching": 350,
  "near": [
-  [
-   "MIP",
-   "AjzaGJrXFrmDs8RqCPZgHGibXT7KagGETztiZMS4pump",
-   1.0,
-   3.1,
-   "graduated"
-  ],
-  [
-   "ELAN",
-   "6b4bs7k8svPwCrAXBhhb73ksAiLwGvnRBuNoqZHMpump",
-   0.518,
-   2.3,
-   "bundled_launch=9 extra buys in creation block"
-  ],
   [
    "BANKER",
    "oLMoTt1bJbtPtY2QXmhWLneYYGXdZcLEeCwjuDRBANK",
-   0.479,
-   6.5,
+   0.507,
+   7.5,
    ""
   ],
   [
    "DEGENPILOT",
    "GhoABtk8uxcJNKX1Wx82VhWRmfRPg8tX9kp2j8TMpump",
    0.443,
-   7.9,
+   8.9,
+   ""
+  ],
+  [
+   "GenZregelt",
+   "7JLScVj1Nh3Mg2RdxEyee6Jc7LYPGVAwTxb9EmF1pump",
+   0.354,
+   2.3,
    ""
   ],
   [
    "RUSHY",
    "2q6WYHGRWTkiiQLay1BALH4BHToWR6aWbixfNRgVpump",
-   0.218,
-   8.5,
+   0.219,
+   9.5,
    "buyers=4; creator=16.4%; top5_hold_most=100%"
   ],
   [
    "FIVEBRO",
    "AWgfyhCxsYxM2Xm1Mc1nLiG9fKxPie6jPZgPRX481YoB",
    0.212,
-   3.4,
+   4.4,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "ADA",
-   "9w13vXzRemzAuihfwxFzYAyKbMU8uevsnV2A1UDUpump",
-   0.159,
-   9.3,
-   "buyers=8; top5_hold_most=97%"
   ],
   [
    "ToT",
    "CJPs9SJin2tUPbd84j5bE9RCLTZxDniRykZnpyiipump",
-   0.153,
-   7.1,
+   0.134,
+   8.1,
    ""
   ],
   [
    "\u20a9",
    "CsqmvnE2Qft5nrGcpDxfhjVGrYDW9Su1jKSSwY8Epump",
-   0.14,
-   5.7,
+   0.105,
+   6.7,
    ""
   ],
   [
    "AI",
    "3G27zANaE3NVqAe9MvBoF6SumEzScBKQMgN87ymepump",
    0.097,
-   6.3,
+   7.2,
    ""
+  ],
+  [
+   "MC",
+   "Fbov7QAK532Czo45WYcaXhzsBZECvyjvKjUB3Scvpump",
+   0.084,
+   9.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "RALPH",
+   "3dnBmJu9wuo8wweVR7EGNsity8Es4KfWKTe1qioaHRkR",
+   0.077,
+   8.9,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
