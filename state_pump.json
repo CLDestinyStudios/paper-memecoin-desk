@@ -7050,84 +7050,84 @@
    32.58
   ],
   [
-   "2026-10-30T13:31:53",
+   "2026-10-30T13:33:03",
    32.58
   ]
  ],
- "cycles": 3536,
+ "cycles": 3537,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.84172425864999,
- "watching": 232,
+ "sol_usd": 94.89,
+ "watching": 235,
  "near": [
   [
    "Kreo",
    "FUiVjVSD8ASUTZbXVN2u1ZzbejuVo2GRzJCHjQqmpump",
-   0.898,
-   2.5,
+   0.925,
+   3.6,
    ""
   ],
   [
    "PFMikol",
    "9kLtjDF21bmHs3UrmVbJTtvEkuZ8Knx4X2VfeuKHpump",
-   0.882,
-   6.9,
-   ""
+   0.748,
+   8.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "PILLY",
    "3jvrDkZLodCqcV7fEka7Y4VF95UweGnrR9XbeTjHpump",
    0.351,
-   7.8,
+   8.9,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "Pilly",
+   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
+   0.238,
+   5.8,
+   "top5_hold_most=86%"
   ],
   [
    "BUTTERFLY",
    "H8uuFZATmESswspueeAf6t7jCNQCvETkqBa9mhxNpump",
    0.231,
-   8.5,
+   9.6,
    "buyers=7"
-  ],
-  [
-   "Pilly",
-   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
-   0.221,
-   4.6,
-   "top5_hold_most=92%"
   ],
   [
    "KindleWake",
    "42LWGpJ6nts8dfBFLCpz56QzysFzruSGbQXsbgYppump",
    0.2,
-   7.0,
+   8.2,
+   ""
+  ],
+  [
+   "TUSK",
+   "BUT3R9B3BcVSN2tuv2AxHwGcYwBG8GzVmL7t73yvpump",
+   0.188,
+   3.8,
    ""
   ],
   [
    "BUTTERFLY",
    "5waQ5i92zCBLFb6c8nPEbo2jaeND3R1iLHBGfxHcpump",
    0.167,
-   4.0,
+   5.2,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "BUNKER",
-   "K4uhU18ba6GSBSJi5PPccmTmCXuTFxsqJYa9mGxpump",
-   0.16,
-   5.1,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "F36E6XcspEmQgM1Q5NRDyTJ6NCpFwmTf8b45dsBdpump",
    0.136,
-   2.2,
+   3.4,
    ""
   ],
   [
-   "TUSK",
-   "BUT3R9B3BcVSN2tuv2AxHwGcYwBG8GzVmL7t73yvpump",
-   0.131,
-   2.6,
-   ""
+   "RIOTSWEEN",
+   "3LoghmYLPfHGcize3Ge18jVMWjqeAEP71vDCwDEKpump",
+   0.103,
+   4.6,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
