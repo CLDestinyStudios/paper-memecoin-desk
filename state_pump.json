@@ -6986,84 +6986,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:08:55",
+   "2026-10-30T11:09:53",
    32.58
   ]
  ],
- "cycles": 3393,
+ "cycles": 3394,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.46015000000001,
- "watching": 283,
+ "sol_usd": 94.30234679240002,
+ "watching": 285,
  "near": [
   [
-   "BURIED",
-   "3aasM3u1QAKFXziSEFNQ8nLs8BA159b11kXr7a9bpump",
-   0.911,
-   9.8,
-   ""
+   "SCRNR",
+   "DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump",
+   0.306,
+   8.0,
+   "buyers=8; top5_hold_most=95%"
   ],
   [
-   "ALLIN",
-   "2QX2mvrgssi5s5oiqMBBH3qP7rxdMvNmKqNwta2ipump",
-   0.661,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "HackBot",
-   "68ey85FTfuWfVBQKjvtUT5LfZXpwquUux1CjYMBGpump",
-   0.251,
-   2.4,
-   "serial_creator=10 launches/24h"
+   "TYGR",
+   "22uNxofnMEmUsqSNAYgkCjMMEez4pPPdcKoiSVRzpump",
+   0.26,
+   2.7,
+   "buyers=3; creator=19.5%; top5_hold_most=100%"
   ],
   [
    "$BibiTit",
    "B6ZZAYqLdhbqG9sNs2VXXZRQxkM7DpTpE1zPs3VGpump",
    0.22,
-   8.5,
+   9.4,
    "top5_hold_most=87%"
   ],
   [
    "XTO",
    "7MBrCNUU9VGEFxJ15TzNaC41zfu1j9u8HkpR7CSKpump",
-   0.194,
-   2.7,
-   "buyers=2; creator=15.2%; top5_hold_most=100%"
+   0.191,
+   3.6,
+   "buyers=1; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "X\u200aT\u200aO",
    "5Bt9GffqBw9APvuwaP9qJqxcCAkQzfm3HuzxnmaXpump",
    0.181,
-   6.8,
+   7.7,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "SCRNR",
-   "DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump",
-   0.149,
-   7.0,
-   "buyers=8; top5_hold_most=95%"
-  ],
-  [
-   "WLF",
-   "EeUAcbKfzYiBBrCzss7CtHb6Sa7ECTQHv8nFzfdXpump",
-   0.079,
-   4.0,
-   ""
+   "ZEROTAX",
+   "G1yQukvEvamDsNUhF1X6gUELCh6TqX3jDjUJxz2fpump",
+   0.139,
+   2.1,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "REBATIX",
    "7BfEAUMLehrpHD7igZNEqjXFK6ve1px4e7xXr3gNpump",
    0.07,
-   3.9,
+   4.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "polyGONE",
    "G9MKMM4qwR8CwmdkPVvSBdNFHLz5yBEhRRLuh5NQpump",
    0.065,
-   9.0,
+   10.0,
    "top5_hold_most=94%"
+  ],
+  [
+   "BNB",
+   "9aFGiHeJnh2d7Bxp4nyj1ySyvXPFsnKuXrWh7kY6pump",
+   0.064,
+   7.7,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "TYGR",
+   "Ajwi3HKcTffNLN3xaY9QVQ3ogeQwKMxbhrD3mNfKpump",
+   0.064,
+   4.1,
+   ""
   ]
  ]
 }
