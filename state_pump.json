@@ -6990,83 +6990,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:16:57",
+   "2026-10-30T11:17:56",
    32.58
   ]
  ],
- "cycles": 3401,
+ "cycles": 3402,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.23434731789999,
- "watching": 269,
+ "sol_usd": 94.07,
+ "watching": 265,
  "near": [
+  [
+   "RKC",
+   "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
+   0.617,
+   7.2,
+   "buyers=8; top5_hold_most=95%"
+  ],
   [
    "Trip",
    "6c1FCbP2yHcjTRdsYuSxfLUfUq7oFn8J6goY56mdpump",
-   0.571,
-   8.4,
-   "buyers=9; creator=44.8%; top10=45.3%; top5_hold_most=100%"
+   0.585,
+   9.4,
+   "buyers=8; creator=45.9%; top10=46.4%; top5_hold_most=100%"
   ],
   [
    "FAST",
    "2tU8s8nM4cDLqy7SQSXjEDJWygFGrVF3Ze8SDdHRpump",
-   0.473,
-   6.3,
+   0.459,
+   7.3,
    ""
   ],
   [
    "LC",
    "CWR4jwdo3xkMmhjLJU9xLBAMCUVKcVeaWT2yko6Vpump",
-   0.271,
-   3.0,
-   "top5_hold_most=85%"
+   0.366,
+   4.0,
+   "top5_hold_most=91%"
   ],
   [
-   "TYGR",
-   "22uNxofnMEmUsqSNAYgkCjMMEez4pPPdcKoiSVRzpump",
-   0.251,
-   9.8,
-   "buyers=3; creator=17.5%; top5_hold_most=100%"
+   "PRIORS",
+   "kwo9AmxtrN1E9KBgeET35ysQta1KykxHTHrJqyGifu9",
+   0.305,
+   5.1,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "RKC",
-   "AuZCXzZGvcPFg558MWEFwC4tLPEVZ4BjmwSNtFVEpaid",
-   0.181,
-   6.2,
-   "buyers=8; top5_hold_most=95%"
-  ],
-  [
-   "Tatiana",
-   "F1x5P6suErpQuuthvRtUXabghfi47jehJTr5VeQApump",
-   0.083,
+   "moonstone",
+   "7sziDtWdLkfYTUiLbB9FALz2HLza7gFL6c133rLZpump",
+   0.23,
    2.4,
-   "buyers=2; top5_hold_most=100%"
+   "buyers=9"
+  ],
+  [
+   "MONARCH",
+   "9qoMYDa9DSpD9fNtJY4Uho5bwpH2BKZJh4rWRXKupump",
+   0.155,
+   2.4,
+   "top5_hold_most=83%"
   ],
   [
    "TWIGGY",
    "HHqqhMymdnbpJ7xjwrTVRf6PsyaR2RtCpMPqwi5Spump",
    0.071,
-   2.2,
-   ""
-  ],
-  [
-   "PRIORS",
-   "kwo9AmxtrN1E9KBgeET35ysQta1KykxHTHrJqyGifu9",
-   0.063,
-   4.1,
+   3.2,
    ""
   ],
   [
    "Saraya",
    "3h6vwAaT7drccNeWxu8sTtMz3ZzpbL9cNqZAqswTpump",
    0.043,
-   3.6,
+   4.6,
    ""
   ],
   [
    "PUMPKIN",
    "3Z8CB46JKT1wRz21sBty8u6DGQwesU7DywSpzfdXAoy6",
    0.033,
-   6.1,
+   7.1,
    ""
   ]
  ]
