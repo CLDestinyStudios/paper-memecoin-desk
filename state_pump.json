@@ -6878,84 +6878,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:51:02",
+   "2026-10-30T06:52:07",
    32.58
   ]
  ],
- "cycles": 3136,
+ "cycles": 3137,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.7090055491,
- "watching": 218,
+ "sol_usd": 94.50460272705,
+ "watching": 226,
  "near": [
   [
    "TECH",
    "5pd7BykDrFko8tJxz3C5DZXgDtfGkrHvkjH1sc2fpump",
-   0.724,
-   2.4,
+   0.865,
+   3.5,
    ""
   ],
   [
    "JAPRO",
    "JCRDAYtkXgnBe5egC6fbm42b5EsC3oNhDwqgyziYpump",
-   0.693,
-   6.7,
-   "creator=53.3%; top10=54.9%; top5_hold_most=99%"
+   0.688,
+   7.8,
+   "creator=53.3%; top10=54.6%; top5_hold_most=100%"
   ],
   [
    "VESPER",
    "4Q9WmBzLxj1hAwsofjefPWCEeBHW75KvBQUbWX5Fpump",
    0.506,
-   6.9,
+   7.9,
    "buyers=9; top5_hold_most=93%"
   ],
   [
    "blink",
    "HLVWQouBnLbvDzf9RynAa1m4byJuF2iLmvc48tQcpump",
    0.459,
-   2.3,
+   3.4,
    ""
+  ],
+  [
+   "hedge",
+   "EkvNfeHy6Sy1pKRgLSCFmmXhaHHpPY4cRyuANuKNpump",
+   0.407,
+   2.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "SPIRITS",
    "GMcL2quuNHsxieukkj7f1Vqjv1SJcRz9qerZB498pump",
    0.185,
-   3.1,
+   4.2,
    ""
   ],
   [
    "\u20ac",
    "FB3gY67Ap3D6ASzeYvkNTfnLnuYZmGJidV6GtYMkpump",
    0.122,
-   5.1,
-   ""
+   6.1,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "BNB",
    "2gE9t9J4R6y2fg4yAQXgYwVYAe7UKtGk68j8xLxQpump",
    0.097,
-   3.1,
+   4.2,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "EURC",
    "BXiQ6bymbFXcqpjHe9HQZjrG4mTyEoLvbgnewjzjm4at",
    0.095,
-   4.7,
+   5.8,
    ""
   ],
   [
-   "Euro",
-   "8ZXTJDsq8sQtnkkWNSGeF2g4kaehEwzh6qdgpQ4dpump",
-   0.066,
-   2.2,
-   ""
-  ],
-  [
-   "Acat",
-   "49EXvcFuD8wxj8REGgDsLXPRzQ68Vi2DWPvrz2Ghpump",
-   0.063,
-   8.3,
-   ""
+   "JAPRO",
+   "AhZ8zooajNLviR7Etony5yEgyXLUnuQ15zCEpNMepump",
+   0.093,
+   2.1,
+   "buyers=7; top5_hold_most=100%"
   ]
  ]
 }
