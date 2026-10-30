@@ -6782,84 +6782,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:13:45",
+   "2026-10-30T03:14:46",
    32.58
   ]
  ],
- "cycles": 2919,
+ "cycles": 2920,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.30217463504998,
- "watching": 177,
+ "sol_usd": 96.3916556457,
+ "watching": 179,
  "near": [
-  [
-   "DAWG",
-   "2YsfaeXzf2WLw4hRqnk6CxKHzc5YAVuZNN4hXAMapump",
-   0.214,
-   3.0,
-   "serial_creator=6 launches/24h"
-  ],
   [
    "DATAR",
    "4fWJEa8vSj3FaPxLPwARLiG1EbVVwt3CCoCBZheSpump",
-   0.213,
-   2.2,
+   0.129,
+   3.2,
    "top5_hold_most=90%"
   ],
   [
    "ELON",
    "DbGkw74qtsZH2V5kiYRUtBGUUUXwriiQ7k79hHSMpump",
-   0.109,
-   3.5,
+   0.106,
+   4.5,
    ""
+  ],
+  [
+   "Hyperplex",
+   "GTiUgt4eCjmayexpaDdhrsG4xSG1FKmLQG8c6UA5pump",
+   0.101,
+   2.9,
+   "top5_hold_most=90%"
   ],
   [
    "ASS",
    "GmKo9JQ92FGdywFNbmyppUmiEmgMr6TsQPYtF3ebpump",
    0.088,
-   2.6,
+   3.6,
    ""
   ],
   [
    "ROADMAP",
    "4NQwBjamTe6KuJRYMEvCp2XQHwKAeUeGdjUfTJEmpump",
    0.084,
-   2.8,
+   3.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "PUMPOWEEN",
-   "FAA6WSi3GMFevMGkuXEHvo6xBaFiytSdViLRevsvpump",
-   0.06,
-   4.2,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "CZ TROLL",
-   "GtEvrgQfLz8XitB1tjTE198SpVctumzLUyuWWbeepump",
-   0.048,
-   3.8,
-   "creator=38.2%; top10=47.8%; top5_hold_most=98%"
+   "Ghost",
+   "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
+   0.044,
+   2.5,
+   ""
   ],
   [
    "PHYPER",
    "Anicv7HpMpKagJQU7RnUfuFKiwdgCCPbPJ467xy8pump",
    0.039,
-   2.7,
+   3.7,
    ""
   ],
   [
-   "Hyperplex",
-   "4e7EShCUrUzc7HYog7fGFQCserFK3r7e3zSdeEsTpump",
-   0.022,
-   4.3,
+   "CZ TROLL",
+   "GtEvrgQfLz8XitB1tjTE198SpVctumzLUyuWWbeepump",
+   0.039,
+   4.8,
+   "creator=38.2%; top10=47.8%; top5_hold_most=98%"
+  ],
+  [
+   "SQODY",
+   "2UQ97Pm4Jud3jbsUT7DuKHnqF8zyArbnFyx41ffjpump",
+   0.032,
+   2.8,
    ""
   ],
   [
-   "$3B",
-   "GKcS4kPEwhzcpnWXXGK4KGL4vT1sQLduriDECyAhpump",
-   0.012,
-   5.7,
-   "buyers=7; top5_hold_most=99%"
+   "honeypot",
+   "AMEzMWAfptCPWUjjJJ4X2Y2MVG786dpioEMru5wT4QkW",
+   0.023,
+   2.6,
+   ""
   ]
  ]
 }
