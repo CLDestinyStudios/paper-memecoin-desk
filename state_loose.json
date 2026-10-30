@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 321.6162158829693,
- "positions": {
-  "J5jxG3PFaWpj6BLEQExyC6FSqSvaTKNdQ9G3sZwBpump": {
-   "sym": "PILLSEY",
-   "qty": 86538.2649410129,
-   "entry": 0.000195636,
-   "mark_entry": 0.0001918,
-   "cost": 16.93,
-   "peak": 0.0001918,
-   "last": 0.0001903,
-   "opened": 1793398133.1426744,
-   "p_buy": 0.57
-  }
- },
+ "cash": 337.05966156781255,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -8938,8 +8926,12 @@
   [
    "2026-10-30T15:09:54",
    337.76
+  ],
+  [
+   "2026-10-30T15:10:53",
+   337.06
   ]
  ],
- "cycles": 3654,
+ "cycles": 3655,
  "started": "2026-10-28T01:46:56"
 }
