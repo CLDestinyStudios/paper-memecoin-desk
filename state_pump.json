@@ -7030,83 +7030,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:52:52",
+   "2026-10-30T12:53:52",
    32.58
   ]
  ],
- "cycles": 3497,
+ "cycles": 3498,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.7204610125586,
- "watching": 328,
+ "sol_usd": 94.75000000000001,
+ "watching": 325,
  "near": [
   [
-   "oof",
-   "7NbXAr3kPYwpC32EBzB6nVpPCGorigLrP87wcpASpump",
-   0.487,
-   2.7,
-   "bundled_launch=9 extra buys in creation block"
+   "SWORD",
+   "C5ep1iZ3gtXzMQ2TZgD5S4LaY4LgVdB85tu9Qb2FsVpc",
+   0.519,
+   2.8,
+   ""
+  ],
+  [
+   "OWL",
+   "6BZxQgydgAcgmDSuNsK7V8jkA7bvkSRvVZcBsSYRpump",
+   0.405,
+   3.9,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "SWORD",
+   "A17Um2bGf737PkuKekDVkaQtU2ypSor3VREuGHP3pump",
+   0.354,
+   4.3,
+   ""
   ],
   [
    "minecat",
    "GyipyEw7qKJETYRc4eHrKu9Kh7WkeqBFXsR2jgNTpump",
    0.261,
-   6.5,
+   7.5,
    "top5_hold_most=86%"
-  ],
-  [
-   "SWORD",
-   "A17Um2bGf737PkuKekDVkaQtU2ypSor3VREuGHP3pump",
-   0.223,
-   3.3,
-   ""
-  ],
-  [
-   "z1nger",
-   "4yfTjJws4wnEwbW1ygBcmhCcQ3AemdZKAWFBZQEkpump",
-   0.179,
-   8.0,
-   "top5_hold_most=92%"
-  ],
-  [
-   "PUSD",
-   "4sneNyF5942bfnCtWwBZBKiwW52Qsfn5jEUdUupHU5v6",
-   0.161,
-   7.8,
-   ""
   ],
   [
    "USDF\u200a",
    "64PB37haYQHFUSJ3rt9GWqAfMiHqBrtCNdg76xtCpump",
    0.157,
-   2.5,
+   3.5,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "SYNDI",
+   "D8YzcBHUPdAQV1F4ePsQd4RjkAffe56Pda6swWv1pump",
+   0.125,
+   5.8,
+   ""
+  ],
+  [
+   "z1nger",
+   "4yfTjJws4wnEwbW1ygBcmhCcQ3AemdZKAWFBZQEkpump",
+   0.106,
+   9.0,
+   "buyers=9; top5_hold_most=99%"
   ],
   [
    "CALLCAT",
    "FNrVjYJPtY9XMX9nfptU1XnAWGFg3hVpaEP4rMK3pump",
    0.085,
-   6.1,
+   7.1,
    ""
-  ],
-  [
-   "ELONULA",
-   "2SLtzGmbkwkvJstjMx4jzMUeh46VCvExyEEbkyaSpump",
-   0.071,
-   2.1,
-   "buyers=6; top5_hold_most=100%"
   ],
   [
    "W0P1",
    "7W1csnQcMk7HUmVzSrKxfyHCFpmVByW5JXBhWGK8pump",
-   0.047,
-   2.1,
-   ""
+   0.067,
+   3.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "FLOYD",
    "63i4odCYX4xS51NpFB37s8nnsKidtvHRsUCKZqoapump",
    0.047,
-   6.1,
+   7.1,
    ""
   ]
  ]
