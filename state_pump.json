@@ -6834,83 +6834,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:10:50",
+   "2026-10-30T05:11:48",
    32.58
   ]
  ],
- "cycles": 3036,
+ "cycles": 3037,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.66,
+ "sol_usd": 96.72943073455,
  "watching": 120,
  "near": [
   [
-   "GAS",
-   "kpZhkHj9aZq2fvB9dVvSGWrApRxmKspNJihoL8Epump",
-   0.655,
-   2.5,
-   "serial_creator=10 launches/24h"
-  ],
-  [
    "HREX",
    "4gWxN4LDuJi4TevDycWYVMPrpjDQipK56DeThHqQpump",
-   0.531,
-   8.4,
+   0.594,
+   9.3,
    ""
   ],
   [
    "Kit",
    "7FAGfLpsXaERrEUSAQ1yJ2iMe8vZJQAsiPTLLWEjpump",
-   0.167,
-   3.2,
+   0.331,
+   4.1,
    ""
+  ],
+  [
+   "grove",
+   "AsVJWeCo7KjkPokbA9LpxcjRVeZJWQkYfp2aw7sKpump",
+   0.1,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "WWCART",
    "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
    0.099,
-   2.5,
+   3.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "gascoin",
-   "5zFPPFVxVmn9TR5Cu6kKz4hiTY2uMsEkse6keroCpump",
-   0.093,
-   2.3,
-   "top5_hold_most=93%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "SCHAIN",
-   "DB6qKJfNpyAst9UpGListWXqDfQomYegpYqwtee4pump",
-   0.081,
-   9.3,
-   ""
-  ],
-  [
-   "Undo",
-   "43nyLJryDSEkMYJWDuxKTLCxDmU8xDbTRdM5bZM3pump",
-   0.077,
-   6.1,
-   ""
-  ],
-  [
-   "HopiumPap",
-   "8HngywWgcRV3ox6nUV9GvJBj5cinyuLTTrPBkqmfpump",
-   0.063,
-   2.5,
-   "serial_creator=10 launches/24h"
   ],
   [
    "Memecoin",
    "3dnVZcHxF6BcPVDQ1DJWQpBbMrSM1kXDpSEMyS3Vpump",
    0.056,
-   8.1,
+   9.1,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "KCKB",
+   "joNgCa4N4SaFDAxnkKz8Dwu7CwQ3mioqPwaMVT4qXsz",
+   0.051,
+   2.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "Loan",
    "9A74rF1MfhhutszFbVcdDYRjhX7b76HfH2EEe5mspump",
    0.042,
-   5.3,
+   6.3,
+   ""
+  ],
+  [
+   "$PORSHE",
+   "DRG8QEogHbER7VetVPgeBZnxWPyMN1ZHNLgtcwQ7pump",
+   0.04,
+   6.5,
+   ""
+  ],
+  [
+   "PF",
+   "9hApmBQim9zNxEor6KyCwNxMdRzaMuMF6jTARAvBpump",
+   0.028,
+   6.1,
+   ""
+  ],
+  [
+   "Undo",
+   "43nyLJryDSEkMYJWDuxKTLCxDmU8xDbTRdM5bZM3pump",
+   0.006,
+   7.0,
    ""
   ]
  ]
