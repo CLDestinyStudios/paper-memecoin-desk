@@ -6532,81 +6532,85 @@
   [
    "2026-10-29T17:27:15",
    32.58
+  ],
+  [
+   "2026-10-29T17:28:12",
+   32.58
   ]
  ],
- "cycles": 2333,
+ "cycles": 2334,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.0195165641,
- "watching": 215,
+ "sol_usd": 92.84239553180002,
+ "watching": 216,
  "near": [
-  [
-   "Soul",
-   "3e3auRWPVyF8AcFxWqcKNVvSiyzvjNhZFR1qHkAVpump",
-   0.31,
-   4.9,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "LeverPad",
    "5ZsL6WkyAFMANHaS5K9i2wWXQ2zBQS1XzM3sE4xApump",
    0.166,
-   3.7,
+   4.6,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "ONELIFE",
+   "4L4c7m67kHxywTPu4RG6gf2VogAPQF177MTvvLPapump",
+   0.153,
+   8.2,
+   "buyers=7; top5_hold_most=97%"
   ],
   [
    "cat",
    "HJWug7fk3SRecGGvQAdTEbUGdUyJShRvxX9BPhUecLC1",
    0.149,
-   5.3,
+   6.3,
    ""
   ],
   [
-   "FUNDME",
-   "BjVTXWwZeG6Xwp6XyUZeCfT196dS6b7Y63LKbD4Jpump",
-   0.129,
-   3.0,
-   "top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
+   "!LAMPs",
+   "2B1jo4mPEgE6f5JxrH5Q2RZHJ3hTK9KM5uctLQRwpump",
+   0.138,
+   2.8,
+   "buyers=7; top5_hold_most=88%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "cz",
+   "DSGUx6dgZH39xuh4EkBBRdPGwdQzKw5HvJv38zJLpump",
+   0.106,
+   2.5,
+   ""
   ],
   [
    "tired",
    "2C73cbEyvc3159Vixr94JEdUxfmi7M6DxPVrAB4Wpump",
    0.105,
-   3.1,
+   4.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "Ansem",
-   "6kXGnYBJFQYKNc888YNEYLMvf5apwza9PAEQpVXspump",
+   "PINKJAK",
+   "GwbFSEwdeQGxjNjvFBFJ6aGuhR8Ju36NLn1gA6Jxpump",
    0.103,
-   10.1,
-   "top5_hold_most=97%"
+   2.2,
+   "buyers=8; top5_hold_most=87%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "CashDog",
    "B2DZv6o5ZAaQFuXkNKpJ3gywkmGugY7i2VGkNdEsUqxz",
    0.087,
-   6.0,
+   6.9,
    ""
   ],
   [
    "DPRK",
    "E1YJhCc3DC2Asaaq3fxmKe73ftYcoC2eGw3XyQwGpump",
    0.086,
-   2.6,
+   3.6,
    ""
-  ],
-  [
-   "ONELIFE",
-   "4L4c7m67kHxywTPu4RG6gf2VogAPQF177MTvvLPapump",
-   0.078,
-   7.2,
-   "buyers=7; top5_hold_most=97%"
   ],
   [
    "SWAN",
    "5sBeBZd6FefZS3sj95VYme49W7PhuU9BtdcZd7c6SkvN",
    0.072,
-   6.6,
+   7.5,
    ""
   ]
  ]
