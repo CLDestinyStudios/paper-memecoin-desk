@@ -1,20 +1,10 @@
 {
  "bank_start": 500.0,
- "cash": 366.22357927083567,
- "positions": {
-  "LBABxq9YMjAbdiuH5id6FBZQXf47sqTkJtAbmj7pump": {
-   "sym": "AMAZON",
-   "qty": 205523.11388837366,
-   "entry": 9.380940000000001e-05,
-   "mark_entry": 9.197e-05,
-   "cost": 19.28,
-   "peak": 0.0001494,
-   "last": 0.0001494,
-   "opened": 1793368265.1840456,
-   "p_buy": 0.66
-  }
+ "cash": 366.7009272551528,
+ "positions": {},
+ "watch": {
+  "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": 1793369104.0507047
  },
- "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -8177,8 +8167,12 @@
   [
    "2026-10-30T07:04:03",
    396.31
+  ],
+  [
+   "2026-10-30T07:05:06",
+   366.7
   ]
  ],
- "cycles": 3169,
+ "cycles": 3170,
  "started": "2026-10-28T01:46:56"
 }

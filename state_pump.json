@@ -6882,84 +6882,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:04:05",
+   "2026-10-30T07:05:02",
    32.58
   ]
  ],
- "cycles": 3149,
+ "cycles": 3150,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.73773601165,
- "watching": 186,
+ "sol_usd": 94.84787720599999,
+ "watching": 189,
  "near": [
-  [
-   "SI",
-   "2yCjc3DwddXor2ySYQrSdiihmVmUvqfchzhPK2e83ztc",
-   0.697,
-   3.2,
-   "serial_creator=32 launches/24h"
-  ],
   [
    "Pumpkin",
    "CogSVY2A7PEjvpUqxLe6LjXZQMrjjCqh4bSnsDBupump",
-   0.465,
-   2.9,
+   0.44,
+   3.9,
    ""
   ],
   [
-   "stablecoin",
-   "AA43VzX7R3UtgEPvW72vUtCjRutaLLQDDW4wyYzRpump",
-   0.295,
-   4.5,
+   "\u20ac",
+   "8835DxJa4U8DX9VpMmmUYuuQC3NAh64pneofqPYwvN9d",
+   0.291,
+   2.7,
    ""
+  ],
+  [
+   "catdog",
+   "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
+   0.204,
+   6.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "SLASHER",
    "4nPUstVLuxLLGfynKPDFCZrSajW7neAYkaFUgzxepump",
    0.194,
-   5.8,
+   6.7,
    "buyers=9; top5_hold_most=86%"
   ],
   [
-   "catdog",
-   "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
-   0.19,
-   5.6,
-   "buyers=2; top5_hold_most=100%"
+   "stablecoin",
+   "AA43VzX7R3UtgEPvW72vUtCjRutaLLQDDW4wyYzRpump",
+   0.133,
+   5.5,
+   ""
+  ],
+  [
+   "OTW",
+   "A5mZe1bX5BEwhJBvxK2RFsprfCUy54qJeqivAv7BkJQ2",
+   0.111,
+   2.6,
+   ""
   ],
   [
    "ROHO",
    "GEaHPG1jNk93R8a53wXiTL7ZMpAQApsnjTCkcixFpump",
    0.075,
-   2.9,
+   3.9,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Gruffalo",
-   "6Gm23QdnweKd7y8oPYyAiQKQyoRKpziX3jUmV8pRpump",
-   0.067,
-   7.7,
-   ""
   ],
   [
    "BURGER",
    "87oQ4DSgzCThzHX9Gkz3wa2uP2cAvWVLqwoMnNsMpump",
    0.065,
-   4.4,
-   ""
-  ],
-  [
-   "11/13",
-   "GGk7sQyoZoH1cXfgxFHwdm3FcZnxKvmXnU1KyLsapump",
-   0.064,
-   9.3,
+   5.4,
    ""
   ],
   [
    "M'kay",
    "D6K89g57Svz9rCQu7ndzHtLHjsnXBLxGiFG4a7p7pump",
    0.06,
-   9.0,
+   9.9,
    ""
+  ],
+  [
+   "MKAY",
+   "BZtcH9CYzxL9dz6jk6wifW82q4fqa8dcvdqE62Npump",
+   0.057,
+   5.4,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
