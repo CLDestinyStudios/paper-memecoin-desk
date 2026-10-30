@@ -6710,83 +6710,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:25:00",
+   "2026-10-30T00:26:00",
    32.58
   ]
  ],
- "cycles": 2750,
+ "cycles": 2751,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.91086918754998,
- "watching": 113,
+ "sol_usd": 97.86999999999999,
+ "watching": 111,
  "near": [
-  [
-   "ARENA",
-   "8wkc4MC6nePzEsafCKvjSp41MTH3puWdHo7WbZZ9pump",
-   0.445,
-   7.3,
-   "launch_slot=missing"
-  ],
   [
    "HYPERPAD",
    "3vSJwwLeke6BP2du3ZhEe4BaEaZ7NaUNk9d1tRcepump",
    0.096,
-   2.6,
+   3.6,
    "buyers=3; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "Hackie",
    "27KQ5SRitNg3T2KNKcoh3tTd4xoa4LEeDirPqaEopump",
-   0.089,
-   2.4,
-   "buyers=4; top5_hold_most=100%; launch_slot=missing"
+   0.095,
+   3.4,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "pwn",
    "GkmVDcaVkM85E2TrNHpXKW7zfKtspwX1JiZ1CmMDpump",
    0.074,
-   4.1,
+   5.1,
    "buyers=7; top5_hold_most=99%; launch_slot=missing"
+  ],
+  [
+   "ARENA",
+   "8wkc4MC6nePzEsafCKvjSp41MTH3puWdHo7WbZZ9pump",
+   0.064,
+   8.3,
+   "launch_slot=missing"
   ],
   [
    "SOLS0CIETY",
    "86rNnoiF8sYNYY3e4RzKmxNPnTnuKnWg53cp3czWpump",
    0.032,
-   6.3,
+   7.3,
    ""
   ],
   [
    "dors",
    "3UQxeZx2g85NfHV3992qeqqccVeaLswbuZoMvtHLpump",
    0.031,
-   2.8,
+   3.8,
    ""
   ],
   [
    "Sherlock ",
    "BkKy5y7wmbMzU1WUJQAmCJv28133cnwPpdPqXtMypump",
    0.022,
-   5.5,
+   6.5,
    "creator=43.9%; top10=48.8%; top5_hold_most=91%; launch_slot=missing"
-  ],
-  [
-   "POO",
-   "G7yTV3GHebkxN7ZKKG27nvqRDoKT1oLrWzYhGxExpump",
-   0.022,
-   2.3,
-   ""
-  ],
-  [
-   "FUND",
-   "7kyyLTxXSrNQ17u4tNR2GxQerPjKRKJYffRu38yKr1Bt",
-   0.018,
-   7.7,
-   ""
   ],
   [
    "$BJ",
    "D5gusi8BJ7qNasYi2a3LYQ1pyVmtLXkFoR9yjPJLpump",
    0.014,
-   6.4,
+   7.4,
+   ""
+  ],
+  [
+   "$GLUP",
+   "ij7Kb8iCojP1X9mFpt3mLxwxNgbut4VFyMBxb1hpump",
+   0.013,
+   5.9,
+   ""
+  ],
+  [
+   "$CAPYOKE",
+   "7A7hpTbYrwwzqBcfk3fZKGwK4YmBug9EjuTfausdpump",
+   0.013,
+   2.8,
    ""
   ]
  ]
