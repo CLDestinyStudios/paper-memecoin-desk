@@ -6874,84 +6874,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:44:06",
+   "2026-10-30T06:45:02",
    32.58
   ]
  ],
- "cycles": 3129,
+ "cycles": 3130,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.96557075905001,
- "watching": 164,
+ "sol_usd": 95.10709116710001,
+ "watching": 177,
  "near": [
   [
    "BNB",
    "FupqKVehFAPpi1y731wBC598LkHRcgkyQHRqo4nHpump",
-   0.929,
-   5.9,
-   ""
-  ],
-  [
-   "MUFASA",
-   "74NW97ihtdeVDRT5EcK6UeZWRhUWVVfesi6M9n734Rf",
-   0.36,
-   2.7,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "HGEN",
-   "BsFuREtbbaPEKT4xKTPjqtj7cqnaJMLBAyHozSoXpump",
-   0.353,
-   2.1,
-   "bundled_launch=4 extra buys in creation block"
+   1.0,
+   6.8,
+   "graduated"
   ],
   [
    "BNB",
    "9nFdM2C7to4z1igNAfqfPiKxLsK31nb9r7tENZFzpump",
-   0.281,
-   2.7,
+   0.205,
+   3.6,
    ""
   ],
   [
    "BNB",
    "F8ofJdib8SAGy12ZcA5eGGvtqzZe8wgB6owJp6Ydpump",
-   0.164,
-   4.9,
+   0.163,
+   5.8,
    ""
   ],
   [
    "GOON",
    "B5vjGJFn8YShXULcPqtRFAS383DD89o9mQTAFfUdpump",
    0.11,
-   5.5,
+   6.4,
    ""
-  ],
-  [
-   "STONKAT",
-   "9GSKwzStRBnaaztD3NYvD3EqubXyBwFrpuFCstcGpump",
-   0.084,
-   3.8,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "BNB",
    "7cGTzYPK2332uYv9Ska3kA18Wo2bCcZJNGmEWXABbVrm",
    0.083,
-   5.1,
+   6.1,
    ""
   ],
   [
    "GRIMU",
    "n2bypkGLc32n4ey7UqQzfZdgSniYpL5b9kLyYJApump",
-   0.083,
-   3.3,
-   "buyers=3; top5_hold_most=100%"
+   0.082,
+   4.2,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SAFU",
    "9qapKgzdQgddKVYsGHW48YEsazpJkKZUzG3LMqf1pump",
    0.072,
-   6.8,
+   7.8,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Midas",
+   "FeNGqbR6n3H8SiVAyWELBnqC1xxFXv6QxcpY2rfJpump",
+   0.043,
+   9.7,
+   ""
+  ],
+  [
+   "Acat",
+   "49EXvcFuD8wxj8REGgDsLXPRzQ68Vi2DWPvrz2Ghpump",
+   0.031,
+   2.3,
+   ""
+  ],
+  [
+   "BOOM",
+   "29dKFhjHXLhcRfunESqsDBUPmbByfz2rLEezDfy6pump",
+   0.031,
+   4.2,
+   ""
   ]
  ]
 }
