@@ -7082,83 +7082,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:53:53",
+   "2026-10-30T14:54:52",
    32.58
   ]
  ],
- "cycles": 3618,
+ "cycles": 3619,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.31652574295002,
- "watching": 197,
+ "sol_usd": 95.31000000000002,
+ "watching": 196,
  "near": [
-  [
-   "Quick",
-   "37xGjSo7eaUQVhTVJYR4xAr9id2AAFw4GNibhaZVpump",
-   0.702,
-   2.8,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "Checkr",
-   "CAiY8irm7FP6ACyXBxFfSfksr4uxkjX4bsAysqfApump",
-   0.628,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
-  ],
   [
    "p256",
    "46YyaV4P98BJsu8z7DVQSWiZbDyYK3Mz8BcoGV8wpump",
    0.169,
-   5.2,
+   6.2,
    ""
-  ],
-  [
-   "MARCEL",
-   "G8XS5TCWowKkvTWSoFWx53GfvqKDffZYLp4fbkZtpump",
-   0.091,
-   3.2,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Steve",
    "2EBNbRxPGwitCb7SxqZLFULxjnfNFtyitXtCGrDUpump",
    0.085,
-   2.4,
+   3.4,
    ""
   ],
   [
    "jeets",
    "4DfJtgMHhuES5qDkjCjijpTBDXz7pLCZoepLsbZ3pump",
    0.083,
-   2.5,
+   3.5,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Steve",
-   "HZUfe3BHZXyEkHkWY9v4CGtYKzyhVhVgSFFXmCw7pump",
-   0.081,
-   2.2,
-   "buyers=1; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "MBE",
    "7Dd5TxpdpPRsGuPWmu8QhvQsvGBs7XbGpq3z2wqKpump",
    0.051,
-   2.8,
+   3.8,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "DINNER ",
+   "HotfJfC89tSBxnVoWh5BWE3y4Kg9DD2fZmyC46cDpump",
+   0.046,
+   2.4,
+   ""
   ],
   [
    "PTO",
    "gCDov3RsMATd3j7u4pKZgxg5qB8yhAMfcuhy2wVpump",
    0.045,
-   2.9,
+   3.9,
+   ""
+  ],
+  [
+   "BUBBLE",
+   "9Bi4n85Vp8iyDZMDRYgjRowa3PSzBDrLFZoCqQyxpump",
+   0.043,
+   2.6,
    ""
   ],
   [
    "ANSEM",
    "EKgTfGTfeDey2PYnTdBcdr26nt9vRunP8PVgFcKWpump",
-   0.043,
-   4.3,
+   0.04,
+   5.3,
+   ""
+  ],
+  [
+   "iMolest",
+   "57EJMqDiBmssfwnM6gmVgi41nttuJ7wjiiL9n6Adpump",
+   0.035,
+   4.1,
+   ""
+  ],
+  [
+   "Animals",
+   "Hup4W8EmQbjkWDSCmJhHr7wopgHMuQJLwdD5obSpump",
+   0.031,
+   5.8,
    ""
   ]
  ]
