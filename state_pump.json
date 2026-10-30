@@ -6738,83 +6738,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:31:45",
+   "2026-10-30T01:32:46",
    32.58
   ]
  ],
- "cycles": 2817,
+ "cycles": 2818,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.14782351060002,
- "watching": 208,
+ "sol_usd": 97.26,
+ "watching": 199,
  "near": [
-  [
-   "padre",
-   "GZ3A9xAVeioqpPWv9xcMaDFMi5k3XmhzfL8BZXoupump",
-   0.163,
-   3.4,
-   "buyers=7; top5_hold_most=100%"
-  ],
   [
    "TraderTraito",
    "DmeTNnH7L1QXvjt8ACbAU2fJRujfnxU1UsoTqjEdpump",
-   0.151,
-   6.6,
+   0.147,
+   7.6,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Pumpathon",
+   "5nTVRNPsfouac6BSXu6XcXVR4vsrXTC9xyC2VxpJpump",
+   0.147,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "ROCKET",
+   "5vYLbzMjPihZ3ZD6vvYCRUxNJJiivHAXSZcBYKbqpump",
+   0.097,
+   3.0,
+   ""
+  ],
+  [
+   "padre",
+   "GZ3A9xAVeioqpPWv9xcMaDFMi5k3XmhzfL8BZXoupump",
+   0.085,
+   4.4,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "ALON",
+   "27KZSzFmgkjMR4jAyqwZRqxEeNkEeCqHv4Gcc9gApump",
+   0.06,
+   2.9,
+   ""
   ],
   [
    "TERMINAL",
    "7ZJWEnqpB4d5jgWRFukAmCkF9uijAmB8ftiib45tvS7V",
    0.043,
-   4.6,
+   5.6,
    ""
   ],
   [
    "TERMINAL",
    "DCTpap4CLJSpuf2McqJxaJdkbhb7NRmpuekvtRbRpump",
    0.038,
-   5.8,
+   6.8,
    ""
   ],
   [
    "LIQUID",
    "37gcdt3ra3KyC9rjggxxQMd1f6DERkD4jQLrJy18pump",
    0.034,
-   3.5,
+   4.6,
    ""
   ],
   [
    "Traitor",
    "3nwbkbjUbsGE2tvP73CRnbVXMq9BauS4u6GivT7dpump",
    0.033,
-   8.5,
+   9.5,
    ""
   ],
   [
    "mongus",
    "BGtNegtXuadSrKvSVdmGLhUbAvFsF9yvWnxcPG7Apump",
    0.023,
-   2.7,
-   ""
-  ],
-  [
-   "SAFU",
-   "FCNtRjxdDcjAkyWxsRPcvFzn9uoJ6rKAjAdR3B4Apump",
-   0.018,
-   4.1,
-   ""
-  ],
-  [
-   "SUOW",
-   "BgARja8kS4c4s2Nv8A37QX1p9Y755EpWNote7L7Apump",
-   0.016,
-   3.4,
-   ""
-  ],
-  [
-   "SYBUYA",
-   "8ZQriJntLeouAarcfByCt6htKLZNw2e6w4QJVaRHpump",
-   0.01,
-   9.2,
+   3.7,
    ""
   ]
  ]
