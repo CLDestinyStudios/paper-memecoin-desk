@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 367.9987561141479,
- "positions": {
-  "3UrbFtErj4FYspTupgAfKqztrMYNVQA2GocpT97Q3ray": {
-   "sym": "Stonka",
-   "qty": 244845.23051097698,
-   "entry": 7.91112e-05,
-   "mark_entry": 7.756e-05,
-   "cost": 19.37,
-   "peak": 8.672e-05,
-   "last": 8.672e-05,
-   "opened": 1793347425.8335588,
-   "p_buy": 0.55
-  }
- },
+ "cash": 386.31881079667073,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -7915,8 +7903,12 @@
   [
    "2026-10-30T01:04:46",
    388.81
+  ],
+  [
+   "2026-10-30T01:05:46",
+   386.32
   ]
  ],
- "cycles": 2810,
+ "cycles": 2811,
  "started": "2026-10-28T01:46:56"
 }
