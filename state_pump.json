@@ -6994,84 +6994,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:22:56",
+   "2026-10-30T11:23:48",
    32.58
   ]
  ],
- "cycles": 3407,
+ "cycles": 3408,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.11018620460003,
- "watching": 252,
+ "sol_usd": 94.16999999999999,
+ "watching": 249,
  "near": [
   [
-   "Gemma",
-   "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
-   0.681,
-   7.1,
+   "Timmy",
+   "3v7uHjarpSn8HGku6Bw1Z8CBsyD5f6C7BnAeXpWBpump",
+   0.767,
+   2.8,
    ""
   ],
   [
-   "Wangcai",
-   "CPee8JapAekuEzitDS8Ex1j4ZFgt1TytpH4RuXRrpump",
-   0.186,
-   2.5,
-   "buyers=8; top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
+   "Gemma",
+   "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
+   0.409,
+   8.0,
+   ""
   ],
   [
-   "Wangcai",
-   "Gg5ZkLmPzHMLMQZ9PsTxzTKsba9kJqStZycP6Bdapump",
-   0.165,
-   2.5,
+   "NDA",
+   "F8Zff15ZSwBHtaFp2NCphm3ubaGh8PFbh4trnSuhpump",
+   0.379,
+   2.1,
    ""
   ],
   [
    "Gemma",
    "CUxfHVagFzwXFWNFwtyLCxYQBy9qEouZNy3mUL3qpump",
    0.152,
-   4.1,
+   5.0,
    ""
   ],
   [
-   "MONARCH",
-   "9qoMYDa9DSpD9fNtJY4Uho5bwpH2BKZJh4rWRXKupump",
-   0.1,
-   7.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "NDA",
-   "Gt216iRqbL2s4cU4JTmEnGpaTgqEGVonvi7dz5jnpump",
-   0.095,
-   2.1,
-   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "FSD",
-   "C33wn2zLx5H976ryTAMG3TJ5VEeqF6fQemfVhwFypump",
-   0.093,
-   3.9,
-   "buyers=2; top5_hold_most=100%"
+   "Wangcai",
+   "Gg5ZkLmPzHMLMQZ9PsTxzTKsba9kJqStZycP6Bdapump",
+   0.09,
+   3.4,
+   ""
   ],
   [
    "Gemma",
    "3TBfXyGnWHxKdhgMvCJzbxwoTMLhjshPLGoweDLkpump",
    0.088,
-   2.4,
+   3.3,
    ""
   ],
   [
    "STARLIGHT",
    "6bvv5rPoiJR424ZHGckdkv6rALtVaLHf8razPnBWpump",
    0.086,
-   5.4,
+   6.2,
+   ""
+  ],
+  [
+   "TPU",
+   "37rvTvsVyDUKpSiMcZehFGMkKtNYpHZbjXP4EMBzpump",
+   0.082,
+   2.4,
    ""
   ],
   [
    "PUMPKAT",
    "81cpwxGFD26oSoXSPTWeRVceP53EzhWAya5DLhWmpump",
    0.08,
-   6.5,
+   7.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "FSD",
+   "C33wn2zLx5H976ryTAMG3TJ5VEeqF6fQemfVhwFypump",
+   0.061,
+   4.8,
+   "buyers=1; top5_hold_most=100%"
   ]
  ]
 }
