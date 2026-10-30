@@ -6934,84 +6934,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:06:45",
+   "2026-10-30T09:07:52",
    32.58
   ]
  ],
- "cycles": 3271,
+ "cycles": 3272,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.65764910114999,
- "watching": 262,
+ "sol_usd": 94.77999999999999,
+ "watching": 270,
  "near": [
   [
    "ARVEL",
    "8zFSC6ydfuYNPT7qYexgEVeE9hE7Be2Vzqy8vreypump",
-   0.838,
-   8.2,
+   0.863,
+   9.4,
    ""
   ],
   [
    "pCAT",
-   "AHwswZgCmDYPv7XSmgVjruAJvGuR68aZmLLJqPz9pump",
-   0.381,
-   2.4,
-   ""
+   "5VpnHq1ANHRjPZ5R7sCaDBw4QkteLPTjsQApqJbXhuKT",
+   0.676,
+   2.8,
+   "serial_creator=97 launches/24h"
   ],
   [
-   "ABBY",
-   "C3wJwjUDYvnH89G2RBiB9oXXS16MhVbd2SFqpY7mNk3q",
-   0.38,
-   9.6,
+   "pCAT",
+   "AHwswZgCmDYPv7XSmgVjruAJvGuR68aZmLLJqPz9pump",
+   0.306,
+   3.5,
    ""
   ],
   [
    "ASINU",
    "9fw1evNSQ8qKhoiD6gJdqi3NELydcxdZjmpSqV2Zpump",
-   0.269,
-   6.8,
+   0.261,
+   7.9,
    ""
   ],
   [
-   "DP",
-   "CMWntS2YGJ9L3mpNZ1Tnnr3Gxyg5ZZYwBmaX824Lpump",
-   0.19,
-   2.2,
-   "buyers=8; top5_hold_most=99%"
+   "SUGAR",
+   "2YtV6LLp1xYp42im5NxQTaGovuGYrUfdfKbNcbJdpump",
+   0.124,
+   2.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "slut",
    "G2Ts7bUSWxvDfCfyXXG1XQKeXk8awW8Z3HecoR7Ypump",
-   0.177,
-   3.0,
-   "top5_hold_most=84%"
-  ],
-  [
-   "Crawlpion",
-   "J9SqeGQwDNJEkPTpzu5KrMusoGbMa5eZJJGnXNwbpump",
-   0.134,
-   2.4,
-   ""
+   0.12,
+   4.1,
+   "top5_hold_most=94%"
   ],
   [
    "pCAT",
    "98GCmtp9Bn5gdkcEzmnJ6mNM7pTDKemSgazPLtgM8pjJ",
    0.12,
-   2.3,
+   3.4,
    ""
   ],
   [
-   "CTO ",
-   "FZWeRixpUkAREc9c4daN3Fex8Vr5v9CGdnsr1tF11V8B",
-   0.116,
-   8.7,
+   "Saraya",
+   "5RZTrD2KgmM8DtPoaLwqTzrPtrU2SKrsj8JMGDDdpump",
+   0.1,
+   2.9,
    ""
   ],
   [
-   "KIM",
-   "HBKaDbNeSPDH3JgQWrsrhoKsgdrH3M8VWCC9ge3Bpump",
-   0.105,
-   2.8,
-   ""
+   "MOONPAD",
+   "8jEeDQkF6YBfhEvK4tN8o6RjymkPWNxgxzgjnCL1pump",
+   0.095,
+   3.8,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "IH",
+   "2RBSGb6hr4zvuKVeBwsCe7U37KgTmJ1nPmH1mHQzpump",
+   0.079,
+   3.1,
+   "top5_hold_most=89%"
   ]
  ]
 }
