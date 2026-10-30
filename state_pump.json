@@ -7088,82 +7088,86 @@
   [
    "2026-10-30T15:07:52",
    32.58
+  ],
+  [
+   "2026-10-30T15:08:53",
+   32.58
   ]
  ],
- "cycles": 3632,
+ "cycles": 3633,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.38413310095001,
- "watching": 317,
+ "sol_usd": 95.36999999999999,
+ "watching": 330,
  "near": [
   [
    "MIP",
    "AjzaGJrXFrmDs8RqCPZgHGibXT7KagGETztiZMS4pump",
-   0.975,
-   2.1,
-   ""
+   1.0,
+   3.1,
+   "graduated"
+  ],
+  [
+   "ELAN",
+   "6b4bs7k8svPwCrAXBhhb73ksAiLwGvnRBuNoqZHMpump",
+   0.518,
+   2.3,
+   "bundled_launch=9 extra buys in creation block"
   ],
   [
    "BANKER",
    "oLMoTt1bJbtPtY2QXmhWLneYYGXdZcLEeCwjuDRBANK",
-   0.564,
-   5.5,
-   ""
-  ],
-  [
-   "\u20a9",
-   "CsqmvnE2Qft5nrGcpDxfhjVGrYDW9Su1jKSSwY8Epump",
-   0.466,
-   4.7,
+   0.479,
+   6.5,
    ""
   ],
   [
    "DEGENPILOT",
    "GhoABtk8uxcJNKX1Wx82VhWRmfRPg8tX9kp2j8TMpump",
    0.443,
-   6.9,
-   ""
-  ],
-  [
-   "ToT",
-   "CJPs9SJin2tUPbd84j5bE9RCLTZxDniRykZnpyiipump",
-   0.273,
-   6.1,
+   7.9,
    ""
   ],
   [
    "RUSHY",
    "2q6WYHGRWTkiiQLay1BALH4BHToWR6aWbixfNRgVpump",
    0.218,
-   7.5,
+   8.5,
    "buyers=4; creator=16.4%; top5_hold_most=100%"
   ],
   [
    "FIVEBRO",
    "AWgfyhCxsYxM2Xm1Mc1nLiG9fKxPie6jPZgPRX481YoB",
-   0.215,
-   2.4,
-   "buyers=5; top5_hold_most=100%"
+   0.212,
+   3.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ADA",
    "9w13vXzRemzAuihfwxFzYAyKbMU8uevsnV2A1UDUpump",
    0.159,
-   8.3,
+   9.3,
    "buyers=8; top5_hold_most=97%"
+  ],
+  [
+   "ToT",
+   "CJPs9SJin2tUPbd84j5bE9RCLTZxDniRykZnpyiipump",
+   0.153,
+   7.1,
+   ""
+  ],
+  [
+   "\u20a9",
+   "CsqmvnE2Qft5nrGcpDxfhjVGrYDW9Su1jKSSwY8Epump",
+   0.14,
+   5.7,
+   ""
   ],
   [
    "AI",
    "3G27zANaE3NVqAe9MvBoF6SumEzScBKQMgN87ymepump",
    0.097,
-   5.2,
+   6.3,
    ""
-  ],
-  [
-   "iPhone 3G",
-   "AHoTm7Up6pykoQJ3n3tELcX5FVswZb2oufsg2WNSpump",
-   0.088,
-   2.3,
-   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
