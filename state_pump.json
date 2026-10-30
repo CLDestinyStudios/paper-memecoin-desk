@@ -7034,83 +7034,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:56:52",
+   "2026-10-30T12:57:51",
    32.58
   ]
  ],
- "cycles": 3501,
+ "cycles": 3502,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.78061436675,
- "watching": 278,
+ "sol_usd": 94.69,
+ "watching": 270,
  "near": [
   [
    "SWORD",
    "C5ep1iZ3gtXzMQ2TZgD5S4LaY4LgVdB85tu9Qb2FsVpc",
-   0.558,
-   5.8,
+   0.212,
+   6.8,
    ""
-  ],
-  [
-   "SWORD",
-   "A17Um2bGf737PkuKekDVkaQtU2ypSor3VREuGHP3pump",
-   0.519,
-   7.3,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "torpad",
-   "7JR51z6eBaKEwTvaLezpTRSpqasDRqoQCHdywmfTpump",
-   0.452,
-   2.8,
-   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "USDF\u200a",
    "64PB37haYQHFUSJ3rt9GWqAfMiHqBrtCNdg76xtCpump",
    0.157,
-   6.5,
+   7.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "neko",
+   "8DHjmUiFFx2HB6xHKuCq3B4yLVBv5NKmHhRjgvHcpump",
+   0.153,
+   2.8,
+   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "MARCE",
+   "8R5Cn1iZPX21tTVAPiYv9Wf3ZXprhN5y5nFu3QSDpump",
+   0.12,
+   2.4,
+   "buyers=7; top5_hold_most=97%"
   ],
   [
    "SYNDI",
    "D8YzcBHUPdAQV1F4ePsQd4RjkAffe56Pda6swWv1pump",
    0.116,
-   8.8,
+   9.8,
    ""
   ],
   [
    "W0P1",
    "7W1csnQcMk7HUmVzSrKxfyHCFpmVByW5JXBhWGK8pump",
    0.067,
-   6.1,
+   7.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "TOT",
    "4xEbznKLN75HbuPZ9EVFJsd95tcqQbWsV5FiVMXMpump",
    0.027,
-   4.3,
+   5.2,
    ""
   ],
   [
    "RED ",
    "7v4E6WNcwJBzZ92GX3p8NQLGvyjDyvKfvXigSzEBpump",
    0.024,
-   6.1,
+   7.1,
    ""
   ],
   [
    "PUMPE",
    "27M8de5SX1nqRdUyf1sc1SBBdH8Gomzf6hz67B2Npump",
    0.021,
-   2.6,
+   3.6,
    ""
   ],
   [
    "C.A.P.",
    "5R9hgi3229Ycm2XgCZ8ckDvCp4sRtaRMpfd55vw2pump",
    0.021,
-   2.8,
+   3.8,
    ""
   ]
  ]
