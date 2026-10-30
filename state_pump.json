@@ -6834,84 +6834,84 @@
    32.58
   ],
   [
-   "2026-10-30T05:09:45",
+   "2026-10-30T05:10:50",
    32.58
   ]
  ],
- "cycles": 3035,
+ "cycles": 3036,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.65525,
- "watching": 133,
+ "sol_usd": 96.66,
+ "watching": 120,
  "near": [
+  [
+   "GAS",
+   "kpZhkHj9aZq2fvB9dVvSGWrApRxmKspNJihoL8Epump",
+   0.655,
+   2.5,
+   "serial_creator=10 launches/24h"
+  ],
   [
    "HREX",
    "4gWxN4LDuJi4TevDycWYVMPrpjDQipK56DeThHqQpump",
-   0.505,
-   7.3,
+   0.531,
+   8.4,
    ""
   ],
   [
    "Kit",
    "7FAGfLpsXaERrEUSAQ1yJ2iMe8vZJQAsiPTLLWEjpump",
-   0.433,
-   2.1,
+   0.167,
+   3.2,
    ""
+  ],
+  [
+   "WWCART",
+   "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
+   0.099,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "gascoin",
+   "5zFPPFVxVmn9TR5Cu6kKz4hiTY2uMsEkse6keroCpump",
+   0.093,
+   2.3,
+   "top5_hold_most=93%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "SCHAIN",
    "DB6qKJfNpyAst9UpGListWXqDfQomYegpYqwtee4pump",
-   0.127,
-   8.2,
+   0.081,
+   9.3,
    ""
   ],
   [
    "Undo",
    "43nyLJryDSEkMYJWDuxKTLCxDmU8xDbTRdM5bZM3pump",
    0.077,
-   5.0,
+   6.1,
    ""
+  ],
+  [
+   "HopiumPap",
+   "8HngywWgcRV3ox6nUV9GvJBj5cinyuLTTrPBkqmfpump",
+   0.063,
+   2.5,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Memecoin",
    "3dnVZcHxF6BcPVDQ1DJWQpBbMrSM1kXDpSEMyS3Vpump",
    0.056,
-   7.0,
+   8.1,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "Laptop",
-   "AARzSskLntyKofSY84sUaUbr6Cka9wUG3BfN364rpump",
-   0.043,
-   9.1,
-   ""
-  ],
-  [
-   "$PORSHE",
-   "DRG8QEogHbER7VetVPgeBZnxWPyMN1ZHNLgtcwQ7pump",
-   0.04,
-   4.5,
-   ""
   ],
   [
    "Loan",
    "9A74rF1MfhhutszFbVcdDYRjhX7b76HfH2EEe5mspump",
-   0.038,
-   4.2,
+   0.042,
+   5.3,
    ""
-  ],
-  [
-   "PF",
-   "9hApmBQim9zNxEor6KyCwNxMdRzaMuMF6jTARAvBpump",
-   0.028,
-   4.0,
-   ""
-  ],
-  [
-   "Laptop",
-   "yu967y1j5zjmXdfDR7zG4tBzfV78q8FpoJrBYJLzzcC",
-   0.025,
-   8.9,
-   "buyers=7; top5_hold_most=99%"
   ]
  ]
 }
