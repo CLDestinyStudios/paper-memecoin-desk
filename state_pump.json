@@ -6666,83 +6666,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:40:18",
+   "2026-10-29T22:41:19",
    32.58
   ]
  ],
- "cycles": 2646,
+ "cycles": 2647,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.01000000000002,
- "watching": 176,
+ "sol_usd": 97.93999999999998,
+ "watching": 164,
  "near": [
   [
    "BSVtony",
    "JC3qfAPVyPBR7C9tHxonGHWNXmaeCr5Wa5wn8VTCpump",
-   0.532,
-   3.7,
+   0.501,
+   4.7,
    ""
-  ],
-  [
-   "COALITION",
-   "8EnPSzefnrHu4GCQEFCi5s8yN5DnGk8yCGAKsh4tpump",
-   0.301,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "CTN",
    "AcfUdwLpenYim9WmZvECwspkjs7STL3gKt5Bz3HUFFrq",
    0.293,
-   5.0,
+   6.0,
    "buyers=9; top5_hold_most=85%"
   ],
   [
    "$PATCH",
    "E5RUYArMsiivHoxCc9E8vr3xgh2GxNqGyMrY9j8cpump",
    0.092,
-   6.4,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SI",
-   "GcCfegDtFXs64xDqKFyhZbhcdcBLUwSePKsSrvC1pump",
-   0.081,
-   2.1,
-   ""
+   7.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "HT",
    "5uAB1edyNE1PcZdgstT4M9HQXyaiHCzwiTxe1Y1Gpump",
    0.071,
-   5.7,
+   6.7,
    ""
   ],
   [
    "TYTHON",
    "2oBFSMn7ECSew5f8BNSi3gpGF4oGR6bfRrHQcXRDpump",
-   0.061,
-   7.7,
+   0.06,
+   8.8,
    ""
   ],
   [
    "GROK",
    "9Rtgf42XiJqQmKoHJ9udugeb3HLzK8szmRnoyWFUpump",
    0.045,
-   3.7,
+   4.7,
    ""
   ],
   [
    "Bear",
    "J2RRzf5sFa3Z1UKn2aMPqTgzP9ZMKrPskMW7kq2Dpump",
    0.043,
-   8.1,
+   9.1,
+   ""
+  ],
+  [
+   "$BH",
+   "6XpHrKaZ1pzoeycn87HsNChQ6XZRcT524yZkDZ76pump",
+   0.034,
+   2.3,
    ""
   ],
   [
    "Chigga",
    "ABQEKZeccA8BvinaTDp5Q1a4K5N2YACCZ95tCYdcpump",
    0.028,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "$MRS",
+   "AQudQD1b1N1PeLy7wumXuGhZ9yaKfwqzWYY9yQbkpump",
+   0.025,
+   3.0,
    ""
   ]
  ]
