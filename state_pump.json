@@ -6670,83 +6670,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:51:19",
+   "2026-10-29T22:52:17",
    32.58
   ]
  ],
- "cycles": 2657,
+ "cycles": 2658,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.14499999999998,
- "watching": 165,
+ "sol_usd": 98.075,
+ "watching": 169,
  "near": [
   [
-   "CREWPAD",
-   "6iSzB3nNkGMV29n9XfvjAt96Wcdah5EFak6Cpvgjpump",
-   0.241,
-   4.6,
-   "top5_hold_most=88%"
-  ],
-  [
-   "Polycrisis",
-   "fXj5rJ8KQhiykCtodw9JdVKDu8EX4nEkhjH8mu9pump",
-   0.168,
-   2.6,
-   "top5_hold_most=83%; bundled_launch=3 extra buys in creation block"
+   "Loki",
+   "LTi68P59ZHGYYvHmndLnbKrcUnHPQW11952Y8URpump",
+   0.59,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "GrokTyson",
    "2jvFu3STgRCyDz9WzbyFs5m2AB28UHy2aT6nuPwypump",
    0.107,
-   5.0,
-   "top5_hold_most=95%"
+   5.9,
+   "top5_hold_most=94%"
   ],
   [
    "poppy\u2019B",
    "6L7ssV1gAVMziUtALsJ1bnJ34nNamrqM7ZEk8pqHpump",
    0.083,
-   4.1,
-   "buyers=5; top5_hold_most=100%"
+   5.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "WARS",
-   "81Zku8ZWj5vv1S1CMTuX831Rn1naF5cCkdpzmj9pump",
-   0.071,
-   5.8,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "Slop",
-   "DTN5FmPTq6yv7WrUuLMk1bLG5asArnmbvCQiByESpump",
-   0.031,
-   7.6,
+   "WASTED",
+   "Ao7YZB2wWjXPVQnJigpP4bN5hiwaM5VcBAWmtEUihfK1",
+   0.039,
+   2.8,
    ""
   ],
   [
    "LATEAGAIN",
    "EXmommCBHiy6TLLoo2aBbLHHruksVZWMqNxj38Hrpump",
    0.03,
-   2.7,
+   3.6,
    ""
+  ],
+  [
+   "WARS",
+   "81Zku8ZWj5vv1S1CMTuX831Rn1naF5cCkdpzmj9pump",
+   0.025,
+   6.8,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "AOI",
    "sowgT1nBLSN4GKv9c4wPsKMzC6jVLBtSnRu7VEvpump",
    0.021,
-   2.2,
-   ""
-  ],
-  [
-   "Lazarus",
-   "FeFqCreNPey3B6tWAyFvbTmu48BGQEBsT7d8jmZUpump",
-   0.017,
-   9.4,
+   3.2,
    ""
   ],
   [
    "FUT",
    "9Hsxh4AKFW3jkEW9uobznu3uSHQEka5JDEEuthjopump",
    0.014,
-   7.0,
+   8.0,
+   ""
+  ],
+  [
+   "IROKOKO",
+   "CL268F8rUsj7pyuQhmisZuQCXeEv7J8gZus7xNdmpump",
+   0.013,
+   5.8,
+   ""
+  ],
+  [
+   "SON",
+   "7N5GkkxrJgXCM9EdkGizKPu8KytZYDACtyh47HFJpump",
+   0.011,
+   4.7,
    ""
   ]
  ]
