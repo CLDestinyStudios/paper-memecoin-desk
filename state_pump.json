@@ -6916,81 +6916,85 @@
   [
    "2026-10-30T08:24:46",
    32.58
+  ],
+  [
+   "2026-10-30T08:25:49",
+   32.58
   ]
  ],
- "cycles": 3229,
+ "cycles": 3230,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.21653152025,
- "watching": 227,
+ "sol_usd": 94.94393528935001,
+ "watching": 206,
  "near": [
+  [
+   "QS",
+   "FvgVPi1Tw8bykcDuPCRERQJ8475h7VCHHLkUiCyEpump",
+   0.342,
+   2.7,
+   "serial_creator=6 launches/24h"
+  ],
   [
    "Paws",
    "D7DwoPJshuKPD87KSGCmyN6bQXqFLPLSu9bkL5V8pump",
-   0.175,
-   8.9,
+   0.174,
+   10.0,
+   ""
+  ],
+  [
+   "buy",
+   "AXPSonLo4rR7DowWmGZj9jydikGb1KC68msKQFUSpump",
+   0.154,
+   2.1,
    ""
   ],
   [
    "ABS25L",
    "CCDkEfBEjSnyyD5HqaER8BudqKyUr1fCPj9fCKdRpump",
    0.099,
-   7.8,
+   8.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "Mars",
    "GNFtZ8q8MUnaTYJ9u7yiciarxeWKXA9VoH72KaPcpump",
-   0.09,
-   2.1,
+   0.083,
+   3.1,
    ""
   ],
   [
    "anon",
    "BGMVyuCZx9TqvtzgcyQCmHPYiPAy1JXyBhtxUAJCpump",
    0.062,
-   7.0,
+   8.1,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "NET",
    "UzfZ7WhLWJGW2uXe58cwHmThTK6ddeGEPFGCNAapump",
    0.061,
-   2.4,
+   3.5,
    ""
   ],
   [
    "Yobs",
    "6G6PC2oNZCz7hC9hUr1J2XG2hQscbwxRhHiCvdFHpump",
    0.048,
-   3.9,
-   ""
-  ],
-  [
-   "LOKI",
-   "GCKxVTv7BAf4q6FZhkPueTJKqcQKmEASRUdyKjTwpump",
-   0.043,
-   9.5,
+   5.0,
    ""
   ],
   [
    "HACK",
    "rrGb46xVHXJvMofRu6EugRDnn13atg2CaYT1WUdy67Q",
    0.043,
-   8.6,
+   9.7,
    ""
   ],
   [
    "INVISIBLE",
    "B4TpxPquDo1kB1gKNUXci5rudACQtfT4EatZPocgtGLv",
    0.043,
-   3.2,
-   ""
-  ],
-  [
-   "Lucky",
-   "DBQ9GrSBied4U6oqYZos5oygkdTb6gma3biXFyjo9nns",
-   0.043,
-   2.9,
+   4.3,
    ""
   ]
  ]
