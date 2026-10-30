@@ -6834,84 +6834,84 @@
    32.58
   ],
   [
-   "2026-10-30T05:14:48",
+   "2026-10-30T05:15:47",
    32.58
   ]
  ],
- "cycles": 3040,
+ "cycles": 3041,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.63359446915,
- "watching": 117,
+ "sol_usd": 96.50329811579502,
+ "watching": 123,
  "near": [
-  [
-   "RISK",
-   "BVsEfVZd4W5BxcT6TefVwnkZyUEfmGp3iK3T9TPUpump",
-   0.927,
-   2.7,
-   ""
-  ],
   [
    "Kit",
    "7FAGfLpsXaERrEUSAQ1yJ2iMe8vZJQAsiPTLLWEjpump",
-   0.62,
-   7.1,
-   ""
+   0.572,
+   8.1,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
-   "SBF CZ",
-   "AuEP7oZWijQcVLXEfrijA2P1HDyEGrRkfzpbHCPKpump",
-   0.349,
-   3.0,
-   "buyers=2; creator=27.5%; top5_hold_most=100%"
-  ],
-  [
-   "Blindsight",
-   "5xBRzx71qiBXSTHGrz9vrWA7BTrNoEmN7hHw4VuGpump",
-   0.132,
-   3.7,
-   "buyers=9; top5_hold_most=99%"
-  ],
-  [
-   "Goat",
-   "FDgdDx4KqsfKNrYEAhZtCiY2ujjNHxr3v1xGzeBgpump",
+   "holyanus",
+   "DnZXtYhR4M4QfXNkGjQ7ToeEDUyURkpZ68n8hTVJpump",
    0.108,
-   3.6,
-   "buyers=5; top5_hold_most=100%"
+   4.2,
+   "buyers=7; top5_hold_most=94%"
+  ],
+  [
+   "Bo",
+   "4rnefc3LMYFoX64KP4MtuGybpJAuS9oRA6xVhxnKpump",
+   0.1,
+   2.2,
+   ""
   ],
   [
    "XOM",
    "Rc1c2iY5NBjhqUTrcSuKJPwYdrvA8hcRfVCq9F7pump",
    0.099,
-   2.6,
+   3.6,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "grove",
    "AsVJWeCo7KjkPokbA9LpxcjRVeZJWQkYfp2aw7sKpump",
-   0.09,
-   5.5,
-   "buyers=2; top5_hold_most=100%"
+   0.094,
+   6.5,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "WWCART",
    "H5bKqjLkeWJJfhNYSnMMcgeWPkvPwHoBqZCLJP4Epump",
    0.081,
-   6.5,
+   7.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BOTCHI",
    "3zKadRc7WTtoMuPmXdJihF8RXfrFFLr4FmxWJmvEpump",
    0.061,
+   4.9,
+   ""
+  ],
+  [
+   "SAFU",
+   "2ZijjGxVwVCy7MQBhhXjRVafZmcbWePTsqZCGan7pump",
+   0.055,
    3.9,
    ""
   ],
   [
-   "holyanus",
-   "DnZXtYhR4M4QfXNkGjQ7ToeEDUyURkpZ68n8hTVJpump",
-   0.056,
-   3.2,
-   "buyers=3; top5_hold_most=100%"
+   "KCKB",
+   "joNgCa4N4SaFDAxnkKz8Dwu7CwQ3mioqPwaMVT4qXsz",
+   0.051,
+   6.1,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Blindsight",
+   "GK54rgrDURTeVjd4gEFuFuEm6Bkw4gL1aU5Z5Q7Tpump",
+   0.049,
+   2.8,
+   ""
   ]
  ]
 }
