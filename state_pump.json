@@ -6586,83 +6586,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:34:19",
+   "2026-10-29T19:35:20",
    32.58
   ]
  ],
- "cycles": 2460,
+ "cycles": 2461,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.965,
- "watching": 229,
+ "sol_usd": 94.955,
+ "watching": 226,
  "near": [
   [
-   "LAPTOP",
-   "Chv3KdfNVWpaC343nzow58kMqcZdeeRaFuEGo5wopump",
-   0.264,
-   2.3,
-   "buyers=9; top5_hold_most=83%"
+   "laptop",
+   "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump",
+   0.52,
+   2.2,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "GEKKO",
+   "7YfUVCybUSeQLEyurqB5LjiZbQeCDP7kk6XGGL3cpump",
+   0.271,
+   3.0,
+   "top5_hold_most=82%"
   ],
   [
    "Dragoon",
    "J3jfKDqdrVD95SKSPriw15kmt1BpivfzjiZBJWAqpump",
-   0.17,
-   2.6,
+   0.123,
+   3.6,
    ""
   ],
   [
    "LAPTOP",
    "B8wT4kYyrQRigVBQvp2ETkP1aK9XoWC6FY2NBrp2pump",
-   0.111,
-   2.9,
+   0.108,
+   3.9,
+   ""
+  ],
+  [
+   "MACBOOK",
+   "AZmGvkcZiYL3Hw3X9CFNCNBtxbH4d9KvGVZNC8QqR3uG",
+   0.095,
+   2.4,
    ""
   ],
   [
    "LAPTOP",
    "A7uzrsmeWfw2QiHZeXrCgu6Upr3XGLp4CQcEbaueo3ju",
    0.087,
-   4.4,
+   5.4,
    ""
   ],
   [
-   "LAPTOP",
-   "GXkRixFriU7ZejJZ3nkHVsvGWfv8oQbQd3DKcbZxcop",
-   0.081,
-   8.7,
+   "Toad",
+   "Bk8MM2BDzzQ58Q1fWjZ2bRX6dHcAzQgWVkB1mLCspump",
+   0.06,
+   3.0,
    ""
-  ],
-  [
-   "MACBOOK",
-   "B48ycUo2fHcUZ9BuX2rBBzJknfnoPNaU1cgKgWvKTtD6",
-   0.074,
-   3.3,
-   ""
-  ],
-  [
-   "THELAPTOP",
-   "5oMRiRZE1PzSqgh53mXj1dqkT9nzTEZDcgk3zTqYpump",
-   0.072,
-   9.5,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "DFG",
    "DD9X8g7dayYHL6ZGGCsTFraLAaWs9Q5vzfKiUVXupump",
    0.057,
-   2.1,
-   ""
-  ],
-  [
-   "Macbook",
-   "8XDnpQLMRiQxZgCAnL7Q6sjcPhtGYt41TijLNFxxpump",
-   0.043,
-   4.6,
+   3.2,
    ""
   ],
   [
    "LAPTOP",
-   "7QaujVZUoinPRtSEchkLWRPnEW2Fw2sEbbRtLySQpump",
-   0.043,
-   7.4,
+   "GXkRixFriU7ZejJZ3nkHVsvGWfv8oQbQd3DKcbZxcop",
+   0.054,
+   9.7,
+   ""
+  ],
+  [
+   "LAPTOP",
+   "5t25D9NfP3u5nWAE6igj3UUh2HaJ9J6EFjqBPVsopump",
+   0.048,
+   2.9,
    ""
   ]
  ]
