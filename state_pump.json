@@ -6542,84 +6542,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:49:08",
+   "2026-10-29T17:50:06",
    32.58
   ]
  ],
- "cycles": 2355,
+ "cycles": 2356,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.90150000000001,
- "watching": 213,
+ "sol_usd": 94.03,
+ "watching": 202,
  "near": [
   [
-   "rope",
-   "9Di7oHemFMvfhbn9Q48vLqTCuXcXYHQRe5MZaTaYpump",
-   0.236,
-   3.1,
+   "Men",
+   "34TpDWHbtPU4gbY9ydqRcYY1d8b7YENj647FKhhnpump",
+   0.814,
+   2.1,
+   ""
+  ],
+  [
+   "POKE",
+   "FJvYGkCj2xEFV6FtrigmoB67BR9rawdUxv9ATAVPpump",
+   0.335,
+   3.0,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "BEPE",
+   "466H4n3bRtmxQa3WA1spPeiT3WKrNu4bca9WyHQgpump",
+   0.261,
+   7.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "LIDA",
+   "6VCVZR4VkqvyjoMk9AKirKoRdM5hgFbV1GFVqVkzpump",
+   0.216,
+   3.5,
+   "buyers=8; top5_hold_most=86%"
+  ],
+  [
+   "EVERYTHING",
+   "Eop6xabRLPSKoMtUMmz9qbByb5PD9m3D7oYujgsZpump",
+   0.153,
+   2.7,
    ""
   ],
   [
    "Men",
    "9oLVYbPziusFR4bLqTNwmizkKnBi23b6CC7EJiGbpump",
    0.144,
-   2.1,
+   3.1,
    ""
-  ],
-  [
-   "Dodo",
-   "B6pp83WhDN1AYFp2PouhmKk9JU6ubxcqHbXY4BeEpump",
-   0.137,
-   2.1,
-   "top5_hold_most=99%"
-  ],
-  [
-   "BabySwan",
-   "41M6ChzayHSMqVk2rTfF3fGJwZcfXMcMerWbSbQipump",
-   0.13,
-   8.8,
-   "top5_hold_most=95%"
-  ],
-  [
-   "LIDA",
-   "6VCVZR4VkqvyjoMk9AKirKoRdM5hgFbV1GFVqVkzpump",
-   0.123,
-   2.6,
-   "top5_hold_most=81%"
   ],
   [
    "ASS",
    "93LWsr7bA2QC9Bn34cUjfS978Z7CbqAse8SYMyQHpump",
    0.101,
-   3.0,
+   4.0,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "BabySwan",
+   "41M6ChzayHSMqVk2rTfF3fGJwZcfXMcMerWbSbQipump",
+   0.095,
+   9.7,
+   "top5_hold_most=95%"
   ],
   [
    "TOKEN",
    "F6eChbKDJiNQJnFrzV4mM9gZdpWJ2fZFC5WG4Czypump",
    0.092,
-   2.1,
+   3.0,
    ""
   ],
   [
-   "Cookie",
-   "B514GsAEyv5rssdu8FkNnejEmq2ZVkMCPpovCb7wpump",
-   0.065,
-   3.7,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "BEARISH",
-   "FFRZYY3WYc3opGKW8xnNQabQKYdZFERNPcvnXULFpump",
-   0.044,
-   3.3,
+   "EVERYTHING",
+   "8r9M4qNwMAjFxxTcX12MZa88F42FZbocyZnxy7hqNDZv",
+   0.083,
+   3.0,
    ""
-  ],
-  [
-   "BEPE",
-   "466H4n3bRtmxQa3WA1spPeiT3WKrNu4bca9WyHQgpump",
-   0.03,
-   6.6,
-   "buyers=7; top5_hold_most=100%"
   ]
  ]
 }
