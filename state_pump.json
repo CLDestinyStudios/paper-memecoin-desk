@@ -6662,83 +6662,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:29:16",
+   "2026-10-29T22:30:22",
    32.58
   ]
  ],
- "cycles": 2635,
+ "cycles": 2636,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.82429774520001,
- "watching": 146,
+ "sol_usd": 97.91499999999999,
+ "watching": 156,
  "near": [
   [
-   "Anonymouse",
-   "9B1oAGfSkDRcdyE9aNN6t1ga23ENZ4ht6qGHWcqQpump",
-   0.397,
+   "Drip",
+   "68tK7LpS7A9vgTZWdPfiB4o7aY4Y75E8KVm28zTtpump",
+   0.361,
    4.9,
    ""
   ],
   [
-   "Drip",
-   "68tK7LpS7A9vgTZWdPfiB4o7aY4Y75E8KVm28zTtpump",
-   0.395,
-   3.8,
+   "Anonymouse",
+   "9B1oAGfSkDRcdyE9aNN6t1ga23ENZ4ht6qGHWcqQpump",
+   0.29,
+   6.0,
    ""
+  ],
+  [
+   "PAYN",
+   "CeYhKj9F15gW1RZiWMS33hVUUSFE4Pgz3EV3rz6kpump",
+   0.091,
+   5.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PINKYRED",
    "FdmAw5aF8EUoKTpj72Mjrfo8K9D4MjpBpRP8KoYDpump",
-   0.073,
-   3.3,
-   "buyers=6; top5_hold_most=99%"
-  ],
-  [
-   "hypecoin",
-   "9HC43uRGvmsXydeVmRt1nLdFxf6mLJQkHFJZKujVpump",
-   0.047,
-   4.8,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "EXPLORER",
-   "4YzJDE6BmxezAUViMUGGyApHmErruLZCJiw3VnC6pump",
-   0.043,
-   9.6,
-   ""
+   0.082,
+   4.4,
+   "buyers=7; top5_hold_most=98%"
   ],
   [
    "Anonymoose",
    "BRxPPuyNRvZkkq59vA7hdYS5VWaop56iBWofqQwopump",
-   0.033,
-   4.0,
+   0.027,
+   5.1,
    ""
   ],
   [
    "SOGGY",
    "Cv94qSPcCQLaBJN6zodNG6jm92sQKYL6APpwYaETpump",
-   0.031,
-   4.4,
+   0.027,
+   5.5,
    ""
   ],
   [
    "SENOIA",
    "A2e2FmTwKpNkr2uw2FkEVUHaYCbE8Wn6oANCJS8Zpump",
    0.023,
-   4.3,
-   ""
-  ],
-  [
-   "PAYN",
-   "CeYhKj9F15gW1RZiWMS33hVUUSFE4Pgz3EV3rz6kpump",
-   0.022,
-   4.0,
+   5.4,
    ""
   ],
   [
    "WINDWI",
    "14eXeHGLwpYeA838JxyAHR5sH19eCcXi4e9q1XjGPump",
    0.019,
-   3.0,
+   4.1,
+   ""
+  ],
+  [
+   "NP",
+   "D9H1awiPAMYXPVFz4ZVMCNvW4LbYCfUVgPe8Cd43pump",
+   0.016,
+   6.3,
+   ""
+  ],
+  [
+   "Kim",
+   "GhEZP7VLQCgZ8xodAT9T4w941ajQzMfHwV1brvAMpump",
+   0.011,
+   9.9,
    ""
   ]
  ]
