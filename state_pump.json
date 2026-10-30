@@ -6724,81 +6724,85 @@
   [
    "2026-10-30T00:57:45",
    32.58
+  ],
+  [
+   "2026-10-30T00:58:46",
+   32.58
   ]
  ],
- "cycles": 2783,
+ "cycles": 2784,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.99,
- "watching": 113,
+ "sol_usd": 97.1423262227,
+ "watching": 106,
  "near": [
   [
-   "ROPAD",
-   "GtAmrzyUn2yf7TMzGgjeChsDqWj2ygtudz4hKKz4pump",
-   0.93,
-   9.2,
-   ""
-  ],
-  [
-   "AI",
-   "3V94rdGCYViswxXqM6t9q9pU88h5axuRpC8FQiR4pump",
-   0.585,
-   9.9,
-   ""
-  ],
-  [
-   "Hyper Inu",
-   "9VGj9Bawc3deEYTgbu1K6C1QowBo9BteeNcm1aZkpump",
-   0.051,
-   5.1,
-   "buyers=1; top5_hold_most=100%"
+   "ANONAMOOSE",
+   "o3mkis5DiePfgRKaa6b8vjLJ8856sAbfrMnLvYYpump",
+   0.353,
+   2.5,
+   "serial_creator=6 launches/24h"
   ],
   [
    "ONEECHAN",
    "GWDaoHAFNoz2qZ1RUHi5CPnTxWvgPX5EspPctCr7pump",
    0.043,
-   7.5,
+   8.5,
    ""
   ],
   [
    "AI",
    "BhqSxHGUK4oyYB9QTjhJ9SGcLi4Z4XKkSkrZXLWypump",
    0.038,
-   5.5,
+   6.6,
    ""
   ],
   [
    "Gay",
    "BcDGLbKbcimN9x3A5GrMjiEJGfYiyaN9pioNeL7Ypump",
    0.024,
-   2.3,
+   3.4,
+   ""
+  ],
+  [
+   "pepepill",
+   "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
+   0.024,
+   3.9,
    ""
   ],
   [
    "JIM",
    "6G3rt4HDWrD7PCVHmSesREkUCJ76vmwgk78QWiRdpump",
    0.023,
-   2.2,
-   ""
-  ],
-  [
-   "pepepill",
-   "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
-   0.022,
-   2.9,
+   3.2,
    ""
   ],
   [
    "USC",
    "4MVKMoFMtBPTijozMxbfjVdj2S6VCQVkYkMqjnXVpump",
    0.015,
-   5.5,
+   6.5,
    ""
   ],
   [
    "ULTRA",
    "zaenz9Br2dbNtBFK3Q93Z4TD9m9SQtsF2DmdA47pump",
    0.012,
-   5.3,
+   6.3,
+   ""
+  ],
+  [
+   "JNT",
+   "D2KA8W3ScCLXLqz3YsVTAKrjBGL7J9SYq4g1mw5kpump",
+   0.011,
+   8.8,
+   ""
+  ],
+  [
+   "PRT",
+   "Vvq8VT8DTj5jiLRK8npu16sxD6d3oJDSkghYc8Xpump",
+   0.01,
+   4.4,
    ""
   ]
  ]
