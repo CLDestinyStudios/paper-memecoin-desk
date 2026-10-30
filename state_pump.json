@@ -7042,83 +7042,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:21:00",
+   "2026-10-30T13:21:52",
    32.58
   ]
  ],
- "cycles": 3525,
+ "cycles": 3526,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.83208812155,
- "watching": 235,
+ "sol_usd": 94.8224620645,
+ "watching": 232,
  "near": [
   [
    "COINY",
-   "68EnC1QaW6Wx7DRTAR2zmtqNyUe7WHvRSebkV9MXpump",
-   0.722,
+   "9c9KMRxg6XPgAvwB2uaHFyf352qtPHKXxcysbjeZpump",
+   0.954,
+   2.5,
+   ""
+  ],
+  [
+   "VITO",
+   "2BAnah6cde2y6NAxmtPH4neWFFYE4aHs7aafrw5cpump",
+   0.926,
+   2.2,
+   ""
+  ],
+  [
+   "NARRA",
+   "8ss86wcen7UCMuCm17yN38xgLsrY5PiyQVeCSyfgpump",
+   0.738,
    2.7,
-   "serial_creator=10 launches/24h"
+   ""
   ],
   [
    "POLAND",
    "BisefEvUvYqX1u3yB9wR5nJ9HPftcgGBZkNjp4evpump",
    0.232,
-   2.7,
+   3.6,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "COINY",
+   "23Vo5viFZNzzyZcfSbZVG3SFmAcfqasD4c1G9ztgpump",
+   0.175,
+   3.0,
+   ""
   ],
   [
    "PLYWOOD",
    "Grg2oHHyiBfx1LeQReJGyL9NdK1o8bpN5rmvLUsfpump",
    0.139,
-   6.1,
+   6.9,
    ""
   ],
   [
-   "Walker",
-   "HeEJNy4RNhhJCPR9kcU8rYf1oEdBrdZRj5EdffH6pump",
-   0.11,
+   "CONNIE",
+   "8ahAtNeAGJfbn8hCUzNVdtqyDgDJ654FY9yKQNynpump",
+   0.119,
    2.3,
-   "buyers=9; top5_hold_most=96%; bundled_launch=4 extra buys in creation block"
+   ""
   ],
   [
    "POGE",
    "DNGapZSQYbMo9KuLy4em2ncwtVpKmNUko44it1fkpump",
    0.066,
-   2.7,
+   3.6,
    ""
   ],
   [
    "NOTCH",
    "HarhCt9ZX86suH2yAyTRedMrSnjousDrxghHrGJUpaid",
    0.06,
-   4.9,
-   ""
-  ],
-  [
-   "HyperFlow",
-   "23YXuXLadoqXYU6kXDLe1zsZus1g18UW6zxQR6YKpump",
-   0.06,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "BRAINPAD",
-   "BXB9dkivzQQn6r6JN6LPUDiWMgGuR9KcNFXWPEBUpump",
-   0.046,
-   5.0,
-   ""
-  ],
-  [
-   "BITFINS",
-   "4tmiiwFQqZqRY5HeUXhQCyuNBDPoWXRhx52AWUT2pump",
-   0.045,
-   10.1,
+   5.7,
    ""
   ],
   [
    "JASONS",
    "6yGdfU6XDPpUcpT5qwFEuQG9p4Lw3jEn1YSwTgeBoLJT",
    0.043,
-   4.8,
+   5.7,
    ""
   ]
  ]
