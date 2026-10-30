@@ -6630,84 +6630,84 @@
    32.58
   ],
   [
-   "2026-10-29T21:11:46",
+   "2026-10-29T21:12:23",
    32.58
   ]
  ],
- "cycles": 2557,
+ "cycles": 2558,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.83,
- "watching": 186,
+ "sol_usd": 96.87000000000002,
+ "watching": 179,
  "near": [
   [
-   "TELEPATHY",
-   "BFJQN98TmKKjg1qaToTKe7EugsbaQKY6KSKF5Lq2XV6J",
-   0.21,
-   4.0,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   "Started",
+   "GmVkHLcQcNC8qMGNH8a6FF8aQ4SY9v5dkzhu94G7pump",
+   0.506,
+   2.7,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "Cyber 9/11",
+   "EHxP27b64N48fDtiSkXcQQP9sYwwoYLyuE6KnQsdpump",
+   0.237,
+   2.6,
+   "buyers=4; creator=15.2%; top5_hold_most=100%"
   ],
   [
    "torpad",
    "EgJocFYhfhZxBLce3tj1uEsfuT1kfdZRoMo149AKpump",
-   0.189,
-   4.7,
-   "launch_slot=missing"
+   0.167,
+   5.4,
+   "top5_hold_most=87%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "TELEPATHY",
+   "BFJQN98TmKKjg1qaToTKe7EugsbaQKY6KSKF5Lq2XV6J",
+   0.155,
+   4.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Telepathy",
    "GGrDi1c5pnB3ic1AWBt6zeQkooHpdbU2Ky5a6Qrt1m3W",
    0.148,
-   5.5,
+   6.2,
    ""
   ],
   [
    "PATIENCE",
    "4E1DADTvgQpLpSQV8EuU4qZMiDJqUP6mdp6CQB7yiyiQ",
    0.138,
-   8.0,
+   8.6,
    ""
   ],
   [
    "TELEPATHY",
    "5QuXdfRk4cp22DXcWgcbB8ESEhAtJamevguQURtppump",
    0.123,
-   5.0,
-   "buyers=1; top5_hold_most=100%; launch_slot=missing"
+   5.7,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "drained",
    "EFLEgip2UribotYbWySVvsy5jyso66ZZ1ACFurWHpump",
    0.081,
-   8.8,
-   ""
-  ],
-  [
-   "ANSEM",
-   "5ym8Yw35fn6Ftqfc7LPDU725armU1JZq6jc7cU2dpump",
-   0.073,
-   5.2,
-   "buyers=0; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "GROUND",
-   "Fr9pfL2uvbWGvEBEFs2M59bAdeekbPPabBpCYH12pump",
-   0.072,
-   6.5,
-   ""
-  ],
-  [
-   "Telepathy",
-   "3NgxZA2f8i1aTWTruuFnLz457PBbikmRaah7Wnskmtft",
-   0.071,
-   5.4,
+   9.4,
    ""
   ],
   [
    "ROSWELL",
    "7Jya3GtWatnU6ku7JGBTCLgmidGDTHW7zvyqhwh4pump",
-   0.071,
-   6.3,
+   0.079,
+   6.9,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "GROUND",
+   "Fr9pfL2uvbWGvEBEFs2M59bAdeekbPPabBpCYH12pump",
+   0.072,
+   7.1,
+   ""
   ]
  ]
 }
