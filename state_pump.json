@@ -6790,84 +6790,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:29:45",
+   "2026-10-30T03:30:46",
    32.58
   ]
  ],
- "cycles": 2935,
+ "cycles": 2936,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.53,
- "watching": 170,
+ "sol_usd": 96.57695696485,
+ "watching": 165,
  "near": [
   [
    "IPO",
    "3osKX3hLiV6BbVjSdZzpLJ9qWngCYtweuWHJ9FZFpump",
-   0.966,
-   6.5,
+   0.972,
+   7.5,
    ""
   ],
   [
    "SC",
    "EKeMVYySs24sE4ah2ABy5kg63TfbeU89JxbbpMHMpump",
-   0.689,
-   8.0,
-   "creator=36.9%; top10=51.3%; top5_hold_most=88%"
+   0.655,
+   9.0,
+   "creator=36.9%; top10=49.2%; top5_hold_most=90%"
   ],
   [
-   "REDCZ",
-   "AVjApgWdZ7aemXHhBtZTHpgNDhW41mdUxVpZHTQspump",
-   0.588,
-   2.7,
-   "creator=44.6%; top10=46.5%; top5_hold_most=99%"
+   "PETRI",
+   "37CqJb7xVFeP1FBNXYgYREgY6vfJcbpnAWqx1733pump",
+   0.34,
+   2.8,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "LEAK",
+   "5pkokVU9e68h6yGjJg77EQfvU53YbKyCwTY9Y8WUpump",
+   0.194,
+   2.5,
+   "top5_hold_most=97%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "MIND",
    "D4zpoH2SXELkxNqa3ZVzg68SwnvXWDP1JVKqYEMpump",
-   0.197,
-   6.7,
+   0.193,
+   7.7,
    "buyers=8; top5_hold_most=87%"
   ],
   [
    "STEALING",
    "4Egn6B25c4CGrPUMDGsErZBCsy4MMtSbYZf1d9c1pump",
-   0.11,
-   3.5,
+   0.107,
+   4.5,
    ""
   ],
   [
    "TERMINATOR",
    "6Ssk9jVNKX9JyqBPc857GDyKGBVxxYTJqU7L1p4dpump",
-   0.083,
-   3.8,
+   0.104,
+   4.8,
    ""
   ],
   [
    "BTTT",
    "6btaXZqjgCuG1fcnmVJvRxUkKkZxtwXQhwGTDxhgpump",
-   0.078,
-   2.2,
-   "top5_hold_most=96%"
-  ],
-  [
-   "SAFE",
-   "5zP33pr4LBDLGpvwaAvRggitVhYyx7DhfLR6JqMYpump",
-   0.07,
-   2.3,
-   "buyers=6; top5_hold_most=100%"
+   0.089,
+   3.2,
+   "top5_hold_most=86%"
   ],
   [
    "STEALING",
    "F4ZUhhQra9Ukw7yJ2xQXv61X4iN197DsaFY1xPwnpump",
    0.068,
-   6.3,
+   7.3,
    ""
   ],
   [
-   "FREEDOM",
-   "EnxgpUK9Sx84XmtASWrGmSdZr1D3DXfEMP1VnoVKpump",
-   0.045,
-   2.5,
-   ""
+   "SAFE",
+   "5zP33pr4LBDLGpvwaAvRggitVhYyx7DhfLR6JqMYpump",
+   0.068,
+   3.3,
+   "buyers=4; top5_hold_most=100%"
   ]
  ]
 }
