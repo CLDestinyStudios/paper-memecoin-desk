@@ -6858,84 +6858,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:05:08",
+   "2026-10-30T06:06:08",
    32.58
   ]
  ],
- "cycles": 3090,
+ "cycles": 3091,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.57337630475001,
- "watching": 132,
+ "sol_usd": 96.69679999999998,
+ "watching": 136,
  "near": [
-  [
-   "Will",
-   "8kBikgKnYxta27P6wZdVdq5HmAxpwZHUi9tx2fq5pump",
-   0.741,
-   4.3,
-   "bundled_launch=4 extra buys in creation block"
-  ],
   [
    "KimBao",
    "72ARF3rZGP2rLKKQPShhUzwdknW7wrP5ky5xc94Xpump",
-   0.555,
-   6.4,
+   0.546,
+   7.4,
    ""
   ],
   [
    "Potato",
    "ARQhwv1bKXutB78WRCd3m9eQk88XqUEsKpoULUGA2Qjy",
-   0.366,
-   2.5,
-   ""
+   0.428,
+   3.5,
+   "bundled_launch=7 extra buys in creation block"
+  ],
+  [
+   "Martino",
+   "6Hw5ptqjDci2TZtHx7V24JkamDR7cSe1HQdCorPpump",
+   0.376,
+   2.9,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "BEARMINE",
    "CcBpu1itiaDkyyHTWAekvAR224MJ24tStVK7yf1Hpump",
-   0.208,
-   5.8,
+   0.191,
+   6.8,
    "buyers=8"
   ],
   [
-   "BACK",
-   "D7vrJSx3MfgxG48JfKk4HLRDnK1EnnQptvjY8njZback",
-   0.199,
-   3.1,
-   "top5_hold_most=91%; bundled_launch=3 extra buys in creation block"
+   "UNSEEN",
+   "3KL38bdsLiFxRFY6dpLu4YHPCcvPmKq4AXoA8uRNpump",
+   0.122,
+   3.0,
+   ""
   ],
   [
    "INUMOON",
    "74DiFfCkHKUieR1i2ssVghbG6d1CVpP6NNuvTDjypump",
-   0.198,
-   2.5,
+   0.104,
+   3.5,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "cumodities",
-   "4pLrNZWBZWMh6wApgRZLg2GTLNxjUhmSvoXSpBuSpump",
-   0.082,
-   10.1,
-   ""
   ],
   [
    "JIREN",
    "GAoRE7DBBBpUxysfhDwncb8a69GjnRQGCpU7x7oYpump",
    0.068,
-   6.6,
+   7.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "RIVER",
-   "B3fAzZR2wJq2dwRvng8bsQc2nf7vo9nngYoNY6nMpump",
-   0.063,
-   4.1,
-   ""
+   "Hyperlana",
+   "45Td9KGcZqMSy9vADVG1sq5iUdwEbDzUyCv1ppLwpump",
+   0.06,
+   2.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "PVE",
    "AUTSW4mpkM9SMekewrPyX1GwF8pqXyNpy8bSB4z5KkSg",
    0.057,
-   7.5,
+   8.5,
    "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "CUMSHOT",
+   "8gDnQbTBVGhqE5Q5PanThFDGRdD24xH9UnvFyELspump",
+   0.053,
+   6.1,
+   ""
   ]
  ]
 }
