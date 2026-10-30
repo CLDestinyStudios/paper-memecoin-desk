@@ -6550,83 +6550,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:09:16",
+   "2026-10-29T18:10:05",
    32.58
   ]
  ],
- "cycles": 2375,
+ "cycles": 2376,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.30000000000001,
- "watching": 183,
+ "sol_usd": 94.16085475220001,
+ "watching": 159,
  "near": [
   [
    "Swansem",
    "6NqCAw6W9KZYMKncMCm5G1zUBBeqbiQNuuNjExb2pump",
-   0.543,
-   3.0,
+   0.536,
+   3.8,
    ""
   ],
   [
    "BUNA",
    "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
-   0.081,
-   2.9,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "BTCHype",
-   "CbsrwNxpsfq9mGWKtuWFm5XaCBR1zCmoRNrTWxeApump",
-   0.08,
-   3.4,
-   "buyers=9; top5_hold_most=92%; bundled_launch=3 extra buys in creation block"
+   0.105,
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "HACKER",
    "Ezxzx6gTckPWgUx8BHDKXPXQjDJPMacgH2VwqM8qpump",
    0.074,
-   8.8,
+   9.6,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PooInu",
+   "DR5iBzXRcPTB1uPkm3mTR7ryWBaxq8i8Y2mTgGe8pump",
+   0.045,
+   2.5,
+   ""
+  ],
+  [
+   "bob",
+   "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
+   0.042,
+   3.0,
+   ""
   ],
   [
    "MIL",
    "D3rDRsSr14ULKFQJFJ1YCNxpSKZNUs9zLztPVaz6pump",
    0.033,
-   5.0,
+   5.8,
    ""
   ],
   [
-   "500000",
-   "rq4E67XbyF4ftGs1TFaZ3LVPsUQCto5svHbryJgpump",
-   0.026,
-   3.3,
+   "LAZABNB",
+   "YhQ9Ssq5ynmNZkmkDAXtM6h8tiirhNUfEqXcPfqpump",
+   0.022,
+   2.8,
    ""
   ],
   [
    "PARK",
    "GiAQfxbbaa3U5zyuzorngQcxZTBmwft29KsGCT87pump",
    0.021,
-   8.1,
+   8.9,
    ""
   ],
   [
-   "TRENCH",
-   "AkQExMFadsvXo55BEYM8uSFLdvw2yLCzrKHh6VmDGscF",
+   "Trunoest",
+   "BbZGgPPDkpJ94oNvmqkX15nzLtpQ5W9oBxj7Ye56pump",
    0.02,
-   3.4,
+   2.6,
    ""
   ],
   [
    "SWANG",
    "6rqzB7DCiFLebYU6PyHmKKtg7DE53PGWbxmDztUopump",
    0.019,
-   2.4,
-   ""
-  ],
-  [
-   "BNB",
-   "6MeBDCnrqxskyKwyy5kx39qE5x3bWTxjnPhoMPqipump",
-   0.016,
-   4.3,
+   3.3,
    ""
   ]
  ]
