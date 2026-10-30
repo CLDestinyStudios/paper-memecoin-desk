@@ -6590,83 +6590,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:44:17",
+   "2026-10-29T19:45:18",
    32.58
   ]
  ],
- "cycles": 2470,
+ "cycles": 2471,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.25258215165002,
- "watching": 201,
+ "sol_usd": 95.2711968528,
+ "watching": 216,
  "near": [
   [
-   "PERPEES",
-   "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
-   0.67,
-   6.3,
+   "OV",
+   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
+   0.618,
+   3.5,
    ""
   ],
   [
    "Never",
    "JDmkLbkU45Ag7vJ6nSeN52rnZ9nTJXsTJtC1n9pypump",
-   0.514,
-   8.0,
+   0.576,
+   9.0,
    ""
   ],
   [
-   "Floor",
-   "GqPgU2XdMMaNdwae9jPQWH62vW6qZu8Rm1uhQWE3pump",
-   0.281,
-   2.7,
-   "bundled_launch=4 extra buys in creation block"
+   "PERPEES",
+   "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
+   0.509,
+   7.3,
+   ""
   ],
   [
    "LAPTOP",
    "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
-   0.262,
-   2.1,
+   0.354,
+   3.1,
+   ""
+  ],
+  [
+   "SCAT",
+   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
+   0.279,
+   2.3,
    ""
   ],
   [
    "MM",
    "79BhkF9er7zJiajT4tLNrdGxJ8ndfDHm8r4zxuPJpump",
-   0.258,
-   6.5,
-   ""
-  ],
-  [
-   "OV",
-   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
-   0.252,
-   2.5,
+   0.256,
+   7.5,
    ""
   ],
   [
    "DUVID",
    "EmfTsbpXT3cRWGuuXbXpxWKc34ryvQXByPcAhzVApump",
    0.095,
-   4.0,
+   5.1,
    ""
   ],
   [
    "Reverseal",
    "7td1A7wfpzJUp9xGCp3P4oC7yTHcrxsKG4S3kP3opump",
-   0.083,
-   3.7,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "DUVID",
-   "2mzEwJyqJVFyNSR1JWUirjcqVBG7AaAE9HyWU7aDpump",
-   0.072,
-   5.8,
-   ""
+   0.08,
+   4.8,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Hackoon",
    "81awyBc8N8XJUYHdvuC7yd5r62amtvvnEWfyCBRApump",
    0.067,
-   7.6,
+   8.6,
+   ""
+  ],
+  [
+   "HY",
+   "GNaqy16Huq2RS4pEcpcERX5QWdA3GsvBbvQwSXjJpump",
+   0.043,
+   3.2,
    ""
   ]
  ]
