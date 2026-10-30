@@ -6550,84 +6550,84 @@
    32.58
   ],
   [
-   "2026-10-29T18:13:12",
+   "2026-10-29T18:14:10",
    32.58
   ]
  ],
- "cycles": 2379,
+ "cycles": 2380,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.48999999999998,
- "watching": 139,
+ "sol_usd": 94.6,
+ "watching": 141,
  "near": [
   [
    "Swansem",
    "6NqCAw6W9KZYMKncMCm5G1zUBBeqbiQNuuNjExb2pump",
-   0.703,
-   6.9,
+   0.71,
+   7.9,
    ""
   ],
   [
    "BSHOT",
    "FLtPUw5FQV4aCV1CmsmFZYZYwQfsgbVJt1Ljb8ADTkEj",
-   0.204,
-   4.8,
+   0.179,
+   5.7,
    ""
   ],
   [
    "CRABTCHA",
    "46ZyyEHzjwG7PQsfJMGALQJ5YZHfPRHdGrffMcVHpump",
    0.164,
-   3.3,
+   4.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "WoW",
    "7PBCiVyUbML77vdWzgRFz7TVa3vNv3erLfUvs2eJpump",
-   0.121,
-   4.2,
+   0.131,
+   5.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BUNA",
    "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
    0.106,
-   6.8,
+   7.8,
    "buyers=5; top5_hold_most=100%"
   ],
   [
-   "DFG",
-   "CK1eMeCLhq3Bdwh58v49us7ztcppZFTjDBbqXU4qpump",
-   0.086,
-   2.2,
-   "buyers=6; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "NEVER",
+   "EDAg5gE1yPc1LYxgrvSbpfTvmxoSV1bstMZwrDEEpump",
+   0.087,
+   2.3,
+   ""
+  ],
+  [
+   "hacker",
+   "Hg9JAPJaJvRVsuGRpJmdvH4PgdM725izxuhN8evepump",
+   0.072,
+   2.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "SF",
    "6ASRWYvN3WjZudLYBCX8HnFTfsc3GBBgwjPW8BYjpump",
    0.07,
-   4.6,
+   5.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "PooInu",
    "DR5iBzXRcPTB1uPkm3mTR7ryWBaxq8i8Y2mTgGe8pump",
    0.045,
-   5.6,
+   6.6,
    ""
   ],
   [
    "bob",
    "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
    0.042,
-   6.1,
+   7.1,
    ""
-  ],
-  [
-   "DUMBLEDORE",
-   "DdFuwASq1SKRNDp8h6bVTL2u6iVMeYAindiQBjFjpump",
-   0.034,
-   5.1,
-   "top5_hold_most=87%"
   ]
  ]
 }
