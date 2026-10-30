@@ -6656,81 +6656,85 @@
   [
    "2026-10-29T22:16:22",
    32.58
+  ],
+  [
+   "2026-10-29T22:17:16",
+   32.58
   ]
  ],
- "cycles": 2622,
+ "cycles": 2623,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.59000000000002,
- "watching": 156,
+ "sol_usd": 97.63,
+ "watching": 162,
  "near": [
   [
-   "STABLEPAD",
-   "AABM3NrYSwKMsEDyanuskY43EH6ySbPpdPZNG1u7pump",
-   0.681,
-   2.3,
-   "bundled_launch=3 extra buys in creation block"
+   "AGENT",
+   "AyaTvydf6VT39LB92R8T8CfdTfkCEgQK4NqCG4KQpump",
+   0.17,
+   4.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Dividend",
    "BX25CJmLmjBJoNBBEpJ2uzCv6mgfJbRDY5dnF3pJpump",
-   0.26,
-   6.0,
+   0.123,
+   6.9,
    "top5_hold_most=82%"
-  ],
-  [
-   "AGENT",
-   "AyaTvydf6VT39LB92R8T8CfdTfkCEgQK4NqCG4KQpump",
-   0.162,
-   3.2,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "ZERODAYBOT",
    "HbifskpNgaS9geGLkpp98h5xAjzxriWmJdd4pyRopump",
-   0.135,
-   5.0,
-   "top5_hold_most=93%"
-  ],
-  [
-   "OPTIMISM",
-   "5twv6knJ9rdNYaqkUUP546jcZNcyFrwzbFG451wYpump",
-   0.091,
-   9.8,
-   ""
+   0.095,
+   5.9,
+   "buyers=9; top5_hold_most=96%"
   ],
   [
    "SI",
    "FwDwZJTgScbP8eTKP21wxyWx8eGCYBkWigk94Vtupump",
-   0.085,
-   2.7,
+   0.05,
+   3.6,
    "top5_hold_most=94%"
-  ],
-  [
-   "virus",
-   "Gx5fzdnFVXHXRZpP6x2rTwQtgM7EBQTDSnfoLhk7cN9N",
-   0.079,
-   6.2,
-   ""
-  ],
-  [
-   "CEEZEE",
-   "9SG9EXiBBNS1qehVCvhMroLnW7fH9hsqjL5BQ7XMpump",
-   0.059,
-   6.0,
-   ""
   ],
   [
    "virus",
    "BXsSuomXnCfc3sv4gaQ9kL12PjQczo1zkua4Y7Egpump",
    0.041,
-   5.6,
+   6.5,
    ""
   ],
   [
    "ElonsDoge",
    "4r74wn2uwoVF3nygyVXxGnp9MQ43MykYTRsDdZ54pump",
    0.039,
-   5.5,
+   6.4,
+   ""
+  ],
+  [
+   "MELONX",
+   "BLzSF74k4boR3PTQqaBXjkumSTgvPQyackZbtiappump",
+   0.03,
+   2.6,
+   ""
+  ],
+  [
+   "DOG",
+   "5dEFT1zzirhVNiiUsLVrbpQ5Q4fLNHgUsAuMhWKYpump",
+   0.022,
+   7.9,
+   ""
+  ],
+  [
+   "TEST",
+   "EWAnzSFVUhGczkkHt5CQrfbipvzPCDDjv5qFs7bwXLgt",
+   0.02,
+   2.1,
+   ""
+  ],
+  [
+   "GROKBOT",
+   "3dVeXZWCFMSuh5TiEdDNwqBFqzeRoPbouJ9cpUnepump",
+   0.014,
+   8.5,
    ""
   ]
  ]
