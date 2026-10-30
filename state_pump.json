@@ -7078,84 +7078,84 @@
    32.58
   ],
   [
-   "2026-10-30T14:41:52",
+   "2026-10-30T14:42:53",
    32.58
   ]
  ],
- "cycles": 3606,
+ "cycles": 3607,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.2968856465,
- "watching": 242,
+ "sol_usd": 95.36999999999999,
+ "watching": 250,
  "near": [
   [
    "KYRO",
    "LNFPX3MKNLH2PTnpj4airVznHKp38DA63WLhbkipump",
    0.485,
-   4.8,
+   5.8,
    "buyers=1; creator=38.5%; top5_hold_most=100%"
   ],
   [
-   "FirstTx",
-   "Fgw9unZA9X5fQa4ZCd5UbDYsmCpfLjeNkCN1ZgCHpump",
-   0.211,
-   5.5,
-   "top5_hold_most=97%"
+   "MOCHII",
+   "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
+   0.135,
+   5.0,
+   "buyers=8"
   ],
   [
-   "ONION",
-   "9H2kF4WvGAzJ4QMoaVfwMDRXC2EPhSzfkwqyZP4Kpump",
-   0.191,
-   2.6,
-   "top5_hold_most=86%; bundled_launch=3 extra buys in creation block"
+   "PIO",
+   "H29D8JymdAV3uWmiNZHhnX15npVo77VmKYDocR8wpump",
+   0.13,
+   2.0,
+   "top5_hold_most=99%"
   ],
   [
    "AI",
    "QujrZF3A7PLyqRGEnaaD2MvYJnLDwKpQmQCWYimpump",
    0.123,
-   6.0,
+   7.0,
    ""
-  ],
-  [
-   "MOCHII",
-   "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
-   0.116,
-   4.0,
-   "buyers=8"
   ],
   [
    "vibecat",
    "88qNtHjqBXErVG9zNGmkRJZqRLctaWpjUXoQf7ubpump",
    0.101,
-   3.1,
+   4.1,
    ""
   ],
   [
    "Belief",
-   "7Zn7eP5XA3v7hwuosanx38QhFN2L666KNhmZvxTBpump",
-   0.09,
+   "5cFmKGB9JXuMRBJpdVRxwVujjiPsjnGABmgp93Kxpump",
+   0.089,
    2.7,
-   "buyers=2; top5_hold_most=100%; bundled_launch=6 extra buys in creation block"
+   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "HYPERWICK",
+   "9Po7jPkn9DzArQH45B2cpNvgWc7BkzwFaB9L735Qpump",
+   0.083,
+   2.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "AI",
    "92ACPdUX2u9xLBsDbiEogPT1jz9SkSwTzPLUuHmmpump",
    0.074,
-   5.6,
+   6.6,
    ""
   ],
   [
    "daniworldw",
    "GfCSgnwj4hrFt6p4oVZLQuyWC5PBJxDAbRu87Wifpump",
    0.055,
-   4.8,
-   ""
+   5.8,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Animals",
-   "4xfCx6XU14EpUrT1k5tykQ4CgxXDbJVRy9SXUHo9pump",
-   0.047,
-   9.2,
-   "buyers=4; top5_hold_most=100%"
+   "AI",
+   "7apV9CU5TtPL6dUuKfu9nLWAF8ZVKJXFz4mJhyDjpump",
+   0.043,
+   6.1,
+   ""
   ]
  ]
 }
