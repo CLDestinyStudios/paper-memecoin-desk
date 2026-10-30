@@ -6956,81 +6956,85 @@
   [
    "2026-10-30T09:56:47",
    32.58
+  ],
+  [
+   "2026-10-30T09:57:48",
+   32.58
   ]
  ],
- "cycles": 3321,
+ "cycles": 3322,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.76,
- "watching": 246,
+ "sol_usd": 94.8659075974,
+ "watching": 248,
  "near": [
   [
    "anthrupic",
    "3aFjeQZW6dEeywwngN8w6bX4cfLbXq6B5c2LTnCipump",
-   0.966,
-   7.7,
+   0.972,
+   8.7,
    ""
   ],
   [
    "GARLIC",
    "8Y2Wux52xfpGmxeKCakJqJBL9cvoevuAjSbAKUjDpump",
-   0.746,
-   3.6,
+   0.833,
+   4.6,
    ""
   ],
   [
    "Mimi",
    "9N4QHXwwV4udPrzB4h1pzBCz4c8V7okVaewRj5oapump",
-   0.681,
-   7.9,
+   0.781,
+   8.9,
    ""
   ],
   [
    "SKULLSUN",
    "7jDn7V3bXk82qs4qvJUuPbkvmRNamLGSe7FzRdjvpump",
-   0.249,
-   4.1,
+   0.287,
+   5.1,
    ""
   ],
   [
    "SURVINU",
    "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
-   0.212,
-   2.4,
+   0.209,
+   3.4,
    ""
+  ],
+  [
+   "cezee",
+   "5jsf2ii8aKTpbWxHhPKtg8BdcGTMzCX1NYK2FtBtHWsK",
+   0.187,
+   2.9,
+   "serial_creator=116 launches/24h"
   ],
   [
    "rir",
    "82Crcjs7GZPdvRxU1c6svw47wSy6MVNLfSNPgrDZpump",
-   0.208,
-   2.4,
+   0.176,
+   3.4,
    ""
+  ],
+  [
+   "PCOIN",
+   "suhwbjMp7xnhE9CrW7JfTwaVZBYxAsBdYu2wvcdpump",
+   0.165,
+   3.0,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "Epilepsy",
    "F2eWXH9S4sCuYv8yRo3uJ1djrZfVcNwBDsW23kgfpump",
-   0.176,
-   2.1,
-   "top5_hold_most=95%"
-  ],
-  [
-   "LEVR",
-   "C5bFBewtBXAA53LfZTMc6UHaceCUfw594wN8hnNipump",
-   0.173,
-   6.0,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "CCORG",
-   "HegQZ6XBbfbEwsAKHFCmMN8FQYtqWFnta6GZc5Qwpump",
-   0.123,
-   3.4,
-   "buyers=5; top5_hold_most=100%"
+   0.163,
+   3.1,
+   "serial_creator=23 launches/24h"
   ],
   [
    "pixel",
    "6SjiktHLfscPdNbfqNYNQa87MHbnszTKdNERmfQDpump",
    0.122,
-   6.1,
+   7.1,
    "buyers=1; top5_hold_most=100%"
   ]
  ]
