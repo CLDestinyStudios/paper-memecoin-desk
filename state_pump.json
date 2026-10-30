@@ -6530,84 +6530,84 @@
    32.58
   ],
   [
-   "2026-10-29T17:18:11",
+   "2026-10-29T17:19:05",
    32.58
   ]
  ],
- "cycles": 2324,
+ "cycles": 2325,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.058535322,
- "watching": 267,
+ "sol_usd": 93.69,
+ "watching": 268,
  "near": [
   [
-   "ZERO",
-   "3JbqthCmAtxKYjpi26xpwTeCmyAq9UqJPUwuyAuUpump",
-   0.737,
-   2.3,
-   ""
+   "SWAN",
+   "EFaQg27P3c3PHob2mFw4mHCUcWBHHDdatAEsXq2xpump",
+   0.687,
+   2.4,
+   "serial_creator=17 launches/24h"
   ],
   [
    "ANSEM",
    "45tG6xTJdTwKxg3GxrfizAC8hhRZkQc5BXseX4FLpump",
-   0.584,
-   2.2,
-   ""
-  ],
-  [
-   "BEARCOIN",
-   "GEYzMWhek3UHv2hw7W9FRj7hcsY72T47qsZN1PKZpump",
-   0.556,
-   3.0,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "Bear",
-   "He3BCrm8tiAK2JQayLJ9EA1b2aeVthDHj4WWpGKdpump",
-   0.296,
-   2.4,
-   ""
-  ],
-  [
-   "Bear",
-   "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
-   0.282,
-   4.8,
+   0.616,
+   3.1,
    ""
   ],
   [
    "Bear",
    "CfY2S5SQXUs5eJ4jxTbSDwzK9WudeGpebcnddBmppump",
-   0.196,
-   7.4,
+   0.265,
+   8.3,
    "top5_hold_most=90%"
+  ],
+  [
+   "Bear",
+   "He3BCrm8tiAK2JQayLJ9EA1b2aeVthDHj4WWpGKdpump",
+   0.264,
+   3.3,
+   ""
+  ],
+  [
+   "ZERO",
+   "3JbqthCmAtxKYjpi26xpwTeCmyAq9UqJPUwuyAuUpump",
+   0.208,
+   3.2,
+   ""
   ],
   [
    "Ansem",
    "uK1i5ES1jYBk8MJukbDkctG8g8YMWRhF8GU5f2xpump",
-   0.193,
-   4.2,
+   0.198,
+   5.1,
    ""
   ],
   [
-   "ANSEM",
-   "HH2piyNhGCJnNyFR5gHhYQBvs5SxPDiPXUQQWo3xpump",
-   0.101,
-   4.9,
+   "Bear",
+   "EKiqhSmHEoN8qxBcutDnpMYBjBeEat6HEVi8zDadpump",
+   0.157,
+   5.7,
    ""
   ],
   [
    "ANSEM",
    "AqhgptNAJVL4RfCUnBAWNRRke3FkWW42k47y5BSWpump",
    0.095,
-   2.7,
+   3.6,
    ""
   ],
   [
-   "SAFU",
-   "ypkYHv9uA8p7sTegGKZEGWGiLnsHpMVZj786mWhpump",
-   0.073,
-   4.0,
-   "top5_hold_most=91%"
+   "Bear",
+   "4TL1zn1UY2yScP48KynCTs29jbzyAaorHryhNg11QuDi",
+   0.086,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "ANSEM",
+   "HH2piyNhGCJnNyFR5gHhYQBvs5SxPDiPXUQQWo3xpump",
+   0.074,
+   5.8,
+   ""
   ]
  ]
 }
