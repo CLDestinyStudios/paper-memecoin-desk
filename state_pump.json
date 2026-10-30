@@ -7030,83 +7030,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:49:51",
+   "2026-10-30T12:50:51",
    32.58
   ]
  ],
- "cycles": 3494,
+ "cycles": 3495,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.54998384407,
- "watching": 292,
+ "sol_usd": 94.6580407185262,
+ "watching": 305,
  "near": [
   [
-   "Blacklon",
-   "Dff7vnLTfAzxJyUYvjGtyq8CG8AaSBeZ7aatmdjzpump",
-   1.0,
-   4.3,
-   "graduated"
-  ],
-  [
-   "BEAST",
-   "6fExWxudWEGGBz5Mps1iNL2VVvt6cWiLA4xS2vpspump",
-   1.0,
-   2.9,
-   "graduated"
-  ],
-  [
-   "ESHOCK",
-   "EcrwGorWk78esKZ8AwyHzCVkqFWb7Fe6opheT6icpump",
-   0.314,
-   2.6,
-   "serial_creator=15 launches/24h"
-  ],
-  [
-   "PUSD",
-   "4sneNyF5942bfnCtWwBZBKiwW52Qsfn5jEUdUupHU5v6",
-   0.11,
-   4.8,
+   "SYNDI",
+   "D8YzcBHUPdAQV1F4ePsQd4RjkAffe56Pda6swWv1pump",
+   0.411,
+   2.8,
    ""
   ],
   [
    "minecat",
    "GyipyEw7qKJETYRc4eHrKu9Kh7WkeqBFXsR2jgNTpump",
+   0.19,
+   4.5,
+   "top5_hold_most=94%"
+  ],
+  [
+   "PUSD",
+   "4sneNyF5942bfnCtWwBZBKiwW52Qsfn5jEUdUupHU5v6",
    0.109,
-   3.5,
-   "top5_hold_most=99%"
+   5.8,
+   ""
   ],
   [
    "CALLCAT",
    "FNrVjYJPtY9XMX9nfptU1XnAWGFg3hVpaEP4rMK3pump",
    0.086,
-   3.1,
-   ""
-  ],
-  [
-   "FRANK",
-   "CtkxkHoexyZokin4Pb8dXX8TqGRet7XMEL5FcGeRpump",
-   0.074,
-   5.4,
+   4.1,
    ""
   ],
   [
    "z1nger",
    "4yfTjJws4wnEwbW1ygBcmhCcQ3AemdZKAWFBZQEkpump",
    0.058,
-   5.0,
+   6.0,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "FLOYD",
    "63i4odCYX4xS51NpFB37s8nnsKidtvHRsUCKZqoapump",
    0.047,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "TEST",
-   "FNqBPbzqz1kEqyGYpMiiMDQZYEh47ctufook7pQRcBwJ",
-   0.043,
-   9.2,
+   "GoT",
+   "6BUpm4ixLfucE9YaQiqTXtg9cAGsNUFBUpLyG74Epump",
+   0.042,
+   7.2,
+   ""
+  ],
+  [
+   "USDF",
+   "Hu4nAiQ9Qg4grUH3t7F6CrjC1P7HSZWkxVStTQNbpump",
+   0.027,
+   5.7,
+   ""
+  ],
+  [
+   "IS",
+   "7GD3nUG3AFjSxCB2HoqGBADMPkFckWRuNAvmwXxEpump",
+   0.026,
+   9.4,
+   ""
+  ],
+  [
+   "Halloween",
+   "3iehPi7LKfhwTUKHRzUn7yGJM1KKy7xG34NCk5p7pump",
+   0.022,
+   5.0,
    ""
   ]
  ]
