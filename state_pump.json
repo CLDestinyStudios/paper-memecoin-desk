@@ -7022,83 +7022,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:29:50",
+   "2026-10-30T12:30:50",
    32.58
   ]
  ],
- "cycles": 3474,
+ "cycles": 3475,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.36000000000001,
- "watching": 249,
+ "sol_usd": 94.23968396215,
+ "watching": 257,
  "near": [
   [
-   "REPLACEMENT",
-   "6AivtfGfho9o3ZKFrpJcFkUesG7zrA2Tj8kQLYbMpump",
-   0.515,
-   9.7,
-   ""
+   "ATP",
+   "FtPo4Z8tHfAkeKYvSEFP9jcteeWKM4Q64ZMsAGcXpump",
+   0.632,
+   2.2,
+   "buyers=5; creator=49.8%; top10=50.1%; top5_hold_most=100%"
   ],
   [
    "Sword",
    "9yPEzvUxEMH3WHbHWNk3dWN4Rv27JobkPccxTpAPpump",
-   0.465,
-   7.1,
+   0.46,
+   8.1,
    "buyers=8; top5_hold_most=94%; launch_slot=missing"
-  ],
-  [
-   "HexHunt",
-   "HEXHUNTCehLwjWj9PKhQpUJrNmEi144bREijTeNXw15N",
-   0.423,
-   2.0,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Anakin",
    "FFqZqmquk9cCMaAFXwqM5doLwLxSx3PkwSHvAMHFpump",
-   0.34,
-   2.2,
+   0.334,
+   3.2,
+   ""
+  ],
+  [
+   "MINECAT",
+   "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
+   0.333,
+   7.3,
    ""
   ],
   [
    "CAPITAL",
    "3nohFbXrneuPrSMhsq4sdegMycyVmcUEgDgQZpEgpump",
-   0.124,
-   2.3,
-   "buyers=2; top5_hold_most=100%"
+   0.117,
+   3.3,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "MINECAT",
-   "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
-   0.076,
-   6.3,
-   ""
+   "Rise",
+   "JBfUwGa9cUuXDYVE1B4YkA2m6o37exWaE3uVBCE8pump",
+   0.096,
+   3.0,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "COUP",
+   "2yxTDHtty35wdTBsBTcyJa1zKf9ac2DZPRFY2UUvpump",
+   0.085,
+   2.0,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "DAVID",
    "6AsBa96hsYHyq1rEDSqWB6SHpwpdNQCSUZ5VWbf4pump",
    0.073,
-   2.1,
-   ""
-  ],
-  [
-   "Dawid",
-   "GoucLmKtzCipAfwbQpDf4pN14UMXko4xrnSYnPUGKw3a",
-   0.064,
-   2.6,
-   ""
-  ],
-  [
-   "DAVID",
-   "B6YgbiGMjQDrKEMuZWTYBg4oQX1GPrQQ7fifp9Kepump",
-   0.045,
-   5.1,
+   3.1,
    ""
   ],
   [
    "Oogie",
    "5y6iovGynDFKX8hd7REYxKGtdrjUb9ahK6YQQjy5pump",
    0.043,
-   3.8,
+   4.8,
+   ""
+  ],
+  [
+   "DAVID",
+   "YXNekvwe66kJuf6Gjy8oMYfbhkuvpiciBoP619cpump",
+   0.043,
+   8.9,
    ""
   ]
  ]
