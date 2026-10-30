@@ -6902,83 +6902,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:53:52",
+   "2026-10-30T07:54:50",
    32.58
   ]
  ],
- "cycles": 3198,
+ "cycles": 3199,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.54421219145,
+ "sol_usd": 94.48677986215,
  "watching": 257,
  "near": [
   [
+   "BTI",
+   "FXz9TsjbHhnUta6wKigbT6ZSj3x4LxcLUyeHBRKcpump",
+   0.934,
+   2.8,
+   ""
+  ],
+  [
    "SPOT",
    "AMpv7JrrGhKkCJmGUvpgUamtxC6hxBXpekd3GC5qpump",
-   0.951,
-   8.2,
+   0.927,
+   9.2,
+   ""
+  ],
+  [
+   "UBER",
+   "CfPMFmEDbLP883C198eBA55NF5oY3pwhg4khmhXFpump",
+   0.911,
+   2.7,
    ""
   ],
   [
    "GEORGE",
    "C3TrTxBLnqF6kJrkWNGfPyYF3TT8bu1ghD82GeJbpump",
-   0.695,
-   4.5,
+   0.785,
+   5.5,
    ""
   ],
   [
    "CATPAD",
    "9tQyik1f5rueHU9KsUSKPKc9EpZ4HPyfBysJmDrTpump",
-   0.548,
-   3.6,
+   0.546,
+   4.6,
    ""
   ],
   [
    "MOMINT",
    "AMTESBiwPspgezFb3zoNkoays3yXMoHuNH9wFDA4pump",
-   0.27,
-   3.6,
-   "buyers=9; top5_hold_most=91%"
+   0.386,
+   4.5,
+   "top5_hold_most=93%"
   ],
   [
    "Polyform ",
    "2t14q6Eq2dqKDExD4se8VqeG2Zx6niZGrJC17uPxpump",
-   0.268,
-   2.9,
+   0.242,
+   3.9,
    ""
   ],
   [
    "CATPAD",
    "8sYL6P8swhEYUbgvMcWFPMhUC6CCepeMXRFyYeWepump",
    0.159,
-   3.3,
+   4.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "DANGER",
    "6GnqTfN9tNb7ZHkcHzmYqqEjy76h6Whrzuft9PeNpump",
    0.154,
-   5.4,
+   6.4,
    "buyers=8; top5_hold_most=96%"
   ],
   [
-   "SPOT",
-   "9MLjgaaUsAf54GBzqewNrjehJwug3hZeHUSD8uzyDgAs",
-   0.084,
-   6.4,
-   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "ROSVIAN",
-   "9bQAyW8RfZqHZY3Hbn8tYZTB2UL8ZaWkd9GsgNE6pump",
-   0.062,
-   3.3,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "NEWT",
-   "By8ZFZegxkWUFS73LaHjULxBfuJKmpUiRCS8ycfFpump",
-   0.057,
-   4.8,
+   "Chairman",
+   "6EnMfvSgBooUnLkG43YkNZuADPMmtVo9sdZ6d5FhKjSR",
+   0.097,
+   2.2,
    ""
   ]
  ]
