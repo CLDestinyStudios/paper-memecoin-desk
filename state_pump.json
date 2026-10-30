@@ -6698,83 +6698,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:59:27",
+   "2026-10-29T23:59:54",
    32.58
   ]
  ],
- "cycles": 2724,
+ "cycles": 2725,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.21496231444999,
- "watching": 107,
+ "sol_usd": 98.11,
+ "watching": 104,
  "near": [
   [
    "p/acc",
    "3rfnkLkDS4ierei4PTPR54hg8UtJGxb37R5zRYURpump",
-   0.855,
-   7.4,
+   0.861,
+   7.8,
    ""
-  ],
-  [
-   "LIQ",
-   "C1NeRTKeBebDcssGmEcQNy3iGta6oc8mUErCqzmkpump",
-   0.697,
-   8.2,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "HEDGE",
    "2Vcoju9bSjxVBsJE1G7rw5kzu8RVFRrFXYfpXHVkpump",
-   0.363,
-   2.9,
+   0.405,
+   3.4,
    ""
   ],
   [
    "STAYD",
    "Fi3qr6hh8xjZy3KDtjyTPvSaLyu5c8X8VLFZw6FCpump",
    0.303,
-   8.9,
+   9.4,
    ""
-  ],
-  [
-   "ACT H:",
-   "79JUB3xHUCqyJngBuMMf3C9y7oom3KwSFUojeikppump",
-   0.245,
-   4.9,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Kenneth",
    "DzqHidxjKxCwpbqfqesQWSdHPWHneouy82tW2VUkpump",
-   0.142,
-   8.1,
+   0.194,
+   8.5,
    ""
   ],
   [
    "DADHIPPO",
    "GWDfBxbNtRB4anfXovqWXb226mNrhN9bFbgsgFKpump",
-   0.066,
-   8.1,
+   0.096,
+   8.5,
+   "buyers=7; top5_hold_most=87%"
+  ],
+  [
+   "CI",
+   "Q9EgYjrYUBLdChYmaHAkeHpF7eT4qHm3298AAnmRxV3",
+   0.095,
+   2.2,
+   "top5_hold_most=93%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BOTTOM",
+   "4S2tEfQcDEerDJm5QCh5dE5SniEnGVvSFu4qikATpump",
+   0.058,
+   2.5,
    ""
   ],
   [
    "privacy/acc",
    "5v9m2qDarzFZrtVA8eJCvwLRv3ybMEfLSehe73GUpump",
    0.043,
-   4.2,
+   4.6,
    ""
   ],
   [
    "cesarinu",
    "64Em6zLLFE1Z4GeeLZvYtnUaAgjHhkvVkFKkHJvCpump",
    0.03,
-   3.8,
+   4.3,
    ""
   ],
   [
    "Toad",
    "CgDcdoGCEKcaGDaTkC3B6xenL1Vr65Ne2yBj2Lzgpump",
    0.019,
-   2.9,
+   3.3,
    ""
   ]
  ]
