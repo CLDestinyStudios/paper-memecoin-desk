@@ -6906,84 +6906,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:02:50",
+   "2026-10-30T08:03:49",
    32.58
   ]
  ],
- "cycles": 3207,
+ "cycles": 3208,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.81,
- "watching": 271,
+ "sol_usd": 94.85804999999999,
+ "watching": 280,
  "near": [
   [
    "SPACECAT",
-   "6qYfv1R2KWM94YdrpaEC4CLzRNgPTaa9KLj4oJyCpump",
+   "8c9GmfhKN2CRWSmRtMVyEycG9DQqcyQQLDvTECG2pump",
    1.0,
-   2.1,
+   2.7,
    "graduated"
   ],
   [
    "Doomscroll",
    "2ypeCJ1o5c2P71Ry2e7bdPtVmcB3mAQNhbuES58Bpump",
-   0.942,
-   4.3,
-   ""
-  ],
-  [
-   "SPACECAT",
-   "BLN4c4FERWn8pf3PysRDapSKzB5JoHx9HbaxjYkEpump",
-   0.929,
-   2.3,
+   0.957,
+   5.2,
    ""
   ],
   [
    "CATPAD",
-   "6CV59z5txJQDEFUj8zQZqjoVgyDKakwSsgfaXqeapump",
-   0.714,
-   3.3,
-   "creator=35.5%; top10=56.2%; top5_hold_most=89%"
+   "5AifXEPKeZ1nv7QJbZCqsidjzrzdtvbbq3GFQh6Bpump",
+   0.503,
+   2.4,
+   "top5_hold_most=82%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "SPACECAT",
-   "BrjmKBeDcrjXAa6BaLouJNtMwmxA3GegxLJUyCPjpump",
-   0.227,
-   2.4,
+   "BLN4c4FERWn8pf3PysRDapSKzB5JoHx9HbaxjYkEpump",
+   0.262,
+   3.3,
+   ""
+  ],
+  [
+   "VTALIK",
+   "3Q1daS9QB54joxydcHfSEsQEx7HTvvhaJ9DnByWdpump",
+   0.132,
+   9.6,
    ""
   ],
   [
    "\u3164\u3164",
    "5RwqcTHaxyczcDFodkZPX8pay2fUyULy4CxKDEx1pump",
-   0.175,
-   9.0,
+   0.122,
+   10.0,
+   ""
+  ],
+  [
+   "CARINA",
+   "GndAsQwhcJpc1dmsrpyKkBRq26t55Cpygx472x1KSyAt",
+   0.097,
+   2.4,
    ""
   ],
   [
    "Koop",
    "42meTZ9ZKAzYQiQUsq4dJ3UHECYMVQk9kJfNJpvBpump",
-   0.148,
-   3.8,
+   0.093,
+   4.8,
    "creator=19.1%"
   ],
   [
-   "Cobra",
-   "9hGKVHm1W2jLkWMNRRhB4Rg8f15gFi9X81DaBCDypump",
-   0.066,
-   2.9,
-   ""
-  ],
-  [
-   "SPACECAT",
-   "53LmpEr73aU4isoCzRpEWyvVYvtiaqQGczSfAcYYpump",
-   0.062,
-   2.2,
-   "buyers=1; top5_hold_most=100%; bundled_launch=9 extra buys in creation block"
-  ],
-  [
-   "SPOT",
-   "CwqtsBE8vRz98bpXo5w9UVshTb4Lhr4YWWu11cu1pump",
-   0.06,
+   "GAME MEME",
+   "CHXdwaiCL5Ws5okjWwKyAK5u6TdMmd7R3fGLC1Wcpump",
+   0.093,
    3.5,
-   ""
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "CATPAD",
+   "8TLEDG9fiNnBMdM5fVU6Ek9e3sfi7tcaDqcTA1MUpump",
+   0.065,
+   2.9,
+   "buyers=2; top5_hold_most=100%; bundled_launch=10 extra buys in creation block"
   ]
  ]
 }
