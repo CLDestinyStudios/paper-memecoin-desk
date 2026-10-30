@@ -6962,83 +6962,83 @@
    32.58
   ],
   [
-   "2026-10-30T10:14:47",
+   "2026-10-30T10:15:47",
    32.58
   ]
  ],
- "cycles": 3339,
+ "cycles": 3340,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.76523474630001,
- "watching": 318,
+ "sol_usd": 94.75430506279999,
+ "watching": 305,
  "near": [
   [
-   "GOTUS",
-   "B6h9Dx4NdHjSFffz1StMR9zkCy4jT4gxQ213K468pPcc",
-   1.0,
-   3.9,
-   "graduated"
-  ],
-  [
-   "trust",
-   "2StsExtCCGT6ayNq2TB6fDJ4tCUT1qBt5uDS4ymcpump",
-   0.324,
-   6.1,
-   ""
+   "SPI",
+   "CN3oeBaGm4QahH7NjoTG8GbTe31zhi82EubLD9YMpump",
+   0.589,
+   2.4,
+   "serial_creator=14 launches/24h"
   ],
   [
    "KINGBEE",
    "4UrHuCYjDPWTSusdSZsWfSMDBmD9t5odBgYU423spump",
    0.156,
-   5.1,
+   6.1,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "PONKS",
+   "33QswUVqCsADCkET8dztMRqCKo4FYtmyTEoTi9sjpump",
+   0.149,
+   3.1,
+   "top5_hold_most=95%"
+  ],
+  [
+   "trust",
+   "2StsExtCCGT6ayNq2TB6fDJ4tCUT1qBt5uDS4ymcpump",
+   0.147,
+   7.1,
+   ""
+  ],
+  [
+   "SPI",
+   "G5C57xYenmDd3rMtadQwjcNFJZhFtMMeivSoPtiVpump",
+   0.14,
+   3.8,
+   ""
   ],
   [
    "GOTUS",
    "2Vk8CnD1fvaHE3jTiE7y3jFvyYLmevsRxKmk6xfVpump",
    0.13,
-   3.3,
+   4.3,
    ""
   ],
   [
    "GOTUS",
    "8v3my5gzEMP2ycTu29L4wxxzZTkLhj9yW42DtsRYGcUY",
    0.116,
-   3.1,
+   4.1,
    ""
   ],
   [
-   "SPI",
-   "G5C57xYenmDd3rMtadQwjcNFJZhFtMMeivSoPtiVpump",
-   0.098,
-   2.8,
+   "\u7ef4\u65af\u73c0",
+   "3Bn6CrjfffCfPye1CfhzthicUBefLqfNKJbVfGiupump",
+   0.097,
+   2.7,
    ""
   ],
   [
-   "TPE",
-   "Gjp6Z88J5k8FbFb9utcHSy6nhAymfGNzczsziNPdpump",
+   "Token",
+   "34swqVjPAHvmunsbWVwk4pcQrmiGj8ayy4DGwadapump",
    0.089,
-   3.2,
-   "buyers=8; top5_hold_most=98%"
+   2.1,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "PI",
    "46dcAZWmZDd6bqkSLmRtRMddhK3fL6cXajQMAphKpump",
    0.087,
-   2.3,
-   ""
-  ],
-  [
-   "PEET",
-   "2wXfk7CqxmyphZAGLNHpdK3H6eqTmXmbW7Zbu59Dpump",
-   0.084,
-   6.3,
-   ""
-  ],
-  [
-   "AICAT",
-   "HmbahdGUxtYqhMcDDE94PSbSVByhnyem8PMvsuem1JS",
-   0.082,
-   7.6,
+   3.3,
    ""
   ]
  ]
