@@ -6686,83 +6686,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:28:15",
+   "2026-10-29T23:29:16",
    32.58
   ]
  ],
- "cycles": 2694,
+ "cycles": 2695,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.07235,
- "watching": 149,
+ "sol_usd": 98.20000000000002,
+ "watching": 159,
  "near": [
+  [
+   "SEPPI",
+   "DuwJDyL5VSGXw44tPm2GboaJSfjGAR9qQtCdSZnHpump",
+   0.363,
+   2.9,
+   ""
+  ],
   [
    "XTO",
    "Emb7JZG1WNhjXnFTb9GPJAEo3c8Kvstp8izJjYs1pump",
    0.281,
-   6.9,
+   7.9,
    "buyers=1; creator=22.2%; top5_hold_most=100%"
-  ],
-  [
-   "Soldier",
-   "AjFwgX1uhDKyeZ3ou7VEvZ62zjCX9wJCFcvfLM3mpump",
-   0.197,
-   2.7,
-   ""
   ],
   [
    "TSL",
    "4ZzkQsiFhYAJBrC77QNX6rmVY4FL1jtmaf3KfzYEpump",
-   0.073,
-   4.4,
-   "buyers=2; top5_hold_most=100%"
+   0.072,
+   5.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
-   "ALCATRAZ",
-   "5kNTojrDZMS6fioenLwbvMQL7ihFpxGtm5zX5tJxpump",
-   0.04,
-   9.6,
+   "Soldier",
+   "AjFwgX1uhDKyeZ3ou7VEvZ62zjCX9wJCFcvfLM3mpump",
+   0.043,
+   3.7,
    ""
   ],
   [
    "Quarry",
    "5NjB8xPSHeNXFLArfmAXNP1VwaBGRUiBtMqmuByCpump",
-   0.022,
-   8.3,
+   0.019,
+   9.3,
    ""
   ],
   [
    "catzard",
    "3cGhucZ7WdxCZ8ms41DPYZnUMcCEX1bmWMD6pE4hpump",
    0.017,
-   7.4,
+   8.4,
    ""
   ],
   [
    "$BABYCAT",
    "8MGymC1oSZxDNMGHWZsFAhmaQPMcpLbnypakxuWHpump",
-   0.016,
-   5.0,
+   0.017,
+   6.0,
    ""
   ],
   [
    "EARN",
    "8DGknPivq1fgpMUyu2mpeyKgXD6RHGb9wmv1J6MMpump",
    0.011,
-   4.9,
+   5.9,
    ""
   ],
   [
    "GROKBET",
    "Dizj8kyudNizDhzevGvcvTdB9R8xT9MR9LZwyKGrpump",
-   0.01,
-   7.0,
+   0.007,
+   8.1,
    "top5_hold_most=91%"
   ],
   [
    "RHINO",
    "Bq8yKPxXju8D4xD2kFTJEVsHcaBUBanx4MHQmzSFpump",
    0.006,
-   5.8,
+   6.8,
    ""
   ]
  ]
