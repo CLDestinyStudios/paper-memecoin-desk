@@ -7062,83 +7062,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:04:57",
+   "2026-10-30T14:05:52",
    32.58
   ]
  ],
- "cycles": 3569,
+ "cycles": 3570,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.16437254395,
- "watching": 298,
+ "sol_usd": 95.22640538865,
+ "watching": 315,
  "near": [
   [
    "Honey",
    "9AXdrHLa1DHLhykqZFCE1EKcuArfLVoBaY4zM7K8pump",
-   0.625,
-   4.3,
-   ""
+   0.689,
+   5.2,
+   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "Roofer",
    "AoktuP1FjMjr8t9SgZ86a6UfFL9ozkUjn4trzFrhpump",
-   0.618,
-   7.5,
-   ""
+   0.677,
+   8.4,
+   "serial_creator=10 launches/24h"
   ],
   [
    "MANANA",
    "6hi69q7P9Poob26xLEBqLyagtntARYJttER6kDbGpump",
    0.223,
-   4.5,
+   5.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "ELONSANTA",
-   "Cp4nreEe4vpqAw7uoRDEvmeLCGJFbrFpma84GgrQpump",
-   0.217,
-   3.1,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "NOSFERINU",
-   "fhiV1LCNrB4znnLjKJArCPKwt2vwhBUsRfCsBKRpump",
-   0.188,
-   8.9,
-   "top5_hold_most=94%; bundled_launch=6 extra buys in creation block"
+   "onboard",
+   "A56g3YNmCqtvJBYwsqxPniQRmQPRMEgQeHiWDcEapump",
+   0.149,
+   2.6,
+   ""
   ],
   [
    "PFP",
    "7wno2osJyapDrw6gCZ3JsHEBnKM3oxc6UvxLLrxfpump",
    0.101,
-   3.5,
+   4.4,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "jelly",
-   "AWassXUie2C5aDAA7tXfZv4caNp9pTt2vcrqiCCcpump",
-   0.088,
-   2.4,
-   ""
   ],
   [
    "santalon",
    "Akw3qab87PfzHqp7ZLyR2Hd3Rskoz5UJgE7asSpBpump",
    0.085,
-   3.6,
+   4.5,
    ""
   ],
   [
    "TUSK",
    "Hy2Rzoj5knHoDHtdTraMRy6A8v5Sd5vyrezqf4cfpump",
    0.069,
-   8.0,
+   8.9,
    ""
   ],
   [
    "TUSK",
    "4BCE4pUnHocD7hYoJfL7ndfkXEn943ECHNDdGGhGpump",
    0.054,
-   5.5,
+   6.4,
+   ""
+  ],
+  [
+   "TUSK",
+   "GZLvF2PZ1MSYHwnhQtUDhKoZmkfZ9XnXC6wkF7ovpump",
+   0.051,
+   6.8,
+   ""
+  ],
+  [
+   "Null",
+   "CDucjNtLUHv4E9LtxJrb9RzfBUyZr9rteSNMe8oQpump",
+   0.045,
+   3.1,
    ""
   ]
  ]
