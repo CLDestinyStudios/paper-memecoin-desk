@@ -7078,83 +7078,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:46:52",
+   "2026-10-30T14:47:53",
    32.58
   ]
  ],
- "cycles": 3611,
+ "cycles": 3612,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.465,
- "watching": 224,
+ "sol_usd": 95.39093137449998,
+ "watching": 213,
  "near": [
   [
-   "KYRO",
-   "LNFPX3MKNLH2PTnpj4airVznHKp38DA63WLhbkipump",
-   0.693,
-   9.8,
-   "top10=54.4%; top5_hold_most=95%"
+   "HYPERWICK",
+   "9Po7jPkn9DzArQH45B2cpNvgWc7BkzwFaB9L735Qpump",
+   0.485,
+   7.9,
+   "buyers=6; top5_hold_most=99%"
+  ],
+  [
+   "VESTED",
+   "28h1AJneGvFZAXCg1YPKedbKrtAapKUSBuXc7fmKpump",
+   0.402,
+   4.1,
+   ""
   ],
   [
    "RI",
    "E53dkwBAzG1JrFtZ8JdS3EeaYPyCwqgxnSM5G85Xpump",
-   0.36,
-   4.3,
+   0.389,
+   5.4,
    ""
-  ],
-  [
-   "HYPERWICK",
-   "9Po7jPkn9DzArQH45B2cpNvgWc7BkzwFaB9L735Qpump",
-   0.357,
-   6.9,
-   "buyers=6; top5_hold_most=99%"
   ],
   [
    "PIO",
    "H29D8JymdAV3uWmiNZHhnX15npVo77VmKYDocR8wpump",
    0.271,
-   6.0,
+   7.0,
    "top5_hold_most=99%"
   ],
   [
    "KSHIBA",
    "GyAsjEMHSRrUTgEJU9buKT78vNMCaGrVZNyUExZBfrrT",
    0.173,
-   4.3,
+   5.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "MOCHII",
-   "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
-   0.166,
-   9.0,
-   "buyers=7; top5_hold_most=82%"
+   "ELONHOUSE",
+   "4DG5aVvnWHTxtDRLiNZdQ3fL3hYKL44ceicccDuApump",
+   0.1,
+   2.7,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
-   "VESTED",
-   "28h1AJneGvFZAXCg1YPKedbKrtAapKUSBuXc7fmKpump",
-   0.116,
-   3.1,
-   ""
-  ],
-  [
-   "Zeta",
-   "A138yrhv6TSJqXDqaRAkXKr79Fg8G4kQxQAKgkiDpump",
-   0.099,
-   3.4,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Anita",
-   "H2pEUvdVgk7s2ocaQMJx11b192xnuPvjy9eHoai91feW",
-   0.091,
+   "Neow ",
+   "F5Xn7mzBjqKaSs3j8rxnnnqggWsgBHTTWn3Gy7A9pump",
+   0.043,
    2.1,
    ""
   ],
   [
+   "ARABELLA",
+   "FTuhC9XiFMZmn3Ktu1ajQ615j1BK9CDcjX1y5Z7Bpump",
+   0.043,
+   5.8,
+   ""
+  ],
+  [
    "Anita",
-   "4zLWA9TrbfprUWA58q9bgKcfD8d3vTh3EgL2D46kpump",
-   0.09,
-   3.8,
+   "3cFtwApjV4NMbmG74yjQZxJ85RdBXVrz71ePVh5ftkEc",
+   0.042,
+   5.2,
+   ""
+  ],
+  [
+   "ASITYPE",
+   "BRhTpQyGEGrzXXKmNhTds7XaMM3zY5gRL2cBrQBHpump",
+   0.041,
+   8.7,
    ""
   ]
  ]
