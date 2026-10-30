@@ -6782,83 +6782,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:14:46",
+   "2026-10-30T03:15:45",
    32.58
   ]
  ],
- "cycles": 2920,
+ "cycles": 2921,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.3916556457,
- "watching": 179,
+ "sol_usd": 96.25185521655,
+ "watching": 175,
  "near": [
   [
    "DATAR",
    "4fWJEa8vSj3FaPxLPwARLiG1EbVVwt3CCoCBZheSpump",
-   0.129,
-   3.2,
+   0.295,
+   4.2,
    "top5_hold_most=90%"
   ],
   [
    "ELON",
    "DbGkw74qtsZH2V5kiYRUtBGUUUXwriiQ7k79hHSMpump",
-   0.106,
-   4.5,
+   0.108,
+   5.5,
    ""
-  ],
-  [
-   "Hyperplex",
-   "GTiUgt4eCjmayexpaDdhrsG4xSG1FKmLQG8c6UA5pump",
-   0.101,
-   2.9,
-   "top5_hold_most=90%"
   ],
   [
    "ASS",
    "GmKo9JQ92FGdywFNbmyppUmiEmgMr6TsQPYtF3ebpump",
    0.088,
-   3.6,
+   4.6,
    ""
   ],
   [
    "ROADMAP",
    "4NQwBjamTe6KuJRYMEvCp2XQHwKAeUeGdjUfTJEmpump",
    0.084,
-   3.8,
+   4.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Ghost",
-   "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
-   0.044,
-   2.5,
+   "CZ",
+   "5y2LHPdbBrhMox9VMQ9D8LXU4dwkTzuniqE7Ukyhpump",
+   0.071,
+   2.8,
    ""
   ],
   [
    "PHYPER",
    "Anicv7HpMpKagJQU7RnUfuFKiwdgCCPbPJ467xy8pump",
    0.039,
-   3.7,
+   4.7,
    ""
   ],
   [
-   "CZ TROLL",
-   "GtEvrgQfLz8XitB1tjTE198SpVctumzLUyuWWbeepump",
-   0.039,
-   4.8,
-   "creator=38.2%; top10=47.8%; top5_hold_most=98%"
-  ],
-  [
-   "SQODY",
-   "2UQ97Pm4Jud3jbsUT7DuKHnqF8zyArbnFyx41ffjpump",
-   0.032,
-   2.8,
+   "ELONCZ",
+   "7yggxnhwGG8QbCc3VbJrqEZY7d8HvYxh4Ek3u9iwpump",
+   0.029,
+   2.1,
    ""
   ],
   [
    "honeypot",
    "AMEzMWAfptCPWUjjJJ4X2Y2MVG786dpioEMru5wT4QkW",
    0.023,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "Hyperplex",
+   "4e7EShCUrUzc7HYog7fGFQCserFK3r7e3zSdeEsTpump",
+   0.022,
+   6.3,
+   ""
+  ],
+  [
+   "Ghost",
+   "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
+   0.017,
+   3.5,
    ""
   ]
  ]
