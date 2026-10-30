@@ -7010,84 +7010,84 @@
    32.58
   ],
   [
-   "2026-10-30T12:02:48",
+   "2026-10-30T12:03:50",
    32.58
   ]
  ],
- "cycles": 3447,
+ "cycles": 3448,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.10154384100001,
- "watching": 365,
+ "sol_usd": 94.07,
+ "watching": 364,
  "near": [
   [
    "pep",
    "BffhRgcAnmPEZY4jqSaT1KXyZy6ry8hN3Amga4iUpump",
    0.192,
-   7.0,
+   8.0,
    ""
   ],
   [
    "GLOW",
    "5hJLQ9aXWdes2i8ayV8vPisvxhXiWXwWqDr5cG5Cpump",
    0.14,
-   4.4,
+   5.4,
    ""
+  ],
+  [
+   "SONIC",
+   "Aft7sh5VFB3Sx2iL21uyZTGghSTyPzrEByvtnSxapump",
+   0.116,
+   2.6,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "SELL",
    "HDCQzw3s3bu7frCMMSbKvYgWnWAu5PNgsA1zX2M7pump",
    0.088,
-   3.4,
+   4.5,
    ""
   ],
   [
    "PEPSIMAN",
    "4cKZtzifFJHt5Mj7sSXJxVJZx3GQwLcft97YDhGepump",
    0.084,
-   4.8,
+   5.9,
    ""
   ],
   [
    "pep",
    "ADfMgMG7gU3uPGsdiJe28xnYWNz1NdDoLDxhYYmzpump",
    0.083,
-   6.5,
+   7.6,
    ""
   ],
   [
    "Socks",
    "BGvATvRnnxokwykL5ZneUKbQLKd3AxCy6vWLhji3pump",
    0.077,
-   2.9,
+   4.0,
    ""
   ],
   [
    "TOD",
    "7VRGpYbhvSbyqXhK7dtFUUXDrsz1B8oL1f2UjnCipump",
    0.071,
-   2.3,
-   ""
-  ],
-  [
-   "RONALDO",
-   "6tsRztgJrkcBSwe6DWXLKdZUGXDW895c1osrAhyFpump",
-   0.07,
-   4.4,
+   3.3,
    ""
   ],
   [
    "ELONSTOCK",
    "Ht5iQrinw933wzzHGNW1YSAK4vmtgAGy9k4j3c47pump",
    0.062,
-   3.9,
+   4.9,
    ""
   ],
   [
-   "RESPECT",
-   "DiDYSnBuqS13PzxTNwVY8c5o3jF4pp9eKbkoB2kYpump",
-   0.05,
-   7.5,
-   "buyers=4; top5_hold_most=100%"
+   "FLOYD",
+   "6rp7aGTRjF2NPKXAyaSQNpXRY6XEczvVpU57tdWypump",
+   0.055,
+   3.8,
+   ""
   ]
  ]
 }
