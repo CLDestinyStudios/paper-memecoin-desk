@@ -6546,83 +6546,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:01:20",
+   "2026-10-29T18:02:11",
    32.58
   ]
  ],
- "cycles": 2367,
+ "cycles": 2368,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.7336,
+ "sol_usd": 94.62831847189999,
  "watching": 215,
  "near": [
   [
    "Health",
    "1212KbNXivZY13xE3gFNSAa8kZLHfwtmoGXRzpu3pump",
-   0.7,
-   3.9,
+   0.69,
+   4.7,
    ""
   ],
   [
-   "WORLDPAD",
-   "Hj7VwR5NN7VDqMxWAo8nug2sC7u5QxwaLfgQfCwopump",
-   0.345,
-   2.3,
-   "bundled_launch=6 extra buys in creation block"
+   "BEAR",
+   "BEiJVDYHbmjbFk9oJbNDJZ8iMQJj5q37EJnLKPVNpump",
+   0.083,
+   2.6,
+   ""
   ],
   [
    "BEAR",
    "6Vke8CzmCnV6DJQSwJG4cUr2Fu7NCqAJpFtbxZZXpump",
-   0.089,
-   8.1,
+   0.081,
+   9.0,
    ""
   ],
   [
-   "horse",
-   "GZMLWUnfo4SUXdvTmjs6YiocmjhD7WgNkaTPvYjPpump",
-   0.064,
-   2.4,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "BEAR",
+   "BmhANWXiD4c3ugfTvX6PU6fGqH4Tu8rTQCL54Vrupump",
+   0.073,
+   2.1,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "USDCPAD",
    "9cTwC4irLy5S6QgAF8RsLKChRkvhCRjFrjz1jovKpump",
    0.055,
-   6.2,
-   ""
+   7.1,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "October",
    "ExPimT5RDg1iuAr7LP8cV1uVBvRKgdZu5oogGXKLpump",
    0.041,
-   4.2,
+   5.0,
    ""
   ],
   [
    "SAFU",
    "6By4X2wrFhSssHhqgsWe3xVieFd2rL3c5YyaNuCpump",
    0.032,
-   3.7,
+   4.5,
    ""
   ],
   [
    "Duneussy",
    "BrPsvhccB1gLFsbMRT7qo4xkpieTochNYKDHfXPRpump",
    0.028,
-   4.6,
+   5.5,
+   ""
+  ],
+  [
+   "Hackoon",
+   "9uDyFvzoC4jv1VXb943wDsmeDeAJydwHKwt7Hioqpump",
+   0.023,
+   8.2,
    ""
   ],
   [
    "CACHEOUT",
    "GWHy8ZE9j1rYzZ4YM2QGDt3bANv5Frfvv9qteDJzpump",
    0.023,
-   7.0,
-   ""
-  ],
-  [
-   "GhostofBN",
-   "8vhdC6FY72oHmAftndTV84qdwBSATh4ZG4EjYLL4pump",
-   0.021,
-   3.3,
+   7.8,
    ""
   ]
  ]
