@@ -6958,84 +6958,84 @@
    32.58
   ],
   [
-   "2026-10-30T09:59:47",
+   "2026-10-30T10:00:48",
    32.58
   ]
  ],
- "cycles": 3324,
+ "cycles": 3325,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.93304009005001,
- "watching": 271,
+ "sol_usd": 94.97895,
+ "watching": 279,
  "near": [
   [
    "AI",
    "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
-   0.85,
-   3.6,
+   0.865,
+   4.6,
    ""
   ],
   [
    "GARLIC",
    "8Y2Wux52xfpGmxeKCakJqJBL9cvoevuAjSbAKUjDpump",
-   0.767,
-   6.6,
+   0.803,
+   7.6,
    ""
   ],
   [
-   "KIMCHI",
-   "5uPBmk7PH3EUyC8YHLjM73jq5Ext5iDLcemLsQj7pump",
-   0.415,
-   2.7,
-   ""
+   "numb",
+   "hZVkE419DQjFyc47BPqkcK9y9kLp877pTnXUqYwpump",
+   0.555,
+   3.0,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Mimic",
    "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
-   0.399,
-   3.5,
+   0.394,
+   4.5,
    ""
-  ],
-  [
-   "Kali",
-   "BC493ouUf7QZBK85ywC1R3LFkwpXPKGbAaMDLLtWpump",
-   0.38,
-   2.1,
-   "serial_creator=9 launches/24h"
   ],
   [
    "SKULLSUN",
    "7jDn7V3bXk82qs4qvJUuPbkvmRNamLGSe7FzRdjvpump",
-   0.298,
-   7.1,
+   0.294,
+   8.1,
    ""
-  ],
-  [
-   "SAFE",
-   "67rdz8EdkWhqnoBC1TNnyvekQSG2D4HSePMMTR6opump",
-   0.242,
-   2.1,
-   "serial_creator=10 launches/24h"
   ],
   [
    "SURVINU",
    "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
    0.213,
-   5.4,
+   6.4,
    ""
   ],
   [
    "PCOIN",
    "suhwbjMp7xnhE9CrW7JfTwaVZBYxAsBdYu2wvcdpump",
    0.165,
-   4.9,
+   6.0,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "vibecat",
    "B2v8CTffzvjeyDfRfGJ8dYM8udTSD8ivcveSe4d6pump",
-   0.15,
-   2.1,
+   0.132,
+   3.2,
    ""
+  ],
+  [
+   "CCORG",
+   "HegQZ6XBbfbEwsAKHFCmMN8FQYtqWFnta6GZc5Qwpump",
+   0.13,
+   7.4,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "CVE",
+   "6Rj46kMHsEvauj2RpFGaVVvdUq7senrfwaWTXKnxbf5D",
+   0.106,
+   5.2,
+   "buyers=6; top5_hold_most=100%"
   ]
  ]
 }
