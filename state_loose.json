@@ -1,10 +1,20 @@
 {
  "bank_start": 500.0,
- "cash": 370.8416885933899,
- "positions": {},
- "watch": {
-  "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793375568.4582932
+ "cash": 352.3016885933899,
+ "positions": {
+  "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": {
+   "sym": "\u2588\u2588\u2588",
+   "qty": 36164.88378081038,
+   "entry": 0.0005126519999999999,
+   "mark_entry": 0.0005026,
+   "cost": 18.54,
+   "peak": 0.0005026,
+   "last": 0.0005026,
+   "opened": 1793375624.9353695,
+   "p_buy": 0.55
+  }
  },
+ "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -81,7 +91,8 @@
   "A7pmyAhMbRXrQ6FXThxaNCNCmcdqCssjptizX15Ypump",
   "J3ReuwckNtcJP1Zhn7wVbfXhTDNTkHxozQWWAwxWpump",
   "61h4rUn7C21QNv1NJADc2oAxpAhr7f2WGqbXRDEupump",
-  "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump"
+  "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump",
+  "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump"
  ],
  "equity": [
   [
@@ -8291,8 +8302,12 @@
   [
    "2026-10-30T08:52:48",
    370.84
+  ],
+  [
+   "2026-10-30T08:53:44",
+   370.11
   ]
  ],
- "cycles": 3277,
+ "cycles": 3278,
  "started": "2026-10-28T01:46:56"
 }
