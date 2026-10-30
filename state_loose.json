@@ -1,20 +1,10 @@
 {
  "bank_start": 500.0,
- "cash": 370.0587954278122,
- "positions": {
-  "Ashf7mwajs2gWp9ase3jtQM4vMbWkyKb6DjQ6gBCvESY": {
-   "sym": "Telepathy",
-   "qty": 238821.32490722713,
-   "entry": 8.1651e-05,
-   "mark_entry": 8.005e-05,
-   "cost": 19.5,
-   "peak": 8.005e-05,
-   "last": 7.908e-05,
-   "opened": 1793337616.9736736,
-   "p_buy": 0.56
-  }
+ "cash": 387.3687561141479,
+ "positions": {},
+ "watch": {
+  "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump": 1793337736.228456
  },
- "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump",
@@ -7830,8 +7820,12 @@
   [
    "2026-10-29T22:21:15",
    388.57
+  ],
+  [
+   "2026-10-29T22:22:16",
+   387.37
   ]
  ],
- "cycles": 2647,
+ "cycles": 2648,
  "started": "2026-10-28T01:46:56"
 }
