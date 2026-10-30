@@ -7008,45 +7008,35 @@
   [
    "2026-10-30T11:58:57",
    32.58
+  ],
+  [
+   "2026-10-30T11:59:55",
+   32.58
   ]
  ],
- "cycles": 3443,
+ "cycles": 3444,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.2283118981,
+ "sol_usd": 94.1228252481,
  "watching": 377,
  "near": [
   [
    "SEED",
    "3BSaLf3yCzW85CrfMHeBYDVYxSx8fywHQRHqGVaBpump",
-   0.641,
-   8.1,
+   0.66,
+   9.0,
    ""
   ],
   [
    "TOS",
    "6SRxPrMLCkvpxFHVuZ1y76NdaxHHTUtrhjEg9j4hpump",
-   0.427,
-   2.6,
+   0.392,
+   3.5,
    ""
-  ],
-  [
-   "FOUNDRY",
-   "73ZPKMfU35FEBXym2JD1CPZZRnhoRBWST3HQmTuFpump",
-   0.273,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "STOCKPOCALYP",
    "GZAqe6mDLp7tXrV46iqpWpTjJD9GUiqwt8PUkEW9pump",
    0.159,
-   2.2,
-   ""
-  ],
-  [
-   "pep",
-   "BffhRgcAnmPEZY4jqSaT1KXyZy6ry8hN3Amga4iUpump",
-   0.146,
    3.1,
    ""
   ],
@@ -7054,35 +7044,49 @@
    "MEMESTOCK",
    "7mwcbYn5ZZ5UyfcTu2xuaZr45NzNW2Kch83JkrAQpump",
    0.124,
-   7.5,
+   8.4,
    ""
   ],
   [
    "pep",
-   "Fmg54JAqif8NjwrEiXPY8s1kdEKu5U7iB4G5kw7Rpump",
-   0.119,
-   2.8,
+   "BffhRgcAnmPEZY4jqSaT1KXyZy6ry8hN3Amga4iUpump",
+   0.123,
+   4.1,
    ""
+  ],
+  [
+   "RUG7",
+   "AvbwKYEhL3gUYrh3o6mYMbVMMePxJRhv89avD9Eapump",
+   0.122,
+   8.9,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ELONSTOCK",
    "8fiXv1Csn4f4opyepGN5amexL1Tu5wSTWvULjXdWpump",
    0.119,
-   6.7,
+   7.7,
    ""
   ],
   [
    "MEMESTOCK",
    "CzCgX79iGspPXtbmHYxVzHptq5VzDnNoJcN8ecGapump",
    0.118,
-   7.6,
+   8.5,
    ""
   ],
   [
    "SIX",
    "2ZgMD6aoNCJWMMBEczrEiNhNzHKbWRo46sy2rk51pump",
-   0.117,
-   6.1,
+   0.112,
+   7.1,
+   "buyers=6; top5_hold_most=100%; launch_slot=missing"
+  ],
+  [
+   "novemBER",
+   "4zJxbjVyNraaaXTGGEAWzagcfaWAvZMHis8ZFLPtpump",
+   0.095,
+   2.4,
    ""
   ]
  ]
