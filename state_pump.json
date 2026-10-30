@@ -7046,84 +7046,84 @@
    32.58
   ],
   [
-   "2026-10-30T13:30:02",
+   "2026-10-30T13:31:15",
    32.58
   ]
  ],
- "cycles": 3534,
+ "cycles": 3535,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.965,
+ "sol_usd": 94.96000000000002,
  "watching": 227,
  "near": [
+  [
+   "PFMikol",
+   "9kLtjDF21bmHs3UrmVbJTtvEkuZ8Knx4X2VfeuKHpump",
+   0.895,
+   6.3,
+   ""
+  ],
   [
    "PILLY",
    "3jvrDkZLodCqcV7fEka7Y4VF95UweGnrR9XbeTjHpump",
    0.351,
-   5.9,
-   ""
-  ],
-  [
-   "PUMPYANG",
-   "3SrJRsAKBXzh7kAMsUtv8cWZfLSJ4oXTqwZq3PZagJoy",
-   0.302,
-   3.6,
-   ""
+   7.1,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "KindleWake",
    "42LWGpJ6nts8dfBFLCpz56QzysFzruSGbQXsbgYppump",
    0.259,
-   5.2,
+   6.4,
    ""
-  ],
-  [
-   "BUNKER",
-   "K4uhU18ba6GSBSJi5PPccmTmCXuTFxsqJYa9mGxpump",
-   0.258,
-   3.3,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "BUTTERFLY",
    "H8uuFZATmESswspueeAf6t7jCNQCvETkqBa9mhxNpump",
    0.231,
-   6.6,
+   7.8,
    "buyers=7"
   ],
   [
-   "ID",
-   "6zpXotifSEZhvBcw7yWdqvnNbWuPkaTsZZULWCa9pump",
-   0.19,
-   3.0,
-   "top5_hold_most=92%; bundled_launch=5 extra buys in creation block"
+   "HYPR",
+   "DGv3T64ULufAxuRP4QvZTSjgoimBCELTpa8cnsk1pump",
+   0.209,
+   3.4,
+   "top5_hold_most=90%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "BUNKER",
+   "K4uhU18ba6GSBSJi5PPccmTmCXuTFxsqJYa9mGxpump",
+   0.201,
+   4.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PUMPYANG",
+   "3SrJRsAKBXzh7kAMsUtv8cWZfLSJ4oXTqwZq3PZagJoy",
+   0.194,
+   4.9,
+   "top5_hold_most=85%"
+  ],
+  [
+   "BUTTERFLY",
+   "5waQ5i92zCBLFb6c8nPEbo2jaeND3R1iLHBGfxHcpump",
+   0.167,
+   3.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SAE",
    "CxPrRFTw8rDDE8K3XtnFrBaANWoizPFPThsRckNFrNbm",
    0.091,
-   9.1,
+   10.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "TUSK",
    "5t6vR1mE9aCFdzJgP1uMT9FaJRLWqZeY19BRp65tpump",
    0.072,
-   6.1,
+   7.3,
    ""
-  ],
-  [
-   "TUSK",
-   "BjbLfxzsK9o2ajCDMrNrsJfnaMZJtWzzMDebV9MSpump",
-   0.069,
-   6.2,
-   ""
-  ],
-  [
-   "Pilly",
-   "6eQQieD3kTRpTDChHzGUD61HjJa2JzGSn4N5iQ4Xpump",
-   0.051,
-   2.8,
-   "top5_hold_most=98%"
   ]
  ]
 }
