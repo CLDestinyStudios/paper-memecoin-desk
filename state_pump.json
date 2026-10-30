@@ -7022,83 +7022,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:32:49",
+   "2026-10-30T12:33:50",
    32.58
   ]
  ],
- "cycles": 3477,
+ "cycles": 3478,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.23405967485002,
- "watching": 253,
+ "sol_usd": 94.21259117525,
+ "watching": 268,
  "near": [
   [
    "ATP",
    "FtPo4Z8tHfAkeKYvSEFP9jcteeWKM4Q64ZMsAGcXpump",
    0.632,
-   4.1,
+   5.2,
    "buyers=7; creator=44.9%; top10=50.1%; top5_hold_most=100%"
   ],
   [
    "FBinance",
    "EMaBaGCb2TQU3jU5v5T9WCAsYiLsoBCNQgehD4aMpump",
-   0.624,
-   2.9,
+   0.632,
+   3.9,
+   ""
+  ],
+  [
+   "babycock",
+   "BvFJs3TEBmwfvyQJNRL1deZwKYtS7eHhnLpkCKhhpump",
+   0.33,
+   2.8,
    ""
   ],
   [
    "Anakin",
    "FFqZqmquk9cCMaAFXwqM5doLwLxSx3PkwSHvAMHFpump",
-   0.135,
-   5.1,
-   ""
-  ],
-  [
-   "MINECAT",
-   "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
    0.117,
-   9.3,
+   6.2,
    ""
-  ],
-  [
-   "UPVOTE",
-   "5YRCnc7xRgHzGwchj42ZDfUh1zkAD9npKwDwS1ntpump",
-   0.1,
-   2.9,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "Rise",
    "JBfUwGa9cUuXDYVE1B4YkA2m6o37exWaE3uVBCE8pump",
    0.096,
-   5.0,
+   6.0,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "KIMchi",
-   "7rXb9aqqimWHfepJ8LworD4fCRfr4gmKFJfrMx7Gpump",
-   0.091,
-   2.5,
-   "buyers=6; top5_hold_most=99%"
   ],
   [
    "Oogie",
    "5y6iovGynDFKX8hd7REYxKGtdrjUb9ahK6YQQjy5pump",
    0.086,
-   6.7,
-   ""
+   7.8,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "$PCAT",
    "252CXqk5bEE9Wm1tSTf9BYpJAANTCzq2zr49R1TXpump",
    0.08,
-   2.4,
+   3.4,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "PARCEL",
+   "AhdewGsUAvXUGcrJKV6PESbRg42YAztaz6kuvLMtpump",
+   0.07,
+   2.9,
+   ""
+  ],
+  [
+   "QUANT",
+   "B13BAnkuLDZJ3buXetEZXpGtw7t2iBoyxBb93ycTpump",
+   0.047,
+   2.9,
+   ""
   ],
   [
    "DISABLEDEV",
    "CjPNqozJmAZgeBP7B55gRTqBkgyMkvMjmfgbVH8Apump",
    0.038,
-   3.6,
+   4.6,
    ""
   ]
  ]
