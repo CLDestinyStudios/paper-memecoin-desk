@@ -6798,83 +6798,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:52:46",
+   "2026-10-30T03:53:46",
    32.58
   ]
  ],
- "cycles": 2958,
+ "cycles": 2959,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.89999999999999,
- "watching": 184,
+ "sol_usd": 96.99500000000002,
+ "watching": 188,
  "near": [
   [
    "Kim",
    "qhbbjGBKJxW3AZGqngWM5tHcrENR3pVoRB9MCf1pump",
-   0.84,
+   0.891,
+   4.0,
+   ""
+  ],
+  [
+   "PVE",
+   "AQio3iy7QaKjZSQ57Lvt1f2BCDvAt5aX8decxUaUpump",
+   0.12,
+   3.2,
+   ""
+  ],
+  [
+   "CircuitATLAS",
+   "8mFpGz82iiNpcuwFUuKU5hthz3NRmiu74J9nntEkpump",
+   0.099,
    3.0,
    ""
   ],
   [
-   "Mousebrain",
-   "4cRNennQhCJhKMouw75KWEuH4aboH43i6JEFm8ycpump",
-   0.444,
-   2.7,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
-   "CP",
-   "GLr5H8wPNhq7tcLjP3Miqz5aJkcs67UVfkc6wYfBpump",
-   0.423,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "COFFIN",
-   "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
-   0.136,
-   9.4,
-   "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "Sol/acc",
-   "Bw46AHw99DzNpJWjpoYzTb1HnSbnquULjRVi8RmZpump",
-   0.074,
-   2.5,
-   "buyers=4; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "Kim",
+   "EhNmFw3PxgRCHhhnJTakmaGcp2So49aUYvoMNzZ1pump",
+   0.085,
+   2.3,
+   "buyers=4; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "CRINGE",
    "EG5gM23CuF9YidYeJKyYrxnSCro6MF7DhJCmfUujpump",
    0.065,
-   5.9,
+   6.9,
    "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "PVE",
-   "AQio3iy7QaKjZSQ57Lvt1f2BCDvAt5aX8decxUaUpump",
-   0.057,
-   2.2,
-   ""
-  ],
-  [
-   "CZTROLL",
-   "7cR8dCWhMCMaWMXkw7JDbTTdXFw4NiY4iEES2sNhpump",
-   0.052,
-   3.8,
-   "top5_hold_most=82%"
   ],
   [
    "QMOUSE",
    "DZrJa5XZShUMib7i26uzcWdSU7niDmYBTrscB96gpump",
    0.045,
-   4.2,
+   5.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "LOL",
    "BoUHWbfHdy24mGoa4tuCQStou8AffA2VfRvyQMALpump",
    0.043,
-   2.2,
+   3.2,
+   ""
+  ],
+  [
+   "Pepe",
+   "9jQ4kc7sJuNRv42LJFk1k385vKw9tScC6XK4mJ4Gpump",
+   0.043,
+   5.7,
+   ""
+  ],
+  [
+   "VULTY",
+   "4t8XoXrZynVBKaVZgQTYUpVM6mpYZshkRjsyxE1Wpump",
+   0.038,
+   7.7,
+   ""
+  ],
+  [
+   "CP",
+   "3tAgczhrDTJsjtbr1C2epgYU8JDEyJ7r2nhP3CAupump",
+   0.031,
+   4.1,
    ""
   ]
  ]
