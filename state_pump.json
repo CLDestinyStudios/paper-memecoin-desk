@@ -6774,83 +6774,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:54:45",
+   "2026-10-30T02:55:45",
    32.58
   ]
  ],
- "cycles": 2900,
+ "cycles": 2901,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.7345158392,
- "watching": 195,
+ "sol_usd": 96.71752314490001,
+ "watching": 197,
  "near": [
+  [
+   "SeaZ",
+   "DGtDAjPdn5LqxDXgi7J6enAjh22MeJbi8ZmaFCvvpump",
+   0.222,
+   2.5,
+   ""
+  ],
+  [
+   "FRY",
+   "7xjQyiVvvq8keN1LCBGdwcRUKDgA3qwaVjXFEqnGpump",
+   0.141,
+   6.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
   [
    "gascoin",
    "34vobjqTa3cn7EEt5a3whdp5yyQuvvXkZ4MSHjLMpump",
-   0.11,
-   7.9,
+   0.109,
+   8.9,
    ""
   ],
   [
    "lazerass",
    "U7bmKfBK8UJZaYRUZBtyAr9rCAkWL6cg4nVMJoKpump",
    0.1,
-   3.5,
+   4.5,
    ""
   ],
   [
    "CVE",
    "C9Gu3CRjEr7Kruc4ZdZk54YhxP5bcLcc9e2ngLyWpump",
    0.089,
-   8.5,
+   9.5,
    ""
   ],
   [
    "INTC",
    "7Sdjt9Z2CrfrRzyRBBycFJV4nqXk576bSq1w3Au4pump",
    0.089,
-   2.3,
+   3.3,
    ""
   ],
   [
    "gascoin",
    "7wAF4ZQ34nCKR36tPk9xvVQ2xUdxEcukRkwqgBXJhvMy",
    0.084,
-   8.7,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "FRY",
-   "7xjQyiVvvq8keN1LCBGdwcRUKDgA3qwaVjXFEqnGpump",
-   0.084,
-   5.8,
+   9.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "TRLMUSK",
    "D4UDsDPUWUrbuX91HBLEUGr1iYqYabHgHgYqkiigpump",
    0.078,
-   7.5,
+   8.5,
    "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "Fantasma",
-   "FWX14HVf34J2ZWMwTcfureyPgTQ7F44ZouCkEMEzpump",
-   0.045,
-   2.6,
-   ""
   ],
   [
    "SNARLPUP",
    "AYhRJ64PcuQzdgfyP46EtLkzwavSiKAHrPEc72XV7oZL",
    0.044,
-   3.0,
+   4.0,
    ""
   ],
   [
    "cz",
    "A7uZZpisZ3ZsPzx9QsUyp9Ki6TTTdQFpuAmK9FAwnCwX",
    0.043,
-   5.7,
+   6.7,
    ""
   ]
  ]
