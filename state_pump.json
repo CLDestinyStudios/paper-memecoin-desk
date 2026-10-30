@@ -6958,84 +6958,84 @@
    32.58
   ],
   [
-   "2026-10-30T10:00:48",
+   "2026-10-30T10:01:50",
    32.58
   ]
  ],
- "cycles": 3325,
+ "cycles": 3326,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.97895,
- "watching": 279,
+ "sol_usd": 94.85728977870001,
+ "watching": 286,
  "near": [
   [
    "AI",
    "6h1jQ9k7fUpXk8ggKGir7goy9LgSPT2q9BghErthpump",
-   0.865,
-   4.6,
+   0.881,
+   5.6,
    ""
   ],
   [
    "GARLIC",
    "8Y2Wux52xfpGmxeKCakJqJBL9cvoevuAjSbAKUjDpump",
-   0.803,
-   7.6,
+   0.814,
+   8.7,
    ""
-  ],
-  [
-   "numb",
-   "hZVkE419DQjFyc47BPqkcK9y9kLp877pTnXUqYwpump",
-   0.555,
-   3.0,
-   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "Mimic",
    "5pmSWkzZmxdhUMRrfMwENQv52tWiXdGjNDkqiHZ1pump",
-   0.394,
-   4.5,
+   0.49,
+   5.6,
    ""
   ],
   [
    "SKULLSUN",
    "7jDn7V3bXk82qs4qvJUuPbkvmRNamLGSe7FzRdjvpump",
-   0.294,
-   8.1,
+   0.293,
+   9.2,
    ""
   ],
   [
    "SURVINU",
    "6cujKMkVw1tkiqP5VVPuNDMN2D14p95cKDQGVmeqpump",
-   0.213,
-   6.4,
+   0.21,
+   7.5,
+   ""
+  ],
+  [
+   "Koop",
+   "DD8o6axKhEDs9bF59XGwmP9aZ4W1EAxxXWjdRKERpump",
+   0.176,
+   2.6,
    ""
   ],
   [
    "PCOIN",
    "suhwbjMp7xnhE9CrW7JfTwaVZBYxAsBdYu2wvcdpump",
-   0.165,
-   6.0,
-   "buyers=6; top5_hold_most=98%"
+   0.149,
+   7.0,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "vibecat",
    "B2v8CTffzvjeyDfRfGJ8dYM8udTSD8ivcveSe4d6pump",
    0.132,
-   3.2,
+   4.2,
    ""
   ],
   [
    "CCORG",
    "HegQZ6XBbfbEwsAKHFCmMN8FQYtqWFnta6GZc5Qwpump",
    0.13,
-   7.4,
+   8.5,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "CVE",
-   "6Rj46kMHsEvauj2RpFGaVVvdUq7senrfwaWTXKnxbf5D",
-   0.106,
-   5.2,
-   "buyers=6; top5_hold_most=100%"
+   "THIS",
+   "HjdY77ovn3koyxcjETHJow4nW3b5J6gAjJ82Y2Rxthis",
+   0.109,
+   2.5,
+   ""
   ]
  ]
 }
