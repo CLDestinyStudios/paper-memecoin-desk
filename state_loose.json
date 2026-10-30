@@ -1,19 +1,7 @@
 {
  "bank_start": 500.0,
- "cash": 341.567706859328,
- "positions": {
-  "2aZp4sP2bPdMUVkTVeRmzBvJvCaeTpgYXNBXNuEopump": {
-   "sym": "SPACEINU",
-   "qty": 92776.05779153766,
-   "entry": 0.00019380000000000002,
-   "mark_entry": 0.00019,
-   "cost": 17.98,
-   "peak": 0.0002291,
-   "last": 0.0002291,
-   "opened": 1793384409.7491949,
-   "p_buy": 0.57
-  }
- },
+ "cash": 347.1702303268202,
+ "positions": {},
  "watch": {},
  "traded": [
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
@@ -8654,8 +8642,12 @@
   [
    "2026-10-30T11:20:47",
    362.4
+  ],
+  [
+   "2026-10-30T11:21:51",
+   347.17
   ]
  ],
- "cycles": 3425,
+ "cycles": 3426,
  "started": "2026-10-28T01:46:56"
 }
