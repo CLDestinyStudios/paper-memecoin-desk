@@ -7120,82 +7120,86 @@
   [
    "2026-10-30T16:22:52",
    32.58
+  ],
+  [
+   "2026-10-30T16:23:56",
+   32.58
   ]
  ],
- "cycles": 3707,
+ "cycles": 3708,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.75999999999999,
- "watching": 236,
+ "sol_usd": 95.78000000000002,
+ "watching": 230,
  "near": [
-  [
-   "ITSOVER",
-   "6EFTa6jtTmpkfWcYPfjvjXoCFKUvYnfbuBAmzui8pump",
-   0.728,
-   6.4,
-   ""
-  ],
   [
    "Rise",
    "DiG8EkdpRYQy9Zhh6oUyr5nhEsrAACqF92KRqMjGpump",
-   0.685,
-   8.0,
+   0.698,
+   9.0,
    "creator=49.2%; top10=53.9%; top5_hold_most=99%"
+  ],
+  [
+   "joe",
+   "96JxAfjnCXNjpSperqLCHZpoGCwYwdV7yDzdfNsrpump",
+   0.666,
+   2.6,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "ITSOVER",
+   "6EFTa6jtTmpkfWcYPfjvjXoCFKUvYnfbuBAmzui8pump",
+   0.458,
+   7.5,
+   ""
   ],
   [
    "GHOSTDUE",
    "22PWbmCubUdCbPpSiShYQdai2VC7wGHhTRebhxULpump",
    0.216,
-   4.3,
+   5.3,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "CAKE",
+   "Fb2qF3mMzvhoUuom3LKDk5LDrqceWeor2NCCh2zCpump",
+   0.079,
+   2.5,
+   ""
+  ],
+  [
+   "NNN$",
+   "3zh3ehnCkM4FbUFGXKjC3G6Xr7XgDNdH9xGdGKcypump",
+   0.07,
+   2.3,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "MEIOWL",
    "AGmyQ2CY1crzDnQjgT71oPSngPkgmy9a4r2LVqhGpump",
    0.063,
-   3.9,
+   4.9,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "APPLE.FUN",
    "9bSLJ4uZww1SHXLoFjf9qRxXVJdcXBPxa9U5Tyo4pump",
    0.06,
-   3.7,
+   4.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "CWEEN",
-   "HhTricRJvZCSLz24ZVJgMJ5A4okyeRM51aJSd19wpump",
-   0.039,
-   4.7,
+   "ZEROHAT",
+   "2H6Gorg4UVBV92KUo2cNdDtW3VAZEqLJ5YZp3DrTpump",
+   0.044,
+   3.8,
    ""
   ],
   [
    "dosed",
    "E35BS1QMaQ1tzMycbSmagg7PXttPxDPc5CKCi8A3pump",
    0.039,
-   7.3,
+   8.4,
    "top5_hold_most=92%"
-  ],
-  [
-   "ZEROHAT",
-   "2H6Gorg4UVBV92KUo2cNdDtW3VAZEqLJ5YZp3DrTpump",
-   0.039,
-   2.7,
-   ""
-  ],
-  [
-   "KCU",
-   "FqyH7WDyRMvTxfuiK59iuuFLQe7qi2DFxk34YCebpump",
-   0.038,
-   2.6,
-   ""
-  ],
-  [
-   "ZACKTRADES",
-   "Dk2iXvskNgfShtkEZnBELJQNz7SMxWB5MMY3FgoLpump",
-   0.032,
-   5.6,
-   ""
   ]
  ]
 }
