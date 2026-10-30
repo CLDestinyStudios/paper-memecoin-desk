@@ -6862,84 +6862,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:20:02",
+   "2026-10-30T06:21:06",
    32.58
   ]
  ],
- "cycles": 3105,
+ "cycles": 3106,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.1137388249,
- "watching": 167,
+ "sol_usd": 96.14000000000001,
+ "watching": 163,
  "near": [
   [
    "laptop",
    "9hzYuifYC7FNCCJ2aViUEKwoPRzy3i6tB7g63wPtpump",
-   0.915,
-   5.0,
+   0.92,
+   6.1,
    ""
   ],
   [
    "HACKCOIN",
    "5McvpSFirPG9yHbvuHzvgvAza8qobrcuHk24TfXmpump",
-   0.907,
-   6.0,
-   ""
-  ],
-  [
-   "HYPER",
-   "28D7yxdt1VR6frRgDJ8ayw2rwfUEponYz4KK6ou3pump",
-   0.496,
-   4.0,
+   0.808,
+   7.0,
    ""
   ],
   [
    "HACKCOIN",
    "hWgN5zrYwgEeHEheLRnEdnqekpZm6yc6ZUApUrRJm7R",
-   0.463,
+   0.516,
+   3.3,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "HYPER",
+   "28D7yxdt1VR6frRgDJ8ayw2rwfUEponYz4KK6ou3pump",
+   0.399,
+   5.1,
+   ""
+  ],
+  [
+   "Qwen",
+   "2HPm9R93G94eu6ZE8FceCoxG7oCjSUbWoJwxt4ASpump",
+   0.345,
    2.2,
    ""
   ],
   [
-   "BTB",
-   "Ejp1P7Jq4ViiY7JnUNQVZ24pxRWPVanKzUuWoTwCpump",
-   0.292,
-   3.2,
-   "buyers=4; creator=22.5%; top5_hold_most=100%"
+   "LAZARUS",
+   "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
+   0.289,
+   9.1,
+   "top5_hold_most=96%"
   ],
   [
    "Laptop",
    "BbjHCW9zy7LoRcthW6AAvssyfyePFiFXSWUYNEJVpump",
-   0.26,
-   6.8,
-   ""
+   0.289,
+   7.8,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "BACKSTOP ",
-   "GpRvugTzqB4SGnUzNvQhHr9SQ55tSNu5DAvjWiMspump",
-   0.206,
-   4.4,
-   ""
-  ],
-  [
-   "FSD",
-   "3VkgaEVateMNDwsNPUmuLzJRDqDoFbC4XevKz11Epump",
-   0.196,
-   3.3,
-   "top5_hold_most=93%"
-  ],
-  [
-   "LAZARUS",
-   "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
-   0.187,
-   8.1,
-   "top5_hold_most=96%"
+   "BTB",
+   "Ejp1P7Jq4ViiY7JnUNQVZ24pxRWPVanKzUuWoTwCpump",
+   0.287,
+   4.3,
+   "buyers=3; creator=22.8%; top5_hold_most=100%"
   ],
   [
    "Gold Cat",
    "L9AsD7GramGmVahW54wPK6iqv2zgF95eG7uvivZpump",
-   0.181,
-   4.4,
-   "top5_hold_most=93%"
+   0.175,
+   5.5,
+   "top5_hold_most=96%"
+  ],
+  [
+   "BACKSTOP ",
+   "GpRvugTzqB4SGnUzNvQhHr9SQ55tSNu5DAvjWiMspump",
+   0.15,
+   5.5,
+   ""
   ]
  ]
 }
