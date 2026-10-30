@@ -6894,82 +6894,82 @@
    32.58
   ],
   [
-   "2026-10-30T07:30:45",
+   "2026-10-30T07:31:52",
    32.58
   ]
  ],
- "cycles": 3175,
+ "cycles": 3176,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.53330348295,
- "watching": 161,
+ "sol_usd": 94.20322471305,
+ "watching": 162,
  "near": [
   [
-   "KIMNANCE",
-   "CcVcFzEDwPdXVTVhWXZLqHBEtsEJB93mKBWz7GKQpump",
-   0.368,
-   3.8,
+   "Poolgob",
+   "EiTCDY5N6z1GxsAFXVRjHk3Z2m8f6Ext76hYX6rxpump",
+   0.352,
+   2.2,
    ""
   ],
   [
-   "SC",
-   "5kAJ96G551bmBgX5AxbbKztVbAuyZ1HyL4pkkWMYpump",
-   0.143,
-   7.4,
+   "KIMNANCE",
+   "CcVcFzEDwPdXVTVhWXZLqHBEtsEJB93mKBWz7GKQpump",
+   0.348,
+   5.0,
+   ""
+  ],
+  [
+   "LARPSTER ",
+   "EVwz6GKjiQ3Ayduvz4o1YMMzsvCU37XTtei3x4Lvpump",
+   0.331,
+   2.8,
+   ""
+  ],
+  [
+   "CTO",
+   "Dn5ZsfMfQTJHDnkC5sJhv5YwnphpLuzvNorar927pump",
+   0.17,
+   3.0,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "url",
+   "9CQY6sgtD9e3SZfBA4NutqyhAUdjdn3P8cZUocPmpump",
+   0.099,
+   2.2,
    ""
   ],
   [
    "FishStonk",
    "2vfWbcLwn9frNvtYJ1pKt3aoghLUBnpMjCdotfLrpump",
    0.077,
-   3.3,
+   4.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "$VampCat",
    "2bQN3UtPXMSRdA73XxDrvJeqNtGfZo1MeTbWQiNZpump",
    0.075,
-   4.2,
-   "buyers=2; top5_hold_most=100%"
+   5.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "Boobs",
    "2eXEgFfwiGoz1QYt324jQJhvRqRBgHEF75JPBz4epump",
-   0.064,
-   6.1,
+   0.06,
+   7.3,
    ""
   ],
   [
    "Dossier",
    "62wAuAkwZTbc8Dg5gikrQcmp4NMKG5nTMPQgDxhUpump",
    0.045,
-   7.6,
+   8.7,
    ""
   ],
   [
-   "REDCZ",
-   "C7wPnnYpNN5M8BgvkT8NBBn6GqLzWgVMz1mHmFTypump",
-   0.041,
-   5.9,
-   "top5_hold_most=90%"
-  ],
-  [
-   "#HCAT",
-   "GZdXKfyQ1BkYBc7TeKgZyKTSpXGer92Mqh2hYjoFpump",
-   0.035,
-   9.7,
-   ""
-  ],
-  [
-   "PUMPBOARD",
-   "4p8n1m7S8Nsf397HZG7u5tRmNYQ6TF7EUEdixchBpump",
-   0.023,
-   2.5,
-   ""
-  ],
-  [
-   "AES",
-   "2uAsfDeC7apHewYnFHbJk6SSLwQVt5VHstqTUFk2pump",
-   0.022,
+   "SPY",
+   "DpUnpFZjiT2Ku2yrxV2qnLv4941oFSHZFDoHsbB8pump",
+   0.043,
    2.7,
    ""
   ]
