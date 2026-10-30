@@ -7054,83 +7054,83 @@
    32.58
   ],
   [
-   "2026-10-30T13:42:51",
+   "2026-10-30T13:43:57",
    32.58
   ]
  ],
- "cycles": 3547,
+ "cycles": 3548,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.0,
- "watching": 250,
+ "sol_usd": 94.99685155030001,
+ "watching": 248,
  "near": [
   [
    "SSI",
    "6q3CGrSHFjZafNpqTE1yGkUmAGBj9qEcXamrYjL1pump",
-   0.839,
-   7.6,
-   ""
+   0.535,
+   8.7,
+   "serial_creator=10 launches/24h"
   ],
   [
    "Catrina",
    "7GNB3ihJq5GWcRo5UstVN4NvfquPMvY2sKKBhvmzpump",
-   0.486,
-   2.5,
+   0.517,
+   3.6,
    ""
   ],
   [
-   "ELONANCE",
-   "99TSQV8zzADhxL4rGBHszAvnC8aZzmYR29qEG7V6pump",
-   0.196,
-   9.2,
-   "top5_hold_most=89%"
+   "Pumped",
+   "9177JZCPadQBW7BwXrguY9xs5DVwDZc37sGr96uXpump",
+   0.484,
+   2.3,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
-   "SXSI",
-   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
-   0.195,
-   7.3,
-   ""
+   "Stealing",
+   "BCgRUbbu1hzHpXPdDKFwvVjbKEHpYLBLyKN8SeQzpump",
+   0.23,
+   2.6,
+   "buyers=7; top5_hold_most=96%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "bestCode",
    "8CLYH7rsbcjSBXgyyVPoPcXTmqrEs37H7q9fBiyQpump",
    0.169,
-   6.1,
+   7.2,
    "buyers=6; top5_hold_most=87%"
   ],
   [
    "JIMOTHY",
    "BbS82nArEgkNDr666eDQpQzSNqrepbKW7YYRPeFFpump",
-   0.147,
-   4.5,
+   0.151,
+   5.6,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "Coup",
-   "FL2bCPPsYmXASERK38sKWorCfVNawugKEvmVyaZypump",
-   0.11,
-   6.2,
-   "buyers=5; top5_hold_most=100%"
+   "PETER",
+   "27MEKDUVQFEQpET1NnAu8XjfcPpYH1gy43VG5AZNpump",
+   0.103,
+   8.7,
+   ""
+  ],
+  [
+   "SXSI",
+   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
+   0.1,
+   8.4,
+   ""
   ],
   [
    "TUSK",
    "4QedpXZUex7izZ7GtbDcSpLf3tKBKfuGnXWJAUmQpump",
    0.097,
-   2.9,
+   4.0,
    ""
   ],
   [
    "TUSK",
    "GxYDxUD5W7rzGuiqvjDoiEEyGf1uw8Xvtk7MAGmfpump",
    0.079,
-   4.5,
-   ""
-  ],
-  [
-   "POLAND",
-   "BAWvmCs3iPQGh5vkJapiBJ4o3n21Jza8NvmzfRqhpump",
-   0.074,
-   5.4,
+   5.6,
    ""
   ]
  ]
