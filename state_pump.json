@@ -7018,83 +7018,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:24:55",
+   "2026-10-30T12:25:51",
    32.58
   ]
  ],
- "cycles": 3469,
+ "cycles": 3470,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.32066478805001,
- "watching": 266,
+ "sol_usd": 94.44,
+ "watching": 250,
  "near": [
   [
    "REPLACEMENT",
    "3Yp2m5tKFmEF6bJjqgaCUb1VSEV3VQH61nWh1FrRpump",
-   0.698,
-   6.8,
-   ""
-  ],
-  [
-   "SWORD",
-   "Az5oeDqk6s1Dtxz8KBzoGKMJboLmPw75xHsVaFxopump",
-   0.668,
-   4.8,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "MIPZI",
-   "MipzPVZVeaLsBom2ad9i8Ed26zYf4XUhHxwtDdnLSH1",
-   0.537,
-   5.2,
+   0.555,
+   7.7,
    ""
   ],
   [
    "REPLACEMENT",
    "6AivtfGfho9o3ZKFrpJcFkUesG7zrA2Tj8kQLYbMpump",
-   0.522,
-   4.8,
+   0.55,
+   5.8,
    ""
   ],
   [
-   "PINE",
-   "DUgbA97XBRYKXmHa3X9cBU3N7g7onFVnge8S1FWjpump",
-   0.491,
-   8.6,
-   ""
-  ],
-  [
-   "FOUNDRY",
-   "7CyL2twMFwWx2v45MNuQkGQdLArGyoGko7HGNMoFpump",
-   0.247,
-   2.1,
-   ""
-  ],
-  [
-   "SWORD",
-   "9cZF5XDpYy43fbCPYvAw3zpPEkB4RbyW3b8GnT42pump",
-   0.169,
-   6.9,
-   ""
-  ],
-  [
-   "SWORD",
-   "CEMs5GDuwM9ReDuVfRoxsj66zQ8e3SsJQRjESVoDpump",
-   0.156,
-   7.2,
+   "MIPZI",
+   "MipzPVZVeaLsBom2ad9i8Ed26zYf4XUhHxwtDdnLSH1",
+   0.505,
+   6.1,
    ""
   ],
   [
    "Sword",
    "9yPEzvUxEMH3WHbHWNk3dWN4Rv27JobkPccxTpAPpump",
-   0.142,
-   2.2,
+   0.496,
+   3.2,
    "buyers=8; top5_hold_most=94%; launch_slot=missing"
   ],
   [
-   "GARLIC",
-   "CnP5oP9zYNvPqfX4e51mtbay6MZLCLzKgwj6yyNSpump",
-   0.094,
-   4.1,
+   "PINE",
+   "DUgbA97XBRYKXmHa3X9cBU3N7g7onFVnge8S1FWjpump",
+   0.491,
+   9.6,
+   ""
+  ],
+  [
+   "FOUNDRY",
+   "7CyL2twMFwWx2v45MNuQkGQdLArGyoGko7HGNMoFpump",
+   0.311,
+   3.1,
+   ""
+  ],
+  [
+   "HypurPad",
+   "HYpEXcESCaXB7f5iVMAQ2aSpkQc2saMocpEuzFxE6B9H",
+   0.221,
+   2.6,
+   "buyers=9; bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "Humanists",
+   "8WnQ3KpkuxsWBCAs1vJAPij1pebyheytJJghz6cBpump",
+   0.192,
+   2.7,
+   ""
+  ],
+  [
+   "SWORD",
+   "9cZF5XDpYy43fbCPYvAw3zpPEkB4RbyW3b8GnT42pump",
+   0.171,
+   7.8,
+   ""
+  ],
+  [
+   "MINECAT",
+   "5Y2mR3og4KQKm8cTTPnDWrQMT5A6AoBjfSt4tGF6pump",
+   0.079,
+   2.3,
    ""
   ]
  ]
