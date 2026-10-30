@@ -6882,83 +6882,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:08:06",
+   "2026-10-30T07:09:05",
    32.58
   ]
  ],
- "cycles": 3153,
+ "cycles": 3154,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.69777681459998,
+ "sol_usd": 94.67,
  "watching": 173,
  "near": [
   [
    "Pumpkin",
    "CogSVY2A7PEjvpUqxLe6LjXZQMrjjCqh4bSnsDBupump",
-   0.513,
-   7.0,
+   0.534,
+   7.9,
    ""
   ],
   [
    "\u20ac",
    "8835DxJa4U8DX9VpMmmUYuuQC3NAh64pneofqPYwvN9d",
    0.333,
-   5.8,
-   ""
+   6.8,
+   "serial_creator=32 launches/24h"
   ],
   [
-   "catdog",
-   "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
-   0.216,
-   9.6,
-   "buyers=5; top5_hold_most=100%"
+   ">_",
+   "7RYW21R4N3uszXkspfzbiiLnD5zP9qY7BHjfTdTEpump",
+   0.32,
+   3.4,
+   "top5_hold_most=83%"
   ],
   [
    "BTC",
    "H2UiNCbttCL2LLxURJ3ddDkgiJ6iuirkfD5rjFKgpump",
    0.188,
-   4.6,
+   5.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "SLASHER",
-   "4nPUstVLuxLLGfynKPDFCZrSajW7neAYkaFUgzxepump",
-   0.188,
-   9.8,
-   "buyers=9; top5_hold_most=86%"
-  ],
-  [
-   ">_",
-   "7RYW21R4N3uszXkspfzbiiLnD5zP9qY7BHjfTdTEpump",
-   0.164,
-   2.4,
-   "top5_hold_most=83%"
-  ],
-  [
-   "stablecoin",
-   "AA43VzX7R3UtgEPvW72vUtCjRutaLLQDDW4wyYzRpump",
-   0.144,
-   8.6,
+   "HYPELON",
+   "CgCpwnN6QYxzoY7fhQBvwMPDyHVnwwMdc745XvPqv4uf",
+   0.107,
+   2.3,
    ""
   ],
   [
-   "Paul",
-   "96EWotFWj2NMsgihC8bBAD4JMJHHqUtTW18oB4ZUpump",
-   0.108,
-   3.8,
+   "LORDTROLL",
+   "4RqPHkAJNeZcTfztJPKLrN2HqRopLhczMW8FWym3pump",
+   0.092,
+   2.8,
+   "serial_creator=11 launches/24h"
+  ],
+  [
+   "HYPELON",
+   "EpkYizueH5BsCNdBghJKVWLuyUJ6Y8aZ5RLXRZUXHyaX",
+   0.087,
+   2.8,
    ""
   ],
   [
-   "stablecoins",
-   "2HrFVDuVfQTJqwR1QhpunkFTcropy6WBR8reRNbKpump",
-   0.099,
-   7.5,
-   "buyers=5; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
+   "Stable",
+   "HAar8CRCv81kqnzNZdTdVLxRVJ6yMFgT1Hs7xpqVxvYM",
+   0.07,
+   4.9,
+   ""
   ],
   [
-   "Laptop",
-   "J6yBTuM7TRKK7FWzqZBcSijxKi9Rec6f2uJL9Gs3pump",
-   0.072,
-   2.6,
+   "HYPELON",
+   "3MYS2wqTjeeK6pz4AqmS4YPu9W2M8kggUnfRcLHipump",
+   0.064,
+   2.9,
+   ""
+  ],
+  [
+   "Stable",
+   "9GhjaN6ARXhEysyWFRvmodF76yNXbZPejiPsmbFqYjxV",
+   0.061,
+   4.3,
    ""
   ]
  ]
