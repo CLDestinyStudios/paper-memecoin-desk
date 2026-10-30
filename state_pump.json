@@ -6594,84 +6594,84 @@
    32.58
   ],
   [
-   "2026-10-29T19:48:15",
+   "2026-10-29T19:49:17",
    32.58
   ]
  ],
- "cycles": 2474,
+ "cycles": 2475,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.03634430885,
- "watching": 216,
+ "sol_usd": 95.11016188945,
+ "watching": 213,
  "near": [
   [
-   "POKE",
-   "3nX4ifDEJcF8Ykjju9YpMnVVpfPc1c8xHANNASZEpump",
-   0.201,
-   4.3,
-   ""
-  ],
-  [
-   "SCAT",
-   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
-   0.131,
-   5.2,
-   ""
-  ],
-  [
-   "GTFO",
-   "CG9Q8c7JhGmWsHB5RFnngejMZRs9CDEhNMEoCGgopump",
-   0.126,
-   4.0,
-   "buyers=9; top5_hold_most=86%"
+   "Stable",
+   "9zJMxvxdh5ZPSmobj5EPjUhR81fX26Wjw4BLkZSQpump",
+   0.282,
+   2.1,
+   "serial_creator=10 launches/24h"
   ],
   [
    "OV",
    "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
    0.119,
-   6.5,
+   7.5,
    ""
   ],
   [
    "LAPTOP",
    "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
    0.107,
-   6.1,
-   ""
-  ],
-  [
-   "kimjongun",
-   "7ATJMgiG4cpNaxo1QUN21ePvzucjHFQGWFqCuQc2pump",
-   0.103,
-   2.7,
-   "buyers=6; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "catphish",
-   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
-   0.092,
-   4.5,
+   7.1,
    ""
   ],
   [
    "HY",
    "3siWC4bkgdhbpKF1ko5ZjfPuAkmCHS2aBU18Tqtqpump",
    0.076,
-   2.5,
+   3.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "HEIST",
-   "3JgggPd7jwsnDp4uiu3pLHG9fSWiNcZYNims1uvZ8x3E",
-   0.074,
-   5.8,
+   "catphish",
+   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
+   0.072,
+   5.5,
    ""
   ],
   [
-   "VIRUS",
-   "BsExgssNuArduYq6v2r6bPQEh1mGeX4BBYyvPr35pump",
-   0.067,
-   3.8,
-   "top5_hold_most=82%"
+   "SCAT",
+   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
+   0.069,
+   6.2,
+   ""
+  ],
+  [
+   "DUVID",
+   "EmfTsbpXT3cRWGuuXbXpxWKc34ryvQXByPcAhzVApump",
+   0.065,
+   9.0,
+   ""
+  ],
+  [
+   "GTFO",
+   "CG9Q8c7JhGmWsHB5RFnngejMZRs9CDEhNMEoCGgopump",
+   0.059,
+   5.0,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "HY",
+   "GNaqy16Huq2RS4pEcpcERX5QWdA3GsvBbvQwSXjJpump",
+   0.043,
+   7.2,
+   ""
+  ],
+  [
+   "NCD",
+   "7XxQkYPthxepMTjsAATLaGKokmV43Ayjd1oUES1kpump",
+   0.043,
+   10.0,
+   ""
   ]
  ]
 }
