@@ -6554,83 +6554,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:16:08",
+   "2026-10-29T18:17:09",
    32.58
   ]
  ],
- "cycles": 2382,
+ "cycles": 2383,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.266512471,
- "watching": 139,
+ "sol_usd": 94.235,
+ "watching": 145,
  "near": [
   [
    "DFG",
    "AR9kA89zJc6begV68JGrq4aavJ53bFTZrhESeid7pump",
-   0.878,
-   3.0,
-   ""
-  ],
-  [
-   "Swansem",
-   "6NqCAw6W9KZYMKncMCm5G1zUBBeqbiQNuuNjExb2pump",
-   0.74,
-   9.9,
-   ""
-  ],
-  [
-   "SBF",
-   "AYMCZdBqDGiCDzFDfB7fSqpVAcFn62xDEKjwZEw5pump",
-   0.183,
-   2.5,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "BUNA",
-   "5PTfVjU3rP5TemjdEi1wEnhxYtWsgqJB3VDJ9aW5pump",
-   0.165,
-   9.7,
-   "buyers=7; top5_hold_most=86%"
+   0.156,
+   4.0,
+   "top5_hold_most=94%"
   ],
   [
    "CRABTCHA",
    "46ZyyEHzjwG7PQsfJMGALQJ5YZHfPRHdGrffMcVHpump",
    0.14,
-   6.2,
+   7.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "WoW",
-   "7PBCiVyUbML77vdWzgRFz7TVa3vNv3erLfUvs2eJpump",
-   0.12,
-   7.1,
-   "buyers=3; top5_hold_most=100%"
+   "SQUID",
+   "CztKMcJ96r8KbDgk3TMVxT2N8FCcHVY2dnV9CqoDpump",
+   0.128,
+   3.0,
+   ""
   ],
   [
-   "hacker",
-   "Hg9JAPJaJvRVsuGRpJmdvH4PgdM725izxuhN8evepump",
-   0.073,
-   4.3,
-   "buyers=1; top5_hold_most=100%"
+   "Speedrun",
+   "A9quW1aw3vNg1b1wnsPUmrcG7jW4oUXAbGZKyYmQQSEA",
+   0.087,
+   4.5,
+   ""
   ],
   [
    "SF",
    "6ASRWYvN3WjZudLYBCX8HnFTfsc3GBBgwjPW8BYjpump",
    0.07,
-   7.5,
+   8.6,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "Speedrun",
-   "A9quW1aw3vNg1b1wnsPUmrcG7jW4oUXAbGZKyYmQQSEA",
-   0.064,
-   3.5,
+   "bob",
+   "6BcMdDKGABNyCJmfXh9rraY2BU6c5MDbLpnCb51Wpump",
+   0.042,
+   10.0,
    ""
   ],
   [
-   "PooInu",
-   "DR5iBzXRcPTB1uPkm3mTR7ryWBaxq8i8Y2mTgGe8pump",
-   0.045,
-   8.6,
+   "TMTRD",
+   "D8jeW68MuZGTQDxezpK2hKjc8tzhv5vsZq581FbVpump",
+   0.032,
+   2.2,
+   ""
+  ],
+  [
+   "domoney",
+   "2X7Uno3SA9nHApFPPBe3h8YG8rjR6sBywK2Qy749pump",
+   0.026,
+   2.9,
+   ""
+  ],
+  [
+   "$EXO",
+   "FMEeujhkjxpbQjYDm1hEgEyXWMqT1sWBMidUNpcLpump",
+   0.024,
+   7.6,
+   ""
+  ],
+  [
+   "HACKER",
+   "CoUsFw5josBotc3PpxUEJLQ3Y1wjEBXHPujD7D3spump",
+   0.024,
+   3.1,
    ""
   ]
  ]
