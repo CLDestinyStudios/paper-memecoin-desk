@@ -6714,83 +6714,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:32:00",
+   "2026-10-30T00:33:00",
    32.58
   ]
  ],
- "cycles": 2757,
+ "cycles": 2758,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 98.04,
- "watching": 117,
+ "sol_usd": 98.03999999999999,
+ "watching": 119,
  "near": [
   [
    "GTALAMBO",
    "2FWMECMKWXdA5PVaizQda4tP2RAB1Dhk8bTpibk6pump",
-   0.554,
-   2.5,
-   "creator=42.8%; top5_hold_most=99%; launch_slot=missing"
-  ],
-  [
-   "inucrypted",
-   "2RkoEoLw4Vf7UU6mru29jESbnLkUaEaXQZ6qbnDKpump",
-   0.216,
-   3.3,
-   ""
+   0.567,
+   3.5,
+   "creator=42.8%; top5_hold_most=98%; launch_slot=missing"
   ],
   [
    "MOTION",
    "CMemFskn9VxQsS2CNA43S9H8oo4HASD3JApFB6hvpump",
    0.157,
-   7.0,
+   8.0,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "mclaren",
    "E7BSNwVvte4z1WN4tqmn5k6Q6N8mKxg4vVRQr3Stpump",
-   0.149,
-   7.0,
-   ""
-  ],
-  [
-   "HYPERPAD",
-   "3vSJwwLeke6BP2du3ZhEe4BaEaZ7NaUNk9d1tRcepump",
    0.128,
-   9.6,
-   "buyers=2; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "wellness",
-   "HTR8wGiEpqSBsETWwNinMppEgNGCuZpmGWgVHw44pump",
-   0.043,
-   6.2,
+   8.0,
    ""
   ],
   [
-   "mclaren",
-   "HdinDwZVH8Qj66ehK2NiBGYvtSeow5oajGysp15spump",
-   0.041,
-   6.1,
+   "inucrypted",
+   "2RkoEoLw4Vf7UU6mru29jESbnLkUaEaXQZ6qbnDKpump",
+   0.09,
+   4.3,
    ""
   ],
   [
    "2049",
    "8aVs9JNbvHxeouMEGXfHd3tK8hxQK2PAchoA3fd5pump",
    0.037,
-   3.1,
+   4.1,
    ""
   ],
   [
    "SOG",
    "At9Ft6bavk8fpAfXQAPRJ2eM5msnse4cKpTtvXnjpump",
    0.024,
-   6.1,
+   7.1,
    ""
   ],
   [
-   "Moonero",
-   "6Y1T21TwVQeTRJQZja2cqrL4hBCStykjC7qLr7Kjpump",
-   0.021,
-   3.0,
+   "GTAVI",
+   "3fn4un3Htj8Pqu115fc5GbNRktdYCreKLLe2ppfZpump",
+   0.02,
+   5.9,
+   ""
+  ],
+  [
+   "trunoest",
+   "zKYXKrxc8acWPd1hB7bdFVeHrtcBiQLJZ21oNcmpump",
+   0.018,
+   2.8,
+   ""
+  ],
+  [
+   "mclaren",
+   "HdinDwZVH8Qj66ehK2NiBGYvtSeow5oajGysp15spump",
+   0.018,
+   7.1,
+   ""
+  ],
+  [
+   "catzilla",
+   "6zriwPDecKVK28ejaLzUqK1AUgS4jx2n3wtphbnjpump",
+   0.014,
+   9.1,
    ""
   ]
  ]
