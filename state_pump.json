@@ -7066,84 +7066,84 @@
    32.58
   ],
   [
-   "2026-10-30T14:16:55",
+   "2026-10-30T14:17:59",
    32.58
   ]
  ],
- "cycles": 3581,
+ "cycles": 3582,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.14,
- "watching": 237,
+ "sol_usd": 95.19500000000001,
+ "watching": 233,
  "near": [
   [
    "CRAMER",
    "EXdXL3EDwVYXvpknqkimLqokq22VMn9cqjsy2dMRpump",
-   0.83,
-   8.4,
-   ""
-  ],
-  [
-   "PCAT",
-   "DJWn5Q44eP7MMGyv3AKqxKZ52LN5vr2TpGpAk99apump",
-   0.587,
-   2.2,
-   "bundled_launch=4 extra buys in creation block"
+   0.709,
+   9.5,
+   "serial_creator=10 launches/24h"
   ],
   [
    "TUFF",
    "Gaj4HQFbVfCi9i2PMuVURKZKwVVzsoP9YU646jzupump",
-   0.495,
-   8.5,
-   ""
-  ],
-  [
-   "BUY",
-   "7gwgx8KywwqxdtzML7Wt4R7dBBJeJyLnf9f8RYfepump",
-   0.182,
-   3.4,
+   0.466,
+   9.6,
    ""
   ],
   [
    "REMARC",
    "CUhyxDeYAiZhqk9TNtQfp8SarcD7LxqoPF1maQTapump",
    0.128,
-   8.2,
+   9.3,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "BUYHOLD",
-   "6DAJJRTULLPTrfK4pe6EFxAypE73JaaiQrJArhTjpump",
-   0.111,
-   3.0,
-   ""
   ],
   [
    "sell",
    "79nnaUfoFuvCpF36APCn569fUJa35HbnwUrYhM6jpump",
-   0.083,
-   6.0,
+   0.125,
+   7.1,
+   ""
+  ],
+  [
+   "BUY",
+   "7gwgx8KywwqxdtzML7Wt4R7dBBJeJyLnf9f8RYfepump",
+   0.121,
+   4.4,
+   ""
+  ],
+  [
+   "jigga",
+   "6DBhuWzKArPBNr661xcpkZzdfczjzmWyQxKyMpjkpump",
+   0.105,
+   2.3,
+   ""
+  ],
+  [
+   "BUYHOLD",
+   "6DAJJRTULLPTrfK4pe6EFxAypE73JaaiQrJArhTjpump",
+   0.098,
+   4.0,
+   ""
+  ],
+  [
+   "buy",
+   "DgojPMj5BkAx3uKqVjmz5RrX45xmphTAcaMEpc5zpump",
+   0.084,
+   2.5,
+   ""
+  ],
+  [
+   "Drip",
+   "HySHYtV3yKJ6ctB7nVPgQ85oXeP4BmoUzTi7WDoepump",
+   0.074,
+   2.6,
    ""
   ],
   [
    "sell",
    "9GC9X4vfSXdEGn5bzRVaSvQfAVgfbVEnJ3J412Jqpump",
    0.073,
-   8.6,
-   ""
-  ],
-  [
-   "INAT",
-   "CsHfzRLLuqnzCTPLCt1oAV9sKR1Eb2rBx4Uv6Zu8pump",
-   0.048,
-   3.9,
-   ""
-  ],
-  [
-   "CRAMER",
-   "Awk5oMQ1fSC4TRgasnbMxM5gbrAiTjsf1jixm3mepump",
-   0.043,
-   4.1,
-   ""
+   9.7,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
