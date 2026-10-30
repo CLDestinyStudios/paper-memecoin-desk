@@ -7006,84 +7006,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:56:50",
+   "2026-10-30T11:57:50",
    32.58
   ]
  ],
- "cycles": 3441,
+ "cycles": 3442,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.21,
- "watching": 363,
+ "sol_usd": 94.22430360579244,
+ "watching": 376,
  "near": [
   [
    "SEED",
    "3BSaLf3yCzW85CrfMHeBYDVYxSx8fywHQRHqGVaBpump",
-   0.614,
-   5.9,
+   0.64,
+   6.9,
    ""
   ],
   [
    "CWCH",
    "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
-   0.32,
-   8.7,
+   0.479,
+   9.7,
    "buyers=6; top5_hold_most=96%"
-  ],
-  [
-   "HB",
-   "BCLrCLQnkWCUNh1kT5SSuP7LtBs8mkQJb3f5Lov1pump",
-   0.24,
-   3.2,
-   "serial_creator=8 launches/24h"
   ],
   [
    "MEMESTOCK",
    "7mwcbYn5ZZ5UyfcTu2xuaZr45NzNW2Kch83JkrAQpump",
-   0.141,
-   5.3,
+   0.124,
+   6.3,
    ""
   ],
   [
    "ELONSTOCK",
    "8fiXv1Csn4f4opyepGN5amexL1Tu5wSTWvULjXdWpump",
-   0.126,
-   4.6,
+   0.122,
+   5.6,
    ""
   ],
   [
    "MEMESTOCK",
    "CzCgX79iGspPXtbmHYxVzHptq5VzDnNoJcN8ecGapump",
-   0.124,
-   5.5,
+   0.118,
+   6.5,
    ""
   ],
   [
    "SIX",
    "2ZgMD6aoNCJWMMBEczrEiNhNzHKbWRo46sy2rk51pump",
-   0.102,
-   4.0,
+   0.108,
+   5.0,
    ""
+  ],
+  [
+   "R1",
+   "2iJQxHmh6W2UMCR4KLSM27iTCapBYmPqHwgpHqMkpump",
+   0.101,
+   2.6,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "RUG7",
    "AvbwKYEhL3gUYrh3o6mYMbVMMePxJRhv89avD9Eapump",
    0.092,
-   5.9,
+   6.9,
    ""
   ],
   [
    "CHIP",
    "36o9ksATaitnhLbkMuQ8Xm5v3C2QjZfiqGaXoiaTpump",
    0.09,
-   4.6,
+   5.6,
    ""
   ],
   [
    "MEMESTOCK",
    "7j7p25xKY94AUrhYmC7gKNPQrXBDjMBz5oJ4LZPwdeyj",
    0.074,
-   6.2,
-   ""
+   7.2,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
