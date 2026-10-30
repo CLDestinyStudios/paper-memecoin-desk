@@ -7044,81 +7044,85 @@
   [
    "2026-10-30T13:21:52",
    32.58
+  ],
+  [
+   "2026-10-30T13:22:51",
+   32.58
   ]
  ],
- "cycles": 3526,
+ "cycles": 3527,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.8224620645,
- "watching": 232,
+ "sol_usd": 94.77861978275001,
+ "watching": 235,
  "near": [
-  [
-   "COINY",
-   "9c9KMRxg6XPgAvwB2uaHFyf352qtPHKXxcysbjeZpump",
-   0.954,
-   2.5,
-   ""
-  ],
   [
    "VITO",
    "2BAnah6cde2y6NAxmtPH4neWFFYE4aHs7aafrw5cpump",
-   0.926,
-   2.2,
+   0.969,
+   3.2,
+   ""
+  ],
+  [
+   "COINY",
+   "9c9KMRxg6XPgAvwB2uaHFyf352qtPHKXxcysbjeZpump",
+   0.957,
+   3.5,
    ""
   ],
   [
    "NARRA",
    "8ss86wcen7UCMuCm17yN38xgLsrY5PiyQVeCSyfgpump",
-   0.738,
-   2.7,
+   0.688,
+   3.7,
    ""
   ],
   [
    "POLAND",
    "BisefEvUvYqX1u3yB9wR5nJ9HPftcgGBZkNjp4evpump",
    0.232,
-   3.6,
+   4.6,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "COINY",
    "23Vo5viFZNzzyZcfSbZVG3SFmAcfqasD4c1G9ztgpump",
    0.175,
-   3.0,
+   4.0,
    ""
   ],
   [
    "PLYWOOD",
    "Grg2oHHyiBfx1LeQReJGyL9NdK1o8bpN5rmvLUsfpump",
-   0.139,
-   6.9,
+   0.135,
+   7.9,
    ""
   ],
   [
    "CONNIE",
    "8ahAtNeAGJfbn8hCUzNVdtqyDgDJ654FY9yKQNynpump",
-   0.119,
-   2.3,
+   0.074,
+   3.3,
+   ""
+  ],
+  [
+   "TREND",
+   "6CG8W8n28evLNjcmSPja99JkS5aZXHL3dV5BQpLxpump",
+   0.066,
+   2.7,
    ""
   ],
   [
    "POGE",
    "DNGapZSQYbMo9KuLy4em2ncwtVpKmNUko44it1fkpump",
    0.066,
-   3.6,
+   4.6,
    ""
   ],
   [
-   "NOTCH",
-   "HarhCt9ZX86suH2yAyTRedMrSnjousDrxghHrGJUpaid",
-   0.06,
-   5.7,
-   ""
-  ],
-  [
-   "JASONS",
-   "6yGdfU6XDPpUcpT5qwFEuQG9p4Lw3jEn1YSwTgeBoLJT",
-   0.043,
-   5.7,
+   "COINY",
+   "9dfaASekTYTEryo2zqF2bxeL9LhjHXNuhQRzgPLTpump",
+   0.05,
+   4.1,
    ""
   ]
  ]
