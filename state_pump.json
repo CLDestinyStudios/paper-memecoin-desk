@@ -6638,83 +6638,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:32:16",
+   "2026-10-29T21:33:16",
    32.58
   ]
  ],
- "cycles": 2578,
+ "cycles": 2579,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.29999999999998,
- "watching": 164,
+ "sol_usd": 97.19000000000001,
+ "watching": 142,
  "near": [
   [
    "TraderTraito",
    "3XLTWYyHxpAdbP1fjfTz9TBZp9Dhq4A6KWNarHMkGHQb",
-   0.847,
-   8.4,
+   0.775,
+   9.4,
    ""
   ],
   [
    "TraderTraito",
    "G1gN3vsp2Wqv2XDmCTYX9EmjrPUFWYT98QzcWHnpMNQY",
-   0.263,
-   5.3,
+   0.262,
+   6.3,
    ""
   ],
   [
    "TRENCHD",
    "GJ8nGfs1Ar9KAjMU7iE3xuHrXB2jB4RaSQkJ4gKDpump",
-   0.196,
-   2.7,
-   "buyers=5; top5_hold_most=100%"
+   0.197,
+   3.7,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "REad",
    "5tLz8aLdDQuXzS3KAJGdhtYjhemPAwiRN4Bmqddbpump",
    0.059,
-   2.9,
+   3.9,
    ""
   ],
   [
    "CI",
    "65jpoDer93WDTDtZ2tQSKEWdMSqqtVh3eLz7eQgApump",
    0.051,
-   4.6,
+   5.6,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "TIAGZ",
+   "mEcpwJqHZMDzEr6dG8ixSHQyDU23Gae2PXnVsWVpump",
+   0.049,
+   2.7,
+   ""
   ],
   [
    "TraderTraito",
    "5GFNHCYXFf1Q94wmcv6JqRchk7PMBCAZ5Z6VnPTRpump",
    0.047,
-   4.9,
+   5.9,
    ""
   ],
   [
-   "TraderTrai",
-   "HqppEDmGRdReckHULef3YZDmpEEidFWgddwqjn6apump",
-   0.028,
-   5.4,
-   ""
-  ],
-  [
-   "CSAH",
-   "Fw4wKavhp3FThhHUeZK4hBzrNTh9FHrMxAJPbF7Tpump",
-   0.026,
-   9.0,
-   ""
-  ],
-  [
-   "TONYB",
-   "JE4CdmMptP8RPamJcHxkjydvaNmrp2BQtW7SSDqhpump",
-   0.024,
-   4.6,
+   "tor",
+   "GaNv9N3aBzuNrXMdsyFLqac5XJiSGb5E8jQvrc3jpump",
+   0.042,
+   2.3,
    ""
   ],
   [
    "TraderTrai",
    "2DJZ65TfPz3UtQJRdSTzXxJcW15PqED15HLV9YaFpump",
    0.022,
-   7.9,
+   8.9,
+   ""
+  ],
+  [
+   "BAYAG",
+   "CkdfTVjhb6cZs9JuuxG7RE37D53SiBXFreHAxZ32pump",
+   0.021,
+   5.2,
    ""
   ]
  ]
