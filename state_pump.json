@@ -6638,83 +6638,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:30:16",
+   "2026-10-29T21:31:16",
    32.58
   ]
  ],
- "cycles": 2576,
+ "cycles": 2577,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.1893,
- "watching": 180,
+ "sol_usd": 97.2,
+ "watching": 168,
  "near": [
   [
    "TraderTraito",
    "3XLTWYyHxpAdbP1fjfTz9TBZp9Dhq4A6KWNarHMkGHQb",
-   0.814,
-   6.4,
+   0.807,
+   7.4,
    ""
   ],
   [
    "TraderTraito",
    "G1gN3vsp2Wqv2XDmCTYX9EmjrPUFWYT98QzcWHnpMNQY",
-   0.447,
-   3.3,
+   0.283,
+   4.3,
    ""
   ],
   [
-   "ItsOver",
-   "7ThrRAxa6pYzrpUfQZ5wAUKrm89agRiYBix1zaBkpump",
-   0.232,
+   "Spurdo",
+   "6p7u3WCKZJkfHVGV8BYJE5YVq8jdjRCuiy667uLspump",
+   0.231,
    2.3,
-   "bundled_launch=4 extra buys in creation block"
+   "serial_creator=10 launches/24h"
   ],
   [
    "AIDEN",
    "7UUPvyTpu7mxqkRQoERd2c2RN8a35jKYPjQL4nJzpump",
    0.124,
-   7.0,
+   8.0,
    ""
-  ],
-  [
-   "CI",
-   "65jpoDer93WDTDtZ2tQSKEWdMSqqtVh3eLz7eQgApump",
-   0.1,
-   2.6,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "TT",
    "4wKNaS64AE8qXCfVyTAMxSqhZJcWtaRzXDJTMiMApump",
    0.066,
-   8.8,
+   9.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "theovan ",
-   "3EnCptWGMgTkRbTx3KuoyHYwZz5B1kzBtWs2nZjbpump",
-   0.058,
-   9.4,
-   "top5_hold_most=95%"
+   "CI",
+   "65jpoDer93WDTDtZ2tQSKEWdMSqqtVh3eLz7eQgApump",
+   0.051,
+   3.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "TraderTraito",
    "5GFNHCYXFf1Q94wmcv6JqRchk7PMBCAZ5Z6VnPTRpump",
    0.047,
-   2.9,
+   3.9,
    ""
   ],
   [
    "TraderTrai",
    "HqppEDmGRdReckHULef3YZDmpEEidFWgddwqjn6apump",
    0.028,
-   3.4,
+   4.4,
    ""
   ],
   [
    "TONYB",
    "JE4CdmMptP8RPamJcHxkjydvaNmrp2BQtW7SSDqhpump",
    0.026,
-   2.6,
+   3.6,
+   ""
+  ],
+  [
+   "CSAH",
+   "Fw4wKavhp3FThhHUeZK4hBzrNTh9FHrMxAJPbF7Tpump",
+   0.026,
+   8.0,
    ""
   ]
  ]
