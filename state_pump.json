@@ -6846,83 +6846,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:39:45",
+   "2026-10-30T05:40:09",
    32.58
   ]
  ],
- "cycles": 3064,
+ "cycles": 3065,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.48790143815,
+ "sol_usd": 96.53557626759999,
  "watching": 170,
  "near": [
   [
-   "Jesus",
-   "6PNq3Dduz73HHFBFt1KYRqDEsgcPQE6BDDRgxAFupump",
-   0.702,
-   2.2,
-   "bundled_launch=6 extra buys in creation block"
-  ],
-  [
    "PeePee",
    "EgbkkxwdkCTEfNGQjRixqbK9hZp2wLncUmVUBT6upump",
-   0.608,
-   7.7,
+   0.63,
+   8.1,
    "creator=28.9%"
-  ],
-  [
-   "Trip ",
-   "5739aqiNbbuoGRvXreaztVTboJQPTLWy3eUyqE86pump",
-   0.426,
-   2.4,
-   "buyers=2; creator=33.7%; top5_hold_most=100%"
   ],
   [
    "PAHOL",
    "5Pd1nGv4kB4CbqzuTcL1vdCL9ivhWd1SBDMFdtM6pump",
-   0.269,
-   6.4,
+   0.268,
+   6.8,
    "top5_hold_most=86%"
-  ],
-  [
-   "#DisarmAI",
-   "277H8iZqp8ugnaXtaA8SwjCy7ontbsCqG6VcW3YMEUHV",
-   0.247,
-   3.2,
-   "launch_slot=missing"
   ],
   [
    "SM",
    "ETP5oG84VesVDQgYRaW8EicsN5mcBiMZis7oPpfipump",
-   0.243,
-   6.4,
+   0.24,
+   6.8,
    ""
   ],
   [
    "SIX",
    "FZf6SiHEPxNAha6MhzXaMP5pNAioXpCVDrKZf234XVmn",
-   0.221,
-   8.3,
+   0.222,
+   8.7,
    ""
+  ],
+  [
+   "#DisarmAI",
+   "277H8iZqp8ugnaXtaA8SwjCy7ontbsCqG6VcW3YMEUHV",
+   0.199,
+   3.6,
+   "launch_slot=missing"
   ],
   [
    "DisarmAI",
    "AJgempwHbCWKthNuYvQmzs7eUVnFDkD2XjwEqXSqGNgn",
-   0.121,
-   3.0,
+   0.12,
+   3.4,
    ""
+  ],
+  [
+   "\ubc15\ubbfc\uc7ac",
+   "EwqVKkZ5USsA9ubYR2ytewdzrdnDf5miYhj2WkiWpump",
+   0.067,
+   2.4,
+   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
    "NCTO",
    "HpssqLTbAEcq55bndmYqhXJnReFtMujoJesyeR8jpump",
    0.064,
-   8.5,
+   8.9,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "ACTX",
    "ESNG7pSUk7eMAxmRphSpGBShMfVfMJsG2yDMfm4hpump",
    0.064,
-   2.4,
+   2.8,
+   ""
+  ],
+  [
+   "HACKER",
+   "8LTL3ySGrJ9nmPe3frbgXyyQ3oXBuhEBastebBHvpump",
+   0.064,
+   2.3,
    ""
   ]
  ]
