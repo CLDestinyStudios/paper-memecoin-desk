@@ -6590,84 +6590,84 @@
    32.58
   ],
   [
-   "2026-10-29T19:39:16",
+   "2026-10-29T19:40:20",
    32.58
   ]
  ],
- "cycles": 2465,
+ "cycles": 2466,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.24210000000001,
- "watching": 198,
+ "sol_usd": 95.2328,
+ "watching": 197,
  "near": [
-  [
-   "AODF",
-   "JLmpgqFZFnAgjUUbARyippnpbbcaLW3L8tJVkPApump",
-   1.0,
-   2.1,
-   "graduated"
-  ],
   [
    "Never",
    "JDmkLbkU45Ag7vJ6nSeN52rnZ9nTJXsTJtC1n9pypump",
-   0.727,
-   2.9,
+   0.664,
+   4.0,
    ""
   ],
   [
    "Reverse",
    "2biJTbVvZZtYnVZY35H4vbKnmbUnWPwHnWdxunmGoNGd",
-   0.53,
-   2.8,
+   0.556,
+   3.8,
+   "bundled_launch=5 extra buys in creation block"
+  ],
+  [
+   "PERPEES",
+   "GWqc4Dss9j3t5HGcEmRumKvjE2YPG1s29pkUPPMtpump",
+   0.471,
+   2.3,
    ""
   ],
   [
-   "LAPTOP",
-   "A7uzrsmeWfw2QiHZeXrCgu6Upr3XGLp4CQcEbaueo3ju",
-   0.087,
-   9.3,
+   "MM",
+   "79BhkF9er7zJiajT4tLNrdGxJ8ndfDHm8r4zxuPJpump",
+   0.367,
+   2.5,
+   ""
+  ],
+  [
+   "VIRUS",
+   "E1LirqUnYfLt7wDM7XCgmjvDcdZgPNA8MksDp4bWpump",
+   0.078,
+   2.4,
    ""
   ],
   [
    "DFG",
    "DD9X8g7dayYHL6ZGGCsTFraLAaWs9Q5vzfKiUVXupump",
    0.073,
-   7.1,
+   8.2,
    ""
   ],
   [
    "Hackinu",
    "5omycX4wPRKrDMuc3fUB26kZFV92xd9kFFb4MJYWpump",
    0.072,
-   5.5,
+   6.6,
    ""
   ],
   [
    "Hackoon",
    "81awyBc8N8XJUYHdvuC7yd5r62amtvvnEWfyCBRApump",
    0.071,
-   2.6,
+   3.7,
    ""
   ],
   [
    "COMPROMICED",
    "H6ydd1HqNwK8GbQp6AWsvkSMBVAkbcRv8bHiF6zVpump",
    0.071,
-   2.4,
+   3.5,
    ""
   ],
   [
    "LAPTOP",
    "5t25D9NfP3u5nWAE6igj3UUh2HaJ9J6EFjqBPVsopump",
    0.048,
-   6.8,
+   7.9,
    ""
-  ],
-  [
-   "Tally",
-   "57q4pWRPwgpRaMyvsJHh5kmy9VyknsuafRgomYnspump",
-   0.045,
-   4.8,
-   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
