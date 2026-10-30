@@ -6582,83 +6582,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:19:18",
+   "2026-10-29T19:20:15",
    32.58
   ]
  ],
- "cycles": 2445,
+ "cycles": 2446,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.4822,
- "watching": 241,
+ "sol_usd": 94.5378,
+ "watching": 225,
  "near": [
   [
    "Gizmo",
    "5p9KRNXAqY9M9LmhczwpfwUTZY5GsfmEcZrVP4kCpump",
-   0.402,
-   2.5,
+   0.436,
+   3.4,
    ""
-  ],
-  [
-   "DARKTRUMP",
-   "GrtDft5Asqojx9bc3kPz7T9MMXRGgm8jayVsweVipump",
-   0.295,
-   2.4,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "OZVAG",
    "3FCUPNnur4cjQ8R4oQM1g1N69oaeCec8AxsoxxMdpump",
    0.143,
-   8.7,
+   9.6,
    "top5_hold_most=83%"
   ],
   [
-   "EVERYTHING",
-   "H1pnp2hTgaVB4wbih6WrqYDhZEKBKg7a69rQExFBpump",
-   0.093,
-   4.8,
-   ""
+   "DARKTRUMP",
+   "91KL2GzA3VbbdZWezN6MiahYknqnegqTMCr5R3bgpump",
+   0.128,
+   2.7,
+   "buyers=9; top5_hold_most=98%"
+  ],
+  [
+   "Blackout",
+   "5NGCqMKowjEK6hSDkb5PMZ341XGQWAtyjdrNCHopump",
+   0.094,
+   2.3,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "OV",
    "4tuAYGXsGNGg2h1TEFzzNSB1SsTC7Ut8fmXQ5s55pump",
    0.073,
-   8.7,
+   9.6,
+   ""
+  ],
+  [
+   "EVERYTHING",
+   "H1pnp2hTgaVB4wbih6WrqYDhZEKBKg7a69rQExFBpump",
+   0.072,
+   5.7,
    ""
   ],
   [
    "$TONY",
    "2SRH1Ja6g21qTvKzHxKKQXRoP4z7Cw8R5VW3JYC9pump",
    0.046,
-   7.5,
+   8.5,
+   ""
+  ],
+  [
+   "VADER",
+   "7xLNsdnGijrZZevi5nGfFEbm4KYe7p7CXMGkuDHLpump",
+   0.043,
+   2.2,
    ""
   ],
   [
    "horny",
    "FrH2yL2MVeZrpFxMYmi9CDQMJPzDtjTVfqzC3S8ypump",
    0.043,
-   2.8,
+   3.8,
    ""
   ],
   [
    "TONY",
    "CCZKHhwLcznV1LQaBLEBJKYVrMwETrrnB5SFDaVEpaid",
    0.029,
-   3.6,
-   ""
-  ],
-  [
-   "HT",
-   "HK72gpv4sCnRau6VmxXHY3BbvyiF1ACMWuMeyZzBpump",
-   0.025,
-   2.1,
-   ""
-  ],
-  [
-   "BLACKINU",
-   "AtH8JtjKzsexkEuExAGqzxu9qNJSKt6H8cmr49nJpump",
-   0.022,
-   6.7,
+   4.5,
    ""
   ]
  ]
