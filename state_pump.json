@@ -7034,83 +7034,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:59:53",
+   "2026-10-30T13:00:51",
    32.58
   ]
  ],
- "cycles": 3504,
+ "cycles": 3505,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.76928971485,
- "watching": 257,
+ "sol_usd": 94.68,
+ "watching": 253,
  "near": [
-  [
-   "1000X",
-   "Bj3wYuVAK9KjCAVikwLF6H6LxARrL1xpXzY4eysApump",
-   0.685,
-   2.4,
-   "bundled_launch=9 extra buys in creation block"
-  ],
   [
    "POOLZ",
    "8iifkN8P7wvJB58XxrsERqY24wWP7TEWWwtee5Kxpump",
-   0.547,
-   2.6,
+   0.614,
+   3.6,
    ""
   ],
   [
    "TITANCOIN",
    "B63c86BJbHfV4WmfLFKWxdeNS2GNtfaAQdyGhkVUpump",
    0.244,
-   3.4,
+   4.4,
    ""
-  ],
-  [
-   "USDF\u200a",
-   "64PB37haYQHFUSJ3rt9GWqAfMiHqBrtCNdg76xtCpump",
-   0.157,
-   9.5,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "MARCE",
    "8R5Cn1iZPX21tTVAPiYv9Wf3ZXprhN5y5nFu3QSDpump",
-   0.129,
-   4.4,
+   0.114,
+   5.4,
    "buyers=7; top5_hold_most=97%"
+  ],
+  [
+   "MCGA",
+   "Aw2UWZ9SBsi7eWzSbvmEeFXtP6kf3Qyfg8fMWAZmpump",
+   0.114,
+   3.4,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "PS",
    "3PxdNBUxkpVeFCLq2EpbzMT78JfFqdzN5L1FBaorpump",
    0.112,
-   2.4,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "MCGA",
-   "Aw2UWZ9SBsi7eWzSbvmEeFXtP6kf3Qyfg8fMWAZmpump",
-   0.103,
-   2.5,
-   "buyers=2; top5_hold_most=100%"
+   3.4,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "CREATOR",
    "8ToaJjCgWtSs9NpYLdKunxTZ42pzgoHGLkJ6CfJxpump",
    0.07,
-   2.9,
+   3.8,
    ""
-  ],
-  [
-   "W0P1",
-   "7W1csnQcMk7HUmVzSrKxfyHCFpmVByW5JXBhWGK8pump",
-   0.067,
-   9.1,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "SWORD",
    "C5ep1iZ3gtXzMQ2TZgD5S4LaY4LgVdB85tu9Qb2FsVpc",
-   0.059,
-   8.9,
+   0.038,
+   9.8,
+   ""
+  ],
+  [
+   "TITANCOIN",
+   "6hA19MV2onrpEruRMAz6XwukEDjRhpAWwVdcBgNGpump",
+   0.024,
+   4.1,
+   ""
+  ],
+  [
+   "PUMPE",
+   "27M8de5SX1nqRdUyf1sc1SBBdH8Gomzf6hz67B2Npump",
+   0.021,
+   6.6,
+   ""
+  ],
+  [
+   "C.A.P.",
+   "5R9hgi3229Ycm2XgCZ8ckDvCp4sRtaRMpfd55vw2pump",
+   0.021,
+   6.8,
    ""
   ]
  ]
