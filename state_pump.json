@@ -6758,84 +6758,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:13:46",
+   "2026-10-30T02:14:49",
    32.58
   ]
  ],
- "cycles": 2859,
+ "cycles": 2860,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.002141996,
- "watching": 185,
+ "sol_usd": 97.09,
+ "watching": 180,
  "near": [
   [
    "TraderTraito",
    "ECcrvdwqWZtbozG9GJJaJ8hnaB4ZXNLtmyCHcC3mpump",
-   0.835,
-   3.4,
+   0.824,
+   4.4,
    ""
   ],
   [
-   "DUNE",
-   "EfdayRtfkieK8Umm6KM6vBxxeMX1nhwTox8vjPezpump",
-   0.265,
-   2.3,
-   "top5_hold_most=87%"
+   "$10B",
+   "8n2gFoN1hbpk5GneH92u9grDRNfb3d45FDUMN9yCpump",
+   0.232,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "HYPERBOOB",
+   "AMPKDmvZh4MUhbeChRGXH6msuesdYQHjkpvE8Nbdpump",
+   0.22,
+   2.8,
+   "serial_creator=13 launches/24h"
   ],
   [
    "RIPINU",
    "6QQeKjHjs8SbvmZBAhHc6dmsego3AKHQwEwna9BHpump",
    0.172,
-   2.4,
+   3.4,
    ""
+  ],
+  [
+   "PUMPBLOX",
+   "FYjhV2CGsZB4aw6WZn9ThhyQB2KMRJRDdHXiQy3Wpump",
+   0.163,
+   2.3,
+   "buyers=8; top5_hold_most=99%"
   ],
   [
    "HPRIVACY",
    "Ef5YrqZuo96PYwpXvi18itJ11ZoaBo2PcuVzBVNmpump",
-   0.157,
-   3.9,
-   "buyers=2; top5_hold_most=100%"
+   0.161,
+   5.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
-   "FRUIT",
-   "Dtf7cauHf8t8WWkVjZwwCGLWEiqRj3BHaMwoasJApump",
-   0.116,
-   9.3,
-   "buyers=7; top5_hold_most=96%"
+   "V2RAY",
+   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
+   0.154,
+   9.8,
+   "buyers=7; top5_hold_most=90%"
+  ],
+  [
+   "PAIDSCR",
+   "672sMAoNsGUri52jZaxFz8sEMYHxp5GQp1SXB2Zapump",
+   0.112,
+   2.2,
+   "buyers=6; top5_hold_most=98%"
   ],
   [
    "KIM",
    "AmvK1qacWW6utbfQBTApcgZHpe1vVv6BtitsQPx4pump",
    0.075,
-   8.1,
+   9.2,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "PULLA",
-   "9eiPqE3f58MeG3S6Ug6pFmAG9JkjcCgfeocWEYqipump",
-   0.074,
-   8.7,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "GM",
-   "4nkYype3nufFQSPFZ7sBtHprgc5KUZtLMX5cxU8Zpump",
-   0.071,
-   2.3,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "V2RAY",
-   "D1jCw2LhCvmzBvZ7K8jEVzUG9zpSfqidgywVH8Hwpump",
-   0.038,
-   8.8,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Zero-Day",
-   "3GcB8bzKc14s3kz4irQsyv1L9BZvtgD4nmnhLBpYpump",
-   0.03,
-   6.4,
-   "top5_hold_most=92%"
+   "BULLCAT",
+   "3VAEQsNooA1r37tm3TCMUTbKfzvZ7Y335CKykSEbpump",
+   0.022,
+   5.1,
+   ""
   ]
  ]
 }
