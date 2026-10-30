@@ -6718,83 +6718,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:45:46",
+   "2026-10-30T00:46:46",
    32.58
   ]
  ],
- "cycles": 2771,
+ "cycles": 2772,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.23,
- "watching": 120,
+ "sol_usd": 97.38,
+ "watching": 126,
  "near": [
   [
    "USERLESS",
    "CFS56tASdo9fyCmbwxE9LfJYMFfQ5xoFJE12UorGpump",
-   0.787,
-   8.0,
+   0.743,
+   9.0,
    ""
+  ],
+  [
+   "OPSEC",
+   "5tND2xhbEUw1yfPeNMTv69e17XDb6tKkgHjfz8Zopump",
+   0.316,
+   2.0,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "\uadf8\ub85d",
+   "ALKck9zyJDHRQFrmfEWWRnVeKPRj3KzqkXGmzDszpump",
+   0.177,
+   2.2,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "$SILO",
    "8CVr9DVREFRsxkCCo4BKxnvRYBH33hqSJNTZYN4Xpump",
-   0.14,
-   5.3,
+   0.162,
+   6.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "PHYPER",
-   "3FNzorJM4nA4t8srDHY35M8tTxdNq9Vz1Rc1LoZ3pump",
-   0.139,
-   9.0,
-   "buyers=8; top5_hold_most=93%"
+   "Vivi",
+   "i36TT1xw4gAo4yHXSX99tyHibh1KngKyuEV8aSapump",
+   0.096,
+   2.9,
+   ""
   ],
   [
    "VLV",
    "3dxnj6o39txPENd3KpmsKnRiqLNscuan6W2ZNsJSpump",
    0.05,
-   5.1,
+   6.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "laptop",
    "8kNw3aqSd2m5hzz9AQVVW2L85GgKg6C4VzjT9CHzpump",
    0.03,
-   2.5,
+   3.5,
    ""
   ],
   [
    "YUNG69",
    "3PbJkCYpNeAcFVrp9GX53CkRQ7z3qeZCTtJyemMxpump",
-   0.026,
-   8.3,
+   0.025,
+   9.3,
    "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "BNDOWN",
-   "3v2e9EBP7LdLb4SR3GtU5z1nbCoZtApZ3anJtMeApump",
-   0.024,
-   4.8,
-   ""
   ],
   [
    "MarsCoin",
    "9Rw3eQJdZLmXNKzawfB9cUq4HxRW72MwKfLEyFF4pump",
    0.023,
-   3.1,
+   4.1,
    ""
   ],
   [
    "ZRO",
    "BJpMZAdvJnKxsyi8ogfJQ7ayjgqfEdVGebD4vrxopump",
    0.022,
-   4.6,
-   ""
-  ],
-  [
-   "trunoest",
-   "DyUgJt4sgRPLhAveqTrVU6CiM4mpG7vKJY9Ahozfpump",
-   0.021,
-   9.5,
+   5.6,
    ""
   ]
  ]
