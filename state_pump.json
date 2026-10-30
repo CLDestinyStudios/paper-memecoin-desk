@@ -6890,84 +6890,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:23:13",
+   "2026-10-30T07:24:47",
    32.58
   ]
  ],
- "cycles": 3168,
+ "cycles": 3169,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.6029086911,
- "watching": 132,
+ "sol_usd": 94.39872029125,
+ "watching": 126,
  "near": [
+  [
+   "SAFU",
+   "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump",
+   1.0,
+   3.9,
+   "graduated"
+  ],
+  [
+   "Akasha",
+   "3ZMHfEEtnhrYegjPwLYbygqpFRSqVoCX9UQ73Sgwpump",
+   0.865,
+   3.2,
+   ""
+  ],
   [
    "VPAD",
    "8kXBLHru6MJFBSifePFckNwU4qH3afnQtfmTo1zhpump",
-   0.636,
-   4.7,
+   0.63,
+   6.3,
    ""
   ],
   [
    "PREDICT",
    "7hqd3Yryg4hCChJJD9QvP2ZA6YaUhMdyjUgi6m1zpump",
-   0.34,
-   2.6,
+   0.442,
+   4.1,
    ""
   ],
   [
-   "SCARY",
-   "6RwTKyEPFwKwnxb1dMjJgNhB3sBiJAUTKtUDEpsXpump",
-   0.206,
-   9.3,
+   "Trader",
+   "75LF1thyiLNmPn18inSeYccb7HSeZKkFgNcfkPe9pump",
+   0.116,
+   2.7,
    ""
   ],
   [
-   "MYCO",
-   "DbTGZ5G4NJJ3zkGZQSZZbGgCxr6pNRoTPtNjnq4bpump",
-   0.173,
-   4.6,
-   "buyers=8"
-  ],
-  [
-   "PUMP",
-   "6pHqj9CtgvPdHuwqh4nfTB1PmQnxAK334Y93jaqCpump",
-   0.136,
-   2.6,
-   "serial_creator=15 launches/24h"
-  ],
-  [
-   "\u20ac",
-   "4u9oAAERTtWoLyNWC4oNu5Ny271U5gsqMsvYyQAFpump",
-   0.079,
-   5.2,
+   "SSZN",
+   "gszrvmQrM7BBTGHhiKeB9M8sc4YBo3qcn3SbXskpump",
+   0.082,
+   3.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "PORY",
-   "Dbj5QREVwkNkM9Y9vSGuRJVHvixqzFkUga2CPVhzpump",
-   0.077,
-   8.5,
-   "buyers=3; top5_hold_most=100%"
+   "Heyppepe",
+   "AmS3CTPtDWJgGck1k13XEFauByysSU6K5abS69Yspump",
+   0.075,
+   4.6,
+   "buyers=9; top5_hold_most=97%"
   ],
   [
    "CLAUDE",
    "7w3FWNU6XvWKCvv2D4FoFv76J5gxLMxm6iWB7nE4pump",
    0.072,
-   2.3,
+   3.8,
    ""
+  ],
+  [
+   "DONT SELL",
+   "FYyx7qJeF4aYzWGVyFhRJ2psWhp7CfU1XMKeCDQhpump",
+   0.059,
+   8.4,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "CURSETOBER",
    "62vEVQAiosady5AvDzUHErCyvnxBwYAsBbbUMhvupump",
    0.058,
-   2.5,
+   4.1,
    ""
-  ],
-  [
-   "Heyppepe",
-   "AmS3CTPtDWJgGck1k13XEFauByysSU6K5abS69Yspump",
-   0.058,
-   3.0,
-   "top5_hold_most=96%"
   ]
  ]
 }
