@@ -6886,84 +6886,84 @@
    32.58
   ],
   [
-   "2026-10-30T07:18:04",
+   "2026-10-30T07:19:04",
    32.58
   ]
  ],
- "cycles": 3163,
+ "cycles": 3164,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.32,
- "watching": 158,
+ "sol_usd": 94.33999999999999,
+ "watching": 154,
  "near": [
   [
    "CLAUDE",
    "5EDoC7ezycxYAmzeG8VD1mpBwPgmQLka3iPE5oMzpump",
-   0.971,
-   8.9,
-   ""
+   1.0,
+   9.9,
+   "graduated"
   ],
   [
    "SCARY",
    "B9hSyFKRBtgqJ15G1FYCPk8CLoiTaubPQUzfCqwRpump",
-   0.916,
-   2.1,
+   0.967,
+   3.1,
    ""
   ],
   [
    "ween",
    "6hGYexNbfSy5UQjQAAetQpDouhkC9FP7ZgBmx8Hfpump",
-   0.844,
-   5.6,
+   0.865,
+   6.6,
    ""
   ],
   [
-   "HYPEBOOBS",
-   "5ekV2cj1Zb7RntP6vjcENc1iPYg3664FXPsva4Jvpump",
-   0.626,
-   2.5,
-   "creator=42.6%; top10=47.9%; top5_hold_most=94%; bundled_launch=3 extra buys in creation block"
+   "IP",
+   "52JVEvXTpxp3oT64a9DDdvLz7MEHPRw6PWYUJwYBpump",
+   0.309,
+   2.4,
+   "serial_creator=10 launches/24h"
   ],
   [
    "SCARY",
    "6RwTKyEPFwKwnxb1dMjJgNhB3sBiJAUTKtUDEpsXpump",
-   0.177,
-   4.2,
-   ""
-  ],
-  [
-   "OSANPO",
-   "3oitpiZaBrgeCPkSbWChMZZid1ypFWM5rpoFVALQMeWA",
-   0.099,
-   5.3,
-   ""
-  ],
-  [
-   "LLM",
-   "EdRTJsS7GMQmT8kcQV1yJTL4TxdbG4FMcoZnfRWtpump",
-   0.083,
-   4.8,
+   0.16,
+   5.2,
    ""
   ],
   [
    "PORY",
    "Dbj5QREVwkNkM9Y9vSGuRJVHvixqzFkUga2CPVhzpump",
-   0.076,
-   3.4,
-   "buyers=2; top5_hold_most=100%"
+   0.077,
+   4.4,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "KABOSU",
+   "FYbvLivQTQNzX2t8mqyiEq45mHAGC1HxnF5tH1Wzpump",
+   0.064,
+   5.0,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Duckie",
    "867GsHmJpCoHb25uq43emW1A9YXxpjESc87FZiQMpump",
    0.064,
-   5.0,
+   6.0,
    ""
   ],
   [
-   "KABOSU",
-   "FYbvLivQTQNzX2t8mqyiEq45mHAGC1HxnF5tH1Wzpump",
-   0.063,
-   4.0,
+   "DONT SELL",
+   "FYyx7qJeF4aYzWGVyFhRJ2psWhp7CfU1XMKeCDQhpump",
+   0.056,
+   2.7,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Noel 2026",
+   "7WFV6maBqbeCRQprSB6dG3giUW5ZK935QKcbjc1gpump",
+   0.04,
+   9.6,
+   ""
   ]
  ]
 }
