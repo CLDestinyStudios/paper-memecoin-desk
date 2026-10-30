@@ -6822,83 +6822,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:43:45",
+   "2026-10-30T04:44:45",
    32.58
   ]
  ],
- "cycles": 3009,
+ "cycles": 3010,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.5697,
- "watching": 150,
+ "sol_usd": 96.61813490554998,
+ "watching": 141,
  "near": [
   [
-   "A127",
-   "3Ybr2EamdmYPMpLdjnJz3WuC2pztUxYC17qG3Xwvpump",
-   0.413,
+   "PUMPKIN",
+   "7UASu6wS27pw8FJxkw7k1SLSzEkapE68YEA3UFSFpump",
+   0.109,
    2.2,
-   "bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "TVC",
-   "GY3BWHAe21CmpWq5P4EXkLqHofMFxh9zmBQvyKxApump",
-   0.273,
-   2.9,
-   "bundled_launch=6 extra buys in creation block"
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "fishkie",
    "E4jbLw1dTkomLQnaLKUqCC9BD3VarBEXkdGMZa3jpump",
    0.084,
-   3.1,
+   4.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "hedge",
    "Fqkz5seg8vfeeofiYXEs2Bmh3NpxGCh4QvTsokAspump",
-   0.075,
-   5.1,
+   0.07,
+   6.1,
    ""
-  ],
-  [
-   "OAEITU",
-   "8LWEQdf6A5t9WbZW8RoWVFrhAADbQxZ1zKr1E1Mdpump",
-   0.072,
-   4.0,
-   ""
-  ],
-  [
-   "Squeeze",
-   "4B984hJrGTvAE5SyWdNBePeqGRRNkzk9vfXVD8zPeWC6",
-   0.064,
-   9.2,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "IMU",
    "H4J6PG1qQxEyZfLEKB95rhRy8NL6cJxjiJpEkRVypump",
    0.052,
-   3.2,
+   4.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Fawn",
    "F5DsjNXvKtkiixfw2JD6cDtMpXvp7fpFeAfDV8aC6VJ3",
    0.043,
-   5.4,
+   6.4,
    ""
   ],
   [
    "$MERA",
    "74Fsfkoy4j8kzdaWa1JHR23pYzVyVbtujdC1Hmoxpump",
-   0.027,
-   5.1,
+   0.028,
+   6.1,
    ""
   ],
   [
    "KJYEE",
    "6LgJEXXXhh38sCMCyUqq5DxdodSNQssYunwKFdwppump",
    0.027,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "FFM",
+   "mScFBBMkWv1tm2phA7BWcFR6eqznF4UhD2SF7topump",
+   0.024,
+   5.3,
+   ""
+  ],
+  [
+   "A127",
+   "EW4FhBh4yPyDJT32ti1n4wmUDMcGiDMGygev3ENupump",
+   0.021,
+   2.5,
+   ""
+  ],
+  [
+   "BOBO",
+   "EPikkM1wosvQqeYgqFnDh759ofGvhFSYnwNdPgqMpump",
+   0.02,
+   3.5,
    ""
   ]
  ]
