@@ -6812,82 +6812,86 @@
   [
    "2026-10-30T04:20:46",
    32.58
+  ],
+  [
+   "2026-10-30T04:21:47",
+   32.58
   ]
  ],
- "cycles": 2986,
+ "cycles": 2987,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.75999999999999,
- "watching": 148,
+ "sol_usd": 96.84909065475001,
+ "watching": 152,
  "near": [
   [
    "Kimmie",
    "BgokLeuxgnagsWScBvP9hV1EpukDXbxh8zQaBBYLpump",
-   0.586,
-   3.4,
-   ""
-  ],
-  [
-   "Tony",
-   "AZYVH4BsmZ4awh4wo3W3bfscmpGPNcPAjSdWYJtWpump",
-   0.372,
-   9.2,
-   ""
+   0.681,
+   4.4,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "DAEMON",
    "3PP5yEBZvULffrQk5MavRDJDXfbzJp1EBBqxYTCDpump",
    0.239,
-   7.6,
+   8.6,
    "top5_hold_most=86%"
+  ],
+  [
+   "Hype",
+   "GFgZcuaPi2xMGmCjabnSYv4rx4ZV5wtvGjbRFGNYpump",
+   0.196,
+   2.2,
+   "top5_hold_most=87%"
   ],
   [
    "ROPAD",
    "HVGTT9nRcUQifqSH8GdAPaiYy3QEu6Yd4VzbqPi6sqdy",
-   0.137,
-   5.6,
+   0.127,
+   6.6,
    "top5_hold_most=83%"
   ],
   [
    "ESQUIVO",
    "K9NHtKhnuYkd99GB1j4yy94sVnqXutBcW3xv8ubpump",
    0.12,
-   2.3,
+   3.3,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "    $DIOR",
    "DfZUbHSdp9WRKXHqHGuSinccwXsTFad2WhS3brLYpump",
-   0.105,
-   3.8,
-   "buyers=5; top5_hold_most=100%"
+   0.098,
+   4.8,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "Kim",
+   "5ysPcWZ5sWGDMJQ38fb2Nr4ZfyEikjZM3oq4LG6dpump",
+   0.087,
+   2.3,
+   ""
   ],
   [
    "FFM",
    "7976fP7Mq7TCW7vLB5eW3ai7Z2uMfwBYGncDRmTLRpCM",
    0.083,
-   6.4,
-   ""
+   7.4,
+   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "win93",
    "EuZLaR33g3s8y9SH2ofkeBAjbh9Usf5fGzk9EUfVpump",
    0.08,
-   5.8,
+   6.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "SONNET",
-   "9PDtnPz6rrjjSPvfuYv42wzf3z5hFENPb6H5ZVpxpump",
-   0.077,
-   2.3,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "dqw",
-   "HMNrts3dg6dtqRCxMtGHruRvANsBzuVMFd6nyW4pump",
-   0.054,
-   4.9,
-   "buyers=3; top5_hold_most=100%"
+   "Kimmie",
+   "B2UXRoBwYbF8ppr2AFMtAWDQHPiBvyMUupXH7VTApump",
+   0.063,
+   3.6,
+   ""
   ]
  ]
 }
