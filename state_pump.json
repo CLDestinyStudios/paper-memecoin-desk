@@ -6828,81 +6828,85 @@
   [
    "2026-10-30T04:57:51",
    32.58
+  ],
+  [
+   "2026-10-30T04:58:58",
+   32.58
   ]
  ],
- "cycles": 3023,
+ "cycles": 3024,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.39999999999999,
- "watching": 121,
+ "sol_usd": 96.36357942635,
+ "watching": 119,
  "near": [
   [
-   "AMIR",
-   "HFxXGGqaofa1nkwYEziebbt3sxwrHsHDX1RwrcuUpump",
-   0.334,
-   2.2,
-   "bundled_launch=5 extra buys in creation block"
+   "FlipFlop",
+   "5QwmgJrvMnSd1KDMznVW4JqhrVmtEB4M4YmguNu9pump",
+   0.615,
+   3.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "Boardroom",
    "7EKGeNLUmydC3HbUJgCSrvibLKKkJ58WnSbVXYCjpump",
-   0.212,
-   5.4,
-   "top5_hold_most=89%"
-  ],
-  [
-   "BUGATTI",
-   "Axh4ppvk62SVLCmNgGnCA8xHGCm7bFsVD1GD6Gzepump",
-   0.21,
-   2.9,
-   "serial_creator=10 launches/24h"
+   0.182,
+   6.6,
+   "top5_hold_most=95%"
   ],
   [
    "Chupacabra",
    "DMrfPxAf2jYgGx3c2PXgp8rsaA841YuFZJD52YSjX1Vs",
-   0.176,
-   4.1,
+   0.175,
+   5.2,
+   ""
+  ],
+  [
+   "BANG",
+   "52KeFUNCE8fUgDLPpSi1omrxoHz3pcPFaU6kiQKHpump",
+   0.144,
+   2.3,
+   "buyers=9"
+  ],
+  [
+   "HYDOG",
+   "Dcjay9gbzyXA2jKRLuwfZsebCexTsHzmXcARdqmyPy9H",
+   0.085,
+   2.2,
+   ""
+  ],
+  [
+   "CVE",
+   "D8N4uaRhNVwwZMYqXSuThRxLd2xsu1tVGeGjt6yvpump",
+   0.084,
+   2.6,
+   "top5_hold_most=99%"
+  ],
+  [
+   "DOGE",
+   "ARQzqMCtGwFtc25JNyp5vRrRkevzuBzNwDua1q3wpump",
+   0.081,
+   3.1,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "MWEZI",
+   "9wiXf5UodUbVxYJJkQBB5o9eFMTYNWUwYe6uyypCAZeW",
+   0.061,
+   3.2,
    ""
   ],
   [
    "hacker",
    "Gjxcf8AWj9J6UWTHnhEFLxNoYUcL6XKcesWvWUKvpump",
    0.044,
-   2.5,
+   3.6,
    ""
   ],
   [
    "TEST",
    "5Agqt98D1Pyx6As7TrFe6npxbvDHWfcrLX7vKMQgKJJu",
    0.042,
-   3.5,
-   ""
-  ],
-  [
-   "MWEZI",
-   "78t44kXgn87otCMtEqVzFusBKrfWsAXeMiyeXFyApump",
-   0.038,
-   2.6,
-   ""
-  ],
-  [
-   "KRUMO",
-   "H1nizmoLLjgVrgGmupYD9eDob9LsekvViVBGy6Aupump",
-   0.038,
-   4.8,
-   ""
-  ],
-  [
-   "PEET",
-   "CPGDcivn6cpY6a5kzAS8udNS2oA5BE4NHKDsHdmnpump",
-   0.036,
-   8.8,
-   ""
-  ],
-  [
-   "CSI",
-   "23WmMi9JZNuoeUDEg2g7sY47xcNMCocpRAS7iAHBpump",
-   0.032,
-   7.9,
+   4.7,
    ""
   ]
  ]
