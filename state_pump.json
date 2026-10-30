@@ -6978,84 +6978,84 @@
    32.58
   ],
   [
-   "2026-10-30T10:51:57",
+   "2026-10-30T10:52:54",
    32.58
   ]
  ],
- "cycles": 3376,
+ "cycles": 3377,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.23759888655,
- "watching": 320,
+ "sol_usd": 94.16150518105,
+ "watching": 315,
  "near": [
   [
    "CTRL",
    "5UpEwPx3n9tek1fCzgeondHSCKnyQwVRYue4puY7pump",
-   0.93,
-   6.6,
+   0.975,
+   7.5,
    ""
-  ],
-  [
-   "UNSEEN",
-   "6BDLXb8iApyWxzNwAA6itx9kwLs7C1R9HWMzMZSDpump",
-   0.638,
-   2.2,
-   "bundled_launch=6 extra buys in creation block"
   ],
   [
    "HYPER",
    "HrikLwEACkBhp12RnUYE3eAbBgh5kTAKKPTxVs1Nhype",
-   0.606,
-   3.7,
+   0.598,
+   4.7,
    ""
+  ],
+  [
+   "kutty",
+   "9adxFnEd1jYS1gmHVNfuxR3vFZ3NKhHQSexYz5h9pump",
+   0.59,
+   2.3,
+   "serial_creator=10 launches/24h"
   ],
   [
    "TYGR",
    "675p4dqh9gHTVtxoWK1PmM8ynGhWyZp1PwGyBWavzxZ1",
-   0.333,
-   5.9,
-   ""
-  ],
-  [
-   "BND",
-   "2rG2mvkM8ZvAt2y9rnKeM9j4ZacYBcbfzzkmXyB4pump",
-   0.28,
-   9.7,
+   0.256,
+   6.9,
    ""
   ],
   [
    "Rockhopper",
    "4e5Py66p68PzvVyc976JMkHxKaF4TFhKRGizNxoCpump",
-   0.226,
-   5.2,
-   ""
-  ],
-  [
-   "STARLIGHT",
-   "9Ws1UHwKUjyqKpXKTXrUsoHr5Grerc5Fc9uZAo3ppump",
-   0.212,
-   10.1,
+   0.207,
+   6.2,
    ""
   ],
   [
    "FINJA",
    "AwCtNPn6UU9NbkPWD6KXgeDuKNRSYyF2wPMoDkGYpump",
-   0.145,
-   6.3,
+   0.159,
+   7.2,
    "buyers=8; top5_hold_most=96%"
-  ],
-  [
-   "GMO",
-   "57X31FMrWC1YnicMWTecfZhDSAGHtwCJRbyejHDCpump",
-   0.128,
-   3.8,
-   ""
   ],
   [
    "FABIANO",
    "A5BgFtbboKLCppTAhDXv1eUZiEBCkWJi4wgChZ5spump",
    0.126,
-   2.8,
+   3.8,
    "buyers=7; top5_hold_most=92%"
+  ],
+  [
+   "WIZCAT",
+   "5Xyh2UgQQuiefCGxfUrgK1Az8EV3uGLajZf3jF8vpump",
+   0.117,
+   4.9,
+   "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "EMPTYV",
+   "CKnP2uE9VF3XYQpoPcK8sywerQSeKcaf7gh6oiGTpump",
+   0.108,
+   2.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "VIRUS",
+   "GRom54wuXk87ZuM9dmFgHip54ivSHMGiU86oSzW4pump",
+   0.078,
+   4.9,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
