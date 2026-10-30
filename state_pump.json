@@ -6646,83 +6646,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:52:19",
+   "2026-10-29T21:53:20",
    32.58
   ]
  ],
- "cycles": 2598,
+ "cycles": 2599,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.0772366304,
+ "sol_usd": 97.17685,
  "watching": 142,
  "near": [
   [
-   "DAEMON",
-   "8WwSuDW1oTqXKWGy2GivbCNQrgh4KhZ83r514XdLpump",
-   0.439,
-   2.1,
-   "bundled_launch=3 extra buys in creation block"
+   "PJAM",
+   "3vKcFE3UHAkkFsKXZg9Rw9sdfum9yjZr8cbXzu8Wpump",
+   0.204,
+   2.7,
+   "buyers=8; top5_hold_most=97%"
+  ],
+  [
+   "POKE",
+   "HgVczJ2EUG3kgcMTwnTB7SdpfZVqgKjJECn3QzBFpump",
+   0.201,
+   3.0,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "TELEPATHY",
    "2VMh4LRhhZqvHbkYwjo5JRcUSXcZD66YAvCjhGQfpump",
-   0.22,
-   2.6,
+   0.19,
+   3.6,
    ""
   ],
   [
    "HYPRA",
    "7XRz5hzv7dTeDo9nYQ4c8wnWSsTsx45GiJja8yPvpump",
-   0.173,
-   7.2,
+   0.172,
+   8.2,
    ""
   ],
   [
    "TITAN",
    "4KC7v81DAe55h3xSww1Bu1NnLYWC8cNQEwFRhF2Dpump",
    0.112,
-   3.5,
+   4.5,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "LOOOOOONG",
+   "9TCLw9iUf5K8B1dDZuDpncFeYuBhX72XPjCp8PPbpump",
+   0.088,
+   2.2,
+   ""
   ],
   [
    "CUCK",
    "HzcXD783QQQfsLtKeoAxpEyLSXBUfRovQRCodK84pump",
    0.074,
-   2.5,
+   3.5,
    "buyers=7; top5_hold_most=99%"
-  ],
-  [
-   "TraderTraito",
-   "6Xdoou8g5GtE82a6KCdmhVBADqdSNm2487pFno1Jpump",
-   0.065,
-   5.1,
-   ""
   ],
   [
    "BHT",
    "9QGcC4hpV4cZNhdgzgUDu3uRk9KQVpQN8EtC7egwpump",
    0.063,
-   7.4,
+   8.4,
    "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "MOUSEBRAIN",
-   "F3hxQ8MzzLJ6xFPz5nWVw29nq6AUuw37rd8Fn4evpump",
-   0.059,
-   3.3,
-   ""
-  ],
-  [
-   "LONGHYPE",
-   "7vPXcmKFi7VfMrVNf8MYds7cczSvfXWDx1h1KGZmpump",
-   0.045,
-   6.8,
-   "buyers=8; top5_hold_most=99%"
   ],
   [
    "TraderTrai",
    "4cuxcLdFq2ss3qCDMALNtFevVHaGYBG2g2xiCMQYpump",
    0.043,
-   7.3,
+   8.3,
+   ""
+  ],
+  [
+   "TraderTraito",
+   "6Xdoou8g5GtE82a6KCdmhVBADqdSNm2487pFno1Jpump",
+   0.043,
+   6.1,
    ""
   ]
  ]
