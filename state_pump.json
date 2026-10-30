@@ -6846,83 +6846,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:41:04",
+   "2026-10-30T05:42:04",
    32.58
   ]
  ],
- "cycles": 3066,
+ "cycles": 3067,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.43229246005001,
- "watching": 166,
+ "sol_usd": 96.45999999999998,
+ "watching": 176,
  "near": [
   [
    "SCRIPT",
    "7S3kXqqXq5unAfVA7NuMK6Xf14XrxeZkgaWy6Bpbpump",
-   0.932,
-   2.5,
+   0.975,
+   3.5,
    ""
   ],
   [
-   "PeePee",
-   "EgbkkxwdkCTEfNGQjRixqbK9hZp2wLncUmVUBT6upump",
-   0.667,
-   9.0,
-   "creator=29.1%"
+   "Claude",
+   "FXJDm5sMWuhtSvTTtGDPF3A9vFiMiba5DNRFsyzZpump",
+   0.936,
+   2.9,
+   ""
+  ],
+  [
+   "FBinance",
+   "9ZiFp1yaKdaPi82GrVqLhhG6kd5R7uWArLNxsA8rpump",
+   0.572,
+   2.1,
+   "creator=40.7%; top10=45.0%; top5_hold_most=98%"
+  ],
+  [
+   "Jesus",
+   "3NjdrijTxHW6Xq7Xj81XTYwPESemF6g9HwDUyrhtQpr9",
+   0.486,
+   2.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "SM",
+   "ETP5oG84VesVDQgYRaW8EicsN5mcBiMZis7oPpfipump",
+   0.28,
+   8.7,
+   ""
   ],
   [
    "PAHOL",
    "5Pd1nGv4kB4CbqzuTcL1vdCL9ivhWd1SBDMFdtM6pump",
    0.268,
-   7.7,
+   8.7,
    "top5_hold_most=86%"
   ],
   [
-   "greyseal",
-   "bFq9Wue7E2eKq57YDRimx1frzhth7AqD7hXpL5Ypump",
-   0.243,
-   2.7,
-   "serial_creator=7 launches/24h"
+   "NOLA",
+   "27LJ146GVhzz8sP7y6HShY6gQ5xa1ECW3zxoCeyNpump",
+   0.149,
+   3.0,
+   "top5_hold_most=83%; bundled_launch=8 extra buys in creation block"
   ],
   [
-   "SM",
-   "ETP5oG84VesVDQgYRaW8EicsN5mcBiMZis7oPpfipump",
-   0.212,
-   7.7,
-   ""
+   "PeePee",
+   "EgbkkxwdkCTEfNGQjRixqbK9hZp2wLncUmVUBT6upump",
+   0.135,
+   10.0,
+   "serial_creator=10 launches/24h"
   ],
   [
    "#DisarmAI",
    "277H8iZqp8ugnaXtaA8SwjCy7ontbsCqG6VcW3YMEUHV",
-   0.178,
-   4.5,
+   0.123,
+   5.5,
    "launch_slot=missing"
   ],
   [
-   "SIX",
-   "FZf6SiHEPxNAha6MhzXaMP5pNAioXpCVDrKZf234XVmn",
-   0.119,
-   9.6,
-   ""
-  ],
-  [
-   "DisarmAI",
-   "AJgempwHbCWKthNuYvQmzs7eUVnFDkD2XjwEqXSqGNgn",
-   0.09,
-   4.3,
-   ""
-  ],
-  [
-   "ACTX",
-   "ESNG7pSUk7eMAxmRphSpGBShMfVfMJsG2yDMfm4hpump",
-   0.064,
-   3.7,
-   ""
-  ],
-  [
-   "HACKER",
-   "8LTL3ySGrJ9nmPe3frbgXyyQ3oXBuhEBastebBHvpump",
-   0.064,
-   3.2,
+   "\ubc15\ubbfc\uc7ac",
+   "H9Ez5KkcFp9JV8UccaHTzz3ytP4qmbgWoRQc1ua4HgEc",
+   0.106,
+   4.9,
    ""
   ]
  ]
