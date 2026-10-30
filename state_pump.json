@@ -7074,83 +7074,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:30:54",
+   "2026-10-30T14:31:51",
    32.58
   ]
  ],
- "cycles": 3595,
+ "cycles": 3596,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.28,
- "watching": 268,
+ "sol_usd": 95.29999999999998,
+ "watching": 265,
  "near": [
+  [
+   "CAKE",
+   "AxF8XiGNptXuX5A9DAmGWNDdHbPhpF2Gxy8vnS1apump",
+   0.951,
+   2.5,
+   ""
+  ],
   [
    "Engine",
    "HZmTw9EUX2c6f4wcDAXhry6LcMpVzB1xYnDYCJvCpump",
-   0.795,
-   2.1,
+   0.861,
+   3.0,
    ""
   ],
   [
    "AG",
    "HuLX75hyQWkhyMSDzgxkPn3xwkhUifMyo7toMYccpump",
    0.263,
-   5.8,
+   6.8,
    "buyers=8; top5_hold_most=98%"
   ],
   [
    "Animals",
    "D68wMzry61bH3CvqwzTW5wFcqSLAZSEdNnh88nT7pump",
-   0.171,
-   3.7,
+   0.143,
+   4.6,
    ""
   ],
   [
    "MANANA",
    "HbU3HZVx7GgqgukPMr1wq9KVwvhaWufQzfUmCyyopump",
    0.126,
-   4.9,
+   5.8,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "#pumptrad",
    "EjZFs6H8jCfw5G1PAU6Qqo126Hqmhx2SYHTGnUZvpump",
    0.126,
-   5.8,
+   6.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "CALLED",
-   "6VQhCnZx71ChqPEqdBbtwVNbK5ZGPMjaXtt23CcBpump",
-   0.125,
-   4.3,
+   "CAKE",
+   "DU7rTCxCqp45PnubnZrhyMcqK3CguqAhU4V1px9kpump",
+   0.096,
+   2.0,
    ""
   ],
   [
    "MIGA",
    "Do5HabL1DoKz4oxEVhE94NbpysESvcCGJvNwtMsBpump",
    0.08,
-   5.2,
+   6.1,
    "top5_hold_most=97%"
   ],
   [
    "GCAT",
    "HG4ojdCHjPSNJdwkGdAgW52qMUoDUx9MYFD4hPE5pump",
    0.064,
-   8.3,
+   9.2,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "SAFE",
-   "9omsAXpoQsxS1YywmJwW8NXn1LQ19zZ3pEVmB9m4pump",
-   0.063,
-   2.4,
-   "buyers=5; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "megga",
    "E7jhmPWViLxs2s1De8dvT6nGRHUR9vqCU7E4hxLApump",
    0.043,
-   2.2,
+   3.2,
    ""
   ]
  ]
