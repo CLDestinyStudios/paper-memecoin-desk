@@ -6872,81 +6872,85 @@
   [
    "2026-10-30T06:41:02",
    32.58
+  ],
+  [
+   "2026-10-30T06:42:07",
+   32.58
   ]
  ],
- "cycles": 3126,
+ "cycles": 3127,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.40193869025,
- "watching": 153,
+ "sol_usd": 95.21876724175002,
+ "watching": 151,
  "near": [
   [
    "Boobies",
    "GNKdAPnN44pmsDm3rU13k6UeS9zCUhtoCk39X31ppump",
-   0.946,
-   3.1,
-   ""
+   1.0,
+   4.2,
+   "graduated"
   ],
   [
    "BNB",
    "FupqKVehFAPpi1y731wBC598LkHRcgkyQHRqo4nHpump",
-   0.885,
-   2.8,
+   0.977,
+   3.9,
+   ""
+  ],
+  [
+   "FBinance",
+   "2uNnNWDTQcBTRSAPwfQTUwnHj4kxm4epbSrsLwHKpump",
+   0.595,
+   2.2,
+   ""
+  ],
+  [
+   "JOB ",
+   "3yKjB22Q2iHFpzdL7aZ3KXbhdSwGzT9KM6GtnvENpump",
+   0.34,
+   2.1,
+   ""
+  ],
+  [
+   "BNB",
+   "F8ofJdib8SAGy12ZcA5eGGvtqzZe8wgB6owJp6Ydpump",
+   0.176,
+   2.9,
    ""
   ],
   [
    "ETC",
    "4VZ2yDwVQnAgvZd5L9jHFWwHHHu5n21oLugQz6r3pump",
    0.157,
-   8.0,
+   9.1,
    ""
   ],
   [
    "GOON",
    "B5vjGJFn8YShXULcPqtRFAS383DD89o9mQTAFfUdpump",
-   0.156,
-   2.4,
+   0.145,
+   3.5,
    ""
   ],
   [
    "SAFU",
    "9qapKgzdQgddKVYsGHW48YEsazpJkKZUzG3LMqf1pump",
    0.091,
-   3.8,
+   4.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BNB",
    "7cGTzYPK2332uYv9Ska3kA18Wo2bCcZJNGmEWXABbVrm",
    0.083,
-   2.1,
+   3.2,
    ""
   ],
   [
    "Suhail",
    "3yHHGSJemhuvC5jGc62UGQwg99FySQ4M33QkgzJ1pump",
    0.072,
-   3.5,
-   ""
-  ],
-  [
-   "Boobies",
-   "GD5aiggyQWBg79gGSWPkZM77aE3F9mto6qEXzJzmpump",
-   0.064,
-   3.8,
-   ""
-  ],
-  [
-   "GAS",
-   "cjdpds4gGXH7HGVnxPipCifsNU6o3bXk8Hh74mJpump",
-   0.06,
-   7.2,
-   ""
-  ],
-  [
-   "Gooner",
-   "61ct5NzF4g8SGhvbSR8htGpKEqGwLXePGgANKzo3pump",
-   0.057,
-   3.6,
+   4.6,
    ""
   ]
  ]
