@@ -6630,84 +6630,84 @@
    32.58
   ],
   [
-   "2026-10-29T21:09:45",
+   "2026-10-29T21:10:51",
    32.58
   ]
  ],
- "cycles": 2555,
+ "cycles": 2556,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.60000000000001,
- "watching": 191,
+ "sol_usd": 96.72005,
+ "watching": 195,
  "near": [
   [
    "MEMO",
    "33C6dzoLhk3Zzkgm6NFsrGnmUVvr2k2BY8ffZLHv635J",
-   0.566,
-   8.8,
+   0.58,
+   9.9,
    ""
+  ],
+  [
+   "TELEPATHY",
+   "BFJQN98TmKKjg1qaToTKe7EugsbaQKY6KSKF5Lq2XV6J",
+   0.21,
+   3.1,
+   "buyers=5; top5_hold_most=100%; launch_slot=missing"
   ],
   [
    "torpad",
    "EgJocFYhfhZxBLce3tj1uEsfuT1kfdZRoMo149AKpump",
-   0.157,
-   2.7,
-   "buyers=5; top5_hold_most=100%; launch_slot=missing"
+   0.189,
+   3.8,
+   "top5_hold_most=83%; launch_slot=missing"
   ],
   [
    "Telepathy",
    "GGrDi1c5pnB3ic1AWBt6zeQkooHpdbU2Ky5a6Qrt1m3W",
    0.148,
-   3.5,
+   4.6,
    ""
   ],
   [
    "PATIENCE",
    "4E1DADTvgQpLpSQV8EuU4qZMiDJqUP6mdp6CQB7yiyiQ",
    0.138,
-   5.9,
+   7.0,
    ""
+  ],
+  [
+   "TITAN",
+   "4165KK6K1kcYBQjV3shK1M4aVeVcgVbSn3a8YmEMpump",
+   0.135,
+   2.8,
+   "buyers=6; top5_hold_most=99%; launch_slot=missing"
   ],
   [
    "TELEPATHY",
    "5QuXdfRk4cp22DXcWgcbB8ESEhAtJamevguQURtppump",
    0.123,
-   3.0,
+   4.1,
    "buyers=1; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "FLEW",
-   "H7EAFaUH9nMBPchYtt4sFcLLsnUx74EbXMdJjHwGpump",
-   0.083,
-   8.4,
-   ""
   ],
   [
    "drained",
    "EFLEgip2UribotYbWySVvsy5jyso66ZZ1ACFurWHpump",
    0.081,
-   6.8,
+   7.9,
+   ""
+  ],
+  [
+   "TITAN",
+   "F43sZLB4Ek9SAS8DJt2sQAJktPPUae1NXkMTvXTepump",
+   0.08,
+   3.1,
    ""
   ],
   [
    "ANSEM",
    "5ym8Yw35fn6Ftqfc7LPDU725armU1JZq6jc7cU2dpump",
    0.073,
-   3.2,
+   4.3,
    "buyers=1; top5_hold_most=100%; launch_slot=missing"
-  ],
-  [
-   "GROUND",
-   "Fr9pfL2uvbWGvEBEFs2M59bAdeekbPPabBpCYH12pump",
-   0.072,
-   4.5,
-   ""
-  ],
-  [
-   "Telepathy",
-   "3NgxZA2f8i1aTWTruuFnLz457PBbikmRaah7Wnskmtft",
-   0.071,
-   3.4,
-   ""
   ]
  ]
 }
