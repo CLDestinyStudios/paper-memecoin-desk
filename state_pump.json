@@ -6570,83 +6570,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:54:15",
+   "2026-10-29T18:55:15",
    32.58
   ]
  ],
- "cycles": 2420,
+ "cycles": 2421,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.77500000000002,
- "watching": 153,
+ "sol_usd": 93.74,
+ "watching": 145,
  "near": [
-  [
-   "LATIC",
-   "FRjoTzDAznAKnJvkbGPbMTR63nGWDDnnrBNzCnYnpump",
-   0.877,
-   3.4,
-   ""
-  ],
-  [
-   "dip",
-   "26YGJdD8xvJNwecd74aTKNQ8WybW8irqhN5qvzocpump",
-   0.725,
-   2.1,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "ZERODAY",
    "AS3C2NBuLq8Nrx5gxgStSAwgXwTts4GroDnvGGuupump",
    0.388,
-   8.1,
+   9.1,
    "buyers=8; creator=18.6%; top5_hold_most=96%"
-  ],
-  [
-   "\u7070\u7280\u725b",
-   "b9Se8ydjz8U71JFVzvQXcRVQjj1CSvNNCd4Mpm2NUcF",
-   0.311,
-   2.6,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "LATIC",
    "3WmeaRVjSWyw8kthfbDbWSDNu1iNQBhq8ueuMAA7pump",
-   0.288,
-   3.8,
-   "buyers=7; top5_hold_most=99%"
+   0.272,
+   4.8,
+   "buyers=6; top5_hold_most=100%"
+  ],
+  [
+   "dip",
+   "Jmd5c5tB1ME4uQsLfzd82ibNmsJG2GevfKNJkRJpump",
+   0.132,
+   2.8,
+   "buyers=6; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "Blackout",
    "4pAxmHmS6Aoaj3xRP9dH2RvEdRKtX9MToiAiuBB1pump",
-   0.13,
-   2.7,
-   "buyers=6; top5_hold_most=98%"
+   0.128,
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Blackout",
    "7g1UPMxAwtBwULg6fXGNSCsn9qVp2tjof77QYefLpump",
-   0.108,
-   3.1,
+   0.107,
+   4.1,
+   ""
+  ],
+  [
+   "LATIC",
+   "FRjoTzDAznAKnJvkbGPbMTR63nGWDDnnrBNzCnYnpump",
+   0.087,
+   4.4,
+   "top5_hold_most=89%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "dca",
+   "HY5ADLbwzQUVqRgwEQC8DgPyoBfEiEjKL8HA997hpump",
+   0.077,
+   2.1,
    ""
   ],
   [
    "GROKBET",
    "EriAhyM5R9qGUusK4G4QWYyYcB88pS3Lh14Wpgrfpump",
    0.043,
-   7.0,
+   8.0,
    "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "nyancat",
-   "2VdBG87e2mMVZK4tWMr2ixyhJpwj65MJ8FGbKV1zpump",
-   0.043,
-   9.4,
-   ""
   ],
   [
    "HODOGE",
    "9n6J1iLKn6YpPtqPbzjQjRwsMzZsNw4Mkjb8p74Epump",
    0.027,
-   4.7,
+   5.7,
+   ""
+  ],
+  [
+   "Hoe",
+   "QDdoj6y426gvHsP7vQULXmopHQrtpSQezXD5YPMpump",
+   0.026,
+   8.2,
    ""
   ]
  ]
