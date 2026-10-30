@@ -6798,84 +6798,84 @@
    32.58
   ],
   [
-   "2026-10-30T03:47:45",
+   "2026-10-30T03:48:47",
    32.58
   ]
  ],
- "cycles": 2953,
+ "cycles": 2954,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.81000000000002,
- "watching": 213,
+ "sol_usd": 96.77656258134998,
+ "watching": 212,
  "near": [
-  [
-   "HUGE",
-   "2Y2BzPy4MmaXbwWRogEdFLVyBXjKZR8VfhHHy8XUpump",
-   0.826,
-   4.4,
-   ""
-  ],
   [
    "DAEMON",
    "2211sKbQxtB84KD6e73ZEKar8vRYpNyqfpg8QX3Tpump",
-   0.762,
-   4.6,
+   0.789,
+   5.6,
    ""
   ],
   [
    "FBinance",
    "8ozbviNRSmeBP8tJyaK92XdrN3ceHqVpDLnP25DRpump",
-   0.601,
-   3.8,
-   "creator=42.0%; top10=47.1%; top5_hold_most=98%"
+   0.611,
+   4.8,
+   "creator=43.3%; top10=48.5%; top5_hold_most=98%"
+  ],
+  [
+   "Qwen",
+   "3JzrMrnhaN4FGJsnkqe4rhvQmERAb7r37kbW6AgXpump",
+   0.437,
+   2.5,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "HUGE",
+   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
+   0.437,
+   7.3,
+   "top5_hold_most=90%"
   ],
   [
    "SBF",
    "H5o27FT5F5t9mfoxKKe1aowtWboEJ7ce8SvFKFkXpump",
-   0.273,
-   9.0,
+   0.27,
+   10.0,
    ""
   ],
   [
    "ATONKY",
    "GwPFjppaHYTwg64dTNC845MUXaH3tckcQmDrZpRYpump",
-   0.252,
-   6.5,
+   0.254,
+   7.5,
    "top5_hold_most=86%"
-  ],
-  [
-   "HUGE",
-   "DWZUjKA3eozMaEzecYa4oo4DYp5kRBxY7q9tL1gniSEV",
-   0.243,
-   6.3,
-   "top5_hold_most=90%"
   ],
   [
    "ke3d",
    "DQtsd9KoEttFoWBEEqRasQkognEJSDT7w7eRQezmpump",
    0.193,
-   5.8,
+   6.8,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "COFFIN",
    "jQPjPrVJYWW4EP64G3viGE8X4sKvQ4TxamVS1a3pump",
    0.167,
-   4.4,
+   5.4,
    "buyers=6; top5_hold_most=95%"
-  ],
-  [
-   "VICE",
-   "7oMNiz9cgs7RLGsUGhaUKEgnFztjQsETbmbBrSJEpump",
-   0.133,
-   9.1,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "SIDE",
    "7XCKCSPn2auKGi3dknXEveWihv9ZbtZ7kBENRmGZpump",
    0.125,
-   3.1,
+   4.1,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "DAEMON",
+   "ESc76WZx8eVT5g9fbF8pYhRE7Ekjm4pEnE1BpjgHpump",
+   0.12,
+   9.1,
+   "top5_hold_most=87%"
   ]
  ]
 }
