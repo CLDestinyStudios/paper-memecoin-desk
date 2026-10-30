@@ -6926,84 +6926,84 @@
    32.58
   ],
   [
-   "2026-10-30T08:48:51",
+   "2026-10-30T08:49:46",
    32.58
   ]
  ],
- "cycles": 3253,
+ "cycles": 3254,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.13999999999999,
- "watching": 268,
+ "sol_usd": 94.36,
+ "watching": 262,
  "near": [
   [
    "survive",
    "ArXQYUmiCLSrvuxzXdKBZ1yVFuYDNz9v2xNVqb4Npump",
-   0.829,
-   2.8,
+   0.821,
+   3.7,
    ""
   ],
   [
    "PUMPPERPS",
    "4fT2wAzKqT1vbHV3EXPjvdYgaa1nHxWBfCTzh3Wopump",
-   0.555,
-   6.2,
+   0.66,
+   7.1,
+   ""
+  ],
+  [
+   "TIMOTHY",
+   "FVyVVRvRrFbxDwYJ5sVEuLC9r22r3Cakvgb2Hve1pump",
+   0.606,
+   2.3,
+   ""
+  ],
+  [
+   "ELON",
+   "65A8rw3Xcpgo27SrH4P7dPcPogPw8qPN4HvQv8Jkpump",
+   0.583,
+   2.4,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "RIPREDDIT",
+   "CUkBwE56ArddAoDhv2ptUohwFWLwBYThbBwVJWzVpump",
+   0.493,
+   3.9,
+   "top5_hold_most=98%"
+  ],
+  [
+   "Honey",
+   "5jk7Wi6DkCDnVRFC5VGP8pv7V2h1m1jmSk2vPummpump",
+   0.377,
+   9.9,
    ""
   ],
   [
    "TIMOTHY",
    "D67RnEuhQut5PSkiyAvu8NFQZzFmSNjBQaiHRKnppump",
-   0.503,
-   5.4,
-   ""
-  ],
-  [
-   "Honey",
-   "5jk7Wi6DkCDnVRFC5VGP8pv7V2h1m1jmSk2vPummpump",
-   0.348,
-   8.9,
-   ""
-  ],
-  [
-   "RIPREDDIT",
-   "CUkBwE56ArddAoDhv2ptUohwFWLwBYThbBwVJWzVpump",
-   0.328,
-   2.9,
-   "top5_hold_most=88%"
-  ],
-  [
-   "survive",
-   "2PiT8jfP7VuSEpSFw4LWtcj2P6488MbVadW3Vmiqpump",
-   0.312,
-   3.3,
-   "launch_slot=missing"
-  ],
-  [
-   "paranoid",
-   "H3Ni9zKDHj2Ric9T924uBSho8QUWXHV9WVkLVMCupump",
-   0.199,
-   3.2,
-   ""
-  ],
-  [
-   "FAGGOTS",
-   "GjrscsZhAvGJPSU9iHKg8w1NpSavwGvpdjvf3HxWpump",
-   0.172,
-   7.7,
+   0.327,
+   6.3,
    ""
   ],
   [
    "survive",
    "5soGoMWHPBotwQbnjraz3wKTi4ukc2xir6W7xtnvi81y",
-   0.126,
-   6.0,
+   0.207,
+   6.9,
    ""
   ],
   [
-   "AI",
-   "APSZ5FUjywy6iWhEAVXo1rmyRhtdfFimQjn2QoRNpump",
-   0.109,
-   4.1,
-   "buyers=9; top5_hold_most=95%"
+   "survive",
+   "2PiT8jfP7VuSEpSFw4LWtcj2P6488MbVadW3Vmiqpump",
+   0.19,
+   4.2,
+   "launch_slot=missing"
+  ],
+  [
+   "FAGGOTS",
+   "GjrscsZhAvGJPSU9iHKg8w1NpSavwGvpdjvf3HxWpump",
+   0.171,
+   8.6,
+   ""
   ]
  ]
 }
