@@ -6598,83 +6598,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:57:16",
+   "2026-10-29T19:58:15",
    32.58
   ]
  ],
- "cycles": 2483,
+ "cycles": 2484,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.21499999999999,
- "watching": 203,
+ "sol_usd": 95.13000000000001,
+ "watching": 213,
  "near": [
   [
    "Tally",
    "CXKBkTZtSuewVBAmxhhBB2cko4fw4Vuq5JP57axxpump",
-   0.421,
-   3.4,
+   0.454,
+   4.4,
    ""
+  ],
+  [
+   "Reverse",
+   "DrsVeXVWNCDQRPU3Ur4Tmo1UDqZLjHmXaAqymnvBpump",
+   0.233,
+   3.0,
+   "buyers=9"
   ],
   [
    "Taurus",
    "HFFGms24kbkzRScZc47qbdiCDusiN2ADbKnrFCXhpump",
    0.227,
-   4.6,
+   5.6,
    "buyers=9"
-  ],
-  [
-   "Last",
-   "1zLLK9x2mXo8So3TFuYptAEP87ukx2DFTTdMwwZpump",
-   0.189,
-   2.1,
-   ""
-  ],
-  [
-   "loco",
-   "87hRH8twpJJVBcFfyqjGXpq628bPQ5XqiDKhgtpipump",
-   0.174,
-   4.4,
-   "buyers=9; top5_hold_most=92%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "All",
-   "Ag1RqHJFb24yjoi28ftxdRWWmuGqUwtqweuNsx8Jpump",
-   0.151,
-   2.1,
-   "buyers=8; top5_hold_most=99%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "XOGE",
    "HDAZmgYQToTnoTkmkSTA3oaT3HSFJi86m4ZreeuJpump",
    0.087,
-   6.8,
+   7.8,
    ""
   ],
   [
-   "All",
-   "F5ETb9BuKLNioV3YHrZb7dFjB739piL2S2uNPDQGpump",
-   0.082,
-   2.8,
+   "Last",
+   "1zLLK9x2mXo8So3TFuYptAEP87ukx2DFTTdMwwZpump",
+   0.053,
+   3.1,
    ""
   ],
   [
-   "All",
-   "7ebRi6Rww2CK2cm2FEhaxKZ3bYTCMnXDtFAY3BTLpump",
-   0.072,
+   "e/acc",
+   "8f7Q2iv9R8ScgzezzxKUF9A9EFdeQ49nrcYExqRtHBXc",
+   0.043,
    2.8,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   ""
   ],
   [
    "All",
    "ErKT7ZHRT63P8sexeSgspfsWfWtJhWiZwmPCf5sipump",
-   0.051,
-   3.2,
+   0.029,
+   4.2,
+   ""
+  ],
+  [
+   "BOTTOM",
+   "Anzm34r3WFyjBxHUvBv1RCqgs8BUHgzGxEUXUMV5pump",
+   0.027,
+   9.9,
+   ""
+  ],
+  [
+   "LITERALLY",
+   "5PcF4Sx5HtxSntizoJyBwNnkSsz6xJ3iCcmzXdqTpump",
+   0.025,
+   2.5,
    ""
   ],
   [
    "SWYPEX",
    "3TUwGZGRThJSTkVTmL31fzp8EdBjQv2kX3zeA28Cpump",
-   0.028,
-   4.0,
+   0.024,
+   4.9,
    ""
   ]
  ]
