@@ -7026,83 +7026,83 @@
    32.58
   ],
   [
-   "2026-10-30T12:42:50",
+   "2026-10-30T12:43:50",
    32.58
   ]
  ],
- "cycles": 3487,
+ "cycles": 3488,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.46055000000001,
- "watching": 231,
+ "sol_usd": 94.39999999999999,
+ "watching": 238,
  "near": [
-  [
-   "Creatoor",
-   "F1PyK6u87MWcwXzm3Hksn6Jv5EAGLzu2vBrBgSZGpump",
-   0.561,
-   2.5,
-   "bundled_launch=7 extra buys in creation block"
-  ],
   [
    "LeMiss",
    "FiW5r4YcGBAqJTa7dQa73ADXXxaueTiRFtnpmDvcpump",
    0.383,
-   5.3,
+   6.3,
    ""
   ],
   [
    "PERRY",
    "8Jw4vvq3DEM95oj6AXm2ZNUw9K9V6RSLhSSUpV8hMUWR",
-   0.277,
-   3.6,
-   ""
-  ],
-  [
-   "MEOWNER",
-   "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
-   0.239,
-   6.7,
+   0.355,
+   4.6,
    ""
   ],
   [
    "Heist",
    "3Z9LbLLetA6oz2C6Yfk5qsVVBTj4eXZSMf7bXvnkpump",
-   0.12,
-   5.5,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "Mognald",
-   "4MMYnevW5ndwSYFjvwigw2iNEmMp1kY2M4JZ28jVpump",
-   0.084,
+   0.16,
    6.5,
-   "buyers=2; top5_hold_most=100%; bundled_launch=11 extra buys in creation block"
+   "buyers=7"
   ],
   [
-   "LeWashed",
-   "2MRdFNyGTJxsSrH9C8LeD1YCtUrdbNW4pZCYmXdepump",
-   0.083,
-   2.7,
-   "buyers=2; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "FLAME",
-   "FhBduvZHhSR2da3vSpKk6pS3VicLq7kHRwS73sKVpump",
-   0.08,
+   "MEOWNER",
+   "DnAqJX3hVUqgY9nHkfWP4FH5F7xkP6jBkYF9aDGTpump",
+   0.084,
    7.7,
-   "buyers=4; top5_hold_most=100%"
+   ""
+  ],
+  [
+   "Solana",
+   "7tJtxv5E8oabycjDUHEH5frqBFjpV3o4fM3CRpYjpump",
+   0.068,
+   9.4,
+   "buyers=1; top5_hold_most=100%"
   ],
   [
    "TEST",
    "FNqBPbzqz1kEqyGYpMiiMDQZYEh47ctufook7pQRcBwJ",
-   0.08,
-   2.2,
+   0.064,
+   3.2,
    ""
   ],
   [
    "LIFE",
    "6GVRNnEzbXieoRiieRV6g2mH1zoXuhiSCwMhXG4cpump",
    0.064,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "PVE",
+   "CTEvRgFB2qkANgH4fnZoJr6AiW6VcaqSmGizSJEipump",
+   0.064,
+   9.9,
+   ""
+  ],
+  [
+   "minecat",
+   "Danqp9UZ8h6j5a13b2wa2CcDUi3rAXNJ1iBQfCqbUBgK",
+   0.06,
+   9.0,
+   ""
+  ],
+  [
+   "Relax",
+   "BuJgLHw1PijTH4FcEMMi7Zzenxr2p914H8pstoNYpump",
+   0.052,
+   4.1,
    ""
   ]
  ]
