@@ -6898,83 +6898,83 @@
    32.58
   ],
   [
-   "2026-10-30T07:43:50",
+   "2026-10-30T07:44:45",
    32.58
   ]
  ],
- "cycles": 3188,
+ "cycles": 3189,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.71081837125,
- "watching": 217,
+ "sol_usd": 94.7541224588,
+ "watching": 224,
  "near": [
+  [
+   "buy",
+   "DMwbj22eSFSQdLv6LEjFo5neY25WkS112Yn7qcgopump",
+   0.926,
+   3.4,
+   ""
+  ],
   [
    "31PUMP",
    "4MYWbMBLaUxbHBpFprCQBhUpGCPrmP3h5bsZDU9Upump",
    0.889,
-   3.8,
-   ""
-  ],
-  [
-   "buy",
-   "DMwbj22eSFSQdLv6LEjFo5neY25WkS112Yn7qcgopump",
-   0.816,
-   2.4,
+   4.7,
    ""
   ],
   [
    "FBinance",
    "DjKbwFjcTkUVt8dajkYiKtzkkHdfWNpZSV45nQfVpump",
-   0.599,
-   2.9,
-   "creator=42.9%; top10=47.2%; top5_hold_most=98%"
-  ],
-  [
-   "LORDTROLL",
-   "7gPtSrkqX3zLHJztSrQJuZYuTzNSU1Qdc1NRbwH6pump",
-   0.587,
-   2.7,
-   "creator=44.6%; top10=46.2%; top5_hold_most=98%; bundled_launch=4 extra buys in creation block"
+   0.616,
+   3.8,
+   "creator=44.2%; top10=48.5%; top5_hold_most=99%"
   ],
   [
    "ROSAN",
    "83GAmeAV1zS3pVFftJwDDsCKGyrXj8Vtvi2bsfympump",
-   0.543,
-   6.5,
+   0.569,
+   7.5,
    ""
-  ],
-  [
-   "theethee",
-   "FUzL1gRocUaCp9mbKrK6L1YCfxjghEoVYYPvdHvUpump",
-   0.419,
-   2.5,
-   "serial_creator=10 launches/24h"
   ],
   [
    "GROKHQ",
    "Groknif3pW49CFjZWL9VpMEUjfPpQ8ghsZRnKBdm71r7",
    0.249,
-   2.9,
+   3.9,
    ""
   ],
   [
    "SKIVE",
    "73nULTckXbSgBfhAayPK9XXDNg1ycgPNSuK7zFzvpump",
    0.198,
-   3.3,
+   4.2,
    ""
-  ],
-  [
-   "GEORGE",
-   "FhNiV9SopFPpcAuLuFP8n2fga9pqfWarmRCoia6Vpump",
-   0.16,
-   2.2,
-   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "KoreanFlare",
    "EKx1NyjC4qSSni6bRNtEFzVW3tbG2ZvdogXeE33Mpump",
    0.155,
-   3.8,
+   4.7,
+   ""
+  ],
+  [
+   "HACKUR",
+   "9sLmfxuPxc3vjJEQAvbunyqszqCrRebwy6epkFtvpump",
+   0.11,
+   3.0,
+   ""
+  ],
+  [
+   "ELUN",
+   "9GBpGPzArndKvbvtpKix6Vsp6xeyrVFSdP2Q52BYb6Vv",
+   0.083,
+   3.6,
+   ""
+  ],
+  [
+   "PEET",
+   "2bhPxzKEGNqszXju1rr9wKN7NhMEQnmLSpqavmezpump",
+   0.07,
+   6.2,
    ""
   ]
  ]
