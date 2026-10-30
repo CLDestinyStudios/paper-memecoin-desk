@@ -6862,84 +6862,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:14:05",
+   "2026-10-30T06:15:07",
    32.58
   ]
  ],
- "cycles": 3099,
+ "cycles": 3100,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.44321393235,
- "watching": 160,
+ "sol_usd": 96.35336607255,
+ "watching": 154,
  "near": [
   [
    "laptop",
    "9BfiiYkSoGC1Ke7v4cEnhwZUHFsniEu5dNd9urc1pump",
-   0.555,
-   3.2,
+   0.658,
+   4.2,
    ""
   ],
   [
    "Cell",
    "5DYrpAQDSHHLEf9ezwK3HFG1hm6yFddZs8LYZq4Hpump",
    0.39,
-   7.2,
+   8.2,
    ""
   ],
   [
    "LAPTOP",
    "DZm8j25AqjUmdoqibfEMNdBTedssM7Q3tA2RMQcK2F65",
-   0.263,
-   3.6,
+   0.192,
+   4.6,
    ""
   ],
   [
    "LAZARUS",
    "FakseLy6Bais8mFBicDn1s9BYDMD6x4rxz2zwiSfpump",
    0.149,
-   2.1,
-   "buyers=6; top5_hold_most=100%"
+   3.2,
+   "buyers=7; top5_hold_most=100%"
   ],
   [
    "SUBCAT",
    "GdhWJGnPSC2pPz1z2Zog1Me59sKxEp5ekks8uFmCpump",
    0.131,
-   3.5,
-   "buyers=4; top5_hold_most=100%"
+   4.5,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "grok",
+   "Gyac6qiU5WMmMrDHAU4W4wTtYN9ooSCWE5ULVvA7pump",
+   0.128,
+   2.4,
+   "top5_hold_most=96%"
   ],
   [
    "RAPTOP",
    "9yzBfzPrxGoTpMye7TBp5Fz2erFdwrZ1fiPoSnBEkN3J",
    0.116,
-   2.2,
+   3.2,
    ""
-  ],
-  [
-   "RAPTOP",
-   "6GM7aF2LkJAz3fqUTzvM8qhCUuAxSv6SmXk9fve8bPc8",
-   0.083,
-   3.1,
-   ""
-  ],
-  [
-   "Peep",
-   "5YWtiztA69vRRcYfn9hCbb1dnoBShrhvhzt1x8PLpump",
-   0.076,
-   4.5,
-   "serial_creator=10 launches/24h"
   ],
   [
    "Insider",
    "9Trs6sXHUzDfBjjX8ifzRxfJCdJtfeSk8JGSinFPpump",
    0.073,
-   3.2,
+   4.2,
    ""
   ],
   [
    "ELON GTA",
    "6eSGaqbsDpjHvKbmSYtSHWmi9VnrpMr2NsNLZM7gpump",
    0.072,
-   4.0,
+   5.1,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "PSC",
+   "8cGg2Z7D4bNUQPfj3Tkz7qxncEjLuEZ6917Gg2jtpump",
+   0.064,
+   7.0,
+   "buyers=5; top5_hold_most=100%"
   ]
  ]
 }
