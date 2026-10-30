@@ -7006,83 +7006,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:50:49",
+   "2026-10-30T11:51:50",
    32.58
   ]
  ],
- "cycles": 3435,
+ "cycles": 3436,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.68703514315,
- "watching": 335,
+ "sol_usd": 93.59,
+ "watching": 319,
  "near": [
   [
-   "MEMESTOCK",
-   "69PYHuqeU4KqzABsgdD7XMLrndR9pcTkn8qC1vYLpump",
-   1.0,
-   2.7,
-   "graduated"
-  ],
-  [
-   "ROAR",
-   "9RhuxPTaEL7UVJgXALbS39Dja2fLWu5z9dsi893Xpump",
-   0.663,
+   "ADA",
+   "5ZNGjdmj1axNe2Kokupv2Pf8kEUNudbSZ5Re2f2Kpump",
+   0.947,
    3.0,
-   "bundled_launch=4 extra buys in creation block"
+   ""
   ],
   [
    "AML",
    "Es6jQ2nZT3a7XgTrn8C6f46hRwiRnXb6Jq9MX6Vqpump",
-   0.577,
-   8.6,
+   0.536,
+   9.7,
    ""
   ],
   [
-   "MEMESTOCK",
-   "9oZF923ZwRNzp7qKWLzQaB6AuDRbKkaGWqCjzd6Epump",
-   0.441,
-   2.0,
-   "bundled_launch=4 extra buys in creation block"
+   "CWCH",
+   "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
+   0.12,
+   3.7,
+   "buyers=6; top5_hold_most=96%"
+  ],
+  [
+   "\u66d9\u5b9d",
+   "H48t5jpkUfxm3xhogTe3NCRZdJp3QAwniYJTEQoapump",
+   0.1,
+   3.0,
+   ""
   ],
   [
    "bag",
    "2Hnc7rD7fYD4zJQT8ptngbb7jL47HeVnfRZHNhAGpump",
-   0.091,
-   4.1,
+   0.088,
+   5.1,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "shit",
    "89GqBSStv6RY9cEdUbrmJQ7HiiHHDRvQGfoHXKJtpump",
    0.086,
-   5.9,
+   6.9,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "CWCH",
-   "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
-   0.07,
+   "PILL",
+   "9bixQ5gyVA8kY8DqTeB5B8ccNJ7FQHywbCvC6CyDpump",
+   0.078,
    2.7,
-   "buyers=6; top5_hold_most=96%"
+   ""
+  ],
+  [
+   "BOUNCING",
+   "5rN1e2pS1oJBJjpDyUxx6sd5W7AwNJ1NYhYqvW1Fpump",
+   0.064,
+   2.4,
+   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "SRUNNER",
+   "781QzGLT59dgR6TXcRSyWp4NJQYsZanebZuyT9M2pump",
+   0.057,
+   2.5,
+   "buyers=4; top5_hold_most=100%"
   ],
   [
    "CTO",
    "B6epCucCTzHyH69UgkR69repUb7iWFgUuY6ZnRj9pump",
    0.055,
-   7.3,
-   ""
-  ],
-  [
-   "Mei",
-   "7CbjgGtuhuFB8U1EYFrqNivF6kfTBiLUCxxXd2fupump",
-   0.043,
-   4.5,
-   ""
-  ],
-  [
-   "kim",
-   "2TTL7hDi4Jsp93j1bxD9uykU27GubKXTrEVteiJEpump",
-   0.043,
-   5.6,
+   8.3,
    ""
   ]
  ]
