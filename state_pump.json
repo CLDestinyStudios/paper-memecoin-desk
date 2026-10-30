@@ -6584,81 +6584,85 @@
   [
    "2026-10-29T19:27:18",
    32.58
+  ],
+  [
+   "2026-10-29T19:28:15",
+   32.58
   ]
  ],
- "cycles": 2453,
+ "cycles": 2454,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.01599723845,
- "watching": 227,
+ "sol_usd": 94.97000000000001,
+ "watching": 236,
  "near": [
   [
-   "Fortnite",
-   "9HWCuRXGdECTV3AsRF13X7uAAvdgA13onXe4Cgyopump",
-   0.512,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
+   "LAPTOP",
+   "BT7N5c6vYYeq827ht8QVwBSTaWrtaCPxgUMUoHDppump",
+   1.0,
+   2.8,
+   "graduated"
   ],
   [
-   "Tally",
-   "FGtNQ5DaJq7gs8dKLdKHtzpkPdcAbUATPafH7HtJpump",
-   0.43,
-   3.4,
+   "LAPTOP",
+   "GXkRixFriU7ZejJZ3nkHVsvGWfv8oQbQd3DKcbZxcop",
+   0.623,
+   2.6,
    ""
-  ],
-  [
-   "TINA",
-   "Eh8F6P7C4mtz34ceJntYZxtae5MfLtCDz5QEhrXkcdxh",
-   0.314,
-   3.1,
-   "buyers=4; top5_hold_most=100%"
   ],
   [
    "LAPTOP",
    "5oN8w9a7g387UN6WRibFWFC4Yg43VBDxs7aeUX3Zpump",
    0.235,
-   2.2,
+   3.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "INTERN",
    "Fb9fSQDgP26C4AzfRCHDMkSFt4adzRNGRecDH4nHpump",
-   0.166,
-   2.1,
+   0.163,
+   3.1,
    ""
   ],
   [
    "ACAT",
    "Htg3D9aXcB1dnXypbEEeo52YnhE14ScaXj5MR2kwpump",
    0.136,
-   4.3,
+   5.2,
    ""
   ],
   [
-   "Blackout",
-   "5NGCqMKowjEK6hSDkb5PMZ341XGQWAtyjdrNCHopump",
-   0.079,
-   9.4,
-   "buyers=4; top5_hold_most=100%"
+   "Tally",
+   "FGtNQ5DaJq7gs8dKLdKHtzpkPdcAbUATPafH7HtJpump",
+   0.085,
+   4.4,
+   "buyers=7; top5_hold_most=100%"
+  ],
+  [
+   "TINA",
+   "Eh8F6P7C4mtz34ceJntYZxtae5MfLtCDz5QEhrXkcdxh",
+   0.083,
+   4.1,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "THELAPTOP",
    "5oMRiRZE1PzSqgh53mXj1dqkT9nzTEZDcgk3zTqYpump",
    0.077,
-   2.5,
+   3.4,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Bearjak",
-   "FRBrHz8eJUWPRtcbuhHSiqgvfnXaUjLnQTjvn4aZpump",
-   0.071,
-   5.5,
+   "Fortnite",
+   "5r3daKvg1gRrzMFFYRkANtuj1YMmipQZmgfSyR8xpump",
+   0.043,
+   4.3,
    ""
   ],
   [
-   "RM",
-   "38TEuW35DktFvGkdw7iwA8VP2GMCMbnVR54qrfx8pump",
-   0.07,
-   5.2,
+   "LAPTOP",
+   "4K37fWQvUuGCicjeEt9wmVnSUepPm4a9EkmMDi1ypump",
+   0.043,
+   2.6,
    ""
   ]
  ]
