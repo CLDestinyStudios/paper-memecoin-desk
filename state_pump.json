@@ -7078,84 +7078,84 @@
    32.58
   ],
   [
-   "2026-10-30T14:45:53",
+   "2026-10-30T14:46:52",
    32.58
   ]
  ],
- "cycles": 3610,
+ "cycles": 3611,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.39500000000001,
- "watching": 230,
+ "sol_usd": 95.465,
+ "watching": 224,
  "near": [
-  [
-   "ELONHOUSE",
-   "EfrLvGdNh3LvgJQqEKx9KLHqdfsZ1LVhYSpfmvtfpump",
-   1.0,
-   2.1,
-   "graduated"
-  ],
-  [
-   "PUMPCAT",
-   "GxAh417rQCEH4YSVNzbmV3L89qth3Dc7Sdwr1bpJpump",
-   0.696,
-   2.6,
-   "serial_creator=10 launches/24h"
-  ],
   [
    "KYRO",
    "LNFPX3MKNLH2PTnpj4airVznHKp38DA63WLhbkipump",
-   0.485,
-   8.8,
-   "buyers=3; top5_hold_most=100%"
+   0.693,
+   9.8,
+   "top10=54.4%; top5_hold_most=95%"
+  ],
+  [
+   "RI",
+   "E53dkwBAzG1JrFtZ8JdS3EeaYPyCwqgxnSM5G85Xpump",
+   0.36,
+   4.3,
+   ""
   ],
   [
    "HYPERWICK",
    "9Po7jPkn9DzArQH45B2cpNvgWc7BkzwFaB9L735Qpump",
-   0.411,
-   5.9,
+   0.357,
+   6.9,
    "buyers=6; top5_hold_most=99%"
   ],
   [
-   "Zeta",
-   "A138yrhv6TSJqXDqaRAkXKr79Fg8G4kQxQAKgkiDpump",
-   0.188,
-   2.4,
-   "buyers=8; top5_hold_most=93%"
+   "PIO",
+   "H29D8JymdAV3uWmiNZHhnX15npVo77VmKYDocR8wpump",
+   0.271,
+   6.0,
+   "top5_hold_most=99%"
+  ],
+  [
+   "KSHIBA",
+   "GyAsjEMHSRrUTgEJU9buKT78vNMCaGrVZNyUExZBfrrT",
+   0.173,
+   4.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "MOCHII",
    "E816mwMqET79u9DqEUdGDhjFdtBWXAFAQrjpHawPpump",
    0.166,
-   8.0,
+   9.0,
    "buyers=7; top5_hold_most=82%"
   ],
   [
-   "KSHIBA",
-   "GyAsjEMHSRrUTgEJU9buKT78vNMCaGrVZNyUExZBfrrT",
-   0.165,
-   3.4,
-   "buyers=1; top5_hold_most=100%"
+   "VESTED",
+   "28h1AJneGvFZAXCg1YPKedbKrtAapKUSBuXc7fmKpump",
+   0.116,
+   3.1,
+   ""
   ],
   [
-   "PIO",
-   "H29D8JymdAV3uWmiNZHhnX15npVo77VmKYDocR8wpump",
-   0.129,
-   5.0,
-   "top5_hold_most=99%"
+   "Zeta",
+   "A138yrhv6TSJqXDqaRAkXKr79Fg8G4kQxQAKgkiDpump",
+   0.099,
+   3.4,
+   "buyers=3; top5_hold_most=100%"
   ],
   [
    "Anita",
-   "4zLWA9TrbfprUWA58q9bgKcfD8d3vTh3EgL2D46kpump",
-   0.092,
-   2.8,
+   "H2pEUvdVgk7s2ocaQMJx11b192xnuPvjy9eHoai91feW",
+   0.091,
+   2.1,
    ""
   ],
   [
    "Anita",
-   "H9m2so5NZMAjnku6SyohZJEazZ73hPMK8ACTVZcjpump",
-   0.086,
-   2.3,
-   "buyers=2; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   "4zLWA9TrbfprUWA58q9bgKcfD8d3vTh3EgL2D46kpump",
+   0.09,
+   3.8,
+   ""
   ]
  ]
 }
