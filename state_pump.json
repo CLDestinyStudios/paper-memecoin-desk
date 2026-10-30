@@ -7082,83 +7082,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:50:52",
+   "2026-10-30T14:51:53",
    32.58
   ]
  ],
- "cycles": 3615,
+ "cycles": 3616,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.31962779015001,
- "watching": 204,
+ "sol_usd": 95.2406775076,
+ "watching": 199,
  "near": [
   [
-   "AAPLCAT",
-   "3PKMd61ih3VHZCmwLajLxLWAtC9KC38Eie3M2moFpump",
-   1.0,
-   4.9,
-   "graduated"
-  ],
-  [
-   "p256",
-   "46YyaV4P98BJsu8z7DVQSWiZbDyYK3Mz8BcoGV8wpump",
-   0.554,
-   2.2,
-   ""
-  ],
-  [
-   "RI",
-   "E53dkwBAzG1JrFtZ8JdS3EeaYPyCwqgxnSM5G85Xpump",
-   0.387,
-   8.3,
-   ""
-  ],
-  [
-   "VESTED",
-   "28h1AJneGvFZAXCg1YPKedbKrtAapKUSBuXc7fmKpump",
-   0.207,
-   7.1,
-   ""
+   "PUMPPERPS",
+   "AQ1W7uh7AMDLixQ3enoaABf55bDYMMqcFeSpvr5npump",
+   0.304,
+   2.8,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "KSHIBA",
    "GyAsjEMHSRrUTgEJU9buKT78vNMCaGrVZNyUExZBfrrT",
-   0.173,
-   8.3,
+   0.221,
+   9.4,
    "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "p256",
+   "46YyaV4P98BJsu8z7DVQSWiZbDyYK3Mz8BcoGV8wpump",
+   0.204,
+   3.2,
+   ""
+  ],
+  [
+   "ANSEM",
+   "EKgTfGTfeDey2PYnTdBcdr26nt9vRunP8PVgFcKWpump",
+   0.081,
+   2.3,
+   ""
   ],
   [
    "ARABELLA",
    "FTuhC9XiFMZmn3Ktu1ajQ615j1BK9CDcjX1y5Z7Bpump",
    0.043,
-   8.8,
+   9.8,
    ""
   ],
   [
    "Anita",
    "3cFtwApjV4NMbmG74yjQZxJ85RdBXVrz71ePVh5ftkEc",
    0.042,
-   8.2,
+   9.2,
+   ""
+  ],
+  [
+   "RI",
+   "E53dkwBAzG1JrFtZ8JdS3EeaYPyCwqgxnSM5G85Xpump",
+   0.038,
+   9.4,
+   ""
+  ],
+  [
+   "Animals",
+   "Hup4W8EmQbjkWDSCmJhHr7wopgHMuQJLwdD5obSpump",
+   0.031,
+   2.8,
    ""
   ],
   [
    "A&A",
    "EEoS5GqX12VXDrh7TYfu8QSJiyRjYjHEkMDGdroWpump",
    0.031,
-   7.4,
+   8.5,
    ""
   ],
   [
    "$ROAR",
    "C5ZW4uepyxgwX2KHxvTH4BeEoxBvLwK1uNubvLT4pump",
    0.029,
-   2.9,
-   ""
-  ],
-  [
-   "REPLYGUY",
-   "5JPuXfsynUvL2K7D2ZUfuJyKtXxfAvL2vc7sTDgnpump",
-   0.022,
-   2.4,
+   3.9,
    ""
   ]
  ]
