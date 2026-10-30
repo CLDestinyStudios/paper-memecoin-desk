@@ -6874,84 +6874,84 @@
    32.58
   ],
   [
-   "2026-10-30T06:43:05",
+   "2026-10-30T06:44:06",
    32.58
   ]
  ],
- "cycles": 3128,
+ "cycles": 3129,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.11927466419999,
- "watching": 144,
+ "sol_usd": 94.96557075905001,
+ "watching": 164,
  "near": [
   [
    "BNB",
    "FupqKVehFAPpi1y731wBC598LkHRcgkyQHRqo4nHpump",
-   0.981,
-   4.9,
+   0.929,
+   5.9,
    ""
   ],
   [
-   "JOB ",
-   "3yKjB22Q2iHFpzdL7aZ3KXbhdSwGzT9KM6GtnvENpump",
-   0.214,
-   3.1,
+   "MUFASA",
+   "74NW97ihtdeVDRT5EcK6UeZWRhUWVVfesi6M9n734Rf",
+   0.36,
+   2.7,
+   "bundled_launch=6 extra buys in creation block"
+  ],
+  [
+   "HGEN",
+   "BsFuREtbbaPEKT4xKTPjqtj7cqnaJMLBAyHozSoXpump",
+   0.353,
+   2.1,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "BNB",
+   "9nFdM2C7to4z1igNAfqfPiKxLsK31nb9r7tENZFzpump",
+   0.281,
+   2.7,
    ""
   ],
   [
    "BNB",
    "F8ofJdib8SAGy12ZcA5eGGvtqzZe8wgB6owJp6Ydpump",
-   0.166,
-   3.9,
+   0.164,
+   4.9,
    ""
   ],
   [
    "GOON",
    "B5vjGJFn8YShXULcPqtRFAS383DD89o9mQTAFfUdpump",
-   0.135,
-   4.5,
+   0.11,
+   5.5,
    ""
   ],
   [
-   "Friday",
-   "6kdcEyka6JUTzQgE8cbsRvZKoCJbCrzGXhjUaVMMpump",
-   0.096,
-   2.1,
-   ""
-  ],
-  [
-   "SAFU",
-   "9qapKgzdQgddKVYsGHW48YEsazpJkKZUzG3LMqf1pump",
-   0.091,
-   5.8,
+   "STONKAT",
+   "9GSKwzStRBnaaztD3NYvD3EqubXyBwFrpuFCstcGpump",
+   0.084,
+   3.8,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "BNB",
    "7cGTzYPK2332uYv9Ska3kA18Wo2bCcZJNGmEWXABbVrm",
    0.083,
-   4.1,
+   5.1,
    ""
   ],
   [
    "GRIMU",
    "n2bypkGLc32n4ey7UqQzfZdgSniYpL5b9kLyYJApump",
    0.083,
-   2.3,
+   3.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "STONKAT",
-   "9GSKwzStRBnaaztD3NYvD3EqubXyBwFrpuFCstcGpump",
-   0.082,
-   2.8,
-   "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Suhail",
-   "3yHHGSJemhuvC5jGc62UGQwg99FySQ4M33QkgzJ1pump",
+   "SAFU",
+   "9qapKgzdQgddKVYsGHW48YEsazpJkKZUzG3LMqf1pump",
    0.072,
-   5.6,
-   ""
+   6.8,
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
