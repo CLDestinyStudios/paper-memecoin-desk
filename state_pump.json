@@ -6742,83 +6742,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:39:45",
+   "2026-10-30T01:40:52",
    32.58
   ]
  ],
- "cycles": 2825,
+ "cycles": 2826,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.24500000000002,
- "watching": 146,
+ "sol_usd": 96.98811933785001,
+ "watching": 154,
  "near": [
   [
-   "KOHLER",
-   "77NYf8ckM2HZNHLsZ59Jv1XkJ4tFqrE7Pp3geK5Fpump",
-   0.447,
-   5.2,
-   ""
+   "PVPless",
+   "AFrsrfAYWWaBJRQAje1EbhNwH3gCHiQ59nDdcs2Gpump",
+   0.57,
+   2.5,
+   "bundled_launch=4 extra buys in creation block"
   ],
   [
    "ROOTLINE",
    "7gZm1fSRWmf65jS6H6FoZs7QTMGKtxNemGt87SUxpump",
-   0.16,
-   4.3,
+   0.192,
+   5.5,
+   "top5_hold_most=97%"
+  ],
+  [
+   "KOHLER",
+   "77NYf8ckM2HZNHLsZ59Jv1XkJ4tFqrE7Pp3geK5Fpump",
+   0.113,
+   6.3,
    ""
   ],
   [
    "REVGOOSE",
    "A8Un4GZ7YxSjMg3DBZAVYbQfCtgAdxKLWyN1S5oFpump",
    0.081,
-   7.6,
+   8.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "DOOMSDAY",
    "C3FLbfZTgqaPM9V7SneQqe6BQ8i2BXDTnQ46UwJzpump",
    0.068,
-   4.1,
+   5.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Lurker",
    "HjwPjSDfTLUwLD46UkYu8Wywbv6hyiKwZr74xiW9pump",
    0.065,
-   2.6,
-   ""
-  ],
-  [
-   "Trumpus",
-   "Dj4mtoiwM78PArs337a5wYp3ZKwAMFZG8eqEcRnrpump",
-   0.022,
-   4.6,
+   3.7,
    ""
   ],
   [
    "TERP",
    "FkkvcFTxJQwKYD5R6gepjaAKag8ZsKKQAJwV2gojpump",
    0.018,
-   6.4,
-   ""
-  ],
-  [
-   "ROCKET",
-   "5vYLbzMjPihZ3ZD6vvYCRUxNJJiivHAXSZcBYKbqpump",
-   0.016,
-   10.0,
+   7.5,
    ""
   ],
   [
    "POSTERITY",
    "4L2HSaZqo7bWfRxiWBSwzscK5Xxv1DVSMTngJfqjpump",
    0.011,
-   2.9,
+   4.0,
    ""
   ],
   [
-   "$Mling",
-   "7gagWMKbe812KJqr1VyCV16U7QtquqBJcRRcersxpump",
-   0.005,
-   9.7,
+   "TRUSTF",
+   "GkgozzcgncAadprTgimA9xh7LcBNonSvM3bHFxkeiYdp",
+   0.01,
+   2.4,
+   ""
+  ],
+  [
+   "sol",
+   "JDKbYz5e39c8VAVrQG1R9DMJPYMoetV3FnZhSTCGpump",
+   0.008,
+   2.3,
    ""
   ]
  ]
