@@ -6848,81 +6848,85 @@
   [
    "2026-10-30T05:44:05",
    32.58
+  ],
+  [
+   "2026-10-30T05:45:02",
+   32.58
   ]
  ],
- "cycles": 3069,
+ "cycles": 3070,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.46,
- "watching": 171,
+ "sol_usd": 96.43500000000002,
+ "watching": 165,
  "near": [
   [
    "Claude",
    "FXJDm5sMWuhtSvTTtGDPF3A9vFiMiba5DNRFsyzZpump",
-   0.953,
-   4.9,
+   0.969,
+   5.9,
    ""
   ],
   [
    "FBinance",
    "9ZiFp1yaKdaPi82GrVqLhhG6kd5R7uWArLNxsA8rpump",
-   0.631,
-   4.1,
-   "creator=45.2%; top10=49.6%; top5_hold_most=98%"
+   0.645,
+   5.1,
+   "creator=46.4%; top10=50.8%; top5_hold_most=99%"
   ],
   [
    "MINT ",
    "kG6exLNipYnwhn1DEupVm4UKyAEFhqqjvrMbsZApump",
-   0.392,
-   2.1,
+   0.321,
+   3.1,
    ""
   ],
   [
    "poppi",
    "B2VrJCJa98Ay63BdHhAqMLFSPY4CTjC6MuLAmnGpump",
-   0.255,
-   2.7,
+   0.292,
+   3.7,
    ""
   ],
   [
    "Naz",
    "A3n3WiuLPRM6rdJfsvHBZ3Xf39qh24oCBoKpaRskpump",
    0.179,
-   2.4,
+   3.4,
+   ""
+  ],
+  [
+   "\u30ca\u30ba\u304f\u3093",
+   "DMW6GBzZTCey1gybY9tfdERZsXNNHCDrh5iuzGunpump",
+   0.154,
+   2.3,
    ""
   ],
   [
    "Stocks",
    "wJYTXt1mVLwquHeDbmtZLkZqm4yDvWQry71jtMCpump",
    0.106,
-   3.0,
+   4.0,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "DisarmAI",
    "AJgempwHbCWKthNuYvQmzs7eUVnFDkD2XjwEqXSqGNgn",
    0.09,
-   7.3,
-   ""
-  ],
-  [
-   "Naz",
-   "C86NGBrbcm54Mq1x8mbEfFUChKVypUF79pSZfyaVpump",
-   0.082,
-   2.7,
+   8.3,
    ""
   ],
   [
    "pumpimp",
    "48Kin5x5yAhHA4eNysiBhNfHDeEr1ZWqjzfJLuGfsqdy",
-   0.051,
-   3.4,
-   "top5_hold_most=99%"
+   0.055,
+   4.3,
+   "top5_hold_most=98%"
   ],
   [
    "Gruffalo",
    "8Ry5TR2eVsZqfTR3iSJ8KHGwu3m4GL3bAauRohN8pump",
    0.049,
-   5.1,
+   6.0,
    ""
   ]
  ]
