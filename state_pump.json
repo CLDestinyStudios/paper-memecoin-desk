@@ -6594,83 +6594,83 @@
    32.58
   ],
   [
-   "2026-10-29T19:49:17",
+   "2026-10-29T19:50:16",
    32.58
   ]
  ],
- "cycles": 2475,
+ "cycles": 2476,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.11016188945,
- "watching": 213,
+ "sol_usd": 95.08,
+ "watching": 220,
  "near": [
   [
+   "PANIC",
+   "AUx3GU4fw9Cj7HSmj48HuhucTmrXhi16dnXoJkPtpump",
+   0.379,
+   2.6,
+   "bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "Vulu",
+   "8sBcwxKmYvR5CTkmTnktNozpyH5ELkVmWpo6Jkmmpump",
+   0.283,
+   2.3,
+   "buyers=8; top5_hold_most=98%"
+  ],
+  [
    "Stable",
-   "9zJMxvxdh5ZPSmobj5EPjUhR81fX26Wjw4BLkZSQpump",
-   0.282,
-   2.1,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "OV",
-   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
+   "ERaMZM71hH5vYU65uCN1jUmTVWaiPRLNh9RQhL6Lpump",
    0.119,
-   7.5,
+   2.6,
+   "buyers=5; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "LOSER",
+   "3WSNJ4n1npzZy2jSBdukMJzqTjo44naSMS6cFX9dpump",
+   0.092,
+   2.4,
    ""
   ],
   [
-   "LAPTOP",
-   "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
-   0.107,
-   7.1,
-   ""
-  ],
-  [
-   "HY",
-   "3siWC4bkgdhbpKF1ko5ZjfPuAkmCHS2aBU18Tqtqpump",
-   0.076,
-   3.5,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "catphish",
-   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
+   "dca",
+   "Gumi3obQDyPiUZXD76g3fAvJchiJ75xfFmKRsJ13pump",
    0.072,
-   5.5,
-   ""
-  ],
-  [
-   "SCAT",
-   "6pJMnsr21hh2YEFA6PrYkP3YSqBRuFBvCUvhqSm8pump",
-   0.069,
-   6.2,
+   2.0,
    ""
   ],
   [
    "DUVID",
    "EmfTsbpXT3cRWGuuXbXpxWKc34ryvQXByPcAhzVApump",
    0.065,
-   9.0,
+   10.0,
    ""
   ],
   [
-   "GTFO",
-   "CG9Q8c7JhGmWsHB5RFnngejMZRs9CDEhNMEoCGgopump",
-   0.059,
-   5.0,
-   "buyers=4; top5_hold_most=100%"
+   "OV",
+   "EB6QMEiJG6opeXaXXkPZWLcUMSGXzjqjiPSo2v8kAi72",
+   0.056,
+   8.5,
+   ""
+  ],
+  [
+   "LAPTOP",
+   "HH2SVs6dutCoaHuKp1CqsWyyKotrSHbAkTEYGUZkpump",
+   0.055,
+   8.1,
+   ""
+  ],
+  [
+   "catphish",
+   "2UugWqhU2V38GJqXhXeNPJcWUrMaBeBKtgVnDEE2pump",
+   0.045,
+   6.5,
+   ""
   ],
   [
    "HY",
    "GNaqy16Huq2RS4pEcpcERX5QWdA3GsvBbvQwSXjJpump",
    0.043,
-   7.2,
-   ""
-  ],
-  [
-   "NCD",
-   "7XxQkYPthxepMTjsAATLaGKokmV43Ayjd1oUES1kpump",
-   0.043,
-   10.0,
+   8.2,
    ""
   ]
  ]
