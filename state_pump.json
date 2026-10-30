@@ -6994,83 +6994,83 @@
    32.58
   ],
   [
-   "2026-10-30T11:21:55",
+   "2026-10-30T11:22:56",
    32.58
   ]
  ],
- "cycles": 3406,
+ "cycles": 3407,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.055,
- "watching": 241,
+ "sol_usd": 94.11018620460003,
+ "watching": 252,
  "near": [
   [
    "Gemma",
    "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
-   0.696,
-   6.1,
+   0.681,
+   7.1,
    ""
   ],
   [
    "Wangcai",
-   "2EW6cD3roRnnGhVf3ZWcgc9YyoqcF3Ryd6E7c56Qpump",
-   0.581,
-   2.3,
-   "rugcheck=creator history of rugs"
+   "CPee8JapAekuEzitDS8Ex1j4ZFgt1TytpH4RuXRrpump",
+   0.186,
+   2.5,
+   "buyers=8; top5_hold_most=89%; bundled_launch=4 extra buys in creation block"
   ],
   [
-   "NDA",
-   "9UF1Y9BnZX1TDdf3b5pSUHAh8mdJjyMXigxkx2zapump",
-   0.534,
-   2.7,
-   "serial_creator=10 launches/24h"
+   "Wangcai",
+   "Gg5ZkLmPzHMLMQZ9PsTxzTKsba9kJqStZycP6Bdapump",
+   0.165,
+   2.5,
+   ""
   ],
   [
    "Gemma",
    "CUxfHVagFzwXFWNFwtyLCxYQBy9qEouZNy3mUL3qpump",
-   0.151,
-   3.1,
+   0.152,
+   4.1,
    ""
   ],
   [
    "MONARCH",
    "9qoMYDa9DSpD9fNtJY4Uho5bwpH2BKZJh4rWRXKupump",
    0.1,
-   6.3,
+   7.4,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "NDA",
-   "HJ84pxcp3E2vPEW5KdpoGZppoHP1ZmwR58VNeYkPpump",
-   0.093,
-   3.9,
-   ""
+   "Gt216iRqbL2s4cU4JTmEnGpaTgqEGVonvi7dz5jnpump",
+   0.095,
+   2.1,
+   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
   ],
   [
-   "STOP",
-   "HWkJGFZmrhYpnQJmWd8Yu3e8Ga8nyrR9CeX9kUMhpump",
-   0.091,
-   4.3,
+   "FSD",
+   "C33wn2zLx5H976ryTAMG3TJ5VEeqF6fQemfVhwFypump",
+   0.093,
+   3.9,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "Gemma",
+   "3TBfXyGnWHxKdhgMvCJzbxwoTMLhjshPLGoweDLkpump",
+   0.088,
+   2.4,
    ""
   ],
   [
    "STARLIGHT",
    "6bvv5rPoiJR424ZHGckdkv6rALtVaLHf8razPnBWpump",
    0.086,
-   4.4,
+   5.4,
    ""
-  ],
-  [
-   "FSD",
-   "C33wn2zLx5H976ryTAMG3TJ5VEeqF6fQemfVhwFypump",
-   0.081,
-   2.9,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "PUMPKAT",
    "81cpwxGFD26oSoXSPTWeRVceP53EzhWAya5DLhWmpump",
-   0.079,
-   5.5,
+   0.08,
+   6.5,
    "buyers=2; top5_hold_most=100%"
   ]
  ]
