@@ -6612,82 +6612,86 @@
   [
    "2026-10-29T20:31:21",
    32.58
+  ],
+  [
+   "2026-10-29T20:32:24",
+   32.58
   ]
  ],
- "cycles": 2517,
+ "cycles": 2518,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.01,
- "watching": 224,
+ "sol_usd": 96.1,
+ "watching": 201,
  "near": [
   [
-   "SI",
-   "4kfa37kyTPyj4rJQV9KQo4JaTh7LZjt85rrP7rtBUQSi",
-   0.546,
-   4.8,
-   "bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "p256",
-   "Sfxk5mj85MddHJHuPUq1kp85E675ns7f5Qc44JYpump",
-   0.14,
-   3.9,
+   "LEPTEP",
+   "2WRTmZq6ByjLYQiaSvLWEEHwQxRKRT3gGLMUruLSpump",
+   0.129,
+   2.4,
    ""
-  ],
-  [
-   "SHARE",
-   "7XH74zMkFnitsx2FgYYu1s2aaW9GkeC2woDkq4gXpump",
-   0.117,
-   5.5,
-   "top5_hold_most=88%"
   ],
   [
    "Supertoken",
    "5W626epqJVLbLCCqgXRt78BQuz6mpzKC9X4Mh9Kwpump",
    0.116,
-   8.7,
+   9.7,
    ""
   ],
   [
-   "SC",
-   "AtGCu824ekFqqwNuZGAQiQXrYQACgjChCDDrkLKdpump",
-   0.097,
-   9.8,
-   ""
-  ],
-  [
-   "WENPEUGEO",
-   "G1P3F5NMtwrYjNAY2fdCqjpQufdjMs9YapUsG823pump",
-   0.095,
-   9.9,
-   "buyers=1; top5_hold_most=100%"
-  ],
-  [
-   "SC",
-   "GGe2Km4iCpCJFExW8ux3ht43heBwnRPx155Zc51ppump",
-   0.091,
-   9.2,
+   "ENERGY",
+   "A8xbJaPvKgVTcRZYR99AbzifvnAazF4RwhKwz7DZVFkV",
+   0.107,
+   3.0,
    ""
   ],
   [
    "S",
    "HVr9JFofmUCzo7tCH7g2Lsb2wXEd5bKz3c8oU5Mopump",
    0.087,
-   9.1,
+   10.1,
    ""
+  ],
+  [
+   "SHARE",
+   "7XH74zMkFnitsx2FgYYu1s2aaW9GkeC2woDkq4gXpump",
+   0.084,
+   6.5,
+   "top5_hold_most=88%"
   ],
   [
    "SHI",
    "DNSCcdozqdfmyPd1QJoeh9Acn2qUcoN7yVCH3zaJpump",
    0.082,
-   7.7,
-   ""
+   8.8,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
-   "TI",
-   "24wDJRfQXvVkgCXGgUXuZyb9eLpE4dwandFXxb1Epump",
-   0.082,
-   6.8,
-   ""
+   "GTA",
+   "G4P1n2SskT363SyvhDX9T8WWdmc6hKoQsibQzCNapump",
+   0.07,
+   2.6,
+   "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "Supertoken",
+   "h5VjZaJybu9qe8yzdxkwGEkfys4K9TrRqshrw5bpump",
+   0.067,
+   9.1,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "SIA",
+   "38x11xgcNdN3QtV2tK2dc5KXNUAB8bNxnsL2ocLQpump",
+   0.063,
+   5.3,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "EVERYTHING",
+   "EBNkeYZ4XHvb5vpRwZG3tpKucGLTWcAyc9AjNQWRpump",
+   0.063,
+   2.4,
+   "buyers=2; top5_hold_most=100%; launch_slot=missing"
   ]
  ]
 }
