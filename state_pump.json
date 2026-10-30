@@ -6854,83 +6854,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:56:06",
+   "2026-10-30T05:57:07",
    32.58
   ]
  ],
- "cycles": 3081,
+ "cycles": 3082,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.56860640355,
- "watching": 140,
+ "sol_usd": 96.595,
+ "watching": 138,
  "near": [
   [
    "equititty",
    "HoAotFnxws7mX4ATrj1E91VeG1AUmsfNiC7nMD7spump",
-   0.992,
-   5.8,
+   1.0,
+   6.9,
+   "graduated"
+  ],
+  [
+   "4Pad",
+   "4HmTNc9zqaYBfF47mDz6j9Hh3PQPfEdJYfQgfGJHZ5kW",
+   0.609,
+   2.5,
+   ""
+  ],
+  [
+   "cumodities",
+   "DuWaJ7KRreLuh7ydzGXBRbXoncwKoeV7URgVrksXpump",
+   0.372,
+   2.7,
    ""
   ],
   [
    "MUSTER",
    "9QnTq3SMZExiRBuqL1iv7C9VBsyAMF2xBiqBtsw18Uik",
-   0.297,
-   2.8,
+   0.327,
+   3.8,
    ""
   ],
   [
    "Hal",
    "AqKJebwQVPeJpDzPoy72ckoji2AMryAnLA3KFciBpump",
-   0.166,
-   2.7,
+   0.169,
+   3.7,
+   ""
+  ],
+  [
+   "PYONGYANG",
+   "AMht8XRoa3qDUaktNYSiQ4aguinh9wM8YiDiNFtwpump",
+   0.149,
+   2.5,
    ""
   ],
   [
    "FREDDY",
    "33waLP7fdRqeWoz4BSgkhAyzWjuX7hDSkQ2RnKdUpump",
-   0.055,
-   6.1,
+   0.121,
+   7.2,
+   ""
+  ],
+  [
+   "guld",
+   "9LE8k4Gs4GbUjp2s15pthzdPJYwsUu2LynYuH7r1pump",
+   0.049,
+   2.3,
    ""
   ],
   [
    "BFCAT",
    "B9BReGZmWEd53MKhiGz7GjbZbRbnFJYrh3fksDuypump",
    0.047,
-   8.2,
+   9.2,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "Denarius",
    "GnnQ5ANTekWMj5QBc9sasmr152dZodwePE6T83nYpump",
    0.043,
-   2.7,
-   ""
-  ],
-  [
-   "Jesus",
-   "Evrt9sFwnSTdVGUzsTfH8ckF3sc5upEyCicXncd7B7vL",
-   0.043,
-   7.7,
-   ""
-  ],
-  [
-   "AURATI",
-   "9WBrVkYBrVXn9o5rErw9sNHfcRBLqMhjg8VAkhQohNtP",
-   0.04,
-   3.8,
-   ""
-  ],
-  [
-   "XAG",
-   "6T3TbiN8xfgaBb2v6UUjP7z7FNgcg6oDaUAnEzrgpump",
-   0.031,
-   2.9,
-   ""
-  ],
-  [
-   "Jesus",
-   "9avxQ9GKQgjhDs5UuvrqWpXMv4n6KNf6XvjDDoDZpump",
-   0.011,
-   10.0,
+   3.7,
    ""
   ]
  ]
