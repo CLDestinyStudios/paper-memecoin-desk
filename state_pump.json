@@ -6888,81 +6888,85 @@
   [
    "2026-10-30T07:19:04",
    32.58
+  ],
+  [
+   "2026-10-30T07:20:03",
+   32.58
   ]
  ],
- "cycles": 3164,
+ "cycles": 3165,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.33999999999999,
- "watching": 154,
+ "sol_usd": 94.61,
+ "watching": 144,
  "near": [
-  [
-   "CLAUDE",
-   "5EDoC7ezycxYAmzeG8VD1mpBwPgmQLka3iPE5oMzpump",
-   1.0,
-   9.9,
-   "graduated"
-  ],
   [
    "SCARY",
    "B9hSyFKRBtgqJ15G1FYCPk8CLoiTaubPQUzfCqwRpump",
-   0.967,
-   3.1,
+   0.96,
+   4.1,
    ""
   ],
   [
    "ween",
    "6hGYexNbfSy5UQjQAAetQpDouhkC9FP7ZgBmx8Hfpump",
-   0.865,
-   6.6,
+   0.723,
+   7.5,
    ""
-  ],
-  [
-   "IP",
-   "52JVEvXTpxp3oT64a9DDdvLz7MEHPRw6PWYUJwYBpump",
-   0.309,
-   2.4,
-   "serial_creator=10 launches/24h"
   ],
   [
    "SCARY",
    "6RwTKyEPFwKwnxb1dMjJgNhB3sBiJAUTKtUDEpsXpump",
-   0.16,
-   5.2,
+   0.142,
+   6.2,
    ""
+  ],
+  [
+   "KABOSU",
+   "FYbvLivQTQNzX2t8mqyiEq45mHAGC1HxnF5tH1Wzpump",
+   0.114,
+   6.0,
+   "buyers=7; top5_hold_most=93%"
   ],
   [
    "PORY",
    "Dbj5QREVwkNkM9Y9vSGuRJVHvixqzFkUga2CPVhzpump",
    0.077,
-   4.4,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "KABOSU",
-   "FYbvLivQTQNzX2t8mqyiEq45mHAGC1HxnF5tH1Wzpump",
-   0.064,
-   5.0,
+   5.3,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Duckie",
    "867GsHmJpCoHb25uq43emW1A9YXxpjESc87FZiQMpump",
    0.064,
-   6.0,
+   7.0,
    ""
   ],
   [
    "DONT SELL",
    "FYyx7qJeF4aYzWGVyFhRJ2psWhp7CfU1XMKeCDQhpump",
    0.056,
-   2.7,
+   3.7,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "Noel 2026",
-   "7WFV6maBqbeCRQprSB6dG3giUW5ZK935QKcbjc1gpump",
-   0.04,
-   9.6,
+   "POP",
+   "75AVfEqBR6gmVmoKzdMeU5zxZmF5XBXGmVNTXvekTRG5",
+   0.042,
+   2.4,
+   ""
+  ],
+  [
+   "$CatLick",
+   "E6enLKgmfZfohPF127nB3ovZC2x9rUxGXfQGFiX4pump",
+   0.035,
+   7.8,
+   ""
+  ],
+  [
+   "democRAT",
+   "D6mPLEEqrhdRSps6oKqVtkr9VqwAkxabgLw2b6rJpump",
+   0.023,
+   6.6,
    ""
   ]
  ]
