@@ -6704,81 +6704,85 @@
   [
    "2026-10-30T00:10:51",
    32.58
+  ],
+  [
+   "2026-10-30T00:11:46",
+   32.58
   ]
  ],
- "cycles": 2736,
+ "cycles": 2737,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.91000000000001,
- "watching": 149,
+ "sol_usd": 97.93999999999998,
+ "watching": 143,
  "near": [
   [
    "inucrypted",
    "4VHePvKfoQ3dMsH8jKZSddgr672RV12QkQgoGXsN2Fsf",
-   0.822,
-   2.2,
+   0.872,
+   3.1,
    ""
   ],
   [
    "Ginchan",
    "9vK7U9eLrUrMe17Y3asn48gj5GiRkaQpz1AywcPUpump",
-   0.718,
-   2.9,
+   0.521,
+   3.8,
    "creator=37.8%; top10=53.7%; top5_hold_most=82%"
-  ],
-  [
-   "ZERO",
-   "Df2N9wJWu7UNQdiCcAqU2QfypS1RCy9rqXnJqVTnpump",
-   0.191,
-   9.6,
-   "top5_hold_most=80%"
-  ],
-  [
-   "ANONYMOUSE",
-   "J9ZeznJEReSFmUzwnvQspTvJCtkNb28YiiucjxU9pump",
-   0.178,
-   9.3,
-   ""
   ],
   [
    "Peekhole",
    "8QWezo4XuNhML1bNmBnWkrxBYE5ernoz9V3YXc6Qpump",
    0.166,
-   2.8,
-   "buyers=6; top5_hold_most=100%"
+   3.7,
+   "buyers=8; top5_hold_most=100%"
   ],
   [
    "HARD",
    "wyxJJ5MoT2zZtVjqZkgohoJ1M32rgmyvK8Sv95Jpump",
-   0.148,
-   7.4,
-   "buyers=8; top5_hold_most=98%"
+   0.064,
+   8.3,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "JMZQ",
    "AJiG8UYpDnxQyT2XBtF7n2yYkh9MLSrezbo9WW7Mpump",
    0.043,
-   3.8,
-   ""
-  ],
-  [
-   "VICEBOT",
-   "2QGK85McpSF4KCNv3ofYuibhBFx8HBwXgBPL3TVqpump",
-   0.039,
    4.7,
-   ""
-  ],
-  [
-   "HP",
-   "76Lxd8ZFysyvGVWz4Hz3KRD451917Am8RUSzHr8Hpump",
-   0.028,
-   2.9,
    ""
   ],
   [
    "HB",
    "2tg1tFx7aRCJG8uRUdfmZM1kmnuA2bXcKgAyTF2jpump",
    0.027,
-   5.5,
+   6.4,
+   ""
+  ],
+  [
+   "SFU ",
+   "FnFvGeXPqNDs6fm2Nvex3TDH6VnTJLPJ2w1aVfWKpump",
+   0.022,
+   9.0,
+   ""
+  ],
+  [
+   "Nigga Ass",
+   "6wa87Xf3dXt7rB6A8fGHPFuABJMUMi3ttVjoTF68pump",
+   0.016,
+   5.1,
+   ""
+  ],
+  [
+   "GHOPE",
+   "GaNEAkcmcdmWrdQF4gQYR9yYKvkKomTCxDq8A6yapump",
+   0.006,
+   6.6,
+   ""
+  ],
+  [
+   "Gruffalo",
+   "4FrfB7RLiqCTQCaZDBkL9y97YJdYFwxKosLkgcsFpump",
+   0.006,
+   4.2,
    ""
   ]
  ]
