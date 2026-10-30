@@ -6994,84 +6994,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:25:58",
+   "2026-10-30T11:26:49",
    32.58
   ]
  ],
- "cycles": 3410,
+ "cycles": 3411,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.1824572157,
- "watching": 231,
+ "sol_usd": 94.1,
+ "watching": 233,
  "near": [
   [
    "NDA",
    "F8Zff15ZSwBHtaFp2NCphm3ubaGh8PFbh4trnSuhpump",
-   0.682,
-   4.3,
+   0.743,
+   5.1,
    ""
-  ],
-  [
-   "DAO",
-   "HizAjmeFkxGuNSkSe3ttw2EcsT5QNFQ41RcM72v6pump",
-   0.325,
-   3.1,
-   ""
-  ],
-  [
-   "Gemma",
-   "6HuwbEoWhY5iNsUhQhY4JnwzP2dLnynF7VAMb4aVpump",
-   0.248,
-   10.1,
-   ""
-  ],
-  [
-   "Gemma",
-   "CUxfHVagFzwXFWNFwtyLCxYQBy9qEouZNy3mUL3qpump",
-   0.152,
-   7.1,
-   ""
-  ],
-  [
-   "Search",
-   "G2BLJZ8L5rQAi63Uid1ERkzwbSmwxkooVuJcGrPBpump",
-   0.117,
-   3.9,
-   "buyers=1; top5_hold_most=100%"
   ],
   [
    "Wangcai",
    "Gg5ZkLmPzHMLMQZ9PsTxzTKsba9kJqStZycP6Bdapump",
    0.09,
-   5.6,
+   6.4,
    ""
-  ],
-  [
-   "Gemma",
-   "3TBfXyGnWHxKdhgMvCJzbxwoTMLhjshPLGoweDLkpump",
-   0.086,
-   5.4,
-   ""
-  ],
-  [
-   "STARLIGHT",
-   "6bvv5rPoiJR424ZHGckdkv6rALtVaLHf8razPnBWpump",
-   0.082,
-   8.4,
-   ""
-  ],
-  [
-   "PUMPKAT",
-   "81cpwxGFD26oSoXSPTWeRVceP53EzhWAya5DLhWmpump",
-   0.077,
-   9.6,
-   "buyers=2; top5_hold_most=100%"
   ],
   [
    "FSD",
    "C33wn2zLx5H976ryTAMG3TJ5VEeqF6fQemfVhwFypump",
    0.073,
-   7.0,
+   7.8,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "$SNIPE",
+   "H6ks3JZxACUpTvAvh69y8Hvjsvg1LUAueujV36YZpump",
+   0.063,
+   8.0,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "AAAAAAAAAA",
+   "6pajQqW77baB5jFMzrXr7yy2Gnv4zaanEA4Pm7cEqpKX",
+   0.043,
+   9.1,
+   ""
+  ],
+  [
+   "Wangcai",
+   "65Yry31J11yVuke724giBmsJ1SZHFnNUvJoe4iADpump",
+   0.043,
+   5.1,
+   ""
+  ],
+  [
+   "GINU",
+   "8bMNk6i8s9akuR6ygMiSMJesy3LnnGwW4Vsdgbat82fK",
+   0.043,
+   2.7,
+   ""
+  ],
+  [
+   "TYGR",
+   "FyG1Jr13zj7U957aw1voxZPU7Rv1iA4YnQKSvTKBpump",
+   0.038,
+   2.8,
+   ""
+  ],
+  [
+   "Wangcai",
+   "59B5uPJyWvGyRgXSSfaivcmG8Et7XHTDTw1xop8fpump",
+   0.021,
+   6.4,
+   ""
+  ],
+  [
+   "Gemma",
+   "CUxfHVagFzwXFWNFwtyLCxYQBy9qEouZNy3mUL3qpump",
+   0.02,
+   8.0,
+   ""
   ]
  ]
 }
