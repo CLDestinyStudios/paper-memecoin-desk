@@ -6800,81 +6800,85 @@
   [
    "2026-10-30T03:53:46",
    32.58
+  ],
+  [
+   "2026-10-30T03:54:46",
+   32.58
   ]
  ],
- "cycles": 2959,
+ "cycles": 2960,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.99500000000002,
- "watching": 188,
+ "sol_usd": 97.03999999999998,
+ "watching": 185,
  "near": [
   [
    "Kim",
    "qhbbjGBKJxW3AZGqngWM5tHcrENR3pVoRB9MCf1pump",
-   0.891,
-   4.0,
+   0.823,
+   5.0,
+   ""
+  ],
+  [
+   "Boobies",
+   "EhMSdwmd8VDYk7oXoFPSWhp8FTL8ZXDYg7wca3rpump",
+   0.125,
+   2.2,
    ""
   ],
   [
    "PVE",
    "AQio3iy7QaKjZSQ57Lvt1f2BCDvAt5aX8decxUaUpump",
    0.12,
-   3.2,
+   4.2,
+   ""
+  ],
+  [
+   "CPAD",
+   "A6LR8ND8xiJsLb9rp9FQ2d8WWKjmqJcq7ocbLJxbpump",
+   0.114,
+   2.8,
    ""
   ],
   [
    "CircuitATLAS",
    "8mFpGz82iiNpcuwFUuKU5hthz3NRmiu74J9nntEkpump",
-   0.099,
-   3.0,
+   0.097,
+   4.0,
    ""
-  ],
-  [
-   "Kim",
-   "EhNmFw3PxgRCHhhnJTakmaGcp2So49aUYvoMNzZ1pump",
-   0.085,
-   2.3,
-   "buyers=4; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
   ],
   [
    "CRINGE",
    "EG5gM23CuF9YidYeJKyYrxnSCro6MF7DhJCmfUujpump",
    0.065,
-   6.9,
+   7.9,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "QMOUSE",
    "DZrJa5XZShUMib7i26uzcWdSU7niDmYBTrscB96gpump",
    0.045,
-   5.2,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "LOL",
    "BoUHWbfHdy24mGoa4tuCQStou8AffA2VfRvyQMALpump",
    0.043,
-   3.2,
+   4.2,
    ""
   ],
   [
    "Pepe",
    "9jQ4kc7sJuNRv42LJFk1k385vKw9tScC6XK4mJ4Gpump",
    0.043,
-   5.7,
+   6.7,
    ""
   ],
   [
    "VULTY",
    "4t8XoXrZynVBKaVZgQTYUpVM6mpYZshkRjsyxE1Wpump",
    0.038,
-   7.7,
-   ""
-  ],
-  [
-   "CP",
-   "3tAgczhrDTJsjtbr1C2epgYU8JDEyJ7r2nhP3CAupump",
-   0.031,
-   4.1,
+   8.7,
    ""
   ]
  ]
