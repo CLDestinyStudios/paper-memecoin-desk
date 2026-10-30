@@ -6606,84 +6606,84 @@
    32.58
   ],
   [
-   "2026-10-29T20:19:29",
+   "2026-10-29T20:20:23",
    32.58
   ]
  ],
- "cycles": 2505,
+ "cycles": 2506,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.5501731727,
- "watching": 281,
+ "sol_usd": 95.67500000000001,
+ "watching": 275,
  "near": [
   [
    "TOKEN",
    "94ygQzoJq1gLa88rzr3TCRN119s6C7YKV8u5hxcRpump",
-   0.91,
-   2.8,
-   ""
+   1.0,
+   3.7,
+   "graduated"
   ],
   [
    "COMPUTE",
    "2BH5pmipEcSaV8dajFLsKAXMYDrP2gfTPGoQkJidpump",
-   0.778,
-   2.6,
-   ""
+   0.638,
+   3.5,
+   "launch_slot=missing"
   ],
   [
    "CHINGLING",
    "4jSsaqReY5g5u82Qpy3wH7zhbGEDDiEVyR32qc2jpump",
    0.396,
-   5.3,
+   6.2,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Vulu",
    "CePQDPsq2mbujtf6VnyVuEw67DMjgjChn18FzXmEpump",
-   0.259,
-   4.7,
-   "buyers=5; top5_hold_most=100%"
+   0.363,
+   5.6,
+   "top5_hold_most=96%"
   ],
   [
    "JANSEM",
    "JDkeWV94A8Q9CEkBcAykTrDe5Fe4utLuGEyiyG3wpump",
    0.226,
-   3.4,
+   4.3,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "SI",
    "5cC6RZeeAA46CoUvwFAqw1ZRVk7mfsCe8U17PcsqSCm6",
-   0.175,
-   5.3,
+   0.153,
+   6.2,
    ""
   ],
   [
-   "SI",
-   "FbjZDLrwXbSwcWq6kgKehLu7JHbzZPiokiwPKgzoQJq1",
-   0.156,
-   5.9,
-   "buyers=4; top5_hold_most=100%; bundled_launch=9 extra buys in creation block"
+   "HOTH",
+   "GVTR6e7vG7MCaKmyr4AECpE7bFDk78SrZqhvnBmPpump",
+   0.15,
+   2.5,
+   "top5_hold_most=88%"
   ],
   [
-   "SIC",
-   "CVNjqUFFW819CuLKSW6eRyXgRVf4vVV8e1WhzTb1pump",
-   0.145,
-   4.1,
+   "SI",
+   "DcfBijBiN2tdG4dtTkoJenCR24Zmnv2mJTjEiN8bpump",
+   0.142,
+   5.9,
    ""
   ],
   [
    "SIC",
    "5VULVWGDpYnSZZynbmxpfrbuwPS49oFM1B25vtGXpump",
    0.14,
-   4.2,
+   5.1,
    ""
   ],
   [
    "SIC",
-   "HASerVRMKxXrzQqXyd8mW4gjSK2PdBKrJjKP2oXYpump",
-   0.134,
-   3.1,
-   "buyers=4; top5_hold_most=100%; bundled_launch=12 extra buys in creation block"
+   "6xNxDktjk2DzXdS2z5GWuNfKGXNxqNhaWJ57LmLopump",
+   0.133,
+   3.6,
+   ""
   ]
  ]
 }
