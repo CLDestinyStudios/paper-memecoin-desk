@@ -6726,83 +6726,83 @@
    32.58
   ],
   [
-   "2026-10-30T00:59:46",
+   "2026-10-30T01:00:45",
    32.58
   ]
  ],
- "cycles": 2785,
+ "cycles": 2786,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.16000000000001,
- "watching": 96,
+ "sol_usd": 97.09608642309999,
+ "watching": 98,
  "near": [
   [
    "LAZARUS",
    "HWDp6Zh5yQyyXKTeYxFjYToxdikzWSBDfAzXYaCopump",
-   0.739,
-   2.6,
+   0.785,
+   3.6,
+   ""
+  ],
+  [
+   "RAMP",
+   "DC7RcUA7JiwF3Rtdej1489hBUrVNNJy9ZJgj78uApump",
+   0.773,
+   2.8,
+   ""
+  ],
+  [
+   "WOWNERO",
+   "CsDuTjCBSLNpNGMhUTGYzAY5YqpixhA2ZdnF5VpHpump",
+   0.072,
+   2.8,
    ""
   ],
   [
    "CHIEF",
    "5pizYavuWdWhG8eoDzShQckY6G2HJBsbWbKbw4vdpump",
-   0.232,
-   2.7,
+   0.031,
+   3.7,
    "top5_hold_most=85%"
-  ],
-  [
-   "ONEECHAN",
-   "GWDaoHAFNoz2qZ1RUHi5CPnTxWvgPX5EspPctCr7pump",
-   0.043,
-   9.5,
-   ""
   ],
   [
    "LNTN",
    "BByJSeQ3jssnoFK9kwhu6eKQhwusDSZtpGm1Z1Bk6eUx",
    0.025,
-   2.3,
-   ""
-  ],
-  [
-   "Gay",
-   "BcDGLbKbcimN9x3A5GrMjiEJGfYiyaN9pioNeL7Ypump",
-   0.024,
-   4.4,
-   ""
-  ],
-  [
-   "pepepill",
-   "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
-   0.024,
-   4.9,
+   3.2,
    ""
   ],
   [
    "JIM",
    "6G3rt4HDWrD7PCVHmSesREkUCJ76vmwgk78QWiRdpump",
    0.022,
-   4.2,
+   5.2,
+   ""
+  ],
+  [
+   "pepepill",
+   "82QhfYd9SAtP52Dmoxc9LeQgitHbUNQgT6duyVy5pump",
+   0.018,
+   5.9,
    ""
   ],
   [
    "USC",
    "4MVKMoFMtBPTijozMxbfjVdj2S6VCQVkYkMqjnXVpump",
    0.015,
-   7.5,
+   8.5,
    ""
   ],
   [
    "ULTRA",
    "zaenz9Br2dbNtBFK3Q93Z4TD9m9SQtsF2DmdA47pump",
    0.012,
-   7.3,
+   8.3,
    ""
   ],
   [
-   "JNT",
-   "D2KA8W3ScCLXLqz3YsVTAKrjBGL7J9SYq4g1mw5kpump",
-   0.011,
-   9.8,
+   "PRT",
+   "Vvq8VT8DTj5jiLRK8npu16sxD6d3oJDSkghYc8Xpump",
+   0.01,
+   6.4,
    ""
   ]
  ]
