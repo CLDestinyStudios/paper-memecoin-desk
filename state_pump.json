@@ -7070,83 +7070,83 @@
    32.58
   ],
   [
-   "2026-10-30T14:24:55",
+   "2026-10-30T14:25:53",
    32.58
   ]
  ],
- "cycles": 3589,
+ "cycles": 3590,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.28983726787982,
- "watching": 279,
+ "sol_usd": 95.33145,
+ "watching": 290,
  "near": [
+  [
+   "BEER",
+   "3iquKu5NKcX9whfuCx7Fe6fnsAMip6V8pC64B88Apump",
+   1.0,
+   3.0,
+   "graduated"
+  ],
   [
    "KoreanFlare",
    "o4on3aXsJDacKs72YULgFGQK6q8Ho7iWha5d5M2gbUL",
-   0.925,
-   8.2,
-   ""
-  ],
-  [
-   "SamsungChan",
-   "FduimugCBmqCWNA6TDAtbwu83LPqRVPKyYKFkseppump",
-   0.876,
-   3.3,
+   0.867,
+   9.2,
    ""
   ],
   [
    ">_",
    "G9eJX8zsEBW2P1j59ckJWqjfdNbom7mwb41AiaQTpump",
-   0.796,
-   5.6,
+   0.83,
+   6.6,
    ""
+  ],
+  [
+   "Trader",
+   "GkYj9JuiQ8ba5JUNg9Td1VY5Hc8icEc9Ue2P6UaWNGGA",
+   0.332,
+   8.2,
+   "bundled_launch=3 extra buys in creation block"
   ],
   [
    "RED STONKS",
    "4FAjV8kJ9rz1JTXfsepXVeqe9ZbGtNxCnPt6RkSkpump",
-   0.27,
-   5.0,
-   "buyers=5; top5_hold_most=100%"
+   0.321,
+   6.0,
+   "buyers=6; top5_hold_most=100%"
   ],
   [
    "RAT",
    "5stBxwzbGtt2adV3rUojLtqAneYnRv7bsGa1swMNpump",
-   0.241,
-   8.0,
+   0.234,
+   9.0,
    ""
   ],
   [
    "DCAT",
    "GBCz6G4Z88g4k5EqySCwUMibvLDFBd9o8HvCmXVjpump",
-   0.214,
-   8.4,
+   0.197,
+   9.4,
    ""
   ],
   [
    "GCAT",
    "HG4ojdCHjPSNJdwkGdAgW52qMUoDUx9MYFD4hPE5pump",
    0.089,
-   2.3,
-   "buyers=4; top5_hold_most=100%"
+   3.3,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "homelesscoin",
    "2gWLkmV1agG4jus7pNAY2McAdAgVQDGkmQsDiyszpump",
-   0.07,
-   6.2,
+   0.066,
+   7.1,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "MINEDOG",
    "J1WoXWks4xjMM3d4GJgc9A4tJG72nJf9S92qA3rNpump",
    0.045,
-   5.0,
-   ""
-  ],
-  [
-   "BCAT",
-   "C15yvfF6KfL785p5mi8RdrU8SATHtduixpT7PXnfpump",
-   0.045,
-   3.7,
+   5.9,
    ""
   ]
  ]
