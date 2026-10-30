@@ -6846,83 +6846,83 @@
    32.58
   ],
   [
-   "2026-10-30T05:40:09",
+   "2026-10-30T05:41:04",
    32.58
   ]
  ],
- "cycles": 3065,
+ "cycles": 3066,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.53557626759999,
- "watching": 170,
+ "sol_usd": 96.43229246005001,
+ "watching": 166,
  "near": [
+  [
+   "SCRIPT",
+   "7S3kXqqXq5unAfVA7NuMK6Xf14XrxeZkgaWy6Bpbpump",
+   0.932,
+   2.5,
+   ""
+  ],
   [
    "PeePee",
    "EgbkkxwdkCTEfNGQjRixqbK9hZp2wLncUmVUBT6upump",
-   0.63,
-   8.1,
-   "creator=28.9%"
+   0.667,
+   9.0,
+   "creator=29.1%"
   ],
   [
    "PAHOL",
    "5Pd1nGv4kB4CbqzuTcL1vdCL9ivhWd1SBDMFdtM6pump",
    0.268,
-   6.8,
+   7.7,
    "top5_hold_most=86%"
+  ],
+  [
+   "greyseal",
+   "bFq9Wue7E2eKq57YDRimx1frzhth7AqD7hXpL5Ypump",
+   0.243,
+   2.7,
+   "serial_creator=7 launches/24h"
   ],
   [
    "SM",
    "ETP5oG84VesVDQgYRaW8EicsN5mcBiMZis7oPpfipump",
-   0.24,
-   6.8,
-   ""
-  ],
-  [
-   "SIX",
-   "FZf6SiHEPxNAha6MhzXaMP5pNAioXpCVDrKZf234XVmn",
-   0.222,
-   8.7,
+   0.212,
+   7.7,
    ""
   ],
   [
    "#DisarmAI",
    "277H8iZqp8ugnaXtaA8SwjCy7ontbsCqG6VcW3YMEUHV",
-   0.199,
-   3.6,
+   0.178,
+   4.5,
    "launch_slot=missing"
+  ],
+  [
+   "SIX",
+   "FZf6SiHEPxNAha6MhzXaMP5pNAioXpCVDrKZf234XVmn",
+   0.119,
+   9.6,
+   ""
   ],
   [
    "DisarmAI",
    "AJgempwHbCWKthNuYvQmzs7eUVnFDkD2XjwEqXSqGNgn",
-   0.12,
-   3.4,
+   0.09,
+   4.3,
    ""
-  ],
-  [
-   "\ubc15\ubbfc\uc7ac",
-   "EwqVKkZ5USsA9ubYR2ytewdzrdnDf5miYhj2WkiWpump",
-   0.067,
-   2.4,
-   "buyers=2; top5_hold_most=100%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "NCTO",
-   "HpssqLTbAEcq55bndmYqhXJnReFtMujoJesyeR8jpump",
-   0.064,
-   8.9,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "ACTX",
    "ESNG7pSUk7eMAxmRphSpGBShMfVfMJsG2yDMfm4hpump",
    0.064,
-   2.8,
+   3.7,
    ""
   ],
   [
    "HACKER",
    "8LTL3ySGrJ9nmPe3frbgXyyQ3oXBuhEBastebBHvpump",
    0.064,
-   2.3,
+   3.2,
    ""
   ]
  ]
