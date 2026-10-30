@@ -6614,83 +6614,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:39:19",
+   "2026-10-29T20:40:19",
    32.58
   ]
  ],
- "cycles": 2525,
+ "cycles": 2526,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.59999999999998,
- "watching": 177,
+ "sol_usd": 96.63737461485,
+ "watching": 176,
  "near": [
   [
    "SSI",
    "8wkx3pahmtzWtjz5c5mHbsFEEVQAzP7U8ZR2A4nnpump",
-   0.904,
-   3.3,
+   0.934,
+   4.3,
    ""
   ],
   [
-   "GIMODELO",
-   "2UrFGhtR6hu6HxK3QpHnJEi2bu15RcyYkPocLecUpump",
-   0.817,
-   3.2,
+   "MS",
+   "GnJwWPRbjueWT26BT6w5qFr3gUV4KNDtvTmJQrdMpump",
+   0.379,
+   2.4,
+   "rugcheck=creator history of rugs"
+  ],
+  [
+   "WENCAR",
+   "JDqUZzGvGWHiuegCV1vZAAuKebaVuBWuSkyRnfT5pump",
+   0.114,
+   2.7,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "COMPUTE",
+   "DYVwYek8qi8ssQW1mJbihNzUfm4bLRnCiCykej9f7ehV",
+   0.086,
+   6.2,
    ""
-  ],
-  [
-   "Kilo Code",
-   "AwRrFr2vD2kr8mWtnV6uzAZShfknGvkSW332hjvzpump",
-   0.497,
-   3.3,
-   "top5_hold_most=82%"
-  ],
-  [
-   "LEPTEP",
-   "2WRTmZq6ByjLYQiaSvLWEEHwQxRKRT3gGLMUruLSpump",
-   0.237,
-   9.4,
-   "buyers=7; top5_hold_most=91%"
-  ],
-  [
-   "SIH",
-   "4H25DrbUsnhnZ9eoQJvaq96qvhXhy7NVEUBuHgCvpump",
-   0.15,
-   2.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "PICARD",
-   "9z8yXkyVeEyk4TGr6hBj11RUa5e6GeA1kWD7bqunpump",
-   0.117,
-   8.4,
-   "buyers=6; top5_hold_most=100%"
-  ],
-  [
-   "CAMPAIGN",
-   "2JSc325hybcfgyijBGZza5GZE3wfEErKD1MGGDhYpump",
-   0.091,
-   3.4,
-   "buyers=5; top5_hold_most=100%"
   ],
   [
    "SHI",
    "CjFqXT3kiDMiDdipaByc7oGVzy3wtwBYQDkbcsw5pump",
    0.083,
-   2.4,
+   3.4,
    ""
   ],
   [
    "SSI",
    "46E5qabUELaEs17kmbm8TzyrkguN5XXbf6RP6pZStxQm",
    0.081,
-   4.5,
+   5.5,
    ""
   ],
   [
-   "AC",
-   "5Z7FAW1VrUC4PAKLqgoYqq7LMuRe8raeLLMDRfgFpump",
-   0.081,
-   9.8,
+   "HypeHouse",
+   "CwZYNthss6jfmsKsZHzWSpCsSR3Lkm9RVcXSHZjXpump",
+   0.056,
+   9.5,
+   "buyers=2; top5_hold_most=100%"
+  ],
+  [
+   "SPC",
+   "44RyEsuzv8pvZEphLRxosfU3dBcu1VttvDKb53Vqpump",
+   0.043,
+   7.7,
+   ""
+  ],
+  [
+   "W",
+   "GAevssKFZQjuaCRo75CcgH4ehYGXvw397sUBpmL5quT9",
+   0.043,
+   3.5,
+   ""
+  ],
+  [
+   "SC",
+   "74CqVx1BWyJxVvjkT9DA51xsgKykJLj1SnLvfDvCpump",
+   0.043,
+   7.2,
    ""
   ]
  ]
