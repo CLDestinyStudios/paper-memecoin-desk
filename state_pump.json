@@ -6590,82 +6590,82 @@
    32.58
   ],
   [
-   "2026-10-29T19:37:22",
+   "2026-10-29T19:38:13",
    32.58
   ]
  ],
- "cycles": 2463,
+ "cycles": 2464,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.12375000000002,
- "watching": 215,
+ "sol_usd": 95.10999999999999,
+ "watching": 208,
  "near": [
-  [
-   "COMPROMICED",
-   "9BQ62FDYAx6kdeEnyEknjfMru5w1GcyDr4eygyHmpump",
-   0.582,
-   2.4,
-   "serial_creator=10 launches/24h"
-  ],
-  [
-   "LI",
-   "Bx9TaY3uGh4mngHStdaRNtUHmRryZb3xecE4jSedpump",
-   0.393,
-   2.4,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "UI",
-   "HYRv6fg6bMvzCB6urJQr4HJYCed9iZan67K17Aucpump",
-   0.281,
-   2.8,
-   "bundled_launch=5 extra buys in creation block"
-  ],
   [
    "LAPTOP",
    "B8wT4kYyrQRigVBQvp2ETkP1aK9XoWC6FY2NBrp2pump",
-   0.098,
-   5.9,
+   0.158,
+   6.8,
    ""
   ],
   [
    "LAPTOP",
    "A7uzrsmeWfw2QiHZeXrCgu6Upr3XGLp4CQcEbaueo3ju",
    0.087,
-   7.4,
+   8.3,
    ""
   ],
   [
-   "Tally",
-   "57q4pWRPwgpRaMyvsJHh5kmy9VyknsuafRgomYnspump",
-   0.067,
-   2.9,
-   "buyers=5; top5_hold_most=100%"
+   "DAVID",
+   "B9YXZU7o98EfumY4m2sgjBf1KuJ9Jw89NKptLrAspump",
+   0.076,
+   2.5,
+   ""
   ],
   [
    "DFG",
    "DD9X8g7dayYHL6ZGGCsTFraLAaWs9Q5vzfKiUVXupump",
-   0.057,
-   5.2,
+   0.073,
+   6.0,
    ""
   ],
   [
    "LAPTOP",
    "5t25D9NfP3u5nWAE6igj3UUh2HaJ9J6EFjqBPVsopump",
    0.048,
-   4.9,
+   5.8,
    ""
+  ],
+  [
+   "Tally",
+   "57q4pWRPwgpRaMyvsJHh5kmy9VyknsuafRgomYnspump",
+   0.045,
+   3.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "Macbook",
    "8XDnpQLMRiQxZgCAnL7Q6sjcPhtGYt41TijLNFxxpump",
    0.043,
-   7.6,
+   8.5,
    ""
   ],
   [
-   "Binlaptop",
-   "AnrKq2b68K43T7cEkT4MswXV3yXFr1eQAUdnwgPTpump",
-   0.043,
+   "PERPEES",
+   "2vE6tS6zYdXdNBBebgoaEoQxhBo7ULr7hKJT1J7Ppump",
+   0.038,
+   9.6,
+   "buyers=8; top5_hold_most=83%"
+  ],
+  [
+   "DAVIDHSU",
+   "5onpNELRNiHMtPgxnC8n6P1CpqycRPWfpeuxnENPpump",
+   0.036,
+   2.0,
+   ""
+  ],
+  [
+   "COMPROMICED",
+   "FUL6kaSMmKMB5CN6BDjFoVHcKusqBZeoqXzecqs6pump",
+   0.034,
    2.3,
    ""
   ]
