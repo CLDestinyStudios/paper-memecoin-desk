@@ -6598,83 +6598,83 @@
    32.58
   ],
   [
-   "2026-10-29T20:01:15",
+   "2026-10-29T20:02:17",
    32.58
   ]
  ],
- "cycles": 2487,
+ "cycles": 2488,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.33565000000002,
- "watching": 225,
+ "sol_usd": 95.46269999999998,
+ "watching": 216,
  "near": [
   [
    "OWLS",
    "GQsS2hLeQoB7p4Ho76XvFAY631mEpJzqMj2VPePkpump",
-   0.881,
-   3.0,
-   ""
-  ],
-  [
-   "Tally",
-   "CXKBkTZtSuewVBAmxhhBB2cko4fw4Vuq5JP57axxpump",
-   0.526,
-   7.4,
+   0.855,
+   4.1,
    ""
   ],
   [
    "HYPESAHUR",
    "8SCZD2KK3av8dwtqJy59qRTNWJj8wFsvxaBX6EMmpump",
-   0.27,
-   2.3,
-   "creator=15.2%; top5_hold_most=81%"
+   0.294,
+   3.3,
+   "creator=15.2%"
   ],
   [
    "Reverse",
    "DrsVeXVWNCDQRPU3Ur4Tmo1UDqZLjHmXaAqymnvBpump",
    0.195,
-   6.0,
+   7.0,
    "buyers=6; top5_hold_most=96%"
-  ],
-  [
-   "TRIPPYBARA",
-   "95WTfC5p1UWxri3HRteywCyK9J31KKpVLnzkGiYvpump",
-   0.186,
-   3.0,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "TripleC",
-   "BhwRkfD5PZTTASn7Psy9b4unR7zwpuxw3BwQTDHNpump",
-   0.14,
-   4.6,
-   "top5_hold_most=80%"
   ],
   [
    "TRIPPYBARA",
    "EhF4WUqrzcFEQiDjK4nPE7CPREiGJaTAHBWYTqYMpump",
    0.115,
-   4.3,
+   5.3,
    ""
+  ],
+  [
+   "OWLS",
+   "6T8vjEudfHZLKuhoge8BLvzAewi5DiJxvUzPTLBqpump",
+   0.089,
+   2.9,
+   "buyers=3; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "OZBINANCE",
    "2gYYDokyaSkNQcZ6koTiuT3PNcDzfykB1EpYrDHapump",
    0.089,
-   2.3,
+   3.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "TripleC",
+   "BhwRkfD5PZTTASn7Psy9b4unR7zwpuxw3BwQTDHNpump",
+   0.085,
+   5.6,
+   "top5_hold_most=80%"
+  ],
+  [
+   "RODNEY",
+   "DN3bAaWXbtmYMtDeiByF135FZ6S9DPKErC87BLZJpump",
+   0.08,
+   2.3,
+   ""
   ],
   [
    "TRIO",
    "7Vkvr5WoCnBZ6eXj2d3tn6rusNzxRiroRUSyL9hcpump",
    0.079,
-   3.6,
+   4.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "TripleC",
-   "6KRtbjfA2xJw9yb461YpZughbqEw5Syg6Q5bTSHppump",
-   0.072,
-   3.1,
+   "Taurus",
+   "CpYx9mrkGt4SdffzMFTC3qFqH3rMpbSqWj3Eg6AcMx5y",
+   0.073,
+   2.5,
    ""
   ]
  ]
