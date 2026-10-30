@@ -6806,83 +6806,83 @@
    32.58
   ],
   [
-   "2026-10-30T04:04:45",
+   "2026-10-30T04:05:47",
    32.58
   ]
  ],
- "cycles": 2970,
+ "cycles": 2971,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.99337527315001,
- "watching": 157,
+ "sol_usd": 97.00356108049999,
+ "watching": 159,
  "near": [
   [
-   "BONI ",
-   "EYekcpg5pj6eJELPaotzzezwMNPUmpkSWTQDvMBapump",
-   0.358,
-   3.2,
-   ""
+   "ACT H",
+   "BWT5jwL24JKV792KDtJN6J9sftShqbrBUH9CzNzJpump",
+   0.378,
+   2.2,
+   "bundled_launch=5 extra buys in creation block"
   ],
   [
    "YALI",
    "ArhUgTudp76rTcYr6CoqSrPC9K8zChKqyq7ErZorpump",
    0.141,
-   8.4,
+   9.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
-   "YUN",
-   "HNMpGfQrb6QviL9VGcnCdL7xyARHGHjoHAhuBFQ5pump",
-   0.11,
+   "JAVITS",
+   "Eb6iFCRuT2Z3rT9otMhGDFpYFdacRCxjCHmLevQqpump",
+   0.127,
+   2.8,
+   "bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "KIM",
+   "4xGYuxmb3MdY1JvUqS8nJuF4xDVyPDqY13PyYmhXpump",
+   0.122,
    2.3,
+   "top5_hold_most=96%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "YUN",
+   "GeQYBX6ZUZUYvmbbax3EBjHmhHt89H6deWb9D3a5pump",
+   0.107,
+   2.7,
    ""
   ],
   [
    "prm",
    "Gw8DXqgi6psSmAyW1ww7AoBX1sRcGrmLuRdnieMKpump",
    0.09,
-   5.1,
-   ""
-  ],
-  [
-   "YiLong",
-   "HN6GVxMVKRX1WictbRv9ZbRgTfrw5UkHuT9WX3xRpump",
-   0.085,
-   2.3,
-   ""
-  ],
-  [
-   "KIM",
-   "HhWR3ZQAvZ38svoKAsRdrjAdPCRgd4eYiijCmCSGpump",
-   0.064,
-   8.4,
+   6.1,
    ""
   ],
   [
    "qoute",
    "EU91R369a1UQWVuhdNfAT5vfg4pDLBoWDzp6pYPGpump",
-   0.063,
-   6.0,
+   0.078,
+   7.0,
+   ""
+  ],
+  [
+   "YiLong",
+   "HN6GVxMVKRX1WictbRv9ZbRgTfrw5UkHuT9WX3xRpump",
+   0.076,
+   3.3,
+   ""
+  ],
+  [
+   "CZ",
+   "AUzQCczyFgCjtfcxY7H3uH7k3nTmacSzcrM1F1gQohQX",
+   0.069,
+   3.5,
    ""
   ],
   [
    "CircuitATLAS",
    "HBbGUNXfMs4YnSCDDNwha2KcG1raW716bzM8eDzXpump",
    0.043,
-   5.9,
-   ""
-  ],
-  [
-   "DAEMON",
-   "AYutMbZWUrrntMfnnyr2m5fNnABxdNxYeoEr6AW4pump",
-   0.022,
-   5.3,
-   ""
-  ],
-  [
-   "$GHOST",
-   "BSCUnqcv8kYH61CHv18Gs9V7yzB6aDnTWmoAbdy7pump",
-   0.016,
-   4.5,
+   6.9,
    ""
   ]
  ]
