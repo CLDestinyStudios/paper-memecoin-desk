@@ -7118,84 +7118,84 @@
    32.58
   ],
   [
-   "2026-10-30T16:14:55",
+   "2026-10-30T16:15:53",
    32.58
   ]
  ],
- "cycles": 3699,
+ "cycles": 3700,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.81406758419999,
- "watching": 260,
+ "sol_usd": 95.7404474052,
+ "watching": 267,
  "near": [
-  [
-   "\u7ef4\u65af\u73c0",
-   "FLwFaVjs2dNqXxSKifmMnKKUf6tHzG1QkgcuXYjSpump",
-   0.145,
-   2.7,
-   "buyers=9; top5_hold_most=91%; bundled_launch=5 extra buys in creation block"
-  ],
-  [
-   "CHIP",
-   "DFhiYK7difZN4wQMZVs34unx1MudLyJtemkAuFgppump",
-   0.141,
-   6.7,
-   ""
-  ],
   [
    "LSTV",
    "7DJSjmjjxrtyqxhxghsUykMv6KbvRcfqDd6QcFPapump",
    0.139,
-   6.4,
+   7.4,
    "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "trenchscope",
+   "8ZLtaBkfZZViR4gTzwjRyAa4oojXEHq4MCD2fVvCpump",
+   0.089,
+   2.1,
+   ""
+  ],
+  [
+   "SIMPS",
+   "EFQoespcPmtYVFMU9akFUnV5kRAUgbtLeFRus6iEpump",
+   0.082,
+   5.9,
+   ""
   ],
   [
    "iPUMP",
    "9gHmHpgiMMNRGfdvSD9Hq3yqpBBmwXz452ekZkHfpump",
-   0.114,
-   5.9,
+   0.081,
+   6.9,
    "buyers=9; top5_hold_most=96%"
-  ],
-  [
-   "CHIP",
-   "7p2Yx5atUzBnEGYJHwb1eibibXyxKdyxhYBodU8bpump",
-   0.107,
-   8.5,
-   ""
-  ],
-  [
-   "APPUMPFUN",
-   "AM6AwBbRBh9EPvHVzjGa6WuVrNM8Qzpt6qeXdn54pump",
-   0.089,
-   5.1,
-   "buyers=2; top5_hold_most=100%"
-  ],
-  [
-   "CHIP",
-   "3CJR8ggxtKbDuzKZw9cxwkx66dhzRFxSdZRxb6ACpump",
-   0.088,
-   7.8,
-   ""
-  ],
-  [
-   "CHIP",
-   "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
-   0.082,
-   8.1,
-   ""
-  ],
-  [
-   "CHIP",
-   "FgNT8oYHPwVsyUi7Rwb2tqB1HjUUEAN11GuWiSUHpump",
-   0.063,
-   7.2,
-   "buyers=8; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "$AURV",
    "HrETHEUwoaBDEaDA5rXDVMUxfxYzgsSWas8FM8tnpump",
    0.056,
-   5.3,
+   6.3,
    "buyers=1; top5_hold_most=100%"
+  ],
+  [
+   "CLICKED",
+   "6doa4eMqkQ8C64b5puLFuA5J4v8Y2L5f5Ad26Kcfpump",
+   0.055,
+   7.0,
+   ""
+  ],
+  [
+   "simps",
+   "6TWjvo289XKpvUtpevoxCZvCq9t37rmukkTmYmETpump",
+   0.042,
+   6.3,
+   ""
+  ],
+  [
+   "CHIP",
+   "92URCpV5RGPsGVqysxnTvJf2jn1SQtSPXYTn41pWpump",
+   0.042,
+   9.5,
+   ""
+  ],
+  [
+   "CHIP",
+   "6d5vGVybsgRoQUakZVc4gEP3YrzkDAxhN6UBqWQFpump",
+   0.041,
+   9.0,
+   ""
+  ],
+  [
+   "Clarus",
+   "7qLgbipoykeoXDZADZKHMmE3MJ17FH2EiGSi2pFTpump",
+   0.031,
+   3.1,
+   ""
   ]
  ]
 }
