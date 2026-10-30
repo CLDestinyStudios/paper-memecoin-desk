@@ -6690,83 +6690,83 @@
    32.58
   ],
   [
-   "2026-10-29T23:41:16",
+   "2026-10-29T23:42:15",
    32.58
   ]
  ],
- "cycles": 2707,
+ "cycles": 2708,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.95646923605001,
- "watching": 156,
+ "sol_usd": 97.93,
+ "watching": 151,
  "near": [
   [
    "QRV",
    "9zprzcHWkSqzqCzKrx6sAJMa593aAe5q2G9hL8aopump",
-   0.29,
-   2.5,
-   "top5_hold_most=93%"
+   0.276,
+   3.5,
+   "buyers=9; top5_hold_most=98%"
   ],
   [
    "dog",
    "pJVqoxV2zrg1PuMfseyteEwPrGy6X3bziyQuNqbpump",
-   0.224,
-   6.0,
+   0.222,
+   7.0,
    ""
   ],
   [
    "GEKKO",
    "7QQXpVsGCxV8vYJH6RE9SoYeNZZeCsWUYBMXobyRpump",
-   0.188,
-   6.5,
-   "top5_hold_most=94%"
+   0.203,
+   7.5,
+   "top5_hold_most=95%"
   ],
   [
    "October",
    "DUW4qDACwFJ9z3VuU2MzirLhPLVaeHGbrSdvDXRJpump",
    0.074,
-   2.1,
+   3.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "DOOR",
    "2qVTJcpQXKt3MKvfWswoQn1ZRfLiYY4gFpqithGD2LAP",
    0.055,
-   7.4,
+   8.4,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "Blero",
    "BbHx52yizinT1H9hKME6kJQDwefyjYzR1jN7MaiVpump",
    0.045,
-   7.4,
-   ""
-  ],
-  [
-   "PARK",
-   "5e1rCUegDrLTqKga7wqyAj26NbCeiLe7LVs6BgSfpump",
-   0.043,
-   9.2,
+   8.4,
    ""
   ],
   [
    "UNOF",
    "GrxiaVy7tVugemXDscqtwvQtxPnP7umN5RfKpE8zpump",
    0.027,
-   2.5,
+   3.5,
    ""
   ],
   [
    "$ELONCHILL",
    "2WGGgstjCPkZWkdqH73rzrj8RQDaBfEs3BuTiJT9pump",
    0.019,
-   8.7,
+   9.7,
    ""
   ],
   [
    "Gramps",
    "AkguczhnMXUNkZ5ibY5obzfEEqLvUhJeeAqq4o3npump",
+   0.017,
+   8.8,
+   ""
+  ],
+  [
+   "Bottom",
+   "G73SiEqtsi5gwUssb4LBaWUMbnJKR5WTtwKNAEpipump",
    0.007,
-   7.8,
+   6.7,
    ""
   ]
  ]
