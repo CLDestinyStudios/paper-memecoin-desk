@@ -6600,81 +6600,85 @@
   [
    "2026-10-29T20:04:17",
    32.58
+  ],
+  [
+   "2026-10-29T20:05:17",
+   32.58
   ]
  ],
- "cycles": 2490,
+ "cycles": 2491,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.63275000000002,
- "watching": 222,
+ "sol_usd": 95.58779999999999,
+ "watching": 237,
  "near": [
   [
    "OWLS",
    "GQsS2hLeQoB7p4Ho76XvFAY631mEpJzqMj2VPePkpump",
-   0.582,
-   6.1,
-   ""
+   0.289,
+   7.1,
+   "serial_creator=10 launches/24h"
   ],
   [
-   "Lucky",
-   "G2cfwcua3ytbWYZnM9Eh1WuaJ9A4fVrEcS5XZVQapump",
-   0.447,
-   2.3,
-   ""
+   "POKE",
+   "DZXkAz8NkFozi313eQirQMqMgPeVxT7K2UmAMZscpump",
+   0.218,
+   2.1,
+   "top5_hold_most=92%; bundled_launch=4 extra buys in creation block"
   ],
   [
    "Reverse",
    "DrsVeXVWNCDQRPU3Ur4Tmo1UDqZLjHmXaAqymnvBpump",
    0.195,
-   9.0,
+   10.0,
    "buyers=6; top5_hold_most=96%"
   ],
   [
    "SSI",
    "GWPCyPxHeLHFoFGgdtZEqE1vLHiiXmP9NnsomzWTpump",
-   0.139,
-   6.7,
+   0.165,
+   7.7,
    "buyers=5; top5_hold_most=100%"
+  ],
+  [
+   "TripleC",
+   "BhwRkfD5PZTTASn7Psy9b4unR7zwpuxw3BwQTDHNpump",
+   0.143,
+   8.6,
+   "top5_hold_most=80%"
   ],
   [
    "BOUNCE",
    "DP7BULA9SuRaYnbh6EYEyD5UP3Sa7Ynm4Y4JMKs1pump",
-   0.109,
-   3.6,
+   0.131,
+   4.6,
+   ""
+  ],
+  [
+   "Lucky",
+   "G2cfwcua3ytbWYZnM9Eh1WuaJ9A4fVrEcS5XZVQapump",
+   0.112,
+   3.3,
    ""
   ],
   [
    "TRIO",
    "7Vkvr5WoCnBZ6eXj2d3tn6rusNzxRiroRUSyL9hcpump",
-   0.108,
-   6.7,
-   "buyers=6; top5_hold_most=98%"
-  ],
-  [
-   "Jinifer",
-   "Cy4zkoB9N1bb2R9ZXyndJADr74LstCMHKQEK8GJNpump",
-   0.073,
-   2.8,
-   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "TRENTON",
-   "Hnr5NoYVrw44M2JAY25eU7gWK2MxSbkPqEsoQhahpump",
-   0.071,
-   3.4,
-   ""
+   0.106,
+   7.7,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "DOG",
    "ACqkdRXMNMs1TT75FgwSp1nL1P7BLQtNMSGojiVUpump",
    0.071,
-   2.9,
+   3.9,
    ""
   ],
   [
    "PEET",
    "F7Rr12d23bMNVr41TUHKv9r1Pgdo4bkvr2A7buYfpump",
    0.062,
-   2.2,
+   3.2,
    ""
   ]
  ]
