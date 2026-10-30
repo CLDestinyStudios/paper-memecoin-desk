@@ -6606,84 +6606,84 @@
    32.58
   ],
   [
-   "2026-10-29T20:14:18",
+   "2026-10-29T20:15:18",
    32.58
   ]
  ],
- "cycles": 2500,
+ "cycles": 2501,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.53866995945,
- "watching": 269,
+ "sol_usd": 95.43,
+ "watching": 273,
  "near": [
+  [
+   "SICoin",
+   "4fd6wHAiTRmyV8gc4o6XhjbhELsg5XVavQcAVBkNjUED",
+   1.0,
+   2.2,
+   "graduated"
+  ],
+  [
+   "SIC",
+   "3R2f4s5aeCLFQuWNKSvJSRXXfMT4wAB8ZFbQosxTpump",
+   1.0,
+   2.1,
+   "graduated"
+  ],
+  [
+   "SIC",
+   "2Y4VPwbVatx3zFZkQb9S2avVqe26gMsGpWhGA5swpump",
+   1.0,
+   2.2,
+   "graduated"
+  ],
+  [
+   "se/accinu",
+   "6DW3pbp8CrvHLdG1jRAhsM4nnU9cAkDrxoSLHtiipump",
+   0.174,
+   2.5,
+   "buyers=8; top5_hold_most=100%; bundled_launch=7 extra buys in creation block"
+  ],
   [
    "DPRK",
    "GiJXY4hE9koMCgRJQ6XSRXAoiDBQncMpdMecfmUHpump",
    0.116,
-   3.8,
+   4.8,
    ""
   ],
   [
    "Micromeme",
    "AXum2CMZWww6FafRUvQpcrXJT8VqF1LHmLuQYUEFpump",
    0.114,
-   7.4,
+   8.4,
    ""
   ],
   [
-   "se/accinu",
-   "7jVeUmPDSFLpbBofMG1HLycmvaFTQ9McCyyKyZkRpump",
-   0.079,
+   "SI",
+   "2yYgKbuAusfkzgjSKRJa6Tmmb63vzKatj332XkPra9Gn",
+   0.098,
+   2.1,
+   ""
+  ],
+  [
+   "SIA",
+   "66PbE5Ygeatyje2FuWY1GwTcu4DdekciPDMCtpYEpump",
+   0.089,
+   2.2,
+   ""
+  ],
+  [
+   "SIA",
+   "5rSfnykhsofJvbo6RxaZKU56rjxfyTxd2CgvkF1epump",
+   0.07,
    2.3,
-   "buyers=1; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
+   ""
   ],
   [
    "BLU",
    "Hirpx3nF29rALk7mXVGEkA3eFvFA7UowBUFUgXdipump",
    0.066,
-   6.4,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "se/acc",
-   "Um4UgZhfumbZubvTAqcgV1Cino59c95oDzJJrxopump",
-   0.064,
-   5.7,
-   ""
-  ],
-  [
-   "NUGGET",
-   "EbJzpUKAqWzwwjdc7twB1bzPs7igmrKJdpD3m52Npump",
-   0.043,
-   2.8,
-   ""
-  ],
-  [
-   "Gemini",
-   "9dkKx9EED1kdcGcpxhsepyQ1cq9NAkBScsdZs6qApump",
-   0.043,
-   9.2,
-   ""
-  ],
-  [
-   "CCC",
-   "47SrwoPVskn4SevtjJy5y24nR9XgEPMJUZPakAbgpump",
-   0.043,
    7.4,
-   ""
-  ],
-  [
-   "PREDICTBOT",
-   "BLJzhBCJ2L5oavb7upGamCjWhd5rFNzgchdV2uxepump",
-   0.039,
-   2.5,
-   ""
-  ],
-  [
-   "NUGGET",
-   "2esRVzD6e2k2csgw2aXis13iffdzuskztkMJoFE1pump",
-   0.029,
-   2.4,
-   ""
+   "buyers=3; top5_hold_most=100%"
   ]
  ]
 }
