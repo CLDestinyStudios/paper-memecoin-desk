@@ -1,7 +1,19 @@
 {
  "bank_start": 500.0,
- "cash": 502.59952966659614,
- "positions": {},
+ "cash": 462.38952966659616,
+ "positions": {
+  "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump": {
+   "sym": "SAFU",
+   "qty": 283608.4073917337,
+   "entry": 0.00014178,
+   "mark_entry": 0.000139,
+   "cost": 40.21,
+   "peak": 0.000139,
+   "last": 0.000139,
+   "opened": 1793374307.439385,
+   "p_buy": 0.75
+  }
+ },
  "watch": {},
  "traded": [
   "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
@@ -14,7 +26,8 @@
   "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump",
   "A6PM7bxyWYiUxaEpRMHvuL4tY2jYVf8N46vXZ15Hpump",
   "GJKnJsRiM5ATS4yhwjYRegT3iRsXUvcW1dafJPh8pump",
-  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump"
+  "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
+  "kziXxCJLQMpkiuoyAkgHELxGcKDs4hNoeWdnpgkpump"
  ],
  "equity": [
   [
@@ -2076,7 +2089,11 @@
   [
    "2026-10-30T08:30:47",
    502.6
+  ],
+  [
+   "2026-10-30T08:31:47",
+   501.02
   ]
  ],
- "cycles": 3292
+ "cycles": 3293
 }
