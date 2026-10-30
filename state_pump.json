@@ -6766,84 +6766,84 @@
    32.58
   ],
   [
-   "2026-10-30T02:31:46",
+   "2026-10-30T02:32:47",
    32.58
   ]
  ],
- "cycles": 2877,
+ "cycles": 2878,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.68684048175,
- "watching": 229,
+ "sol_usd": 96.77396915069998,
+ "watching": 221,
  "near": [
   [
    "SAFU",
    "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
-   0.931,
-   8.6,
+   0.945,
+   9.6,
    ""
   ],
   [
    "CTO",
    "GJfiw4NhFLBUraeQPAAfez2AKXUdJcdCyPjuqUerpump",
-   0.826,
-   2.2,
+   0.868,
+   3.2,
    ""
   ],
   [
-   "NORTH",
-   "B8aNWZf6cYxm1vreBYHd1phZEks7ZQxnpLPYmGZkpump",
-   0.319,
-   2.7,
-   "bundled_launch=3 extra buys in creation block"
-  ],
-  [
-   "CRIME",
-   "8kajMzrugX4FUkSzdncWwU3aZE1PEth6PqGdxu9tpump",
-   0.186,
+   "SI",
+   "E4gXUpF4wqegWNhBuWtpCLUccA7zc4mhCRtDdUG4pump",
+   0.303,
    2.3,
-   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+   ""
   ],
   [
-   "BUFF",
-   "7mVzrz8mydsLsAtqBBvDjHyZgEQFh8eqEVk7uzDtpump",
-   0.156,
-   9.6,
-   "buyers=6; top5_hold_most=98%"
+   "YIN-YANG",
+   "H2bZeJwfV9PjwyRo3CHh2tQL1S8MdWkCfG4ZpXwcpump",
+   0.1,
+   2.6,
+   ""
   ],
   [
    "CTO",
    "8e6b2YwZcaxQ4Y4LnbUdiqR5WtoGnVRMUVaWAaeB8n9M",
    0.08,
-   4.3,
-   ""
-  ],
-  [
-   "Cluvicular",
-   "FcG6zEeiY5anq64CX7s8d7J1VxDQA3ydgXoMVDei2cx6",
-   0.075,
-   4.7,
+   5.3,
    ""
   ],
   [
    "CBF",
    "5xHhgGNqSuE9EmeqBcTx2N6gX6B7zRrkNpXGuLyxpump",
    0.07,
-   3.4,
+   4.4,
    ""
-  ],
-  [
-   "PANIC",
-   "A59RaoGD6ypr5pWt9y5EroG4grYW6cHxnp6g36TLpump",
-   0.065,
-   4.1,
-   "top5_hold_most=89%"
   ],
   [
    "Squeeze",
    "256bBVUWV1DPzFjcxippNwQteyupSW6gZ2ri6Cf4pH1d",
-   0.06,
-   2.3,
-   "buyers=5; top5_hold_most=100%"
+   0.056,
+   3.3,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "PANIC",
+   "A59RaoGD6ypr5pWt9y5EroG4grYW6cHxnp6g36TLpump",
+   0.049,
+   5.1,
+   "top5_hold_most=89%"
+  ],
+  [
+   "PERISCOPE",
+   "FNE9scZWH6euWSUZqTK799eALTdxREUpqzZ1Cg6Fpump",
+   0.033,
+   7.0,
+   ""
+  ],
+  [
+   "$\ud83d\udcb0",
+   "E851KGKUSaG4CVX7FjWq7GtP8KtnsjcHkZXRSUWopump",
+   0.02,
+   7.1,
+   ""
   ]
  ]
 }
