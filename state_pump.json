@@ -7006,84 +7006,84 @@
    32.58
   ],
   [
-   "2026-10-30T11:53:50",
+   "2026-10-30T11:54:49",
    32.58
   ]
  ],
- "cycles": 3438,
+ "cycles": 3439,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.6054761049434,
- "watching": 334,
+ "sol_usd": 93.8697,
+ "watching": 346,
  "near": [
   [
    "SEED",
    "3BSaLf3yCzW85CrfMHeBYDVYxSx8fywHQRHqGVaBpump",
-   0.585,
-   2.9,
+   0.638,
+   3.9,
    ""
   ],
   [
    "Monko",
    "Du5LahMYKeF6RUvjmPbjQ4LjjBXbh7dkWaLtpJSkpump",
-   0.564,
-   3.0,
-   "buyers=7; creator=43.9%; top5_hold_most=100%"
-  ],
-  [
-   "MEMESTOCK",
-   "GdShJUUMY1W6VYKgQ4EKVr9VcyVnNHkNrGAvCJxSpump",
-   0.155,
-   3.8,
-   ""
+   0.573,
+   4.0,
+   "creator=43.9%; top10=45.4%; top5_hold_most=99%"
   ],
   [
    "CWCH",
    "8hZUKbN9tYeqU7vtCyaB3vwCdohfuyZBeXtEqx2jdwW1",
-   0.129,
-   5.7,
+   0.214,
+   6.7,
    "buyers=6; top5_hold_most=96%"
   ],
   [
-   "S&P500",
-   "DrbtmXk1Y5WLGUC9hxBFPyRDoRnozoTEzTxn6Bz6ZqFb",
-   0.108,
-   3.9,
+   "MEMESTOCK",
+   "GdShJUUMY1W6VYKgQ4EKVr9VcyVnNHkNrGAvCJxSpump",
+   0.161,
+   4.8,
    ""
   ],
   [
-   "slut",
-   "CHuh6HqEzpFSE3VkNsu6LumhG4bSw1w49qtN7fY1pump",
-   0.105,
+   "CHIP",
+   "36o9ksATaitnhLbkMuQ8Xm5v3C2QjZfiqGaXoiaTpump",
+   0.121,
    2.6,
-   "buyers=3; top5_hold_most=100%; bundled_launch=4 extra buys in creation block"
-  ],
-  [
-   "MEMESTOCK",
-   "7mwcbYn5ZZ5UyfcTu2xuaZr45NzNW2Kch83JkrAQpump",
-   0.099,
-   2.3,
    ""
   ],
   [
    "MEMESTOCK",
    "CzCgX79iGspPXtbmHYxVzHptq5VzDnNoJcN8ecGapump",
-   0.097,
-   2.5,
+   0.12,
+   3.4,
    ""
   ],
   [
-   "PILL",
-   "9bixQ5gyVA8kY8DqTeB5B8ccNJ7FQHywbCvC6CyDpump",
-   0.072,
-   4.7,
+   "S&P500",
+   "DrbtmXk1Y5WLGUC9hxBFPyRDoRnozoTEzTxn6Bz6ZqFb",
+   0.108,
+   4.9,
    ""
   ],
   [
-   "SRUNNER",
-   "781QzGLT59dgR6TXcRSyWp4NJQYsZanebZuyT9M2pump",
-   0.057,
-   4.5,
-   "buyers=4; top5_hold_most=100%"
+   "ELONSTOCK",
+   "8fiXv1Csn4f4opyepGN5amexL1Tu5wSTWvULjXdWpump",
+   0.107,
+   2.6,
+   ""
+  ],
+  [
+   "MEMESTOCK",
+   "7mwcbYn5ZZ5UyfcTu2xuaZr45NzNW2Kch83JkrAQpump",
+   0.099,
+   3.3,
+   ""
+  ],
+  [
+   "CHIP",
+   "9NHNG6tNHWGkN7DBVd3JYDXb7BjqxF3KJ4KhB62mpump",
+   0.091,
+   2.4,
+   ""
   ]
  ]
 }
