@@ -6922,83 +6922,83 @@
    32.58
   ],
   [
-   "2026-10-30T08:37:48",
+   "2026-10-30T08:38:45",
    32.58
   ]
  ],
- "cycles": 3242,
+ "cycles": 3243,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.41270779404998,
- "watching": 212,
+ "sol_usd": 94.41692170255001,
+ "watching": 222,
  "near": [
   [
    "DODGY",
    "6GvMiTJ1RmezLh57uXEEkbDkoqnvpZvtV2AfFN4jLgHc",
-   0.815,
-   2.6,
+   0.768,
+   3.6,
    ""
   ],
   [
    "Original",
    "F6tuK8VKLbVryiZbH5wbyAp7RitDjwmaExVexoQwpump",
-   0.568,
-   7.4,
+   0.675,
+   8.3,
    ""
   ],
   [
    "NB",
    "FfHTwVy5CciEqKyRqSdqdR6DSi5LUP4X3B3sTc4npump",
-   0.534,
-   3.8,
-   "creator=40.1%; top5_hold_most=98%"
-  ],
-  [
-   "RLY",
-   "4TEfYeA1QZVsXZErxjsPYuarTE9H6dPLAtBBPgaMuRLY",
-   0.349,
-   2.7,
-   "bundled_launch=3 extra buys in creation block"
+   0.625,
+   4.8,
+   "creator=41.4%; top10=47.6%; top5_hold_most=91%"
   ],
   [
    "TONY",
    "9ZYebz24k7a2hrwT7GWwJLwnT5UtVfqAvxWVbYRjpump",
    0.277,
-   4.8,
+   5.7,
    "top5_hold_most=88%"
   ],
   [
    "TWICE",
    "8XPmfFjMK7pMsYYZtrzmkYZ7gAdGcCxDtXqfQPfUpump",
-   0.079,
-   2.2,
+   0.08,
+   3.1,
    "buyers=1; top5_hold_most=100%"
   ],
   [
    "COW",
    "6qjdddbkvjAfz5RZWYSEubcdoR3Wakouo2GefHdJpump",
    0.074,
-   2.4,
+   3.3,
    ""
   ],
   [
    "FlipFlop",
    "1Kw155EehtcLQzwPvL8pdihWnjHSQv9tNoGryR8pump",
    0.074,
-   2.9,
+   3.9,
    ""
   ],
   [
    "DODGY",
    "64wrGYgqNtm8ttBF3YXnHqfi6ZPQ94AaSsi5cYxgpump",
    0.074,
-   3.7,
+   4.6,
    ""
   ],
   [
    "DODGY",
    "2bYreoL7guwBPSCVUjhAbSWenKuvaoqEQBQhfcmsAvEL",
    0.073,
-   3.1,
+   4.1,
+   ""
+  ],
+  [
+   "DODGY",
+   "GRokvGss9Zw1ZYwxGA7T55GGar3zAse6WeULdJbBpump",
+   0.071,
+   5.0,
    ""
   ]
  ]
