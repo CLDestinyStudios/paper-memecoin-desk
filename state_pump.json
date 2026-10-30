@@ -6570,83 +6570,83 @@
    32.58
   ],
   [
-   "2026-10-29T18:52:14",
+   "2026-10-29T18:53:13",
    32.58
   ]
  ],
- "cycles": 2418,
+ "cycles": 2419,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 93.63932664545,
- "watching": 165,
+ "sol_usd": 93.735,
+ "watching": 162,
  "near": [
+  [
+   "LATIC",
+   "FRjoTzDAznAKnJvkbGPbMTR63nGWDDnnrBNzCnYnpump",
+   0.954,
+   2.3,
+   ""
+  ],
   [
    "ZERODAY",
    "AS3C2NBuLq8Nrx5gxgStSAwgXwTts4GroDnvGGuupump",
-   0.305,
-   6.0,
+   0.372,
+   7.0,
    "buyers=4; creator=18.6%; top5_hold_most=100%"
   ],
   [
-   "VYNEX",
-   "EE7U8gybkhtc1GyU9U7wwKsyj8egEitMzB2zjnqhpump",
-   0.197,
-   2.8,
-   "bundled_launch=6 extra buys in creation block"
+   "LATIC",
+   "3WmeaRVjSWyw8kthfbDbWSDNu1iNQBhq8ueuMAA7pump",
+   0.285,
+   2.7,
+   ""
   ],
   [
-   "HOE",
-   "2MqNP183umoVpMkQfLWi7VeFdyXK4oC6a62PUjd1pump",
-   0.073,
-   3.8,
+   "Blackout",
+   "7g1UPMxAwtBwULg6fXGNSCsn9qVp2tjof77QYefLpump",
+   0.108,
+   2.1,
    ""
   ],
   [
    "GROKBET",
    "EriAhyM5R9qGUusK4G4QWYyYcB88pS3Lh14Wpgrfpump",
    0.071,
-   5.0,
+   5.9,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "nyancat",
    "2VdBG87e2mMVZK4tWMr2ixyhJpwj65MJ8FGbKV1zpump",
    0.043,
-   7.4,
+   8.4,
    ""
   ],
   [
    "nbfuewiow",
    "DboKDncjGgj47WPmEF5yqnAK4QXmxcFvqmEarz5Rpump",
    0.042,
-   8.5,
+   9.5,
    ""
   ],
   [
-   "LeSong",
-   "8asPiXcG5SVtW41xR9HEEqxpThLCAz6zHMC2f681pump",
-   0.039,
-   9.5,
+   "HODOGE",
+   "9n6J1iLKn6YpPtqPbzjQjRwsMzZsNw4Mkjb8p74Epump",
+   0.027,
+   3.7,
    ""
   ],
   [
    "Hoe",
    "QDdoj6y426gvHsP7vQULXmopHQrtpSQezXD5YPMpump",
    0.026,
-   5.1,
-   ""
-  ],
-  [
-   "HODOGE",
-   "9n6J1iLKn6YpPtqPbzjQjRwsMzZsNw4Mkjb8p74Epump",
-   0.025,
-   2.7,
+   6.1,
    ""
   ],
   [
    "CONSOLE",
    "fvLQgeiwELUMCnc6YWFLw2P81UkXSCVCv6otuVPpump",
    0.024,
-   2.7,
+   3.7,
    ""
   ]
  ]
