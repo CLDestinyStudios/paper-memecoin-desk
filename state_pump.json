@@ -6762,83 +6762,83 @@
    32.58
   ],
   [
-   "2026-10-30T02:29:47",
+   "2026-10-30T02:30:45",
    32.58
   ]
  ],
- "cycles": 2875,
+ "cycles": 2876,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.772435927,
- "watching": 252,
+ "sol_usd": 96.75337476475,
+ "watching": 244,
  "near": [
   [
    "SAFU",
    "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
-   0.904,
-   6.6,
+   0.918,
+   7.6,
    ""
-  ],
-  [
-   "CZ",
-   "5Vc78jBX9vcNEMNsz9Vgzev8gx2yhbsoUNBdMEbFpump",
-   0.659,
-   2.2,
-   "serial_creator=7 launches/24h"
-  ],
-  [
-   "FLOAT",
-   "8uGEg4TpoMyiRYYY3WyhHJDF1SfSC3Kpr2vwaWGTpump",
-   0.159,
-   9.3,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "BUFF",
    "7mVzrz8mydsLsAtqBBvDjHyZgEQFh8eqEVk7uzDtpump",
    0.156,
-   7.6,
+   8.6,
    "buyers=6; top5_hold_most=98%"
   ],
   [
    "PANIC",
    "A59RaoGD6ypr5pWt9y5EroG4grYW6cHxnp6g36TLpump",
-   0.135,
-   2.1,
-   ""
+   0.099,
+   3.1,
+   "top5_hold_most=89%"
   ],
   [
    "CTO",
    "8e6b2YwZcaxQ4Y4LnbUdiqR5WtoGnVRMUVaWAaeB8n9M",
-   0.082,
-   2.3,
+   0.08,
+   3.3,
    ""
   ],
   [
    "Cluvicular",
    "FcG6zEeiY5anq64CX7s8d7J1VxDQA3ydgXoMVDei2cx6",
    0.075,
-   2.8,
+   3.7,
+   ""
+  ],
+  [
+   "CBF",
+   "5xHhgGNqSuE9EmeqBcTx2N6gX6B7zRrkNpXGuLyxpump",
+   0.07,
+   2.4,
    ""
   ],
   [
    "CTO",
    "5wtzRxbD7C6ZLT7s7USwD6o5aicZvutaSKz5mxS7pump",
    0.054,
-   8.5,
+   9.5,
    "buyers=2; top5_hold_most=100%"
   ],
   [
    "CHIGGA",
    "6GJJSiozL3XkYHfFaC6jdMhcX2kymhN371SuGgR6pump",
    0.04,
-   8.7,
+   9.6,
    ""
   ],
   [
    "PERISCOPE",
    "FNE9scZWH6euWSUZqTK799eALTdxREUpqzZ1Cg6Fpump",
    0.033,
-   4.0,
+   5.0,
+   ""
+  ],
+  [
+   "$PAW",
+   "BpaA9BaYH8tX3eoriprYWmsEVqHcoBsXAh73C9yDpump",
+   0.021,
+   9.7,
    ""
   ]
  ]
