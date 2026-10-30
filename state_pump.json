@@ -6782,83 +6782,83 @@
    32.58
   ],
   [
-   "2026-10-30T03:15:45",
+   "2026-10-30T03:16:45",
    32.58
   ]
  ],
- "cycles": 2921,
+ "cycles": 2922,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.25185521655,
- "watching": 175,
+ "sol_usd": 96.29309494357447,
+ "watching": 180,
  "near": [
+  [
+   "WTE",
+   "co8939Zjp3m25TcMXyH7QdPdGQS3aBqYrYud1HR7Kuy",
+   0.749,
+   2.8,
+   "serial_creator=21 launches/24h"
+  ],
   [
    "DATAR",
    "4fWJEa8vSj3FaPxLPwARLiG1EbVVwt3CCoCBZheSpump",
-   0.295,
-   4.2,
+   0.213,
+   5.2,
    "top5_hold_most=90%"
-  ],
-  [
-   "ELON",
-   "DbGkw74qtsZH2V5kiYRUtBGUUUXwriiQ7k79hHSMpump",
-   0.108,
-   5.5,
-   ""
-  ],
-  [
-   "ASS",
-   "GmKo9JQ92FGdywFNbmyppUmiEmgMr6TsQPYtF3ebpump",
-   0.088,
-   4.6,
-   ""
   ],
   [
    "ROADMAP",
    "4NQwBjamTe6KuJRYMEvCp2XQHwKAeUeGdjUfTJEmpump",
-   0.084,
-   4.8,
+   0.114,
+   5.8,
    "buyers=1; top5_hold_most=100%"
   ],
   [
-   "CZ",
-   "5y2LHPdbBrhMox9VMQ9D8LXU4dwkTzuniqE7Ukyhpump",
-   0.071,
-   2.8,
+   "Ghost",
+   "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
+   0.048,
+   4.5,
    ""
   ],
   [
-   "PHYPER",
-   "Anicv7HpMpKagJQU7RnUfuFKiwdgCCPbPJ467xy8pump",
-   0.039,
-   4.7,
+   "PnutCall",
+   "GcnMDZifUJRTW9RiBW8mnVUCV9kN5VBYb21A3XNFpump",
+   0.035,
+   2.8,
    ""
   ],
   [
    "ELONCZ",
    "7yggxnhwGG8QbCc3VbJrqEZY7d8HvYxh4Ek3u9iwpump",
    0.029,
-   2.1,
+   3.1,
+   ""
+  ],
+  [
+   "HRD",
+   "EPkpr81p71DZYypxrFqZh69x1s2mNkHm4Jy8UGPLpump",
+   0.025,
+   2.6,
    ""
   ],
   [
    "honeypot",
    "AMEzMWAfptCPWUjjJJ4X2Y2MVG786dpioEMru5wT4QkW",
    0.023,
-   3.6,
+   4.6,
+   ""
+  ],
+  [
+   "Squeeze",
+   "H9KyVfnckaM1hSBvHzSW7uFDnizJW71JQ6iu62EPQr6D",
+   0.022,
+   2.2,
    ""
   ],
   [
    "Hyperplex",
    "4e7EShCUrUzc7HYog7fGFQCserFK3r7e3zSdeEsTpump",
    0.022,
-   6.3,
-   ""
-  ],
-  [
-   "Ghost",
-   "27L3fCkmDTjsrfM7WUrZeFFXfUyhs3344RHKUwHbpump",
-   0.017,
-   3.5,
+   7.3,
    ""
   ]
  ]
