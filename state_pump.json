@@ -6626,83 +6626,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:05:18",
+   "2026-10-29T21:06:24",
    32.58
   ]
  ],
- "cycles": 2551,
+ "cycles": 2552,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.61482504955,
- "watching": 222,
+ "sol_usd": 96.59003361559999,
+ "watching": 200,
  "near": [
-  [
-   "HYPR",
-   "HGXEwihjf82u5JSKSrmspMirbEQqYXCR61hk5uhupump",
-   0.627,
-   5.6,
-   ""
-  ],
   [
    "MEMO",
    "33C6dzoLhk3Zzkgm6NFsrGnmUVvr2k2BY8ffZLHv635J",
-   0.488,
-   4.3,
+   0.526,
+   5.4,
    ""
   ],
   [
    "HYPE67",
    "B1payXQSw2V6otKC7QqKjabmmvcn2A5MvdzVuRMRpump",
-   0.389,
-   7.3,
+   0.408,
+   8.4,
    "creator=20.1%"
   ],
   [
-   "Anti-LLM",
-   "C33pNmQzJusU4YR8XpS4iCs4JopQPBnKsQfd4uGHpump",
-   0.146,
-   2.5,
+   "POKE",
+   "Cqhp5v23pEueV36zC1tersdt2TQ8vjFHuhsg7CWapump",
+   0.194,
+   2.9,
+   "buyers=9; top5_hold_most=96%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "HYPR",
+   "HGXEwihjf82u5JSKSrmspMirbEQqYXCR61hk5uhupump",
+   0.157,
+   6.7,
    ""
+  ],
+  [
+   "PATIENCE",
+   "4E1DADTvgQpLpSQV8EuU4qZMiDJqUP6mdp6CQB7yiyiQ",
+   0.138,
+   2.6,
+   ""
+  ],
+  [
+   "LCAT",
+   "HChfSMyubLwHBWWSrPV9oDWKhXVEHD9m1PBWSpUgpump",
+   0.136,
+   2.6,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ],
   [
    "GTAPA",
    "Bi89UiKWNAS1WCbqnL2dA8cxgwXQW9kB7v4Nq745pump",
    0.083,
-   2.3,
+   3.4,
    ""
   ],
   [
    "FLEW",
    "H7EAFaUH9nMBPchYtt4sFcLLsnUx74EbXMdJjHwGpump",
    0.083,
-   3.9,
+   5.0,
    ""
   ],
   [
    "drained",
    "EFLEgip2UribotYbWySVvsy5jyso66ZZ1ACFurWHpump",
    0.081,
-   2.3,
-   ""
-  ],
-  [
-   "DAVID",
-   "12LxuuU1j4feyuwKy61iACbYdBo15QAUcwKMmaQzpump",
-   0.065,
-   7.7,
-   ""
-  ],
-  [
-   "AI",
-   "D4FGsAcJifPtnan9rrMkQqsUqpJvUQVNXqLG4DT6pump",
-   0.064,
-   8.6,
+   3.4,
    ""
   ],
   [
    "drained",
    "9NncY4WVrekXcTWAnyeced1CF9Ss7SdS2xCFBmKNpump",
    0.064,
-   2.7,
+   3.8,
    ""
   ]
  ]
