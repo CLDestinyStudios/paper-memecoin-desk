@@ -6654,83 +6654,83 @@
    32.58
   ],
   [
-   "2026-10-29T22:15:24",
+   "2026-10-29T22:16:22",
    32.58
   ]
  ],
- "cycles": 2621,
+ "cycles": 2622,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.51891563135001,
- "watching": 157,
+ "sol_usd": 97.59000000000002,
+ "watching": 156,
  "near": [
+  [
+   "STABLEPAD",
+   "AABM3NrYSwKMsEDyanuskY43EH6ySbPpdPZNG1u7pump",
+   0.681,
+   2.3,
+   "bundled_launch=3 extra buys in creation block"
+  ],
   [
    "Dividend",
    "BX25CJmLmjBJoNBBEpJ2uzCv6mgfJbRDY5dnF3pJpump",
-   0.357,
-   5.1,
+   0.26,
+   6.0,
    "top5_hold_most=82%"
-  ],
-  [
-   "ZERODAYBOT",
-   "HbifskpNgaS9geGLkpp98h5xAjzxriWmJdd4pyRopump",
-   0.146,
-   4.1,
-   "top5_hold_most=96%"
   ],
   [
    "AGENT",
    "AyaTvydf6VT39LB92R8T8CfdTfkCEgQK4NqCG4KQpump",
-   0.139,
-   2.3,
-   "buyers=2; top5_hold_most=100%"
+   0.162,
+   3.2,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "ZERODAYBOT",
+   "HbifskpNgaS9geGLkpp98h5xAjzxriWmJdd4pyRopump",
+   0.135,
+   5.0,
+   "top5_hold_most=93%"
   ],
   [
    "OPTIMISM",
    "5twv6knJ9rdNYaqkUUP546jcZNcyFrwzbFG451wYpump",
    0.091,
-   8.9,
+   9.8,
    ""
   ],
   [
-   "CEEZEE",
-   "9SG9EXiBBNS1qehVCvhMroLnW7fH9hsqjL5BQ7XMpump",
-   0.082,
-   5.0,
-   ""
+   "SI",
+   "FwDwZJTgScbP8eTKP21wxyWx8eGCYBkWigk94Vtupump",
+   0.085,
+   2.7,
+   "top5_hold_most=94%"
   ],
   [
    "virus",
    "Gx5fzdnFVXHXRZpP6x2rTwQtgM7EBQTDSnfoLhk7cN9N",
    0.079,
-   5.2,
+   6.2,
    ""
   ],
   [
-   "e/acc",
-   "5u2CCiZ6CaR4mTSUq7VT723WfzKQjwbwcwGzmTdc2LQt",
-   0.063,
-   2.9,
-   ""
-  ],
-  [
-   "P/Acc",
-   "6D5rrUXsLw3qgsdrCHthkJJrrBarHtwVC2LU2Y8TT171",
-   0.043,
-   9.7,
+   "CEEZEE",
+   "9SG9EXiBBNS1qehVCvhMroLnW7fH9hsqjL5BQ7XMpump",
+   0.059,
+   6.0,
    ""
   ],
   [
    "virus",
    "BXsSuomXnCfc3sv4gaQ9kL12PjQczo1zkua4Y7Egpump",
    0.041,
-   4.6,
+   5.6,
    ""
   ],
   [
    "ElonsDoge",
    "4r74wn2uwoVF3nygyVXxGnp9MQ43MykYTRsDdZ54pump",
    0.039,
-   4.5,
+   5.5,
    ""
   ]
  ]
