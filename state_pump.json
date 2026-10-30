@@ -7050,84 +7050,84 @@
    32.58
   ],
   [
-   "2026-10-30T13:38:57",
+   "2026-10-30T13:39:51",
    32.58
   ]
  ],
- "cycles": 3543,
+ "cycles": 3544,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 94.90643098845001,
- "watching": 257,
+ "sol_usd": 94.92200599330002,
+ "watching": 251,
  "near": [
+  [
+   "SXSI",
+   "HeNr6UPAGE7xU4fWhPY9EJXfgnEQQQqtkNuc8dJ6pump",
+   1.0,
+   2.6,
+   "graduated"
+  ],
   [
    "SSI",
    "6q3CGrSHFjZafNpqTE1yGkUmAGBj9qEcXamrYjL1pump",
-   0.774,
-   3.7,
+   0.736,
+   4.6,
    ""
   ],
   [
    "PinterestGPT",
    "2wbWRmuCMtGhUHhUD2x4V4u4p9UecqTojE5Pjva5pump",
-   0.677,
-   7.3,
+   0.519,
+   8.2,
    ""
-  ],
-  [
-   "TUSK",
-   "BUT3R9B3BcVSN2tuv2AxHwGcYwBG8GzVmL7t73yvpump",
-   0.388,
-   9.7,
-   "serial_creator=10 launches/24h"
   ],
   [
    "bestCode",
    "8CLYH7rsbcjSBXgyyVPoPcXTmqrEs37H7q9fBiyQpump",
    0.189,
-   2.2,
+   3.1,
    "buyers=7"
   ],
   [
    "ANTIBODY",
    "8uEmrnbzQKH4sbiXbq7d1ujVpRsezHCsS3eDmcapacrW",
    0.156,
-   3.8,
-   ""
-  ],
-  [
-   "SXSI",
-   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
-   0.107,
-   3.4,
+   4.7,
    ""
   ],
   [
    "PinterestGPT",
    "FvWCh8VZFqMUXVfP1Myi3B4pyN69akUtE4BMW8DRpump",
    0.107,
-   7.8,
+   8.7,
+   ""
+  ],
+  [
+   "SXSI",
+   "9qx3JWhaSNAkajDus3GnPjaRc12ENosDvkMkY7Jhpump",
+   0.099,
+   4.3,
    ""
   ],
   [
    "LAMA",
    "AZDp8BkzPH64oLXrLirCfrk1NM9Sv4Lyyegwoz82pump",
    0.085,
-   6.5,
+   7.4,
    "buyers=8; top5_hold_most=98%"
-  ],
-  [
-   "Coup",
-   "FL2bCPPsYmXASERK38sKWorCfVNawugKEvmVyaZypump",
-   0.085,
-   2.3,
-   "buyers=3; top5_hold_most=100%"
   ],
   [
    "SXSI",
    "4aFo3qVKK9dpfoG3ytHwLwJgNgtdi8aUZNfMR6Hhpump",
    0.084,
-   2.7,
+   3.6,
    ""
+  ],
+  [
+   "Walker",
+   "Ght1xFrKsXrYey3NnVv9Wi5YYuU4uFtWdS5JPNCKpump",
+   0.084,
+   5.9,
+   "buyers=2; top5_hold_most=100%"
   ]
  ]
 }
