@@ -6880,82 +6880,86 @@
   [
    "2026-10-30T07:00:04",
    32.58
+  ],
+  [
+   "2026-10-30T07:01:05",
+   32.58
   ]
  ],
- "cycles": 3145,
+ "cycles": 3146,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 95.12165398695001,
- "watching": 207,
+ "sol_usd": 94.91,
+ "watching": 205,
  "near": [
   [
-   "JAPRO",
-   "AhZ8zooajNLviR7Etony5yEgyXLUnuQ15zCEpNMepump",
-   0.759,
-   10.0,
-   "top10=52.4%; top5_hold_most=99%"
+   "SLASHER",
+   "4nPUstVLuxLLGfynKPDFCZrSajW7neAYkaFUgzxepump",
+   0.172,
+   2.8,
+   "buyers=8; top5_hold_most=88%"
+  ],
+  [
+   "catdog",
+   "7yUiDFE2Uf22uTwTykcbLRzvNyUQ3EP9R1f5emiJpump",
+   0.153,
+   2.6,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "CLAVA",
    "2wDzQFvRFgTwSNekwQSqd8g5vKCjZ8BD4Yc3aHPgpump",
-   0.157,
-   2.9,
-   "top5_hold_most=83%"
-  ],
-  [
-   "KIM",
-   "5NGwWpKFjJp3fTmCinEyfZ4gtNBwfj1cDzkZ4AdBpump",
-   0.11,
-   9.9,
-   "buyers=4; top5_hold_most=100%"
+   0.134,
+   3.9,
+   "top5_hold_most=91%"
   ],
   [
    "MELT",
    "CAcByRG2kA7v42opbce22mZNi2i3BCKZxytgDjDFpump",
    0.109,
-   8.4,
+   9.5,
    "buyers=6; top5_hold_most=100%"
   ],
   [
    "JAPRO",
    "4Eqm3MxyNTihjqn5VVXt5JB8Zz4q4wSpE2ViQRiEpump",
    0.104,
-   4.5,
+   5.5,
+   ""
+  ],
+  [
+   "Claude",
+   "GF1vUivQtPJqSJuh71Usd7XRSyUHZmXWo7LWDim6pump",
+   0.098,
+   2.3,
    ""
   ],
   [
    "SPACE MEME",
    "DtVqHB2m6ferE8bX4zowNB8CHJf4YkHyDcJ3rcxepump",
    0.084,
-   6.5,
+   7.5,
    "buyers=4; top5_hold_most=100%"
-  ],
-  [
-   "Gruffalo",
-   "6Gm23QdnweKd7y8oPYyAiQKQyoRKpziX3jUmV8pRpump",
-   0.082,
-   3.6,
-   ""
   ],
   [
    "DRIZZL",
    "6jjnDqij76eGQragYKrSxysMoa5b4mN1q8kRx7Mspump",
    0.08,
-   6.7,
+   7.7,
    "buyers=3; top5_hold_most=100%"
   ],
   [
    "11/13",
    "GFH39twcd6Ag9wpjp8E8ib4FT4WAboUy1xnKzsTYpump",
    0.072,
-   2.3,
+   3.3,
    "buyers=2; top5_hold_most=100%"
   ],
   [
-   "11/13",
-   "GGk7sQyoZoH1cXfgxFHwdm3FcZnxKvmXnU1KyLsapump",
-   0.064,
-   5.3,
-   ""
+   "BLACK",
+   "8pcEeDAPnSbPfchvzGHXsb4mHezTwo5tVL66hYz2CEsv",
+   0.071,
+   2.1,
+   "buyers=1; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
   ]
  ]
 }
