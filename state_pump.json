@@ -6634,83 +6634,83 @@
    32.58
   ],
   [
-   "2026-10-29T21:27:18",
+   "2026-10-29T21:28:21",
    32.58
   ]
  ],
- "cycles": 2573,
+ "cycles": 2574,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 96.98000000000002,
- "watching": 180,
+ "sol_usd": 97.135,
+ "watching": 183,
  "near": [
   [
    "TraderTraito",
    "3XLTWYyHxpAdbP1fjfTz9TBZp9Dhq4A6KWNarHMkGHQb",
-   0.889,
-   3.4,
+   0.865,
+   4.5,
    ""
+  ],
+  [
+   "TraderTrai",
+   "HFF7uvAexQqu8zpKMCErqtFP1QiJvHRCbci8jFjnpump",
+   0.19,
+   2.6,
+   "buyers=8; top5_hold_most=99%; bundled_launch=4 extra buys in creation block"
+  ],
+  [
+   "HYPERCHAN",
+   "7h5sG8wxF4DSjNM4nF5n7MHtiVNXTyt3SK89ShdztaPK",
+   0.137,
+   2.7,
+   "buyers=9; top5_hold_most=97%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "TraderTraito",
+   "3xTgz9NaNMHuaz7qUHUW49N3Su7QRgH2zdUijxCfpump",
+   0.11,
+   2.8,
+   "buyers=5; top5_hold_most=100%"
   ],
   [
    "theovan ",
    "3EnCptWGMgTkRbTx3KuoyHYwZz5B1kzBtWs2nZjbpump",
-   0.398,
-   6.5,
-   ""
-  ],
-  [
-   "CSI",
-   "A81MNx6VrAEATiTvKqk6pQdVg5dzoZte75PAFcLQpump",
-   0.268,
-   2.6,
-   ""
-  ],
-  [
-   "RAYPAD",
-   "9Qk6N9SGKhXGZZFjiUVGaAkWWW1omL9r9DpvZMxzpump",
-   0.125,
-   6.6,
-   "buyers=8; top5_hold_most=99%"
+   0.102,
+   7.5,
+   "top5_hold_most=95%"
   ],
   [
    "TraderTraito",
-   "5QMfWmRipNCV1bD4bP887ayAS1CJKYdtbXA3a2pfpump",
-   0.112,
-   3.1,
-   ""
-  ],
-  [
-   "TT",
-   "4wKNaS64AE8qXCfVyTAMxSqhZJcWtaRzXDJTMiMApump",
-   0.089,
-   5.8,
-   "buyers=3; top5_hold_most=100%"
-  ],
-  [
-   "TraderTraito",
-   "HVMLJLrwLNK3KNYewpWYSKRr22QHmECAMb5dqT81pump",
+   "HcR9rFvxCi15Ah9HJBUQUUYJSxZBkrC2M9KyjG4Lpump",
    0.075,
-   4.7,
+   2.2,
    ""
   ],
   [
    "DRAGONED",
    "75pmJo2nuWW92tjFFWmBTU6NZYS3GjESndHJ4EWGpump",
    0.074,
-   2.7,
+   3.7,
    ""
   ],
   [
    "AIDEN",
    "7UUPvyTpu7mxqkRQoERd2c2RN8a35jKYPjQL4nJzpump",
    0.071,
-   4.0,
+   5.1,
    ""
   ],
   [
-   "DFG",
-   "BQiwApWha6bii32KSF7GNhKgku2Nb6u8THw16Bd9pump",
-   0.064,
-   4.9,
+   "TT",
+   "4wKNaS64AE8qXCfVyTAMxSqhZJcWtaRzXDJTMiMApump",
+   0.066,
+   6.9,
+   "buyers=3; top5_hold_most=100%"
+  ],
+  [
+   "CSI",
+   "A81MNx6VrAEATiTvKqk6pQdVg5dzoZte75PAFcLQpump",
+   0.046,
+   3.6,
    ""
   ]
  ]
