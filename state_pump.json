@@ -6742,83 +6742,83 @@
    32.58
   ],
   [
-   "2026-10-30T01:36:47",
+   "2026-10-30T01:37:46",
    32.58
   ]
  ],
- "cycles": 2822,
+ "cycles": 2823,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.00063840894998,
- "watching": 164,
+ "sol_usd": 97.09000000000002,
+ "watching": 157,
  "near": [
   [
    "KOHLER",
    "77NYf8ckM2HZNHLsZ59Jv1XkJ4tFqrE7Pp3geK5Fpump",
-   0.523,
-   2.2,
+   0.476,
+   3.2,
    ""
   ],
   [
    "SaturdayNigh",
    "kpVYEZoXVaHfQLZ75uiqw7Rm1rWME9mEK9vxp7Hpump",
-   0.175,
-   3.6,
-   ""
+   0.328,
+   4.6,
+   "serial_creator=10 launches/24h"
   ],
   [
    "REVGOOSE",
    "A8Un4GZ7YxSjMg3DBZAVYbQfCtgAdxKLWyN1S5oFpump",
-   0.104,
-   4.7,
+   0.081,
+   5.6,
    "buyers=3; top5_hold_most=100%"
   ],
   [
-   "ROCKET",
-   "5vYLbzMjPihZ3ZD6vvYCRUxNJJiivHAXSZcBYKbqpump",
-   0.093,
-   7.0,
-   ""
+   "HYPEZERO ",
+   "5H6EAokL4E6ihzkDnS9R8Lssa2zwTz7RJ99m3FiNpump",
+   0.069,
+   2.5,
+   "buyers=4; top5_hold_most=100%; bundled_launch=3 extra buys in creation block"
+  ],
+  [
+   "DOOMSDAY",
+   "C3FLbfZTgqaPM9V7SneQqe6BQ8i2BXDTnQ46UwJzpump",
+   0.064,
+   2.1,
+   "buyers=2; top5_hold_most=100%"
   ],
   [
    "TERP",
    "FkkvcFTxJQwKYD5R6gepjaAKag8ZsKKQAJwV2gojpump",
    0.047,
-   3.4,
+   4.4,
    ""
   ],
   [
-   "TERMINAL",
-   "7ZJWEnqpB4d5jgWRFukAmCkF9uijAmB8ftiib45tvS7V",
-   0.043,
-   9.6,
+   "ROOTLINE",
+   "7gZm1fSRWmf65jS6H6FoZs7QTMGKtxNemGt87SUxpump",
+   0.039,
+   2.4,
    ""
-  ],
-  [
-   "PLUGIN",
-   "BYt4876jNeLh2E4rMQKNum5DMp939x83qjE57o1Npump",
-   0.036,
-   4.6,
-   "top5_hold_most=96%"
   ],
   [
    "KIM",
    "7jKQ9r3HNwhu8VuUnNYRt6vfj8GV8c6bCoKPPfbmpump",
    0.026,
-   4.6,
+   5.6,
    ""
   ],
   [
-   "SAFU",
-   "FCNtRjxdDcjAkyWxsRPcvFzn9uoJ6rKAjAdR3B4Apump",
-   0.018,
-   9.1,
+   "Trumpus",
+   "Dj4mtoiwM78PArs337a5wYp3ZKwAMFZG8eqEcRnrpump",
+   0.022,
+   2.6,
    ""
   ],
   [
-   "SUOW",
-   "BgARja8kS4c4s2Nv8A37QX1p9Y755EpWNote7L7Apump",
+   "ROCKET",
+   "5vYLbzMjPihZ3ZD6vvYCRUxNJJiivHAXSZcBYKbqpump",
    0.016,
-   8.4,
+   8.0,
    ""
   ]
  ]
