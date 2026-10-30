@@ -6750,84 +6750,84 @@
    32.58
   ],
   [
-   "2026-10-30T01:57:46",
+   "2026-10-30T01:58:46",
    32.58
   ]
  ],
- "cycles": 2843,
+ "cycles": 2844,
  "started": "2026-10-28T02:06:49",
- "sol_usd": 97.29751182665,
- "watching": 247,
+ "sol_usd": 97.25583686605,
+ "watching": 270,
  "near": [
   [
    "CD",
    "2ck98s9p7QK1A7KVzcBmeWKSsFXGEhcags5tsJcspump",
-   0.718,
-   6.4,
+   0.642,
+   7.4,
    ""
   ],
   [
-   "PITPAW",
-   "DyA34U2RmHRUjsBe4S53FcdWpAt6XtDmWbbWQNLtpump",
-   0.385,
-   9.7,
-   "top5_hold_most=92%"
+   "inucrypted",
+   "F6ZVz8bMTZvDd8Bjqzmk8RHGgWmJtKYtai9TDJTACTyG",
+   0.266,
+   2.3,
+   "serial_creator=10 launches/24h"
+  ],
+  [
+   "MEMEWORLD",
+   "GH9tDtVstCbSrwGDp6tGCdnCeQiSG426DAfyD3cppump",
+   0.258,
+   2.7,
+   ""
   ],
   [
    "SC",
    "FUjBPNWVze1SqeGJXKWqnkc3zfzGvjmRstTJ6c4kpump",
    0.105,
-   6.3,
+   7.3,
    "buyers=5; top5_hold_most=100%"
   ],
   [
    "CHONK",
    "2Z8KptKcKFo8BqxNjr2jdMFDWzE9JFNAY1mdGgBgTrgs",
    0.096,
-   3.8,
+   4.8,
    ""
   ],
   [
    "memes",
    "4xdbHpHq7wZtdcm8QHTqfeCFywxCcQfvodVj9RA9pump",
    0.09,
-   5.2,
+   6.2,
    "buyers=6; top5_hold_most=98%"
-  ],
-  [
-   "AIMOUSE",
-   "43SwdvFTGoRvP5thnTqSmYHpB97MXasrAnPFbbLKpump",
-   0.076,
-   4.4,
-   "buyers=5; top5_hold_most=100%"
-  ],
-  [
-   "memes",
-   "cvnFYWpgQ31sycVpCcLAz5qeUN4hTMXWnQHWzufpump",
-   0.069,
-   7.6,
-   ""
   ],
   [
    "Ghosted",
    "BPLQYGKDecAzUmMZXD2V6ab3t4qMhXv9RgamM7wepump",
    0.059,
-   5.7,
+   6.7,
+   "buyers=4; top5_hold_most=100%"
+  ],
+  [
+   "AIMOUSE",
+   "43SwdvFTGoRvP5thnTqSmYHpB97MXasrAnPFbbLKpump",
+   0.054,
+   5.4,
    "buyers=4; top5_hold_most=100%"
   ],
   [
    "spineless",
    "4EYh81sMUp9vS8JyqEFzDU4nS5QAs9EzdfjctAxtpump",
    0.043,
-   4.4,
+   5.4,
    ""
   ],
   [
-   "FLOAT",
-   "DEFbWXtefdZJk9fnTBvV6B7CeQP66ecfE4RwsJQMpump",
-   0.037,
-   7.1,
-   "buyers=2; top5_hold_most=100%"
+   "memes",
+   "cvnFYWpgQ31sycVpCcLAz5qeUN4hTMXWnQHWzufpump",
+   0.041,
+   8.6,
+   ""
   ]
  ]
 }
